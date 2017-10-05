@@ -52,8 +52,11 @@
           <person xml:id="Kvashnja" sex="FEMALE">
             <persName>Квашня</persName>
           </person>
+          <person xml:id="Bubnov" sex="MALE">
+            <persName>Бубнов</persName>
+          </person>
           <person xml:id="Klesch" sex="MALE">
-            <persName>Клещ</persName>
+            <persName>Клещ Андрей Митрич</persName>
           </person>
           <person xml:id="Nastja" sex="FEMALE">
             <persName>Настя</persName>
@@ -64,38 +67,35 @@
           <person xml:id="Satin" sex="MALE">
             <persName>Сатин</persName>
           </person>
-          <person xml:id="Vasilisa" sex="FEMALE">
-            <persName>Василиса</persName>
-          </person>
-          <person xml:id="Bubnov" sex="MALE">
-            <persName>Бубнов</persName>
-          </person>
-          <person xml:id="Tatarin" sex="MALE">
-            <persName>Татарин</persName>
-          </person>
-          <person xml:id="Medvedev" sex="MALE">
-            <persName>Медведев</persName>
-          </person>
-          <person xml:id="Kostylev" sex="MALE">
-            <persName>Костылев</persName>
-          </person>
-          <person xml:id="Luka" sex="MALE">
-            <persName>Лука</persName>
-          </person>
-          <person xml:id="Aleshka" sex="MALE">
-            <persName>Алешка</persName>
-          </person>
-          <person xml:id="KrivojZob" sex="MALE">
-            <persName>Кривой Зоб</persName>
-          </person>
           <person xml:id="Akter" sex="MALE">
             <persName>Актер</persName>
+          </person>
+          <person xml:id="Kostylev" sex="MALE">
+            <persName>Михаил Иванов Костылев</persName>
           </person>
           <person xml:id="Pepel" sex="MALE">
             <persName>Пепел</persName>
           </person>
+          <person xml:id="Luka" sex="MALE">
+            <persName>Лука</persName>
+          </person>
           <person xml:id="Natasha" sex="FEMALE">
             <persName>Наташа</persName>
+          </person>
+          <person xml:id="Aleshka" sex="MALE">
+            <persName>Алешка</persName>
+          </person>
+          <person xml:id="Vasilisa" sex="FEMALE">
+            <persName>Василиса Карповна</persName>
+          </person>
+          <person xml:id="Medvedev" sex="MALE">
+            <persName>Медведев</persName>
+          </person>
+          <person xml:id="Tatarin" sex="MALE">
+            <persName>Татарин</persName>
+          </person>
+          <person xml:id="KrivojZob" sex="MALE">
+            <persName>Кривой Зоб</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -114,6 +114,7 @@
           directions are missing in acts 1 and 2</change>
         <change who="#ds" when="2017-08-27">restore missing parts in acts 1, 2 and 3</change>
         <change who="#ff" when="2017-10-03">add missing verse lines; formalities</change>
+        <change who="#ff" when="2017-10-05">corrections</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -127,7 +128,7 @@
         <p>М. Горький</p>
       </div>
       <castList>
-        <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
+        <head>Действующие лица:</head>
         <castItem>Михаил Иванов Костылев, 54 лет, содержатель ночлежки.</castItem>
         <castItem>Василиса Карповна, его жена, 26 лет.</castItem>
         <castItem>Наташа, ее сестра, 20 лет.</castItem>
@@ -2180,6 +2181,7 @@
           <p>Мяли много, оттого и мягок...</p>
           <stage type="delivery">(Смеется дребезжащим смехом.)</stage>
         </sp>
+        <stage>Занавес</stage>
       </div>
       <div type="act">
         <head>Действие второе</head>
@@ -2212,7 +2214,7 @@
           <stage type="delivery">(Сатину).</stage>
           <p>Мешай карта! Хорошо мешай! Знаем мы, какой-такой ты...</p>
         </sp>
-        <sp who="#BubnoviKrivojZob">
+        <sp who="#Bubnov #KrivojZob">
           <speaker>Бубнов и Кривой Зоб</speaker>
           <stage type="delivery">(вместе).</stage>
           <lg>
@@ -3414,13 +3416,13 @@
             руками за косяки, кричит).</stage>
           <p>Старик, эй! Ты где? Я – вспомнил... слушай.</p>
           <stage type="delivery">(Шатаясь, делает два шага вперед и, принимая позу, читает.)</stage>
-          <stage>Наташа является сзади Актера в двери.</stage>
           <lg>
             <l>Господа! Если к правде святой</l>
             <l>Мир дорогу найти не умеет, –</l>
             <l>Честь безумцу, который навеет</l>
             <l>Человечеству сон золотой!</l>
           </lg>
+          <stage>Наташа является сзади Актера в двери.</stage>
           <p>Старик!..</p>
           <lg>
             <l>Если б завтра земли нашей путь</l>
@@ -3685,6 +3687,7 @@
             слышат!..</p>
         </sp>
         <stage>В двери является Лука.</stage>
+        <stage>Занавес</stage>
       </div>
       <div type="act">
         <head>Действие третье</head>
@@ -5060,6 +5063,7 @@
             научила... уговорила... своего любовника... вот он, проклятый! – они убили! Берите их...
             судите... Возьмите и меня... в тюрьму меня! Христа ради... в тюрьму меня!..</p>
         </sp>
+        <stage>Занавес</stage>
       </div>
       <div type="act">
         <head>Действие четвертое</head>
@@ -6067,6 +6071,7 @@
           <stage type="delivery">(негромко).</stage>
           <p>Эх... испортил песню... дур-рак!</p>
         </sp>
+        <stage>Занавес</stage>
       </div>
     </body>
   </text>
