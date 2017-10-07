@@ -56,7 +56,9 @@
           <person xml:id="Petr" sex="MALE">
             <persName>Петр</persName>
           </person>
-
+          <person xml:id="Nikita" sex="MALE">
+            <persName>Никита</persName>
+          </person>
           <person xml:id="Akulina" sex="FEMALE">
             <persName>Акулина</persName>
           </person>
@@ -65,9 +67,6 @@
           </person>
           <person xml:id="Anjutka" sex="FEMALE">
             <persName>Анютка</persName>
-          </person>
-          <person xml:id="Nikita" sex="MALE">
-            <persName>Никита</persName>
           </person>
           <person xml:id="Matrena" sex="FEMALE">
             <persName>Матрена</persName>
@@ -87,7 +86,7 @@
           <person xml:id="Marfa" sex="FEMALE">
             <persName>Марфа</persName>
           </person>
-          <person xml:id="OdinGolosIzNaroda" sex="UNKNOWN" >
+          <person xml:id="OdinGolosIzNaroda" sex="UNKNOWN">
             <persName>Один голос из народа</persName>
           </person>
           <person xml:id="Mitrich" sex="MALE">
@@ -108,14 +107,13 @@
           <person xml:id="VtorajaDevka" sex="FEMALE">
             <persName>2-я девка</persName>
           </person>
-          
           <person xml:id="MuzhMariny" sex="MALE">
             <persName>Муж Марины</persName>
           </person>
-          <person xml:id="Izvozchik" sex="MALE" >
+          <person xml:id="Izvozchik" sex="MALE">
             <persName>Извозчик</persName>
           </person>
-          <person xml:id="Druzhko"  sex="MALE">
+          <person xml:id="Druzhko" sex="MALE">
             <persName>Дружко</persName>
           </person>
           <person xml:id="Svaha" sex="FEMALE">
@@ -139,11 +137,29 @@
       <listChange>
         <change who="#km" when="2017-06-30">converted from source</change>
         <change who="GG" when="2017-07-04">corrected ids, added gender</change>
+        <change who="#km" when="2017-10-06">add epigraph</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
   <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Власть тьмы, или 'коготок увяз, всей птичке пропасть'</titlePart>
+        <titlePart type="sub">Драма в пяти действиях</titlePart>
+      </docTitle>
+    </front>
     <body>
+      <epigraph>
+        <cit>
+          <quote>
+            <p>А я говорю вам, что всякий, кто смотрит на женщину с вожделением, уже
+              прелюбодействовал с нею в сердце своем.</p>
+            <p>Если же правый глаз соблазняет тебя, вырви его и брось от себя, ибо лучше, чтобы
+              погиб один из членов твоих, а не все тело твое было ввержено в геенну.</p>
+          </quote>
+        </cit>
+        <bibl>Мф. V, 28, 29</bibl>
+      </epigraph>
       <div type="act">
         <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
         <castList>
