@@ -45,36 +45,47 @@
         <listPerson>
           <person xml:id="Atueva" sex="FEMALE">
             <persName>Атуева</persName>
+            <persName xml:lang="de">Atueva</persName>
           </person>
           <person xml:id="Tishka" sex="MALE">
             <persName>Тишка</persName>
+            <persName xml:lang="de">Tiška</persName>
           </person>
           <person xml:id="Muromskij" sex="MALE">
             <persName>Муромский</persName>
+            <persName xml:lang="de">Muromskij</persName>
           </person>
           <person xml:id="Lidochka" sex="FEMALE">
             <persName>Лидочка</persName>
+            <persName xml:lang="de">Lidočka</persName>
           </person>
           <person xml:id="Nelkin" sex="MALE">
             <persName>Нелькин</persName>
+            <persName xml:lang="de">Nelʹkin</persName>
           </person>
           <person xml:id="Krechinskij" sex="MALE">
             <persName>Кречинский</persName>
+            <persName xml:lang="de">Krečinskij</persName>
           </person>
           <person xml:id="Fedor" sex="MALE">
             <persName>Федор</persName>
+            <persName xml:lang="de">Fedor</persName>
           </person>
           <person xml:id="Raspljuev" sex="MALE">
             <persName>Расплюев</persName>
+            <persName xml:lang="de">Rasplûev</persName>
           </person>
           <person xml:id="Schebnev" sex="MALE">
             <persName>Щебнев</persName>
+            <persName xml:lang="de">Ŝebnev</persName>
           </person>
           <person xml:id="Bek" sex="MALE">
             <persName>Бек</persName>
+            <persName xml:lang="de">Bek</persName>
           </person>
           <person xml:id="PolitsejskijChinovnik" sex="MALE">
             <persName>Полицейский чиновник</persName>
+            <persName xml:lang="de">Polizeibeamter</persName>
           </person>
         </listPerson>
       </particDesc>
