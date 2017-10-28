@@ -676,7 +676,9 @@ lb{
 }
 lg{
   display: block;
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-top: 1em;
 }
 list{
   display: block;
