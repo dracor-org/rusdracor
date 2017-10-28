@@ -32,7 +32,9 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1869">"1869" (Wikisource)</date>
+            <date type="print" when="1861">"Была издана в 1861 году в Лейпциге тиражом в 25
+              экземпляров; в России в 1869 году в Москве в книге «Картины прошедшего. Писал с натуры
+              А. Сухово-Кобылин»." (Wikisource)</date>
             <date type="premiere"/>
             <date type="written" when="1861">"1856–1861" (Wikisource)</date>
           </bibl>
@@ -44,63 +46,103 @@
         <listPerson>
           <person xml:id="Nelkin" sex="MALE">
             <persName>Нелькин</persName>
+            <persName xml:lang="de">Nelʹkin</persName>
+            <persName xml:lang="en">Nelʹkin</persName>
           </person>
           <person xml:id="Atueva" sex="FEMALE">
             <persName>Анна Антоновна Атуева</persName>
+            <persName xml:lang="de">Atueva</persName>
+            <persName xml:lang="en">Atueva</persName>
           </person>
           <person xml:id="Lidochka" sex="FEMALE">
             <persName>Лидочка</persName>
+            <persName xml:lang="de">Lidočka</persName>
+            <persName xml:lang="en">Lidočka</persName>
           </person>
           <person xml:id="Muromskij" sex="MALE">
             <persName>Петр Константинович Муромский</persName>
+            <persName xml:lang="de">Muromskij</persName>
+            <persName xml:lang="en">Muromskij</persName>
           </person>
           <person xml:id="Tishka" sex="MALE">
             <persName>Тишка</persName>
+            <persName xml:lang="de">Tiška</persName>
+            <persName xml:lang="en">Tiška</persName>
           </person>
           <person xml:id="Ivan_Sidorov" sex="MALE">
             <persName>Иван Сидоров Разуваев</persName>
+            <persName xml:lang="de">Razuvaev</persName>
+            <persName xml:lang="en">Razuvaev</persName>
           </person>
           <person xml:id="Tarelkin" sex="MALE">
             <persName>Кандид Касторович Тарелкин</persName>
+            <persName xml:lang="de">Tarelkin</persName>
+            <persName xml:lang="en">Tarelkin</persName>
           </person>
           <person xml:id="Golos" sex="MALE">
             <persName>Голос (за дверью)</persName>
+            <persName xml:lang="de">Stimme (hinter der Tür)</persName>
+            <persName xml:lang="en">Voice (behind the door)</persName>
           </person>
           <person xml:id="Ibisov" sex="MALE">
             <persName>Ибисов</persName>
+            <persName xml:lang="de">Ibisov</persName>
+            <persName xml:lang="en">Ibisov</persName>
           </person>
           <person xml:id="Shilo" sex="MALE">
             <persName>Касьян Касьянович Шило</persName>
+            <persName xml:lang="de">Šilo</persName>
+            <persName xml:lang="en">Šilo</persName>
           </person>
           <person xml:id="Chibisov" sex="MALE">
             <persName>Чибисов</persName>
+            <persName xml:lang="de">Čibisov</persName>
+            <persName xml:lang="en">Čibisov</persName>
           </person>
           <person xml:id="Sherts" sex="MALE">
             <persName>Шерц</persName>
+            <persName xml:lang="de">Šerc</persName>
+            <persName xml:lang="en">Šerc</persName>
           </person>
           <person xml:id="Shmerts" sex="MALE">
             <persName>Шмерц</persName>
+            <persName xml:lang="de">Šmerc</persName>
+            <persName xml:lang="en">Šmerc</persName>
           </person>
           <person xml:id="Varravin" sex="MALE">
             <persName>Максим Кузьмич Варравин</persName>
+            <persName xml:lang="de">Varravin</persName>
+            <persName xml:lang="en">Varravin</persName>
           </person>
           <person xml:id="Omega" sex="MALE">
             <persName>Чиновник Омега</persName>
+            <persName xml:lang="de">Beamter Omega</persName>
+            <persName xml:lang="en">The official Omega</persName>
           </person>
           <person xml:id="Paramonov" sex="MALE">
             <persName>Парамонов</persName>
+            <persName xml:lang="de">Paramonov</persName>
+            <persName xml:lang="en">Paramonov</persName>
           </person>
           <person xml:id="Knjaz" sex="MALE">
             <persName>Князь</persName>
+            <persName xml:lang="de">Der Fürst</persName>
+            <persName xml:lang="en">The prince</persName>
           </person>
           <person xml:id="Gerts" sex="MALE">
             <persName>Герц</persName>
+            <persName xml:lang="de">Gerc</persName>
+            <persName xml:lang="en">Gerc</persName>
           </person>
           <person xml:id="Zhivets" sex="MALE">
             <persName>Иван Андреевич Живец</persName>
+            <persName xml:lang="de">Živec</persName>
+            <persName xml:lang="en">Živec</persName>
           </person>
           <person xml:id="Vazhnoe_litso" sex="MALE">
             <persName>Важное лицо</persName>
+            <persName xml:lang="de">Wichtige Persönlichkeit</persName>
+            <persName xml:lang="en">Important person</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -114,6 +156,8 @@
       <listChange>
         <change who="#MatveyKolbasov" when="2017-10-05">Converted from Source</change>
         <change who="#ff" when="2017-10-06">formalities</change>
+        <change who="#ff" when="2017-10-29">add (DE|EN) translations of character names in ISO
+          9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -1205,7 +1249,6 @@
             <speaker>Муромский</speaker>
             <p>Здравствуй, что ты это как замешкал?</p>
           </sp>
-          <!--БЫЛО: Иван Сидоров (высматривает образ и молится; потом кланяется) жил у купца в прикащиках;...-->
           <sp who="#Ivan_Sidorov">
             <speaker>Иван Сидоров</speaker>
             <p>Был однова со мной такой-то случай: был я молод, жил у купца в прикащиках; скупали мы
@@ -1413,10 +1456,11 @@
               племя обильное и хищное — и все это большие и малые советники, и оное племя всю нашу
               христианскую сторону и обложило; и все скорби наши, труды и болезни от этого
               антихриста действительного статского советника, и глады и моры наши от его отродия; и
-              видите, сударь, светопреставление уже близко</p>
+              видите, сударь, светопреставление уже близко,</p>
+            <stage type="delivery">Слышен шум.</stage>
+            <stage type="delivery">(оглядывается и понижает голос)</stage>
+            <p>а теперь только идет репетиция....</p>
           </sp>
-          <stage type="delivery">Слышен шум.</stage>
-          <stage type="delivery">оглядывается и понижает голос</stage>
           <stage type="delivery">За дверью опять шум и голоса.</stage>
           <sp who="#Muromskij">
             <speaker>Муромский</speaker>
@@ -1431,8 +1475,8 @@
           <sp who="#Tarelkin">
             <speaker>Тарелкин</speaker>
             <p><stage type="delivery">(прислушиваясь)</stage>. Негодяй!.. как гончая гонит.... в
-              чужое-то место.... а? <stage type="delivery">В дверь кто-то ломится — он ее
-                держит.</stage></p>
+              чужое-то место.... а? <stage type="delivery">(В дверь кто-то ломится — он ее
+                держит.)</stage></p>
           </sp>
           <sp who="#Golos">
             <speaker>Голос</speaker>
@@ -2053,8 +2097,8 @@
             чиновники.</stage>
           <sp who="#Tarelkin">
             <speaker>Тарелкин</speaker>
-            <p><stage type="delivery">сидит за своим столом и напевает арию из
-              «Elisir»</stage>Ci-е-lo-si-pu-o-mo-sir....</p>
+            <p><stage type="delivery">(сидит за своим столом и напевает арию из «Elisir»)</stage>.
+              Ci-е-lo-si-pu-o-mo-sir....</p>
           </sp>
           <sp who="#Ibisov">
             <speaker>Ибисов</speaker>
@@ -2082,7 +2126,7 @@
           </sp>
           <sp who="#Tarelkin">
             <speaker>Тарелкин</speaker>
-            <p><stage type="delivery">(поет и машет ему рукою)</stage>. ... Si-si-non-cie....</p>
+            <p><stage type="delivery">(поет и машет ему рукою)</stage>.... Si-si-non-cie....</p>
           </sp>
           <sp who="#Ibisov">
             <speaker>Ибисов</speaker>
@@ -2151,9 +2195,10 @@
             <speaker>Тарелкин</speaker>
             <p><stage type="delivery">(поет и бьет такт)</stage>. Не состааааа-вил.... не
               состаааа.... не состаааа-вил....</p>
+            <stage type="delivery">Ибисов также подхватывает. Хор.</stage>
+            <stage type="delivery">(Остановясь.)</stage>
+            <p>Откуда?</p>
           </sp>
-          <stage type="delivery">Ибисов также подхватывает. Хор.</stage>
-          <stage type="delivery">Остановясь.</stage>
           <sp who="#Ibisov">
             <speaker>Ибисов</speaker>
             <p>Постойте, постойте.... из Гугенотов!</p>
@@ -2550,8 +2595,8 @@
           </sp>
           <sp who="#Shilo">
             <speaker>Шило</speaker>
-            <p>А у нас? Сами видите: <stage type="delivery">указывает на дверь, где
-              Тарелкин</stage>не родись умен, а родись подлец.</p>
+            <p>А у нас? Сами видите: <stage type="delivery">(указывает на дверь, где
+                Тарелкин)</stage>не родись умен, а родись подлец.</p>
           </sp>
           <sp who="#Chibisov">
             <speaker>Чибисов</speaker>
@@ -3092,8 +3137,10 @@
             <p>Достопочтеннейший, к чему? был и я молод, любил и я диспутоваться; теперь минуло;
               познал я жизнь; познал я и существенность. Вы старину-то вспомните.... простую,
               задушевную.... Вот время-то было! об нем и в стихах так складно сказано:</p>
-            <p>Там, где сердце нараспашку,</p>
-            <p>Наголо, как в старину!..</p>
+            <lg>
+              <l>Там, где сердце нараспашку,</l>
+              <l>Наголо, как в старину!..</l>
+            </lg>
           </sp>
           <sp who="#Muromskij">
             <speaker>Муромский</speaker>
@@ -5539,7 +5586,7 @@
           </sp>
           <sp who="#Ivan_Sidorov">
             <speaker>Иван Сидоров</speaker>
-            <p><stage type="delivery">(продолжает и тычет пальцем)</stage>. ... и если, говорит,
+            <p><stage type="delivery">(продолжает и тычет пальцем)</stage>.... и если, говорит,
               обстоятельства потребуют, то пригласить врачебную управу к медицинскому
               освидетельствованию.</p>
           </sp>
@@ -6120,7 +6167,7 @@
           <stage>Тарелкин входит, за ним экзекутор Живец.</stage>
           <sp who="#Tarelkin">
             <speaker>Тарелкин</speaker>
-            <p><stage type="delivery">(продолжая разговор)</stage>. ... Не знаю, право, не знаю.
+            <p><stage type="delivery">(продолжая разговор)</stage>.... Не знаю, право, не знаю.
               Говорили Максим Кузьмич, что Его Превосходительству угодно сделать это экономическим
               путем.</p>
           </sp>
@@ -6601,7 +6648,7 @@
           <sp who="#Varravin">
             <speaker>Варравин</speaker>
             <p><stage type="delivery">((грозно)</stage> Молчать!!.. <stage type="delivery"
-                >Живцу)</stage>. . Стойте тут, — и ни с места!! <stage type="delivery">Кидается
+                >Живцу)</stage>. Стойте тут, — и ни с места!! <stage type="delivery">Кидается
                 навстречу Важным лицам.</stage></p>
           </sp>
           <sp who="#Zhivets">
