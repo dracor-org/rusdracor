@@ -6,6 +6,10 @@ so far, stemming from [ilibrary](http://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/) and [РВБ](http://rvb.ru/), converted
 into TEI and corrected by us. There will be more.
 
+If you just want to download the corpus in its current state, do this:
+
+`svn export https://github.com/dracor-org/rusdracor/trunk/tei`
+
 RusDraCor was first presented on June 29, 2017, at the [Corpora 2017
 conference](https://events.spbu.ru/events/anons/corpora-2017/?lang=Eng) in St.
 Petersburg ([our slides here](https://dlina.github.io/presentations/2017-spb/))
