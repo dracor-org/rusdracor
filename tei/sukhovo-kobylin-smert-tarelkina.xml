@@ -7,7 +7,7 @@
         <title type="main" xml:lang="ru">Смерть Тарелкина</title>
         <title type="main" xml:lang="en">The Death of Tarelkin</title>
         <title type="sub">Комедия-шутка в трех действиях</title>
-        <title type="sub" xml:lang="en">Comedy-Jest in Three Acts</title>
+        <title type="sub" xml:lang="en">Comedy-Farce in Three Acts</title>
         <author key="Wikidata:Q2640236">Александр Васильевич Сухово-Кобылин</author>
       </titleStmt>
       <publicationStmt>
@@ -46,76 +46,124 @@
         <listPerson>
           <person xml:id="Tarelkin" sex="MALE">
             <persName>Тарелкин</persName>
+            <persName xml:lang="de">Tarelkin</persName>
+            <persName xml:lang="de">Tarelkin</persName>
           </person>
           <person xml:id="Mavrusha" sex="FEMALE">
             <persName>Мавруша</persName>
+            <persName xml:lang="de">Mavruša</persName>
+            <persName xml:lang="de">Mavruša</persName>
           </person>
           <person xml:id="Varravin" sex="MALE">
             <persName>Варравин</persName>
+            <persName xml:lang="de">Varravin</persName>
+            <persName xml:lang="de">Varravin</persName>
           </person>
           <person xml:id="Chinovniki" sex="MALE">
             <persName>Чиновники</persName>
+            <persName xml:lang="de">Die Beamten</persName>
+            <persName xml:lang="de">The Clerks</persName>
           </person>
           <person xml:id="Chibisov" sex="MALE">
             <persName>Чибисов</persName>
+            <persName xml:lang="de">Čibisov</persName>
+            <persName xml:lang="de">Čibisov</persName>
           </person>
           <person xml:id="Ibisov" sex="MALE">
             <persName>Ибисов</persName>
+            <persName xml:lang="de">Ibisov</persName>
+            <persName xml:lang="de">Ibisov</persName>
           </person>
           <person xml:id="TretijChinovnik" sex="MALE">
             <persName>Третий чиновник</persName>
+            <persName xml:lang="de">Dritter Beamter</persName>
+            <persName xml:lang="de">Third Clerk</persName>
           </person>
           <person xml:id="ChetvertyjChinovnik" sex="MALE">
             <persName>Четвертый чиновник</persName>
+            <persName xml:lang="de">Vierter Beamter</persName>
+            <persName xml:lang="de">Fourth Clerk</persName>
           </person>
           <person xml:id="Omega" sex="MALE">
             <persName>Омега</persName>
+            <persName xml:lang="de">Omega</persName>
+            <persName xml:lang="de">Omega</persName>
           </person>
           <person xml:id="Raspljuev" sex="MALE">
             <persName>Расплюев</persName>
+            <persName xml:lang="de">Rasplûev</persName>
+            <persName xml:lang="de">Rasplûev</persName>
           </person>
           <person xml:id="Ljudmila" sex="FEMALE">
             <persName>Людмила</persName>
+            <persName xml:lang="de">Lûdmila</persName>
+            <persName xml:lang="de">Lûdmila</persName>
           </person>
           <person xml:id="PervyjKreditor" sex="MALE">
             <persName>1-й кредитор</persName>
+            <persName xml:lang="de">1. Gläubiger</persName>
+            <persName xml:lang="de">First Creditor</persName>
           </person>
           <person xml:id="VtorojKreditor" sex="MALE">
             <persName>2-й кредитор</persName>
+            <persName xml:lang="de">2. Gläubiger</persName>
+            <persName xml:lang="de">Second Creditor</persName>
           </person>
           <person xml:id="TretijKreditor" sex="MALE">
             <persName>3-й кредитор</persName>
+            <persName xml:lang="de">3. Gläubiger</persName>
+            <persName xml:lang="de">Third Creditor</persName>
           </person>
           <person xml:id="ChetvertyjKreditor" sex="MALE">
             <persName>4-й кредитор</persName>
+            <persName xml:lang="de">4. Gläubiger</persName>
+            <persName xml:lang="de">Fourth Creditor</persName>
           </person>
           <person xml:id="Kreditory" sex="MALE">
             <persName>Кредиторы</persName>
             <persName type="variant">Все кредиторы</persName>
+            <persName xml:lang="de">Die Gläubiger</persName>
+            <persName xml:lang="de">The Creditors</persName>
           </person>
           <person xml:id="Kachala" sex="MALE">
             <persName>Качала</persName>
+            <persName xml:lang="de">Kačala</persName>
+            <persName xml:lang="de">Kačala</persName>
           </person>
           <person xml:id="Oh" sex="MALE">
             <persName>Ох</persName>
+            <persName xml:lang="de">Oh</persName>
+            <persName xml:lang="de">Oh</persName>
           </person>
           <person xml:id="KrestjanKrestjanovich" sex="MALE">
             <persName>Крестьян Крестьянович</persName>
+            <persName xml:lang="de">Krestʹân Krestʹânovič</persName>
+            <persName xml:lang="de">Krestʹân Krestʹânovič</persName>
           </person>
           <person xml:id="Chvankin" sex="MALE">
             <persName>Чванкин</persName>
+            <persName xml:lang="de">Čvankin</persName>
+            <persName xml:lang="de">Čvankin</persName>
           </person>
           <person xml:id="Popugajchikov" sex="MALE">
             <persName>Попугайчиков</persName>
+            <persName xml:lang="de">Popugajčikov</persName>
+            <persName xml:lang="de">Popugajčikov</persName>
           </person>
           <person xml:id="Vanechka" sex="MALE">
             <persName>Ванечка</persName>
+            <persName xml:lang="de">Vanečka</persName>
+            <persName xml:lang="de">Vanečka</persName>
           </person>
           <person xml:id="Pahomov" sex="MALE">
             <persName>Пахомов</persName>
+            <persName xml:lang="de">Pahomov</persName>
+            <persName xml:lang="de">Pahomov</persName>
           </person>
           <person xml:id="Shatala" sex="MALE">
             <persName>Шатала</persName>
+            <persName xml:lang="de">Šatala</persName>
+            <persName xml:lang="de">Šatala</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -129,6 +177,8 @@
       <listChange>
         <change who="#MatveyKolbasov" when="2017-11-04">convert from source</change>
         <change who="#FF" when="2017-11-05">clean IDs; formalities</change>
+        <change who="#FF" when="2017-11-06">add some missing text; add (DE|EN) translations of
+          character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -561,9 +611,11 @@
             <p>
               <stage type="delivery">(осматривая чиновников).</stage> Хорошо, господа, хорошо!
                 <stage type="delivery">Нежно.</stage> Теперь возьмите каждый у другого бумажник.</p>
+            <stage type="delivery">Шум и свалка; чиновники тащат друг у друга бумажники.</stage>
+            <p><stage type="delivery">Любуясь на картину.</stage> Прекрасно! По-братски! Вот
+              истинная община! Ну, отсчитайте теперь по три рубля, но не более трех рублей! Не
+              более!</p>
           </sp>
-          <stage type="delivery">Шум и свалка; чиновники тащат друг у друга бумажники.</stage>
-          <stage type="delivery">Любуясь на картину.</stage>
           <sp who="#Chinovniki">
             <speaker>Чиновники</speaker>
             <p>
@@ -746,11 +798,13 @@
           </sp>
           <sp who="#Tarelkin">
             <speaker>Тарелкин</speaker>
-            <p><l>Концы в воду? Ой ли? Посмотрим. <stage type="delivery">Импровизирует.</stage></l>
+            <p>Концы в воду? Ой ли? Посмотрим. <stage type="delivery">Импровизирует.</stage></p>
+            <lg>
               <l>Варравин-генерал</l>
               <l>Мне напутствие сказал;</l>
               <l>Но, увы, не угадал,</l>
-              <l>Каков будет тут финал.</l></p>
+              <l>Каков будет тут финал.</l>
+            </lg>
           </sp>
           <sp who="#Varravin">
             <speaker>Варравин</speaker>
@@ -1597,7 +1651,7 @@
               <stage type="delivery">(кричит).</stage> А я вам говорю, что я его на дне преисподней
               сыщу!..</p>
           </sp>
-          <sp who="VtorojKreditor">
+          <sp who="#VtorojKreditor">
             <speaker>2-й кредитор</speaker>
             <p>
               <stage type="delivery">(кричит).</stage> Ну что вы бессмыслицу говорите. Какая
@@ -1773,9 +1827,9 @@
             <p>
               <stage type="delivery">(с удивлением в сторону).</stage> Приятели??! Это что за птица?
               Отродясь не видывал.</p>
+            <stage type="delivery">Тарелкин и Варравин осматривают друг друга.</stage>
+            <p><stage type="delivery">В сторону.</stage> Да это жулик какой-нибудь?</p>
           </sp>
-          <stage type="delivery">Тарелкин и Варравин осматривают друг друга.</stage>
-          <stage type="delivery">В сторону.</stage>
           <sp who="#Varravin">
             <speaker>Варравин</speaker>
             <p>
