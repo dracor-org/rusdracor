@@ -41,161 +41,11 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Jurodivyj" sex="MALE">
-            <persName>Юродивый</persName>
-          </person>
           <person xml:id="Vorotynskij" sex="MALE">
             <persName>Воротынский</persName>
           </person>
-          <person xml:id="Tsar_Boris" sex="MALE">
-            <persName>Борис</persName>
-          </person>
-          <person xml:id="Bojare" sex="MALE">
-            <persName>Бояре</persName>
-          </person>
-          <person xml:id="Feodor" sex="MALE">
-            <persName>Феодор</persName>
-          </person>
-          <person xml:id="Pimen" sex="MALE">
-            <persName>Пимен</persName>
-          </person>
-          <person xml:id="Staruha" sex="FEMALE">
-            <persName>Старуха</persName>
-          </person>
-          <person xml:id="MuzhikNaAmvone" sex="MALE">
-            <persName>Мужик на амвоне</persName>
-          </person>
-          <person xml:id="PervyjBojarin" sex="MALE">
-            <persName>Первый боярин</persName>
-          </person>
           <person xml:id="Shujskij" sex="MALE">
             <persName>Шуйский</persName>
-          </person>
-          <person xml:id="Mamka" sex="FEMALE">
-            <persName>Мамка</persName>
-          </person>
-          <person xml:id="Ljahi" sex="MALE">
-            <persName>Ляхи</persName>
-          </person>
-          <person xml:id="Pater" sex="MALE">
-            <persName>Pater Черниковский</persName>
-          </person>
-          <person xml:id="Hruschov" sex="MALE">
-            <persName>Хрущов</persName>
-          </person>
-          <person xml:id="VtorojPristav" sex="MALE">
-            <persName>Второй пристав</persName>
-          </person>
-          <person xml:id="Pushkin" sex="MALE">
-            <persName>Афанасий Михайлович Пушкин</persName>
-          </person>
-          <person xml:id="Mosalskij" sex="MALE">
-            <persName>Мосальский</persName>
-          </person>
-          <person xml:id="Strazha" sex="MALE">
-            <persName>Стража</persName>
-          </person>
-          <person xml:id="Mnishek" sex="MALE">
-            <persName>Мнишек</persName>
-          </person>
-          <person xml:id="GavrilaPushkin" sex="MALE">
-            <persName>Гаврила Пушкин</persName>
-          </person>
-          <person xml:id="PervyjPristav" sex="MALE">
-            <persName>Первый пристав</persName>
-          </person>
-          <person xml:id="Basmanov" sex="MALE">
-            <persName>Басманов</persName>
-          </person>
-          <person xml:id="Narod" sex="UNKNOWN">
-            <persName>Народ</persName>
-          </person>
-          <person xml:id="Kurbskij" sex="MALE">
-            <persName>Курбский</persName>
-          </person>
-          <person xml:id="Nischij" sex="MALE">
-            <persName>Нищий</persName>
-          </person>
-          <person xml:id="Malchik" sex="MALE">
-            <persName>Мальчик</persName>
-          </person>
-          <person xml:id="Hozjajka" sex="FEMALE">
-            <persName>Хозяйка</persName>
-          </person>
-          <person xml:id="SemenGodunov" sex="MALE">
-            <persName>Семен Годунов</persName>
-          </person>
-          <person xml:id="Grigorij_Dimitrij_Lzhedimitrij_Samozvanets" sex="MALE">
-            <persName>Григорий</persName>
-          </person>
-          <person xml:id="VRozen" sex="MALE">
-            <persName>В. Розен</persName>
-          </person>
-          <person xml:id="Misail" sex="MALE">
-            <persName>Мисаил</persName>
-          </person>
-          <person xml:id="Poljak" sex="MALE">
-            <persName>Поляк</persName>
-          </person>
-          <person xml:id="Bojarin" sex="MALE">
-            <persName>Боярин</persName>
-          </person>
-          <person xml:id="OdinIzBegletsov" sex="MALE">
-            <persName>Один из беглецов</persName>
-          </person>
-          <person xml:id="DrugojIzBegletsov" sex="MALE">
-            <persName>Другой</persName>
-          </person>
-          <person xml:id="Varlaam" sex="MALE">
-            <persName>Варлаам</persName>
-          </person>
-          <person xml:id="Plennik" sex="MALE">
-            <persName>Пленник</persName>
-          </person>
-          <person xml:id="Marzheret" sex="FEMALE">
-            <persName>Маржерет</persName>
-          </person>
-          <person xml:id="Malchishka" sex="MALE">
-            <persName>Мальчишка</persName>
-          </person>
-          <person xml:id="Ljah" sex="MALE">
-            <persName>Лях (Севск)</persName>
-          </person>
-          <person xml:id="Ljah_Les" sex="MALE">
-            <persName>Лях (Лес)</persName>
-          </person>
-          <person xml:id="Voiny" sex="MALE">
-            <persName>Воины</persName>
-          </person>
-          <person xml:id="Schelkalov" sex="MALE">
-            <persName>Щелкалов</persName>
-          </person>
-          <person xml:id="Karela" sex="MALE">
-            <persName>Карела</persName>
-          </person>
-          <person xml:id="Ksenija" sex="FEMALE">
-            <persName>Ксения</persName>
-          </person>
-          <person xml:id="Vishnevetskij" sex="MALE">
-            <persName>Вишневецкий</persName>
-          </person>
-          <person xml:id="Malchishki" sex="MALE">
-            <persName>Мальчишки</persName>
-          </person>
-          <person xml:id="Igumen" sex="MALE">
-            <persName>Игумен</persName>
-          </person>
-          <person xml:id="Poet" sex="MALE">
-            <persName>Поэт</persName>
-          </person>
-          <person xml:id="Patriarh" sex="MALE">
-            <persName>Патриарх</persName>
-          </person>
-          <person xml:id="Marina" sex="FEMALE">
-            <persName>Марина</persName>
-          </person>
-          <person xml:id="Nemtsy" sex="MALE">
-            <persName>Немцы</persName>
           </person>
           <person xml:id="OdinIzNaroda_1" sex="MALE">
             <persName>Один (Красная площадь)</persName>
@@ -206,11 +56,98 @@
           <person xml:id="TretijIzNaroda_1" sex="MALE">
             <persName>Третий (Красная площадь)</persName>
           </person>
+          <person xml:id="Narod" sex="UNKNOWN">
+            <persName>Народ</persName>
+          </person>
+          <person xml:id="Schelkalov" sex="MALE">
+            <persName>Щелкалов</persName>
+          </person>
+          <person xml:id="Tsar_Boris" sex="MALE">
+            <persName>Борис</persName>
+          </person>
+          <person xml:id="Bojare" sex="MALE">
+            <persName>Бояре</persName>
+          </person>
+          <person xml:id="Pimen" sex="MALE">
+            <persName>Пимен</persName>
+          </person>
+          <person xml:id="Grigorij_Dimitrij_Lzhedimitrij_Samozvanets" sex="MALE">
+            <persName>Григорий</persName>
+          </person>
+          <person xml:id="Patriarh" sex="MALE">
+            <persName>Патриарх</persName>
+          </person>
+          <person xml:id="Igumen" sex="MALE">
+            <persName>Игумен</persName>
+          </person>
           <person xml:id="PervyjStolnik" sex="MALE">
             <persName>Первый стольник</persName>
           </person>
           <person xml:id="VtorojStolnik" sex="MALE">
             <persName>Второй стольник</persName>
+          </person>
+          <person xml:id="Hozjajka" sex="FEMALE">
+            <persName>Хозяйка</persName>
+          </person>
+          <person xml:id="Varlaam" sex="MALE">
+            <persName>Варлаам</persName>
+          </person>
+          <person xml:id="Misail" sex="MALE">
+            <persName>Мисаил</persName>
+          </person>
+          <person xml:id="PervyjPristav" sex="MALE">
+            <persName>Первый пристав</persName>
+          </person>
+          <person xml:id="VtorojPristav" sex="MALE">
+            <persName>Второй пристав</persName>
+          </person>
+          <person xml:id="Malchik" sex="MALE">
+            <persName>Мальчик</persName>
+          </person>
+          <person xml:id="Pushkin" sex="MALE">
+            <persName>Афанасий Михайлович Пушкин</persName>
+          </person>
+          <person xml:id="Ksenija" sex="FEMALE">
+            <persName>Ксения</persName>
+          </person>
+          <person xml:id="Mamka" sex="FEMALE">
+            <persName>Мамка</persName>
+          </person>
+          <person xml:id="Feodor" sex="MALE">
+            <persName>Феодор</persName>
+          </person>
+          <person xml:id="SemenGodunov" sex="MALE">
+            <persName>Семен Годунов</persName>
+          </person>
+          <person xml:id="Pater" sex="MALE">
+            <persName>Pater Черниковский</persName>
+          </person>
+          <person xml:id="GavrilaPushkin" sex="MALE">
+            <persName>Гаврила Пушкин</persName>
+          </person>
+          <person xml:id="Kurbskij" sex="MALE">
+            <persName>Курбский</persName>
+          </person>
+          <person xml:id="Poljak" sex="MALE">
+            <persName>Поляк</persName>
+          </person>
+          <person xml:id="Hruschov" sex="MALE">
+            <persName>Хрущов</persName>
+          </person>
+          <person xml:id="Karela" sex="MALE">
+            <persName>Карела</persName>
+          </person>
+          <person xml:id="Poet" sex="MALE">
+            <persName>Поэт</persName>
+          </person>
+          <person xml:id="Mnishek" sex="MALE">
+            <persName>Мнишек</persName>
+          </person>
+          <person xml:id="Vishnevetskij" sex="MALE">
+            <persName>Вишневецкий</persName>
+          </person>
+          <person xml:id="Marina" sex="FEMALE">
+            <persName>Марина</persName>
           </person>
           <person xml:id="PervyjKavaler" sex="MALE">
             <persName>Кавалер</persName>
@@ -227,8 +164,35 @@
           <person xml:id="TretijKavaler" sex="MALE">
             <persName>Кавалер</persName>
           </person>
+          <person xml:id="Basmanov" sex="MALE">
+            <persName>Басманов</persName>
+          </person>
+          <person xml:id="PervyjBojarin" sex="MALE">
+            <persName>Первый боярин</persName>
+          </person>
           <person xml:id="DrugojBojarin" sex="MALE">
             <persName>Другой</persName>
+          </person>
+          <person xml:id="Voiny" sex="MALE">
+            <persName>Воины</persName>
+          </person>
+          <person xml:id="Marzheret" sex="FEMALE">
+            <persName>Маржерет</persName>
+          </person>
+          <person xml:id="OdinIzBegletsov" sex="MALE">
+            <persName>Один из беглецов</persName>
+          </person>
+          <person xml:id="DrugojIzBegletsov" sex="MALE">
+            <persName>Другой</persName>
+          </person>
+          <person xml:id="VRozen" sex="MALE">
+            <persName>В. Розен</persName>
+          </person>
+          <person xml:id="Nemtsy" sex="MALE">
+            <persName>Немцы</persName>
+          </person>
+          <person xml:id="Ljahi" sex="MALE">
+            <persName>Ляхи</persName>
           </person>
           <person xml:id="OdinIzNaroda_2" sex="MALE">
             <persName>Один из народа (Площадь перед собором в Москве)</persName>
@@ -242,11 +206,32 @@
           <person xml:id="ChetvertyjIzNaroda_2" sex="MALE">
             <persName>Четвертый (Площадь перед собором в Москве)</persName>
           </person>
+          <person xml:id="Malchishki" sex="MALE">
+            <persName>Мальчишки</persName>
+          </person>
+          <person xml:id="Staruha" sex="FEMALE">
+            <persName>Старуха</persName>
+          </person>
+          <person xml:id="Jurodivyj" sex="MALE">
+            <persName>Юродивый</persName>
+          </person>
           <person xml:id="OdinIzMalchishek" sex="MALE">
             <persName>Один из них (Площадь перед собором в Москве)</persName>
           </person>
+          <person xml:id="Ljah" sex="MALE">
+            <persName>Лях (Севск)</persName>
+          </person>
+          <person xml:id="Plennik" sex="MALE">
+            <persName>Пленник</persName>
+          </person>
           <person xml:id="DrugojLjah" sex="MALE">
             <persName>Другой (Севск)</persName>
+          </person>
+          <person xml:id="Ljah_Les" sex="MALE">
+            <persName>Лях (Лес)</persName>
+          </person>
+          <person xml:id="Bojarin" sex="MALE">
+            <persName>Боярин</persName>
           </person>
           <person xml:id="OdinPridvornyj" sex="MALE">
             <persName>Один</persName>
@@ -266,6 +251,15 @@
           <person xml:id="ShestojPridvornyj" sex="MALE">
             <persName>Шестой</persName>
           </person>
+          <person xml:id="MuzhikNaAmvone" sex="MALE">
+            <persName>Мужик на амвоне</persName>
+          </person>
+          <person xml:id="Nischij" sex="MALE">
+            <persName>Нищий</persName>
+          </person>
+          <person xml:id="Strazha" sex="MALE">
+            <persName>Стража</persName>
+          </person>
           <person xml:id="OdinIzNaroda_3" sex="MALE">
             <persName>Один из народа (Кремль)</persName>
           </person>
@@ -281,6 +275,9 @@
           <person xml:id="TretijIzNaroda_4" sex="MALE">
             <persName>Третий (Кремль)</persName>
           </person>
+          <person xml:id="Mosalskij" sex="MALE">
+            <persName>Мосальский</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -291,14 +288,16 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
+        <change who="#IrinaPavlova" when="2017-04-13">convert from Source</change>
         <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#to" when="2017-05-31"> added dates</change>
-        <change who="#zhenya" when="2017-05-31">changed ID's, added dates</change>
-        <change who="#ff" when="2017-06-01">connected enjambements via part attribute; replaced some
-          false stage directions by emph element</change>
-        <change who="#to" when="2017-06-03">added gender info</change>
-        <change who="#ff" when="2017-06-09">dissolved some more characters</change>
+        <change who="#to" when="2017-05-31"> add dates</change>
+        <change who="#zhenya" when="2017-05-31">change ID's, add dates</change>
+        <change who="#ff" when="2017-06-01">connect enjambements via part attribute; replace some
+          false stage directions with emph element</change>
+        <change who="#to" when="2017-06-03">add gender info</change>
+        <change who="#ff" when="2017-06-09">dissolve some more characters</change>
+        <change who="#ff" when="2017-11-09">correct one ID; sort characters in particDesc in order
+          of appearance</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -1126,7 +1125,7 @@
             вина, и хлеба, и неведомо чего, — чтоб им издохнуть, окаянным! чтоб им…</p>
           <stage>Входят приставы.</stage>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Здорово, хозяйка!</p>
         </sp>
@@ -1134,7 +1133,7 @@
           <speaker>Хозяйка</speaker>
           <p>Добро пожаловать, гости дорогие, милости просим.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Один пристав</speaker>
           <stage type="delivery">(другому)</stage>
           <p>Ба! да здесь попойка идет; будет чем поживиться. <stage>(Монахам.)</stage> Вы что за
@@ -1145,7 +1144,7 @@
           <p>Мы Божии старцы, иноки смиренные, ходим по селениям да собираем милостыню христианскую
             на монастырь.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <stage type="delivery">(Григорию)</stage>
           <p>А ты?</p>
@@ -1167,7 +1166,7 @@
           <stage type="delivery">(тихо)</stage>
           <p>Молчи.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Хозяйка, выставь-ка еще вина — а мы здесь со старцами попьем да побеседуем.</p>
         </sp>
@@ -1221,7 +1220,7 @@
           <speaker>Мисаил</speaker>
           <p>Не слыхал.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Не слыхал? Ладно. А того беглого еретика царь приказал изловить и повесить. Знаешь ли
             ты это?</p>
@@ -1230,7 +1229,7 @@
           <speaker>Мисаил</speaker>
           <p>Не знаю.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <stage type="delivery">(Варлааму)</stage>
           <p>Умеешь ли ты читать?</p>
@@ -1239,7 +1238,7 @@
           <speaker>Варлаам</speaker>
           <p>Смолоду знал, да разучился.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <stage type="delivery">(Мисаилу)</stage>
           <p>А ты?</p>
@@ -1248,7 +1247,7 @@
           <speaker>Мисаил</speaker>
           <p>Не умудрил Господь.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Так вот тебе царский указ.</p>
         </sp>
@@ -1256,7 +1255,7 @@
           <speaker>Мисаил</speaker>
           <p>На что мне его?</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Мне сдается, что этот беглый еретик, вор, мошенник — ты.</p>
         </sp>
@@ -1264,7 +1263,7 @@
           <speaker>Мисаил</speaker>
           <p>Я? Помилуй! что ты?</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Постой! держи двери. Вот мы сейчас и справимся.</p>
         </sp>
@@ -1272,7 +1271,7 @@
           <speaker>Хозяйка</speaker>
           <p>Ах они окаянные мучители! и старца-то в покое не оставят!</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Кто здесь грамотный?</p>
         </sp>
@@ -1281,7 +1280,7 @@
           <stage type="delivery">(выступает вперед)</stage>
           <p>Я грамотный.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Вот на… А у кого же ты научился?</p>
         </sp>
@@ -1289,7 +1288,7 @@
           <speaker>Григорий</speaker>
           <p>У нашего пономаря.</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <stage type="delivery">(дает ему указ)</stage>
           <p>Читай же вслух.</p>
@@ -1301,7 +1300,7 @@
             дерзнул, наученный диаволом, возмущать святую братию всякими соблазнами и беззакониями.
             А по справкам оказалось, отбежал он, окаянный Гришка, к границе Литовской…»</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <stage type="delivery">(Мисаилу)</stage>
           <p>Как же не ты?</p>
@@ -1310,7 +1309,7 @@
           <speaker>Григорий</speaker>
           <p>«И царь повелел изловить его…»</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>И повесить!</p>
         </sp>
@@ -1318,7 +1317,7 @@
           <speaker>Григорий</speaker>
           <p>Тут не сказано «повесить».</p>
         </sp>
-        <sp who="#PervijPristav">
+        <sp who="#PervyjPristav">
           <speaker>Пристав</speaker>
           <p>Врешь! не всяко слово в строку пишется. Читай: изловить и повесить.</p>
         </sp>
@@ -1358,7 +1357,7 @@
           <stage>Григорий вдруг вынимает кинжал; все перед ним расступаются, он бросается в
             окно.</stage>
         </sp>
-        <sp who="#PervijPristav #VtorojPristav">
+        <sp who="#PervyjPristav #VtorojPristav">
           <speaker>Приставы</speaker>
           <p>Держи! держи!</p>
           <stage>Все бегут в беспорядке.</stage>
