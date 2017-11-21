@@ -48,47 +48,58 @@
         <listPerson>
           <person xml:id="Efimovna" sex="FEMALE">
             <persName>Ефимовна</persName>
-            <persName xml:lang="en">Efiovna</persName>
+            <persName xml:lang="en">Efimovna</persName>
+            <persName xml:lang="de">Efimovna</persName>
           </person>
           <person xml:id="Nazarovna" sex="FEMALE">
             <persName>Назаровна</persName>
             <persName xml:lang="en">Nazarovna</persName>
+            <persName xml:lang="de">Nazarovna</persName>
           </person>
           <person xml:id="Savva" sex="MALE">
             <persName>Савва</persName>
             <persName xml:lang="en">Savva</persName>
+            <persName xml:lang="de">Savva</persName>
           </person>
           <person xml:id="Fedja" sex="MALE">
             <persName>Федя</persName>
-            <persName xml:lang="en">Fedya</persName>
+            <persName xml:lang="en">Fedâ</persName>
+            <persName xml:lang="de">Fedâ</persName>
           </person>
           <person xml:id="GolosIzUgla" sex="UNKNOWN">
             <persName>Голос из угла</persName>
             <persName xml:lang="en">A voice from the corner</persName>
-          </person>
-          <person xml:id="Bortsov" sex="MALE">
-            <persName>Борцов</persName>
-            <persName xml:lang="en">Semyon Sergeyevitch Bortsov</persName>
+            <persName xml:lang="de">Stimme aus der Ecke</persName>
           </person>
           <person xml:id="Tihon" sex="MALE">
             <persName>Тихон</persName>
-            <persName xml:lang="en">Tihon Evstigneyev</persName>
+            <persName xml:lang="en">Tihon</persName>
+            <persName xml:lang="de">Tihon</persName>
+          </person>
+          <person xml:id="Bortsov" sex="MALE">
+            <persName>Борцов</persName>
+            <persName xml:lang="en">Borcov</persName>
+            <persName xml:lang="de">Borcov</persName>
           </person>
           <person xml:id="Merik" sex="MALE">
             <persName>Мерик</persName>
-            <persName xml:lang="en">Egor Merik</persName>
+            <persName xml:lang="en">Merik</persName>
+            <persName xml:lang="de">Merik</persName>
           </person>
           <person xml:id="Kuzma" sex="MALE">
             <persName>Кузьма</persName>
-            <persName xml:lang="en">Kusma</persName>
+            <persName xml:lang="en">Kuzʹma</persName>
+            <persName xml:lang="de">Kuzʹma</persName>
           </person>
           <person xml:id="Kucher" sex="MALE">
             <persName>Кучер</persName>
-            <persName xml:lang="en">Bortsov's Wife Coachman</persName>
+            <persName xml:lang="en">Borcov's wife's coachman</persName>
+            <persName xml:lang="de">Der Kutscher der Borcova</persName>
           </person>
           <person xml:id="MarjaEgorovna" sex="FEMALE">
             <persName>Марья Егоровна</persName>
-            <persName xml:lang="en">Maria Egorovna</persName>
+            <persName xml:lang="en">Marʹâ Egorovna</persName>
+            <persName xml:lang="de">Marʹâ Egorovna</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -107,6 +118,8 @@
           into speaker tags for better readability</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-08">revised</change>
+        <change who="#ff" when="2017-11-21">add (DE) translations of character names in ISO
+          9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
