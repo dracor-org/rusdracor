@@ -11,8 +11,8 @@
         <author key="Wikidata:Q2640236">Александр Васильевич Сухово-Кобылин</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <publisher xml:id="rusdracor">Russian Drama Corpus</publisher>
+        <idno type="URL">https://dracor.org/</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
