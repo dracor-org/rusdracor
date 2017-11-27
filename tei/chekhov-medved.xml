@@ -54,14 +54,17 @@
           <person xml:id="Luka" sex="MALE">
             <persName>Лука</persName>
             <persName xml:lang="en">Luka</persName>
+            <persName xml:lang="de">Luka</persName>
           </person>
           <person xml:id="Popova" sex="FEMALE">
             <persName>Попова</persName>
-            <persName xml:lang="en">Elena Ivanovna Popova</persName>
+            <persName xml:lang="en">Popova</persName>
+            <persName xml:lang="de">Popova</persName>
           </person>
           <person xml:id="Smirnov" sex="MALE">
             <persName>Смирнов</persName>
-            <persName xml:lang="en">Grigory Stepanovitch Smirnov</persName>
+            <persName xml:lang="en">Smirnov</persName>
+            <persName xml:lang="de">Smirnov</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -78,6 +81,7 @@
         <change who="#sveta" when="2017-05-27">added dates</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-08">revision</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

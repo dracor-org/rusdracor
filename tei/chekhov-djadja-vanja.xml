@@ -47,43 +47,53 @@
         <listPerson>
           <person xml:id="MarijaVasilevna" sex="FEMALE">
             <persName>Мария Васильевна</persName>
-            <persName xml:lang="en">Mme. VOitskaya</persName>
+            <persName xml:lang="en">Mariâ Vasilʹevna</persName>
+            <persName xml:lang="de">Mariâ Vasilʹevna</persName>
           </person>
           <person xml:id="Telegin" sex="MALE">
             <persName>Телегин</persName>
-            <persName xml:lang="en">Ilia (Waffles) Telegin</persName>
+            <persName xml:lang="en">Telegin</persName>
+            <persName xml:lang="de">Telegin</persName>
           </person>
           <person xml:id="GolosStorozha" sex="MALE">
             <persName>Голос сторожа (Ефим)</persName>
-            <persName xml:lang="en">Voice of the watchman</persName>
+            <persName xml:lang="en">Voice of the watchman (Efim)</persName>
+            <persName xml:lang="de">Stimme des Nachtwächters (Efim)</persName>
           </person>
           <person xml:id="Rabotnik" sex="MALE">
             <persName>Работник</persName>
             <persName xml:lang="en">A workman</persName>
+            <persName xml:lang="de">Ein Arbeiter</persName>
           </person>
           <person xml:id="Astrov" sex="MALE">
             <persName>Астров</persName>
-            <persName xml:lang="en">Michael Astroff</persName>
+            <persName xml:lang="en">Astrov</persName>
+            <persName xml:lang="de">Astrov</persName>
           </person>
           <person xml:id="Serebrjakov" sex="MALE">
             <persName>Серебряков</persName>
-            <persName xml:lang="en">Alexander Serebrakoff</persName>
+            <persName xml:lang="en">Serebrâkov</persName>
+            <persName xml:lang="de">Serebrâkov</persName>
           </person>
           <person xml:id="Vojnitskij" sex="MALE">
             <persName>Войницкий</persName>
-            <persName xml:lang="en">Ivan (Vanya) Voitski</persName>
+            <persName xml:lang="en">Vojnickij</persName>
+            <persName xml:lang="de">Vojnickij</persName>
           </person>
           <person xml:id="Marina" sex="FEMALE">
             <persName>Марина</persName>
             <persName xml:lang="en">Marina</persName>
+            <persName xml:lang="de">Marina</persName>
           </person>
           <person xml:id="Sonja" sex="FEMALE">
             <persName>Соня</persName>
-            <persName xml:lang="en">Sonia</persName>
+            <persName xml:lang="en">Sonâ</persName>
+            <persName xml:lang="de">Sonâ</persName>
           </person>
           <person xml:id="ElenaAndreevna" sex="FEMALE">
             <persName>Елена Андреевна</persName>
-            <persName xml:lang="en">Helena</persName>
+            <persName xml:lang="en">Elena Andreevna</persName>
+            <persName xml:lang="de">Elena Andreevna</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -102,6 +112,7 @@
         <change who="#zhenya" when="2017-05-31">added dates</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-06-08">scene segmentation for all four acts</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -45,53 +45,65 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="Medvedenko" sex="MALE">
+            <persName>Медведенко</persName>
+            <persName xml:lang="en">Medvedenko</persName>
+            <persName xml:lang="de">Medvedenko</persName>
+          </person>
+          <person xml:id="Masha" sex="FEMALE">
+            <persName>Маша</persName>
+            <persName xml:lang="en">Maša</persName>
+            <persName xml:lang="de">Maša</persName>
+          </person>
+          <person xml:id="Sorin" sex="MALE">
+            <persName>Сорин</persName>
+            <persName xml:lang="en">Sorin</persName>
+            <persName xml:lang="de">Sorin</persName>
+          </person>
+          <person xml:id="Treplev" sex="MALE">
+            <persName>Треплев</persName>
+            <persName xml:lang="en">Treplev</persName>
+            <persName xml:lang="de">Treplev</persName>
+          </person>
+          <person xml:id="Jakov" sex="MALE">
+            <persName>Яков</persName>
+            <persName xml:lang="en">Âkov</persName>
+            <persName xml:lang="de">Âkov</persName>
+          </person>
+          <person xml:id="Nina" sex="FEMALE">
+            <persName>Нина</persName>
+            <persName xml:lang="en">Nina</persName>
+            <persName xml:lang="de">Nina</persName>
+          </person>
+          <person xml:id="PolinaAndreevna" sex="FEMALE">
+            <persName>Полина Андреевна</persName>
+            <persName xml:lang="en">Polina Andreevna</persName>
+            <persName xml:lang="de">Polina Andreevna</persName>
+          </person>
+          <person xml:id="Dorn" sex="MALE">
+            <persName>Дорн</persName>
+            <persName xml:lang="en">Dorn</persName>
+            <persName xml:lang="de">Dorn</persName>
+          </person>
           <person xml:id="Shamraev" sex="MALE">
             <persName>Шамраев</persName>
-            <persName xml:lang="en">Shamraeff</persName>
+            <persName xml:lang="en">Šamraev</persName>
+            <persName xml:lang="de">Šamraev</persName>
           </person>
           <person xml:id="Arkadina" sex="FEMALE">
             <persName>Аркадина</persName>
             <persName xml:lang="en">Arkadina</persName>
+            <persName xml:lang="de">Arkadina</persName>
           </person>
-          <person xml:id="Masha" sex="FEMALE">
-            <persName>Маша</persName>
-            <persName xml:lang="en">Masha</persName>
+          <person xml:id="Trigorin" sex="MALE">
+            <persName>Тригорин</persName>
+            <persName xml:lang="en">Trigorin</persName>
+            <persName xml:lang="de">Trigorin</persName>
           </person>
           <person xml:id="Povar" sex="MALE">
             <persName>Повар</persName>
             <persName xml:lang="en">A cook</persName>
-          </person>
-          <person xml:id="Medvedenko" sex="MALE">
-            <persName>Медведенко</persName>
-            <persName xml:lang="en">Medviedenko</persName>
-          </person>
-          <person xml:id="Nina" sex="FEMALE">
-            <persName>Нина</persName>
-            <persName xml:lang="en">Nina Zarietchnaya</persName>
-          </person>
-          <person xml:id="Sorin" sex="MALE">
-            <persName>Сорин</persName>
-            <persName xml:lang="en">Peter Sorin</persName>
-          </person>
-          <person xml:id="PolinaAndreevna" sex="FEMALE">
-            <persName>Полина Андреевна</persName>
-            <persName xml:lang="en">Paulina</persName>
-          </person>
-          <person xml:id="Dorn" sex="MALE">
-            <persName>Дорн</persName>
-            <persName xml:lang="en">Eugene Dorn</persName>
-          </person>
-          <person xml:id="Trigorin" sex="MALE">
-            <persName>Тригорин</persName>
-            <persName xml:lang="en">Boris Trigorin</persName>
-          </person>
-          <person xml:id="Jakov" sex="MALE">
-            <persName>Яков</persName>
-            <persName xml:lang="en">Jacob</persName>
-          </person>
-          <person xml:id="Treplev" sex="MALE">
-            <persName>Треплев</persName>
-            <persName xml:lang="en">Constantine Treplieff</persName>
+            <persName xml:lang="de">Ein Koch</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -109,6 +121,7 @@
         <change who="#zhenya" when="2017-05-31">added dates</change>
         <change who="#ff" when="2017-06-02">moved full stops from speech acts to speakers; added
           gender info; added segmentations in all four acts</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

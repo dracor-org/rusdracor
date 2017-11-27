@@ -49,23 +49,28 @@
         <listPerson>
           <person xml:id="Hirin" sex="MALE">
             <persName>Хирин</persName>
-            <persName xml:lang="en">Kusma Nicolaievitch Khirin</persName>
+            <persName xml:lang="en">Hirin</persName>
+            <persName xml:lang="de">Hirin</persName>
           </person>
           <person xml:id="Shipuchin" sex="MALE">
             <persName>Шипучин</persName>
-            <persName xml:lang="en">Andrey Andreyevitch Shipuchin</persName>
+            <persName xml:lang="en">Šipučin</persName>
+            <persName xml:lang="de">Šipučin</persName>
           </person>
           <person xml:id="TatjanaAlekseevna" sex="FEMALE">
             <persName>Татьяна Алексеевна</persName>
-            <persName xml:lang="en">Tatiana Alexeyevna</persName>
+            <persName xml:lang="en">Tatʹâna Alekseevna</persName>
+            <persName xml:lang="de">Tatʹâna Alekseevna</persName>
           </person>
           <person xml:id="Merchutkina" sex="FEMALE">
             <persName>Мерчуткина</persName>
-            <persName xml:lang="en">Nastasya Fyodorovna Merchutkina</persName>
+            <persName xml:lang="en">Merčutkina</persName>
+            <persName xml:lang="de">Merčutkina</persName>
           </person>
           <person xml:id="ChlenBanka" sex="MALE">
             <persName>Член банка</persName>
             <persName xml:lang="en">One of the deputation</persName>
+            <persName xml:lang="de">Ein Mitglied der Bank</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -80,6 +85,7 @@
         <change who="#MatveyKolbasov" when="2017-05-20">Converted from Source</change>
         <change who="#sveta" when="2017-05-27">added dates and segmentation</change>
         <change who="#ff" when="2017-07-08">revised</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

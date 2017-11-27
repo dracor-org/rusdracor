@@ -48,9 +48,13 @@
         <listPerson>
           <person xml:id="Murashkin" sex="MALE">
             <persName>Мурашкин</persName>
+            <persName xml:lang="en">Muraškin</persName>
+            <persName xml:lang="de">Muraškin</persName>
           </person>
           <person xml:id="Tolkachov" sex="MALE">
             <persName>Толкачов</persName>
+            <persName xml:lang="en">Tolkačov</persName>
+            <persName xml:lang="de">Tolkačov</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -66,6 +70,7 @@
         <change who="#to" when="2017-05-22">looked through IDs just in case</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-08">revised</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -49,71 +49,88 @@
         <listPerson>
           <person xml:id="Ivanov" sex="MALE">
             <persName>Иванов</persName>
-            <persName xml:lang="en">Nicholas Ivanoff</persName>
+            <persName xml:lang="en">Ivanov</persName>
+            <persName xml:lang="de">Ivanov</persName>
           </person>
           <person xml:id="Borkin" sex="MALE">
             <persName>Боркин</persName>
-            <persName xml:lang="en">Michael Borkin</persName>
-          </person>
-          <person xml:id="Shabelskij" sex="MALE">
-            <persName>Шабельский</persName>
-            <persName xml:lang="en">Matthew Shabelski</persName>
+            <persName xml:lang="en">Borkin</persName>
+            <persName xml:lang="de">Borkin</persName>
           </person>
           <person xml:id="AnnaPetrovna" sex="FEMALE">
             <persName>Анна Петровна</persName>
-            <persName xml:lang="en">Anna</persName>
+            <persName xml:lang="en">Anna Petrovna</persName>
+            <persName xml:lang="de">Anna Petrovna</persName>
+          </person>
+          <person xml:id="Shabelskij" sex="MALE">
+            <persName>Шабельский</persName>
+            <persName xml:lang="en">Šabelʹskij</persName>
+            <persName xml:lang="de">Šabelʹskij</persName>
           </person>
           <person xml:id="Lvov" sex="MALE">
             <persName>Львов</persName>
-            <persName xml:lang="en">Lvoff</persName>
+            <persName xml:lang="en">Lʹvov</persName>
+            <persName xml:lang="de">Lʹvov</persName>
           </person>
           <person xml:id="ZinaidaSavishna" sex="FEMALE">
             <persName>Зинаида Савишна</persName>
-            <persName xml:lang="en">Zinaida</persName>
+            <persName xml:lang="en">Zinaida Savišna</persName>
+            <persName xml:lang="de">Zinaida Savišna</persName>
           </person>
           <person xml:id="Babakina" sex="FEMALE">
             <persName>Бабакина</persName>
-            <persName xml:lang="en">Martha Babakina</persName>
+            <persName xml:lang="en">Babakina</persName>
+            <persName xml:lang="de">Babakina</persName>
           </person>
           <person xml:id="PerviyGost" sex="MALE">
             <persName>1-й гость</persName>
             <persName xml:lang="en">First Guest</persName>
+            <persName xml:lang="de">Erster Gast</persName>
+          </person>
+          <person xml:id="Kosyh" sex="MALE">
+            <persName>Косых</persName>
+            <persName xml:lang="en">Kosyh</persName>
+            <persName xml:lang="de">Kosyh</persName>
+          </person>
+          <person xml:id="Egorushka" sex="MALE">
+            <persName>Егорушка</persName>
+            <persName xml:lang="en">Egoruška</persName>
+            <persName xml:lang="de">Egoruška</persName>
+          </person>
+          <person xml:id="AvdotjaNazarovna" sex="FEMALE">
+            <persName>Авдотья Назаровна</persName>
+            <persName xml:lang="en">Avdotʹâ Nazarovna</persName>
+            <persName xml:lang="de">Avdotʹâ Nazarovna</persName>
           </person>
           <person xml:id="VtorojGost" sex="MALE">
             <persName>2-й гость</persName>
             <persName xml:lang="en">Second Guest</persName>
+            <persName xml:lang="de">Zweiter Gast</persName>
           </person>
           <person xml:id="TretijGost" sex="MALE">
             <persName>3-й гость</persName>
             <persName xml:lang="en">Third Guest</persName>
+            <persName xml:lang="de">Dritter Gast</persName>
           </person>
-          <person xml:id="Egorushka" sex="MALE">
-            <persName>Егорушка</persName>
-            <persName xml:lang="en">Gabriel</persName>
+          <person xml:id="Lebedev" sex="MALE">
+            <persName>Лебедев</persName>
+            <persName xml:lang="en">Lebedev</persName>
+            <persName xml:lang="de">Lebedev</persName>
           </person>
-          <person xml:id="AvdotjaNazarovna" sex="FEMALE">
-            <persName>Авдотья Назаровна</persName>
-            <persName xml:lang="en">Avdotia Nazarovna</persName>
-          </person>
-          <person xml:id="Kosyh" sex="MALE">
-            <persName>Косых</persName>
-            <persName xml:lang="en">Kosich</persName>
+          <person xml:id="Sasha" sex="FEMALE">
+            <persName>Саша</persName>
+            <persName xml:lang="en">Saša</persName>
+            <persName xml:lang="de">Saša</persName>
           </person>
           <person xml:id="Baryshni" sex="FEMALE">
             <persName>Барышни</persName>
             <persName xml:lang="en">The girls</persName>
-          </person>
-          <person xml:id="Sasha" sex="FEMALE">
-            <persName>Саша</persName>
-            <persName xml:lang="en">Sasha</persName>
+            <persName xml:lang="de">Die jungen Damen</persName>
           </person>
           <person xml:id="GolosaVZale" sex="UNKNOWN">
             <persName>Голоса в зале</persName>
             <persName xml:lang="en">Voices from the ball-room</persName>
-          </person>
-          <person xml:id="Lebedev" sex="MALE">
-            <persName>Лебедев</persName>
-            <persName xml:lang="en">Paul Lebedieff</persName>
+            <persName xml:lang="de">Stimmen im Saal</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -131,6 +148,7 @@
         <change who="#to" when="2017-06-04">gender info</change>
         <change who="#ff" when="2017-07-08">formalities</change>
         <change who="#ff" when="2017-07-21">added some missing text parts</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

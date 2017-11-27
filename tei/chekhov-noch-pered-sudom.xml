@@ -47,7 +47,7 @@
         <listPerson>
           <person xml:id="Zajtsev" sex="MALE">
             <persName>Зайцев</persName>
-            <persName xml:lang="en">Zaytsev</persName>
+            <persName xml:lang="en">Zajcev</persName>
             <persName xml:lang="de">Zajcev</persName>
           </person>
           <person xml:id="Smotritel" sex="MALE">
@@ -57,7 +57,7 @@
           </person>
           <person xml:id="Zinochka" sex="FEMALE">
             <persName>Зиночка</persName>
-            <persName xml:lang="en">Zina</persName>
+            <persName xml:lang="en">Zinočka</persName>
             <persName xml:lang="de">Zinočka</persName>
           </person>
           <person xml:id="Gusev" sex="MALE">
@@ -80,6 +80,7 @@
         <change who="#zhenya" when="2017-05-31">added dates</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-21">formalities; revision</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

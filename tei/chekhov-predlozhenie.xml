@@ -50,15 +50,18 @@
         <listPerson>
           <person xml:id="Chubukov" sex="MALE">
             <persName>Чубуков</persName>
-            <persName xml:lang="en">Stepan Stepanovitch Chubukov</persName>
-          </person>
-          <person xml:id="NataljaStepanovna" sex="FEMALE">
-            <persName>Наталья Степановна</persName>
-            <persName xml:lang="en">Natalya Stepanovna</persName>
+            <persName xml:lang="en">Čubukov</persName>
+            <persName xml:lang="de">Čubukov</persName>
           </person>
           <person xml:id="Lomov" sex="MALE">
             <persName>Ломов</persName>
-            <persName xml:lang="en">Ivan Vassilevitch Lomov</persName>
+            <persName xml:lang="en">Lomov</persName>
+            <persName xml:lang="de">Lomov</persName>
+          </person>
+          <person xml:id="NataljaStepanovna" sex="FEMALE">
+            <persName>Наталья Степановна</persName>
+            <persName xml:lang="en">Natalʹâ Stepanovna</persName>
+            <persName xml:lang="de">Natalʹâ Stepanovna</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -75,6 +78,7 @@
         <change who="#zhenya">added dates</change>
         <change who="#to">gender info</change>
         <change who="#ff" when="2017-07-08">revised</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

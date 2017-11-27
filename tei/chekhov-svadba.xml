@@ -52,55 +52,68 @@
         <listPerson>
           <person xml:id="Zmejukina" sex="FEMALE">
             <persName>Змеюкина</persName>
-            <persName xml:lang="en">Anna Martinovna Zmeyukina</persName>
+            <persName xml:lang="en">Zmeûkina</persName>
+            <persName xml:lang="de">Zmeûkina</persName>
           </person>
           <person xml:id="Jat" sex="MALE">
             <persName>Ять</persName>
-            <persName xml:lang="en">Ivan Mihailovitch Yats</persName>
+            <persName xml:lang="en">Âtʹ</persName>
+            <persName xml:lang="de">Âtʹ</persName>
           </person>
           <person xml:id="Shafer" sex="MALE">
             <persName>Шафер</persName>
             <persName xml:lang="en">Groomsman</persName>
+            <persName xml:lang="de">Brautführer</persName>
           </person>
           <person xml:id="NastasjaTimofeevna" sex="FEMALE">
             <persName>Настасья Тимофеевна</persName>
-            <persName xml:lang="en">Nastasya Timofeyevna</persName>
+            <persName xml:lang="en">Nastasʹâ Timofeevna</persName>
+            <persName xml:lang="de">Nastasʹâ Timofeevna</persName>
           </person>
           <person xml:id="Aplombov" sex="MALE">
             <persName>Апломбов</persName>
-            <persName xml:lang="en">Epaminond Maximovitch Aplombov</persName>
+            <persName xml:lang="en">Aplombov</persName>
+            <persName xml:lang="de">Aplombov</persName>
           </person>
           <person xml:id="Lakej" sex="MALE">
             <persName>Лакей</persName>
             <persName xml:lang="en">A waiter</persName>
+            <persName xml:lang="de">Lakai</persName>
           </person>
           <person xml:id="Zhigalov" sex="MALE">
             <persName>Жигалов</persName>
-            <persName xml:lang="en">Evdokim Zaharovitch Zhigalov</persName>
+            <persName xml:lang="en">Žigalov</persName>
+            <persName xml:lang="de">Žigalov</persName>
           </person>
           <person xml:id="Dymba" sex="MALE">
             <persName>Дымба</persName>
-            <persName xml:lang="en">Harlampi Spiridonovitch Dimba</persName>
+            <persName xml:lang="en">Dymba</persName>
+            <persName xml:lang="de">Dymba</persName>
           </person>
           <person xml:id="Kavalery" sex="MALE">
             <persName>Кавалеры</persName>
             <persName xml:lang="en">Gentlemen</persName>
+            <persName xml:lang="de">Junge Herren</persName>
           </person>
           <person xml:id="Njunin" sex="MALE">
             <persName>Нюнин</persName>
-            <persName xml:lang="en">Andrey Andreyevitch Nunin</persName>
+            <persName xml:lang="en">Nûnin</persName>
+            <persName xml:lang="de">Nûnin</persName>
           </person>
           <person xml:id="Mozgovoj" sex="MALE">
             <persName>Мозговой</persName>
-            <persName xml:lang="en">Dmitri Stepanovitch Mozgovoy</persName>
+            <persName xml:lang="en">Mozgovoj</persName>
+            <persName xml:lang="de">Mozgovoj</persName>
           </person>
           <person xml:id="Dashenka" sex="FEMALE">
             <persName>Дашенька</persName>
-            <persName xml:lang="en">Dashenka</persName>
+            <persName xml:lang="en">Dašenʹka</persName>
+            <persName xml:lang="de">Dašenʹka</persName>
           </person>
           <person xml:id="Revunov" sex="MALE">
             <persName>Ревунов</persName>
-            <persName xml:lang="en">Fyodor Yakovlevitch Revunov-Karaulov</persName>
+            <persName xml:lang="en">Revunov</persName>
+            <persName xml:lang="de">Revunov</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -117,6 +130,7 @@
           anonymously</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-08">scene segmentation</change>
+        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
