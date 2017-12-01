@@ -58,6 +58,15 @@
           <person xml:id="Bobchinskij" sex="MALE">
             <persName>Бобчинский</persName>
           </person>
+          <person xml:id="Dobchinskij" sex="MALE">
+            <persName>Добчинский</persName>
+          </person>
+          <person xml:id="Svistunov" sex="MALE">
+            <persName>Свистунов</persName>
+          </person>
+          <person xml:id="Kvartalnyj" sex="MALE">
+            <persName>Квартальный</persName>
+          </person>
           <person xml:id="Lekar" sex="MALE">
             <persName>Лекарь Христофор Иванович</persName>
           </person>
@@ -94,12 +103,6 @@
           <person xml:id="UnterOfitsersha" sex="FEMALE">
             <persName>Унтер-офицерша</persName>
           </person>
-          <person xml:id="Dobchinskij" sex="MALE">
-            <persName>Добчинский</persName>
-          </person>
-          <person xml:id="Svistunov" sex="MALE">
-            <persName>Свистунов</persName>
-          </person>
           <person xml:id="OdinIzKuptsov" sex="MALE">
             <persName>Один из купцов</persName>
           </person>
@@ -132,9 +135,6 @@
           </person>
           <person xml:id="Slesarsha" sex="FEMALE">
             <persName>Слесарша</persName>
-          </person>
-          <person xml:id="Kvartalnyj" sex="MALE">
-            <persName>Квартальный</persName>
           </person>
           <person xml:id="MnogieIzGostej" sex="UNKNOWN">
             <persName>Многие из гостей</persName>
@@ -1057,14 +1057,13 @@
         <div type="scene">
           <head>Явление I</head>
           <stage>Осип лежит на барской постеле.</stage>
-          <sp>
+          <sp who="#Osip">
             <p>Черт побери, есть так хочется и в животе трескотня такая, как будто бы целый полк
               затрубил в трубы. Вот не доедем, да и только, домой! Что ты прикажешь делать? Второй
               месяц пошел, как уже из Питера! Профинтил дорогою денежки, голубчик, теперь сидит и
               хвост подвернул, и не горячится. А стало бы, и очень бы стало на прогоны; нет, вишь
-              ты, нужно в каждом городе показать себя!</p>
-            <stage type="delivery">(Дразнит его.)</stage>
-            <p>«Эй, Осип, ступай посмотри комнату, лучшую, да обед спроси самый лучший: я не могу
+              ты, нужно в каждом городе показать себя! <stage type="delivery">(Дразнит его.)</stage>
+              «Эй, Осип, ступай посмотри комнату, лучшую, да обед спроси самый лучший: я не могу
               есть дурного обеда, мне нужен лучший обед». Добро бы было в самом деле что-нибудь
               путное, а то ведь елистратишка простой! С проезжающим знакомится, а потом в картишки –
               вот тебе и доигрался! Эх, надоела такая жизнь! Право, на деревне лучше: оно хоть нет
@@ -1076,27 +1075,25 @@
               лодке с чиновником сядешь; компании захотел – ступай в лавочку: там тебе кавалер
               расскажет про лагери и объявит, что всякая звезда значит на небе, так вот как на
               ладони все видишь. Старуха офицерша забредет; горничная иной раз заглянет такая... фу,
-              фу, фу!</p>
-            <stage type="delivery">(Усмехается и трясет головою.)</stage>
-            <p>Галантерейное, черт возьми, обхождение! Невежливого слова никогда не услышишь, всякой
-              тебе говорит «вы». Наскучило идти – берешь извозчика и сидишь себе как барин, а не
-              хочешь заплатить ему – изволь: у каждого дома есть сквозные ворота, и ты так шмыгнешь,
-              что тебя никакой дьявол не сыщет. Одно плохо: иной раз славно наешься, а в другой чуть
-              не лопнешь с голоду, как теперь, например. А все он виноват. Что с ним сделаешь?
-              Батюшка пришлет денежки, чем бы их попридержать – и куды!.. пошел кутить: ездит на
-              извозчике, каждый день ты доставай в кеятр билет, а там через неделю, глядь – и
-              посылает на толкучий продавать новый фрак. Иной раз все до последней рубашки спустит,
-              так что на нем всего останется сертучишка да шинелишка... Ей-Богу, правда! И сукно
-              такое важное, аглицкое! рублев полтораста ему один фрак станет, а на рынке спустит
-              рублей за двадцать; а о брюках и говорить нечего – нипочем идут. А отчего? – оттого,
-              что делом не занимается: вместо того чтобы в должность, а он идет гулять по прешпекту,
-              в картишки играет. Эх, если б узнал это старый барин! Он не посмотрел бы на то, что ты
-              чиновник, а, поднявши рубашонку, таких бы засыпал тебе, что дня б четыре ты
-              почесывался. Коли служить, так служи. Вот теперь трактирщик сказал, что не дам вам
-              есть, пока не заплатите за прежнее; ну, а коли не заплатим?</p>
-            <stage type="delivery">(Со вздохом.)</stage>
-            <p>Ах, Боже Ты мой, хоть бы какие-нибудь щи! Кажись, так бы теперь весь свет съел.
-              Стучится; верно, это он идет.</p>
+              фу, фу! <stage type="delivery">(Усмехается и трясет головою.)</stage> Галантерейное,
+              черт возьми, обхождение! Невежливого слова никогда не услышишь, всякой тебе говорит
+              «вы». Наскучило идти – берешь извозчика и сидишь себе как барин, а не хочешь заплатить
+              ему – изволь: у каждого дома есть сквозные ворота, и ты так шмыгнешь, что тебя никакой
+              дьявол не сыщет. Одно плохо: иной раз славно наешься, а в другой чуть не лопнешь с
+              голоду, как теперь, например. А все он виноват. Что с ним сделаешь? Батюшка пришлет
+              денежки, чем бы их попридержать – и куды!.. пошел кутить: ездит на извозчике, каждый
+              день ты доставай в кеятр билет, а там через неделю, глядь – и посылает на толкучий
+              продавать новый фрак. Иной раз все до последней рубашки спустит, так что на нем всего
+              останется сертучишка да шинелишка... Ей-Богу, правда! И сукно такое важное, аглицкое!
+              рублев полтораста ему один фрак станет, а на рынке спустит рублей за двадцать; а о
+              брюках и говорить нечего – нипочем идут. А отчего? – оттого, что делом не занимается:
+              вместо того чтобы в должность, а он идет гулять по прешпекту, в картишки играет. Эх,
+              если б узнал это старый барин! Он не посмотрел бы на то, что ты чиновник, а, поднявши
+              рубашонку, таких бы засыпал тебе, что дня б четыре ты почесывался. Коли служить, так
+              служи. Вот теперь трактирщик сказал, что не дам вам есть, пока не заплатите за
+              прежнее; ну, а коли не заплатим? <stage>(Со вздохом.)</stage> Ах, Боже Ты мой, хоть бы
+              какие-нибудь щи! Кажись, так бы теперь весь свет съел. Стучится; верно, это он
+              идет.</p>
             <stage type="delivery">(Поспешно схватывается с постели.)</stage>
           </sp>
         </div>
@@ -5111,7 +5108,7 @@
               ревизор.</p>
           </sp>
           <sp
-            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Lulukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Как не ревизор?</p>
           </sp>
@@ -5187,7 +5184,7 @@
               позвольте прочитать письмо!</p>
           </sp>
           <sp
-            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Lulukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Читайте, читайте!</p>
           </sp>
@@ -5309,7 +5306,7 @@
             <p>Нет, всё читайте! ведь прежде все читано.</p>
           </sp>
           <sp
-            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #Pochtmejster #Rastakovskij #Korobkin #ZhenaKorobkina #Lulukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #Pochtmejster #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Отдайте, Артемий Филиппович, отдайте письмо!</p>
             <stage type="delivery">(Коробкину.)</stage>
