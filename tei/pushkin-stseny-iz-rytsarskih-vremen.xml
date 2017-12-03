@@ -44,38 +44,14 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Rotenfeld" sex="MALE">
-            <persName>Ротенфельд</persName>
-          </person>
-          <person xml:id="Bertold" sex="MALE">
-            <persName>Бертольд</persName>
+          <person xml:id="Martyn" sex="MALE">
+            <persName>Мартын</persName>
           </person>
           <person xml:id="Frants" sex="MALE">
             <persName>Франц</persName>
           </person>
-          <person xml:id="Rytsari" sex="MALE">
-            <persName>Рыцари</persName>
-          </person>
-          <person xml:id="Rytsari_2" sex="MALE">
-            <persName>Рыцари</persName>
-          </person>
-          <person xml:id="Martyn" sex="MALE">
-            <persName>Мартын</persName>
-          </person>
-          <person xml:id="OdinIzNih" sex="MALE">
-            <persName>Один из них</persName>
-          </person>
-          <person xml:id="Berta" sex="FEMALE">
-            <persName>Берта</persName>
-          </person>
-          <person xml:id="Vassaly" sex="MALE">
-            <persName>Вассалы</persName>
-          </person>
-          <person xml:id="OdinIzRytsarej" sex="MALE">
-            <persName>Один из рыцарей</persName>
-          </person>
-          <person xml:id="OdinIzRytsarej_2" sex="MALE">
-            <persName>Один из рыцарей</persName>
+          <person xml:id="Bertold" sex="MALE">
+            <persName>Бертольд</persName>
           </person>
           <person xml:id="Alber" sex="MALE">
             <persName>Альбер</persName>
@@ -83,29 +59,56 @@
           <person xml:id="Klotilda" sex="FEMALE">
             <persName>Клотильда</persName>
           </person>
+          <person xml:id="Berta" sex="FEMALE">
+            <persName>Берта</persName>
+          </person>
+          <person xml:id="Rotenfeld" sex="MALE">
+            <persName>Ротенфельд</persName>
+          </person>
           <person xml:id="Karl" sex="MALE">
             <persName>Карл</persName>
+          </person>
+          <person xml:id="Kosari" sex="MALE">
+            <persName>Косари</persName>
+          </person>
+          <person xml:id="Rytsari" sex="MALE">
+            <persName>Рыцари</persName>
+          </person>
+          <person xml:id="Vassaly" sex="MALE">
+            <persName>Вассалы</persName>
           </person>
           <person xml:id="OdinRytsar" sex="MALE">
             <persName>Один рыцарь</persName>
           </person>
-          <person xml:id="OdinRytsar_2" sex="MALE">
-            <persName>Один рыцарь</persName>
-          </person>
-          <person xml:id="Rytsar" sex="MALE">
-            <persName>Рыцарь</persName>
-          </person>
-          <person xml:id="Rytsar_2" sex="MALE">
-            <persName>Рыцарь</persName>
-          </person>
           <person xml:id="DrugojRytsar" sex="MALE">
             <persName>Другой</persName>
+          </person>
+          <person xml:id="OdinIzNih" sex="MALE">
+            <persName>Один из них</persName>
           </person>
           <person xml:id="DrugojRytsar_2" sex="MALE">
             <persName>Другой</persName>
           </person>
+          <person xml:id="Rytsari_2" sex="MALE">
+            <persName>Рыцари</persName>
+          </person>
+          <person xml:id="Rytsar" sex="MALE">
+            <persName>Рыцарь</persName>
+          </person>
           <person xml:id="DrugojRytsar_3" sex="MALE">
             <persName>Другой</persName>
+          </person>
+          <person xml:id="OdinIzRytsarej" sex="MALE">
+            <persName>Один из рыцарей</persName>
+          </person>
+          <person xml:id="OdinRytsar_2" sex="MALE">
+            <persName>Один рыцарь</persName>
+          </person>
+          <person xml:id="OdinIzRytsarej_2" sex="MALE">
+            <persName>Один из рыцарей</persName>
+          </person>
+          <person xml:id="Rytsar_2" sex="MALE">
+            <persName>Рыцарь</persName>
           </person>
           <person xml:id="DrugojRytsar_4" sex="MALE">
             <persName>Другой</persName>
@@ -124,7 +127,8 @@
         <change who="#ff" when="2017-05-23">added metadata, inserted configuration changes</change>
         <change who="#zhenya" when="2017-06-01">added dates, ids</change>
         <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2017-12-03">formalities; delete duplicate of poem</change>
+        <change who="#ff" when="2017-12-03">formalities; delete duplicate of poem; work on
+          IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -863,7 +867,7 @@
           <speaker>Ротенфельд.</speaker>
           <p>А вот пришпорим лошадей да потопчем их порядком....</p>
         </sp>
-        <sp who="#Vassaly">
+        <sp who="#Kosari">
           <speaker>Косари.</speaker>
           <p>Ребята, не робеть...</p>
         </sp>
