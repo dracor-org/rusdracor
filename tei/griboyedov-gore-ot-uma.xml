@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -10,7 +9,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/griboyedov-gore-ot-uma</idno>
+        <idno type="RusDraCor">47</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -5128,8 +5128,7 @@
               <l part="F">Шш!</l>
             </lg>
           </sp>
-          <sp
-            who="#GrafinjaBabushka #Knjaz #Hlestova #Sofija #Molchalin #PlatonMihajlovich #NataljaDmitrievna #GrafinjaVnuchka #Knjaginja #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Zagoretskij #Skalozub #Famusov">
+          <sp who="#GrafinjaBabushka #Knjaz #Hlestova #Sofija #Molchalin #PlatonMihajlovich #NataljaDmitrievna #GrafinjaVnuchka #Knjaginja #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Zagoretskij #Skalozub #Famusov">
             <speaker>Все</speaker>
             <lg>
               <l part="F">Шш!</l>
@@ -5900,8 +5899,7 @@
               <l part="F">Вы!</l>
             </lg>
           </sp>
-          <sp
-            who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna">
+          <sp who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna">
             <speaker>Все вместе</speaker>
             <lg>
               <l>Мсьё Репетилов! Вы! Мсье Репетилов, что вы!</l>
@@ -5941,8 +5939,7 @@
               <l part="I">За мною, матушка.</l>
             </lg>
           </sp>
-          <sp
-            who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Knjaginja #Repetilov #Hlestova">
+          <sp who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Knjaginja #Repetilov #Hlestova">
             <speaker>Все</speaker>
             <stage>(друг к другу)</stage>
             <lg>

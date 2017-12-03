@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -12,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/chekhov-ivanov</idno>
+        <idno type="RusDraCor">70</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -2410,8 +2410,7 @@
             <speaker>Лебедев.</speaker>
             <p>Бог с тобою, смешишь ты, Мишель Мишелич!</p>
             <stage type="delivery">(Перестав смеяться.)</stage>
-            <p>Что ж, господа, Жомини да Жомини, а об водке ни полслова. Repetatur! <stage
-                type="delivery">(Наливает три рюмки.)</stage> Будемте здоровы...</p>
+            <p>Что ж, господа, Жомини да Жомини, а об водке ни полслова. Repetatur! <stage type="delivery">(Наливает три рюмки.)</stage> Будемте здоровы...</p>
             <stage>Пьют и закусывают.</stage>
             <p>Селедочка, матушка, всем закускам закуска.</p>
           </sp>

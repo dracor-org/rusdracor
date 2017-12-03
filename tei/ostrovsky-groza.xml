@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -12,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/ostrovsky-groza</idno>
+        <idno type="RusDraCor">30</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -141,8 +141,7 @@
       </docTitle>
       <castList>
         <head>ЛИЦА:</head>
-        <castItem>Савел Прокофьевич Дико́й, купец, значительное лицо в городе<note type="footnote"
-            >Все лица, кроме Бориса, одеты по-русски.</note>.</castItem>
+        <castItem>Савел Прокофьевич Дико́й, купец, значительное лицо в городе<note type="footnote">Все лица, кроме Бориса, одеты по-русски.</note>.</castItem>
         <castItem>Борис Григорьевич, племянник его, молодой человек, порядочно
           образованный.</castItem>
         <castItem>Марфа Игнатьевна Кабанова (Кабаниха), богатая купчиха, вдова.</castItem>

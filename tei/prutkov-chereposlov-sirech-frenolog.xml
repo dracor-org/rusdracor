@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -12,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/prutkov-chereposlov-sirech-frenolog</idno>
+        <idno type="RusDraCor">24</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -23,8 +23,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Wikisource</name>
-          <idno type="URL"
-            >https://ru.wikisource.org/wiki/Черепослов,_сиречь_Френолог_(Прутков)</idno>
+          <idno type="URL">https://ru.wikisource.org/wiki/Черепослов,_сиречь_Френолог_(Прутков)</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>
@@ -154,7 +153,8 @@
           <speaker>Иванов</speaker>
           <stage type="delivery">(тоже испугавшийся)</stage>
           <p>Раз!.. Ведь надо же случиться! <stage>(Подымает книги и расставляет их по
-              местам.)</stage></p>
+              местам.)</stage>
+                    </p>
         </sp>
         <sp who="#Shishkengolm">
           <speaker>Шишкенгольм</speaker>
@@ -168,7 +168,8 @@
         <sp who="#Ivanov">
           <speaker>Иванов</speaker>
           <stage type="delivery">(с негодованьем)</stage>
-          <p>Тьфу, и во второй!.. <stage>(Дерет за вихры Фрица и Густава.)</stage></p>
+          <p>Тьфу, и во второй!.. <stage>(Дерет за вихры Фрица и Густава.)</stage>
+                    </p>
         </sp>
         <sp who="#Liza">
           <speaker>Лиза</speaker>
@@ -298,7 +299,8 @@
           <stage type="delivery">(гордо и строго)</stage>
           <p>Я ошибаюсь?! <stage>(Ощупывает одновременно, обеими руками, их затылки.)</stage> Ни за
             что!.. <stage>(Уходит большими шагами в правую боковую дверь. Фриц и Густав за
-              ним.)</stage></p>
+              ним.)</stage>
+                    </p>
         </sp>
         <sp who="#MinaHristianovna">
           <speaker>Мина Христиановна</speaker>
@@ -314,7 +316,8 @@
           <speaker>Мина Христиановна</speaker>
           <stage type="delivery">(гордо и строго)</stage>
           <p>Он ошибается?! <stage>(Ощупывает одновременно, обеими руками, их затылки.)</stage> Ни
-            за что!.. <stage>(Уходит большими шагами в ту же боковую дверь.)</stage></p>
+            за что!.. <stage>(Уходит большими шагами в ту же боковую дверь.)</stage>
+                    </p>
           <stage>Молчание. Лиза, Касимов и Вихорин стоят печальные. Касимов начинает робко,
             нерешительно приближаться к Лизе.</stage>
         </sp>
@@ -324,12 +327,14 @@
           <p>Придумал!.. Я в парике… <stage>(Радостно приподымает немного свой парик за
               виски.)</stage> Подобью парик шишками из ваты, да побольше!.. Браво! Побегу
             поскорее!.. До свиданья, Лизавета Ивановна! <stage>(Уходит большими шагами в среднюю
-              дверь.)</stage></p>
+              дверь.)</stage>
+                    </p>
         </sp>
         <sp who="#Kasimov">
           <speaker>Касимов</speaker>
           <stage type="delivery">(печально, со слезами в голосе)</stage>
-          <p>Лизавета Ивановна, послушайте!.. <stage>(Поет.)</stage></p>
+          <p>Лизавета Ивановна, послушайте!.. <stage>(Поет.)</stage>
+                    </p>
           <l>Природа, видно, подшутила,</l>
           <l>Когда меня произвела?</l>
           <l>Она любовь в меня вложила,</l>
@@ -436,7 +441,8 @@
           <stage type="delivery">(останавливается в нерешительности)</stage>
           <p>Ой ли?.. А знаешь, Иванов, как-то боязно становится, ей-богу!.. <stage>(Опускает
               голову, задумываясь, и вновь проводит по ней рукою.)</stage> Ну, была не была!..
-            Валяй, Иванов! <stage>(С решительностью идет к стулу и садится на него.)</stage></p>
+            Валяй, Иванов! <stage>(С решительностью идет к стулу и садится на него.)</stage>
+                    </p>
           <stage>Иванов становится позади Касимова, подняв молоток над его головою.</stage>
         </sp>
         <sp who="#Kasimov">
@@ -630,7 +636,8 @@
           <speaker>Шишкенгольм</speaker>
           <stage type="delivery">(вне себя)</stage>
           <p>О, уж это слишком!.. <stage>(Бросается к ним, вырывает от Касимова Лизу и
-              поет.)</stage></p>
+              поет.)</stage>
+                    </p>
           <l>Что задрал так кверху нос ты?</l>
           <l>Как ты смеешь танцевать?!</l>
           <l>Нет, поверь, не так мы просты,</l>

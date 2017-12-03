@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -11,7 +10,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/pushkin-stseny-iz-rytsarskih-vremen</idno>
+        <idno type="RusDraCor">16</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -377,7 +377,8 @@
         <sp who="#Bertold">
           <speaker>Бертольд</speaker>
           <p>. Займусь еще одним исследованием: мне кажется, есть средство открыть perpetuum
-              mobile...<note n="1" type="translation">вечное движение (лат.).</note></p>
+              mobile...<note n="1" type="translation">вечное движение (лат.).</note>
+                    </p>
         </sp>
         <sp who="#Martyn">
           <speaker>Мартын</speaker>
@@ -1103,7 +1104,8 @@
           </lg>
           <lg>
             <l>Lumen coelum, sancta rosa!<note n="3" type="translation">Свет небес, святая роза
-                (лат.).</note></l>
+                (лат.).</note>
+                        </l>
             <l>Восклицал он, дик и рьян,</l>
             <l>И как гром его угроза</l>
             <l>Поражала мусульман.</l>

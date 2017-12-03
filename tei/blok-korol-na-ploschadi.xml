@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -11,7 +10,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/blok-korol-na-ploschadi</idno>
+        <idno type="RusDraCor">75</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>

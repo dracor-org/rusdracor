@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -12,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/bulgakov-dni-turbinyh</idno>
+        <idno type="RusDraCor">73</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -2964,8 +2964,7 @@
             <speaker>Гетман.</speaker>
             <p>Мне сейчас стало известно, что петлюровская конница прорвала городской фронт.</p>
             <p>Кроме того, из штаба русского командования я имею какие-то совершенно невероятные
-              известия. Штаб русского командования позорно бежал. Das ist ja unerhört! <stage
-                type="delivery">(Пауза.)</stage> Я обращаюсь через ваше посредство к германскому
+              известия. Штаб русского командования позорно бежал. Das ist ja unerhört! <stage type="delivery">(Пауза.)</stage> Я обращаюсь через ваше посредство к германскому
               правительству... со следующим заявлением: Украине угрожает смертельная опасность.
               Банды Петлюры грозят занять столицу. В случае такого исхода в столице произойдет
               анархия. Поэтому я прошу германское командование немедленно дать войска для отражения

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -12,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/fonvizin-brigadir</idno>
+        <idno type="RusDraCor">58</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -1222,8 +1222,7 @@
           <stage>Здесь входит сын, а они его не видят.</stage>
           <sp who="#Sovetnik">
             <speaker>Советник.</speaker>
-            <p>Не о деньгах речь идет: я сам для денег на все могу согласиться. <stage
-                type="delivery"> (Становится на колени.).</stage> люблю тебя, моя матушка...</p>
+            <p>Не о деньгах речь идет: я сам для денег на все могу согласиться. <stage type="delivery"> (Становится на колени.).</stage> люблю тебя, моя матушка...</p>
           </sp>
           <stage>В самое то время, увидев советник сына, вскочил, а сын хохочет и
             аплодирует.</stage>
@@ -1247,7 +1246,8 @@
           <sp who="#Sovetnik">
             <speaker>Советник.</speaker>
             <p>Не осуждай, не осужден будеши. <stage type="delivery">(Оторопев,
-              выходит.)</stage></p>
+              выходит.)</stage>
+                        </p>
           </sp>
           <sp who="#Brigadirsha">
             <speaker>Бригадирша.</speaker>
@@ -1291,7 +1291,8 @@
           <sp who="#Sovetnitsa">
             <speaker>Советница.</speaker>
             <p>Не вправду ли? <stage type="delivery">(Во время речи бригадиршиной отводит сына и
-                нечто шепчет ему.)</stage></p>
+                нечто шепчет ему.)</stage>
+                        </p>
           </sp>
           <sp who="#Brigadirsha">
             <speaker>Бригадирша</speaker>
@@ -1369,7 +1370,8 @@
           <sp who="#Brigadirsha">
             <speaker>Бригадирша.</speaker>
             <p>Ну, слава богу, что это шутка. Теперь душа моя на месте. <stage type="delivery">
-                (Отходит)</stage></p>
+                (Отходит)</stage>
+                        </p>
           </sp>
         </div>
         <div type="scene">
@@ -1529,7 +1531,8 @@
             <speaker>Советница</speaker>
             <stage type="delivery">(к сыну).</stage>
             <p>Когда время идти к столу, так пойдем. <stage type="delivery">(Подает ему руку, он
-                ведет ее жеманяся; а бригадир, идучи за ними, говорит.)</stage></p>
+                ведет ее жеманяся; а бригадир, идучи за ними, говорит.)</stage>
+                        </p>
           </sp>
           <sp who="#Brigadir">
             <speaker>Бригадир.</speaker>
@@ -1933,7 +1936,8 @@
           <sp who="#Syn">
             <speaker>Сын</speaker>
             <stage type="delivery">(к советнице).</stage>
-            <p>Cela m'excède, je me retire. <stage type="delivery">(Выходит.)</stage></p>
+            <p>Cela m'excède, je me retire. <stage type="delivery">(Выходит.)</stage>
+                        </p>
           </sp>
           <sp who="#Brigadirsha">
             <speaker>Бригадирша</speaker>
@@ -2086,8 +2090,7 @@
           </sp>
           <sp who="#Brigadir">
             <speaker>Бригадир.</speaker>
-            <p>Матушка! Это не такое дело, о котором бы я говорил при вашем сожителе. <stage
-                type="delivery"> (Выходя.)</stage> Я с досады тресну.</p>
+            <p>Матушка! Это не такое дело, о котором бы я говорил при вашем сожителе. <stage type="delivery"> (Выходя.)</stage> Я с досады тресну.</p>
           </sp>
         </div>
         <div type="scene">
@@ -2445,7 +2448,8 @@
           <sp who="#Syn">
             <speaker>Сын.</speaker>
             <p>Mademoiselle! <stage type="delivery">(Подает, и все садятся, между тем как сын сдает
-                карты.)</stage></p>
+                карты.)</stage>
+                        </p>
           </sp>
           <sp who="#Brigadirsha">
             <speaker>Бригадирша.</speaker>
@@ -2493,8 +2497,7 @@
           </sp>
           <sp who="#Brigadirsha">
             <speaker>Бригадирша.</speaker>
-            <p>Так, мой батюшка, уж чего ныне не выдумают. Они и они! Куды мудрен народ! <stage
-                type="delivery"> (Заглянув к сыну в карты.)</stage> Ах, Иванушка, как на руках-то у
+            <p>Так, мой батюшка, уж чего ныне не выдумают. Они и они! Куды мудрен народ! <stage type="delivery"> (Заглянув к сыну в карты.)</stage> Ах, Иванушка, как на руках-то у
               тебя жлудей, жлудей!</p>
           </sp>
           <sp who="#Syn">
@@ -2634,13 +2637,12 @@
           </sp>
           <sp who="#Syn">
             <speaker>Сын.</speaker>
-            <p>Так, батюшка, все пословицы справедливы, а особливо французские. Не правда <stage
-                type="delivery">(к Добролюбову)</stage>, monsieur?</p>
+            <p>Так, батюшка, все пословицы справедливы, а особливо французские. Не правда <stage type="delivery">(к Добролюбову)</stage>, monsieur?</p>
           </sp>
           <sp who="#Dobroljubov">
             <speaker>Добролюбов.</speaker>
-            <p>Я знаю много и русских очень справедливых; не правда ли, сударыня <stage
-                type="delivery"> (к Софье)?</stage></p>
+            <p>Я знаю много и русских очень справедливых; не правда ли, сударыня <stage type="delivery"> (к Софье)?</stage>
+                        </p>
           </sp>
           <sp who="#Sofja">
             <speaker>Софья.</speaker>
@@ -2688,7 +2690,8 @@
           <sp who="#Brigadirsha">
             <speaker>Бригадирша.</speaker>
             <p>И, мой батюшка, мне ль сердиться, когда он гневается; мое дело убираться теперь дале.
-                <stage type="delivery">(Отходит.)</stage></p>
+                <stage type="delivery">(Отходит.)</stage>
+                        </p>
           </sp>
         </div>
         <div type="scene">
@@ -2705,7 +2708,8 @@
           </sp>
           <sp who="#Sofja">
             <speaker>Софья.</speaker>
-            <p>Иду, сударыня. <stage type="delivery">(Отходит.)</stage></p>
+            <p>Иду, сударыня. <stage type="delivery">(Отходит.)</stage>
+                        </p>
           </sp>
         </div>
         <div type="scene">
@@ -2789,8 +2793,7 @@
           </sp>
           <sp who="#Sovetnik">
             <speaker>Советник.</speaker>
-            <p>Она смиренна, яко агнец, трудолюбива, яко пчела, прекрасна, яко райская птица <stage
-                type="delivery">(вздыхая)</stage>, и верна, яко горлица.</p>
+            <p>Она смиренна, яко агнец, трудолюбива, яко пчела, прекрасна, яко райская птица <stage type="delivery">(вздыхая)</stage>, и верна, яко горлица.</p>
           </sp>
           <sp who="#Brigadir">
             <speaker>Бригадир.</speaker>
@@ -3180,7 +3183,8 @@
             <speaker>Бригадирша.</speaker>
             <p>Иванушка, друг мой, или ты выучи меня по-французскому, или сам разучись. Я вижу, что
               мне никак нельзя ни слушать тебя, ни самой говорить. <stage type="delivery">
-                (Отходит.)</stage></p>
+                (Отходит.)</stage>
+                        </p>
           </sp>
           <sp who="#Syn">
             <speaker>Сын.</speaker>
@@ -3360,8 +3364,7 @@
           <sp who="#Brigadir">
             <speaker>Бригадир.</speaker>
             <p>Я, братец, тебе, помнишь, говорил: береги жену, не давай ей волн; вот что и вышло. Мы
-              с тобою породнились, да не с той стороны. Ты обижен, дочь твоя тоже <stage
-                type="delivery">(в сторону)</stage>, да и я не меньше.</p>
+              с тобою породнились, да не с той стороны. Ты обижен, дочь твоя тоже <stage type="delivery">(в сторону)</stage>, да и я не меньше.</p>
           </sp>
           <sp who="#Syn">
             <speaker>Сын</speaker>
@@ -3381,7 +3384,8 @@
           <sp who="#Sovetnik">
             <speaker>Советник.</speaker>
             <p>Рассуди ж, ты сам разумный человек, и это малое сокровище вверил я вот в какие руки
-                <stage type="delivery">(указывая на жену свою).</stage></p>
+                <stage type="delivery">(указывая на жену свою).</stage>
+                        </p>
           </sp>
         </div>
         <div type="scene">
@@ -3476,7 +3480,8 @@
           <sp who="#Brigadir">
             <speaker>Бригадир.</speaker>
             <p>И я не хочу того, чтоб сын мой имел такую целомудренную тещу; а с тобой, Иван, я
-              разделаюсь вот чем <stage type="delivery">(указывает палкою).</stage></p>
+              разделаюсь вот чем <stage type="delivery">(указывает палкою).</stage>
+                        </p>
           </sp>
           <sp who="#Sovetnik">
             <speaker>Советник.</speaker>

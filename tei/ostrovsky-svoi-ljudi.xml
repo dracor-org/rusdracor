@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -12,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="URL">https://dracor.org/rus/ostrovsky-svoi-ljudi</idno>
+        <idno type="RusDraCor">28</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -2256,7 +2256,8 @@
             <stage type="delivery">(садится к столу и вынимает из кармана деньги).</stage>
             <p>Полтина серебром — это нынче Лазарь дал. Да намедни, как с колокольни упал, Аграфена
               Кондратьевна гривенник дали, да четвертак в орлянку выиграл, да третёвось хозяин забыл
-              на прилавке целковый. Эвось, что денег-то! <stage>(Считает про себя.)</stage></p>
+              на прилавке целковый. Эвось, что денег-то! <stage>(Считает про себя.)</stage>
+                        </p>
             <stage>Голос Фоминишны за сценой: «Тишка, а Тишка! Долго ль мне кричать-то?»</stage>
             <p>Что там еще?</p>
             <stage>«Дома, что ли-ча, Лазарь?»</stage>
@@ -3614,7 +3615,8 @@
           <stage>Липочка и Лазарь целуются.</stage>
           <sp who="#Bolshov">
             <speaker>Большов.</speaker>
-            <p>Дай-ка я поздравлю. <stage>(Берет бокал.)</stage></p>
+            <p>Дай-ка я поздравлю. <stage>(Берет бокал.)</stage>
+                        </p>
             <stage>Липочка и Лазарь встают.</stage>
             <p> Живите, как знаете, свой разум есть. А чтоб вам жить-то было не скучно, так вот
               тебе, Лазарь, дом и лавки пойдут вместо приданого, да из наличного отсчитаем.</p>
@@ -3936,7 +3938,8 @@
           <sp who="#Podhaljuzin">
             <speaker>Подхалюзин.</speaker>
             <p>Как можно забыть-с, помним! <stage>(Вынимает бумажник и дает ей
-              ассигнацию.)</stage></p>
+              ассигнацию.)</stage>
+                        </p>
           </sp>
           <sp who="#UstinjaNaumovna">
             <speaker>Устинья Наумовна.</speaker>
