@@ -11,8 +11,9 @@
         <author key="Wikidata:Q43718">Николай Гоголь</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/gogol-revizor</idno>
+        <idno type="RusDraCor">54</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -634,8 +635,7 @@
             <speaker>Добчинский.</speaker>
             <p>Неожиданное известие!</p>
           </sp>
-          <sp
-            who="#Gorodnichij #AmmosFedorovichLjapkinTjapkin #Pochtmejster #LukaLukich #ArtemijFilippovichZemljanika #ChastnyjPristav #Lekar #Kvartalnyj">
+          <sp who="#Gorodnichij #AmmosFedorovichLjapkinTjapkin #Pochtmejster #LukaLukich #ArtemijFilippovichZemljanika #ChastnyjPristav #Lekar #Kvartalnyj">
             <speaker>Все.</speaker>
             <p>Что, что такое?</p>
           </sp>
@@ -2993,8 +2993,7 @@
             <p>Что вы! что вы: Цицерон! Смотрите, что выдумали! Что иной раз увлечешься говоря о
               домашней своре или гончей ищейке...</p>
           </sp>
-          <sp
-            who="#ArtemijFilippovichZemljanika #Pochtmejster #LukaLukich #Dobchinskij #Bobchinskij">
+          <sp who="#ArtemijFilippovichZemljanika #Pochtmejster #LukaLukich #Dobchinskij #Bobchinskij">
             <speaker>Все</speaker>
             <stage type="delivery">(пристают к нему).</stage>
             <p>Нет, вы не только о собаках, вы и о столпотворении... Нет, Аммос Федорович, не
@@ -5107,8 +5106,7 @@
             <p>Удивительное дело, господа! Чиновник, которого мы приняли за ревизора, был не
               ревизор.</p>
           </sp>
-          <sp
-            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+          <sp who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Как не ревизор?</p>
           </sp>
@@ -5183,8 +5181,7 @@
             <p>Эх, Антон Антонович! что Сибирь? далеко Сибирь. Вот лучше я вам прочту. Господа!
               позвольте прочитать письмо!</p>
           </sp>
-          <sp
-            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+          <sp who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Читайте, читайте!</p>
           </sp>
@@ -5305,8 +5302,7 @@
             <speaker>Почтмейстер.</speaker>
             <p>Нет, всё читайте! ведь прежде все читано.</p>
           </sp>
-          <sp
-            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #Pochtmejster #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+          <sp who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #Pochtmejster #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Отдайте, Артемий Филиппович, отдайте письмо!</p>
             <stage type="delivery">(Коробкину.)</stage>

@@ -10,8 +10,9 @@
         <author key="Wikidata:Q7200">Александр Пушкин</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/pushkin-kamenniy-gost</idno>
+        <idno type="RusDraCor">21</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>

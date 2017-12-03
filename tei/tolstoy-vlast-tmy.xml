@@ -13,8 +13,9 @@
         <author key="Wikidata:Q7243">Лев Толстой</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/tolstoy-vlast-tmy</idno>
+        <idno type="RusDraCor">9</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>

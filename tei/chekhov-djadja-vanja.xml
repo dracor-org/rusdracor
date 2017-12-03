@@ -11,8 +11,9 @@
         <author key="Wikidata:Q5685">Антон Чехов</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/chekhov-djadja-vanja</idno>
+        <idno type="RusDraCor">71</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>

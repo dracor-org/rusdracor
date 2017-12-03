@@ -11,8 +11,9 @@
         <author key="Wikidata:Q5685">Антон Чехов</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/chekhov-svadba</idno>
+        <idno type="RusDraCor">63</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -621,8 +622,7 @@
             <speaker>Мозговой.</speaker>
             <p>Харлампий Спиридоныч, ваша очередь читать речь! Господа, пусть говорит речь!</p>
           </sp>
-          <sp
-            who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Zmejukina">
+          <sp who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Zmejukina">
             <speaker>Все</speaker>
             <stage type="delivery">(Дымбе).</stage>
             <p>Речь! речь! Ваша очередь!</p>
@@ -805,8 +805,7 @@
             <p>А? Да, да... так... Это верно. Да-с... Но позвольте, что же это, однако? Селедка
               горькая... и хлеб горький. Невозможно есть!</p>
           </sp>
-          <sp
-            who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Dymba #Zmejukina #Njunin">
+          <sp who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Dymba #Zmejukina #Njunin">
             <speaker>Все.</speaker>
             <p>Горько! Горько!</p>
           </sp>

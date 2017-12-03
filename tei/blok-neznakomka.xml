@@ -11,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/blok-neznakomka</idno>
+        <idno type="RusDraCor">74</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -515,7 +516,8 @@
         </sp>
         <sp who="#ChelovekVPalto">
           <speaker>Человек в пальто</speaker>
-          <p>Швейцарский!.. Вот что-с! <stage>(Щелкает пальцами.)</stage></p>
+          <p>Швейцарский!.. Вот что-с! <stage>(Щелкает пальцами.)</stage>
+                    </p>
         </sp>
         <sp who="#Sobesednik">
           <speaker>Собеседник</speaker>
@@ -1372,7 +1374,7 @@
         </sp>
         <stage>У темной занавеси уже нет никого. За окном горит яркая звезда. Падает голубой снег,
           такой же голубой, как вицмундир исчезнувшего Звездочета.</stage>
-        <p>&#60;1906&#62;</p>
+        <p>&lt;1906&gt;</p>
       </div>
     </body>
   </text>

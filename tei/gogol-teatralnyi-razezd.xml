@@ -12,8 +12,9 @@
         <author key="Wikidata:Q43718">Николай Гоголь</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="dlina">DLINA</publisher>
-        <idno type="URL">https://dlina.github.io</idno>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/gogol-teatralnyi-razezd</idno>
+        <idno type="RusDraCor">53</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -480,7 +481,8 @@
           в кресла и амфитеатр; с другой стороны выход. Слышен отдаленный гул рукоплесканий.</stage>
         <sp who="#AvtorPesy">
           <speaker>Автор пьесы</speaker>
-          <stage type="delivery"><move who="#AvtorPesy" type="enter"/>(выходя).</stage>
+          <stage type="delivery">
+                        <move who="#AvtorPesy" type="enter"/>(выходя).</stage>
           <p>Я вырвался, как из омута! Вот наконец и крики и рукоплесканья! Весь театр гремит!.. Вот
             и слава! Боже, как бы забилось назад тому лет семь, восемь мое сердце, как бы
             встрепенулось все во мне! Но это было давно. Я был тогда молод, дерзкомыслен, как юноша.
@@ -508,12 +510,14 @@
         </sp>
       </div>
       <div type="configuration">
-        <stage><move who="#OdinIzPrilichnoOdetyhLudei" type="enter"/>Показывается несколько прилично
+        <stage>
+                    <move who="#OdinIzPrilichnoOdetyhLudei" type="enter"/>Показывается несколько прилично
           одетых людей; один говорит, обращаясь к другому:</stage>
         <sp who="#OdinIzPrilichnoOdetyhLudei">
           <p>Выйдем лучше теперь. Играться будет незначительный водевиль.</p>
         </sp>
-        <stage><move who="#OdinIzPrilichnoOdetyhLudei" type="exit"/>Оба уходят.</stage>
+        <stage>
+                    <move who="#OdinIzPrilichnoOdetyhLudei" type="exit"/>Оба уходят.</stage>
       </div>
       <div type="configuration">
         <stage>Два comme il faut, плотного свойства, сходят с лестницы.</stage>

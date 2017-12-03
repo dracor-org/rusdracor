@@ -11,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/turgenev-zavtrak-u-predvoditelja</idno>
+        <idno type="RusDraCor">1</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -120,13 +121,17 @@
         <castItem>Герасим, камердинер Балагалаева.</castItem>
         <castItem>Карп, кучер Кауровой.</castItem>
       </castList>
-      <stage type="delivery"><stage type="delivery">(Действие происходит в имении Балагалаева. Театр
+      <stage type="delivery">
+                <stage type="delivery">(Действие происходит в имении Балагалаева. Театр
           представляет столовую. В средине выход, направо кабинет, окна позади, в стороне накрытый
           стол с закуской. Герасим хлопочет около стола. Услышав стук экипажа, он подходит к
-          окну.)</stage></stage>
+          окну.)</stage>
+            </stage>
       <div>
         <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Герасим и Мирволин.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Герасим и Мирволин.)</stage>
+                </stage>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
           <p>. Здравствуй, Герасим! как поживаешь?.. А что, он еще не выходил?</p>
@@ -211,17 +216,20 @@
           <speaker>Мирволин</speaker>
           <p>. Да, брат, что-то саднит.</p>
         </sp>
-        <stage type="delivery"><stage type="delivery">(Пьет и заедает. Герасим
-          выходит.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Пьет и заедает. Герасим
+          выходит.)</stage>
+                </stage>
       </div>
       <div>
         <head>ЯВЛЕНИЕ ВТОРОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Те же, Балагалаев и
-          Вельвицкий.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же, Балагалаев и
+          Вельвицкий.)</stage>
+                </stage>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
-          <p>. Так, так, так-так-то, ты уж так и распорядись,— слышишь? <stage type="delivery"
-              >(Мирволину.)</stage> А, ты, здравствуй!</p>
+          <p>. Так, так, так-так-то, ты уж так и распорядись,— слышишь? <stage type="delivery">(Мирволину.)</stage> А, ты, здравствуй!</p>
         </sp>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
@@ -260,12 +268,14 @@
         </sp>
         <sp who="#Velvitskij">
           <speaker>Вельвицкий</speaker>
-          <p> Слушаю-с <stage type="delivery">(Уходит.)</stage></p>
+          <p> Слушаю-с <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
           <p>. А не слишком понятлив этот молодой человек <stage type="delivery">(К
-              Мирволину.)</stage> Ну, как ты? <stage type="delivery">(Садится.)</stage></p>
+              Мирволину.)</stage> Ну, как ты? <stage type="delivery">(Садится.)</stage>
+                    </p>
         </sp>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
@@ -331,8 +341,8 @@
         </sp>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
-          <p>. Никак нет-с! не то чтобы пил, а так что-то грудь… <stage type="delivery"
-              >(Кашляет.)</stage></p>
+          <p>. Никак нет-с! не то чтобы пил, а так что-то грудь… <stage type="delivery">(Кашляет.)</stage>
+                    </p>
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
@@ -361,13 +371,12 @@
         </sp>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
-          <p>. Совершенную истину изволили сказать-с: было бы сердце доброе <stage type="delivery"
-              >(Глянув в окно.)</stage> Кто-то приехал-с.</p>
+          <p>. Совершенную истину изволили сказать-с: было бы сердце доброе <stage type="delivery">(Глянув в окно.)</stage> Кто-то приехал-с.</p>
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
-          <p>. А я еще в шлафроке. Это я с тобой заболтался <stage type="delivery"
-            >(Встает.)</stage></p>
+          <p>. А я еще в шлафроке. Это я с тобой заболтался <stage type="delivery">(Встает.)</stage>
+                    </p>
         </sp>
         <sp who="#Alupkin">
           <speaker>Алупкин</speaker>
@@ -381,13 +390,15 @@
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
-          <p>. Алупкин! Кто бишь это? Проси. А ты займи его, пожалуйста. Я сейчас… <stage
-              type="delivery">(Уходит.)</stage></p>
+          <p>. Алупкин! Кто бишь это? Проси. А ты займи его, пожалуйста. Я сейчас… <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
       </div>
       <div>
         <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
-        <stage type="delivery"><stage type="delivery">(Мирволин и Алупкин.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Мирволин и Алупкин.)</stage>
+                </stage>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
           <p>. Николай Иванович сейчас пожалуют-с. Не угодно ли пока присесть?</p>
@@ -477,8 +488,10 @@
       </div>
       <div>
         <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Те же и Балагалаев во фраке. Алупкин
-            кланяется.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же и Балагалаев во фраке. Алупкин
+            кланяется.)</stage>
+                </stage>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
           <p>. Мне очень приятно. Прошу присесть… Я… я, помнится, имел удовольствие видеть вас у
@@ -498,8 +511,9 @@
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
-          <p>. Вы, я надеюсь, не будете раскаиваться. <stage type="delivery"><stage type="delivery"
-                >(Небольшое молчанье.)</stage></stage> Жаркий день какой сегодня…</p>
+          <p>. Вы, я надеюсь, не будете раскаиваться. <stage type="delivery">
+                            <stage type="delivery">(Небольшое молчанье.)</stage>
+                        </stage> Жаркий день какой сегодня…</p>
         </sp>
         <sp who="#Alupkin">
           <speaker>Алупкин</speaker>
@@ -572,7 +586,9 @@
       </div>
       <div>
         <head>ЯВЛЕНИЕ ПЯТОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Те же и Суслов.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же и Суслов.)</stage>
+                </stage>
         <sp who="#Suslov">
           <speaker>Суслов</speaker>
           <p>. Хорошо, хорошо! спасибо… Господа! честь имею…</p>
@@ -711,8 +727,10 @@
       </div>
       <div>
         <head>ЯВЛЕНИЕ ШЕСТОВ</head>
-        <stage type="delivery"><stage type="delivery">(Те же и Каурова <stage type="delivery">(в
-              шляпке, с ридикюлем)</stage>.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же и Каурова <stage type="delivery">(в
+              шляпке, с ридикюлем)</stage>.)</stage>
+                </stage>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
           <p>. А, наконец! Милости просим, Анна Ильинишна! милости просим… Сюда… не угодно ли-с?</p>
@@ -845,7 +863,8 @@
         </sp>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
-          <p>. Сейчас <stage type="delivery">(Выходит.)</stage></p>
+          <p>. Сейчас <stage type="delivery">(Выходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Kaurova">
           <speaker>Каурова</speaker>
@@ -867,7 +886,9 @@
       </div>
       <div>
         <head>ЯВЛЕНИЕ СЕДЬМОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Те же и Карп и Мирволин.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же и Карп и Мирволин.)</stage>
+                </stage>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>
           <p>. Вот-с кучер.</p>
@@ -945,8 +966,10 @@
           <speaker>Каурова</speaker>
           <p>. Нет, вы позвольте, Евгений Тихоныч! я на это не могу согласиться. Вы его запугать
             хотите— я этого не позволю. Ступай, Карпушка, ступай; да проспись смотри; а то ведь ты
-            совсем спишь. <stage type="delivery"><stage type="delivery">(Карп
-              уходит.)</stage></stage> А от вас, Евгений Тихоныч, признаюсь, я этого не ожидала.
+            совсем спишь. <stage type="delivery">
+                            <stage type="delivery">(Карп
+              уходит.)</stage>
+                        </stage> А от вас, Евгений Тихоныч, признаюсь, я этого не ожидала.
             Чем, кажется, я это заслужила?</p>
         </sp>
         <sp who="#Suslov">
@@ -970,7 +993,9 @@
       </div>
       <div>
         <head>ЯВЛЕНИЕ ВОСЬМОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Те же и Беспандин.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же и Беспандин.)</stage>
+                </stage>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
           <p>. А! здравствуйте!.. Однако вы заставили себя подождать.</p>
@@ -1031,7 +1056,9 @@
           <speaker>Балагалаев</speaker>
           <p>. И потому, Ферапонт Ильич, покорно прошу вас присесть, и вас также, Антон Семеныч!</p>
         </sp>
-        <stage type="delivery"><stage type="delivery">(Садятся)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Садятся)</stage>
+                </stage>
         <sp who="#Bespandin">
           <speaker>Беспандин</speaker>
           <p>. Николай Иваныч, я вас душевно уважаю и всегда уважал, и теперь вот по вашему же
@@ -1540,7 +1567,9 @@
           <speaker>Беспандин</speaker>
           <p>. Ну, поменяемтесь.</p>
         </sp>
-        <stage type="delivery"><stage type="delivery">(Она молчит.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Она молчит.)</stage>
+                </stage>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
           <p>. Ну-с, что ж вы не отвечаете?</p>
@@ -1554,7 +1583,9 @@
           <p>. Да коли мой участок лучше— отдайте мне дом и возьмите себе эти двадцать четыре
             десятины.</p>
         </sp>
-        <stage type="delivery"><stage type="delivery">(Оба молчат.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Оба молчат.)</stage>
+                </stage>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
           <p>. Однако позвольте, Анна Ильинишна, будьте же наконец благоразумны, последуйте примеру
@@ -1771,8 +1802,7 @@
           <p>
             <stage type="delivery">(кланяется всем)</stage>. Господа… Моя жена здорова, слава богу.
             Cher Балагалаев! я виноват: опоздал. Вы, я вижу, без меня начали, и хорошо сделали… Как
-            ваше здоровье, Евгений Тихоныч, Ферапонт Ильич, Анна Ильинишна? <stage type="delivery"
-              >(Мирволину.)</stage> А! и ты тут, убогий?.. Ну, что, подвигается дело?..</p>
+            ваше здоровье, Евгений Тихоныч, Ферапонт Ильич, Анна Ильинишна? <stage type="delivery">(Мирволину.)</stage> А! и ты тут, убогий?.. Ну, что, подвигается дело?..</p>
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
@@ -1790,8 +1820,9 @@
         <sp who="#Pehterev">
           <speaker>Пехтерьев</speaker>
           <p>. Нет, благодарствуйте… <stage type="delivery">(Отводит в сторону Балагалаева и
-              указывает на Алупкина.)</stage> Qui est са?<ref>Кто это? <stage type="delivery"
-                >(франц.)</stage></ref></p>
+              указывает на Алупкина.)</stage> Qui est са?<ref>Кто это? <stage type="delivery">(франц.)</stage>
+                        </ref>
+                    </p>
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
@@ -1833,7 +1864,8 @@
         </sp>
         <sp who="#Pehterev">
           <speaker>Пехтерьев</speaker>
-          <p>. Что это! планы? <stage type="delivery">(Садится к столу.)</stage></p>
+          <p>. Что это! планы? <stage type="delivery">(Садится к столу.)</stage>
+                    </p>
         </sp>
         <sp who="#Balagalaev">
           <speaker>Балагалаев</speaker>
@@ -1877,7 +1909,8 @@
         <sp who="#Pehterev">
           <speaker>Пехтерьев</speaker>
           <p>. Я, может быть, и вздор скажу; но вы извините старика… Savez-vous, cher
-              ami?<ref>Знаете, дорогой друг? <stage type="delivery">(франц.)</stage></ref> мне
+              ami?<ref>Знаете, дорогой друг? <stage type="delivery">(франц.)</stage>
+                        </ref> мне
             кажется, я бы вот как разделил… позвольте карандашик.</p>
         </sp>
         <sp who="#Mirvolin">
@@ -2046,8 +2079,8 @@
           <speaker>Пехтерьев</speaker>
           <p>. Неудачно! Позвольте… почему же неудачно, это следует доказать… Я не спорю, может
             быть, ваше предложение прекрасно; но и о моем предложении тоже нельзя судить с первого
-            взгляда. Я провел черту, так сказать, ангро<ref>В общем <stage type="delivery"
-                >(франц.)</stage></ref>; конечно, я мог ошибиться в мелочах. Разумеется, нужно
+            взгляда. Я провел черту, так сказать, ангро<ref>В общем <stage type="delivery">(франц.)</stage>
+                        </ref>; конечно, я мог ошибиться в мелочах. Разумеется, нужно
             уравнять оба участка, сообразить, рассмотреть подробно; но почему же неудачно?..</p>
         </sp>
         <sp who="#Alupkin">
@@ -2223,7 +2256,9 @@
       </div>
       <div>
         <head>ЯВЛЕНИЕ ОДИННАДЦАТОЕ</head>
-        <stage type="delivery"><stage type="delivery">(Те же и Нагланович.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Те же и Нагланович.)</stage>
+                </stage>
         <sp who="#Naglanovich">
           <speaker>Нагланович</speaker>
           <p>. Николай Иваныч! я к вам… Его превосходительство изволил…</p>
@@ -2274,7 +2309,8 @@
             идет… Дележ, козел, упрямая баба, помещик из Тамбова, вдруг неожиданный становой, завтра
             дуэль, у меня нечистая совесть, усадьба, роща за бесценок, завтрак, шум, кутерьма… нет,
             это слишком. Извините меня, господа… я не в состоянии… я ничего не понимаю, что вы мне
-            говорите, я не в силах, я не могу, не могу! <stage type="delivery">(Уходит.)</stage></p>
+            говорите, я не в силах, я не могу, не могу! <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Pehterev">
           <speaker>Пехтерьев</speaker>
@@ -2286,7 +2322,9 @@
           <p>. Что за суматоха! <stage type="delivery">(Вельвицкому.)</stage> Подите скажите ему,
             что мне нужно с ним по делам службы поговорить.</p>
         </sp>
-        <stage type="delivery"><stage type="delivery">(Вельвицкий уходит.)</stage></stage>
+        <stage type="delivery">
+                    <stage type="delivery">(Вельвицкий уходит.)</stage>
+                </stage>
         <sp who="#Kaurova">
           <speaker>Каурова</speaker>
           <p>. Да бог с ним! Ты-то когда нас, батюшка, делить будешь?</p>
@@ -2297,8 +2335,8 @@
         </sp>
         <sp who="#Bespandin">
           <speaker>Беспандин</speaker>
-          <p>. Вот мы и у праздника! Эх ты!.. Проклятие всем бабам отныне и вовеки! <stage
-              type="delivery">(Уходит.)</stage></p>
+          <p>. Вот мы и у праздника! Эх ты!.. Проклятие всем бабам отныне и вовеки! <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Kaurova">
           <speaker>Каурова</speaker>
@@ -2313,22 +2351,26 @@
         <sp who="#Naglanovich">
           <speaker>Нагланович</speaker>
           <p>. Ну, значит, гости-то угостили его. Нечего делать, оставлю записку… Мое почтение всей
-            компании <stage type="delivery">(Уходит.)</stage></p>
+            компании <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Alupkin">
           <speaker>Алупкин</speaker>
           <p>. Мы с вами еще увидимся, милостивый государь!— слышите вы? Господа, честь имею вам
-            кланяться <stage type="delivery">(Уходит.)</stage></p>
+            кланяться <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Pehterev">
           <speaker>Пехтерьев</speaker>
           <p>. Да постойте… куда вы?.. и мы все с вами. Признаюсь, я еще ничего подобного не видал
-              <stage type="delivery">(Уходит.)</stage></p>
+              <stage type="delivery">(Уходит.)</stage>
+                    </p>
         </sp>
         <sp who="#Kaurova">
           <speaker>Каурова</speaker>
           <p>. Петр Петрович, батюшка!.. рассудите… <stage type="delivery">(Уходит за
-              Пехтерьевым.)</stage></p>
+              Пехтерьевым.)</stage>
+                    </p>
         </sp>
         <sp who="#Mirvolin">
           <speaker>Мирволин</speaker>

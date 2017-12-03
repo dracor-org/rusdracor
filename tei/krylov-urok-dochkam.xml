@@ -12,7 +12,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/krylov-urok-dochkam</idno>
+        <idno type="RusDraCor">38</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -543,7 +544,8 @@
         <stage type="delivery">(Фекла, Лукерья и няня Василиса.)</stage>
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
-          <p>. Eh bien, ma soeur... <ref>Eh bien, ma soeur... — Ну что, сестра...</ref></p>
+          <p>. Eh bien, ma soeur... <ref>Eh bien, ma soeur... — Ну что, сестра...</ref>
+                    </p>
         </sp>
         <sp who="#NjanjaVasilisa">
           <speaker>Няня Василиса</speaker>
@@ -574,13 +576,13 @@
             бабушек и тетушек; после домой — и снова займешься туалетом, чтоб ехать куда-нибудь на
             бал или в собрание, где одного мучишь жестокостью, другому жизнь даешь улыбкою, третьего
             с ума сводишь равнодушием; для забавы давишь старушкам ноги и толкаешь их под бока; а
-            они-то морщатся, они-то ворчат... ну, умереть надо со смеху! <stage type="delivery"
-              >(Хохочет.)</stage> Танцуешь, как полоумная; и когда случишься в первой паре, то
+            они-то морщатся, они-то ворчат... ну, умереть надо со смеху! <stage type="delivery">(Хохочет.)</stage> Танцуешь, как полоумная; и когда случишься в первой паре, то
             забавляешься досадою девушек, которым иначе не удается танцевать, как в хвосте. Словом,
             не успеешь опомниться, как уж рассветает, и ты полумертвая едешь домой. А здесь, в
             деревне, в степи, в глуши... Ах! я так зла, что задыхаюсь от бешенства... так зла, так
             зла, что... Ah! Si jamais je suis... <ref>Ah! Si jamais je suis... — Ах! Если
-              когда-нибудь мне придется...</ref></p>
+              когда-нибудь мне придется...</ref>
+                    </p>
         </sp>
         <sp who="#NjanjaVasilisa">
           <speaker>Няня Василиса</speaker>
@@ -599,7 +601,8 @@
             всякий раз: vous êtes une sotte <ref>vous êtes une sotte — Вы дура.</ref>. А няня
             Василиса тут как тут, так что и ему слова по-французски сказать я не могу. Ах, если бы
             ты чувствовала всю мою печаль! — Ah! ma chère amie! <ref>Ah! ma chère amie! — Ах! мой
-              дорогой друг!</ref></p>
+              дорогой друг!</ref>
+                    </p>
         </sp>
         <sp who="#NjanjaVasilisa">
           <speaker>Няня Василиса</speaker>
@@ -679,7 +682,8 @@
         <sp who="#Fekla">
           <speaker>Фекла</speaker>
           <p>
-            <stage type="delivery">(тихо.)</stage> Hélas! <ref>Hélas! — Увы!</ref></p>
+            <stage type="delivery">(тихо.)</stage> Hélas! <ref>Hélas! — Увы!</ref>
+                    </p>
         </sp>
         <sp who="#Velkarov">
           <speaker>Велькаров</speaker>
@@ -922,8 +926,7 @@
           <p>. Да, да! Если он по-русски не говорит, то говорите с ним по-французски, я даже этого и
             требую. Есть случаи, где знание языков употребить и нужно, и полезно. Но русскому с
             русским, кажется, всего приличнее говорить отечественным языком, которого благодаря
-            истинному просвещению зачинают переставать стыдиться. Василиса! <stage type="delivery"
-              >(Василиса входит.)</stage> Будь с ними, а я пойду и посмотрю, что за гость!</p>
+            истинному просвещению зачинают переставать стыдиться. Василиса! <stage type="delivery">(Василиса входит.)</stage> Будь с ними, а я пойду и посмотрю, что за гость!</p>
         </sp>
       </div>
       <div>
@@ -1020,8 +1023,7 @@
         </sp>
         <sp who="#Fekla">
           <speaker>Фекла</speaker>
-          <p>. Нет, эдак неловко; лучше встанем, сестрица! посмотри-тко, как я присяду. <stage
-              type="delivery">(Приседает низко и степенно.)</stage> А! Маркиз! — хорошо так?</p>
+          <p>. Нет, эдак неловко; лучше встанем, сестрица! посмотри-тко, как я присяду. <stage type="delivery">(Приседает низко и степенно.)</stage> А! Маркиз! — хорошо так?</p>
         </sp>
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
@@ -1073,8 +1075,7 @@
         <sp who="#Dasha">
           <speaker>Даша</speaker>
           <p>
-            <stage type="delivery">(особо.)</stage> Что за гость! что за маркиз! <stage
-              type="delivery">(Увидя Семена.)</stage> Ах, это негодный Семен! Боже мой, что такое он
+            <stage type="delivery">(особо.)</stage> Что за гость! что за маркиз! <stage type="delivery">(Увидя Семена.)</stage> Ах, это негодный Семен! Боже мой, что такое он
             затеял?</p>
         </sp>
       </div>
@@ -1428,8 +1429,7 @@
         <sp who="#Semen">
           <speaker>Семен</speaker>
           <p>
-            <stage type="delivery">(особо.)</stage> Ура! маркиз! <stage type="delivery"
-              >(Сидорке.)</stage> Скажи, мой друг, своему господину, што маркиз его благодарит.</p>
+            <stage type="delivery">(особо.)</stage> Ура! маркиз! <stage type="delivery">(Сидорке.)</stage> Скажи, мой друг, своему господину, што маркиз его благодарит.</p>
         </sp>
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
@@ -1476,8 +1476,7 @@
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
-          <p>. Вы увидите, сударини, што я во всяком кафтане тот же я. <stage type="delivery"
-              >(Сидорке.)</stage> Пойдем, слуга! Голубчик кафтанчик, чуть было нас не разлучили!</p>
+          <p>. Вы увидите, сударини, што я во всяком кафтане тот же я. <stage type="delivery">(Сидорке.)</stage> Пойдем, слуга! Голубчик кафтанчик, чуть было нас не разлучили!</p>
         </sp>
       </div>
       <div>
@@ -1603,7 +1602,8 @@
           <speaker>Фекла</speaker>
           <p>
             <stage type="delivery">(отходя.)</stage> Ma chère amie, il faut d’abord... <ref>Ma chère
-              amie, il faut d’abord... — Дорогой друг, надо сперва...</ref></p>
+              amie, il faut d’abord... — Дорогой друг, надо сперва...</ref>
+                    </p>
         </sp>
         <sp who="#NjanjaVasilisa">
           <speaker>Няня Василиса</speaker>
@@ -1717,8 +1717,7 @@
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
-          <p>. Смелым бог владеет, королева моя! Нет... да полюбуйся-ка. <stage type="delivery"
-              >(Расхаживает.)</stage> Посмотри-кась! Какова выступка? каков вид? Чем не барин? Чем
+          <p>. Смелым бог владеет, королева моя! Нет... да полюбуйся-ка. <stage type="delivery">(Расхаживает.)</stage> Посмотри-кась! Какова выступка? каков вид? Чем не барин? Чем
             не маркиз? Что, каково меня одели?</p>
         </sp>
         <sp who="#Dasha">
@@ -1845,7 +1844,8 @@
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
           <p>. Ecoutez, cher marquis... <ref>Ecoutez, cher marquis... — Послушайте, дорогой
-              маркиз...</ref></p>
+              маркиз...</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1862,7 +1862,8 @@
         </sp>
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
-          <p>. Mais de grâce... <ref>Mais de grâce... — Пожалуйста...</ref></p>
+          <p>. Mais de grâce... <ref>Mais de grâce... — Пожалуйста...</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1874,11 +1875,13 @@
           <speaker>Фекла</speaker>
           <p>
             <stage type="delivery">(гоняясь за ним.)</stage> Je vous en prie... <ref>Je vous en
-              prie... — Я вас прошу...</ref></p>
+              prie... — Я вас прошу...</ref>
+                    </p>
         </sp>
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
-          <p>. Je vous supplie... <ref>Je vous en prie... — Я вас умоляю...</ref></p>
+          <p>. Je vous supplie... <ref>Je vous en prie... — Я вас умоляю...</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1889,7 +1892,8 @@
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
           <p>
-            <stage type="delivery">(гоняясь.)</stage> Barbare! <ref>Barbare! — Жестокий!</ref></p>
+            <stage type="delivery">(гоняясь.)</stage> Barbare! <ref>Barbare! — Жестокий!</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1905,7 +1909,8 @@
           <speaker>Лукерья</speaker>
           <p>
             <stage type="delivery">(гоняясь.)</stage> Impitoуable! <ref>Impitoуable! —
-              Неумолимый!</ref></p>
+              Неумолимый!</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1914,7 +1919,8 @@
         </sp>
         <sp who="#Fekla">
           <speaker>Фекла</speaker>
-          <p>. Ingrat! <ref>Ingrat! — Неблагодарный!</ref></p>
+          <p>. Ingrat! <ref>Ingrat! — Неблагодарный!</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1924,7 +1930,8 @@
         <sp who="#Lukerja">
           <speaker>Лукерья</speaker>
           <p>
-            <stage type="delivery">(гоняясь.)</stage> Cruel! <ref>Cruel! — Жестокий!</ref></p>
+            <stage type="delivery">(гоняясь.)</stage> Cruel! <ref>Cruel! — Жестокий!</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
@@ -1936,19 +1943,20 @@
           <speaker>Лукерья</speaker>
           <p>
             <stage type="delivery">(придерживая его.)</stage> Ah! — Vous parlerez... <ref>Ah! — Vous
-              parlerez... — Ах! — Вы будете говорить...</ref></p>
+              parlerez... — Ах! — Вы будете говорить...</ref>
+                    </p>
         </sp>
         <sp who="#Fekla">
           <speaker>Фекла</speaker>
           <p>
             <stage type="delivery">(так же.)</stage> Ah! le petit traitre! <ref>Ah! le petit
-              traitre! — Ах! Изменник!</ref></p>
+              traitre! — Ах! Изменник!</ref>
+                    </p>
         </sp>
         <sp who="#Semen">
           <speaker>Семен</speaker>
           <p>
-            <stage type="delivery">(барахтаясь.)</stage> Не понимаю, не разумею, не чувствую! <stage
-              type="delivery">(Особо.)</stage> Ах! где ты, няня Василиса?</p>
+            <stage type="delivery">(барахтаясь.)</stage> Не понимаю, не разумею, не чувствую! <stage type="delivery">(Особо.)</stage> Ах! где ты, няня Василиса?</p>
         </sp>
       </div>
       <div>
@@ -2023,8 +2031,7 @@
         </sp>
         <sp who="#Velkarov">
           <speaker>Велькаров</speaker>
-          <p>. Встаньте, встаньте! Боже мой, какое мученье! вас точно надо запереть. <stage
-              type="delivery">(Особо.)</stage> Мой дорогой гость успел вскружить им голову. Я вас
+          <p>. Встаньте, встаньте! Боже мой, какое мученье! вас точно надо запереть. <stage type="delivery">(Особо.)</stage> Мой дорогой гость успел вскружить им голову. Я вас
             проучу!</p>
         </sp>
       </div>
@@ -2217,13 +2224,15 @@
           <speaker>Лукерья</speaker>
           <p>
             <stage type="delivery">(отходя.)</stage> Ah! ma soeur! <ref>Ah! ma soeur! — Ах!
-              сестра!</ref></p>
+              сестра!</ref>
+                    </p>
         </sp>
         <sp who="#Fekla">
           <speaker>Фекла</speaker>
           <p>
             <stage type="delivery">(отходя.)</stage> Ah! quelle leçon! <ref>Ah! quelle leçon! — Ах!
-              какой урок!</ref></p>
+              какой урок!</ref>
+                    </p>
         </sp>
         <sp who="#NjanjaVasilisa">
           <speaker>Няня Василиса</speaker>

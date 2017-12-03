@@ -12,7 +12,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/prutkov-blondy</idno>
+        <idno type="RusDraCor">25</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -394,7 +395,8 @@
           <speaker>Князь</speaker>
           <stage type="delivery">(бросается к ней)</stage>
           <p>Оставьте мою шляпу! Это моя шляпа! <stage>(Подымает шляпу в сердцах и бросает ее на
-              стол, накрытый для ужина.)</stage></p>
+              стол, накрытый для ужина.)</stage>
+                    </p>
         </sp>
         <sp who="#Knjaginja">
           <speaker>Княгиня</speaker>
@@ -453,13 +455,15 @@
           <speaker>Княгиня</speaker>
           <stage type="delivery">(сдерживая слезы)</stage>
           <p>Боже мой, как я несчастна с этим извергом!.. Ах!.. <stage>(Падает в
-            обморок.)</stage></p>
+            обморок.)</stage>
+                    </p>
         </sp>
         <sp who="#Knjaz">
           <speaker>Князь</speaker>
           <stage type="delivery">(вполголоса, суетясь возле жены)</stage>
           <p>Что с ней?! Жена!.. Агнеса!.. Не надо ли воды?.. о-де-лавану?.. содовых порошков?..
-            Милочка!.. что я теперь стану делать?! <stage>(Прыскает в нее водой.)</stage></p>
+            Милочка!.. что я теперь стану делать?! <stage>(Прыскает в нее водой.)</stage>
+                    </p>
         </sp>
         <sp who="#Knjaginja">
           <speaker>Княгиня</speaker>
@@ -502,7 +506,8 @@
         <sp who="#Knjaginja">
           <speaker>Княгиня</speaker>
           <stage type="delivery">(взволнованная)</stage>
-          <p>Дайте, дайте поскорее! <stage>(Торопливо разбирает кружева.)</stage></p>
+          <p>Дайте, дайте поскорее! <stage>(Торопливо разбирает кружева.)</stage>
+                    </p>
         </sp>
         <sp who="#Knjaz">
           <speaker>Князь</speaker>

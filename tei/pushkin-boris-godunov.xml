@@ -11,7 +11,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL"/>
+        <idno type="URL">https://dracor.org/rus/pushkin-boris-godunov</idno>
+        <idno type="RusDraCor">42</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -2006,7 +2007,8 @@
         </sp>
         <sp who="#Grigorij_Dimitrij_Lzhedimitrij_Samozvanets">
           <speaker>Самозванец</speaker>
-          <l part="I"><emph>Amen.</emph> Кто там?</l>
+          <l part="I">
+                        <emph>Amen.</emph> Кто там?</l>
           <stage>Входит слуга.</stage>
           <l part="F">Сказать: мы принимаем.</l>
           <stage>Отворяются двери, входит толпа русских и поляков.</stage>
