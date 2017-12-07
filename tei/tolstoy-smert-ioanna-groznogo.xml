@@ -69,9 +69,9 @@
             <persName>Князь Мстиславский</persName>
             <persName xml:lang="de">Mstislavskij</persName>
           </person>
-          <person xml:id="Golosa">
-            <persName>Голоса</persName>
-            <persName xml:lang="de"/>
+          <person xml:id="Bojare">
+            <persName>Бояре</persName>
+            <persName xml:lang="de">Bojaren</persName>
           </person>
           <person xml:id="Belskij">
             <persName>Бельский</persName>
@@ -97,17 +97,9 @@
             <persName>Князь Сицкий</persName>
             <persName xml:lang="de">Sickij</persName>
           </person>
-          <person xml:id="Godunov">
+          <person xml:id="BorisGodunov">
             <persName>Борис Годунов</persName>
             <persName xml:lang="de">Boris Godunov</persName>
-          </person>
-          <person xml:id="Govor">
-            <persName>Говор</persName>
-            <persName xml:lang="de"/>
-          </person>
-          <person xml:id="Golosa_i_kriki">
-            <persName>Голоса и крики</persName>
-            <persName xml:lang="de"/>
           </person>
           <person xml:id="Ioann">
             <persName>Иоанн</persName>
@@ -115,15 +107,11 @@
           </person>
           <person xml:id="Gonets">
             <persName>Гонец</persName>
-            <persName xml:lang="de"/>
+            <persName xml:lang="de">Der Bote</persName>
           </person>
           <person xml:id="Stolnik">
             <persName>Стольник</persName>
-            <persName xml:lang="de"/>
-          </person>
-          <person xml:id="Bojare">
-            <persName>Бояре</persName>
-            <persName xml:lang="de"/>
+            <persName xml:lang="de">Ein Kämmerling</persName>
           </person>
           <person xml:id="Grigorij_Nagoj">
             <persName>Григорий Нагой</persName>
@@ -155,7 +143,7 @@
           </person>
           <person xml:id="Garaburda">
             <persName>Гарабурда</persName>
-            <persName xml:lang="de"/>
+            <persName xml:lang="de">Garaburda</persName>
           </person>
           <person xml:id="Labaznik">
             <persName>Лабазник</persName>
@@ -201,6 +189,10 @@
             <persName>Крики в народе</persName>
             <persName xml:lang="de"/>
           </person>
+          <person xml:id="Govor">
+            <persName>Говор</persName>
+            <persName xml:lang="de"/>
+          </person>
           <person xml:id="Narod">
             <persName>Народ</persName>
             <persName xml:lang="de"/>
@@ -213,7 +205,7 @@
             <persName>Григорий Годунов</persName>
             <persName xml:lang="de"/>
           </person>
-          <person xml:id="Marija_Grigorevna">
+          <person xml:id="MarijaGrigorevna">
             <persName>Мария Григорьевна</persName>
             <persName xml:lang="de"/>
           </person>
@@ -259,43 +251,31 @@
           </person>
           <person xml:id="Shut">
             <persName>Шут</persName>
-            <persName xml:lang="de"/>
+            <persName xml:lang="de">Narr</persName>
           </person>
           <person xml:id="Kljuchnik">
             <persName>Ключник</persName>
-            <persName xml:lang="de"/>
-          </person>
-          <person xml:id="Streletskij_golova">
-            <persName>Стрелецкий голова</persName>
-            <persName xml:lang="de"/>
-          </person>
-          <person xml:id="Streletskij_sotnik">
-            <persName>Стрелецкий сотник</persName>
             <persName xml:lang="de"/>
           </person>
           <person xml:id="Sluga_knjazja_Shujskogo">
             <persName>Слуга князя Шуйского</persName>
             <persName xml:lang="de"/>
           </person>
-          <person xml:id="okolnichi">
-            <persName>окольничьи</persName>
-            <persName xml:lang="de"/>
+          <person xml:id="Skomorohi">
+            <persName>Скоморохи</persName>
+            <persName xml:lang="de">Die Possenreißer</persName>
           </person>
-          <person xml:id="ryndy">
-            <persName>рынды</persName>
-            <persName xml:lang="de"/>
+          <person xml:id="StreletskijGolova">
+            <persName>Стрелецкий голова</persName>
+            <persName xml:lang="de">Der Hauptmann der Leibwache</persName>
           </person>
-          <person xml:id="streltsy">
-            <persName>стрельцы</persName>
-            <persName xml:lang="de"/>
+          <person xml:id="StreletskijSotnik">
+            <persName>Стрелецкий сотник</persName>
+            <persName xml:lang="de">Ein Kriegsmann der Leibwache</persName>
           </person>
-          <person xml:id="skomorohi">
-            <persName>скоморохи</persName>
-            <persName xml:lang="de"/>
-          </person>
-          <person xml:id="slugi">
-            <persName>слуги</persName>
-            <persName xml:lang="de"/>
+          <person xml:id="Kriki_na_ploschadi">
+            <persName>Крики на площади</persName>
+            <persName xml:lang="de">Geschrei (draußen)</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -458,7 +438,7 @@
             <l>Вот я да Шереметев, всех мы больше,</l>
             <l part="I">А о местах не спорим!</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l part="F">Нас вы больше?</l>
             <l part="I">А чем вы больше нас?</l>
@@ -505,7 +485,7 @@
             <speaker>Бельский</speaker>
             <l part="F">Без мест, пожалуй!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj #Saltykov #Golitsyn #Scherbatyj #Zaharin #Mstislavskij #Golosa">
+          <sp who="#Mihajlo_Nagoj #Saltykov #Golitsyn #Scherbatyj #Zaharin #Mstislavskij #Bojare">
             <speaker>Все</speaker>
             <l part="I">Без мест! Без мест!</l>
           </sp>
@@ -637,7 +617,7 @@
             <l part="I">Приступим к избиранию!</l>
           </sp>
           <sp
-            who="#Mihajlo_Nagoj #Saltykov #Golitsyn #Scherbatyj #Zaharin #Mstislavskij #Golosa #Shujskij #Trubetskoj #Sheremetev #Tatischev #Sitskij">
+            who="#Mihajlo_Nagoj #Saltykov #Golitsyn #Scherbatyj #Zaharin #Mstislavskij #Bojare #Shujskij #Trubetskoj #Sheremetev #Tatischev #Sitskij">
             <speaker>Все</speaker>
             <l part="F">Приступим!</l>
           </sp>
@@ -725,7 +705,7 @@
             <l>И стелется пред нами жизнь его</l>
             <l>Без пятнышка, как снежная равнина!</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l>Захарьина! Захарьина! Никиту</l>
             <l>Романыча! Захарьина на царство!</l>
@@ -809,7 +789,7 @@
             <l>Ты выручал нас часто из беды –</l>
             <l part="I">Скажи, как мыслишь?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">встает</stage>
             <l part="F">Мне ль, отец названый,</l>
@@ -818,16 +798,16 @@
             <l>Но если вы мне речь вести велите,</l>
             <l part="I">То я скажу, бояре…</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l part="F">Громче! Громче!</l>
             <l part="I">Не слышно!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Мне казалось бы, бояре…</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l part="I">Не слышим! Громче!</l>
           </sp>
@@ -840,7 +820,7 @@
             <stage type="delivery">Берет его за руку и подводит к середней лавке.</stage>
             <l>Вот где тебе приходится сидеть!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">кланяется на все стороны</stage>
             <l>Бояре, вы великих предков внуки!</l>
@@ -865,11 +845,11 @@
             <speaker>Нагой</speaker>
             <l>Небось он даром на конце сидел!</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l>Те! Тише! Смирно! Слушать Годунова!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Вам ведомо, великие бояре,</l>
             <l>Какие на Руси теперь настали</l>
@@ -923,7 +903,7 @@
             <l>И вновь молить его, да не оставит</l>
             <l>Престола он и да поддержит Русь!</l>
           </sp>
-          <sp who="#Govor">
+          <sp who="#Bojare">
             <speaker>Говор</speaker>
             <l>Он дело говорит! – Мы без Иван</l>
             <l>Василича пропали!— Лучше прямо</l>
@@ -963,7 +943,7 @@
             <l>Вздохнула Русь,— а вы просить его</l>
             <l>Сбираетесь, чтоб он подоле резал!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Князь, про царя такие речи слышать</l>
             <l>Негоже нам. Ты молвил сгоряча –</l>
@@ -984,7 +964,7 @@
             <l>Приимет государство – не земле,</l>
             <l>Ее врагам он только будет страшен!</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l>Так! Так! Он прав! Он дело говорит!</l>
           </sp>
@@ -998,7 +978,7 @@
             <l>Возьмет венец! Бояре, берегитесь:</l>
             <l>Он мягко стелет – жестко будет спать!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Бояре все! Свидетельствуюсь вами –</l>
             <l>Не заслужил я этого упрека!</l>
@@ -1010,24 +990,24 @@
             <l>Признать царем боярина Никиту</l>
             <l>Романыча или кого велите!</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l>Нет, не хотим Захарьина! Не надо!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Иль, может быть, Мстиславского, бояре?</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l>Нет, не хотим! И сами мы не меньше</l>
             <l part="I">Мстиславского!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Иль Шуйского, бояре?</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l>И Шуйского не надо! Быть под Шуйским</l>
             <l>Мы не хотим! Хотим царя Ивана!</l>
@@ -1041,12 +1021,12 @@
           </sp>
         </div>
         <div type="configuration">
-          <sp who="#Golosa_i_kriki">
+          <sp who="#Bojare">
             <speaker>Голоса и крики</speaker>
             <l>Он бунтовщик! Он оскорбил всю Думу!</l>
             <l>Он против всех идет! Он всем досадчик!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Не гневайтеся на него, бояре!</l>
             <l>Он говорил, как мыслил. Если ж вы</l>
@@ -1074,7 +1054,7 @@
             <l>Неловко мне! Сегодня на меня</l>
             <l>И без того разгневался уж царь.</l>
           </sp>
-          <sp who="#Golosa">
+          <sp who="#Bojare">
             <speaker>Голоса</speaker>
             <l part="I">Пусть Шуйский говорит!</l>
           </sp>
@@ -1088,7 +1068,7 @@
             <l>Мне гнев его не страшен – мне страшна</l>
             <l part="I">Земли погибель!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Нет, отец названый!</l>
             <l>Не допущу тебя я до опалы!</l>
@@ -1127,7 +1107,7 @@
           <stage>Иоанн, бледный, изнуренный, одетый в черную рясу, сидит в креслах, с четками в
             руках. Возле него, на столе, Мономахова шапка; с другой стороны, на скамье, полное
             царское облачение. Григорий Нагой подает ему чару.</stage>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>О государь! Не откажись хоть каплю</l>
             <l>Вина испить! Вот уж который день</l>
@@ -1140,7 +1120,7 @@
             <l>Когда душа упитана тоской.</l>
             <l>Отныне мне раскаяние пища!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>Великий государь! Ужели вправду</l>
             <l>Ты нас покинуть хочешь? Что же будет</l>
@@ -1151,7 +1131,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Господь их не оставит!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>Но кто ж сумеет государством править,</l>
             <l part="I">Опричь тебя?</l>
@@ -1169,7 +1149,7 @@
             <l>Долготерпенья Божьего пучину</l>
             <l>Последним я злодейством истощил!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>О государь! Ты в мысли умножаешь</l>
             <l>Невольный грех свой! Не хотел убить ты</l>
@@ -1251,7 +1231,7 @@
         </div>
         <div type="configuration">
           <stage>Нагой поспешно возвращается.</stage>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>Великий государь! Сейчас от Пскова</l>
             <l part="I">Прибыл гонец!</l>
@@ -1261,7 +1241,7 @@
             <l part="F">Уж я не государь –</l>
             <l>Пусть обратится к новому владыке!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>Он говорит, что с радостною вестью</l>
             <l part="I">Его прислал князь Шуйский!</l>
@@ -1438,7 +1418,7 @@
             <l part="F">Читай его, Григорий!</l>
           </sp>
           <stage type="delivery">Стольник уходит.</stage>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <stage type="delivery">развертывает и читает</stage>
             <l>«Царю всея Русии Иоанну</l>
@@ -1448,7 +1428,7 @@
             <speaker>Иоанн</speaker>
             <l part="I">Что? Что?</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <stage type="delivery">смотрит в письмо</stage>
             <l part="F">«От князь Михайлы, сына Курб…»</l>
@@ -1462,7 +1442,7 @@
             <stage type="delivery">К. Нагому.</stage>
             <l part="M">Прочти!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l part="M">Но,государь…</l>
           </sp>
@@ -1470,7 +1450,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Читай!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <stage type="delivery">читает</stage>
             <l>«От Курбского, подвластного когда-то</l>
@@ -1482,7 +1462,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Ну? Что же?</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l part="I">Не смею, государь!</l>
           </sp>
@@ -1490,7 +1470,7 @@
             <speaker>Иоанн</speaker>
             <l part="M">Читай!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <stage type="delivery">продолжает читать</stage>
             <l part="F">«Нелепый</l>
@@ -1506,7 +1486,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Ну? «Твои упреки»?</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>«Твои упреки – басни пьяных баб!</l>
             <l>Стыдился б ты так грубо и нескладно</l>
@@ -1543,7 +1523,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Продолжай!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>«Свое ты войско бросил… как бегун…</l>
             <l>И дома заперся, как хороняка…</l>
@@ -1556,7 +1536,7 @@
             <l part="F">Ну, что же? Дальше</l>
             <l part="I">«А чтоб»?.. Читай!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l part="F">«А чтоб свою ты дурость</l>
             <l>Уразумел и духом бы смирился,</l>
@@ -1571,7 +1551,7 @@
             <speaker>Иоанн</speaker>
             <l part="M">Кончай!</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l part="M">О государь!</l>
           </sp>
@@ -1580,7 +1560,7 @@
             <l part="F">«Да будет</l>
             <l>Сие мое смиренное посланье…»</l>
           </sp>
-          <sp who="#Mihajlo_Nagoj">
+          <sp who="#Grigorij_Nagoj">
             <speaker>Нагой</speaker>
             <l>«Тебе лозой полезною! Аминь!»</l>
           </sp>
@@ -1640,7 +1620,7 @@
         </div>
         <div type="configuration">
           <stage>Входят бояре.</stage>
-          <sp who="Ioann">
+          <sp who="#Ioann">
             <l part="F">Бью вам челом, бояре!</l>
             <l>Довольно долго совещались вы;</l>
             <l>Но наконец вы приговор ваш думный</l>
@@ -1658,7 +1638,7 @@
             <l>Романович, врагов моих заступник?</l>
             <l part="I">Ответствуйте – я жду!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Великий царь!</l>
             <l>Твоей священной покоряясь воле,</l>
@@ -1741,7 +1721,7 @@
             <stage type="delivery">Озирается.</stage>
             <l>Я Сицкого не вижу между вами?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Не гневайся, великий государь!</l>
             <l part="I">Прости безумного!</l>
@@ -1750,7 +1730,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Что сделал Сицкий?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Он не хотел идти тебя просить.</l>
           </sp>
@@ -1790,7 +1770,7 @@
           <head>Покой во дворце Иоанна</head>
           <stage type="delivery">Захарьин и Годунов.</stage>
           <!-- text for II/1 to II/4 missing in Wikisource, added it from http://az.lib.ru/t/tolstoj_a_k/text_0050.shtml -->
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Уж битый час он с английским послом</l>
             <l>Сидит один. Приказ он отдал строгий,</l>
@@ -1803,7 +1783,7 @@
             <l>Не кротким он владыкой свой престол</l>
             <l part="I">Приял опять.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Что было делать нам!</l>
           </sp>
@@ -1813,7 +1793,7 @@
             <l>Чем было прежде! Ведомо ль тебе,</l>
             <l part="I">О чем они толкуют?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Да, отец мой,</l>
             <l>Хотя б и рад я был того не ведать:</l>
@@ -1832,7 +1812,7 @@
             <l>От схимы он, теперь – не может быть!</l>
             <l part="I">Ты точно ль знаешь?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Он мне сам сегодня</l>
             <l part="I">То объявил.</l>
@@ -1846,7 +1826,7 @@
             <l>Не о женитьбе думать, но о том,</l>
             <l part="I">Как землю поддержать?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Нет, мой отец.</l>
           </sp>
@@ -1854,7 +1834,7 @@
             <speaker>Захарьин</speaker>
             <l part="I">Нет? Не сказал?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Нет, мой отец, – не время.</l>
             <l>Он не забыл, что свой венец вчера</l>
@@ -1876,7 +1856,7 @@
             <l>Чини ж как знаешь, но, во что б ни стало,</l>
             <l part="I">Ты удержи его.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">И днем и ночью</l>
             <l>Лишь об одном, отец, я помышляю:</l>
@@ -1891,7 +1871,7 @@
             <l>Его гордыня, если ты ее</l>
             <l part="I">Направить не сумеешь.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Дай совет мне!</l>
           </sp>
@@ -1909,7 +1889,7 @@
             <l>Недалеко и что порой опасен</l>
             <l>Окольный путь бывает для души!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Как рад бы я, отец мой, без уклона</l>
             <l>Всегда вперед идти прямым путем!</l>
@@ -1929,7 +1909,7 @@
             <l>Ты богу дашь о ней ответ! Борис,</l>
             <l part="I">Судьба Руси в твоих руках!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">О, если б</l>
             <l>Она была в моих руках! Я знал бы,</l>
@@ -2004,7 +1984,7 @@
             <l>К себе, к обеду, потолкуй с ним дельно</l>
             <l>И, что он скажет, то мне донеси.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Великий царь! Ты мне сказал вчера,</l>
             <l>Что дерзкую охотно слышишь речь,</l>
@@ -2028,7 +2008,7 @@
             <l>Вступил в родство? Так? Что ли? Говори!</l>
             <l part="I">Тебя насквозь я вижу!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Государь!</l>
             <l>Напрасно я с тобой хотел лукавить:</l>
@@ -2094,7 +2074,7 @@
           <stage>(Уходит в другую дверь.)</stage>
         </div>
         <div type="configuration">
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage>(один)</stage>
             <l part="F">Он прав!</l>
@@ -2528,7 +2508,7 @@
             <l>Попотчевать тебя? Вот романея!</l>
             <l>Вот ренское! Вот аликант! Вот бастр!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">кланяется</stage>
             <l>Благодарю, боярин князь Василий</l>
@@ -2543,7 +2523,7 @@
             <l>Прошу покорно! Да уважь, боярин,</l>
             <l part="I">Хоть чарочкой!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">пьет</stage>
             <l part="F">Во здравие твое!</l>
@@ -2588,7 +2568,7 @@
             <l>Ведь мы с тобой издавна заодно!</l>
             <l part="I">Что ты – то я!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Спасибо, князь Василий</l>
             <l>Иванович! А я вот за советом</l>
@@ -2598,7 +2578,7 @@
             <speaker>Шуйский</speaker>
             <l part="F">Приказывай, боярин!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Ты знаешь, князь, меня не любят в Думе –</l>
             <l part="I">Я новый человек.</l>
@@ -2611,7 +2591,7 @@
             <l>Мстиславский или Бельский – кто их знает!</l>
             <l>Завидно им, что любит царь тебя!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Царь жалует меня не по заслугам;</l>
             <l>Я скользкою тропою, князь, иду.</l>
@@ -2635,7 +2615,7 @@
             <l>За мной? Теперь? Ну, не взыщи, боярин,—</l>
             <l part="I">Царь ждать не может!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Не чинися, князь.</l>
           </sp>
@@ -2643,7 +2623,7 @@
             него. Битяговский смущается и отворачивается.</stage>
         </div>
         <div type="configuration">
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <l>Ты дворянин Михаиле Битяговский?</l>
           </sp>
           <sp who="#Bitjagovskij">
@@ -2651,7 +2631,7 @@
             <l part="I">Да, дворянин.</l>
             <stage type="delivery">Хочет уйти.</stage>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Ни с места! Стой и слушай.</l>
             <l>Ты разорился в карты. На правеж</l>
@@ -2664,7 +2644,7 @@
             <speaker>Битяговский</speaker>
             <l>Нет, это ложь! Меня оклеветали!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Я грамоту твою перехватил –</l>
             <l>И вот она от слова и до слова!</l>
@@ -2684,7 +2664,7 @@
             <speaker>Битяговский</speaker>
             <l part="I">Боярин… я… я не хотел…</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Молчи!</l>
             <l>Теперь ты должен притвориться, будто</l>
@@ -2703,7 +2683,7 @@
             <speaker>Битяговский</speaker>
             <l part="M">Понял.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Приходи сегодня</l>
             <l>Ко мне, в мой дом, по заднему крыльцу,</l>
@@ -3006,7 +2986,7 @@
             <l part="F">Продолжай!</l>
             <l>Ты говоришь, что виделся с послами?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>С обоими, великий государь.</l>
           </sp>
@@ -3014,7 +2994,7 @@
             <speaker>Иоанн</speaker>
             <l part="I">Ну, что ж?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Посол Елисаветин, Баус,</l>
             <l>Стоит на том, что выдать за тебя</l>
@@ -3043,7 +3023,7 @@
             <l>От польского посла? Какие земли</l>
             <l>Сосед Степан за мир нам обещает?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Мы за вином, великий государь,</l>
             <l>Сидели с ним до самого рассвета.</l>
@@ -3058,7 +3038,7 @@
             <l part="F">Заране, видно,</l>
             <l part="I">Хвалиться нечем!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Утром прискакал</l>
             <l>К нему гонец от короля. Напрасно</l>
@@ -3073,7 +3053,7 @@
             <l>Я чай, не спал во всю дорогу! Видно,</l>
             <l>Крутенько им пришлось и невтерпеж!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="I">Когда бы только…</l>
           </sp>
@@ -3081,7 +3061,7 @@
             <speaker>Иоанн</speaker>
             <l part="M">Что?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Когда бы он</l>
             <l>Для нас недоброй вести не привез!</l>
@@ -3091,7 +3071,7 @@
             <l>Недобрых я вестей не получал;</l>
             <l>Чего ж не знаю я – того и нет!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="I">Будь осторожен, государь!</l>
           </sp>
@@ -3493,7 +3473,7 @@
         </div>
         <div type="configuration">
           <stage>Общее смятение.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">вбегая</stage>
             <l>Великий государь! Что сделал ты?</l>
@@ -3503,7 +3483,7 @@
             <speaker>Иоанн</speaker>
             <l part="I">Он лжет как пес!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Нет, государь! Все правда!</l>
             <l>Сейчас гонцы от войска прискакали –</l>
@@ -4068,7 +4048,7 @@
           <stage>Ночь. Царица Мария Федоровна, царевна Ирина Федоровна и Мария Григорьевна Годунова
             глядят в окно. На звездном небе вырезываются башни Кремля и церковные главы. Между
             церквами Благовещения и Ивана Великого видна комета.</stage>
-          <sp who="#Marija_Godunova">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария Годунова</speaker>
             <stage type="delivery">к Ирине</stage>
             <l>Золовушка, смотри, как далеко</l>
@@ -4138,7 +4118,7 @@
             <l>Ах, Господи! Беда со всех сторон!</l>
             <l>Уж не затем ли и звезда явилась?</l>
           </sp>
-          <sp who="#Marija_Godunova">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария Годунова</speaker>
             <l>Бог весть! Недавно привезли сюда</l>
             <l>Волхвов и ворожей, которых царь</l>
@@ -4456,7 +4436,7 @@
             <l>Кого-нибудь еще припомню я,</l>
             <l part="I">Того ты впишешь!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">берет перо и читает</stage>
             <l part="F">«Упокой, Господь,</l>
@@ -4481,7 +4461,7 @@
             <l part="F">Постой – пятнадцать?</l>
             <l>Их было боле – двадцать напиши!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">пишет и продолжает</stage>
             <l>«Помилуй, Господи, и упокой</l>
@@ -4705,7 +4685,7 @@
             <l part="F">Отдай Борису –</l>
             <l part="I">Пусть он прочтет!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">просмотрев обе грамоты</stage>
             <l part="F">Из Серпухова пишут,</l>
@@ -5090,7 +5070,7 @@
             <stage type="delivery">Подает им свой нагрудный крест.</stage>
             <l part="I">Целуйте крест!</l>
           </sp>
-          <sp who="#Mstislavskij #Zaharin #Belskij #Godunov">
+          <sp who="#Mstislavskij #Zaharin #Belskij #BorisGodunov">
             <speaker>Мстиславский, Захарьин, Бельский и Годунов</speaker>
             <stage type="delivery">прикладываясь ко кресту</stage>
             <l part="F">Целуем, государь!</l>
@@ -5239,7 +5219,7 @@
             <l part="I">Я ваш владыко!..</l>
             <stage type="delivery">Шатается.</stage>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">подхватывая его</stage>
             <l part="F">Государю дурно!</l>
@@ -5264,7 +5244,7 @@
         <div type="configuration">
           <head>Дом Годунова</head>
           <stage>Годунов и жена его провожают с поклонами царевича Федора.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Прости ж, царевич! Много благодарны</l>
             <l>Тебе за честь! Да не кручинься боле!</l>
@@ -5279,7 +5259,7 @@
             <l>Оправила царя! Пожди немного,</l>
             <l>И скоро здрав он будет.</l>
           </sp>
-          <sp who="#Marija_Godunova">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария Годунова</speaker>
             <l>Государь,</l>
             <l>Куда ж спешишь ты? Я ведь и закуской</l>
@@ -5296,7 +5276,7 @@
             <l>Я буду как в лесу! Тогда уж ты мне</l>
             <l part="I">Указывай, что делать!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Я, царевич,</l>
             <l>Тебе слуга и верный твой холоп;</l>
@@ -5315,7 +5295,7 @@
           </sp>
         </div>
         <div type="configuration">
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <stage type="delivery">одна</stage>
             <l>О Господи! Когда бы этот день</l>
@@ -5328,43 +5308,43 @@
             <l part="I">Такие сны!</l>
             <stage type="delivery">Задумывается.</stage>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">возвращается и смотрит на нее</stage>
             <l part="F">Мария, что с тобою?</l>
           </sp>
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <l>Прости меня. Мне страшен этот день!</l>
             <l part="I">Ворожеи…</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Ворожеи солгали:</l>
             <l>Царь стал бодрей. Я видел сам его.</l>
           </sp>
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <l>Однако если б – если б не солгали</l>
             <l part="I">Ворожеи?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">понижая голос</stage>
             <l part="F">Когда бы то случилось –</l>
             <l>Скажи, Мария, – мы теперь одни, –</l>
             <l part="I">Ужели б ты?..</l>
           </sp>
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <l part="F">Нет, Господин мой, нет!</l>
             <l>Не за него, а за тебя мне страшно!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="I">Как? За меня?</l>
           </sp>
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <l part="F">Не говорил ли Федор,</l>
             <l>Что, если что случится, он не знает,</l>
@@ -5376,7 +5356,7 @@
             <l>За все, за все перед землею будешь</l>
             <l part="I">Ты отвечать?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Когда бы в самом деле</l>
             <l>Случилось то, чего боишься ты,</l>
@@ -5393,14 +5373,14 @@
             <l>Как мог бы я, когда бы не в подданстве,</l>
             <l part="I">А на престоле был рожден!</l>
           </sp>
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <l part="F">О, будем</l>
             <l>Мы Господа благодарить за то,</l>
             <l>Что не высоко рождены. Ужасен</l>
             <l part="I">Ответ царей!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">А этого царя</l>
             <l>Ответ еще ужасней будет. Но</l>
@@ -5409,11 +5389,11 @@
             <l>Еще пройдет, пока ему придется</l>
             <l part="I">Свой дать ответ.</l>
           </sp>
-          <sp who="#Marija">
+          <sp who="#MarijaGrigorevna">
             <speaker>Мария</speaker>
             <l part="F">Ты неспокоен сам!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Спокоен я – все к лучшему – солгали</l>
             <l>Ворожеи. Поди к себе, Мария,</l>
@@ -5423,7 +5403,7 @@
             Потом садится и смотрит на них молча.</stage>
         </div>
         <div type="configuration">
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <stage type="delivery">Значительно.</stage>
             <l>Сегодня</l>
             <l>Кириллин день, осьмнадцатое марта!</l>
@@ -5432,7 +5412,7 @@
             <speaker>1-й волхв</speaker>
             <l part="I">Так, государь.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Царю сегодня лучше.</l>
           </sp>
@@ -5440,7 +5420,7 @@
             <speaker>2-й волхв</speaker>
             <l part="I">Спаси его Господь.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Вы, стало быть,</l>
             <l>Ошиблися, когда ему сегодня</l>
@@ -5451,7 +5431,7 @@
             <l part="F">Что мы в звездах</l>
             <l part="I">Прочли, то и сказали.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Отчего же</l>
             <l part="I">Так скоро спал с него недуг?</l>
@@ -5462,7 +5442,7 @@
             <l>Но долог день и солнце не зашло.</l>
           </sp>
           <stage type="delivery">Молчание.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>А обо мне, как я вам указал,</l>
             <l part="I">Гадали вы?</l>
@@ -5472,7 +5452,7 @@
             <stage type="delivery">озираясь</stage>
             <l part="F">Гадали, государь.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Вы можете здесь говорить открыто –</l>
             <l>Нас не услышат. Что узнали вы?</l>
@@ -5485,7 +5465,7 @@
             <l>Величие твое. Одна из них</l>
             <l part="I">Угаснет скоро.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Говори яснее!</l>
           </sp>
@@ -5494,7 +5474,7 @@
             <l>Чем дале путь твой стелется, тем шире,</l>
             <l part="I">Тем ярче он.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Куда он приведет?</l>
           </sp>
@@ -5504,7 +5484,7 @@
             <l>В чем сам себе признаться ты не смел –</l>
             <l part="I">То сбудется.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Волхвы! Скажите прямо,</l>
             <l>Что ожидает в будущем меня?</l>
@@ -5515,7 +5495,7 @@
             <l>Когда на царский сядешь ты престол,</l>
             <l>Своих холопей помяни, боярин!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">вставая</stage>
             <l part="I">В уме ли вы!</l>
@@ -5524,7 +5504,7 @@
             <speaker>1-й волхв</speaker>
             <l part="F">Так выпало гаданье.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Те! Тише! Тише! Стены нас услышат!</l>
             <stage type="delivery">Подходит к дверям, осматривает их и останавливается перед
@@ -5541,7 +5521,7 @@
             <l>Все на престоле видели тебя</l>
             <l part="I">В венце и в царских бармах…</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Тише, тише!</l>
             <l>Когда случится то, что вы сказали?</l>
@@ -5550,7 +5530,7 @@
             <speaker>1-й волхв</speaker>
             <l part="I">Когда – не знаем.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Много ли мне лет</l>
             <l part="I">Царить придется?</l>
@@ -5560,7 +5540,7 @@
             <l part="F">Твоего царенья</l>
             <l part="I">Семь только будет лет.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Хотя б семь дней!</l>
             <l>Но чем достигну я верховной власти?</l>
@@ -5569,7 +5549,7 @@
             <speaker>1-й волхв</speaker>
             <l part="I">Не ведаем.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Кого бояться мне?</l>
           </sp>
@@ -5577,7 +5557,7 @@
             <speaker>2-й волхв</speaker>
             <l part="I">Не спрашивай.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Я знать хочу, кто главный</l>
             <l part="I">Противник мой?</l>
@@ -5586,7 +5566,7 @@
             <speaker>1-й волхв</speaker>
             <l part="F">Темны его приметы.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="I">Скажите их!</l>
           </sp>
@@ -5610,7 +5590,7 @@
             <speaker>1-й волхв</speaker>
             <l part="I">Убит, но жив.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Нет смысла в сих словах!</l>
           </sp>
@@ -5619,7 +5599,7 @@
             <l>Так выпало гаданье. Боле знать</l>
             <l part="I">Нам не дано.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">С меня пока довольно.</l>
             <l>В темницу вас обратно отведут;</l>
@@ -5632,7 +5612,7 @@
           <stage>Волхвы уходят.</stage>
         </div>
         <div type="configuration">
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <stage type="delivery">Один.</stage>
             <l>Чего давно душа моя желала,</l>
             <l>В чем сам себе признаться я не смел!</l>
@@ -5692,14 +5672,14 @@
             <speaker>Дворецкий</speaker>
             <l>К тебе пришел, боярин, царский дохтур.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="I">Пускай войдет!</l>
           </sp>
         </div>
         <div type="configuration">
           <stage>Входит Якоби.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <l part="F">Роман Елиазарыч,</l>
             <l>Я за тобой послал, чтоб ты подробно</l>
             <l>Поведал мне, насколько государю</l>
@@ -5718,7 +5698,7 @@
             <l>И будет здрав он, если нам удастся</l>
             <l>От раздражений охранить его.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>А если бы, не дай Бог, чем-нибудь</l>
             <l part="I">Он раздражился?</l>
@@ -5732,7 +5712,7 @@
             <l>Что может их малейшее волненье</l>
             <l part="I">Вдруг разорвать.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Но чем же помешать нам,</l>
             <l>Чтоб как-нибудь не опалился он?</l>
@@ -5744,7 +5724,7 @@
             <l>Пусть только то и видит он и слышит,</l>
             <l part="I">Что развлекать его способно.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Как</l>
             <l part="I">Оставил ты его?</l>
@@ -5759,7 +5739,7 @@
             <l>Осматривать их мог он. Близь него</l>
             <l>Остался мой товарищ, Ричард Эльмс.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Вы трудное условье положили</l>
             <l>Для исцеленья царского недуга –</l>
@@ -5773,7 +5753,7 @@
             <l>Мысль недурна. Пусть в играх этот день</l>
             <l part="I">Пройдет и в смехе.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">встает</stage>
             <l part="F">Мы стараться будем</l>
@@ -5785,7 +5765,7 @@
             <stage type="delivery">Уходит.</stage>
           </sp>
           <stage type="delivery">Годунов топает ногой. Входит дворецкий.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Здесь ли Битяговский?</l>
           </sp>
@@ -5793,21 +5773,21 @@
             <speaker>Дворецкий</speaker>
             <l part="I">Здесь, государь.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Пошли его сюда.</l>
           </sp>
           <stage>Дворецкий уходит и вскоре впускает Битяговского.</stage>
         </div>
         <div type="configuration">
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <l part="I">Что деется в народе?</l>
           </sp>
           <sp who="#Bitjagovskij">
             <speaker>Битяговский</speaker>
             <l part="F">Слава Богу.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>На Шуйского и Вольского они</l>
             <l part="I">Озлоблены ль как надо?</l>
@@ -5816,7 +5796,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Так и рвутся.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>И стало быть, подымутся на них,</l>
             <l part="I">Когда мы захотим?</l>
@@ -5825,7 +5805,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Коли б не прежде.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Ты должен быть готов перед царем</l>
             <l>Свидетелем предстать, что возмущенье</l>
@@ -5835,7 +5815,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Могу.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>И присягнуть, что слышал ты своими</l>
             <l>Ушами, как холопей подсылали</l>
@@ -5845,7 +5825,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Зачем не присягнуть!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Будь у меня сегодня под рукою;</l>
             <l>Быть может, ты понадобишься мне;</l>
@@ -6134,7 +6114,7 @@
             <stage type="delivery">Слышны крики на площади.</stage>
             <l part="F">Что за крики там?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Народ шумит, великий государь,</l>
             <l>И веселится о твоем здоровье!</l>
@@ -6394,7 +6374,7 @@
         </div>
         <div type="configuration">
           <stage>Игра продолжается. Годунов показывается в дверях.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">тихо, указывая на Иоанна одному боярину, стоящему позади
               других</stage>
@@ -6414,7 +6394,7 @@
             <l>Каков их был ответ? Зачем молчишь ты?</l>
             <l part="I">Что ж ты не говоришь?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Гм, государь!</l>
           </sp>
@@ -6425,7 +6405,7 @@
             <l part="F">Как смеешь</l>
             <l part="I">Ты так смотреть?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Великий государь!</l>
             <l>Волхвы тебе велели отвечать,</l>
@@ -6435,7 +6415,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Как?!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l>Что ошибиться им нельзя и что –</l>
             <l>Кириллин день еще не миновал!</l>
@@ -6526,7 +6506,7 @@
             <speaker>Якоби</speaker>
             <l part="I">Окончил жизнь!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">подходит и кладет руку на сердце Иоанна</stage>
             <l part="M">Преставился!</l>
@@ -6572,7 +6552,7 @@
           </sp>
           <stage>Все трое голосят и рыдают. Крики на площади усиливаются.</stage>
           <stage>Входит стрелецкий голова.</stage>
-          <sp who="#Golova">
+          <sp who="#StreletskijGolova">
             <speaker>Голова</speaker>
             <stage type="delivery">к Федору</stage>
             <l part="F">Великий государь!</l>
@@ -6583,13 +6563,13 @@
             <stage type="delivery">с испугом</stage>
             <l part="I">Что надо им?</l>
           </sp>
-          <sp who="#Golova">
+          <sp who="#StreletskijGolova">
             <speaker>Голова</speaker>
             <l part="F">Кричат, что Шуйский с Бельским</l>
             <l>Отравой государя извели!</l>
           </sp>
-          <stage type="delivery">Вбегает стрелецкий сотник.</stage>
-          <sp who="#Sotnik">
+          <stage>Вбегает стрелецкий сотник.</stage>
+          <sp who="#StreletskijSotnik">
             <speaker>Сотник</speaker>
             <l>Народ царь-пушкой овладел! Хотят</l>
             <l part="I">Разбить дворец!</l>
@@ -6606,7 +6586,7 @@
         </div>
         <div type="configuration">
           <stage>Входит Годунов.</stage>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">торжественно к Федору, опускаясь на колени</stage>
             <l part="I">Великий царь!</l>
@@ -6630,7 +6610,7 @@
             <l>Теперь решать! Ему препоручаю</l>
             <l part="I">Отныне власть мою!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">поклонившись Федору, подходит к окну</stage>
             <l part="F">Народ московский!</l>
@@ -6651,7 +6631,7 @@
             <speaker>Бельский</speaker>
             <l part="I">За что нас в ссылку?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Вы вольны остаться –</l>
             <l part="I">Хотите ль выйти на крыльцо?</l>
@@ -6665,7 +6645,7 @@
             <speaker>Бельский</speaker>
             <l part="F">Нас разорвут на клочья!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="I">Я думаю.</l>
             <stage type="delivery">К стрелецкому голове.</stage>
@@ -6682,7 +6662,7 @@
             <l>Ты скор, боярин. Мы еще не знаем,</l>
             <l part="I">Кто поднял бунт.</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Нагие со Мстиславским.</l>
             <stage type="delivery">Указывая на Битяговского, который входит в приличном виде и в
@@ -6698,7 +6678,7 @@
             <stage type="delivery">нагло</stage>
             <l part="M">Да, я!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">К Мстиславскому</stage>
             <l part="F">Князь, ты достоин смерти,</l>
@@ -6722,7 +6702,7 @@
             <l part="F">Нельзя ли, шурин,</l>
             <l part="I">Царице здесь остаться?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Государь,</l>
             <l part="I">Там лучше ей.</l>
@@ -6736,7 +6716,7 @@
             <l>Идти я должен? В ссылку? В монастырь?</l>
             <l part="I">В тюрьму? Или на плаху?</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <l part="F">Мой отец,</l>
             <l>Тебя царь просит оставаться с ним.</l>
@@ -6764,7 +6744,7 @@
             <l>Не плачь, царица-матушка! Что ж делать!</l>
             <l part="I">Так, видно, надобно!</l>
           </sp>
-          <sp who="#Godunov">
+          <sp who="#BorisGodunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">подходит к окну</stage>
             <l part="F">Народ московский!</l>
