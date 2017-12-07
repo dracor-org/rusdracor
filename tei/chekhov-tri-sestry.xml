@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+Булгаков, Михаил Афанасьевич
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -8,7 +9,7 @@
         <title type="main" xml:lang="en">Three Sisters</title>
         <title type="sub" xml:lang="ru">Драма в четырех действиях</title>
         <title type="sub" xml:lang="en">A Drama in Four Acts</title>
-        <author key="Wikidata:Q5685">Антон Чехов</author>
+        <author key="Wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>

@@ -8,14 +8,14 @@
         <title type="main" xml:lang="en">Discourse between Two Greek Philosophers about
           Beauty</title>
         <title type="sub" xml:lang="ru">Драматическая сцена из древнегреческой классической жизни в
-          стихах.</title>
-        <title type="sub" xml:lang="en">Dramatic Scene from Hellenic Classical Life in
-          Verse.</title>
-        <author key="Wikidata:Q1784989">Козьма Прутков</author>
+          стихах</title>
+        <title type="sub" xml:lang="en">Dramatic Scene from Hellenic Classical Life in Verse</title>
+        <author key="Wikidata:Q1784989">Прутков, Козьма</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/prutkov-spor-drevnih-grecheskih-filosofov-ob-izjaschnom</idno>
+        <idno type="URL"
+          >https://dracor.org/rus/prutkov-spor-drevnih-grecheskih-filosofov-ob-izjaschnom</idno>
         <idno type="RusDraCor">23</idno>
         <availability>
           <licence>
@@ -27,7 +27,8 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Wikisource</name>
-          <idno type="URL">https://ru.wikisource.org/wiki/Спор_древних_греческих_философов_об_изящном_(Прутков)</idno>
+          <idno type="URL"
+            >https://ru.wikisource.org/wiki/Спор_древних_греческих_философов_об_изящном_(Прутков)</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>
@@ -82,11 +83,11 @@
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
         <castGroup rend="braced">
           <castItem>
-                        <role>Клефистон</role>
-                    </castItem>
+            <role>Клефистон</role>
+          </castItem>
           <castItem>
-                        <role>Стиф</role>
-                    </castItem>
+            <role>Стиф</role>
+          </castItem>
           <roleDesc>древние греческие философы.</roleDesc>
         </castGroup>
       </castList>

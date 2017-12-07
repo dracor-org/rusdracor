@@ -4,9 +4,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Горе от ума</title>
-        <title type="sub">Комедия в четырех действиях, в стихах</title>
-        <author key="Wikidata:Q15001">Александр Сергеевич Грибоедов</author>
+        <title type="main" xml:lang="ru">Горе от ума</title>
+        <title type="main" xml:lang="en">Woe from Wit</title>
+        <title type="sub" xml:lang="ru">Комедия в четырех действиях, в стихах</title>
+        <title type="sub" xml:lang="en">Comedy in 4 Acts, in Verse</title>
+        <author key="Wikidata:Q15001">Грибоедов, Александр Сергеевич</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
