@@ -47,11 +47,11 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Leporello" sex="MALE">
-            <persName>Лепорелло</persName>
-          </person>
           <person xml:id="DonZhuan" sex="MALE">
             <persName>Дон Жуан</persName>
+          </person>
+          <person xml:id="Leporello" sex="MALE">
+            <persName>Лепорелло</persName>
           </person>
           <person xml:id="Amerikanets" sex="MALE">
             <persName>Американец</persName>

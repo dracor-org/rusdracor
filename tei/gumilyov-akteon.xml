@@ -42,6 +42,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="Kadm" sex="MALE">
+            <persName>Кадм</persName>
+          </person>
+          <person xml:id="Ehion" sex="MALE">
+            <persName>Эхион</persName>
+          </person>
+          <person xml:id="Agava" sex="MALE">
+            <persName>Агава</persName>
+          </person>
+          <person xml:id="Akteon" sex="MALE">
+            <persName>Актеон</persName>
+          </person>
           <person xml:id="PervyjJunosha" sex="MALE">
             <persName>Первый юноша</persName>
           </person>
@@ -51,6 +63,21 @@
           <person xml:id="TretijJunosha" sex="MALE">
             <persName>Третий юноша</persName>
           </person>
+          <person xml:id="Ohotnitsy" sex="FEMALE">
+            <persName>Голоса охотниц</persName>
+          </person>
+          <person xml:id="Krokale" sex="FEMALE">
+            <persName>Крокале</persName>
+          </person>
+          <person xml:id="Ranis" sex="FEMALE">
+            <persName>Ранис</persName>
+          </person>
+          <person xml:id="Hiale" sex="FEMALE">
+            <persName>Хиале</persName>
+          </person>
+          <person xml:id="Diana" sex="FEMALE">
+            <persName>Диана</persName>
+          </person>
           <person xml:id="PervyjPes" sex="MALE">
             <persName>Первый</persName>
           </person>
@@ -59,33 +86,6 @@
           </person>
           <person xml:id="TretijPes" sex="MALE">
             <persName>Третий</persName>
-          </person>
-          <person xml:id="Agava" sex="MALE">
-            <persName>Агава</persName>
-          </person>
-          <person xml:id="Hiale" sex="FEMALE">
-            <persName>Хиале</persName>
-          </person>
-          <person xml:id="Ehion" sex="MALE">
-            <persName>Эхион</persName>
-          </person>
-          <person xml:id="Diana" sex="FEMALE">
-            <persName>Диана</persName>
-          </person>
-          <person xml:id="Kadm" sex="MALE">
-            <persName>Кадм</persName>
-          </person>
-          <person xml:id="Krokale" sex="FEMALE">
-            <persName>Крокале</persName>
-          </person>
-          <person xml:id="Ohotnitsy" sex="FEMALE">
-            <persName>Голоса охотниц</persName>
-          </person>
-          <person xml:id="Akteon" sex="MALE">
-            <persName>Актеон</persName>
-          </person>
-          <person xml:id="Ranis" sex="FEMALE">
-            <persName>Ранис</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -97,10 +97,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
+        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
         <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#to" when="2017-04-26">corrected IDs</change>
-        <change who="#ff" when="2017-06-07">added missing stage directions; scene
+        <change who="#to" when="2017-04-26">correct IDs</change>
+        <change who="#ff" when="2017-06-07">add missing stage directions; scene
           segmentation</change>
       </listChange>
     </revisionDesc>

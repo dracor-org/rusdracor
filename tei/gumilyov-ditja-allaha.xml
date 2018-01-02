@@ -63,47 +63,47 @@
           <person xml:id="Iskander" sex="MALE">
             <persName>Искандер</persName>
           </person>
-          <person xml:id="Sindbad" sex="MALE">
-            <persName>Синдбад</persName>
-          </person>
-          <person xml:id="Staruha" sex="FEMALE">
-            <persName>Старуха</persName>
-          </person>
-          <person xml:id="Glashataj" sex="MALE">
-            <persName>Глашатай</persName>
-          </person>
-          <person xml:id="Kadi" sex="MALE">
-            <persName>Кади</persName>
-          </person>
           <person xml:id="Kalif" sex="MALE">
             <persName>Калиф</persName>
-          </person>
-          <person xml:id="Angel" sex="UNKNOWN">
-            <persName>Ангел</persName>
-          </person>
-          <person xml:id="PervyjJevnuh" sex="MALE">
-            <persName>1-й евнух</persName>
-          </person>
-          <person xml:id="Ptitsy" sex="UNKNOWN">
-            <persName>Птицы</persName>
           </person>
           <person xml:id="Astrolog" sex="MALE">
             <persName>Астролог</persName>
           </person>
-          <person xml:id="VtorojJevnuh" sex="MALE">
-            <persName>2-й евнух</persName>
+          <person xml:id="Staruha" sex="FEMALE">
+            <persName>Старуха</persName>
           </person>
-          <person xml:id="Pirat" sex="MALE">
-            <persName>Пират</persName>
+          <person xml:id="Kadi" sex="MALE">
+            <persName>Кади</persName>
           </person>
           <person xml:id="Shejh" sex="MALE">
             <persName>Шейх</persName>
           </person>
+          <person xml:id="Pirat" sex="MALE">
+            <persName>Пират</persName>
+          </person>
           <person xml:id="SynKalifa" sex="MALE">
             <persName>Сын Калифа</persName>
           </person>
+          <person xml:id="Sindbad" sex="MALE">
+            <persName>Синдбад</persName>
+          </person>
+          <person xml:id="Glashataj" sex="MALE">
+            <persName>Глашатай</persName>
+          </person>
+          <person xml:id="PervyjJevnuh" sex="MALE">
+            <persName>1-й евнух</persName>
+          </person>
+          <person xml:id="VtorojJevnuh" sex="MALE">
+            <persName>2-й евнух</persName>
+          </person>
           <person xml:id="Gafiz" sex="MALE">
             <persName>Гафиз</persName>
+          </person>
+          <person xml:id="Ptitsy" sex="UNKNOWN">
+            <persName>Птицы</persName>
+          </person>
+          <person xml:id="Angel" sex="UNKNOWN">
+            <persName>Ангел</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -115,9 +115,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
+        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
         <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#ff" when="2017-07-07">connected lines via 'part' attribute</change>
+        <change who="#ff" when="2017-07-07">connect lines via 'part' attribute</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
