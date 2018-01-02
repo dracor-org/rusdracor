@@ -46,26 +46,26 @@
           <person xml:id="Konung" sex="MALE">
             <persName>Конунг</persName>
           </person>
+          <person xml:id="Lage" sex="MALE">
+            <persName>Лаге</persName>
+          </person>
+          <person xml:id="Ahti" sex="MALE">
+            <persName>Ахти</persName>
+          </person>
+          <person xml:id="Grubbe" sex="MALE">
+            <persName>Груббе</persName>
+          </person>
+          <person xml:id="Snorre" sex="MALE">
+            <persName>Снорре</persName>
+          </person>
           <person xml:id="Gondla" sex="MALE">
             <persName>Гондла</persName>
           </person>
           <person xml:id="Lera" sex="FEMALE">
             <persName>Лера</persName>
           </person>
-          <person xml:id="Lage" sex="MALE">
-            <persName>Лаге</persName>
-          </person>
           <person xml:id="Vozhd" sex="MALE">
             <persName>Вождь</persName>
-          </person>
-          <person xml:id="Ahti" sex="MALE">
-            <persName>Ахти</persName>
-          </person>
-          <person xml:id="Snorre" sex="MALE">
-            <persName>Снорре</persName>
-          </person>
-          <person xml:id="Grubbe" sex="MALE">
-            <persName>Груббе</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -77,9 +77,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
+        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
         <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#to" when="2017-05-02">corrected IDs</change>
+        <change who="#to" when="2017-05-02">correct IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
