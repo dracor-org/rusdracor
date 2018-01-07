@@ -47,35 +47,35 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Rostislav" sex="MALE">
-            <persName>Ростислав</persName>
-          </person>
-          <person xml:id="DrugojVoin" sex="MALE">
-            <persName>Другой воин</persName>
-          </person>
-          <person xml:id="Oskold" sex="MALE">
-            <persName>Оскольд</persName>
-          </person>
-          <person xml:id="Semira" sex="FEMALE">
+          <person xml:id="semira" sex="FEMALE">
             <persName>Семира</persName>
           </person>
-          <person xml:id="PervyjVoin" sex="MALE">
-            <persName>Первый воин</persName>
-          </person>
-          <person xml:id="Izbrana" sex="FEMALE">
+          <person xml:id="izbrana" sex="FEMALE">
             <persName>Избрана</persName>
           </person>
-          <person xml:id="Voin" sex="MALE">
-            <persName>Воин</persName>
+          <person xml:id="oskold" sex="MALE">
+            <persName>Оскольд</persName>
           </person>
-          <person xml:id="Vitozar" sex="MALE">
-            <persName>Витозар</persName>
+          <person xml:id="pervyj_voin" sex="MALE">
+            <persName>Первый воин</persName>
           </person>
-          <person xml:id="Oleg" sex="MALE">
+          <person xml:id="drugoj_voin" sex="MALE">
+            <persName>Другой воин</persName>
+          </person>
+          <person xml:id="rostislav" sex="MALE">
+            <persName>Ростислав</persName>
+          </person>
+          <person xml:id="oleg" sex="MALE">
             <persName>Олег</persName>
           </person>
-          <person xml:id="Vozved" sex="MALE">
+          <person xml:id="vitozar" sex="MALE">
+            <persName>Витозар</persName>
+          </person>
+          <person xml:id="vozved" sex="MALE">
             <persName>Возвед</persName>
+          </person>
+          <person xml:id="voin" sex="MALE">
+            <persName>Воин</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -87,12 +87,13 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
+        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
         <change who="#ff" when="2017-04-19">establish well-formedness</change>
-        <change who="#sveta" when="2017-04-24">corrected IDs</change>
+        <change who="#sveta" when="2017-04-24">correct IDs</change>
         <change who="#to" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2017-06-07">front matter; marked-up shared verses with part
+        <change who="#ff" when="2017-06-07">front matter; mark-up shared verses with part
           attribute</change>
+        <change who="#ff" when="2018-01-07">correct some ID info</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -124,7 +125,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Что к горести меня любовь воспламеняла,</l>
             <l>Я часто то тебе, Избрана, предвещала.</l>
@@ -137,11 +138,11 @@
             <l>Избрана, я хочу любовника оставить</l>
             <l>И, одолев себя, навек себя прославить.</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Но будешь ли иметь толико много сил?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Хотя возлюбленный мне больше жизни мил,</l>
             <l>Но помню то, что им отец мой свержен с трона</l>
@@ -161,7 +162,7 @@
             <l>На то ли Кий сей град стенами окружил,</l>
             <l>Чтоб сродник в нем его рабом Олегу был?</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Князь млад, отцу врученный Ростислава.</l>
             <l>Олегом правится и войско и держава.</l>
@@ -172,37 +173,37 @@
             <l>Оскольд не в бедности, — в почтении живет,</l>
             <l>Твоя подобно жизнь во славе здесь плывет...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="I">Во славе?!.. В горестях!</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l part="F">Олегов сын вздыхает...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Сие мне пущее мученье приключает.</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Коль вы оставите намеренье свое,</l>
             <l>Во счастие прейдет несчастие твое:</l>
             <l>Противу Игоря ослабла ваша сила,</l>
             <l>И вас ему судьба навеки покорила.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Когда освобожден подвластный нам народ,</l>
             <l>Довольно сил у нас: уже мы третий год</l>
             <l>Бесплодными в сердцах досады оставляем</l>
             <l>И к рабству суетно так долго привыкаем.</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Не к рабству вспалена твоя, Семира, кровь...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Оскольда не взведет на трон сия любовь.</l>
             <l>Отец наш жизнь свою скончал не на престоле,</l>
@@ -212,11 +213,11 @@
             <l>Вот обстоятельства, в которые мы впали,</l>
             <l>И льзя ль, чтоб с братом мы спокойны пребывали?</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Но что он с воинством толь малым учинит?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>О нашем воинстве Олег не тако мнит.</l>
             <l>Почто он Игоря отсель пред сими днями </l>
@@ -224,11 +225,11 @@
             <l>Сея щедроты он при нем не совершил</l>
             <l>И узы без него плененным разрешил.</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Олег, как дочь свою, Семиру почитает.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Он прямо гордости моей еще не знает,</l>
             <l>Иль мнит, когда мне стал любезен Ростислав,</l>
@@ -238,11 +239,11 @@
             <l>Когда бы страсть могла мой нрав переменить,</l>
             <l>Бесчестно было бы герою мя любить.</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Какие ж от любви плоды имети чаешь?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>На что ты больше мне о том напоминаешь?</l>
             <l>Иль малодушием ты мнишь меня прельщать?</l>
@@ -252,7 +253,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Оскольд, Семира, Избрана, Возвед и воины.</stage>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Настал нам день искать иль смерти, иль свободы.</l>
             <l>Умрем иль победим, о храбрые народы!</l>
@@ -281,7 +282,7 @@
             <l>Намеряся свой долг исполнить непреступно,</l>
             <l>Спасем отечество или погибнем купно.</l>
           </sp>
-          <sp who="#PervyjVoin">
+          <sp who="#pervyj_voin">
             <speaker>Воин</speaker>
             <l>Не пощадим себя, куда велишь, пойдем</l>
             <l>И за отечество всю кровь свою прольем.</l>
@@ -292,14 +293,14 @@
             <l>Кто ныне к праведной нас брани посылает</l>
             <l>И с нами в должности умрети сам желает.</l>
           </sp>
-          <sp who="#Drugojvoin">
+          <sp who="#drugoj_voin">
             <speaker>Другой воин</speaker>
             <l>Пойдем, о государь, пойдем против врагов!</l>
             <l>Подай то свету знать, что тягости оков,</l>
             <l>В темницах как они нас вредно ни тягчили,</l>
             <l>Отважности в сердцах нимало не смягчили.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>На то судьбина вам свободу отдала.</l>
             <l>Нам сей назначен день свои явить дела.</l>
@@ -316,28 +317,28 @@
             <l>Недолго будете меня вы тамо ждать.</l>
             <l>О други, время нам оружие поднять!</l>
           </sp>
-          <sp who="#Pervyjvoin">
+          <sp who="#pervyj_voin">
             <speaker>Первый воин</speaker>
             <l>Всё войско, государь, к оружию готово,</l>
             <l>И полетим на смерть, лишь выговоришь слово.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Природа! Для чего я девой рождена?</l>
             <l>Я тщетно к бодрости теперь возбуждена.</l>
             <l>Хоть с вами в равные вдаюся я напасти,</l>
             <l>Не буду в храбрости имети с вами части.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Непобедиму страсть стесняешь ты в себе, —</l>
             <l>Довольно мужества, сестра моя, в тебе.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Довольно — для меня, но для народа — мало.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Для общества! Оно твой дух восколебало!..</l>
             <stage>Возведу </stage>
@@ -348,7 +349,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Оскольд, Семира и Избрана</stage>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="F">Княжна! На сих часах</l>
             <l>Во граде скоро всё совсем переменится:</l>
@@ -362,7 +363,7 @@
             <l>Ты, благо общее любви предпочитая, —</l>
             <l>Владычица страстей, себя одолевая.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>От знатной крови я на свет, изведена.</l>
             <l>Должна ль я тако быть страстьми побеждена,</l>
@@ -379,7 +380,7 @@
             <l>И столько я еще во оном сил брегу,</l>
             <l>Что <emph>я</emph> противиться любви легко могу.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Сия твоя любовь Оскольду преполезна.</l>
             <l>Коль Ростиславу ты угодна и любезна,</l>
@@ -400,7 +401,7 @@
             <l>Не служит ни к чему твоя погибель ныне,</l>
             <l>Отважности твои не надобны судьбине.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Благополучна б я на свете сем была,</l>
             <l>Когда б тебе собой я помочь дать могла.</l>
@@ -409,7 +410,7 @@
             <l>Не почитаему ни от кого женой,</l>
             <l>Текущую с мечем повсюду за тобой.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Присутствием твоим там дух бы мой терзался,</l>
             <l>Мне малый бы упор погибелью казался,</l>
@@ -418,7 +419,7 @@
             <l>Позабывал себя и долг воинска дела,</l>
             <l>Тебя б едину мысль моя в себе имела.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Останусь и тебя не возмущу ничем,</l>
             <l>Не сделаю препятств в сражении твоем.</l>
@@ -429,25 +430,25 @@
             <l>Я буду, может быть, еще стенать всечасно.</l>
             <l>И о любовнике воспомнити ужасно!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Прешли уже часы веселья твоего</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>О том не думаю я больше ничего,</l>
             <l>Оставите его намерилась я твердо;</l>
             <l>Но смерти не хочу ему немилосердо.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Не будет поврежден ничьею он рукой.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>А если о тебе он в мысли не такой?</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Ко исполнению Оскольдова желанья,</l>
             <l>Коль смерть меня сразит, не испускай стенанья,</l>
@@ -456,18 +457,18 @@
             <l>С которым очи я, во брани пад, закрою,</l>
             <l>И тени моея не востревожь тоскою!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Воображение того мятет мой дух,</l>
             <l>Едина речь о том, как гром, пронзает слух.</l>
             <l>На что родители Семиру воспитали,</l>
             <l>Коль жизни моея дни адской мукой стали?!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Любовник твой идет, скрепися перед ним.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Претягостен уже он стал очам моим.</l>
             <l part="I">Я скроюсь от него.</l>
@@ -476,7 +477,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Оскольд и Ростислав.</stage>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">Поступок мне сей дивен.</l>
             <l>За что сестре твоей толико я противен?</l>
@@ -489,17 +490,17 @@
             <l>Я всё употребил вам сделать облегченье,</l>
             <l>И за сие ли я ввергаюся в мученье?</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Что ею ты любим, свидетель я тому.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Любим ?! Возможно ли спокоитъся уму,</l>
             <l>Когда мой ныне взор иное мне являет?!</l>
             <l>Я вижу, что меня Семира оставляет.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Узря своих граждан, смущается она.</l>
             <l>Представился сей день, когда сия страна</l>
@@ -530,7 +531,7 @@
             <l>В тот день, как ты погиб, был город сей в надежде,</l>
             <l>Паденья нашего не видно было прежде.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Конечно, горестны вам были те часы,</l>
             <l>Но рок того хотел!.. Теперь твои красы</l>
@@ -539,22 +540,22 @@
             <l>Не я владею здесь, а если б я владел,</l>
             <l>Оскольд бы в этот час на трон отцов восшел.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Когда герои власть оружием теряют,</l>
             <l>Оружием себе ту власть и возвращают.</l>
             <l>Покорством получить я скиптра не хощу</l>
             <l>И милости себе в себе одном ищу.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>В сумнение меня слова твои приводят.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>От горести они из уст моих исходят.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Пустым сумнением не раздражайся ты,</l>
             <l>Оно прошло, как все проходят суеты.</l>
@@ -562,12 +563,12 @@
             <l>Рассудка слабого есть действо — упованье,</l>
             <l part="I">Твой разум не таков.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="F">В чем способов не знать</l>
             <l>И в чем надежды нет, то тщетно предприять.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Ах, тщетно, может быть, и я в любви сгораю,</l>
             <l>И на сестру твою без пользы я взираю!</l>
@@ -576,11 +577,11 @@
             <l>Как стражду я теперь, Семира не страдала</l>
             <l>И в те дни, в кои смерть народы поядала.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Не сетуй, будучи любим, как прежде был.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Прошли минуты те, я больше ей не мил.</l>
             <l>Потщися мне помочь, колико может братство,</l>
@@ -593,7 +594,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Олег и Семира.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Усугубляющи девичью красоту,</l>
             <l>Я все достоинства твои, Семира, чту.</l>
@@ -604,17 +605,17 @@
             <l>Предстаньте пред богов и брачными цепями</l>
             <l>Свяжите жизнь свою навек пред олтарями.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Предстану, ежели угодно то судьбе.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Но что веселости не вижу я в тебе?</l>
             <l>Премену чудную я ныне обретаю:</l>
             <l part="I">Вздыхаешь, слышачи слова сии?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Вздыхаю.</l>
             <l>Я к сыну твоему любовию горю,</l>
@@ -622,22 +623,22 @@
             <l>Моя неволя сим супружеством минется,</l>
             <l>А брат мой навсегда в неволе остается.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>В неволе, какову имеет ныне он,</l>
             <l>Недостает ему единый только трон.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Для гордыя души, коль скипетра лишиться,</l>
             <l>Уж не останется, чем больше веселиться.</l>
             <l>Он чаял по отцу корону получить.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Ея уже ему ничем не возвратить.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>А мне, о нем крушась в вздыханиях бессметных,</l>
             <l>Удобно ли предстать пред олтари бессмертных</l>
@@ -650,14 +651,14 @@
             <l>И, утоляя гнев творцов судеб несчастным,</l>
             <l>Просить конца бедам со стоном повсечасным?</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Тому, кто чтит тебя и держит так, как дщерь,</l>
             <l>Ты тако, дерзкая, ответствуешь теперь?</l>
             <l>Обманут ты, мой сын, к Семире жар имея!</l>
             <l>Я вижу твоего перед собой злодея!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ах, если б я ему злодейкой быть могла,</l>
             <l>Колико бы, Олег, я счастлива была!</l>
@@ -671,7 +672,7 @@
           <stage>Олег, Семира и Ростислав</stage>
           <stage>Ростислав всходит на театр, когда Семира последние полтора стиха говорити
             стала.</stage>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">Забыв мою любовь,</l>
             <l>Воспоминай вражду и лей противну кровь,</l>
@@ -694,18 +695,18 @@
             <l>К сражению их войск я был подвигнут честью,</l>
             <l>А от нея сражен презрительной я лестью.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Не таково ко мне почтение имей</l>
             <l>И добродетели не трогай ты моей!</l>
             <l>Не тщетно зрение твое тебя прельщало:</l>
             <l>Вещал язык мой то, что сердце ощущало.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="I">Где ж делась та любовь?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Поднесь во мне она,</l>
             <l>Да ты не льстись, чтоб я была твоя жена,</l>
@@ -732,15 +733,15 @@
             <l>К великодушию я только прибегаю</l>
             <l>И гордостью души то всё превозмогаю.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Нет мер, княжна, нет мер мученья моего.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Мое мучение жесточе твоего.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Когда ты истину о страсти объявляешь,</l>
             <l>Произволением ты собственным страдаешь.</l>
@@ -748,14 +749,14 @@
             <l>Скончай сугубое страдание сие.</l>
             <l>Восприими, княжна, ты мой совет полезный.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Коль хочешь, чтоб к твоим ногам пал твой любезный</l>
             <l>И для забвенья дел, чем он тебя смущал,</l>
             <l>Твои, дражайшая, он ноги целовал,</l>
             <l>Я пасти пред тобой в сию готов минуту...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ничем не умягчишь свою злодейку люту.</l>
             <l>Достойна ли я, князь, покорства такова?</l>
@@ -767,12 +768,12 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Олег и Ростислав</stage>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>В несчастный день я стал тобою вспламенен,</l>
             <l>От красоты твоей весь разум мой смятен!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Мой сын, ты сей красой поранен необычно,</l>
             <l>Но малодушным быть герою неприлично.</l>
@@ -782,7 +783,7 @@
             <l>Когда с твоим мечем здесь грозна смерть летала.</l>
             <l>Не для любви рожден, рожден ты для побед.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Не для, не для любви, для нестерпимых бед!</l>
             <l>Что подражаю я тебе, зрел свет недавно,</l>
@@ -810,16 +811,16 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Олег, Ростислав и Витозар.</stage>
-          <sp who="#Vitozar">
+          <sp who="#vitozar">
             <speaker>Витозар</speaker>
             <stage type="delivery">(Олегу)</stage>
             <l>Перед глаза твои Возвед предстать желает.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="I">Представь его!</l>
           </sp>
-          <sp who="#Vitozar">
+          <sp who="#vitozar">
             <speaker>Витозар</speaker>
             <stage type="delivery">(немного отошед)</stage>
             <l part="F">Войди! Олег повелевает.</l>
@@ -828,12 +829,12 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Олег, Ростислав, Витозар и Возвед.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <stage type="delivery">(Возведу)</stage>
             <l part="I">Что хочешь мне сказать?</l>
           </sp>
-          <sp who="#Vozved">
+          <sp who="#vozved">
             <speaker>Возвед</speaker>
             <l part="F">Народ на тя встает</l>
             <l>И на тебя в сей день с оружием пойдет,</l>
@@ -845,16 +846,16 @@
             <l>Но после — твоего я гнева убоялся</l>
             <l>И предприял тебе усердие явить.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <stage type="delivery">(Витозару, указывая на Возведа)</stage>
             <l>В сей час вели сего злодея ты казнить!</l>
           </sp>
-          <sp who="#Vozved">
+          <sp who="#vozved">
             <speaker>Возвед</speaker>
             <l>За так великую мою к тебе услугу?</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Не будешь верен мне, коль ты неверен другу.</l>
             <l>Когда б ты был мой раб, тогда б сию ты весть</l>
@@ -862,19 +863,19 @@
             <l>Но князю сродник ты и жил при нем в свободе,</l>
             <l>Не ставил я тебя невольником в народе.</l>
           </sp>
-          <sp who="#Vozved">
+          <sp who="#vozved">
             <speaker>Возвед</speaker>
             <l>Став винен, государь, раскаянье творю</l>
             <l>И заблуждение свое я ясно зрю.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Не заблуждение, свое бездельство видишь.</l>
             <l>Ты гнусен предо мной, коль чести ненавидишь.</l>
             <stage>Витозару</stage>
             <l part="I">Отдай его на смерть.</l>
           </sp>
-          <sp who="#Vozved">
+          <sp who="#vozved">
             <speaker>Возвед</speaker>
             <l part="F">О прегорчайший час!</l>
           </sp>
@@ -882,12 +883,12 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Олег и Ростислав.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>А ты введи сюда восставшего на нас</l>
             <l part="I">И пленником представь!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">Твоей противясь власти,</l>
             <l>В неисходимые низвергся он напасти.</l>
@@ -895,7 +896,7 @@
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <stage type="delivery">(один)</stage>
             <l>Вот воздаяние за милости к нему!</l>
@@ -915,7 +916,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Олег, Ростислав, Оскольд и воины.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Ты тщетно предприял быть князем сей стране,</l>
             <l>Лишь другом быв моим, стал ты злодеем мне.</l>
@@ -924,33 +925,33 @@
             <l>Все милости забыв, которы ты имел,</l>
             <l part="I">Ты встать против меня хотел, Оскольд?..</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="F">Хотел.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Проси прощения, пади передо мною!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Коль меч мне в грудь вонзишь, паду перед тобою,</l>
             <l part="I">Но прежде никогда!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="F">Днесь смерть тебе грозит.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Величества души она не поразит.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Ты тако, дерзостный, Олегу отвечаешь!</l>
             <l>Или мучения при смерти ты не чаешь?</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Простри к мучительству немилосердо власть,</l>
             <l>Всё легче, нежели перед тобой мне пасть.</l>
@@ -959,7 +960,7 @@
             <l>С мечем пред войсками я б дал тебе ответ,</l>
             <l>И раздался бы он во весь пространный свет.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Ты в мысли, гордый враг, свирепство мне вселяешь</l>
             <l>И щедролюбие мне в сердце утоляешь.</l>
@@ -976,7 +977,7 @@
             <l>И милость или суд Оскольду покажу.</l>
             <l>Потом пойдем с тобой за град отселе прямо.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>О том лишь я стеню, что я теперь не тамо!</l>
           </sp>
@@ -984,19 +985,19 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 9</head>
           <stage>Оскольд, Ростислав и воины.</stage>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Всей силой тщишься ты Олега раздражить</l>
             <l>И тщетно ты, мой друг, не хочешь больше жить.</l>
             <l>Отъяты способы тебе сопротивляться,</l>
             <l>И должен части ты своей повиноваться.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Я жизни своея уж больше не брегу,</l>
             <l>А пасть ни перед кем из смертных не могу.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Суровости такой не требует геройство,</l>
             <l>Не мужества она — отчаяния свойство.</l>
@@ -1005,18 +1006,18 @@
             <l>Олегу, знаешь ты, свирепство необычно, —</l>
             <l>Ответствуй своему ты счастию прилично.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Не робость днесь меня в отчаянье ввела,</l>
             <l>Но предприятые похвальные дела,</l>
             <l>Которы мерзкою изменою открылись.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Когда ж намеренья твои не совершились,</l>
             <l>Так больше для чего в упрямстве пребывать?</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Покорствуй, кто рожден рабеть и унывать.</l>
             <l>Не поколеблется ничем мой дух вовеки,</l>
@@ -1038,12 +1039,12 @@
             <l>От нападения судьбы ожесточенной</l>
             <l>Убежище лишь ты души моей стесненной!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Живи хотя уже ты для своих друзей,</l>
             <l>Для просьбы моея и для сестры своей!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Коль дружбы пленника ты, князь, не презираешь,</l>
             <l>Когда честных людей я в узах почитаешь,</l>
@@ -1064,7 +1065,7 @@
             <l>Несноснее еще отечество зреть в стоне</l>
             <l>И видеть своего врага в своей короне!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Что буду делать я?! Не внемлет ничего.</l>
             <l>Не презирай, о князь, прошенья моего!</l>
@@ -1075,32 +1076,32 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 10</head>
           <stage>Олег, имея в руках бумагу, Оскольд и Ростислав.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Ужели ты свое упрямство преломил?</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>И ныне я таков, каков доныне был.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Погибель я твою еще остановляю</l>
             <l>И щедролюбие еще тебе являю:</l>
             <l>Иль милость, или смерть не медля избери!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="I">Смерть!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="F">В лютости своей умри, злодей, умри!</l>
             <stage>Воинам </stage>
             <l>В темницу, воины, отсель его помчите</l>
             <l>И тамо в крепкие оковы заключите.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Когда я пленник твой, когда мой рок таков,</l>
             <l>Всё сносно мне уже, на всё идти готов.</l>
@@ -1111,11 +1112,11 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 11</head>
           <stage>Олег и Ростислав.</stage>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Хоть для меня спаси несчастного сего...</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>И милости к нему не внемлю ничего.</l>
             <l>Иное думай ты, не в просьбах упражняйся</l>
@@ -1129,11 +1130,11 @@
             <l>Всем ясно объявит о мне бумага эта,</l>
             <l>Что я за смерть его не дам богам ответа.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Склонися, государь, к прошенью моему!..</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Не раздражай меня, или предай ему!</l>
             <l>Ты смел передо мной, моей противясь воле.</l>
@@ -1142,7 +1143,7 @@
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 12</head>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <stage type="delivery">(один)</stage>
             <l>Престанешь приводить Олега ты на гнев.</l>
@@ -1183,7 +1184,7 @@
         <head>ДЕЙСТВИЕ III</head>
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <stage type="delivery">(в цепях)</stage>
             <l>Вот для ради чего я мужеством кипел!</l>
@@ -1215,11 +1216,11 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Оскольд и Избрана.</stage>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Куда несчастная пошла сестра моя?</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Ждала, чтоб ты предстал перед глаза ея:</l>
             <l>У Ростислава то Семира испросила</l>
@@ -1232,17 +1233,17 @@
         <div type="scene">
           <head>Явление 3</head>
           <stage>Оскольд, Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">На тя ль в сем виде я взираю,</l>
             <l part="I">Возлюбленный мой брат!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="F">В оковах умираю.</l>
             <l>Ты слышала, что мой конец уже приспел?..</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>А ты на мя, Перун, еще не мещешь стрел?!</l>
             <l>Земля мне пропастей еще не разверзает,</l>
@@ -1251,33 +1252,33 @@
             <l>Всего, о рок, всего лишаюсь я тобой!</l>
             <l part="I">Возлюбленный Оскольд!..</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="F">Уж нет того нимало,</l>
             <l>Что б нас хоть искрами надежды освещало.</l>
             <l>Без избавления наш город побежден,</l>
             <l>Ты — вечно пленница, я — к смерти осужден.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ты к смерти осужден?! Мой брат умрет поносно?!</l>
             <l>Я много бед несла, еще то было сносно.</l>
             <l>Не ложная о том прошла по граду весть —</l>
             <l>Ты к смерти осужден! Возможно ли то снесть?!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Как счастие против меня стремится злобно,</l>
             <l>Сказал ли Ростислав о том тебе подробно?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Через Избрану он со мною говорил</l>
             <l>И бедство мне твое смешение объявил.</l>
             <l>От плачущих сих глаз он образ свой скрывает</l>
             <l>И больше пред меня предстати не дерзает.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Известна ль ты, когда быть подлым захочу,</l>
             <l>Что смерти косу я взнесенну отврачу?</l>
@@ -1286,25 +1287,25 @@
             <l>Желает, чтобы я прощения просил</l>
             <l part="I">И пал к ногам его.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Чтоб брат мой приключил</l>
             <l part="I">Себе и мне сей стыд?!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="F">Что ж ты повелеваешь?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Умри, коль только в том спасенье обретаешь!</l>
             <l>Кончай, любезный брат, несчастну жизнь свою!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Достойну зрю себя — тебя, сестру мою.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>И в злополучии тебе лишь только равну.</l>
             <l>Имела низость я сама, но не бесславну:</l>
@@ -1331,7 +1332,7 @@
             <l>Навеки от твоих отъемлется он глаз</l>
             <l>И видишь ты его уже в последний раз!»</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Пускай свирепствует, как хочет, доля злобна,</l>
             <l>В великодушии Оскольду будь подобна!</l>
@@ -1340,38 +1341,38 @@
             <l>Терпяще сердце мне и в крайности послушно.</l>
             <l>Терпи и подражай ты мне великодушно!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>А больше мне тебя не зреть уже вовек!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Не вечно в свете жить родится человек,</l>
             <l>Но вечно будет тот иль очень долго славен,</l>
             <l>Кто в злополучии и в счастии был равен.</l>
             <l>В сем случае яви, что ты сестра моя!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Довольно днесь еще великодушна я.</l>
             <l>Судьба свирепство всё из ада испустила,</l>
             <l>А я всей памяти еще не погубила.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Гони свою тоску! Уныния беги</l>
             <l>И ради ты меня печаль превозмоги!</l>
             <l>Сей жертвы от тебя одной Оскольд желает,</l>
             <l>В надежде сей он казнь и смерть уничтожает,</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Когда я сим тебя удобна облегчить,</l>
             <l>Потщуся скорбь свою я в сердце заключить.</l>
             <l>И если слабости безвинной ненавидишь,</l>
             <l>Так мужество еще в сестре своей увидишь.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Определению покорствуя небес,</l>
             <l>Смотри на смерть мою без стона и без слез,</l>
@@ -1380,13 +1381,13 @@
             <l>Коль жалость от меня ты тщишься отвести,</l>
             <l>Спокоен от тебя иду на смерть... Прости!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Теперь мне, ах, теперь потребно укрепляться!</l>
             <l>Но льзя ли в бодрости навек с тобой расстаться?!</l>
             <stage>Падает в руки к Избране.</stage>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Сего к несчастию недоставало мне,</l>
             <l>Чтоб слабость при конце явил я сей стране.</l>
@@ -1398,20 +1399,20 @@
             <l>Скрепись хотя на час!.. Ты слов моих не внемлешь!</l>
             <l>Воспомни ты теперь, воспомни, чья ты дочь!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Закрой мои глаза скорей, о вечна ночь!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Так нас прощание лишь больше огорчает,</l>
             <l>Прервем его! Твой брат богам! тебя вручает.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Постой! Не стану я, не стану я стонать.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>В сем слова своего не можешь ты сдержать.</l>
           </sp>
@@ -1419,7 +1420,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Что можно вобразить поносной смерти зляе?!</l>
             <l>По Ростислава ты беги, беги скоряе,</l>
@@ -1428,7 +1429,7 @@
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <stage type="delivery">(одна)</stage>
             <l>Еще ли ты, мой дух, не много претерпел?!</l>
@@ -1451,13 +1452,13 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Семира и Ростислав.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Где жар твоей любви? Где к другу днесь приязнь?</l>
             <l>Оскольд выводится прияти смертну казнь,</l>
             <l>А ты к мучительству Олега допускаешь!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Или ты гордости Оскольдовой не знаешь?</l>
             <l>Олега силою ко гневу он влечет,</l>
@@ -1468,17 +1469,17 @@
             <l>И способа уж нет его избавить нам.</l>
             <l>Умрет Оскольд, умрет, коль он не покорится.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>В кровь подлу кровь его ничем не претворится,</l>
             <l>А ты не приводи чрез просьбу в гнев себя:</l>
             <l>Не сей я помощи желаю от тебя.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Я способа спасти его не обретаю.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>В сей крайности к твоей любови прибегаю.</l>
             <l>Хотя препятствуют случаи ныне нам,</l>
@@ -1494,7 +1495,7 @@
             <l>Где он хотя и жил в пленении, в неволе,</l>
             <l>Но где его отец на славном был престоле.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Благодарю богов, мне жалость не чужа.</l>
             <l>Но что мы сделаем, с тобой о нем тужа?</l>
@@ -1507,23 +1508,23 @@
             <l>Когда ж совокупить ничто не может нас,</l>
             <l>Любовь, настала ты в презлополучный час!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Когда исполнишь ты Семирино прошенье,</l>
             <l>Так, может быть, найдешь ты сердцу облегченье.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Чего желаешь ты, драгая, от меня?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Смутив мой весь покой и сердце полоня,</l>
             <l>Коль подлинно о мне подобно воздыхаешь,</l>
             <l>Яви мне ту любовь, котору ощущаешь</l>
             <l>И выпусти отсель Оскольда ты за град.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Ты хочешь в сердце мне сей смертный влити яд?!</l>
             <l>Чем винен я тебе? Что сыщешь в оправданье,</l>
@@ -1533,7 +1534,7 @@
             <l>Отечеству мной ввек не будет озлобленья, —</l>
             <l>Никак нельзя сего исполнить повеленья.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Так вся моя теперь надежда отошла!</l>
             <l>И в Ростиславе я врага себе нашла!</l>
@@ -1568,7 +1569,7 @@
             <l>Почувствуй своея возлюбленной мученье!</l>
             <l>В тебе осталося одном мое спасенье.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Ты рвешься, а меня еще жесточе рвешь.</l>
             <l>Не льстися, и во мне спасенья не найдешь.</l>
@@ -1578,7 +1579,7 @@
             <l>И если ты умрешь, умру с тобою сам.</l>
             <l>Лишенну мне тебя, противно всё на свете.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Предвозвестил ты смерть, жестокий, в сем ответе.</l>
             <l>Отец твой — мой тиран. Подобен будь ему!</l>
@@ -1592,7 +1593,7 @@
             <l>Заплачешь, может быть, над телом восстеня,</l>
             <l>Но плачем ты уже не возвратишь меня.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>За невозможное я стражду исполненье!</l>
             <l>Велишь тягчайшее творити преступленье,</l>
@@ -1609,13 +1610,13 @@
             <l>Не лестью получил и сердце я желанно, —</l>
             <l>За искренность мою оно тобой мне данно.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Коль сердца моего достоин хочешь быть,</l>
             <l>Так узы должен ты Оскольду разрешить.</l>
             <l>Не верю без того, что я тебе угодна.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Я вижу, что любовь моя с твоей несходна.</l>
             <l>Я всякий час готов за честь твою умреть,</l>
@@ -1623,7 +1624,7 @@
             <l>Не будет от меня отечеству измены,</l>
             <l>Я буду защищать до гроба здешни стены.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Коль, варвар, я тебя бессильна умягчить,</l>
             <l>Коль хочешь живота любовницу лишить,</l>
@@ -1636,16 +1637,16 @@
             <l>Насыться, насладись моею днесь тоской!</l>
             <l part="I">Вынь меч: пронзи!..</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="M">Княжна!..</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <stage type="delivery">(выхватив меч из ножен его)</stage>
             <l part="F">Зри мертву пред собой...</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <stage type="delivery">(бросясь к ней и став на колени)</stage>
             <l>В меня сей меч вонзи, конец соделай страсти!</l>
@@ -1653,29 +1654,29 @@
             <l>Он кровью обагрен народа твоего,</l>
             <l>И он вина тебе несчастия всего...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>И он соделает всему конец несчастью.</l>
             <stage>Возносит руку, чтоб заколоться.</stage>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <stage type="delivery">(в самой скорости восстав с коленей и удержав руку ея)</stage>
             <l>Не спорю больше я с своею лютой частью:</l>
             <l part="I">Твой брат освобожден.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <stage type="delivery">(отдав ему меч)</stage>
             <l part="F">Мой князь, отныне я,</l>
             <l>Как брань ни кончится, по самый гроб твоя.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Коль буду побежден, пойду в мрак вечной ночи,</l>
             <l>И уж меня твои не будут видеть очи.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Спокойства моего не разрушай ты вновь!</l>
             <l>Иль мыслишь ты, снесет моя к тебе любовь</l>
@@ -1691,7 +1692,7 @@
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <stage type="delivery">(один)</stage>
             <l>Что сделать, Ростислав, ты ныне предприемлешь?</l>
@@ -1728,7 +1729,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ I</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Уведомись, уже ль мой брат освобожден</l>
             <l>И во врата за град уже ли провожден?</l>
@@ -1739,7 +1740,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Оскольд, Семира и Избрана.</stage>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Я вольность получил. Благодарю богов.</l>
             <l>В сей час, Семира, я иду против врагов,</l>
@@ -1751,11 +1752,11 @@
             <l>Есть тайный путь отсель, пойду дорогой тою,</l>
             <l>Сберу свои полки и приступлю к стенам.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Восставьте, небеса, вы падшу славу нам!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Для горьких слез твоих имею я свободу,</l>
             <l>Ты мне спасение и целому народу.</l>
@@ -1768,7 +1769,7 @@
             <l>Которое могу я сделать Ростиславу,</l>
             <l>Последуй своея ты склонности уставу!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Падением своим меня не возмущай</l>
             <l>И не такое мне спокойство предвещай!</l>
@@ -1779,16 +1780,16 @@
             <l>Не омрачай моих довольствий ныне боле.</l>
             <l>О небо, дай его мне видеть на престоле!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Зачем сюда я шел, я то тебе сказал.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Коль жар моей любви тебе свободу дал,</l>
             <l>Ступай отечества к преславной обороне!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Ты будешь зреть меня иль мертва, иль в короне.</l>
           </sp>
@@ -1796,11 +1797,11 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Еще печали знак я зрю в твоем лице.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Я брата своего не зрю еще в венце.</l>
             <l>Кто знает, как сей день судьбина окончает?</l>
@@ -1815,13 +1816,13 @@
             <l>Хотя они друзья, геройство в брани злобно,</l>
             <l>И могут ли спасти от всех друг друга стрел?!</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Им будет памятно и средь воинских дел,</l>
             <l>Что ты тому сестра, любовница другому;</l>
             <l>Приложат силы все к спасенью таковому.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Когда в ужасный час кровава брань горит,</l>
             <l>О страсти, о родстве она не говорит,</l>
@@ -1836,7 +1837,7 @@
             <l>Там только честь одна предписывает правы.</l>
             <l>Не вспомнят обо мне среди гремящей славы!</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Отбей печальные ты мысли от себя</l>
             <l>И жди веселия, смущенье истреби.</l>
@@ -1844,7 +1845,7 @@
             <l>Всё в свете, что ни есть, подвержено пременам.</l>
             <l>Уже ты много дней несчастлива была.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>На то меня и в свет судьба произвела,</l>
             <l>Живот мой так, как цепь, из многих бед составлен</l>
@@ -1858,7 +1859,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Олег, Семира и Избрана.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Твой брат и с стражею из града убежал,</l>
             <l>Он войско на меня не тщетно воружал,</l>
@@ -1872,21 +1873,21 @@
             <l>Лишь только знать хочу, кто выпустил его.</l>
             <l>Кого дарами ты, Семира, ослепила?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Свое богатство я тобою погубила</l>
             <l>И не могу дарить. Что ж ты вещаешь мне</l>
             <l>О брате, я того не зрела и во сне.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Скажи мне истину и не ответствуй ложно.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>О чем не ведаю, того сказать не можно.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Упрямствуя, меня в жар гнева не введи</l>
             <l>И строгости мои, княжна, предупреди!</l>
@@ -1897,7 +1898,7 @@
             <l>Что честно или нет, я это разумею,</l>
             <l>А научить тебя я способы имею.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ты начал мне грозить! Или забыл ты то,</l>
             <l>Кто я и что меня не устрашит ничто?</l>
@@ -1914,7 +1915,7 @@
             <l>Что устремляешься мя к трепету привлечь?</l>
             <l>Нет робости во мне, твоя бессильна речь.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Ты нудишь на себя Олега озлобляться.</l>
             <l>Льзя ль, боги, больше мне от гнева утоляться?!</l>
@@ -1929,23 +1930,23 @@
             <l>Не родом ты своим почтенна здесь, но мной.</l>
             <l>Лишь руку снять с тебя, ты будешь прах земной.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Хотя мне счастием судьбина тщетно льстила,</l>
             <l>Не прахом мя земным природа в свет пустила.</l>
             <l>Я — княжеская дочь, то ведает весь свет.</l>
             <l>Мне в милостях твоих нимало чести нет,</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>И милости мои уже позабываешь?</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Коль ими ты меня почтенну быти чаешь,</l>
             <l part="I">Не помню больше их.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="F">Не помню их и я,</l>
             <l>Но помню то, что ты — невольница моя.</l>
@@ -1956,7 +1957,7 @@
             <l>Ты праведен во мне! А ты уже здесь будешь</l>
             <l>В ином почтеньи жить и гордость позабудешь.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Пошли мне, небо, смерть, лишь брат бы победил</l>
             <l>И град отеческий от ига свободил.</l>
@@ -1965,14 +1966,14 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Олег, Ростислав и Семира.</stage>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Теперь рассмотришь ты, теперь рассмотришь ясно,</l>
             <l>Что ты о ней вздыхал и мучился напрасно.</l>
             <l>Как ты ее мнил быть, она не такова,</l>
             <l>Открыта злоба в ней чрез дерзкие слова,</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Я вижу то, что мне твой гнев приготовляет:</l>
             <l>Немилосерду казнь мне образ твой являет,</l>
@@ -1985,25 +1986,25 @@
             <l>Хоть сердце извлечи из тела можно злобно,</l>
             <l>Но вырвать тайны сей из сердца не удобно.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Коль ты отважилась свою вину сказать,</l>
             <l>На что уже тебе злодея укрывать?</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="I">Не скроешь. Воины!</l>
             <stage>Воины входят.</stage>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">Что делать начинаешь?</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Сию противницу ты тщетно защищаешь!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Под образом ея свою я душу зрю,</l>
             <l>В несносном пламени Семирой я горю:</l>
@@ -2018,29 +2019,29 @@
             <l>Быть счастливы хотя надежды мы лишенны,</l>
             <l>Но наши с ней сердца навек соединенны.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Я всё прощаю ей и ярость укрочу,</l>
             <l>Когда то сведаю, что ведать я хочу.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Не льстися тем, а я прощенья не желаю.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="I">Под стражу!..</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">Я сыскать злодея обещаю,</l>
             <l>Лишь только укроти намеренье свое!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="I">Опомнись, Ростислав!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="F">Прощение твое,</l>
             <l>Хотя Семирино лице ему любезно,</l>
@@ -2048,32 +2049,32 @@
             <l>На что, любезный сын, мы тщимся побеждать,</l>
             <l>Когда предателям мы станем угождать.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Кого ты ищешь, сей предатель пред тобою.</l>
             <stage>Становяся на колени.</stage>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="I">О гневные судьбы!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Что сделал ты с собою!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="I">Чего достоин ты?</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">С мученьем умереть.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Восстани! То, что рек, ты должен претерпеть.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Он — твой любезный сын, не будь свиреп ты сыну,</l>
             <l>Всему причина я, меня казни едину!</l>
@@ -2083,7 +2084,7 @@
             <l>Мою возьми ты жизнь, коль отнял ты свободу!</l>
             <l>Будь милостив и мне, и сыну, и себе!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <stage type="delivery">(Семире)</stage>
             <l>Коль честию своей я жертвовал тебе,</l>
@@ -2101,11 +2102,11 @@
             <stage>(Семире)</stage>
             <l>Почто твоею стал красою я прельщен?!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Почто и мой дух стал тобою возмущен?!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Единым, боги, мя вы сыном утешали,</l>
             <l>Различными его дарами украшали,</l>
@@ -2116,7 +2117,7 @@
             <l>Но, — о плачевный день! — то всё перемени,</l>
             <l>Героя, сына, всё ты отнял у меня!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Без обличения я стражду нестерпимо,</l>
             <l>И имя днесь твое уже во мне не зримо.</l>
@@ -2127,21 +2128,21 @@
             <l>Я — прежний Ростислав, низвергшийся в беду,</l>
             <l>Лишь тем, что к смерти я без робости иду.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Отдай свой меч. Поди отсель во мглу темницы!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <stage type="delivery">(отдавая меч Олегу, который меч его отдает потом воинам)</stage>
             <l>Се меч, расширивший отечества границы,</l>
             <l>Поящий кровию стран Киевых пески.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Сей лютой и тогда не знала я тоски!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Поди! Сейчас тебе последний час на свете,</l>
             <l>И смелость при конце яви еще ты в цвете!</l>
@@ -2149,17 +2150,17 @@
             <l>Неукротима смерть, отверста гроба дверь.</l>
             <l>Умри и заплати преступок тяжкий кровью!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="I">Увы!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="F">Но сниду ль в гроб с родительской любовью?</l>
             <l>Не вображаючи моих жестоких вин,</l>
             <l>Скажи, родитель мой, что я еще твой сын!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Как сердце днесь мое тобой ни раздраженно,</l>
             <l>То к вечной горести не будет мной забвенно,</l>
@@ -2167,7 +2168,7 @@
             <l>Хотя тебя люблю, как прежде я любил.</l>
             <l>Поди!.. Впоследние теперь тебя объемлю. </l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Сокрой с родительской любовью прах мой в землю!</l>
             <stage>Семире </stage>
@@ -2180,7 +2181,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Олег, Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <stage type="delivery">(в самое то время, в которое Ростислав отходит, пред Олегом
               становяся на колени)</stage>
@@ -2205,7 +2206,7 @@
             <l>От них отъемли свет! Прости любезна сына!</l>
             <l>Прости, о государь! Вины сей я причина.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <stage type="delivery">(ее подымая)</stage>
             <l>Мое несчастие причиною тому.</l>
@@ -2215,7 +2216,7 @@
             <l>Коль мужественна ты, сноси и ты, как я.</l>
             <l>Я жалость чувствую не меньше твоея.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Коль сердце на суде от жалости не тает,</l>
             <l>Так суетно она и в сердце обитает.</l>
@@ -2227,7 +2228,7 @@
             <l>Тоской, стенанием и тьмой мучений сих,</l>
             <l>Которых груда мной, несчастной, обладает.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Зрит небо, что Олег равно тебе страдает;</l>
             <l>Но если не хочу пристрастия носить,</l>
@@ -2235,11 +2236,11 @@
             <l>Нам всем троим сей день стенания причина.</l>
             <stage>Хочет идти.</stage>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="I">Смягчися, государь!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l part="F">Пришла его кончина.</l>
           </sp>
@@ -2247,7 +2248,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>О преужасный день! Ко смерти ль прибегу?!</l>
             <l>Отрады в животе сыскати не могу!</l>
@@ -2262,12 +2263,12 @@
             <l>Кого я, бедная, свирепствуя, терзаю!</l>
             <l>Кому?.. Любовнику дверь гроба отверзаю!</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Нет помощи ему, хоть страждешь ты, любя.</l>
             <l>Не вображай себе, как он любил тебя.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ты мнишь, что может быть, чтоб я когда забыла,</l>
             <l>Как он меня любил, как я его любила,</l>
@@ -2283,29 +2284,29 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Олеговы полки пошли из градских врат,</l>
             <l>И браг твой из лесов идет под самый град.</l>
             <l>Глас громких труб, шумя, повсюду раздается:</l>
             <l>В сей час меж войсками сражение начнется.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Еще ли князь мой жив? Увижу ль я его?</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>О Ростиславе я не знаю ничего.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Стесненная душа, покинь ты томно тело!</l>
             <l>Последнее мое днесь счастье улетело,</l>
             <l>И жизни моея одна осталась тень.</l>
             <l>Немилосердый рок! Презлополучный день!</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l part="I">Твой князь к тебе идет.</l>
           </sp>
@@ -2313,11 +2314,11 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Семира, Ростислав и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Ты жив! Тебя ль я вижу?!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Но, ах, уже минут оставших ненавижу</l>
             <l>И только для того могу на свет глядеть,</l>
@@ -2329,17 +2330,17 @@
             <l>Прославь Олегову еще победой старость,</l>
             <l>На мне сверши ты казнь и праведную ярость!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ты смерть поносную предпочитаешь мне?</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>В жестокой не хочу остаться я вине.</l>
             <l>Тот, в ком нет совести, в злодействии спокоен,</l>
             <l>А я на смерть готов, коль жизни недостоин.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Дух братним мужеством я льщуся утешать,</l>
             <l>А ты стараешься надежду разрушать,</l>
@@ -2350,7 +2351,7 @@
             <l>И если славою Оскольд войну скончает,</l>
             <l>Пускай и наше он веселье увенчает.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Прошли драгие дни веселья моего,</l>
             <l>Я радостей лишен до гроба своего.</l>
@@ -2367,21 +2368,21 @@
             <l>И, честь мою совсем в бесчестье пременя,</l>
             <l>Взяла свирепо жизнь два раза у меня.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>На что мне в свете жить, коль в нем тебя не будет?</l>
             <l>Иль мыслишь ты, тебя Семира позабудет?</l>
             <l>Коль намеряешься ты сам себя убить,</l>
             <l>Жестокий, для чего ты стал меня любить?</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Чтоб раздражить отца и преступить уставы,</l>
             <l>Предать отечество, лишиться вечной славы</l>
             <l>И, оставляючи себе в потомство срам,</l>
             <l>В презрении умреть к твоим одним слезам.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Любовь ко мне тебя преступком отягчила.</l>
             <l>Не спорю, я тебе все бедства приключила.</l>
@@ -2390,7 +2391,7 @@
             <l>Ты славу возвратишь, ты только расцветаешь.</l>
             <l>Воспомни, Ростислав, что ты Семирой таешь!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Кто добродетелен и стал преступник прав,</l>
             <l>Во беззаконьи тот не чувствует забав,</l>
@@ -2405,7 +2406,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же и воин с Ростиславовым мечем.</stage>
-          <sp who="#Voin">
+          <sp who="#voin">
             <speaker>Воин</speaker>
             <l>Народ, о государь, твой меч тебе дает,</l>
             <l>И войско к своему тебя спасенью ждет.</l>
@@ -2413,12 +2414,12 @@
             <l>Мы гибнем все теперь, родитель твой в осаде.</l>
             <l part="I">Спаси его и нас!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <stage type="delivery">(отходя)</stage>
             <l part="F">Или погибну сам.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Когда придет конец толь горестным часам?!</l>
           </sp>
@@ -2426,7 +2427,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Пойдем, пойдем отсель мы в вышние чертоги</l>
             <l>И будем зрети то, чем мя накажут боги...</l>
@@ -2438,7 +2439,7 @@
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <stage type="delivery">(одна)</stage>
             <l>Нежалостливый рок с обеих стран шумит,</l>
@@ -2482,22 +2483,22 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Семира и Избрана.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Скажи, что сделалось?! Еще ли брат мой здрав,</l>
             <l>Восходит ли на трон? И жив ли Ростислав?</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>О жизни их сказать нимало я не знаю,</l>
             <l>Вторичный только плен войск наших вспоминаю.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Когда не вижу я конца народных бед.</l>
             <l>Так брата моего, конечно, больше нет?</l>
           </sp>
-          <sp who="#Izbrana">
+          <sp who="#izbrana">
             <speaker>Избрана</speaker>
             <l>Во многолюдстве я его не узнавала</l>
             <l>И только видела, что наша сила пала.</l>
@@ -2506,41 +2507,41 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Семира, Избрана и Витозар.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Оскольд опять пленен? Но, ах, уж нет его!</l>
             <l>Не буду больше зреть я брата своего!</l>
           </sp>
-          <sp who="#Vitozar">
+          <sp who="#vitozar">
             <speaker>Витозар</speaker>
             <l part="I">Он жив еще...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Он жив? И хочет жить в неволе?</l>
           </sp>
-          <sp who="#Vitozar">
+          <sp who="#vitozar">
             <speaker>Витозар</speaker>
             <l>Недолго будет он то чувствовати боле,</l>
             <l part="I">Уже мечем пронзен...</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Жестокий Ростислав,</l>
             <l>Возможешь ли ты быть передо мною прав?!</l>
           </sp>
-          <sp who="#Vitozar">
+          <sp who="#vitozar">
             <speaker>Витозар</speaker>
             <l>Не обвиняй его, не мни о нем ты злобно</l>
             <l>И выслушай, княжна, печальну весть подробно.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>О пагубная весть! О мой смущенный дух!</l>
             <stage>Витозару</stage>
             <l>Пронзай сей вестию, пронзай Семирин слух!</l>
           </sp>
-          <sp who="#Vitozar">
+          <sp who="#vitozar">
             <speaker>Витозар</speaker>
             <l>Твой князь сии слова в мои уста влагает,</l>
             <l>Он сам тебе открыть сие изнемогает.</l>
@@ -2555,7 +2556,7 @@
             <l>Умрет, но столько он еще имеет сил,</l>
             <l part="I">Что мог прийти к тебе.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Рок тако брань свершил!</l>
             <l>Се час желанного веселья и покою?!</l>
@@ -2565,12 +2566,12 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Те ж и Ростислав.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Ты славен стал опять, прошла твоя напасть.</l>
             <l>Не пременяется моя едина часть.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Когда страдаешь ты, и я тогда страдаю</l>
             <l>И скорбию своей тогда не обладаю.</l>
@@ -2578,13 +2579,13 @@
             <l>Твоя, княжна, меня пленивша красота</l>
             <l>Твоими горестьми мя равно огорчает.</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Какие мне беды судьбина приключает!</l>
             <l>Мой князь, дражайший князь, престань о мне жалеть!</l>
             <l>Дай праху моему без слез твоих истлеть!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Какие то слова?! Что слышу я, драгая?!</l>
             <l>Ты грудь мою теснишь, весь ум рассеевая.</l>
@@ -2598,23 +2599,23 @@
           <head>ЯВЛЕНИЕ ПОСЛЕДНЕЕ</head>
           <stage>Олег, Ростислав, Семира, Оскольд, которого ведут два из его воинов, Витозар,
             Избрана и Олеговы воины.</stage>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l>Прежалостнейший вид! Смертельный сердцу яд!</l>
             <l>Несчастная сестра! Возлюбленный мой брат!</l>
             <stage>Бросается к Оскольду.</stage>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Не возвратишь меня ни плачем, ни тоскою.</l>
             <l>Спокойся ты, а мне отверста дверь к покою.</l>
             <l part="I">Не плачь и ободрись!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Могу ль не плакать я?!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <stage type="delivery">(Олегу)</stage>
             <l>Тебе дала, Олег, победу часть твоя,</l>
@@ -2634,7 +2635,7 @@
             <l>Я сей поставлю час часом благословенным.</l>
             <l>Исполни, победив, прошение мое!</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <l>Исполнится, Оскольд, желание твое.</l>
             <l>Когда б и в животе твоем Олег был волен,</l>
@@ -2645,7 +2646,7 @@
             <l>А днесь достоин ты всея моей приязни.</l>
             <l>Но поздно в жалости гоненья преложить.</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l>Я больше не могу и не желаю жить,</l>
             <l>Доволен, что народ не в узах оставляю,</l>
@@ -2660,14 +2661,14 @@
             <l>Стенаньем радости своей не разрушайте</l>
             <l>И только иногда меня воспоминайте.</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Когда ты смертию отъемлешься у нас,</l>
             <l>Я радости своей не чувствую в сей час.</l>
             <l>Коликим горестям подвластны человеки?!</l>
             <l>Прости, любезный друг, прости, мой друг, навеки!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <stage type="delivery">(Семире)</stage>
             <l>А ты, сестра моя, не плачь, не плачь о мне,</l>
@@ -2678,16 +2679,16 @@
             <l>И тьмит в очах моих луч солнца вечна ночь.</l>
             <l part="I">Прости!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="M">О боги!</l>
           </sp>
-          <sp who="#Oskold">
+          <sp who="#oskold">
             <speaker>Оскольд</speaker>
             <l part="M">Ах!.. не рвись!..</l>
             <stage>Оскольд умирает и сносится.</stage>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Увы, лишилась,</l>
             <l>Лишилась брата я, и часть его свершилась!</l>
@@ -2699,20 +2700,20 @@
             <l>Прерви, плачевный день, и мой несчастный век!</l>
             <stage>Падает в руки к Избране.</stage>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l part="I">Дражайшая княжна!</l>
           </sp>
-          <sp who="#Semira">
+          <sp who="#semira">
             <speaker>Семира</speaker>
             <l part="F">Вся кровь во мне хладеет.</l>
           </sp>
-          <sp who="#Oleg">
+          <sp who="#oleg">
             <speaker>Олег</speaker>
             <stage type="delivery">(Семире)</stage>
             <l>Великодушие тобой да овладеет!</l>
           </sp>
-          <sp who="#Rostislav">
+          <sp who="#rostislav">
             <speaker>Ростислав</speaker>
             <l>Сим жалким зрелищем смущен смертельно я:</l>
             <l>О небо, утоли тоску и скорбь ея,</l>
