@@ -46,259 +46,363 @@
         <listPerson>
           <person xml:id="saltykov">
             <persName>Салтыков</persName>
+            <persName xml:lang="de">Saltykov</persName>
           </person>
           <person xml:id="voejkov">
             <persName>Воейков</persName>
+            <persName xml:lang="de">Voejkov</persName>
           </person>
           <person xml:id="boris_godunov">
             <persName>Царь Борис Федорович Годунов</persName>
+            <persName xml:lang="de">Boris Godunov</persName>
           </person>
           <person xml:id="richard_li">
             <persName>Ричард Ли</persName>
+            <persName xml:lang="de">Ričard Li</persName>
           </person>
           <person xml:id="miranda">
             <persName>Миранда</persName>
+            <persName xml:lang="de">Miranda</persName>
           </person>
           <person xml:id="logau">
             <persName>Барон Логау</persName>
+            <persName xml:lang="de">Baron Logau</persName>
           </person>
           <person xml:id="sapega">
             <persName>Лев Сапега</persName>
+            <persName xml:lang="de">Lev Sapega</persName>
           </person>
           <person xml:id="gendrihson">
             <persName>Эрик Гендрихсон</persName>
+            <persName xml:lang="de">Èrik Gendrihson</persName>
           </person>
           <person xml:id="ljus">
             <persName>Авраамий Люс</persName>
+            <persName xml:lang="de">Avraamij Lûs</persName>
           </person>
           <person xml:id="germers">
             <persName>Гермерс</persName>
+            <persName xml:lang="de">Germers</persName>
           </person>
-          <person xml:id="germers_i_prochie">
-            <persName>Гермерс и прочие</persName>
+          <person xml:id="prochie">
+            <persName>Прочие</persName>
+            <persName xml:lang="de">Gefolge</persName>
           </person>
           <person xml:id="semen_godunov">
             <persName>Семен Годунов</persName>
+            <persName xml:lang="de">Semen Godunov</persName>
           </person>
           <person xml:id="lachin-bek">
             <persName>Лачин-Бек</persName>
+            <persName xml:lang="de">Lačin-Bek</persName>
           </person>
           <person xml:id="chelibej">
             <persName>Челибей</persName>
+            <persName xml:lang="de">Čelibej</persName>
           </person>
           <person xml:id="arhimandrit_kirill">
             <persName>Архимандрит Кирилл</persName>
+            <persName xml:lang="de">Archimandrit Kirill</persName>
           </person>
           <person xml:id="bojare">
             <persName>Бояре</persName>
+            <persName xml:lang="de">Bojaren</persName>
           </person>
           <person xml:id="tsaritsa_marija">
             <persName>Царица Мария Григорьевна</persName>
+            <persName xml:lang="de">Zariza Mariâ</persName>
           </person>
           <person xml:id="ksenija">
             <persName>Царевна Ксения</persName>
+            <persName xml:lang="de">Zarewna Kseniâ</persName>
           </person>
-          <person xml:id="golosa">
+          <person xml:id="golosa_1-1">
             <persName>Голоса</persName>
+            <persName xml:lang="de">Stimmen (I/1)</persName>
           </person>
           <person xml:id="streletskij_golova">
             <persName>Стрелецкий голова</persName>
+            <persName xml:lang="de">Schützenhauptmann</persName>
           </person>
-          <person xml:id="narod">
-            <persName>Народ</persName>
+          <person xml:id="narod_1-1">
+            <persName>Народ (I/1)</persName>
+            <persName xml:lang="de">Volk (I/1)</persName>
           </person>
           <person xml:id="nischie">
             <persName>Нищие</persName>
+            <persName xml:lang="de">Bettler</persName>
           </person>
           <person xml:id="kriloshanka">
             <persName>Крилошанка</persName>
+            <persName xml:lang="de">Klosterfrau</persName>
           </person>
           <person xml:id="vasilij_shujskij">
             <persName>Князь Василий Иванович Шуйский</persName>
+            <persName xml:lang="de">Vasilij Šujskij</persName>
           </person>
           <person xml:id="irina">
             <persName>Царица Ирина Федоровна</persName>
+            <persName xml:lang="de">Zariza Irina</persName>
           </person>
           <person xml:id="fedor">
             <persName>Царевич Федор</persName>
+            <persName xml:lang="de">Zarewitsch Fedor</persName>
           </person>
           <person xml:id="hristian">
             <persName>Христиан</persName>
+            <persName xml:lang="de">Hristian</persName>
           </person>
-          <person xml:id="stolnik">
-            <persName>Стольник</persName>
+          <person xml:id="stolnik_2-1">
+            <persName>Стольник (II/1)</persName>
+            <persName xml:lang="de">Kammerdiener (II/1)</persName>
           </person>
           <person xml:id="vlasev">
             <persName>Афанасий Власьев</persName>
+            <persName xml:lang="de">Afanasij Vlasʹev</persName>
           </person>
           <person xml:id="dementevna">
             <persName>Дементьевна</persName>
+            <persName xml:lang="de">Dementʹevna</persName>
           </person>
-          <person xml:id="Vasilisa_Volohova">
+          <person xml:id="volohova">
             <persName>Василиса Волохова</persName>
             <persName xml:lang="de">Vasilisa Volohova</persName>
           </person>
           <person xml:id="hlopko">
             <persName>Хлопко-Косолап</persName>
+            <persName xml:lang="de">Hlopko-Kosolap</persName>
           </person>
           <person xml:id="resheto">
             <persName>Решето</persName>
+            <persName xml:lang="de">Rešeto</persName>
           </person>
           <person xml:id="nakovalnja">
             <persName>Наковальня</persName>
+            <persName xml:lang="de">Nakovalʹnâ</persName>
+          </person>
+          <person xml:id="golosa_2-3">
+            <persName>Голоса</persName>
+            <persName xml:lang="de">Stimmen (II/3)</persName>
           </person>
           <person xml:id="krestjane">
             <persName>Крестьяне</persName>
+            <persName xml:lang="de">Bauern</persName>
           </person>
           <person xml:id="odin_krestjanin">
             <persName>Один крестьянин</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="drugoj_krestjanin">
             <persName>Другой крестьянин</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="posadskij">
             <persName>Посадский</persName>
+            <persName xml:lang="de">Ein Fremder</persName>
           </person>
           <person xml:id="razbojniki">
             <persName>Разбойники</persName>
+            <persName xml:lang="de">Die Räuber</persName>
           </person>
           <person xml:id="odin_razbojnik_2-3a">
             <persName>Один разбойник</persName>
-          </person>
-          <person xml:id="govor">
-            <persName>Говор</persName>
+            <persName xml:lang="de">Ein Räuber</persName>
           </person>
           <person xml:id="mitka">
             <persName>Митька</persName>
+            <persName xml:lang="de">Mitʹka</persName>
           </person>
           <person xml:id="misail">
             <persName>Мисаил Повадин</persName>
+            <persName xml:lang="de">Misail Povadin</persName>
           </person>
           <person xml:id="grigorij">
             <persName>Григорий Отрепьев</persName>
+            <persName xml:lang="de">Grigorij Otrepʹev</persName>
           </person>
           <person xml:id="kriki">
             <persName>Крики</persName>
+            <persName xml:lang="de">Rufe</persName>
           </person>
           <person xml:id="odin_razbojnik_2-3b">
             <persName>Один разбойник</persName>
+            <persName xml:lang="de">Ein Räuber</persName>
+          </person>
+          <person xml:id="stolnik_3-1">
+            <persName>Стольник (III/1)</persName>
+            <persName xml:lang="de">Kammerdiener (III/1)</persName>
           </person>
           <person xml:id="fedor_nikitich">
             <persName>Федор Никитич Романов</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="cherkasskij">
             <persName>Князь Черкасский</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="sitskij">
             <persName>Князь Сицкий</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="aleksandr_nikitich">
             <persName>Александр Никитич Романов</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="repnin">
             <persName>Князь Репнин</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="golk">
             <persName>Гольк</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="brage">
             <persName>Браге</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="glavnyj_syschik">
             <persName>Главный сыщик</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="vtoroj_syschik">
             <persName>Второй сыщик</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="odin_posadskij">
             <persName>Один посадский</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="drugoj_posadskij">
             <persName>Другой посадский</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="tretij_posadskij">
             <persName>Третий посадский</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="syschik">
             <persName>Сыщик</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="odin">
             <persName>Один</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="drugoj">
             <persName>Другой</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="tretij">
             <persName>Третий</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="chetvertyj">
             <persName>Четвертый</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="pjatyj">
             <persName>Пятый</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="odna_baba">
             <persName>Одна баба</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="vtoraja_baba">
             <persName>Вторая баба</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="tretja_baba">
             <persName>Третья баба</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="chetvertaja_baba">
             <persName>Четвертая баба</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="pervyj">
             <persName>Первый</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="vtoroj">
             <persName>Второй</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="kupets">
             <persName>Купец</persName>
+            <persName xml:lang="de"/>
           </person>
-          <person xml:id="posadskie_i_narod">
-            <persName>Посадские и народ</persName>
+          <person xml:id="posadskie">
+            <persName>Посадские</persName>
+            <persName xml:lang="de"/>
+          </person>
+          <person xml:id="narod_4-1">
+            <persName>Народ (IV/1)</persName>
+            <persName xml:lang="de">Volk (IV/1)</persName>
           </person>
           <person xml:id="pristav">
             <persName>Пристав</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="odin_iz_naroda">
             <persName>Один из народа</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="marfa">
             <persName>Царица Мария Федоровна Нагая</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="vrach">
             <persName>Врач</persName>
+            <persName xml:lang="de"/>
+          </person>
+          <person xml:id="stolnik_4-3">
+            <persName>Стольник (IV/3)</persName>
+            <persName xml:lang="de">Kammerdiener (IV/3)</persName>
           </person>
           <person xml:id="pervyj_chasovoj">
             <persName>Первый часовой</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="vtoroj_chasovoj">
             <persName>Второй часовой</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="kleshnin">
             <persName>Андрей Петрович Луп-Клешнин</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="spalnik">
             <persName>Спальник</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="golitsyn">
             <persName>Князь Голицын</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="basmanov">
             <persName>Петр Федорович Басманов</persName>
+            <persName xml:lang="de"/>
+          </person>
+          <person xml:id="vse_5-3">
+            <persName>Все (V/3)</persName>
+            <persName xml:lang="de">Alle (V/3)</persName>
           </person>
           <person xml:id="odin_bojarin_5-3a">
             <persName>Один боярин</persName>
+            <persName xml:lang="de"/>
+          </person>
+          <person xml:id="golosa_5-3">
+            <persName>Голоса</persName>
+            <persName xml:lang="de">Stimmen (V/3)</persName>
           </person>
           <person xml:id="odin_bojarin_5-3b">
             <persName>Один боярин</persName>
+            <persName xml:lang="de"/>
           </person>
           <person xml:id="neskolko_golosov">
             <persName>Несколько голосов</persName>
+            <persName xml:lang="de"/>
           </person>
         </listPerson>
       </particDesc>
@@ -311,7 +415,7 @@
     <revisionDesc>
       <listChange>
         <change who="#MatveyKolbasov" when="2017-11-27">convert from source</change>
-        <change who="#ff" when="2017-01-27">work on IDs; formalities</change>
+        <change who="#ff" when="2018-01-27">work on IDs; formalities</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -562,10 +666,10 @@
             <l>Останусь я; молиться с ней хочу я</l>
             <l>И здесь умру!»</l>
           </sp>
-          <stage type="delivery">Звон во все кремлевские колокола.</stage>
+          <stage>Звон во все кремлевские колокола.</stage>
           <sp who="#voejkov">
             <speaker>Воейков</speaker>
-            <stage type="delivery">подходя к окну</stage>
+            <stage>подходя к окну</stage>
             <l>Идут, идут! Народ</l>
             <l>Волнуется! Вот уж несут хоругви!</l>
             <l>А вот попы с иконами, с крестами!</l>
@@ -577,20 +681,20 @@
             <l>Между рядов безмолвных он проходит</l>
             <l>Ко Красному крыльцу — остановился —</l>
             <l>Столпились все — он говорит к народу…</l>
-            <stage type="delivery">Молчание; потом взрыв радостных криков.</stage>
+            <stage>Молчание; потом взрыв радостных криков.</stage>
             <l>Целует крест — вот на крыльцо вступает —</l>
             <l>Как светел он! Сияние какое</l>
             <l>В его очах! Нет, сам Иван Васильич</l>
             <l>В величии подобном не являлся —</l>
             <l>Воистину, то царь всея Руси!</l>
           </sp>
-          <stage type="delivery">Трубы и дворцовые колокола. Рынды входят и становятся у престола;
-            потом бояре; потом стряпчие с царской стряпней; потом ближние бояре; потом сам царь
-            Борис, в полном облачении, с державой и скипетром. За ним царевич Федор. Борис всходит
-            на подножие престола.</stage>
+          <stage>Трубы и дворцовые колокола. Рынды входят и становятся у престола; потом бояре;
+            потом стряпчие с царской стряпней; потом ближние бояре; потом сам царь Борис, в полном
+            облачении, с державой и скипетром. За ним царевич Федор. Борис всходит на подножие
+            престола.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">стоя на подножье</stage>
+            <stage>стоя на подножье</stage>
             <l>Соизволеньем Божиим и волей</l>
             <l>Соборной Думы — не моим хотеньем —</l>
             <l>Я на престол царей и самодержцев</l>
@@ -603,11 +707,11 @@
             <l>На тишину Руси, как царь Феодор,</l>
             <l>На страх врагам, как грозный Иоанн!</l>
           </sp>
-          <stage type="delivery">Садится на престол.</stage>
-          <stage type="delivery">Царевич Федор садится по его правую руку.</stage>
+          <stage>Садится на престол.</stage>
+          <stage>Царевич Федор садится по его правую руку.</stage>
           <sp who="#voejkov">
             <speaker>Воейков</speaker>
-            <stage type="delivery">опускаясь на колени</stage>
+            <stage>опускаясь на колени</stage>
             <l>Великий царь! Господь тебя услышал:</l>
             <l>Твои враги разбиты в пух и прах!</l>
             <l>Воейков я, твой Тарский воевода,</l>
@@ -626,7 +730,7 @@
             <l>Благая весть! Встань, воевода Тарский,</l>
             <l>И цепь сию, в знак милости великой,</l>
             <l>От нас прими!</l>
-            <stage type="delivery">Снимает с себя цепь и надевает на Воейкова.</stage>
+            <stage>Снимает с себя цепь и надевает на Воейкова.</stage>
 
             <l>Мой сын, царевич Федор,</l>
             <l>Вам здравствует со мной, бояре! Он</l>
@@ -636,7 +740,7 @@
             <l>Преемника. Любить его, бояре,</l>
             <l>Я вас прошу!</l>
           </sp>
-          <stage type="delivery">Федор кланяется.</stage>
+          <stage>Федор кланяется.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Да здравствует царевич!</l>
@@ -652,10 +756,10 @@
             <speaker>Борис</speaker>
             <l>Пусть войдут!</l>
           </sp>
-          <stage type="delivery">Трубный туш и литавры. Входит посол английский, предшествуемый
-            двумя стольниками; за ним идет его свита и останавливается, не доходя престола. Посол
-            подходит к престолу; стольники раздаются направо и налево. При входе следующих послов
-            соблюдаются те же обряды.</stage>
+          <stage>Трубный туш и литавры. Входит посол английский, предшествуемый двумя стольниками;
+            за ним идет его свита и останавливается, не доходя престола. Посол подходит к престолу;
+            стольники раздаются направо и налево. При входе следующих послов соблюдаются те же
+            обряды.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Посол Елисаветы, Ричард Ли!</l>
@@ -689,8 +793,8 @@
             <l>Феодор млад еще о браке думать —</l>
             <l>Мы подождем.</l>
           </sp>
-          <stage type="delivery">Ричард Ли отходит, предшествуемый стольниками.</stage>
-          <stage type="delivery">Трубы и литавры. Входит папский нунций.</stage>
+          <stage>Ричард Ли отходит, предшествуемый стольниками.</stage>
+          <stage>Трубы и литавры. Входит папский нунций.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Миранда, нунций папы!</l>
@@ -733,7 +837,7 @@
             <l>Родных церквей мы молимся все дни,</l>
             <l>Когда святую слышим литургию.</l>
           </sp>
-          <stage type="delivery">Миранда отходит. Трубы и литавры. Входит посол австрийский.</stage>
+          <stage>Миранда отходит. Трубы и литавры. Входит посол австрийский.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Барон Логау, цесарьский посол!</l>
@@ -800,7 +904,7 @@
             <l>Мы учиним вам снова вспоможенье,</l>
             <l>Войска ж свои пока побережем.</l>
           </sp>
-          <stage type="delivery">Логау отходит. Трубы и литавры. Входит посол литовский.</stage>
+          <stage>Логау отходит. Трубы и литавры. Входит посол литовский.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Посол литовский, канцлер Лев Сапега!</l>
@@ -872,7 +976,7 @@
             <l>Я вам продлю. В моей Боярской думе</l>
             <l>Ты можешь мой услышать уговор.</l>
           </sp>
-          <stage type="delivery">Сапега отходит. Трубы и литавры. Входит посол шведский.</stage>
+          <stage>Сапега отходит. Трубы и литавры. Входит посол шведский.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Посол от Свей, Эрик Гендрихсон!</l>
@@ -927,8 +1031,7 @@
             <l>Землею русской. Мы ему на том</l>
             <l>Наш вечный мир и дружбу обещаем!</l>
           </sp>
-          <stage type="delivery">Гендрихсон отходит. Трубы и литавры. Входит посол
-            флорентийский.</stage>
+          <stage>Гендрихсон отходит. Трубы и литавры. Входит посол флорентийский.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Аврамий Люс, Флоренции посол!</l>
@@ -984,8 +1087,8 @@
             <l>Что б ни было пригодное ему —</l>
             <l>Оно его!</l>
           </sp>
-          <stage type="delivery">Люс отходит. Трубы и литавры. Входят ганзейские купцы: Гермерс и
-            два ратсгерра, и подходят вместе к престолу. За ними идут слуги с дарами.</stage>
+          <stage>Люс отходит. Трубы и литавры. Входят ганзейские купцы: Гермерс и два ратсгерра, и
+            подходят вместе к престолу. За ними идут слуги с дарами.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
             <l>Любчанский бургомистер,</l>
@@ -1033,14 +1136,14 @@
             <l>С тем чтоб они, по совести, их сами</l>
             <l>Нам объявляли.</l>
           </sp>
-          <sp who="#germers_i_prochie">
+          <sp who="#prochie">
             <speaker>Гермерс и прочие</speaker>
-            <stage type="delivery">махая шапками</stage>
+            <stage>махая шапками</stage>
             <l>Виват царь Борис!</l>
           </sp>
-          <stage type="delivery">Купцы уходят. Трубы играют туш другого характера. Из других дверей
-            входит посол персидский; перед ним идет Семен Годунов, которому Салтыков уступает место.
-            За послом слуги его несут драгоценный престол.</stage>
+          <stage>Купцы уходят. Трубы играют туш другого характера. Из других дверей входит посол
+            персидский; перед ним идет Семен Годунов, которому Салтыков уступает место. За послом
+            слуги его несут драгоценный престол.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
             <l>Великий государь! От шах-Аббаса</l>
@@ -1082,8 +1185,8 @@
             <speaker>Борис</speaker>
             <l>Впустить сюда султанского посла!</l>
           </sp>
-          <stage type="delivery">Трубы и литавры. Входит посол турецкий и становится рядом с
-            персидским. Слуги его несут за ним дары.</stage>
+          <stage>Трубы и литавры. Входит посол турецкий и становится рядом с персидским. Слуги его
+            несут за ним дары.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
             <l>К царю посол султанский, Челибей!</l>
@@ -1107,7 +1210,7 @@
             <l>Пусть войдет</l>
             <l>От Александра присланный посол!</l>
           </sp>
-          <stage type="delivery">Входит архимандрит Кирилл и падает на колени перед Борисом.</stage>
+          <stage>Входит архимандрит Кирилл и падает на колени перед Борисом.</stage>
           <sp who="#arhimandrit_kirill">
             <speaker>Арх. Кирилл</speaker>
             <l>Великий, благоверный государь!</l>
@@ -1146,7 +1249,7 @@
           </sp>
           <sp who="#chelibej">
             <speaker>Челибей</speaker>
-            <stage type="delivery">к Лачин-Беку</stage>
+            <stage>к Лачин-Беку</stage>
             <l>Шеит неверный!</l>
             <l>Султан тебе покажет в Испагане,</l>
             <l>Как гоните вы нас!</l>
@@ -1190,9 +1293,9 @@
             <l>Она стоит, спокойна и сильна,</l>
             <l>Законному внутри послушна строю,</l>
             <l>Друзьям щитом, а недругам грозою!</l>
-            <stage type="delivery">Челибей уходит. Звон дворцовых колоколов. Входят боярыни, в
-              большом наряде, по две в ряд. За ними царица Марья Григорьевна и царевна Ксения. Все
-              кланяются им в пояс. Они садятся по обе стороны престола.</stage>
+            <stage>Челибей уходит. Звон дворцовых колоколов. Входят боярыни, в большом наряде, по
+              две в ряд. За ними царица Марья Григорьевна и царевна Ксения. Все кланяются им в пояс.
+              Они садятся по обе стороны престола.</stage>
             <l>Наш царский долг окончен. Вот царица</l>
             <l>С царевною пришли принять, бояре,</l>
             <l>Здорование ваше!</l>
@@ -1206,7 +1309,7 @@
           </sp>
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
-            <stage type="delivery">с поклоном</stage>
+            <stage>с поклоном</stage>
             <l>Государи,</l>
             <l>Благодарим за ваше пожеланье!</l>
             <l>Прошу любить и жаловать меня</l>
@@ -1220,13 +1323,13 @@
           </sp>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
-            <stage type="delivery">с поклоном</stage>
+            <stage>с поклоном</stage>
             <l>Не заслужила</l>
             <l>Великой вашей ласки я, бояре,</l>
             <l>И не себе любовь примаю вашу,</l>
             <l>Но батюшке-царю!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-1">
             <speaker>Голоса</speaker>
             <l>Касатка наша!</l>
             <l>Кто за царя не рад бы умереть?</l>
@@ -1235,7 +1338,7 @@
             <l>За тишину! За ангельские очи!</l>
             <l>Господь с тобой!</l>
           </sp>
-          <stage type="delivery">Шум за дверьми. Входит стрелецкий голова.</stage>
+          <stage>Шум за дверьми. Входит стрелецкий голова.</stage>
           <sp who="#streletskij_golova">
             <speaker>Стрелецкий голова</speaker>
             <l>Великий государь!</l>
@@ -1250,8 +1353,8 @@
             <l>Между народом русским и царем</l>
             <l>Преграды нет!</l>
           </sp>
-          <stage type="delivery">Толпа народа вваливается в палату.</stage>
-          <sp who="#narod">
+          <stage>Толпа народа вваливается в палату.</stage>
+          <sp who="#narod_1-1">
             <speaker>Народ</speaker>
             <l>Отец родной! Поволь</l>
             <l>Нам светлые твои повидеть очи!</l>
@@ -1264,11 +1367,11 @@
           </sp>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
-            <stage type="delivery">кланяясь</stage>
+            <stage>кланяясь</stage>
             <l>Пожалуйте, миряне! Просим всех</l>
             <l>К нам на хлеб, на соль!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_1-1">
             <speaker>Народ</speaker>
             <l>Матушка-царевна!</l>
             <l>Дай на тебя полюбоваться! Очи</l>
@@ -1276,7 +1379,7 @@
           </sp>
           <sp who="#streletskij_golova">
             <speaker>Стрелецкий голова</speaker>
-            <stage type="delivery">у дверей</stage>
+            <stage>у дверей</stage>
             <l>Назад! Не будет места!</l>
             <l>И нищие полезли!</l>
           </sp>
@@ -1286,7 +1389,7 @@
             <l>Свободный вход! Кто нищим вступит в терем,</l>
             <l>Имущим тот воротится домой!</l>
           </sp>
-          <stage type="delivery">Входит новая толпа.</stage>
+          <stage>Входит новая толпа.</stage>
           <sp who="#nischie">
             <speaker>Нищие.</speaker>
             <l>Царь праведный! Царь милостивый! Воздай тебе Христос-Бог с Богородицей! Святая Троица
@@ -1296,15 +1399,14 @@
             <speaker>Борис</speaker>
             <l>>Входите, Божьи люди! Вы ж, бояре,</l>
             <l>Ведите всех к почестному столу!</l>
-            <stage type="delivery">Сходя с престола.</stage>
+            <stage>Сходя с престола.</stage>
             <l>Царица и царевна,— ты, Феодор,—</l>
             <l>Гостей моих идите угощать!</l>
             <l>Вино и мед чтобы лились реками!</l>
             <l>Идите все — я следую за вами!</l>
-            <stage type="delivery">Толпа народа, провожаемая боярами, идет во внутренние покои.
-              Царевич Федор, царица, Ксения и боярыни следуют за ними. Палата остается
-              пуста.</stage>
-            <stage type="delivery">Один.</stage>
+            <stage>Толпа народа, провожаемая боярами, идет во внутренние покои. Царевич Федор,
+              царица, Ксения и боярыни следуют за ними. Палата остается пуста.</stage>
+            <stage>Один.</stage>
             <l>Свершилося! В венце и в бармах я</l>
             <l>Держу бразды Русийския державы!</l>
             <l>Четырнадцать я спорил долгих лет</l>
@@ -1342,15 +1444,15 @@
           <stage>Крилошанка вводит Бориса. За ним входит Семен Годунов.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">к крилошанке</stage>
+            <stage>к крилошанке</stage>
             <l>Ты говоришь: царица на молитве?</l>
             <l>Не сметь ее тревожить. В этой келье</l>
             <l>Мы подождем.</l>
           </sp>
-          <stage type="delivery">Крилошанка уходит.</stage>
+          <stage>Крилошанка уходит.</stage>
           <l>Давно ли здесь, в печали,</l>
           <l>С сестрою я беседовал вдвоем!</l>
-          <stage type="delivery">Смотрит в окно.</stage>
+          <stage>Смотрит в окно.</stage>
           <l>Вот терем тот, где я хотел провесть</l>
           <l>Остаток дней! Судьба не так решила</l>
           <l>Заместо рясы плечи багряницей</l>
@@ -1499,14 +1601,14 @@
           </sp>
           <sp who="#kriloshanka">
             <speaker>Крилошанка</speaker>
-            <stage type="delivery">докладывает</stage>
+            <stage>докладывает</stage>
             <l>Боярин князь Василий</l>
             <l>Иваныч Шуйский!</l>
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Милости прошу.</l>
-            <stage type="delivery">Шуйский входит.</stage>
+            <stage>Шуйский входит.</stage>
             <l>С объезда ты заехал, князь Василий?</l>
             <l>Что нового?</l>
           </sp>
@@ -1597,9 +1699,8 @@
             <l>Передо мной — хотя б он умышлял</l>
             <l>На жизнь мою или мое здоровье!</l>
           </sp>
-          <stage type="delivery">Семен Годунов и Шуйский уходят. Дверь отворяется. Две инокини
-            становятся по обе ее стороны. За ними входит царица Ирина, во иночестве
-            Александра.</stage>
+          <stage>Семен Годунов и Шуйский уходят. Дверь отворяется. Две инокини становятся по обе ее
+            стороны. За ними входит царица Ирина, во иночестве Александра.</stage>
           <sp who="#irina">
             <speaker>Ирина</speaker>
             <l>Прости меня, великий государь,</l>
@@ -1607,7 +1708,7 @@
             <l>В день твоего венчанья за тебя</l>
             <l>Молилась я.</l>
           </sp>
-          <stage type="delivery">Инокини уходят.</stage>
+          <stage>Инокини уходят.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Царица и сестра!</l>
@@ -2130,7 +2231,7 @@
           </sp>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
-            <stage type="delivery">к Христиану</stage>
+            <stage>к Христиану</stage>
             <l>Но ведь нашу веру,</l>
             <l>Не правда ль, примешь ты?</l>
           </sp>
@@ -2198,14 +2299,14 @@
             <l>Господь</l>
             <l>Услышь тебя, Феодор!</l>
           </sp>
-          <sp who="#stolnik">
+          <sp who="#stolnik_2-1">
             <speaker>Стольник</speaker>
-            <stage type="delivery">отворяя дверь</stage>
+            <stage>отворяя дверь</stage>
             <l>Царь идет!</l>
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">входя</stage>
+            <stage>входя</stage>
             <l>Я перервал ваш, дети, разговор.</l>
             <l>Вы горячо о чем-то толковали.</l>
             <l>Что, Христиан? Успел ты на Руси</l>
@@ -2283,9 +2384,9 @@
             <l>И мирными придется вам делами</l>
             <l>Довольным быть.</l>
           </sp>
-          <sp who="#stolnik">
+          <sp who="#stolnik_2-1">
             <speaker>Стольник</speaker>
-            <stage type="delivery">входит</stage>
+            <stage>входит</stage>
             <l>Великий государь,—</l>
             <l>Боярин Годунов, Семен Никитич!</l>
           </sp>
@@ -2298,10 +2399,10 @@
             <l>Пойдем, брат Христиан,</l>
             <l>Пойдем, сестра. У батюшки дела!</l>
           </sp>
-          <stage type="delivery">Все трое уходят. Входит Семен Годунов.</stage>
+          <stage>Все трое уходят. Входит Семен Годунов.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">смотрит на него с удивлением</stage>
+            <stage>смотрит на него с удивлением</stage>
             <l>Что сталося с тобой? Чем так, Никитич,</l>
             <l>Встревожен ты?</l>
           </sp>
@@ -2383,7 +2484,7 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">вставая</stage>
+            <stage>вставая</stage>
             <l>Кто смеет это говорить? Его</l>
             <l>Весь Углич мертвым видел! Ошибиться</l>
             <l>Не мог никто! Клешнин и Шуйский, оба</l>
@@ -2423,14 +2524,14 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">про себя</stage>
+            <stage>про себя</stage>
             <l>Преступником в глазах народа царь</l>
             <l>Не может быть. Чист и безгрешен должен</l>
             <l>Являться он, чтобы не только воля</l>
             <l>Вершилася его без препинанья,</l>
             <l>Но чтоб в сердцах послушных как святыня</l>
             <l>Она жила!</l>
-            <stage type="delivery">К Семену Годунову.</stage>
+            <stage>К Семену Годунову.</stage>
             <l>С Романовыми я</l>
             <l>Повременю. Но если кто в народе</l>
             <l>Дерзнет о слухе том лишь заикнуться —</l>
@@ -2438,8 +2539,8 @@
             <l>И кем тот слух посеян на Москве?</l>
             <l>До корня докопайся — и о всем</l>
             <l>Мне донеси!</l>
-            <stage type="delivery">Семен Годунов уходит.</stage>
-            <stage type="delivery">Один.</stage>
+            <stage>Семен Годунов уходит.</stage>
+            <stage>Один.</stage>
             <l>Нет, этого нельзя,</l>
             <l>Нельзя терпеть! Хоть я не царь Иван,</l>
             <l>Но и не Федор также. Против воли</l>
@@ -2570,13 +2671,13 @@
             <speaker>Царица</speaker>
             <l>Ну, ну, добро! Мы знаем то, что знаем;</l>
             <l>Ступай, дружок, не бойся ничего!</l>
-            <stage type="delivery">Власьев уходит.</stage>
-            <stage type="delivery">Обращаясь к двери.</stage>
+            <stage>Власьев уходит.</stage>
+            <stage>Обращаясь к двери.</stage>
             <l>Дементьевна!</l>
           </sp>
           <sp who="#dementevna">
             <speaker>Дементьевна</speaker>
-            <stage type="delivery">входя</stage>
+            <stage>входя</stage>
             <l>Здесь, матушка-царица!</l>
           </sp>
           <sp who="#tsaritsa_marija">
@@ -2637,7 +2738,7 @@
             <speaker>Царица</speaker>
             <l>Милости прошу.</l>
             <l>Пускай войдет.</l>
-            <stage type="delivery">Дементьевна уходит. Входит Волохова и кланяется в землю.</stage>
+            <stage>Дементьевна уходит. Входит Волохова и кланяется в землю.</stage>
             <l>Здорово, Василиса!</l>
             <l>Вернулась с богомолья своего?</l>
             <l>Ну что, голубушка? Как можешь?</l>
@@ -2779,8 +2880,8 @@
             <speaker>Царица</speaker>
             <l>Спасибо, мать. Прости ж теперь. Об этом</l>
             <l>С тобою после потолкуем мы.</l>
-            <stage type="delivery">Волохова уходит.</stage>
-            <stage type="delivery">Одна.</stage>
+            <stage>Волохова уходит.</stage>
+            <stage>Одна.</stage>
             <l>Спесив уж больно стал со мной Борис</l>
             <l>Феодорыч. Дочь вздумал, не спросись</l>
             <l>У матери, за басурмана выдать!</l>
@@ -2815,7 +2916,7 @@
             <speaker>Решето.</speaker>
             <p>Кого ему еще? Он и один десятерых стоит!</p>
           </sp>
-          <stage type="delivery">Подходит есаул Наковальня.</stage>
+          <stage>Подходит есаул Наковальня.</stage>
           <sp who="#nakovalnja">
             <speaker>Наковальня.</speaker>
             <p>Атаман! Обходчики еще пять человек крестьян привели; к тебе просятся. Вот уж третья
@@ -2823,10 +2924,9 @@
           </sp>
           <sp who="#hlopko">
             <speaker>Хлопко.</speaker>
-            <p>Эк их подваливает! Кажинный день новые! Давай сюда. <stage type="delivery">Наковальня
-                уходит.</stage>
-              <stage type="delivery">К Решету.</stage> А повесили тех молодцов, что к нам воевода
-              вчера подослал?</p>
+            <p>Эк их подваливает! Кажинный день новые! Давай сюда. <stage>Наковальня уходит.</stage>
+              <stage>К Решету.</stage> А повесили тех молодцов, что к нам воевода вчера
+              подослал?</p>
           </sp>
           <sp who="#resheto">
             <speaker>Решето.</speaker>
@@ -2836,13 +2936,12 @@
             <speaker>Хлопко.</speaker>
             <p>Ладно.</p>
           </sp>
-          <stage type="delivery">Наковальня возвращается с пятью крестьянами. Они кланяются Хлопку в
-            пояс.</stage>
-          <sp who="#golosa">
+          <stage>Наковальня возвращается с пятью крестьянами. Они кланяются Хлопку в пояс.</stage>
+          <sp who="#golosa_2-3">
             <speaker>Голоса.</speaker>
             <p>В ноги! В ноги!</p>
           </sp>
-          <stage type="delivery">Крестьяне кланяются в ноги.</stage>
+          <stage>Крестьяне кланяются в ноги.</stage>
           <sp who="#hlopko">
             <speaker>Хлопко.</speaker>
             <p>Зачем пришли?</p>
@@ -2911,8 +3010,8 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский.</speaker>
-            <p>А вы, чай, с придурью? Да я и без вас найду его! <stage type="delivery">Осматривается
-                и идет прямо на атамана.</stage> Ты Хлопко-Косолап!</p>
+            <p>А вы, чай, с придурью? Да я и без вас найду его! <stage>Осматривается и идет прямо на
+                атамана.</stage> Ты Хлопко-Косолап!</p>
           </sp>
           <sp who="#hlopko">
             <speaker>Хлопко.</speaker>
@@ -2921,10 +3020,10 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский.</speaker>
-            <p>Хаживали на медведя, не в диковину нам. <stage type="delivery">Ропот.</stage> А коли
-              ты атаман, так чего смотришь? За полверсты отсель меня с двумя товарищи остановил
-              тюлень какой-то, здоровее тебя будет. Я ему толкую: мы к тебе; а он, увалень, не
-              говоря ни слова, сгреб их двух да и потащил.</p>
+            <p>Хаживали на медведя, не в диковину нам. <stage>Ропот.</stage> А коли ты атаман, так
+              чего смотришь? За полверсты отсель меня с двумя товарищи остановил тюлень какой-то,
+              здоровее тебя будет. Я ему толкую: мы к тебе; а он, увалень, не говоря ни слова, сгреб
+              их двух да и потащил.</p>
           </sp>
           <sp who="#razbojniki">
             <speaker>Разбойники.</speaker>
@@ -2956,10 +3055,9 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский.</speaker>
-            <p>Сперва пошли свободить товарищей, а пока дай горло промочить. <stage type="delivery"
-                >К разбойникам.</stage> Эй! Вина! <stage type="delivery">Садится рядом с
-                Хлопком.</stage> Я к тебе за делом, дядя; ты нужен мне. Как по-твоему, кто у нас
-              царь на Руси?</p>
+            <p>Сперва пошли свободить товарищей, а пока дай горло промочить. <stage>К
+                разбойникам.</stage> Эй! Вина! <stage>Садится рядом с Хлопком.</stage> Я к тебе за
+              делом, дядя; ты нужен мне. Как по-твоему, кто у нас царь на Руси?</p>
           </sp>
           <sp who="#hlopko">
             <speaker>Хлопко.</speaker>
@@ -2989,7 +3087,7 @@
               людьми, к литовскому рубежу!</p>
           </sp>
           <stage>Разбойники столпляются вокруг посадского.</stage>
-          <sp who="#govor">
+          <sp who="#razbojniki">
             <speaker>Говор.</speaker>
             <p>Слышь, слышь! Царевич зовет! Недаром шла молва, что жив царевич!</p>
           </sp>
@@ -3016,7 +3114,7 @@
           </sp>
           <sp who="#mitka">
             <speaker>Митька</speaker>
-            <stage type="delivery">подтащив обоих к Хлопку</stage>
+            <stage>подтащив обоих к Хлопку</stage>
             <p>Пущать, что ли?</p>
           </sp>
           <sp who="#hlopko">
@@ -3093,7 +3191,7 @@
               должен свою удаль показать. Выходите оба с Митькой на кулачки. Коли вдвоем побьете
               его, будет вам и пристанище.</p>
           </sp>
-          <stage type="delivery">Хохот между разбойниками.</stage>
+          <stage>Хохот между разбойниками.</stage>
           <sp who="#mitka">
             <speaker>Митька.</speaker>
             <p>Пущать, что ли?</p>
@@ -3124,7 +3222,7 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский</speaker>
-            <stage type="delivery">вставая</stage>
+            <stage>вставая</stage>
             <p>Оставь их, дядя Косолап! Где инокам смиренным кулачиться? Вот я, пожалуй, выйду
               заместо их!</p>
           </sp>
@@ -3183,8 +3281,7 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский.</speaker>
-            <p>Так тебе надо что сделать сперва? Изволь! <stage type="delivery">Сшибает с него
-                шапку.</stage></p>
+            <p>Так тебе надо что сделать сперва? Изволь! <stage>Сшибает с него шапку.</stage></p>
           </sp>
           <sp who="#mitka">
             <speaker>Митька.</speaker>
@@ -3192,7 +3289,7 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский.</speaker>
-            <p>Мало с тебя? <stage type="delivery">Толкает его в бок.</stage></p>
+            <p>Мало с тебя? <stage>Толкает его в бок.</stage></p>
           </sp>
           <sp who="#mitka">
             <speaker>Митька.</speaker>
@@ -3217,8 +3314,7 @@
             <speaker>Митька.</speaker>
             <p>А вот постой!</p>
           </sp>
-          <stage type="delivery">Хочет ударить Посадского; тот увертывается и бьет его в
-            плечо.</stage>
+          <stage>Хочет ударить Посадского; тот увертывается и бьет его в плечо.</stage>
           <sp who="#misail">
             <speaker>Мисаил.</speaker>
             <p>Эх!</p>
@@ -3227,7 +3323,7 @@
             <speaker>Григорий.</speaker>
             <p>Раз!</p>
           </sp>
-          <stage type="delivery">Разбойники хохочут.</stage>
+          <stage>Разбойники хохочут.</stage>
           <sp who="#mitka">
             <speaker>Митька.</speaker>
             <p>Ты чаво вертишься?</p>
@@ -3238,15 +3334,14 @@
           </sp>
           <sp who="#mitka">
             <speaker>Митька</speaker>
-            <stage type="delivery">размахнувшись</stage>
+            <stage>размахнувшись</stage>
             <p>Так на ж тебе!</p>
           </sp>
-          <stage type="delivery">Бьет сплеча, Посадский сторонится, Митька с размаху падает
-            оземь.</stage>
+          <stage>Бьет сплеча, Посадский сторонится, Митька с размаху падает оземь.</stage>
           <sp who="#posadskij">
             <speaker>Посадский</speaker>
             <p>
-              <stage type="delivery">притиснув его коленом</stage> Убить аль жива оставить?</p>
+              <stage>притиснув его коленом</stage> Убить аль жива оставить?</p>
           </sp>
           <sp who="#razbojniki">
             <speaker>Разбойники.</speaker>
@@ -3255,9 +3350,8 @@
           <sp who="#posadskij">
             <speaker>Посадский</speaker>
             <p>
-              <stage type="delivery">отпуская Митьку</stage> Кого люблю, того и бью. Вставай, тезка,
-              помиримся! Приходи в Северскую землю, под царский стяг! Царевич Дмитрий пожалует
-              тебя!</p>
+              <stage>отпуская Митьку</stage> Кого люблю, того и бью. Вставай, тезка, помиримся!
+              Приходи в Северскую землю, под царский стяг! Царевич Дмитрий пожалует тебя!</p>
           </sp>
           <sp who="#hlopko">
             <speaker>Хлопко.</speaker>
@@ -3274,7 +3368,7 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский</speaker>
-            <stage type="delivery">к толпе</stage>
+            <stage>к толпе</stage>
             <p>Православные! Когда сядет Дмитрий на свой отцовский стол, всем Юрьев день отдаст, все
               кабалы порешит, всем свобода постарому!</p>
           </sp>
@@ -3295,8 +3389,7 @@
             <p>А теперь, ребята, атаман велит про его царское здоровье допьяна напиться! Выставляйте
               чаны! Выкачивайте какие там у вас бочки! Дядя Косолап угощает!</p>
           </sp>
-          <stage type="delivery">Общее смятение, шум и крики. Посадский незаметно
-            скрывается.</stage>
+          <stage>Общее смятение, шум и крики. Посадский незаметно скрывается.</stage>
           <sp who="#hlopko">
             <speaker>Хлопко.</speaker>
             <p>Эй ты, пострел! Да где ж это он?</p>
@@ -3350,7 +3443,7 @@
             <speaker>Хлопко.</speaker>
             <p>Ну, добро, добро, дьяволы! Завтра тронемся!</p>
           </sp>
-          <stage type="delivery">Шум и смятение</stage>
+          <stage>Шум и смятение</stage>
         </div>
       </div>
       <div type="act">
@@ -3385,7 +3478,7 @@
             <l>Теперь нельзя. Чем это зло скорей</l>
             <l>Я пресеку, тем мне скорее можно</l>
             <l>Вернуться будет к милости.</l>
-            <stage type="delivery">Входит Семен Годунов.</stage>
+            <stage>Входит Семен Годунов.</stage>
             <l>Ну, что?</l>
             <l>Что ты узнал? Кто этот человек?</l>
           </sp>
@@ -3521,14 +3614,14 @@
             <l>Не слушали; чтобы ловили всех,</l>
             <l>Кто Дмитрия осмелится лишь имя</l>
             <l>Произнести!</l>
-            <stage type="delivery">Входит царевич Федор.</stage>
+            <stage>Входит царевич Федор.</stage>
             <l>Мстиславскому сказать,</l>
             <l>Чтоб воеводство над войсками принял.</l>
             <l>Украинским уж боле воеводам</l>
             <l>Не верю я. Ступай, исполни все,</l>
             <l>Как я велел.</l>
           </sp>
-          <stage type="delivery">Семен Годунов уходит.</stage>
+          <stage>Семен Годунов уходит.</stage>
           <sp who="#fedor">
             <speaker>Федор</speaker>
             <l>Отец, так это правда?</l>
@@ -3617,7 +3710,7 @@
             <l>Я к милости вернусь. Где Ксенья? Мы</l>
             <l>Не виделись сегодня. Пусть она</l>
             <l>Ко мне придет.</l>
-            <stage type="delivery">Федор уходит.</stage>
+            <stage>Федор уходит.</stage>
             <l>Мне кажется, когда</l>
             <l>Ее услышу голос, легче будет</l>
             <l>Мне на душе. Царенья моего</l>
@@ -3629,7 +3722,7 @@
             <l>Имеет прах? Земля меня венчала,</l>
             <l>А хочет тень войти в мои права!</l>
             <l>Я с именем, со звуком спорить должен!</l>
-            <stage type="delivery">Федор возвращается со Ксенией.</stage>
+            <stage>Федор возвращается со Ксенией.</stage>
             <l>Поди ко мне, дитя мое, садись —</l>
             <l>Но что с тобой? Ты плакала?</l>
           </sp>
@@ -3699,7 +3792,7 @@
           </sp>
           <sp who="#hristian">
             <speaker>Христиан</speaker>
-            <stage type="delivery">отворяя дверь</stage>
+            <stage>отворяя дверь</stage>
             <l>Государь,</l>
             <l>Могу ли я?..</l>
           </sp>
@@ -3794,9 +3887,9 @@
             <l>Доказано мне верно: закололся</l>
             <l>В недуге он!</l>
           </sp>
-          <sp who="#stolnik">
+          <sp who="#stolnik_3-1">
             <speaker>Стольник</speaker>
-            <stage type="delivery">входя</stage>
+            <stage>входя</stage>
             <l>Великий государь,</l>
             <l>Царица к милости твоей идет!</l>
           </sp>
@@ -3804,7 +3897,7 @@
             <speaker>Борис</speaker>
             <l>Что надо ей? Мне некогда!</l>
           </sp>
-          <sp who="#stolnik">
+          <sp who="#stolnik_3-1">
             <speaker>Стольник</speaker>
             <l>Она</l>
             <l>Уж у дверей.</l>
@@ -3813,19 +3906,18 @@
             <speaker>Борис</speaker>
             <l>Оставьте, дети,нас!</l>
           </sp>
-          <stage type="delivery">Федор, Ксения и Христиан уходят. Входят боярыни, а за ними
-            царица.</stage>
+          <stage>Федор, Ксения и Христиан уходят. Входят боярыни, а за ними царица.</stage>
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
-            <stage type="delivery">с поклоном</stage>
+            <stage>с поклоном</stage>
             <l>Не прогневись, свет-государь Борис</l>
             <l>Феодорыч, и на свою рабу</l>
             <l>Не наложи опалы за докуку!</l>
-            <stage type="delivery">К боярыням.</stage>
+            <stage>К боярыням.</stage>
             <l>А вы, голубушки, ступайте в сени,</l>
             <l>Пождите там.</l>
           </sp>
-          <stage type="delivery">Боярыни уходят.</stage>
+          <stage>Боярыни уходят.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Какой тебя, царица,</l>
@@ -3954,8 +4046,8 @@
             <l>Прости меня за глупую мою,</l>
             <l>За бабью речь. Вперед, отец, не буду!</l>
           </sp>
-          <stage type="delivery">Уходит.</stage>
-          <stage type="delivery">Входит Семен Годунов.</stage>
+          <stage>Уходит.</stage>
+          <stage>Входит Семен Годунов.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Какие вести? Ну?</l>
@@ -4011,9 +4103,9 @@
             <l>Всех, без пощады, смертию казнили!</l>
             <l>Не то — я сам явлюся между них!</l>
           </sp>
-          <sp who="#stolnik">
+          <sp who="#stolnik_3-1">
             <speaker>Стольник</speaker>
-            <stage type="delivery">входя</stage>
+            <stage>входя</stage>
             <l>Боярин князь Василь Иваныч Шуйский!</l>
           </sp>
           <sp who="#semen_godunov">
@@ -4024,7 +4116,7 @@
             <speaker>Борис</speaker>
             <l>Пускай войдет!</l>
           </sp>
-          <stage type="delivery">Шуйский входит. Борис смотрит на него пристально.</stage>
+          <stage>Шуйский входит. Борис смотрит на него пристально.</stage>
           <l>Ты слышал вести?</l>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
@@ -4125,7 +4217,7 @@
             столом.</stage>
           <sp who="#fedor_nikitich">
             <speaker>Федор Никитич</speaker>
-            <stage type="delivery">наливая им вина</stage>
+            <stage>наливая им вина</stage>
             <l>Ну, гости дорогие, перед сном —</l>
             <l>По чарочке! Во здравье государя!</l>
           </sp>
@@ -4193,11 +4285,11 @@
             <speaker>Федор Никитич</speaker>
             <l>Еще по чарочке!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#fedor_nikitich #cherkasskij #sitskij #aleksandr_nikitich #repnin">
             <speaker>Все</speaker>
             <l>Про государя!</l>
           </sp>
-          <stage type="delivery">Входит Шуйский.</stage>
+          <stage>Входит Шуйский.</stage>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Челом, бояре, вам! Чью пьете чару?</l>
@@ -4212,7 +4304,7 @@
             <l>Эх, Феодор</l>
             <l>Никитич, чай, указ-то государев</l>
             <l>Ты позабыл? Не так, бояре, пьете.</l>
-            <stage type="delivery">Подымает чару.</stage>
+            <stage>Подымает чару.</stage>
             <l>«Великому, избранному от Бога,</l>
             <l>Им чтимому и им превознесенну,</l>
             <l>И скифетры полночныя страны</l>
@@ -4236,7 +4328,7 @@
             <l>И разума!» Ух, утомился. Вот,</l>
             <l>Бояре, как указано нам пить.</l>
           </sp>
-          <stage type="delivery">Не пьет, а ставит чару на стол.</stage>
+          <stage>Не пьет, а ставит чару на стол.</stage>
           <sp who="#fedor_nikitich">
             <speaker>Федор Никитич</speaker>
             <l>Уж больно кудревато, не запомнишь.</l>
@@ -4262,7 +4354,7 @@
           </sp>
           <sp who="#fedor_nikitich">
             <speaker>Федор Никитич</speaker>
-            <stage type="delivery">к Шуйскому</stage>
+            <stage>к Шуйскому</stage>
             <l>Ты с Верьху?</l>
           </sp>
           <sp who="#vasilij_shujskij">
@@ -4369,7 +4461,7 @@
           </sp>
           <sp who="#repnin">
             <speaker>Репнин</speaker>
-            <stage type="delivery">к Федору Никитичу</stage>
+            <stage>к Федору Никитичу</stage>
             <l>Хозяин ласковый, да так, пожалуй,</l>
             <l>И до тебя он доберется?</l>
           </sp>
@@ -4404,7 +4496,7 @@
             <l>А мелких он не терпит. Нет, до нас</l>
             <l>Добраться трудно.</l>
           </sp>
-          <stage type="delivery">Входит Семен Годунов со стрельцами.</stage>
+          <stage>Входит Семен Годунов со стрельцами.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
             <l>Бьем челом, бояре!</l>
@@ -4437,7 +4529,7 @@
             <l>Заодно</l>
             <l>С Романовыми были. Вас под стражу</l>
             <l>Беру я с ними.</l>
-            <stage type="delivery">К Шуйскому.</stage>
+            <stage>К Шуйскому.</stage>
             <l>Князь Василь Иваныч!</l>
             <l>Тебе велит великий государь</l>
             <l>Вести допрос над ними.</l>
@@ -4473,13 +4565,13 @@
             <l>Пойдем к владыке начинать допрос.</l>
             <l>Помилуй Бог царя и государя!</l>
           </sp>
-          <stage type="delivery">Уводит бояр, окруженных стрельцами.</stage>
+          <stage>Уводит бояр, окруженных стрельцами.</stage>
         </div>
         <div type="scene">
           <head>ПОКОЙ ВО ДВОРЦЕ</head>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">один</stage>
+            <stage>один</stage>
             <l>«Убит, но жив»! Свершилось предсказанье!</l>
             <l>Загадка разъяснилася: мой враг</l>
             <l>Встал на меня из гроба грозной тенью!</l>
@@ -4504,7 +4596,7 @@
             <l>И, первых кровь чтоб не лилася даром,</l>
             <l>Топор все вновь подъемлется к ударам!</l>
           </sp>
-          <stage type="delivery">Входит Шуйский.</stage>
+          <stage>Входит Шуйский.</stage>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>По твоему, великий государь,</l>
@@ -4610,10 +4702,10 @@
             <l>Острастка то лишь малая была —</l>
             <l>Гнев впереди!</l>
           </sp>
-          <stage type="delivery">Уходит.</stage>
+          <stage>Уходит.</stage>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">один</stage>
+            <stage>один</stage>
             <l>Святая простота!</l>
             <l>Дает понять: тебя насквозь я вижу,</l>
             <l>Ты заодно с другими! А меж тем,</l>
@@ -4629,8 +4721,8 @@
             <l>Когда кто так становится неровен,</l>
             <l>То знак плохой!</l>
           </sp>
-          <stage type="delivery">Уходит.</stage>
-          <stage type="delivery">Входит Христиан, за ним Гольк и Браге.</stage>
+          <stage>Уходит.</stage>
+          <stage>Входит Христиан, за ним Гольк и Браге.</stage>
           <sp who="#golk">
             <speaker>Гольк</speaker>
             <l>Высочество! Подумай:</l>
@@ -4713,8 +4805,8 @@
             <l>Вы сказать хотите,</l>
             <l>Что брежу я? Нет, я здоров. Оставьте</l>
             <l>Меня теперь — я дам ответ вам скоро.</l>
-            <stage type="delivery">Гольк и Браге уходят.</stage>
-            <stage type="delivery">Один.</stage>
+            <stage>Гольк и Браге уходят.</stage>
+            <stage>Один.</stage>
             <l>Под этим кровом доле оставаться</l>
             <l>Не должен я. Мне детский крик предсмертный</l>
             <l>Здесь слышится — я вижу пятна крови</l>
@@ -4722,7 +4814,7 @@
             <l>Да, я люблю ее! Теперь меж нами</l>
             <l>Все кончено.</l>
           </sp>
-          <stage type="delivery">Входит Ксения и останавливается в дверях.</stage>
+          <stage>Входит Ксения и останавливается в дверях.</stage>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
             <l>Один ты, Христиан?</l>
@@ -4826,7 +4918,7 @@
             <l>Когда отца кругом теснят враги,</l>
             <l>Друзья ж бегут — ты также переходишь</l>
             <l>К его врагам!</l>
-            <stage type="delivery">Входит царевич Федор, ими не замечаемый.</stage>
+            <stage>Входит царевич Федор, ими не замечаемый.</stage>
             <l>Но если б от него</l>
             <l>И все ушли и если б целый мир</l>
             <l>Его винил — одна бы я сказала:</l>
@@ -4848,7 +4940,7 @@
           </sp>
           <sp who="#fedor">
             <speaker>Федор</speaker>
-            <stage type="delivery">выступает вперед</stage>
+            <stage>выступает вперед</stage>
             <l>Королевич!</l>
           </sp>
           <sp who="#hristian">
@@ -4893,7 +4985,7 @@
             <speaker>Федор</speaker>
             <l>Ты прав —</l>
             <l>Спасибо, что напомнил…</l>
-            <stage type="delivery">Срывает со стены две сабли и подает одну Христиану.</stage>
+            <stage>Срывает со стены две сабли и подает одну Христиану.</stage>
             <l>Бейся насмерть!</l>
           </sp>
           <sp who="#ksenija">
@@ -4903,7 +4995,7 @@
           </sp>
           <sp who="#hristian">
             <speaker>Христиан</speaker>
-            <stage type="delivery">бросая саблю</stage>
+            <stage>бросая саблю</stage>
             <l>Нет, не стану биться!</l>
             <l>Ты брат ее!</l>
           </sp>
@@ -4920,16 +5012,16 @@
             <l>Кругом меня все потемнело вдруг —</l>
             <l>Меня не держат ноги…</l>
           </sp>
-          <stage type="delivery">Садится.</stage>
+          <stage>Садится.</stage>
           <sp who="#fedor">
             <speaker>Федор</speaker>
-            <stage type="delivery">бросая саблю</stage>
+            <stage>бросая саблю</stage>
             <l>Христиан,</l>
             <l>Ты нездоров?</l>
           </sp>
           <sp who="#hristian">
             <speaker>Христиан</speaker>
-            <stage type="delivery">озираясь</stage>
+            <stage>озираясь</stage>
             <l>Вы оба здесь? Со мною?</l>
             <l>Как счастлив я! Друзья, скажите, что</l>
             <l>Случилося?</l>
@@ -4953,10 +5045,10 @@
             <l>Когда дурману выпьешь… Я припомнить</l>
             <l>Стараюсь что-то… сам не знаю что…</l>
             <l>Ловлю, ловлю… и все теряю…</l>
-            <stage type="delivery">Вскакивая.</stage>
+            <stage>Вскакивая.</stage>
             <l>Вспомнил!</l>
             <l>Бежим отсель!</l>
-            <stage type="delivery">Падает в кресла.</stage>
+            <stage>Падает в кресла.</stage>
             <l>У пристани корабль</l>
             <l>Норвежский ждет — уж якорь подымают —</l>
             <l>Скорей на палубу,скорей!</l>
@@ -5003,7 +5095,7 @@
             <l>Спасибо, Ксенья, это все пройдет —</l>
             <l>Как хорошо мне между вас обоих!</l>
           </sp>
-          <stage type="delivery">Уходит, поддерживаемый Федором и Ксенией.</stage>
+          <stage>Уходит, поддерживаемый Федором и Ксенией.</stage>
         </div>
       </div>
       <div type="act">
@@ -5013,7 +5105,7 @@
           <stage>Несколько переодетых сыщиков.</stage>
           <sp who="#glavnyj_syschik">
             <speaker>Главный сыщик</speaker>
-            <stage type="delivery">наряженный дьячком</stage>
+            <stage>наряженный дьячком</stage>
             <l>Сейчас народ повалит из церквей!</l>
             <l>Вмешайтеся в толпу; глаза и уши</l>
             <l>Насторожить! Сегодня панихида</l>
@@ -5022,7 +5114,7 @@
           </sp>
           <sp who="#vtoroj_syschik">
             <speaker>Второй сыщик</speaker>
-            <stage type="delivery">в одежде купца</stage>
+            <stage>в одежде купца</stage>
             <l>Какие толки! Всяк теперь боится</l>
             <l>Промолвиться.</l>
           </sp>
@@ -5039,7 +5131,7 @@
             <l>Подать маяк! Ну, живо, рассыпайтесь!</l>
             <l>Идет народ!</l>
           </sp>
-          <stage type="delivery">Толпа выходит из церкви.</stage>
+          <stage>Толпа выходит из церкви.</stage>
           <sp who="#odin_posadskij">
             <speaker>Один посадский</speaker>
             <l>Великий грех служить</l>
@@ -5083,10 +5175,10 @@
           </sp>
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
-            <stage type="delivery">про себя</stage>
+            <stage>про себя</stage>
             <l>Гм! Эти-то с чутьем!</l>
           </sp>
-          <stage type="delivery">Подходят несколько других.</stage>
+          <stage>Подходят несколько других.</stage>
           <sp who="#odin">
             <speaker>Один</speaker>
             <l>Вишь, изворот затеяли какой!</l>
@@ -5110,10 +5202,10 @@
             <speaker>Пятый</speaker>
             <l>Боятся их за то, что много знают!</l>
           </sp>
-          <stage type="delivery">Проходят.</stage>
+          <stage>Проходят.</stage>
           <sp who="#odna_baba">
             <speaker>Одна баба</speaker>
-            <stage type="delivery">догоняет другую</stage>
+            <stage>догоняет другую</stage>
             <p>Да постой, голубушка, куда ж ты спешишь?</p>
           </sp>
           <sp who="#vtoraja_baba">
@@ -5130,7 +5222,7 @@
           </sp>
           <sp who="#tretja_baba">
             <speaker>Третья баба</speaker>
-            <stage type="delivery">пристает к ним</stage>
+            <stage>пристает к ним</stage>
             <p>Не Гришка, не Гришка, матушка! Царевича Дмитрием зовут!</p>
           </sp>
           <sp who="#odna_baba">
@@ -5143,7 +5235,7 @@
           </sp>
           <sp who="#chetvertaja_baba">
             <speaker>Четвертая баба</speaker>
-            <stage type="delivery">догоняет их</stage>
+            <stage>догоняет их</stage>
             <p>Постойте, кормилицы, и я с вами! По какому Гришке царевич панафиду служит?</p>
           </sp>
           <sp who="#odna_baba #vtoraja_baba #tretja_baba #chetvertaja_baba">
@@ -5154,14 +5246,14 @@
           <stage>Уходят.</stage>
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
-            <stage type="delivery">глядя им вслед</stage>
+            <stage>глядя им вслед</stage>
             <l>Проваливай, бабье! От вас ни шерсти,</l>
             <l>Ни молока!</l>
           </sp>
           <stage>Подходят два мужика.</stage>
           <sp who="#pervyj">
             <speaker>Первый</speaker>
-            <stage type="delivery">указывая на сыщика</stage>
+            <stage>указывая на сыщика</stage>
             <l>Федюха! А Федюха!</l>
             <l>Смотри, у энтого какая сзади</l>
             <l>Коса болтается! Чай, из духовных?</l>
@@ -5174,7 +5266,7 @@
           <sp who="#pervyj">
             <speaker>Первый</speaker>
             <l>Нешто, покажем!</l>
-            <stage type="delivery">К сыщику.</stage>
+            <stage>К сыщику.</stage>
             <l>Отец родной, позволь тебя спросить:</l>
             <l>Ты грамотный, никак?</l>
           </sp>
@@ -5191,13 +5283,13 @@
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
             <l>Предъяви!</l>
-            <stage type="delivery">Читает.</stage>
+            <stage>Читает.</stage>
             <l>«Мы, Божиею милостью, Димитрий</l>
             <l>Иванович, царь и великий князь</l>
             <l>Всея Руси, ко всем русийским людям:</l>
             <l>Господним неким превеликим чудом</l>
             <l>Сохранены и спасены…» Гм, гм!</l>
-            <stage type="delivery">Читает про себя, потом громко.</stage>
+            <stage>Читает про себя, потом громко.</stage>
             <l>«И первых тех, которые навстречу</l>
             <l>Со хлебом-солью к нам придут, тех первых</l>
             <l>Пожалуем». Эй, люди, говорите:</l>
@@ -5223,7 +5315,7 @@
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
             <l>Не знаете?</l>
-            <stage type="delivery">Свистит. Несколько сыщиков подбегают.</stage>
+            <stage>Свистит. Несколько сыщиков подбегают.</stage>
             <l>Хватайте этих двух!</l>
             <l>В застенок их!</l>
           </sp>
@@ -5239,8 +5331,8 @@
             <speaker>Сыщик</speaker>
             <l>Вам в застенке скажут!</l>
           </sp>
-          <stage type="delivery">Мужиков уводят среди общего ропота. Подходит купец в разговоре со
-            вторым сыщиком.</stage>
+          <stage>Мужиков уводят среди общего ропота. Подходит купец в разговоре со вторым
+            сыщиком.</stage>
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
             <l>Да что, почтенный, что за торг у нас?</l>
@@ -5256,7 +5348,7 @@
           </sp>
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
-            <stage type="delivery">таинственно</stage>
+            <stage>таинственно</stage>
             <l>Одна надежда ноне —</l>
             <l>Царь Дмитрий Иоаннович. Не терпит</l>
             <l>Ни немцов он, ни англичан. Пусть только</l>
@@ -5278,12 +5370,12 @@
           </sp>
           <sp who="#syschik">
             <speaker>Сыщик</speaker>
-            <stage type="delivery">хватает его за ворот</stage>
+            <stage>хватает его за ворот</stage>
             <l>Так вот ты как! Так ты стоишь за вора?</l>
             <l>Эй, наши! Эй!</l>
           </sp>
-          <stage type="delivery">Сыщики бросаются на купца.</stage>
-          <sp who="#posadskie_i_narod">
+          <stage>Сыщики бросаются на купца.</stage>
+          <sp who="#posadskie #narod_4-1">
             <speaker>Посадские и народ</speaker>
             <l>Да что вы! Бойтесь Бога!</l>
             <l>За что его?</l>
@@ -5293,11 +5385,11 @@
             <l>А вы чего вступились?</l>
             <l>Хватай их всех!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_4-1">
             <speaker>Народ.</speaker>
             <p>Нет, всех-то не перехватаешь! Бей их, ребята! Довольно нам терпеть от сыщиков!</p>
           </sp>
-          <stage type="delivery">Звон бубен. Пешие бубенщики. Перед ними пристав.</stage>
+          <stage>Звон бубен. Пешие бубенщики. Перед ними пристав.</stage>
           <sp who="#pristav">
             <speaker>Пристав</speaker>
             <l>Раздайтесь! Место! Место!</l>
@@ -5305,11 +5397,11 @@
           </sp>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">в сопровождении двух дьяков</stage>
+            <stage>в сопровождении двух дьяков</stage>
             <l>С чего, миряне, подняли вы шум?</l>
             <l>Грех вам мутиться!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_4-1">
             <speaker>Народ</speaker>
             <l>Батюшка, Василий Иванович! Вступись, отец родной!</l>
             <l>Твой род ведь всегда за нас стоял, а ноне нам от сыщиков житья нет! Вступись,
@@ -5323,7 +5415,7 @@
             <l>До Лобного до места; по указу</l>
             <l>По царскому я речь скажу.</l>
           </sp>
-          <stage type="delivery">Идет к Лобному месту.</stage>
+          <stage>Идет к Лобному месту.</stage>
           <sp who="#odin_iz_naroda">
             <speaker>Один из народа</speaker>
             <l>Нет, этот</l>
@@ -5344,7 +5436,7 @@
           </sp>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">с Лобного места</stage>
+            <stage>с Лобного места</stage>
             <l>Народ московский!</l>
             <l>Вам всем: гостям и всем торговым людям,</l>
             <l>Всем воинским, посадским, и слободским,</l>
@@ -5352,7 +5444,7 @@
             <l>И вольным, и кабальным всяким людям,</l>
             <l>Я, князь Василь Иваныч Шуйский, бью</l>
             <l>Напред челом!</l>
-            <stage type="delivery">Кланяется на все стороны.</stage>
+            <stage>Кланяется на все стороны.</stage>
             <l>Вам ведомо, что некий</l>
             <l>Еретик злой, расстрига, чернокнижник</l>
             <l>И явный вор, Отрепьев Гришка, Бога</l>
@@ -5402,7 +5494,7 @@
           </sp>
           <sp who="#tretij">
             <speaker>Третий</speaker>
-            <stage type="delivery">вполголоса</stage>
+            <stage>вполголоса</stage>
             <l>Да кто же</l>
             <l>Младенец был?</l>
           </sp>
@@ -5417,7 +5509,7 @@
             <l>Мне прокляту, и в огнь идти мне вечный,</l>
             <l>Когда солгал!</l>
           </sp>
-          <stage type="delivery">Целует свой тельный крест.</stage>
+          <stage>Целует свой тельный крест.</stage>
           <sp who="#pervyj">
             <speaker>Первый</speaker>
             <l>Да в чем же он клянется?</l>
@@ -5450,8 +5542,8 @@
             <l>Великий царь тому немедля вырвать</l>
             <l>Велит язык. Я все сказал — простите!</l>
           </sp>
-          <stage type="delivery">Кланяется и сходит с Лобного места.</stage>
-          <stage type="delivery">Молчание в народе.</stage>
+          <stage>Кланяется и сходит с Лобного места.</stage>
+          <stage>Молчание в народе.</stage>
           <sp who="#odin">
             <speaker>Один</speaker>
             <l>Вот те и речь!</l>
@@ -5531,7 +5623,7 @@
             <speaker>Первый</speaker>
             <l>И вправду подождем.</l>
           </sp>
-          <stage type="delivery">Народ расходится, разговаривая вполголоса.</stage>
+          <stage>Народ расходится, разговаривая вполголоса.</stage>
         </div>
         <div type="scene">
           <head>ПОКОЙ ВО ДВОРЦЕ С НИЗКИМ СВОДОМ И РЕШЕТЧАТЫМ ОКНОМ</head>
@@ -5575,10 +5667,10 @@
             <l>Изобразить сумела бы я радость</l>
             <l>О мнимом сыне, возвращенном мне!</l>
           </sp>
-          <stage type="delivery">Входит Борис со свечой, которую ставит на стол.</stage>
+          <stage>Входит Борис со свечой, которую ставит на стол.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">с поклоном</stage>
+            <stage>с поклоном</stage>
             <l>Царица Марья Федоровна, бью</l>
             <l>Тебе челом!</l>
           </sp>
@@ -5666,7 +5758,7 @@
             <l>Ужели был и Клешниным и Шуйским</l>
             <l>Обманут я?</l>
           </sp>
-          <stage type="delivery">Входит царица Мария Григорьевна.</stage>
+          <stage>Входит царица Мария Григорьевна.</stage>
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
             <l>Не прогневись, Борис</l>
@@ -5674,7 +5766,7 @@
             <l>Я слышала за дверью. Невтерпеж,</l>
             <l>Свет-государь, мне стало: поклониться</l>
             <l>Царице Марфе захотелось.</l>
-            <stage type="delivery">Кланяется.</stage>
+            <stage>Кланяется.</stage>
             <l>Земно</l>
             <l>Тебе я, матушка-царица Марфа</l>
             <l>Феодоровна, кланяюся. Слышу:</l>
@@ -5744,10 +5836,10 @@
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
             <l>А посмотрим.</l>
-            <stage type="delivery">Отворяя дверь.</stage>
+            <stage>Отворяя дверь.</stage>
             <l>Войди, голубка!</l>
-            <stage type="delivery">Входит Волохова.</stage>
-            <stage type="delivery">К Марфе.</stage>
+            <stage>Входит Волохова.</stage>
+            <stage>К Марфе.</stage>
             <l>Знаешь ты ее?</l>
           </sp>
           <sp who="#marfa">
@@ -5769,10 +5861,10 @@
           </sp>
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
-            <stage type="delivery">к Волоховой</stage>
+            <stage>к Волоховой</stage>
             <l>Довольно, Василиса,</l>
             <l>Ступай себе.</l>
-            <stage type="delivery">Волохова уходит.</stage>
+            <stage>Волохова уходит.</stage>
             <l>Ну, батюшка Борис</l>
             <l>Феодорыч? Уверился теперь,</l>
             <l>Что нет в живых ее царенка? То-то!</l>
@@ -5782,7 +5874,7 @@
             <l>Чувствительней и дыба и когтей.</l>
             <l>Чего ж ты, свет, задумался? Забыл ли,</l>
             <l>Зачем пришел?</l>
-            <stage type="delivery">Дергает Марфу за руку.</stage>
+            <stage>Дергает Марфу за руку.</stage>
             <l>Опомнися, царица!</l>
             <l>Опомнись, мать. Ну, государь?</l>
           </sp>
@@ -5842,12 +5934,12 @@
             <speaker>Царица</speaker>
             <l>Пророчит гибель нам</l>
             <l>Твоя гортань?</l>
-            <stage type="delivery">Схватывает зажженную свечу и бросается с нею на Марфу.</stage>
+            <stage>Схватывает зажженную свечу и бросается с нею на Марфу.</stage>
             <l>Так подавись же, сука!</l>
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">удерживая ее, к Марфе</stage>
+            <stage>удерживая ее, к Марфе</stage>
             <l>Отчаянью прощаю твоему.</l>
             <l>Размыслишь ты, что месть твоя не может</l>
             <l>Царевича вернуть, но что в твоей,</l>
@@ -5865,10 +5957,10 @@
             <l>Ты отвечать. О том раздумать время</l>
             <l>Даю тебе — прости! Свети мне, Марья!</l>
           </sp>
-          <stage type="delivery">Уходит с царицей.</stage>
+          <stage>Уходит с царицей.</stage>
           <sp who="#marfa">
             <speaker>Марфа</speaker>
-            <stage type="delivery">одна</stage>
+            <stage>одна</stage>
             <l>Ушли — и жало жгучее уносят</l>
             <l>В своих сердцах! Я ранила их насмерть,</l>
             <l>Я, Дмитриева мать! Теперь их дни</l>
@@ -5893,7 +5985,7 @@
             <l>Ты б царствовал теперь! Но ты убит!</l>
             <l>Убит мой сын! Убит, убит мой Дмитрий!</l>
           </sp>
-          <stage type="delivery">Падает наземь и рыдает.</stage>
+          <stage>Падает наземь и рыдает.</stage>
         </div>
         <div type="scene">
           <head>ПОКОЙ ВО ДВОРЦЕ</head>
@@ -5953,8 +6045,8 @@
             <l>Не будет благодарности моей!</l>
             <l>Ступай, ступай!</l>
           </sp>
-          <stage type="delivery">Врач уходит.</stage>
-          <stage type="delivery">Один.</stage>
+          <stage>Врач уходит.</stage>
+          <stage>Один.</stage>
           <l>Ужели нас Господь</l>
           <l>Еще накажет этою потерей!</l>
           <l>Он то звено, которым вновь связал бы</l>
@@ -5980,7 +6072,7 @@
           <l>Навеки я хотел работу жизни,</l>
           <l>Она ж тяжелой рушится скалой</l>
           <l>На здание мое!</l>
-          <stage type="delivery">Входит Семен Годунов со свертком в руках.</stage>
+          <stage>Входит Семен Годунов со свертком в руках.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
             <l>Великий царь…</l>
@@ -6005,7 +6097,7 @@
           </sp>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
-            <stage type="delivery">читает</stage>
+            <stage>читает</stage>
             <l>«Великий князь и царь всея Русии</l>
             <l>Димитрий Иоаннович, тебе,</l>
             <l>Борису Годунову! От ножа</l>
@@ -6025,7 +6117,7 @@
             <l>Тебе, Борису, царскую мы нашу</l>
             <l>Тогда явим. Путивль, осьмого марта».</l>
           </sp>
-          <stage type="delivery">Борис закрыварт лицо руками.</stage>
+          <stage>Борис закрыварт лицо руками.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
             <l>Тебя кручинит этот дерзкий лист?</l>
@@ -6098,9 +6190,9 @@
             <l>Пусть он придет. И говорить ни с кем</l>
             <l>Чтобы не смел!</l>
           </sp>
-          <sp who="#stolnik">
+          <sp who="#stolnik_4-3">
             <speaker>Стольник</speaker>
-            <stage type="delivery">отворяя дверь</stage>
+            <stage>отворяя дверь</stage>
             <l>Великий государь,</l>
             <l>Врачи тебе прислали повестить:</l>
             <l>Отходит королевич!</l>
@@ -6109,15 +6201,15 @@
             <speaker>Борис</speaker>
             <l>Боже правый!</l>
           </sp>
-          <stage type="delivery">Уходит с Годуновым. Царевич Федор отворяет дверь, осматривается и
-            говорит за кулисы.</stage>
+          <stage>Уходит с Годуновым. Царевич Федор отворяет дверь, осматривается и говорит за
+            кулисы.</stage>
           <sp who="#fedor">
             <speaker>Федор</speaker>
             <l>Нет никого — войди, сестра!</l>
           </sp>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
-            <stage type="delivery">входя</stage>
+            <stage>входя</stage>
             <l>Как мне</l>
             <l>Наедине с тобою быть хотелось!</l>
             <l>Что ты узнал о нем?</l>
@@ -6160,7 +6252,7 @@
           </sp>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
-            <stage type="delivery">взяв его за руку</stage>
+            <stage>взяв его за руку</stage>
             <l>Брат, слышишь?</l>
           </sp>
           <sp who="#fedor">
@@ -6182,7 +6274,7 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">входя</stage>
+            <stage>входя</stage>
             <l>Ксения моя…</l>
           </sp>
           <sp who="#ksenija">
@@ -6196,7 +6288,7 @@
           </sp>
           <sp who="#fedor">
             <speaker>Федор</speaker>
-            <stage type="delivery">к Борису</stage>
+            <stage>к Борису</stage>
             <l>Пощади ее!</l>
           </sp>
           <sp who="#ksenija">
@@ -6207,8 +6299,8 @@
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Все кончено!</l>
-            <stage type="delivery">Ксения шатается и падает.</stage>
-            <stage type="delivery">Поддерживая ее.</stage>
+            <stage>Ксения шатается и падает.</stage>
+            <stage>Поддерживая ее.</stage>
             <l>Господь с тобою, Ксенья!</l>
           </sp>
         </div>
@@ -6330,18 +6422,17 @@
           </sp>
           <sp who="#pervyj">
             <speaker>Первый</speaker>
-            <stage type="delivery">с испугом</stage>
+            <stage>с испугом</stage>
             <l>Кто идет?</l>
           </sp>
           <sp who="#vtoroj">
             <speaker>Второй</speaker>
             <l>Молчи, молчи! Он сам!</l>
           </sp>
-          <stage type="delivery">Борис, в рубахе, поверх которой накинут опашень, входит, их не
-            замечая.</stage>
+          <stage>Борис, в рубахе, поверх которой накинут опашень, входит, их не замечая.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">про себя</stage>
+            <stage>про себя</stage>
             <l>«Убит, но жив»!</l>
             <l>Меня с одра все тот же призрак гонит.</l>
             <l>Даны часы покоя всякой твари;</l>
@@ -6363,15 +6454,15 @@
             <l>Исполнен был! Я честно отдал плату —</l>
             <l>Так пусть же мой противник вправду сгинет</l>
             <l>Иль пусть опять безвинен буду я!</l>
-            <stage type="delivery">Осматривается.</stage>
+            <stage>Осматривается.</stage>
             <l>Куда зашел я? Это тот престол,</l>
             <l>Где, в день венчанья моего, я в блеске</l>
             <l>Невиданном дотоле восседал!</l>
             <l>Он мой еще. С помазанной главы</l>
             <l>Тень не сорвет венца!</l>
-            <stage type="delivery">Подходит и отступает в ужасе.</stage>
+            <stage>Подходит и отступает в ужасе.</stage>
             <l>Престол мой занят!</l>
-            <stage type="delivery">Приходит в себя.</stage>
+            <stage>Приходит в себя.</stage>
             <l>Нет, это там играет лунный луч!..</l>
             <l>Безумный бред! Все та же мысль! Рожденье</l>
             <l>Бессонницы! Но нет — я точно вижу —</l>
@@ -6391,7 +6482,7 @@
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Кто здесь говорит?</l>
-            <stage type="delivery">Увидев часовых.</stage>
+            <stage>Увидев часовых.</stage>
             <l>Кто вы? Зачем вы здесь? Как смели вы</l>
             <l>Подслушивать?</l>
           </sp>
@@ -6414,7 +6505,7 @@
             <l>Так подойди ж и бердышем своим</l>
             <l>Ударь в престол! Чего дрожишь? Иди —</l>
             <l>Ударь в престол!</l>
-            <stage type="delivery">Часовой подходит к престолу.</stage>
+            <stage>Часовой подходит к престолу.</stage>
             <l>Стой! Воротись — не надо!</l>
             <l>Я над тобой смеялся! Разве ты</l>
             <l>Не видишь, трус, что это месяц светит</l>
@@ -6423,10 +6514,10 @@
             <l>О том, что здесь вы слышали сейчас</l>
             <l>Иль видели,— молчать под смертной казнью!</l>
             <l>Вы знаете меня!</l>
-            <stage type="delivery">Вздрогнув.</stage>
+            <stage>Вздрогнув.</stage>
             <l>Кто там?</l>
           </sp>
-          <stage type="delivery">Входит Семен Годунов.</stage>
+          <stage>Входит Семен Годунов.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
             <l>То я,</l>
@@ -6438,15 +6529,15 @@
           </sp>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
-            <stage type="delivery">тихо</stage>
+            <stage>тихо</stage>
             <l>Андрей Клешнин, по твоему веленью,</l>
             <l>К тебе пришел.</l>
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">к часовым</stage>
+            <stage>к часовым</stage>
             <l>Ступайте оба прочь!</l>
-            <stage type="delivery">Часовые уходят.</stage>
+            <stage>Часовые уходят.</stage>
             <l>Никто не видел Клешнина?</l>
           </sp>
           <sp who="#semen_godunov">
@@ -6458,7 +6549,7 @@
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Впусти его!</l>
-            <stage type="delivery">Семен Годунов уходит.</stage>
+            <stage>Семен Годунов уходит.</stage>
             <l>Под схимой</l>
             <l>Он от мирских укрылся треволнений,</l>
             <l>А я, как грозный некогда Иван,</l>
@@ -6479,7 +6570,7 @@
             <l>Противник жив — венец мой лишь насмешка,</l>
             <l>А истина — злодейство есть мое —</l>
             <l>И за него проклятья!</l>
-            <stage type="delivery">Входит Клешнин в схиме и в веригах.</stage>
+            <stage>Входит Клешнин в схиме и в веригах.</stage>
             <l>Это ты?</l>
           </sp>
           <sp who="#kleshnin">
@@ -6658,7 +6749,7 @@
             <speaker>Клешнин</speaker>
             <l>Так умирай как пес!</l>
           </sp>
-          <stage type="delivery">Уходит.</stage>
+          <stage>Уходит.</stage>
         </div>
         <div type="scene">
           <head>УТРО. ПОКОЙ ПЕРЕД ЦАРСКОЙ ОПОЧИВАЛЬНЕЙ</head>
@@ -6711,7 +6802,7 @@
             <speaker>Семен Годунов</speaker>
             <l>Уйдем!</l>
           </sp>
-          <stage type="delivery">Оба уходят. Борис входит в разговоре с царевичем Федором.</stage>
+          <stage>Оба уходят. Борис входит в разговоре с царевичем Федором.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Мы трудные с тобою времена</l>
@@ -6876,7 +6967,7 @@
             <l>Поверил я! Не говори ни слова —</l>
             <l>Поверил я!</l>
           </sp>
-          <stage type="delivery">Молчание.</stage>
+          <stage>Молчание.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Недолго мне осталось</l>
@@ -6912,12 +7003,12 @@
             <l>Что все меня клянут… Услышать слово</l>
             <l>Приветное я был бы рад…</l>
           </sp>
-          <stage type="delivery">Молчание.</stage>
+          <stage>Молчание.</stage>
           <sp who="#fedor">
             <speaker>Федор</speaker>
             <l>Прости!</l>
           </sp>
-          <stage type="delivery">Уходит.</stage>
+          <stage>Уходит.</stage>
         </div>
         <div type="scene">
           <head>СТОЛОВАЯ ПАЛАТА</head>
@@ -6971,7 +7062,7 @@
           </sp>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">подходит</stage>
+            <stage>подходит</stage>
             <l>О чем, бояре, вы?</l>
           </sp>
           <sp who="#saltykov">
@@ -7025,7 +7116,7 @@
           </sp>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">смеясь</stage>
+            <stage>смеясь</stage>
             <l>А кто ж еще?</l>
             <l>Ведь он себе награду заслужил!</l>
           </sp>
@@ -7041,10 +7132,10 @@
             <speaker>Салтыков</speaker>
             <l>А вот и он!</l>
           </sp>
-          <stage type="delivery">Входит Басманов, все раздаются.</stage>
+          <stage>Входит Басманов, все раздаются.</stage>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">идет ему навстречу</stage>
+            <stage>идет ему навстречу</stage>
             <l>Челом, боярин Петр</l>
             <l>Феодорыч, тебе от всей от Думы!</l>
             <l>Утешил нас, ей-Богу-ну! А то</l>
@@ -7075,7 +7166,7 @@
           </sp>
           <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
-            <stage type="delivery">смеясь</stage>
+            <stage>смеясь</stage>
             <l>Да ты, никак, боярин,</l>
             <l>Не в шутку хвалишь вора!</l>
           </sp>
@@ -7127,11 +7218,11 @@
             <speaker>Басманов</speaker>
             <l>Кто чем богат!</l>
           </sp>
-          <stage type="delivery">Входит Семен Годунов. Все ему кланяются. За ним два стольника несут
-            богатую шубу.</stage>
+          <stage>Входит Семен Годунов. Все ему кланяются. За ним два стольника несут богатую
+            шубу.</stage>
           <sp who="#semen_godunov">
             <speaker>Семен Годунов</speaker>
-            <stage type="delivery">к Басманову</stage>
+            <stage>к Басманову</stage>
             <l>Боярин</l>
             <l>Петр Федорыч! Великий государь,</l>
             <l>До своего до царского прихода,</l>
@@ -7139,12 +7230,12 @@
             <l>И эту шубу, с своего плеча,</l>
             <l>Прислал тебе в подарок!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
-            <stage type="delivery">кланяясь Басманову</stage>
+            <stage>кланяясь Басманову</stage>
             <l>С царской лаской!</l>
           </sp>
-          <stage type="delivery">Стольники надевают на него шубу.</stage>
+          <stage>Стольники надевают на него шубу.</stage>
           <sp who="#basmanov">
             <speaker>Басманов</speaker>
             <l>Не заслужил я милости великой!</l>
@@ -7162,7 +7253,7 @@
             <l>Кому ж и честь, когда не воеводе,</l>
             <l>Что от врага лютейшего вконец</l>
             <l>Избавил нас!</l>
-            <stage type="delivery">К Семену Годунову.</stage>
+            <stage>К Семену Годунову.</stage>
             <l>Но успокой, родимый,</l>
             <l>Скажи, Семен Никитич, правда ль: ночью</l>
             <l>Недужил царь?</l>
@@ -7179,11 +7270,11 @@
             <l>Нет милости его. Зато теперь</l>
             <l>Он от хлопот уж может отдохнуть!</l>
           </sp>
-          <stage type="delivery">Звов дворцовых колоколов. Входит Борис в царском облачении. За ним
-            царевич Федор, царица и Ксения.</stage>
+          <stage>Звов дворцовых колоколов. Входит Борис в царском облачении. За ним царевич Федор,
+            царица и Ксения.</stage>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
-            <stage type="delivery">к Голицыну</stage>
+            <stage>к Голицыну</stage>
             <l>Как бледен он!</l>
           </sp>
           <sp who="#golitsyn">
@@ -7192,27 +7283,26 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">к Басманову</stage>
+            <stage>к Басманову</stage>
             <l>Боярин Петр</l>
             <l>Феодорыч!</l>
-            <stage type="delivery">Басманов опускается на колени, Борис его подымает.</stage>
+            <stage>Басманов опускается на колени, Борис его подымает.</stage>
             <l>За доблесть за твою,</l>
             <l>За славную за службу и за кровь —</l>
             <l>Прими от нас великий наш поклон</l>
             <l>И от земли русийской челобитье!</l>
           </sp>
-          <stage type="delivery">Берет у стольника золотое блюдо, насыпанное червонцами, и подает
-            Басманову.</stage>
+          <stage>Берет у стольника золотое блюдо, насыпанное червонцами, и подает Басманову.</stage>
           <sp who="#basmanov">
             <speaker>Басманов</speaker>
-            <stage type="delivery">принимая блюдо</stage>
+            <stage>принимая блюдо</stage>
             <l>Великий царь! За малую ты службу</l>
             <l>Чрез меру мне сегодня воздаешь!</l>
             <l>Дозволь мне, царь, вернуться к войску. Там,</l>
             <l>Быть может, мне твою удастся милость</l>
             <l>И вправду заслужить!</l>
           </sp>
-          <stage type="delivery">Передает блюдо стольнику.</stage>
+          <stage>Передает блюдо стольнику.</stage>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Пожди еще.</l>
@@ -7223,11 +7313,11 @@
             <l>Как верных слуг, за правду их, умеет</l>
             <l>Царь награждать. Садись со мною рядом.</l>
           </sp>
-          <stage type="delivery">Садится за стол. По правую его руку царица, Федор и Ксения; по
-            левую Басманов. Бояре размещаются за другими столами. Слуги разносят блюда.</stage>
+          <stage>Садится за стол. По правую его руку царица, Федор и Ксения; по левую Басманов.
+            Бояре размещаются за другими столами. Слуги разносят блюда.</stage>
           <sp who="#odin_bojarin_5-3a">
             <speaker>Один боярин</speaker>
-            <stage type="delivery">за крайним столом налево</stage>
+            <stage>за крайним столом налево</stage>
             <l>Мне на царевну Ксенью жаль смотреть,</l>
             <l>Вошла в палату, на ногах едва</l>
             <l>Держалася.</l>
@@ -7248,7 +7338,7 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">к Басманову</stage>
+            <stage>к Басманову</stage>
             <l>Не в радостный ты час к нам прибыл, Петр.</l>
             <l>Семейное меня постигло горе,</l>
             <l>Затем порой задумчив я кажусь;</l>
@@ -7263,7 +7353,7 @@
           </sp>
           <sp who="#saltykov">
             <speaker>Салтыков</speaker>
-            <stage type="delivery">за другим столом налево</stage>
+            <stage>за другим столом налево</stage>
             <l>Мы похоронный точно пир справляем.</l>
             <l>Смотри, как он веселым хочет быть,</l>
             <l>А сам не свой!</l>
@@ -7296,27 +7386,27 @@
           </sp>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
-            <stage type="delivery">обходит стол и подносит стопу Басманову, с поклоном</stage>
+            <stage>обходит стол и подносит стопу Басманову, с поклоном</stage>
             <l>Уважь, боярин!</l>
           </sp>
           <sp who="#basmanov">
             <speaker>Басманов</speaker>
-            <stage type="delivery">принимая стопу</stage>
+            <stage>принимая стопу</stage>
             <l>Во здравие царя и государя!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Во здравие царя и государя!</l>
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">вставая</stage>
+            <stage>вставая</stage>
             <l>Во здравие боярина Петра</l>
             <l>Басманова! Пусть долго он живет,</l>
             <l>На образец другим, земле на славу,</l>
             <l>Врагам на страх!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Во здравие его</l>
             <l>И много лет!</l>
@@ -7327,13 +7417,13 @@
             <l>Святая Русь и да погибнут все</l>
             <l>Ее враги!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Анафема врагам!</l>
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">садясь</stage>
+            <stage>садясь</stage>
             <l>Семь лет прошло, что я земли русийской</l>
             <l>Приял венец. Господня благодать</l>
             <l>Была над ней — доколь, подобно язве</l>
@@ -7351,7 +7441,7 @@
             <l>В душе своей усердствовали б тайно</l>
             <l>Разбитому Басмановым врагу?</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_5-3">
             <speaker>Голоса</speaker>
             <l>Помилуй, царь!</l>
           </sp>
@@ -7362,9 +7452,9 @@
             <l>Наследника ж хотели б моего</l>
             <l>Ему предать?</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_5-3">
             <speaker>Голоса</speaker>
-            <stage type="delivery">с разных сторон</stage>
+            <stage>с разных сторон</stage>
             <l>Царь-государь, помилуй!</l>
             <l>Возможно ли! — И в мысль то не вместится! —</l>
             <l>Нет между нас предателей!</l>
@@ -7374,14 +7464,14 @@
             <l>Пусть встанет,</l>
             <l>Кто верен мне!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
-            <stage type="delivery">вставая</stage>
+            <stage>вставая</stage>
             <l>Мы все тебе верны!</l>
           </sp>
           <sp who="#golitsyn">
             <speaker>Голицын</speaker>
-            <stage type="delivery">к Салтыкову</stage>
+            <stage>к Салтыкову</stage>
             <l>Что, встал небось?</l>
           </sp>
           <sp who="#saltykov">
@@ -7398,7 +7488,7 @@
             <l>Клянитесь мне, что будете служить</l>
             <l>Феодору по вере и по правде!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Клянемся, царь!</l>
           </sp>
@@ -7408,7 +7498,7 @@
             <l>Оберегать до смерти и до крови,</l>
             <l>Когда меня не станет!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Все клянемся!</l>
           </sp>
@@ -7419,7 +7509,7 @@
             <l>Он злобы той на сына не захочет</l>
             <l>Перенести!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Во всем тебе клянемся!</l>
           </sp>
@@ -7444,18 +7534,18 @@
             <l>На радость вам, на славу всей земле!</l>
             <l>Чего я сделать не успел для царства —</l>
             <l>То он свершит —</l>
-            <stage type="delivery">выступает вперед</stage>
+            <stage>выступает вперед</stage>
             <l>и за него теперь</l>
             <l>Заздравный сей я кубок подымаю!</l>
           </sp>
-          <sp who="#vse">
+          <sp who="#vse_5-3">
             <speaker>Все</speaker>
             <l>Да здравствует царевич! Много лет</l>
             <l>Царевичу Феодору!</l>
           </sp>
           <sp who="#odin_bojarin_5-3b">
             <speaker>Один боярин</speaker>
-            <stage type="delivery">указывая на Бориса</stage>
+            <stage>указывая на Бориса</stage>
             <l>Что с ним?</l>
           </sp>
           <sp who="#drugoj">
@@ -7468,10 +7558,10 @@
           </sp>
           <sp who="#basmanov">
             <speaker>Басманов</speaker>
-            <stage type="delivery">подхватывает его</stage>
+            <stage>подхватывает его</stage>
             <l>Государь!</l>
           </sp>
-          <stage type="delivery">Смятение между боярами.</stage>
+          <stage>Смятение между боярами.</stage>
           <sp who="#ksenija">
             <speaker>Ксения</speaker>
             <l>Отец! Отец!</l>
@@ -7490,7 +7580,7 @@
             <l>Не надо… смертный час</l>
             <l>Мой настает…</l>
           </sp>
-          <stage type="delivery">Его сажают в кресла.</stage>
+          <stage>Его сажают в кресла.</stage>
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
             <l>Ах, Господи! Не просто</l>
@@ -7532,7 +7622,7 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <stage type="delivery">к боярам</stage>
+            <stage>к боярам</stage>
             <l>Блюдите вашу клятву!</l>
             <l>Вам ясен долг — Господь карает ложь —</l>
             <l>От зла лишь зло родится — все едино:</l>
@@ -7541,7 +7631,7 @@
           </sp>
           <sp who="#tsaritsa_marija">
             <speaker>Царица</speaker>
-            <stage type="delivery">кланяясь в ноги</stage>
+            <stage>кланяясь в ноги</stage>
             <l>Свет-государь! Прости меня, в чем я</l>
             <l>Грешна перед тобой!</l>
           </sp>
@@ -7556,11 +7646,11 @@
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
             <l>Простите все! Я отхожу, сын Федор,</l>
-            <stage type="delivery">встает</stage>
+            <stage>встает</stage>
             <l>Дай руку мне! Бояре! Вот ваш царь!</l>
           </sp>
-          <stage type="delivery">Падает в кресла.</stage>
-          <stage type="delivery">Занавес опускается.</stage>
+          <stage>Падает в кресла.</stage>
+          <stage>Занавес опускается.</stage>
         </div>
       </div>
     </body>
