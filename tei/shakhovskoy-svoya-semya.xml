@@ -64,9 +64,6 @@
           <person xml:id="Maksim" sex="MALE">
             <persName>Максим</persName>
           </person>
-          <person xml:id="Vse" sex="UNKNOWN">
-            <persName>Все</persName>
-          </person>
           <person xml:id="Ljubim" sex="MALE">
             <persName>Любим</persName>
           </person>
@@ -207,7 +204,7 @@
             <speaker>Вельдюзева</speaker>
             <l>Да не пора ли нам прочесть письмо?</l>
           </sp>
-          <sp who="#Vse">
+          <sp who="#Raisa #Major #Fekla #Maksim #Zvonkina">
             <speaker>Все</speaker>
             <l>Прочтем!</l>
           </sp>
