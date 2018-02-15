@@ -158,6 +158,7 @@
           punctuation</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-10">formalities</change>
+        <change who="#ff" when="2018-02-16">correct speaker tags in monologues</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -635,7 +636,8 @@
             <speaker>Добчинский.</speaker>
             <p>Неожиданное известие!</p>
           </sp>
-          <sp who="#Gorodnichij #AmmosFedorovichLjapkinTjapkin #Pochtmejster #LukaLukich #ArtemijFilippovichZemljanika #ChastnyjPristav #Lekar #Kvartalnyj">
+          <sp
+            who="#Gorodnichij #AmmosFedorovichLjapkinTjapkin #Pochtmejster #LukaLukich #ArtemijFilippovichZemljanika #ChastnyjPristav #Lekar #Kvartalnyj">
             <speaker>Все.</speaker>
             <p>Что, что такое?</p>
           </sp>
@@ -1056,8 +1058,9 @@
         <head>Действие второе</head>
         <div type="scene">
           <head>Явление I</head>
-          <stage>Осип лежит на барской постеле.</stage>
           <sp who="#Osip">
+            <speaker>Осип</speaker>
+            <stage>лежит на барской постеле.</stage>
             <p>Черт побери, есть так хочется и в животе трескотня такая, как будто бы целый полк
               затрубил в трубы. Вот не доедем, да и только, домой! Что ты прикажешь делать? Второй
               месяц пошел, как уже из Питера! Профинтил дорогою денежки, голубчик, теперь сидит и
@@ -1209,8 +1212,9 @@
         </div>
         <div type="scene">
           <head>Явление III</head>
-          <stage>Хлестаков один.</stage>
-          <sp>
+          <sp who="#Hlestakov">
+            <speaker>Хлестаков</speaker>
+            <stage>один.</stage>
             <p>Ужасно как хочется есть! Так немножко прошелся, думал, не пройдет ли аппетит, – нет,
               черт возьми, не проходит. Да, если б в Пензе я не покутил, стало бы денег доехать
               домой. Пехотный капитан сильно поддел меня: штосы удивительно, бестия, срезывает.
@@ -1293,8 +1297,9 @@
         </div>
         <div type="scene">
           <head>Явление V</head>
-          <stage>Хлестаков один.</stage>
-          <sp>
+          <sp who="#Hlestakov">
+            <speaker>Хлестаков</speaker>
+            <stage>один.</stage>
             <p>Это скверно, однако ж, если он совсем ничего не даст есть. Так хочется, как еще
               никогда не хотелось. Разве из платья что-нибудь пустить в оборот? Штаны, что ли,
               продать? Нет, уж лучше поголодать, да приехать домой в петербургском костюме. Жаль,
@@ -2993,7 +2998,8 @@
             <p>Что вы! что вы: Цицерон! Смотрите, что выдумали! Что иной раз увлечешься говоря о
               домашней своре или гончей ищейке...</p>
           </sp>
-          <sp who="#ArtemijFilippovichZemljanika #Pochtmejster #LukaLukich #Dobchinskij #Bobchinskij">
+          <sp
+            who="#ArtemijFilippovichZemljanika #Pochtmejster #LukaLukich #Dobchinskij #Bobchinskij">
             <speaker>Все</speaker>
             <stage type="delivery">(пристают к нему).</stage>
             <p>Нет, вы не только о собаках, вы и о столпотворении... Нет, Аммос Федорович, не
@@ -3020,8 +3026,9 @@
         </div>
         <div type="scene">
           <head>Явление II</head>
-          <stage>Хлестаков один, выходит с заспанными глазами.</stage>
-          <sp>
+          <sp who="#Hlestakov">
+            <speaker>Хлестаков</speaker>
+            <stage>один, выходит с заспанными глазами.</stage>
             <p>Я, кажется, всхрапнул порядком. Откуда они набрали таких тюфяков и перин? даже
               вспотел. Кажется, они вчера мне подсунули чего-то за завтраком: в голове до сих пор
               стучит. Здесь, как я вижу, можно с приятностию проводить время. Я люблю радушие, и
@@ -3630,8 +3637,9 @@
         </div>
         <div type="scene">
           <head>Явление VIII</head>
-          <stage>Хлестаков один.</stage>
-          <sp>
+          <sp who="#Hlestakov">
+            <speaker>Хлестаков</speaker>
+            <stage>один.</stage>
             <p>Здесь много чиновников. Мне кажется, однако ж, они меня принимают за государственного
               человека. Верно, я вчера им подпустил пыли. Экое дурачье! Напишу-ка я обо всем в
               Петербург к Тряпичкину: он пописывает статейки – пусть-ка он их общелкает хорошенько.
@@ -5106,7 +5114,8 @@
             <p>Удивительное дело, господа! Чиновник, которого мы приняли за ревизора, был не
               ревизор.</p>
           </sp>
-          <sp who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+          <sp
+            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Как не ревизор?</p>
           </sp>
@@ -5181,7 +5190,8 @@
             <p>Эх, Антон Антонович! что Сибирь? далеко Сибирь. Вот лучше я вам прочту. Господа!
               позвольте прочитать письмо!</p>
           </sp>
-          <sp who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+          <sp
+            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #ArtemijFilippovichZemljanika #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Читайте, читайте!</p>
           </sp>
@@ -5302,7 +5312,8 @@
             <speaker>Почтмейстер.</speaker>
             <p>Нет, всё читайте! ведь прежде все читано.</p>
           </sp>
-          <sp who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #Pochtmejster #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
+          <sp
+            who="#Gorodnichij #AnnaAndreevna #MarjaAntonovna #Kuptsy #AmmosFedorovichLjapkinTjapkin #Pochtmejster #Rastakovskij #Korobkin #ZhenaKorobkina #Ljuljukov #Bobchinskij #Dobchinskij #LukaLukich #ZhenaLukiLukicha #ChastnyjPristav #MnogieIzGostej #Gostja">
             <speaker>Все.</speaker>
             <p>Отдайте, Артемий Филиппович, отдайте письмо!</p>
             <stage type="delivery">(Коробкину.)</stage>
