@@ -264,8 +264,9 @@
         <stage type="delivery">Те же и Еремеевна.</stage>
         <sp who="#Eremeevna">
           <speaker>Еремеевна.</speaker>
-          <p>Здравствуй, батюшка Преслеп Трифонович!.. Соломонида Прохоровна! <stage type="delivery">(Целуется.)</stage> Невеста красная! <stage type="delivery">(Целуется.)</stage>
-                    </p>
+          <p>Здравствуй, батюшка Преслеп Трифонович!.. Соломонида Прохоровна! <stage type="delivery"
+              >(Целуется.)</stage> Невеста красная! <stage type="delivery">(Целуется.)</stage>
+          </p>
         </sp>
         <sp who="#Preslep">
           <speaker>Преслеп.</speaker>
@@ -416,8 +417,8 @@
         </sp>
         <sp who="#Neoh">
           <speaker>Неох</speaker>
-          <stage type="delivery">(во сне)</stage>
-          <p>. Врёшь, дурак? Щет сыщи…</p>
+          <stage type="delivery">(во сне).</stage>
+          <p>Врёшь, дурак? Щет сыщи…</p>
         </sp>
         <sp who="#Pimen">
           <speaker>Пимен.</speaker>
@@ -466,8 +467,8 @@
         </sp>
         <sp who="#Neoh">
           <speaker>Неох</speaker>
-          <stage type="delivery">(во сне)</stage>
-          <p>. Я караул закричу.</p>
+          <stage type="delivery">(во сне).</stage>
+          <p>Я караул закричу.</p>
         </sp>
         <sp who="#ZhenaPreslepa">
           <speaker>Соломонида.</speaker>
@@ -475,8 +476,8 @@
         </sp>
         <sp who="#Neoh">
           <speaker>Неох</speaker>
-          <stage type="delivery">(во сне)</stage>
-          <p>. Расплатись да и поезжай.</p>
+          <stage type="delivery">(во сне).</stage>
+          <p>Расплатись да и поезжай.</p>
         </sp>
         <sp who="#ZhenaPreslepa">
           <speaker>Соломонида.</speaker>
@@ -484,8 +485,8 @@
         </sp>
         <sp who="#Neoh">
           <speaker>Неох</speaker>
-          <stage type="delivery">(во сне)</stage>
-          <p>. <stage type="delivery">(Схватил сына)</stage>. А вот не уедешь! Караул, в магистрат
+          <stage type="delivery">(во сне).</stage>
+          <p><stage type="delivery">(Схватил сына)</stage>. А вот не уедешь! Караул, в магистрат
             беглеца!</p>
         </sp>
         <sp who="#Pimen">
@@ -497,7 +498,7 @@
           <p>А… ты тут, сын. А мне пригрезилось. <stage type="delivery">(Зевает.)</stage> Ну, что вы
             тут поговариваете; говорите, только полегоньку, мне спать помешали. Пожалуйста, дайте
             заснуть, вот тут на стуле, я вам не мешаю. <stage type="delivery">(Засыпает.)</stage>
-                    </p>
+          </p>
         </sp>
         <sp who="#ZhenaPreslepa">
           <speaker>Соломонида.</speaker>
@@ -528,8 +529,8 @@
         </sp>
         <sp who="#ZhenaPreslepa">
           <speaker>Соломонида</speaker>
-          <stage type="delivery">(Пимену)</stage>
-          <p>. Ну, поди ж теперь, друг мой, домой. Когда нужда в тебе будет, я пришлю; да смотри ж,
+          <stage type="delivery">(Пимену).</stage>
+          <p>Ну, поди ж теперь, друг мой, домой. Когда нужда в тебе будет, я пришлю; да смотри ж,
             изготовь, что я говорила, а ежели нет, так сам будешь во всём виноват.</p>
         </sp>
         <sp who="#Pimen">
@@ -565,7 +566,7 @@
           <speaker>Еремеевна.</speaker>
           <p>Пойдём, батюшка Преслеп Трифонович, и моё дело очесливое. <stage type="delivery">(Оба
               уходят.)</stage>
-                    </p>
+          </p>
         </sp>
       </div>
       <div type="scene">
@@ -591,7 +592,7 @@
             <stage type="delivery">(отворя дверь)</stage>. Просим-сте жаловать, Тарас Федулович!
               <stage type="delivery">(Скотинин входит, за ним сваха, за свахой жених, а за женихом
               дружка.)</stage>
-                    </p>
+          </p>
         </sp>
         <sp who="#Skotinin">
           <speaker>Скотинин.</speaker>
@@ -601,8 +602,9 @@
         </sp>
         <sp who="#Preslep">
           <speaker>Преслеп.</speaker>
-          <p>Садиться милости просим, гости дорогие!.. Хозяйка, кланяйся; пожалуйте. <stage type="delivery">(Кланяется.)</stage>
-                    </p>
+          <p>Садиться милости просим, гости дорогие!.. Хозяйка, кланяйся; пожалуйте. <stage
+              type="delivery">(Кланяется.)</stage>
+          </p>
         </sp>
         <sp who="#Skotinin">
           <speaker>Скотинин.</speaker>
@@ -637,7 +639,7 @@
           <p>Вот те на, садись добро. За вашими пустяками да мне не подносят, садись, да и все
             садитесь. <stage type="delivery">(Парасковья подносит рюмки, за ней с подносом мать, на
               коем дары.)</stage>
-                    </p>
+          </p>
         </sp>
         <sp who="#Skotinin">
           <speaker>Скотинин.</speaker>
@@ -664,7 +666,7 @@
           <speaker>Преслеп.</speaker>
           <p>Всеуниженно благодарствуем! Хозяйка, кланяйся! <stage type="delivery">(После чего всем
               тем же порядком подносят вино и дары.)</stage>
-                    </p>
+          </p>
         </sp>
         <sp who="#Skotinin">
           <speaker>Скотинин.</speaker>
@@ -889,7 +891,7 @@
         <sp who="#Skotinin">
           <speaker>Скотинин.</speaker>
           <p>Да для чего не петь? <stage type="delivery">(Поёт грубо.)</stage>
-                    </p>
+          </p>
           <l>Удал добрый молодец!</l>
           <l>Их, ах, ох,</l>
           <l>Схватил чару зелена вина!</l>
@@ -1057,7 +1059,8 @@
         <sp who="#Skotinin">
           <speaker>Скотинин</speaker>
           <p>
-            <stage type="delivery">(во сне)</stage>. Я с ума сошёл? Врёшь, дурак! Зашибу <stage type="delivery">(размахивается и просыпается)</stage>.</p>
+            <stage type="delivery">(во сне)</stage>. Я с ума сошёл? Врёшь, дурак! Зашибу <stage
+              type="delivery">(размахивается и просыпается)</stage>.</p>
         </sp>
         <sp who="#Preslep">
           <speaker>Преслеп.</speaker>
@@ -1067,7 +1070,7 @@
           <speaker>Скотинин.</speaker>
           <p>Насильно? Кто? Кого? За что? Я здесь. <stage type="delivery">(Вскоча, наткнулся на
               пьяного Неоха, схватив его.)</stage>
-                    </p>
+          </p>
         </sp>
         <sp who="#Neoh">
           <speaker>Неох</speaker>
@@ -1081,7 +1084,7 @@
             <stage type="delivery">(бросясь между ними, разнял)</stage>. Господин Скотитин! Впредь
             прошу так не бредить; а иначе за отца моего вступлюсь… Батюшка, не убил ли он вас?
               <stage type="delivery">(Сажает его.)</stage>
-                    </p>
+          </p>
         </sp>
         <sp who="#Neoh">
           <speaker>Неох.</speaker>
@@ -1107,8 +1110,9 @@
         <sp who="#Tsyfirkin">
           <speaker>Цыфиркин.</speaker>
           <p>Смотри, брат, после того, что ты слышал <stage type="delivery">(тихо)</stage>, чтоб она
-            не размножила на лбу твоём вот этих риторических фигур. <stage type="delivery">(Показывает рога.)</stage>
-                    </p>
+            не размножила на лбу твоём вот этих риторических фигур. <stage type="delivery"
+              >(Показывает рога.)</stage>
+          </p>
         </sp>
         <sp who="#Kutejkin">
           <speaker>Кутейкин.</speaker>
@@ -1118,8 +1122,9 @@
           <speaker>Цыфиркин.</speaker>
           <p>Так провались же ты к чёрту. Давно закаивался я с тобой знаться. Смотрите, добрые люди!
             Эдакий жид! Для прибытку ему всё ничего. Эк ныне корысть как людьми ворочает! Только
-            пускай чёрт будет твоим дружкой, а я не хочу. Прощай! <stage type="delivery">(Уходит.)</stage>
-                    </p>
+            пускай чёрт будет твоим дружкой, а я не хочу. Прощай! <stage type="delivery"
+              >(Уходит.)</stage>
+          </p>
         </sp>
       </div>
       <div type="scene">
@@ -1160,7 +1165,7 @@
           <speaker>Кутейкин.</speaker>
           <p>О горе мне!.. Отъеду отселе. <stage type="delivery">(Уходят, Скотинин толкает Неоха; он
               проснулся.)</stage>
-                    </p>
+          </p>
         </sp>
       </div>
       <div type="scene">
@@ -1284,7 +1289,8 @@
         <sp who="#Eremeevna">
           <speaker>Еремеевна.</speaker>
           <p>И, моя матушка! Нет снегу, так нет и следу. <stage type="delivery">(Про себя.)</stage>
-            Слава богу, что не вытолкали ещё в шею; эк меня занесло нелёгкое <stage type="delivery">(уходит)</stage>.</p>
+            Слава богу, что не вытолкали ещё в шею; эк меня занесло нелёгкое <stage type="delivery"
+              >(уходит)</stage>.</p>
         </sp>
       </div>
       <div type="scene">
