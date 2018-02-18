@@ -47,114 +47,163 @@
         <listPerson>
           <person xml:id="njanja" sex="FEMALE">
             <persName>Няня</persName>
+            <persName xml:lang="de">Kinderfrau</persName>
           </person>
           <person xml:id="anna_pavlovna" sex="FEMALE">
             <persName>Анна Павловна</persName>
+            <persName xml:lang="de">Anna Pavlovna</persName>
           </person>
           <person xml:id="sasha" sex="FEMALE">
             <persName>Саша</persName>
+            <persName xml:lang="de">Saša</persName>
           </person>
-          <person xml:id="gornichnaja" sex="MALE">
+          <person xml:id="gornichnaja" sex="FEMALE">
             <persName>Горничная</persName>
+            <persName xml:lang="de">Dienstmädchen</persName>
           </person>
           <person xml:id="karenin" sex="MALE">
             <persName>Каренин</persName>
+            <persName xml:lang="de">Karenin</persName>
           </person>
-          <person xml:id="liza" sex="MALE">
+          <person xml:id="liza" sex="FEMALE">
             <persName>Лиза</persName>
+            <persName xml:lang="de">Liza</persName>
           </person>
           <person xml:id="afremov" sex="MALE">
             <persName>Афремов</persName>
+            <persName xml:lang="de">Afremov</persName>
           </person>
           <person xml:id="fedja" sex="MALE">
             <persName>Федя</persName>
+            <persName xml:lang="de">Fedâ</persName>
           </person>
           <person xml:id="tsygan" sex="MALE">
             <persName>Цыган</persName>
+            <persName xml:lang="de">Zigeuner</persName>
           </person>
           <person xml:id="ofitser" sex="MALE">
             <persName>Офицер</persName>
+            <persName xml:lang="de">Offizier</persName>
           </person>
           <person xml:id="muzykant" sex="MALE">
             <persName>Музыкант</persName>
+            <persName xml:lang="de">Musiker</persName>
           </person>
-          <person xml:id="tsyganka" sex="MALE">
+          <person xml:id="tsyganka" sex="FEMALE">
             <persName>Цыганка</persName>
+            <persName xml:lang="de">Zigeunerin</persName>
           </person>
-          <person xml:id="masha" sex="MALE">
+          <person xml:id="masha" sex="FEMALE">
             <persName>Маша</persName>
+            <persName xml:lang="de">Maša</persName>
           </person>
           <person xml:id="doktor" sex="MALE">
             <persName>Доктор</persName>
+            <persName xml:lang="de">Arzt</persName>
           </person>
           <person xml:id="korotkov" sex="MALE">
             <persName>Коротков</persName>
+            <persName xml:lang="de">Korotkov</persName>
           </person>
           <person xml:id="stahovich" sex="MALE">
             <persName>Стахович</persName>
+            <persName xml:lang="de">Stahovič</persName>
           </person>
-          <person xml:id="lakej" sex="MALE">
-            <persName>Лакей</persName>
+          <person xml:id="lakej_2-2-2" sex="MALE">
+            <persName>Лакей (II/2/2)</persName>
+            <persName xml:lang="de">Lakai (II/2/2)</persName>
           </person>
           <person xml:id="butkevich" sex="MALE">
             <persName>Буткевич</persName>
+            <persName xml:lang="de">Butkevič</persName>
           </person>
-          <person xml:id="anna_dmitrievna" sex="MALE">
+          <person xml:id="lakej_3-1-2" sex="MALE">
+            <persName>Лакей (III/1/2)</persName>
+            <persName xml:lang="de">Lakai (III/1/2)</persName>
+          </person>
+          <person xml:id="anna_dmitrievna" sex="FEMALE">
             <persName>Анна Дмитриевна</persName>
+            <persName xml:lang="de">Anna Dmitrievna</persName>
           </person>
           <person xml:id="knjaz_abrezkov" sex="MALE">
             <persName>Князь Абрезков</persName>
+            <persName xml:lang="de">Fürst Abrezkov</persName>
           </person>
-          <person xml:id="nastasja_ivanovna" sex="MALE">
+          <person xml:id="lakej_3-1-5" sex="MALE">
+            <persName>Лакей (III/1/5)</persName>
+            <persName xml:lang="de">Lakai (III/1/5)</persName>
+          </person>
+          <person xml:id="nastasja_ivanovna" sex="FEMALE">
             <persName>Настасья Ивановна</persName>
+            <persName xml:lang="de">Nastasʹâ Ivanovna</persName>
           </person>
           <person xml:id="ivan_makarovich" sex="MALE">
             <persName>Иван Макарович</persName>
+            <persName xml:lang="de">Ivan Makarovič</persName>
           </person>
           <person xml:id="polovoj" sex="MALE">
             <persName>Половой</persName>
+            <persName xml:lang="de">Kellner</persName>
           </person>
           <person xml:id="ivan_petrovich" sex="MALE">
             <persName>Иван Петрович</persName>
+            <persName xml:lang="de">Ivan Petrovič</persName>
+          </person>
+          <person xml:id="lakej_4-2-3" sex="MALE">
+            <persName>Лакей (IV/2/3)</persName>
+            <persName xml:lang="de">Lakai (IV/2/3)</persName>
           </person>
           <person xml:id="voznesenskij" sex="MALE">
             <persName>Вознесенский</persName>
+            <persName xml:lang="de">Voznesenskij</persName>
           </person>
           <person xml:id="petushkov" sex="MALE">
             <persName>Петушков</persName>
+            <persName xml:lang="de">Petuškov</persName>
           </person>
           <person xml:id="artemev" sex="MALE">
             <persName>Артемьев</persName>
+            <persName xml:lang="de">Artemʹev</persName>
           </person>
           <person xml:id="malchik" sex="MALE">
             <persName>Мальчик</persName>
+            <persName xml:lang="de">Kind</persName>
           </person>
-          <person xml:id="marja_vasilevna" sex="MALE">
+          <person xml:id="marja_vasilevna" sex="FEMALE">
             <persName>Марья Васильевна</persName>
+            <persName xml:lang="de">Marʹâ Vasilʹevna</persName>
           </person>
           <person xml:id="sudebnyj_sledovatel" sex="MALE">
             <persName>Судебный следователь</persName>
+            <persName xml:lang="de">Untersuchungsrichter</persName>
           </person>
           <person xml:id="melnikov" sex="MALE">
             <persName>Мельников</persName>
+            <persName xml:lang="de">Melʹnikov</persName>
           </person>
           <person xml:id="pismovoditel" sex="MALE">
             <persName>Письмоводитель</persName>
+            <persName xml:lang="de">Protokollführer</persName>
           </person>
           <person xml:id="kurer" sex="MALE">
             <persName>Курьер</persName>
+            <persName xml:lang="de">Gerichtsdiener</persName>
           </person>
           <person xml:id="molodoj_advokat" sex="MALE">
             <persName>Молодой адвокат</persName>
+            <persName xml:lang="de">Junger Anwalt</persName>
           </person>
-          <person xml:id="dama" sex="MALE">
+          <person xml:id="dama" sex="FEMALE">
             <persName>Дама</persName>
+            <persName xml:lang="de">Dame</persName>
           </person>
           <person xml:id="petrushin" sex="MALE">
             <persName>Петрушин</persName>
+            <persName xml:lang="de">Petrušin</persName>
           </person>
           <person xml:id="sudejskij" sex="MALE">
             <persName>Судейский</persName>
+            <persName xml:lang="de">Gerichtsdiener</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -1581,7 +1630,7 @@
               <speaker>Афремов.</speaker>
               <p>Что ты?</p>
             </sp>
-            <sp who="#lakej">
+            <sp who="#lakej_2-2-2">
               <speaker>Лакей.</speaker>
               <p>Госпожа приехали, спрашивают Федор Васильевича.</p>
             </sp>
@@ -1589,7 +1638,7 @@
               <speaker>Афремов.</speaker>
               <p>Какая? дама?</p>
             </sp>
-            <sp who="#lakej">
+            <sp who="#lakej_2-2-2">
               <speaker>Лакей.</speaker>
               <p>Не могу знать. Только настоящая дама.</p>
             </sp>
@@ -1924,7 +1973,7 @@
           <div type="scene">
             <head>ЯВЛЕНИЕ ВТОРОЕ</head>
             <stage>Анна Дмитриевна и лакей.</stage>
-            <sp who="#lakej">
+            <sp who="#lakej_3-1-2">
               <speaker>Лакей.</speaker>
               <p>Князь Сергей Дмитриевич.</p>
             </sp>
@@ -2184,7 +2233,7 @@
               <speaker>Каренин.</speaker>
               <p>Я уйду.</p>
             </sp>
-            <sp who="#lakej">
+            <sp who="#lakej_3-1-5">
               <speaker>Лакей.</speaker>
               <p>Лизавета Андреевна Протасова.</p>
             </sp>
@@ -3335,7 +3384,7 @@
           <div type="scene">
             <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
             <stage>Те же и лакей.</stage>
-            <sp who="#lakej">
+            <sp who="#lakej_4-2-3">
               <speaker>Лакей.</speaker>
               <p>Господин Вознесенский.</p>
             </sp>
