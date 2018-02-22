@@ -106,7 +106,7 @@
             <persName>Клешнин</persName>
             <persName xml:lang="de">Klešnin</persName>
           </person>
-          <person xml:id="godunov" sex="MALE">
+          <person xml:id="boris_godunov" sex="MALE">
             <persName>Борис Федорович Годунов</persName>
             <persName xml:lang="de">Boris Fedorovič Godunov</persName>
           </person>
@@ -114,7 +114,7 @@
             <persName>Князь Туренин</persName>
             <persName xml:lang="de">Fürst Turenin</persName>
           </person>
-          <person xml:id="fedor" sex="MALE">
+          <person xml:id="fedor_ivanovich" sex="MALE">
             <persName>Царь Федор Иоаннович</persName>
             <persName xml:lang="de">Zar Fedor Ioannovič</persName>
           </person>
@@ -917,7 +917,7 @@
             <l>А брата побоку! И со владыкой</l>
             <l>Идут к царю!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— в раздумье.</stage>
             <l>Семь лет прошло с тех пор,</l>
@@ -955,7 +955,7 @@
             <l>Когда б ты здравствовал, уж как бы ты</l>
             <l>И Шуйских и Нагих поуспокоил!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Из Углича к нам не было вестей?</l>
           </sp>
@@ -1002,7 +1002,7 @@
             <l>Твоя судьба висит на волоске —</l>
             <l>Тебе решиться надо!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— вставая.</stage>
             <l>Я решился.</l>
@@ -1011,7 +1011,7 @@
             <speaker>Туренин</speaker>
             <l>На что?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>На мир.</l>
           </sp>
@@ -1020,7 +1020,7 @@
             <stage type="delivery">— вместе.</stage>
             <l>Как? С Шуйскими на мир?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Мы завтра же друзьями учинимся.</l>
           </sp>
@@ -1036,7 +1036,7 @@
             <l>Тебе сказать: ты не с ума ли спятил?</l>
             <l>Ведь ты козла в свой пустишь огород!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Когда, шумя, в морскую бурю волны</l>
             <l>Грозят корабль со грузом поглотить, —</l>
@@ -1051,7 +1051,7 @@
             <l>К ним, что ль, пойдешь? Аль их к себе попросишь?</l>
             <l>Кто мир устроит между вас?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Сам царь.</l>
             <stage type="delivery">Стольник отворяет дверь.</stage>
@@ -1061,7 +1061,7 @@
             <l>А вот и царь!</l>
             <stage type="delivery">Входить цар ФЕДОР. — За ним СТРЕМЯННЫЙ.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Стремянный! Отчего</l>
             <l>Конь подо мной вздыбился?</l>
@@ -1074,7 +1074,7 @@
             <l>Ты ж дернул за поводья, конь с испугу</l>
             <l>И стал дыбиться.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Самого меня</l>
             <l>Он испугал. Стремянный, не давать</l>
@@ -1093,7 +1093,7 @@
             <l>Лет двадцать пять. На нем покойный царь</l>
             <l>Еще езжал.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я, впрочем, может быть,</l>
             <l>Сам виноват. Я слишком сильно стиснул</l>
@@ -1104,7 +1104,7 @@
             <speaker>Стремянный</speaker>
             <l>С испугу, государь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, так и быть, уж я его прощу;</l>
             <l>Но ездить я на нем не буду боле.</l>
@@ -1117,7 +1117,7 @@
             <speaker>Ирина</speaker>
             <l>Здорово, свет! Никак ты уморился?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, да, устал. От самого Андронья</l>
             <l>Все ехал рысью. Здесь же, у крыльца,</l>
@@ -1131,7 +1131,7 @@
             <l>Готов, свет-государь,</l>
             <l>Покушай на здоровье!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как же, как же!</l>
             <l>Сейчас пойдем обедать. Я от этой</l>
@@ -1144,12 +1144,12 @@
             <l>Мстиславская! Она пришлася Шуйским</l>
             <l>Племянницей. Видал ее ты, шурин?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Нет, государь; мы с Шуйскими давно уж</l>
             <l>Не видимся.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Жаль, шурин, очень жаль!…</l>
             <l>Высокая, и стройная такая,</l>
@@ -1160,7 +1160,7 @@
             <l>Да у тебя уж, Федор,</l>
             <l>Зазнобы нет ли к ней?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>И брови, знаешь,</l>
             <l>Какие у нее!</l>
@@ -1170,7 +1170,7 @@
             <l>Да ты и впрям</l>
             <l>Уж много говоришь о ней!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— лукаво.</stage>
             <l>А что ж,</l>
@@ -1181,18 +1181,18 @@
             <speaker>Ирина</speaker>
             <l>Стыдись, она невеста!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, она</l>
             <l>Посватана за Шаховского. Шурин,</l>
             <l>Ты Шаховского знаешь, князь Григорья?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Знавал когда-то, царь, но он ведь ныне</l>
             <l>Сторонник Шуйских.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Шурин, даже грустно</l>
             <l>Мне слышать это: тот сторонник Шуйских,</l>
@@ -1200,24 +1200,24 @@
             <l>Что вместе все одной Руси лишь будут</l>
             <l>Сторонники?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я рад бы, государь,</l>
             <l>За мной не стало б дело, если б знал я,</l>
             <l>Как помириться?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Право, шурин? Право?</l>
             <l>Зачем же ты мне прежде не сказал?</l>
             <l>Я помирю вас! Завтра же тебя</l>
             <l>Я с князь Иван Петровичем сведу!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Царь, я готов, но, кажется —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ни, ни!</l>
             <l>Ты этого, Борис, не разумеешь!</l>
@@ -1237,7 +1237,7 @@
             <l>Такая, видно, горькая уж доля</l>
             <l>Мне выпала!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— обнимая ее.</stage>
             <l>Родимая моя!</l>
@@ -1259,7 +1259,7 @@
             <l>Того, кем ты всех боле ненавидим?</l>
             <l>А после что ж?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>А после — мы увидим!</l>
             <stage type="delivery">Уходят.</stage>
@@ -1274,7 +1274,7 @@
             пяльцах. — По левую, сидят в креслах ДИОНИСИЙ, митрополит всея Руси; ВАРЛААМ,
             архиепископ Крутицкий; ИОВ, архиепископ Ростовский, и БОРИС ГОДУНОВ. — Кругом стоят
             бояре.</stage>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Владыко Дионисий! Отче Иов!</l>
             <l>Ты, отче Варлаам! Я вас позвал,</l>
@@ -1292,12 +1292,12 @@
             <l>И первый Шуйским руку протянуть.</l>
             <l>Не так ли, шурин?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Твоему желанью</l>
             <l>Повиноваться — долг мой, государь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Спасибо, шурин! Ты писанье помнишь</l>
             <l>И свято исполняешь. Только вот,</l>
@@ -1311,11 +1311,11 @@
             <l>И что отныне ты со всеми ими</l>
             <l>В согласии быть хочешь.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я готов.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Спасибо, шурин! Он ведь муж военный,</l>
             <l>Он взрос в строю, среди мечей железных,</l>
@@ -1337,7 +1337,7 @@
             <l>Князь Шуйский спорит с шурином твоим,</l>
             <l>Его склонять готов я к миру.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Отче,</l>
             <l>Мы все стоим за церковь! И Борис,</l>
@@ -1356,7 +1356,7 @@
             <l>Как правые, отпущены, к соблазну</l>
             <l>Всех христиан.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Владыко, те купцы</l>
             <l>С немецкими торгуют городами,</l>
@@ -1369,7 +1369,7 @@
             <l>А ересь ни во что</l>
             <l>Ты ставишь их?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Избави Бог, владыко!</l>
             <l>Уж царь послал наказы воеводам</l>
@@ -1377,7 +1377,7 @@
             <l>Но соблазненных отличает царь</l>
             <l>От соблазнителей.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Конечно, шурин!</l>
             <l>Но самых соблазнителей, владыко,</l>
@@ -1397,7 +1397,7 @@
             <l>И старые с них править недоборы,</l>
             <l>Забытые от прежних лет!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Владыко,</l>
             <l>Великий царь предупредил твое</l>
@@ -1409,7 +1409,7 @@
             <l>И о решении всяких дел не царским,</l>
             <l>Но собственным твоим судом.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, отче,</l>
             <l>Он написал ее, а я печать</l>
@@ -1424,7 +1424,7 @@
             <l>Ее права и выгоды блюсти —</l>
             <l>То прошлое да будет позабыто!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Так, так, владыко! Отче Варлаам,</l>
             <l>Ты помоги владыке!</l>
@@ -1435,7 +1435,7 @@
             <l>Что в деле сем святой владыко скажет,</l>
             <l>Я повторю охотно.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Отче Иов,</l>
             <l>И на тебя рассчитываю я!</l>
@@ -1447,7 +1447,7 @@
             <l>А наше дело Господу молиться</l>
             <l>О тишине и мире!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>И тебя,</l>
             <l>Аринушка, прошу я: если Шуйский</l>
@@ -1469,7 +1469,7 @@
             <l>Тебя гневит, то князь Иван Петрович</l>
             <l>Ослушаться тебя не будет властен.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, да, конечно, я ему велю,</l>
             <l>Я прикажу ему! А вы, бояре,</l>
@@ -1485,7 +1485,7 @@
             <l>Царь-государь, когда б его лишь милость,</l>
             <l>На Шуе князь, нам рты разинуть дал!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что ты понес? Какой он князь на Шуе?</l>
           </sp>
@@ -1504,7 +1504,7 @@
             <l>И что тебя хотели б упросить</l>
             <l>Царевича взять на Москву обратно.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Димитрия? Да я и сам бы рад!</l>
             <l>Сердечный он! Ему, я чай, там скучно,</l>
@@ -1520,7 +1520,7 @@
             <l>Он знал Нагих, он воли не давал им,</l>
             <l>И шурин твой на привязи их держит!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Негоже ты, Петрович, говоришь,</l>
             <l>Они дядья царевичу, Петрович!</l>
@@ -1533,7 +1533,7 @@
             <l>При батюшке твоем понабралось бы</l>
             <l>И более, пожалуй!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Полно, полно!</l>
             <l>Мне Митя брат, ему ж дядья Нагие,</l>
@@ -1545,7 +1545,7 @@
             <l>Тебя долой хотели бы с престола,</l>
             <l>А своего царенка на престол?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как смеешь ты?</l>
           </sp>
@@ -1554,7 +1554,7 @@
             <l>И Шуйских тож хвалить,</l>
             <l>Что за одно идут они с Нагими?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я говорю тебе: молчи! Молчи!</l>
             <l>Сейчас молчи!</l>
@@ -1564,13 +1564,13 @@
             <stage type="delivery">— отходя к окну.</stage>
             <l>Ну, что ж? И замолчу!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к Годунову.</stage>
             <l>Не позволяй ему в другой раз, шурин,</l>
             <l>Порочить мачиху и брата!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Царь,</l>
             <l>Он человек усердный и простой! <stage type="delivery">— Крики на площади.</stage></l>
@@ -1580,7 +1580,7 @@
             <stage type="delivery">— глядя в окно.</stage>
             <l>Ну, вон идут!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Кто?</l>
           </sp>
@@ -1589,7 +1589,7 @@
             <stage type="delivery">— смотрят в окно.</stage>
             <l>Шуйские идут!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— подходит к окну.</stage>
             <l>Как? Уж пришли?</l>
@@ -1607,7 +1607,7 @@
             <l>Его ведут! Не бось, и государя</l>
             <l>Так не честят они!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Смотри же, шурин,</l>
             <l>Не забывай, что ты мне обещал!</l>
@@ -1634,7 +1634,7 @@
             <l>Великий царь! По твоему указу</l>
             <l>Пред очи мы явилися твои!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Встань, князь Иван Петрович! Встань скорее!</l>
             <l>Тебе так быть негоже!</l>
@@ -1648,7 +1648,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Так, государь.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я рад, я очень рад!</l>
             <l>Я поздравляю вас! Так вот я, князь,</l>
@@ -1666,7 +1666,7 @@
             <l>А шурин твой. Поддакивать ему</l>
             <l>Довольно есть бояр и без меня!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Иван Петрович! Мне прискорбно видеть,</l>
             <l>Что меж тобой и шурином моим</l>
@@ -1678,7 +1678,7 @@
             <speaker>Дионисий</speaker>
             <l>Истинно велел!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Вот видишь, князь? Что говорит апостол</l>
             <l>В послании в коринфянам? «Молю вы…»</l>
@@ -1691,7 +1691,7 @@
             <l>«Не будут в вас, да в том же разумении</l>
             <l>«И в той же мысли будете!»</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Вот видишь!</l>
             <l>А как в своем послании соборном</l>
@@ -1707,7 +1707,7 @@
             <l>Апостольское слово исполняет</l>
             <l>Во истину!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, отче Иов, да!</l>
             <l>Ты, князь Иван Петрович, будь уверен,</l>
@@ -1717,7 +1717,7 @@
             <stage type="delivery">тихо к Годунову.</stage>
             <l>Кончай же, шурин!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Князь Иван Петрович!</l>
             <l>Уже давно о нашей долгой распре</l>
@@ -1735,7 +1735,7 @@
             <l>Чтобы могли теперь без договора</l>
             <l>Сойтися вдруг!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Какого договора</l>
             <l>Ты хочешь, князь?</l>
@@ -1752,7 +1752,7 @@
             <l>А пятый — ты. Кто ж ныне, говори,</l>
             <l>Кто государством правит?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Царь Феодор</l>
             <l>Иванович, его же царской воли</l>
@@ -1776,7 +1776,7 @@
             <l>И в самые церковные права.</l>
             <l>Роптали все —</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Князь, дай мне слово молвить —</l>
           </sp>
@@ -1791,7 +1791,7 @@
             <l>Я все сказал. Пускай же в этом деле</l>
             <l>Нас царь рассудит!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Князь Иван Петрович!</l>
             <l>Великий царь меж нас желает мира,</l>
@@ -1849,7 +1849,7 @@
             <l>Всю Русь опутал сетью, и покоя</l>
             <l>Нет от тебя нигде и никому!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Когда земля, по долгом неустройстве,</l>
             <l>В порядок быть должна приведена,</l>
@@ -1881,7 +1881,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Не чисто!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>А в остальном надеюся я с вами,</l>
             <l>Князья, сойтись. Уж миновала ныне</l>
@@ -1898,7 +1898,7 @@
             <l>С учением Спасителя, и вредной</l>
             <l>Для государства.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Отче, я уверен,</l>
             <l>Они того не захотят! Не правда ль?</l>
@@ -1980,13 +1980,13 @@
             <l>Нас усыпить, чтоб тем вернее после</l>
             <l>Погибель нашу уготовить?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Князь,</l>
             <l>Залогом вам мое да будет слово</l>
             <l>И вместе с ним ручательство царя.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, да, князья, я за него ручаюсь!</l>
           </sp>
@@ -1996,7 +1996,7 @@
             <l>Которые, защите нашей веря,</l>
             <l>К нам мыслили?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Их ни единый волос</l>
             <l>Не упадет, и ни единым пальцом</l>
@@ -2007,7 +2007,7 @@
             <l>И будешь ты на том</l>
             <l>Крест целовать пред государем?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Буду!</l>
           </sp>
@@ -2026,7 +2026,7 @@
             <stage type="delivery">— к Годунову.</stage>
             <l>Вот моя рука!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Друзья мои! Спасибо вам, спасибо!</l>
             <l>Аринушка, вот это в целой жизни</l>
@@ -2047,7 +2047,7 @@
             <l>Целую крест Спасителя Христа!</l>
             <stage type="delivery">Прикладывается ко кресту.</stage>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Целую крест, что с Шуйскими отныне</l>
             <l>Мне пребывать в согласьи и в любви,</l>
@@ -2057,7 +2057,7 @@
             <l>Ничем не мстить за прежние вины!</l>
             <stage type="delivery">Прикладывается ко кресту.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Вот это так! Вот это значит: прямо</l>
             <l>Писание исполнить! Обнимитесь!</l>
@@ -2072,7 +2072,7 @@
             <l>Чем кончилась сегодня наша встреча</l>
             <l>С боярином. Дозволь, я выйду к ним.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, нет, останься! Сами пусть они</l>
             <l>Сюда прийдут. Пусть умилятся, глядя</l>
@@ -2087,7 +2087,7 @@
             <l>Да их, я чай, там сотен будет с двадцать,</l>
             <l>Аршинников!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Зачем же всех? Зачем?</l>
             <l>Пусть выборных пришлют!</l>
@@ -2103,7 +2103,7 @@
             <l>Что отвечать? Но здесь другое дело,</l>
             <l>Я рад их видеть!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Государь, боюсь,</l>
             <l>Тебе их вздорных жалоб не избыть;</l>
@@ -2125,7 +2125,7 @@
             <l>Что светлые свои повидеть очи</l>
             <l>Ты нас пожаловал!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Вставайте, люди!</l>
             <l>Я рад вас видеть. Я послал за вами</l>
@@ -2143,7 +2143,7 @@
             <l>Подняться-то не хватит силы! Больно</l>
             <l>Уж древен стал я, государь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к другим.</stage>
             <l>Возьмите ж</l>
@@ -2158,7 +2158,7 @@
             <l>Богдан Семенов Курюков,</l>
             <l>Московский гость!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Который год тебе?</l>
           </sp>
@@ -2175,7 +2175,7 @@
             <l>В ту пору их чеканил. Лет мне будет,</l>
             <l>Пожалуй, за сто!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Дедушка, да ты</l>
             <l>Шатаешься! Бояре, вы б ему</l>
@@ -2186,7 +2186,7 @@
             <l>Помилуй, царь!</l>
             <l>Как при твоей мне милости сидеть!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да ты ведь больно стар, ведь ты, я чаю,</l>
             <l>Уж много видел на своем веку?</l>
@@ -2219,7 +2219,7 @@
             <l>Одни горланят: Телепня Овчину!</l>
             <l>Другие: Шуйских! и пошла катать!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>То грех великий, дедушка!</l>
           </sp>
@@ -2242,7 +2242,7 @@
             <l>И пыток уж каких мы насмотрелись!</l>
             <l>Бывало, вдруг…</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я, дедушка, позвал вас,</l>
             <l>Чтоб вам сказать…</l>
@@ -2252,7 +2252,7 @@
             <l>Бывало, грянут бубны,</l>
             <l>Чтобы народ на площадь шел…</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я вас</l>
             <l>Велел позвать…</l>
@@ -2274,7 +2274,7 @@
             <l>Дай досказать. Вот мы придем на площадь,</l>
             <l>Ан там стоят…</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к молодому.</stage>
             <l>Так ты — ему племянник?</l>
@@ -2294,7 +2294,7 @@
             <stage type="delivery">— дергая его за полу.</stage>
             <l>Богдан Семеныч! Что ты?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к молодому.</stage>
             <l>Твое лицо мне кажется знакомо?</l>
@@ -2303,7 +2303,7 @@
             <speaker>Курюков</speaker>
             <l>С секирами…</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к молодому.</stage>
             <l>Где видел я тебя?</l>
@@ -2320,7 +2320,7 @@
             <speaker>Курюков</speaker>
             <l>С секирами стоят…</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да что ты дедушка, одно наладил!</l>
             <l>Что, в самом деле? Что тут вспоминать?</l>
@@ -2338,7 +2338,7 @@
             <l>Красильников, великий государь,</l>
             <l>Иван Артемов!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, да — да, да — да!</l>
             <l>Красильников! Аринушка, представь:</l>
@@ -2353,13 +2353,13 @@
             <l>Пока совсем не выбился из сил</l>
             <l>И на бок не свалился!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Государь,</l>
             <l>Ты этим людям повестить хотел</l>
             <l>О нашем примирении.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к Красильникову.</stage>
             <l>У тебя</l>
@@ -2376,7 +2376,7 @@
             <l>Слышь, выходи к царю!</l>
             <stage type="delivery">Голубь выступает вперед и кланяется.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Здорово, Голубь!</l>
             <l>Что как живешь? Что сила-то? Что сила?</l>
@@ -2389,7 +2389,7 @@
             <l>Царь-государь, Господь нас не обидел,</l>
             <l>Мы силою своей довольны!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к Шаховскому.</stage>
             <l>Князь!</l>
@@ -2435,7 +2435,7 @@
             <l>Свет-государь, не позволяй им биться;</l>
             <l>Час неровен, не долго до беды!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты думаешь, Аринушка?</l>
             <stage type="delivery">К Шаховскому и Голубю.</stage>
@@ -2449,7 +2449,7 @@
             <l>Великий царь — дозволь я повещу им,</l>
             <l>Зачем ты их позвать велел!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, ну,</l>
             <l>Добро, скажи им!</l>
@@ -2543,7 +2543,7 @@
             <l>Когда он крест — вы слышите ли? крест —</l>
             <l>В том целовал?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— тихо к Клешнину.</stage>
             <l>Заметь их имена</l>
@@ -2559,7 +2559,7 @@
             <l>Помилуй, государь! Не оставляй нас.</l>
             <l>Теперь пропали мы!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да что вы? Что вы?</l>
             <l>С чего вы взяли? От кого мне, люди,</l>
@@ -2577,7 +2577,7 @@
             <l>Твой шурин</l>
             <l>Ведь нас теперь совсем заест!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как можно!</l>
             <l>Кто вам сказал? Мой шурин любит вас!</l>
@@ -2596,7 +2596,7 @@
             <l>Чтоб нас Борис Феодорыч не трогал!</l>
             <l>Вели ему!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, хорошо! Пустите!</l>
             <l>Мне некогда! Скажите все Борису!</l>
@@ -2609,7 +2609,7 @@
             <l>Яви нам милость! Выслушай нас, царь!</l>
             <l>Дозволь тебе —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— затыкая уши.</stage>
             <l>Ай-ай, ай-ай, ай-ай!</l>
@@ -3599,7 +3599,7 @@
           <head>Покой царя Федора.</head>
           <stage>Входит ГОДУНОВ, в сопровождении дьяка, который кладет на стол связку бумаг и две
             государственные печати, большую и малую. — Из другой двери входит КЛЕШНИН.</stage>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— к Клешнину.</stage>
             <l>Ты все ль исполнил?</l>
@@ -3611,7 +3611,7 @@
             <l>Эх, кабы нам из Углича прислали</l>
             <l>Ту грамоту!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Ты мне ее, немедля,</l>
             <l>Тогда подашь.</l>
@@ -3626,7 +3626,7 @@
             <l>К нему вошел.</l>
             <stage type="delivery">Входит из другой двери ФЕДОР. За ним ДУХОВНИК с иконой.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Аринушка, здорово!</l>
             <l>Здорово, шурин! А ведь я проспал</l>
@@ -3648,7 +3648,7 @@
             <l>Нет, не то,</l>
             <l>Чтоб грешен был, а все ж недобрый сон.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Брат Дмитрий также снился мне и плакал,</l>
             <l>И что-то с ним ужасное случилось,</l>
@@ -3659,7 +3659,7 @@
             <l>Ты, ложася спать,</l>
             <l>Усерднее молися, государь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Брр! Скверный сон!</l>
             <stage type="delivery">Увидя бумаги.</stage>
@@ -3667,22 +3667,22 @@
             <l>Надоедать мне хочешь снова, шурин?</l>
             <l>Надоедать?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Не долго, государь,</l>
             <l>Я задержу тебя; твое согласье</l>
             <l>Лишь нужно мне для некоторых дел.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>А без меня покончить их нельзя?</l>
             <l>Я не совсем здоров.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Два слова только.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, так и быть. Ты, отче-духовник,</l>
             <l>Угодника на полицу поставь,</l>
@@ -3695,7 +3695,7 @@
             <l>Иоанна</l>
             <l>Ветхопещерника.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я житие</l>
             <l>Его в Минеях перечту, лишь только</l>
@@ -3706,30 +3706,30 @@
             <l>Ну, что там, шурин, в связке у тебя?</l>
             <l>Уж так и быть, вытаскивай!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— вынимая из связей несколько листов.</stage>
             <l>Нам пишут</l>
             <l>Украинские воеводы, царь,</l>
             <l>Что хан опять орду на север двинул.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да это сон мой в руку! Не достало</l>
             <l>Еще, чтоб ты стал Шуйского душить!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— кладет перед ним бумаги.</stage>
             <l>Вот, государь, наказы воеводам.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Прихлопни их!</l>
             <stage type="delivery">Годунов передает бумаги дьяку, который прикладывает к ним
               печать.</stage>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— подавая другую бумагу.</stage>
             <l>А это, государь,</l>
@@ -3737,57 +3737,57 @@
             <l>Тебе челом, и просит у тебя,</l>
             <l>Чтоб ты его в свое подданство принял.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Царь Иверский? А где его земля?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Она граничит с царством Кизилбашским,</l>
             <l>Обильна хлебом, шелком и вином,</l>
             <l>И дорогими, кровными конями.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Так ею мне челом он бьет? Ты слышишь,</l>
             <l>Аринушка? Ты слышишь? Вот чудак!</l>
             <l>Что вздумалось ему?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Его теснят</l>
             <l>Персидский царь с султаном турским.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Бедный!</l>
             <l>Он православной веры?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Православной.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, что ж? Скорей принять его в подданство!</l>
             <l>И знаешь, шурин, надо бы ему</l>
             <l>Подарок приготовить. Что бы нам,</l>
             <l>Аринушка, послать ему?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Сперва,</l>
             <l>Вот эту грамоту с твоим согласьем</l>
             <l>И с вызовом послов его к Москве.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, хорошо, привешивай печать,</l>
             <l>Привешивай!</l>
             <stage type="delivery">Дьяк привешивает печать.</stage>
             <l>А это что такое?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>То князю Троекурову наказ,</l>
             <l>Как говорить ему на польском сейме,</l>
@@ -3798,7 +3798,7 @@
             <l>И что они поднесть уже готовы</l>
             <l>Тебе корону.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Мне? помилуй, шурин!</l>
             <l>Что я с ней делать буду? Мне и так</l>
@@ -3809,25 +3809,25 @@
             <l>Добро тот царь; а эти что? Латинцы!</l>
             <l>Враги Руси!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Затем-то, государь,</l>
             <l>Престолом их ты брезгать и не должен,</l>
             <l>Чтоб слугами их сделать из врагов.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты думаешь? Ну, хлоп по ней! Вот так!</l>
             <l>Что, все теперь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Еще две челобитни</l>
             <l>От двух бояр, при батюшке твоем</l>
             <l>В Литву бежавших. У тебя они</l>
             <l>Теперь вернуться просят позволенья.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Кто ж им мешает? Милости прошу!</l>
             <l>Да их, я чай, туда бежало много?</l>
@@ -3840,22 +3840,22 @@
             <l>Земли и денег, если пожелают</l>
             <l>Вернуться к нам.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я так и думал, царь,</l>
             <l>И грамоту о том уж изготовил.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, хорошо, прихлопни ж и ее!</l>
             <l>Что, все теперь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Все, государь.</l>
             <stage type="delivery">Дьяк берет печати, собирает бумаги и уходит.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, шурин,</l>
             <l>Тебя я доле не держу. А ты,</l>
@@ -3873,7 +3873,7 @@
             <l>О позволении просит, на Москву</l>
             <l>Вернуться с сыном, с Дмитрием, своим.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Аринушка, да как же? Ты ведь знаешь,</l>
             <l>Ведь я давно прошу о том Бориса,</l>
@@ -3886,7 +3886,7 @@
             <l>То я подумала, что ты вернуть</l>
             <l>И мачиху и брата согласишься.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Аринушка, помилуй! Разве я</l>
             <l>Не рад вернуть их?</l>
@@ -3902,7 +3902,7 @@
             <l>Оно твое, семейное; и ты,</l>
             <l>Один лишь ты, судьею быть в нем должен!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Борис, ты слышишь что она сказала?</l>
             <l>Ведь это правда! Ты ведь, в самом деле,</l>
@@ -3912,7 +3912,7 @@
             <l>Когда я так сказал, уж я от слова</l>
             <l>Не отступлю!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— к Ирине.</stage>
             <l>Не дельно ты, сестра,</l>
@@ -3920,16 +3920,16 @@
             <stage type="delivery">К Федору.</stage>
             <l>Царевича вернуть нельзя.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как? Как?</l>
             <l>Когда уж я сказал, что я хочу?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Дозволь мне, государь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, это слишком!</l>
             <l>Я не ребенок! Это...</l>
@@ -3941,13 +3941,13 @@
             <l>Князь Иван</l>
             <l>Петрович Шуйский!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— к стольнику.</stage>
             <l>Царь его сегодня</l>
             <l>Принять не может!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Кто тебе сказал?</l>
             <l>Впустить, его!</l>
@@ -3968,7 +3968,7 @@
             <l>На шурина на твоего тебе</l>
             <l>Я бью челом!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как? На Бориса?</l>
           </sp>
@@ -3976,7 +3976,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Да!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что сделал он?</l>
           </sp>
@@ -3984,7 +3984,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Свою солживил клятву!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что? Что ты, князь?</l>
           </sp>
@@ -3994,7 +3994,7 @@
             <l>Как он клялся, что ни единым пальцом</l>
             <l>Не тронет он сторонников моих?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Конечно слышал! Ну?</l>
           </sp>
@@ -4005,7 +4005,7 @@
             <l>Ты говорил, велел схватить насильно</l>
             <l>И отвезти неведомо куда!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Позволь, позволь — тут что-нибудь не так!</l>
           </sp>
@@ -4013,11 +4013,11 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Спроси его!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>То правда ль, шурин?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Правда.</l>
           </sp>
@@ -4025,21 +4025,21 @@
             <speaker>Ирина</speaker>
             <l>Помилуй, брат!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Побойся Бога, шурин!</l>
             <l>Как мог ты это сделать!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я нашел,</l>
             <l>Что их в Москве оставить не годится.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>А клятва? Клятва?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я клялся не мстить им</l>
             <l>За прежние вины — и я не мстил.</l>
@@ -4048,11 +4048,11 @@
             <l>Хотели снова с Шуйскими поссорить,</l>
             <l>Чему ты был свидетель, государь.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, разве так! Но все же надо было —</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Дивлюся я, что князь Иван Петрович</l>
             <l>Стоит за тех, которые так дерзко</l>
@@ -4067,7 +4067,7 @@
             <l>Тебе и мне, когда, в руках владыки,</l>
             <l>Он честный крест на криве целовал?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, шурин, нет, ты учинил не так!</l>
             <l>Твои слова мы поняли не так!</l>
@@ -4079,7 +4079,7 @@
             <l>Тобою освященную, дерзнул</l>
             <l>Попрать ногами?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Этого не будет!</l>
             <l>Купцов вернут сегодня ж!</l>
@@ -4091,7 +4091,7 @@
             <l>Меня ж бесчестным сделал пред народом —</l>
             <l>По прежнему землею будет править?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Но, князь, позволь.... тут не было обмана....</l>
             <l>Вы только ведь не поняли друг друга....</l>
@@ -4115,46 +4115,46 @@
             <l>Не оставляй наследника престола</l>
             <l>В таких руках!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, нет, на этом, князь,</l>
             <l>Спокоен будь! Уж я сказал Борису,</l>
             <l>Что Дмитрия хочу я взять к себе!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>А я на то ответил государю,</l>
             <l>Что в Угличе остаться должен он.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как? Ты опять? Ты споришь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Государь,</l>
             <l>Дозволь тебе сказать —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, не дозволю!</l>
             <l>Я царь, или не царь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Дай объяснить мне....</l>
             <l>Лишь выслушай....</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>И слушать не хочу!</l>
             <l>Я царь, или не царь? Царь, иль не царь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Ты царь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Довольно! Больше и не надо!</l>
             <l>Ты слышала, Арина? Князь, ты слышать?</l>
@@ -4192,7 +4192,7 @@
             <l>Или его за вероломство должен</l>
             <l>Ты отрешить!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да я ведь уж исправил</l>
             <l>Его вину перед тобой? Чего же</l>
@@ -4204,7 +4204,7 @@
             <l>Князь Иван Петрович,</l>
             <l>Мне кажется —</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Оставь его, сестра!</l>
             <l>Царя избавлю я от затрудненья</l>
@@ -4219,21 +4219,21 @@
             <l>Мою же речь отвергнул наотрез.</l>
             <l>Дозволь мне удалиться.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что ты? Что ты?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Кому прикажешь, государь, дела</l>
             <l>Мне передать?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да ты меня не понял!</l>
             <l>Ах, Боже мой! что ты наделал, князь!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Нет, государь, твою я волю понял:</l>
             <l>Тебе угодно тех людей, которых</l>
@@ -4246,7 +4246,7 @@
             <l>Исполнится, но на себя ответа</l>
             <l>Я не беру!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да я не знал, Борис,</l>
             <l>Что есть такие важные причины!</l>
@@ -4256,7 +4256,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Прости, великий царь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Князь! Князь! Куда?</l>
           </sp>
@@ -4265,7 +4265,7 @@
             <l>Куда-нибудь подале,</l>
             <l>Чтоб не видать, как царь себя срамит!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Князь, погоди, мы все уладим —</l>
           </sp>
@@ -4276,32 +4276,32 @@
             <l>Мне стыдно за тебя — прости!</l>
             <stage type="delivery">Уходит.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Князь! Князь!</l>
             <l>Ах, Боже мой — ушел! И этот вот</l>
             <l>Меня оставить хочет! Шурин, ты —</l>
             <l>Ты пошутил! А что ж с землею будет?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Великий царь, могу ль тебе служить я,</l>
             <l>Когда ты руки связываешь мне?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да нету, шурин, нету! Будет все</l>
             <l>По твоему. Ну, что ж? Согласен ты?</l>
             <l>Да, шурин? Да?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>На этом уговоре,</l>
             <l>Великий царь, согласен я, но помни,</l>
             <l>Что только так могу я продолжать</l>
             <l>Тебе служить.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Спасибо же тебе!</l>
             <l>Спасибо, шурин. Знаешь ли, теперь</l>
@@ -4311,7 +4311,7 @@
             <stage type="delivery">Входит КЛЕШНИН, подает ГОДУНОВУ бумаги и уходит. — ГОДУНОВ
               пробегает их и передает ФЕДОРУ.</stage>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Государь,</l>
             <l>Сперва прочти вот это донесенье</l>
@@ -4320,7 +4320,7 @@
             <l>Сторонник Шуйских, написал к Нагим;</l>
             <l>Его прислал с нарочным Битяговсвий.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— смотрит в бумаги.</stage>
             <l>Ну, что же тут? «И в пьяном виде часто</l>
@@ -4334,11 +4334,11 @@
             <l>«И хвалятся, что, с помощию Шуйских,</l>
             <l>«Они царя....» Помилуй, быть не может!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Ты грамоту прочти Головина.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— читает про себя, останавливается и качает головой.</stage>
             <l>Меня согнать с престола? Боже мой,</l>
@@ -4353,28 +4353,28 @@
             <l>Разрухи, смуты, разоренье царству —</l>
             <l>Не хорошо!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Теперь ты видишь, царь,</l>
             <l>Зачем Нагим нельзя позволить было</l>
             <l>Вернуться на Москву?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Не хорошо!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Ты благодушно, царь, об этом судишь,</l>
             <l>А между тем, великая опасность</l>
             <l>Грозит земле. Не терпит время. Нам</l>
             <l>Решительное надо сделать дело!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Какое дело, шурин?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Государь,</l>
             <l>Из грамоты Головина ты видишь,</l>
@@ -4382,71 +4382,71 @@
             <l>Ты должен приказать, не медля, Шуйских</l>
             <l>Под стражу взять.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Под стражу? Как? Ивана</l>
             <l>Петровича под стражу? А потом?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Потом — когда себя он не очистит —</l>
             <l>Он должен быть —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что должен быть?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Казнен.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как? Князь Иван Петрович? Тот, который</l>
             <l>Был здесь сейчас? Которого сейчас я</l>
             <l>Брал за руку?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Да, государь.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>С которым</l>
             <l>Тебя, вчера я помирил?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Тот самый.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Он? С братьями казнен?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Со всеми, кто</l>
             <l>Причастен к их измене.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>И с Нагими?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Без Шуйских эти не опасны, царь.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Того казнить сбираешься ты, шурин,</l>
             <l>Кто землю спас?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Того, кто посягает</l>
             <l>На твой престол.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>И это все затем,</l>
             <l>Что, в пьяном виде, на меня Нагие</l>
@@ -4456,7 +4456,7 @@
             <l>Ты с тем лишь мне служить еще согласен,</l>
             <l>Чтоб я тебе их выдал головой?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Лишь только так могу я, государь,</l>
             <l>Тебе за целость царства отвечать.</l>
@@ -4464,7 +4464,7 @@
             <l>Раз навсегда, дозволь мне удалиться,</l>
             <l>А на себя за все возьми ответ!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— после долгой борьбы.</stage>
             <l>Да, шурин, да! Я в этом на себя</l>
@@ -4484,11 +4484,11 @@
             <l>Довольно крови на Руси лилося</l>
             <l>При батюшке, Господь ему прости!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Но, государь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я знаю что ты скажешь:</l>
             <l>Что через это царство замутится?</l>
@@ -4499,11 +4499,11 @@
             <l>Я должен оставаться; я не вправе</l>
             <l>Хитро вперед рассчитывать что будет!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Но, государь, подумай....</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что тут думать?</l>
             <l>Что думать, шурин? Дело решено.</l>
@@ -4511,13 +4511,13 @@
             <l>Свободен ты; оставь меня теперь;</l>
             <l>Мне одному остаться надо, шурин!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я ухожу, великий государь!...</l>
           </sp>
           <stage type="delivery">Направляется медленно к двери, но прежде, чем отворить ее,
             оборачивается на ФЕДОРА. — ФЕДОР дает ему уйти, и кидается на шею ИРИНЕ.</stage>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Аринушка! Родимая моя!</l>
             <l>Ты, может быть, винишь меня за то,</l>
@@ -4529,7 +4529,7 @@
             <l>Ты ангела лишь слушай своего,</l>
             <l>И ты не ошибешься!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, я тоже</l>
             <l>Так думаю, Аринушка. Что ж делать,</l>
@@ -4540,7 +4540,7 @@
             <l>Ты весь дрожишь, и сердце у тебя</l>
             <l>Так сильно бьется!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Бок болит немного;</l>
             <l>Аринушка, я не пойду к обедне.</l>
@@ -4787,7 +4787,7 @@
           <head>Дом Годунова.</head>
           <stage>ГОДУНОВ, в волнении, ходит взад и вперед. — КЛЕШНИН стоит, прислонясь к
             печи.</stage>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я отрешен! Сам Федор словно нудит</l>
             <l>Меня свершить чего б я не хотел!</l>
@@ -4815,7 +4815,7 @@
             <l>Единым словом: баба хоть куда!</l>
             <l>Она уж здесь. Звать, что ль, к тебе?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Не нужно.</l>
             <l>Ты скажешь ей, чтобы она блюла</l>
@@ -4830,7 +4830,7 @@
             <l>То лоб потрет, то за ухом почешет,</l>
             <l>И ничего, сердечный, не поймет!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Не выдержит.</l>
             <stage type="delivery">Задумывается.</stage>
@@ -4849,7 +4849,7 @@
             <l>А посмотреть</l>
             <l>Ее не хочешь, батюшка?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Не нужно!</l>
             <stage type="delivery">Про себя.</stage>
@@ -5067,7 +5067,7 @@
             <speaker>Ирина</speaker>
             <l>Ты отдохнул бы, Федор.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ничего</l>
             <l>Понять нельая! Борис нарочно мне</l>
@@ -5081,7 +5081,7 @@
             <speaker>Ирина</speaker>
             <l>Так ты его не выпишешь?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Вот видишь,</l>
             <l>Аринушка, когда бы согласился</l>
@@ -5092,7 +5092,7 @@
             <l>На его ты место</l>
             <l>Еще не выбрал никого?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ведь ты же,</l>
             <l>Ты ж говорила: лучше подождать.</l>
@@ -5114,7 +5114,7 @@
             <speaker>Клешнин</speaker>
             <l>От хворого.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Откуда?</l>
           </sp>
@@ -5123,7 +5123,7 @@
             <l>От хворого от твоего слуги,</l>
             <l>От Годунова.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Разве он хворает?</l>
           </sp>
@@ -5133,7 +5133,7 @@
             <l>Его, за все заслуги, словно пса,</l>
             <l>Ты выгнал вон! Здорово, мол, живешь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Помилуй, я…</l>
           </sp>
@@ -5146,7 +5146,7 @@
             <l>Так уж поставишь на своем, хоть там</l>
             <l>Весь свет трещи!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я знаю сам, Петрович,</l>
             <l>Что я суров…</l>
@@ -5155,7 +5155,7 @@
             <speaker>Клешнин</speaker>
             <l>Весь в батюшку пошел!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Я знаю сам — но неужель Борис</l>
             <l>Не помирится, если я скажу,</l>
@@ -5169,7 +5169,7 @@
             <l>Немедленно под стражу — и он снова</l>
             <l>Тебе слуга!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как? Он не перестал</l>
             <l>Подозревать?</l>
@@ -5185,7 +5185,7 @@
             <l>Согнать долой. Ты, батюшка, Старкова</l>
             <l>Хоть сам спроси!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Уж эти мне доносы!</l>
             <l>Я в первый раз Старкова имя слышу,</l>
@@ -5210,7 +5210,7 @@
             <speaker>Клешнин</speaker>
             <l>Как? Он сам?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— радостно.</stage>
             <l>Пришел!</l>
@@ -5221,7 +5221,7 @@
             <l>Вели его</l>
             <l>Под стражу взять!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Стыдись, стыдись, Петрович!</l>
             <stage type="delivery">К стольнику.</stage>
@@ -5243,7 +5243,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Государь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты, князь,</l>
             <l>Меня пойми: ведь я не сомневаюсь,</l>
@@ -5262,7 +5262,7 @@
             <l>Допрашивать меня не признаю</l>
             <l>Я права за тобой.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Князь, то не он, —</l>
             <l>То я прошу тебя!</l>
@@ -5272,7 +5272,7 @@
             <l>Вот я икону</l>
             <l>Сейчас сыму —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Не нужно тут иконы.</l>
             <l>Скажи по чести мне, по чести только!</l>
@@ -5293,7 +5293,7 @@
             <l>И впредь остаться верным, как он верен</l>
             <l>Доселе был!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, я хочу, Арина,</l>
             <l>Вот этого порядком пристыдить.</l>
@@ -5312,7 +5312,7 @@
             <stage type="delivery">— к Федору.</stage>
             <l>Свет-государь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, князь?</l>
           </sp>
@@ -5320,7 +5320,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Уволь меня!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Нет, не уволю!</l>
           </sp>
@@ -5328,7 +5328,7 @@
             <speaker>Клешнин</speaker>
             <l>Ты, чай, трусишь, князь?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Какое трусит? Он упрям и крут,</l>
             <l>Да я его и круче и упрямей!</l>
@@ -5340,7 +5340,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Так знай же все!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— с испугом.</stage>
             <l>Что? Что ты хочешь?...</l>
@@ -5350,7 +5350,7 @@
             <l>Да! Ты слышал правду —</l>
             <l>Я на тебя встал мятежом!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Помилуй —</l>
           </sp>
@@ -5362,7 +5362,7 @@
             <l>И вырвать Русь из рук у Годунова</l>
             <l>Решился я!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— вполголоса.</stage>
             <l>Тс! Тише!</l>
@@ -5375,7 +5375,7 @@
             <speaker>Клешнин</speaker>
             <l>Да продолжай же, князь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Молчи, молчи! Глаз на глаз скажешь мне!</l>
           </sp>
@@ -5388,7 +5388,7 @@
             <l>Не тебя, но брата</l>
             <l>Я твоего признал царем!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Петрович —</l>
             <l>Не верь ему! Не верь ему, Арина!</l>
@@ -5401,7 +5401,7 @@
             <l>Сторонников моих казнить — не будут</l>
             <l>Они тебе опасны без меня!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что ты несешь? Что ты городишь? Ты</l>
             <l>Не знаешь сам, какую небылицу</l>
@@ -5421,7 +5421,7 @@
             <l>Вишь, княжеская честь!</l>
             <l>И подгонять не надо!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— берет Шуйского в сторону.</stage>
             <l>Князь, послушай:</l>
@@ -5435,7 +5435,7 @@
             <stage type="delivery">— подходит к столу и берет печать.</stage>
             <l>Прихлопнуть, что ль, приказ?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Какой приказ? Ты ничего не понял!</l>
             <l>Я Митю сам велел царем поставить!</l>
@@ -5446,7 +5446,7 @@
             <speaker>Клешнин</speaker>
             <l>Да ты в уме ль?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— на ухо Шуйскому.</stage>
             <l>Ступай! Да ну, ступай же!</l>
@@ -5462,7 +5462,7 @@
             <l>Твоя от Бога, Федор Иоанныч —</l>
             <l>Я не могу подняться на тебя!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Иди, иди! Разделай что ты сделал!</l>
             <stage type="delivery">Вытесняет его из комнаты.</stage>
@@ -5480,7 +5480,7 @@
             <l>В нем нет уже нужды!</l>
             <l>Гроза прошла, не враг нам боле Шуйский!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Петрович, слышишь? Слышал ты, Петрович?</l>
             <l>Аринушка, ты ангел! От тебя</l>
@@ -5507,7 +5507,7 @@
             <l>Напрасно я от самого утра</l>
             <l>К тебе прошусь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да это Шаховской!</l>
           </sp>
@@ -5516,7 +5516,7 @@
             <stage type="delivery">— вбегают со стрельцами.</stage>
             <l>Хватайте вора!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Тише, тише, люди!</l>
             <l>Здесь вора нет!</l>
@@ -5530,7 +5530,7 @@
             <l>Казни меня, но выслушай! Тебя</l>
             <l>Хотят с твоей царицей развести!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты бредишь, князь!</l>
           </sp>
@@ -5546,7 +5546,7 @@
             <l>Мою невесту</l>
             <l>Они хотят посватать за тебя!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Кто? Кто они?</l>
           </sp>
@@ -5555,7 +5555,7 @@
             <l>Дядья моей невесты,</l>
             <l>Княжны Мстиславской, Шуйские князья!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да ты и впрямь помешан, князь!</l>
           </sp>
@@ -5585,7 +5585,7 @@
             <l>Не веришь, батюшка? Смотри, читай!</l>
             <stage type="delivery">Подает Федору бумагу.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— читает.</stage>
             <l>«Ты новый брак прийми, великий царь,</l>
@@ -5598,7 +5598,7 @@
             <l>Ты руку знаешь</l>
             <l>Иван Петровича? Читай же подпись!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— читает.</stage>
             <l>«И в том тебе соборне бьем челом</l>
@@ -5615,7 +5615,7 @@
             <speaker>Ирина</speaker>
             <l>Федор —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Он! Он! Пускай бы кто другой, но он!</l>
             <l>Нас разлучить с тобой!</l>
@@ -5625,7 +5625,7 @@
             <speaker>Ирина</speaker>
             <l>Опомнись, Федор!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Тебя сослать!</l>
           </sp>
@@ -5638,7 +5638,7 @@
             <l>Он мог ли мыслить выдать за тебя</l>
             <l>Мстиславскую?</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Тебя — мою Ирину —</l>
             <l>Тебя постричь!</l>
@@ -5647,7 +5647,7 @@
             <speaker>Ирина</speaker>
             <l>Ведь этого не будет!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— вскакивая.</stage>
             <l>Не будет! Нет! Не дам тебя в обиду!</l>
@@ -5660,7 +5660,7 @@
             <l>Напрасно ты тревожишься. Кто может</l>
             <l>Нас разлучить? Ты царь ведь!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, я царь!</l>
             <l>Они забыли, что я царь! Петрович —</l>
@@ -5672,7 +5672,7 @@
             <speaker>Ирина</speaker>
             <l>Что сделал ты —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Под стражу их! В тюрьму!</l>
           </sp>
@@ -5680,7 +5680,7 @@
             <speaker>Ирина</speaker>
             <l>Мой господин! Мой царь! Не торопись!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>В тюрьму! В тюрьму!</l>
           </sp>
@@ -5691,7 +5691,7 @@
             <l>Я не того просил! Я о невесте</l>
             <l>Тебя просил!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Борис вас разберет!</l>
           </sp>
@@ -5699,7 +5699,7 @@
             <speaker>Шаховской</speaker>
             <l>Он изведет их! Он погубит Шуйских!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Всех разберет он!</l>
           </sp>
@@ -5708,7 +5708,7 @@
             <l>Я палач им буду!</l>
             <l>Царь, смилуйся!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>В тюрьму! В тюрьму их!</l>
           </sp>
@@ -5726,7 +5726,7 @@
             <l><emph>Теперь</emph> в тюрьму, <emph>теперь</emph>, когда они</l>
             <l>Обвинены в измене!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ни, ни, ни,</l>
             <l>Аринушка! И не проси меня!</l>
@@ -6145,7 +6145,7 @@
         <div type="scene">
           <head>Покой в царском тереме.</head>
           <stage>ГОДУНОВ и КЛЕШНИН.</stage>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Сторонники захвачены ли Шуйских?</l>
           </sp>
@@ -6163,14 +6163,14 @@
             <l>По твоему боярскому указу,</l>
             <l>Василь Иваныч Шуйский приведен.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Впустить его.</l>
             <stage type="delivery">К Клешнину.</stage>
             <l>Ты нас одних оставишь.</l>
             <stage type="delivery">КЛЕШНИН и слуга уходят. — ВАСИЛИЙ ШУЙСКИЙ входить.</stage>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Здорово, князь. Мне ведомо, что дядю</l>
             <l>От заговора воровского ты</l>
@@ -6180,7 +6180,7 @@
             <speaker>Василий Шуйский</speaker>
             <l>Царю быть верным крест я целовал.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>И доводить на ворогов на царских.</l>
             <l>Но ты на князь Ивана не довел.</l>
@@ -6190,7 +6190,7 @@
             <l>Я знал, боярин, что через Старкова</l>
             <l>Все ведомо тебе.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>А знал ли ты,</l>
             <l>Что этот лист мне также ведом?</l>
@@ -6199,7 +6199,7 @@
             <speaker>Василий Шуйский</speaker>
             <l>Знал.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— показывая ему бумагу.</stage>
             <l>Ты сознаешься в подписи своей?</l>
@@ -6221,7 +6221,7 @@
             <l>Он нас бы выслушал, нам отказал бы,</l>
             <l>И все бы кончилося тихо.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Гладко</l>
             <l>Ты речь ведешь. Я верю ли тебе,</l>
@@ -6241,7 +6241,7 @@
             <l>Борис Феодорыч! О чем мне думать?</l>
             <l>Я твой слуга!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Мы поняли друг друга.</l>
             <l>Прости ж теперь, на деле я увижу,</l>
@@ -6256,7 +6256,7 @@
             <stage type="delivery">Входит ИРИНА, в сопровождении нескольких боярынь. ГОДУНОВ
               опускается перед ней на колени.</stage>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Великая царица — я не ждал</l>
             <l>Прихода твоего —</l>
@@ -6269,7 +6269,7 @@
             <l>Брат, не тебе — мне на коленях быть</l>
             <l>Пред тобой приходится!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— вставая.</stage>
             <l>Сестра,</l>
@@ -6280,7 +6280,7 @@
             <l>Прости меня — мне дорог каждый миг —</l>
             <l>Тебя вросить пришла я, брат!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>О чем?</l>
           </sp>
@@ -6288,7 +6288,7 @@
             <speaker>Ирина</speaker>
             <l>Ужели ты погубишь князь Ивана?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>В своей измене сам сознался он.</l>
           </sp>
@@ -6308,7 +6308,7 @@
             <l>Чего достичь не смог бы страхом казни</l>
             <l>Сам царь Иван!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Высокая гора</l>
             <l>Был царь Иван. Из недр ее удары</l>
@@ -6368,7 +6368,7 @@
             <l>Стыдится он, порукой нам, что нет</l>
             <l>У Федора слуги вернее!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Верю;</l>
             <l>Он вновь уже не встанет мятежем,</l>
@@ -6382,7 +6382,7 @@
             <l>В темнице он; ужели мщенья ты</l>
             <l>Послушаешь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Я мщения не знаю;</l>
             <l>Не слушаю ни дружбы, ни вражды;</l>
@@ -6395,7 +6395,7 @@
             <l>Подумай о его</l>
             <l>Заслугах, брат!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>За них приял он честь.</l>
           </sp>
@@ -6404,7 +6404,7 @@
             <l>К стенам Москвы с ордою подступает</l>
             <l>Ногайский хан. Кто даст ему отпор?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Не в первый раз Москва увидит хана.</l>
           </sp>
@@ -6413,7 +6413,7 @@
             <l>От Шуйского от одного она</l>
             <l>Спасенья ждет.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Она слепа сегодня</l>
             <l>Как и всегда. Опаснее, чем хан,</l>
@@ -6455,7 +6455,7 @@
             <l>Избави Бог тебе! Нет, я надеюсь</l>
             <l>На Федора!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Со мною хочешь снова</l>
             <l>Ты врозь идти?</l>
@@ -6464,7 +6464,7 @@
             <speaker>Ирина</speaker>
             <l>Пути различны наши.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Придет пора, и ты поймешь, Ирина,</l>
             <l>Что нам один с тобою путь.</l>
@@ -6477,7 +6477,7 @@
             <speaker>Ирина</speaker>
             <l>Брат, прости!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— с низким поклоном.</stage>
             <l>Прости меня, великая царица!</l>
@@ -6602,7 +6602,7 @@
             <speaker>Ирина</speaker>
             <p>— Нет еще, подождем, дитятко; видишь, он помолиться хочет.</p>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— становится на колени, лицом к собору.</stage>
             <l>Царь-батюшка! Ты, стольким покаяньем,</l>
@@ -6623,7 +6623,7 @@
             <stage type="delivery">— бросается в ноги Федору.</stage>
             <l>Царь-государь, помилуй!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Чего тебе, боярышня? Встань, встань!</l>
           </sp>
@@ -6631,7 +6631,7 @@
             <speaker>Княжна</speaker>
             <l>Помилуй дядю моего!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Кто ты?</l>
             <l>Кто дядя твой?</l>
@@ -6640,7 +6640,7 @@
             <speaker>Княжна</speaker>
             <l>Иван Петрович Шуйский!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Так ты княжна Мстиславская? Да, да,</l>
             <l>Я узнаю тебя!</l>
@@ -6652,7 +6652,7 @@
             <l>Она тебя со мною вместе молит.</l>
             <l>За князь Иван Петровича!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Арина,</l>
             <l>Что ты, Арина? Встань! Вставайте обе!</l>
@@ -6667,7 +6667,7 @@
             <l>Вели ему оборонять Москву,</l>
             <l>Как некогда он Псков оборонял!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну, хорошо, Арина, я и сам</l>
             <l>Хотел послать за ним — немного позже</l>
@@ -6676,29 +6676,29 @@
             <stage type="delivery">К Годунову.</stage>
             <l>Борис, пошли за ним!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Великий царь, ты сам же нам дозволил</l>
             <l>Начать сперва над Шуйскими допрос.</l>
             <l>Он начался —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Он должен прекратиться.</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Но, государь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты слышал мой приказ?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Великий царь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Не вовремя ты вздумал</l>
             <l>Перечить мне. От нынешнего дня</l>
@@ -6712,14 +6712,14 @@
             <l>Эвот, он идет!</l>
             <stage type="delivery">Подходит ТУРЕНИН.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— к Туренину.</stage>
             <l>Сейчас всех Шуйских свободить! Ивана ж</l>
             <l>Петровича ко мне прислать!</l>
             <stage type="delivery">Туренин не трогается с места.</stage>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты слышишь?</l>
             <l>Чего ты ждешь?</l>
@@ -6728,7 +6728,7 @@
             <speaker>Туренин</speaker>
             <l>Великий царь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Как смеешь</l>
             <l>Еще стоять ты предо мной, когда</l>
@@ -6740,7 +6740,7 @@
             <l>Не властен я твою исполнить волю....</l>
             <l>Иван Петрович —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ну?</l>
           </sp>
@@ -6748,7 +6748,7 @@
             <speaker>Туренин</speaker>
             <l>Он сею ночью —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что — сею ночью? Говори! Ну, что?</l>
           </sp>
@@ -6771,7 +6771,7 @@
             <l>Вломились бы!</l>
           </sp>
           <stage type="delivery">Княжна падает в обморок.</stage>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— смотрит страшно на Туренина.</stage>
             <l>Князь Шуйский удавился?</l>
@@ -6783,12 +6783,12 @@
             <stage type="delivery">К Годунову.</stage>
             <l>Ты ведал это?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Бог</l>
             <l>Свидетель мне — не ведал.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Палачей!</l>
             <l>Поставить плаху здесь, перед крыльцом!</l>
@@ -6805,7 +6805,7 @@
             <l>Из Углича, боярину Борису</l>
             <l>Феодорычу Годунову!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— вырывая грамоту у гонца.</stage>
             <l>Дай!</l>
@@ -6822,7 +6822,7 @@
             <stage type="delivery">— взглянув в грамоту.</stage>
             <l>Боже милосердый!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Что там, Арина? Что?</l>
           </sp>
@@ -6830,7 +6830,7 @@
             <speaker>Ирина</speaker>
             <l>Царевич Дмитрий —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Упал на нож? И закололся? Так ли?</l>
           </sp>
@@ -6838,7 +6838,7 @@
             <speaker>Ирина</speaker>
             <l>Так, Федор, так!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>В падучем он недуге</l>
             <l>Упал на нож? Да точно ль так, Арина?</l>
@@ -6853,7 +6853,7 @@
             <speaker>Ирина</speaker>
             <l>Всю Русь Господь бедою посетил!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Его любил как сына я — его —</l>
             <l>Хотел к себе я взять, но там оставил —</l>
@@ -6862,24 +6862,24 @@
             <l>Что скажет он теперь? Ах, да бишь! Он</l>
             <l>Уж ничего не скажет — он удавлен!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— который, между тем, поднял и прочел грамоту.</stage>
             <l>Великий царь —</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Ты, кажется, сказал:</l>
             <l>Он удавился? Митя ж закололся?</l>
             <l>Арина — а? Что, если —</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Государь,</l>
             <l>Тебе сейчас отправить в Углич надо</l>
             <l>Кого-нибудь....</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Зачем? Я сам отправлюсь!</l>
             <l>Я сам хочу увидеть Митю! Сам!</l>
@@ -6892,7 +6892,7 @@
             <l>Серпуховской дымы сторожевые</l>
             <l>Виднеются!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Великий государь,</l>
             <l>То хан идет. Чрез несколько часов</l>
@@ -6906,7 +6906,7 @@
             <l>Я, батюшка, хоть прост, а что увижу,</l>
             <l>То и скажу!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>А розыск учинить</l>
             <l>Об этом деле мог бы князь Василий</l>
@@ -6914,7 +6914,7 @@
             <l>И разберут, чьей в Угличе виной</l>
             <l>Беда случилась!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <stage type="delivery">— с недоумением.</stage>
             <l>Вправду? Вправду хочешь</l>
@@ -6953,7 +6953,7 @@
             <l>Царица, я</l>
             <l>Постричься бы хотела....</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, княжна,</l>
             <l>Да, постригись! Уйди, уйди от мира!</l>
@@ -6968,7 +6968,7 @@
             <l>В молитве мы у Бога утешенья</l>
             <l>Должны просить!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>В молитве? Да, Арина!</l>
             <l>Я в монастырь пойду, молиться буду —</l>
@@ -6980,7 +6980,7 @@
             <l>Венец наследный некому тебе</l>
             <l>Твой передать.</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Да, я последний в роде —</l>
             <l>Последний я. Что ж делать мне, Арина?</l>
@@ -6992,12 +6992,12 @@
             <l>Лишь он один. Оставь на нем одном</l>
             <l>Правления всю тягость и ответ!</l>
           </sp>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Так, так, Арина! не вмешаюсь боле</l>
             <l>Я ни во что!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— тихо к Ирине.</stage>
             <l>Пути сошлися наши!</l>
@@ -7013,7 +7013,7 @@
             <stage type="delivery">— к Годунову.</stage>
             <l>Полки тебя, боярин, в поле ждут!</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <stage type="delivery">— вооружаясь.</stage>
             <l>Все по местам!</l>
@@ -7024,7 +7024,7 @@
             <l>Ты сам ли встретить хана</l>
             <l>Нас поведешь?</l>
           </sp>
-          <sp who="#godunov">
+          <sp who="#boris_godunov">
             <speaker>Годунов</speaker>
             <l>Боярин князь Мстиславский!</l>
             <l>Я муж совета, ты же муж войны!</l>
@@ -7034,7 +7034,7 @@
           </sp>
           <stage type="delivery">Уходит со Мстиславским. Народ бежит за ними. На сцене остаются
             только ФЕДОР, ИРИНА и нищие.</stage>
-          <sp who="#fedor">
+          <sp who="#fedor_ivanovich">
             <speaker>Федор</speaker>
             <l>Бездетны мы с тобой, Арина, стали!</l>
             <l>Моей виной лишились брата мы!</l>
