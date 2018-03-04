@@ -11,7 +11,7 @@
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
         <idno type="URL">https://dracor.org/rus/ostrovsky-les</idno>
-        <idno type="RusDraCor">21593</idno>
+        <idno type="RusDraCor">147</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
@@ -111,7 +111,7 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
+        <change who="#ds" when="2018-03-04">converted from source</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
