@@ -199,9 +199,11 @@
           <stage type="delivery">(грозясь злобно на Шишкенгольма)</stage>
           <l>Обиженный сим мерзким,</l>
           <l>Ужо я вам задам!</l>
+          
           <stage>Уходит, захлопнув дверь. Все уселись заниматься. Тишина. Вдруг раздается торопливый
             стук в дверь.</stage>
         </sp>
+        <div type="configuration">
         <sp who="#Kasimov #Vihorin">
           <speaker>Касимов и Вихорин</speaker>
           <stage type="delivery">(за дверью)</stage>
@@ -303,6 +305,8 @@
               ним.)</stage>
                     </p>
         </sp>
+      </div>
+        <div type="configuration">
         <sp who="#MinaHristianovna">
           <speaker>Мина Христиановна</speaker>
           <stage type="delivery">(к Касимову и Вихорину)</stage>
@@ -322,6 +326,8 @@
           <stage>Молчание. Лиза, Касимов и Вихорин стоят печальные. Касимов начинает робко,
             нерешительно приближаться к Лизе.</stage>
         </sp>
+        </div>
+        <div type="configuration">
         <sp who="#Vihorin">
           <speaker>Вихорин</speaker>
           <stage type="delivery">(прикладывает палец ко лбу, ободряется и говорит в сторону)</stage>
@@ -331,6 +337,8 @@
               дверь.)</stage>
                     </p>
         </sp>
+        </div>
+        <div type="configuration">
         <sp who="#Kasimov">
           <speaker>Касимов</speaker>
           <stage type="delivery">(печально, со слезами в голосе)</stage>
@@ -382,6 +390,8 @@
           <l>Любви же шишек не дала!</l>
           <stage>(Рыдая, уходит большими шагами в среднюю дверь, держа платок у глаз.)</stage>
         </sp>
+        </div>
+        <div type="configuration">
         <sp who="#Liza">
           <speaker>Лиза</speaker>
           <stage type="delivery">(задумчиво, сдобным голосом и печально)</stage>
@@ -399,6 +409,7 @@
           пишу». Козьма Прутков так и сделал, написав рукой Владимира Жемчужникова при участии его
           брата Алексея оперетту «Черепослов, сиречь, Френолог», и построив центральную ее картину
           на озорных куплетах стареющего сказочника.</stage>
+        </div>
       </div>
       <div type="scene">
         <head>Картина II.— ПЫТКА</head>
