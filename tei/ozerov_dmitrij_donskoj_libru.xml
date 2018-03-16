@@ -19,7 +19,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Wikisource</name>
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
           <idno type="URL">http://az.lib.ru/o/ozerow_w_a/text_1807_dmitry_donskoy.shtml</idno>
           <availability>
             <licence>
@@ -2249,7 +2249,7 @@
             <speaker>Димитрий</speaker>
             <l>Пусть меч велит подать!</l>
           </sp>
-          <sp who="Ksenija">
+          <sp who="#Ksenija">
             <speaker>Ксения</speaker>
             <stage> становится между Димитрием и Тверским.</stage>
             <l>Нет, меч ему не нужен;</l>
@@ -2750,7 +2750,7 @@
             <speaker>Белозерский</speaker>
             <l>Димитрий!</l>
           </sp>
-          <sp who="Bojarin">
+          <sp who="#Bojarin">
             <speaker>Боярин</speaker>
             <stage> (бросаясь на колени перед Димитрием)</stage>
             <l>Государь!</l>
