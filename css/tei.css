@@ -1248,7 +1248,8 @@ castItem{
 castList{
   margin-bottom: 2em;
 }
-person{
+person,
+personGrp{
   display: block;
   content: "  ";
 }
@@ -1257,6 +1258,14 @@ person:before{
   content: "id:" attr(xml|id) " ";
 }
 person:after{
+  background-color: brown;
+  content: attr(sex) " ";
+}
+personGrp:before{
+  background-color: darkblue;
+  content: "id:" attr(xml|id) " ";
+}
+personGrp:after{
   background-color: brown;
   content: attr(sex) " ";
 }
