@@ -1677,15 +1677,18 @@
           <p>Господа, за здравие будущего гусарского юнкера! Пусть он будет первый рубака, первый
             волокита, первый пьяница, первый... словом, пусть его будет что хочет!</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#shvohnev #krugel #iharev">
           <speaker>Все.</speaker>
           <p>Пусть его будет что хочет!</p>
         </sp>
         <stage>Пьют.</stage>
         <sp who="#aleksandr_mihalych_glov">
           <speaker>Глов.</speaker>
-          <p>За здравие всего гусарства! <stage>(Подымая бокал.)</stage> Все. За здравие всего
-            гусарства!</p>
+          <p>За здравие всего гусарства! <stage>(Подымая бокал.)</stage></p>
+        </sp>
+        <sp who="#shvohnev #krugel #iharev #uteshitelnyj">
+          <speaker>Все.</speaker>
+          <p>За здравие всего гусарства!</p>
         </sp>
         <stage>Пьют.</stage>
         <sp who="#uteshitelnyj">
@@ -1918,7 +1921,7 @@
           <p>Что ты, что ты, брат, рехнулся? Слышите, слышите, господа, уж пистолет вздумал было
             всунуть в рот, а? Стыдись!</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#shvohnev #krugel #iharev">
           <speaker>Все</speaker>
           <stage>(приступая к нему).</stage>
           <p>Что ты? что ты? Помилуй, что ты?</p>
@@ -2011,7 +2014,7 @@
           <stage>(берет ассигнацию и помахивая ею на воздухе).</stage>
           <p>Шампанского!</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#shvohnev #krugel #iharev #uteshitelnyj">
           <speaker>Все.</speaker>
           <p>Шампанского!</p>
         </sp>
@@ -2027,7 +2030,7 @@
         </sp>
         <stage>Все приступают к нему, схватывают его за руки и ноги, качают, припевая на известный
           припев известную песню:</stage>
-        <sp who="#vse">
+        <sp who="#shvohnev #krugel #iharev #uteshitelnyj">
           <lg>
             <l>Мы тебя любим сердечно,</l>
             <l>Будь ты начальник наш вечно!</l>
@@ -2038,7 +2041,11 @@
         <sp who="#aleksandr_mihalych_glov">
           <speaker>Глов</speaker>
           <stage>(с поднятой рюмкой).</stage>
-          <p>Ура! Все. Ура!</p>
+          <p>Ура!</p>
+        </sp>
+        <sp who="#shvohnev #krugel #iharev #uteshitelnyj">
+          <speaker>Все.</speaker>
+          <p>Ура!</p>
         </sp>
         <stage>Становят его на землю. Глов хлопнул рюмку об пол, все разбивают тоже свои рюмки, кто
           о каблук своего сапога, кто о пол.</stage>
