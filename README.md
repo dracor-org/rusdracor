@@ -18,3 +18,17 @@ and on July 11, 2017, at the ["Digitizing the stage"
 conference](https://digitizingthestage.wordpress.com/) in Oxford. The social
 network data we extracted so far can also be explored with [our
 Shinyapp](https://shiny.dracor.org/).
+
+## API
+
+An easy way to download the network data (instead of the actual TEI files) is
+to use our API, like so:
+
+```
+for file in tei/*.xml; do
+    fn=`basename $file | cut -d'.' -f1`
+    wget -O csv/"$fn".csv https://dracor.org/api/corpus/rus/play/"$fn"/networkdata/csv
+done
+```
+In this example, the script has to be executed in the directory under ```tei/```
+(which has to be checked out, of course) – CSV data will be written to ```csv/```.
