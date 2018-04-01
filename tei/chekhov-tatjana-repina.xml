@@ -196,7 +196,7 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
+        <change who="#ds" when="2017-03-31">convert from source</change>
         <change who="#ff #to" when="2017-05-17">camel case, checked IDs</change>
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-21">formalities; still lacks segmentation</change>
@@ -205,6 +205,7 @@
           talking/singing to everbody during the ceremony, and the speech acts in "v tolpe" are
           collecting differenct voices, etc.)</change>
         <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
+        <change who="#ff" when="2018-04-02">markup stage direction</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -315,8 +316,7 @@
           <speaker>О. Иван</speaker>
           <stage type="delivery">(берет с налоя венец и обращается лицом к Сабинину).</stage>
           <p>Венчается раб божий Петр рабе божией Вере во имя отца и сына и святаго духа, аминь.
-              <stage type="delivery">(Передает венец Котелъникову.)</stage>
-                    </p>
+              <stage type="delivery">(Передает венец Котелъникову.)</stage></p>
         </sp>
         <sp who="#VTolpe">
           <speaker>В толпе.</speaker>
@@ -327,8 +327,8 @@
         <sp who="#OIvan">
           <speaker>О. Иван</speaker>
           <stage type="delivery">(обращаясь к Олениной).</stage>
-          <p>Венчается раба божия Вера рабу божию Петру во имя отца и сына и святаго Духа. <stage type="delivery">(Передает венец студенту.)</stage>
-                    </p>
+          <p>Венчается раба божия Вера рабу божию Петру во имя отца и сына и святаго Духа. <stage
+              type="delivery">(Передает венец студенту.)</stage></p>
         </sp>
         <sp who="#Kotelnikov">
           <speaker>Котельников.</speaker>
@@ -622,8 +622,7 @@
         <sp who="#Hor">
           <speaker>Хор</speaker>
           <stage type="delivery">(поет).</stage>
-          <p>Господи помилуй. <stage type="delivery">(Трижды.)</stage>
-                    </p>
+          <p>Господи помилуй. <stage type="delivery">(Трижды.)</stage></p>
         </sp>
         <sp who="#Djakon">
           <speaker>Дьякон.</speaker>
@@ -865,7 +864,9 @@
           <speaker>О. Иван</speaker>
           <stage type="delivery">(читает).</stage>
           <p>Господи боже наш, во спасительном твоем смотрении, сподобивый в Кане Галилейстей...
-              <stage type="delivery">(Оглядывает публику.)</stage> Народ какой, право... <stage type="delivery">(Читает.)</stage> ...честный показати брак твоим пришествием... <stage type="delivery">(Возвысив голос.)</stage> Прошу вас потише! Вы мешаете нам совершать
+              <stage type="delivery">(Оглядывает публику.)</stage> Народ какой, право... <stage
+              type="delivery">(Читает.)</stage> ...честный показати брак твоим пришествием... <stage
+              type="delivery">(Возвысив голос.)</stage> Прошу вас потише! Вы мешаете нам совершать
             таинство! Не ходите по церкви, не разговаривайте и не шумите, а стойте тихо и молитесь
             богу. Так-то. Надо страх божий иметь. <stage type="delivery">(Читает.)</stage> Господи
             боже наш, во спасительном твоем смотрении, сподобивый в Кане Галилейстей честный
@@ -1003,8 +1004,7 @@
         </sp>
         <sp who="#Volgin">
           <speaker>Волгин.</speaker>
-          <p>Позвольте, я вас сменю! <stage type="delivery">(Сменяет Котельникова.)</stage>
-                    </p>
+          <p>Позвольте, я вас сменю! <stage type="delivery">(Сменяет Котельникова.)</stage></p>
         </sp>
         <sp who="#Djakon">
           <speaker>Дьякон.</speaker>
@@ -1038,7 +1038,8 @@
         <sp who="#Matveev">
           <speaker>Матвеев</speaker>
           <stage type="delivery">(актерам).</stage>
-          <p>Раздвиньтесь немножко, ребятки, я хочу на коленки стать... <stage type="delivery">(Становится на колени и кланяется в землю.)</stage> Да будет воля твоя, яко на небеси
+          <p>Раздвиньтесь немножко, ребятки, я хочу на коленки стать... <stage type="delivery"
+              >(Становится на колени и кланяется в землю.)</stage> Да будет воля твоя, яко на небеси
             и на земли. Хлеб наш насущный даждь нам днесь и остави нам долги наша...</p>
         </sp>
         <sp who="#ArhierejskijHor">
@@ -1136,8 +1137,7 @@
             сотворенных от тебе, и чашу общую сию подаваяй сочетавающимся ко общению брака,
             благослови благословением духовным. Яко благословися твое имя и прославися твое царство
             всегда, ныне и присно и во веки веков. <stage type="delivery">(Дает Сабинину и Олениной
-              пить вино.)</stage>
-                    </p>
+              пить вино.)</stage></p>
         </sp>
         <sp who="#Hor">
           <speaker>Хор.</speaker>
@@ -1171,10 +1171,7 @@
           <stage type="delivery">(поет).</stage>
           <p>Исайе ликуй, дева име во чреве...</p>
         </sp>
-        <sp who="#OIvan">
-          <speaker>О. Иван</speaker>
-          <p> идет вокруг налоя; за ним молодые и шафера.</p>
-        </sp>
+        <stage>О. Иван идет вокруг налоя; за ним молодые и шафера.</stage>
         <sp who="#VTolpe">
           <speaker>В толпе.</speaker>
           <p>Студент запутался в шлейфе.</p>
@@ -1227,8 +1224,7 @@
           <speaker>Котельников.</speaker>
           <p>Благодарю. <stage type="delivery">(Товарищу прокурора.)</stage> Однако, как длинно
             тянется эта история! Они никогда не кончат служить. <stage type="delivery">(Утирает
-              платком лицо.)</stage>
-                    </p>
+              платком лицо.)</stage></p>
         </sp>
         <sp who="#TovarischProkurora">
           <speaker>Товарищ прокурора.</speaker>
@@ -1303,7 +1299,8 @@
         <sp who="#Olenina">
           <speaker>Оленина</speaker>
           <stage type="delivery">(брату).</stage>
-          <p>Петр меня не слышит... Точно у него столбняк... Боже мой, боже мой... <stage type="delivery">(Сабинину.)</stage> Петр!</p>
+          <p>Петр меня не слышит... Точно у него столбняк... Боже мой, боже мой... <stage
+              type="delivery">(Сабинину.)</stage> Петр!</p>
         </sp>
         <sp who="#OIvan">
           <speaker>О. Иван.</speaker>
@@ -1323,7 +1320,8 @@
           <p>Отец, сын и святый дух, всесвятая и единосущная, и живоначальная троица, едино божество
             и царство да благословит вас, и да подаст вам долгожитие, благочадие, преспеяние живота
             и веры, и да исполнит вас всех сущих на земли благих! Да сподобит вас и обещанных благ
-            восприятия, молитвами святыя богородицы и всех святых, аминь! <stage type="delivery">(Олениной, с улыбкой.)</stage> Поцелуйте вашего мужа.</p>
+            восприятия, молитвами святыя богородицы и всех святых, аминь! <stage type="delivery"
+              >(Олениной, с улыбкой.)</stage> Поцелуйте вашего мужа.</p>
         </sp>
         <sp who="#Volgin">
           <speaker>Волгин</speaker>
@@ -1371,8 +1369,7 @@
         <sp who="#Damy">
           <speaker>Дамы</speaker>
           <stage type="delivery">(Олениной).</stage>
-          <p>Поздравляю, дорогая... Сто лет жить.... <stage type="delivery">(Поцелуи.)</stage>
-                    </p>
+          <p>Поздравляю, дорогая... Сто лет жить.... <stage type="delivery">(Поцелуи.)</stage></p>
         </sp>
         <sp who="#Zonenshtejn">
           <speaker>Зоненштейн.</speaker>
@@ -1407,8 +1404,7 @@
         </sp>
         <sp who="#Kotelnikov">
           <speaker>Котельников.</speaker>
-          <p>Идем, идем... <stage type="delivery">(Ведет его к невесте.)</stage>
-                    </p>
+          <p>Идем, идем... <stage type="delivery">(Ведет его к невесте.)</stage></p>
         </sp>
         <stage>Через минуту слышится с улицы пронзительный свист. Народ мало-помалу выходит из
           церкви. Остаются только дьячок и Кузьма.</stage>
@@ -1447,8 +1443,8 @@
         <sp who="#Djachok">
           <speaker>Дьячок.</speaker>
           <p>М-да... <stage type="delivery">(Надевает калоши.)</stage> Зафилософствуй – и ум
-            вскружится. <stage type="delivery">(Идет, гремя калошами.)</stage> До свидания! <stage type="delivery">(Уходит.)</stage>
-                    </p>
+            вскружится. <stage type="delivery">(Идет, гремя калошами.)</stage> До свидания! <stage
+              type="delivery">(Уходит.)</stage></p>
         </sp>
         <sp who="#Kuzma">
           <speaker>Кузьма</speaker>
@@ -1512,7 +1508,9 @@
         </sp>
         <sp who="#DamaVChernom">
           <speaker>Дама в черном.</speaker>
-          <p>Я отравилась... из ненависти... Он оскорбил... Зачем же он счастлив? Боже мой... <stage type="delivery">(Кричит.)</stage> Спасите меня, спасите! <stage type="delivery">(Опускается на пол.)</stage> Все должны отравиться... все! Нет справедливости...</p>
+          <p>Я отравилась... из ненависти... Он оскорбил... Зачем же он счастлив? Боже мой... <stage
+              type="delivery">(Кричит.)</stage> Спасите меня, спасите! <stage type="delivery"
+              >(Опускается на пол.)</stage> Все должны отравиться... все! Нет справедливости...</p>
         </sp>
         <sp who="#OAleksej">
           <speaker>О. Алексей</speaker>
