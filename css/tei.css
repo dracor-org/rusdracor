@@ -1279,3 +1279,8 @@ body > div > div[type="configuration"]{
   border-width: 2px;
   border-style: solid;
 }
+body > div > div[type="location"]{
+  border-color: green;
+  border-width: 2px;
+  border-style: solid;
+}
