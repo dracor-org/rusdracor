@@ -44,163 +44,171 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Leshij" sex="MALE">
+          <person xml:id="leshij" sex="MALE">
             <persName>Леший</persName>
             <persName xml:lang="de">Der Waldschratt</persName>
           </person>
-          <person xml:id="VesnaKrasna" sex="FEMALE">
+          <person xml:id="vesna_krasna" sex="FEMALE">
             <persName>Весна-Красна</persName>
             <persName xml:lang="de">Die Lenzkönigin</persName>
           </person>
-          <person xml:id="HorPtits" sex="UNKNOWN">
+          <person xml:id="hor_ptits" sex="UNKNOWN">
             <persName>Хор птиц</persName>
             <persName xml:lang="de">Chor der Vögel</persName>
           </person>
-          <person xml:id="Moroz" sex="MALE">
+          <person xml:id="moroz" sex="MALE">
             <persName>Мороз</persName>
             <persName xml:lang="de">Vater Frost</persName>
           </person>
-          <person xml:id="Snegurochka" sex="FEMALE">
+          <person xml:id="snegurochka" sex="FEMALE">
             <persName>Снегурочка</persName>
             <persName xml:lang="de">Schneeflöckchen</persName>
           </person>
-          <person xml:id="PerviyHorBerendeev" sex="MALE">
+          <person xml:id="golosa_leshih" sex="UNKNOWN">
+            <persName>Голоса леших</persName>
+            <persName xml:lang="de">Stimmen aus dem Walde</persName>
+          </person>
+          <person xml:id="perviy_hor_berendeev" sex="MALE">
             <persName>1-й хор берендеев</persName>
             <persName xml:lang="de">Erster Halbchor der Berendejer</persName>
           </person>
-          <person xml:id="VtorojHorBerendeev" sex="UNKNOWN">
+          <person xml:id="vtoroj_hor_berendeev" sex="UNKNOWN">
             <persName>2-й хор берендеев</persName>
             <persName xml:lang="de">Zweiter Halbchor der Berendejer</persName>
           </person>
-          <person xml:id="ChucheloMasljanitsy" sex="UNKNOWN">
+          <person xml:id="chuchelo_masljanitsy" sex="UNKNOWN">
             <persName>Чучело Масляницы</persName>
             <persName xml:lang="de">Die Fastnacht</persName>
           </person>
-          <person xml:id="Bobyliha" sex="FEMALE">
+          <person xml:id="bobyliha" sex="FEMALE">
             <persName>Бобылиха</persName>
             <persName xml:lang="de">Kätnersfrau</persName>
           </person>
-          <person xml:id="Bobyl" sex="MALE">
+          <person xml:id="bobyl" sex="MALE">
             <persName>Бобыль</persName>
             <persName xml:lang="de">Kätner</persName>
           </person>
-          <person xml:id="Berendei" sex="UNKNOWN">
+          <person xml:id="berendei" sex="UNKNOWN">
             <persName>Берендеи</persName>
             <persName xml:lang="de">Die Berendejer</persName>
           </person>
-          <person xml:id="OdinBerendej" sex="MALE">
+          <person xml:id="odin_berendej" sex="MALE">
             <persName>Один берендей</persName>
             <persName xml:lang="de">Ein Berendejer</persName>
           </person>
-          <person xml:id="GolosaIzLesu" sex="UNKNOWN">
+          <person xml:id="golosa_iz_lesu" sex="UNKNOWN">
             <persName>Голоса из лесу</persName>
             <persName xml:lang="de">Stimmen aus dem Walde</persName>
           </person>
-          <person xml:id="Birjuch" sex="MALE">
+          <person xml:id="birjuch" sex="MALE">
             <persName>Бирюч</persName>
             <persName xml:lang="de">Herold</persName>
           </person>
-          <person xml:id="Berendej" sex="MALE">
+          <person xml:id="berendej" sex="MALE">
             <persName>Берендей</persName>
             <persName xml:lang="de">Ein Berendejer</persName>
           </person>
-          <person xml:id="Murash" sex="MALE">
+          <person xml:id="murash" sex="MALE">
             <persName>Мураш</persName>
             <persName xml:lang="de">Murasch</persName>
           </person>
-          <person xml:id="Lel" sex="MALE">
+          <person xml:id="lel" sex="MALE">
             <persName>Лель</persName>
             <persName xml:lang="de">Lel</persName>
           </person>
-          <person xml:id="Malusha" sex="FEMALE">
+          <person xml:id="malusha" sex="FEMALE">
             <persName>Малуша</persName>
             <persName xml:lang="de">Maluscha</persName>
           </person>
-          <person xml:id="Radushka" sex="FEMALE">
+          <person xml:id="radushka" sex="FEMALE">
             <persName>Радушка</persName>
             <persName xml:lang="de">Raduschka</persName>
           </person>
-          <person xml:id="Brusilo" sex="MALE">
+          <person xml:id="brusilo" sex="MALE">
             <persName>Брусило</persName>
             <persName xml:lang="de">Brusilo</persName>
           </person>
-          <person xml:id="Kurilka" sex="MALE">
+          <person xml:id="kurilka" sex="MALE">
             <persName>Курилка</persName>
             <persName xml:lang="de">Kurilka</persName>
           </person>
-          <person xml:id="Kupava" sex="FEMALE">
+          <person xml:id="kupava" sex="FEMALE">
             <persName>Купава</persName>
             <persName xml:lang="de">Kupawa</persName>
           </person>
-          <person xml:id="Mizgir" sex="MALE">
+          <person xml:id="mizgir" sex="MALE">
             <persName>Мизгирь</persName>
             <persName xml:lang="de">Misgir</persName>
           </person>
-          <person xml:id="Malysh" sex="MALE">
+          <person xml:id="malysh" sex="MALE">
             <persName>Малыш</persName>
             <persName xml:lang="de">Malysch</persName>
           </person>
-          <person xml:id="Gusljary" sex="UNKNOWN">
+          <person xml:id="vse_1-8" sex="UNKNOWN">
+            <persName>Все (I/8)</persName>
+            <persName xml:lang="de">Alle (I/8)</persName>
+          </person>
+          <person xml:id="gusljary" sex="UNKNOWN">
             <persName>Гусляры</persName>
             <persName xml:lang="de">Die Blinden</persName>
           </person>
-          <person xml:id="PerviySkomoroh" sex="MALE">
+          <person xml:id="perviy_skomoroh" sex="MALE">
             <persName>1-й скоморох</persName>
             <persName xml:lang="de">Erster Narr</persName>
           </person>
-          <person xml:id="VtorojSkomoroh" sex="MALE">
+          <person xml:id="vtoroj_skomoroh" sex="MALE">
             <persName>2-й скоморох</persName>
             <persName xml:lang="de">Zweiter Narr</persName>
           </person>
-          <person xml:id="Tsar" sex="MALE">
+          <person xml:id="tsar" sex="MALE">
             <persName>Царь</persName>
             <persName xml:lang="de">Zar</persName>
           </person>
-          <person xml:id="Bermjata" sex="MALE">
+          <person xml:id="bermjata" sex="MALE">
             <persName>Бермята</persName>
             <persName xml:lang="de">Bermiata</persName>
           </person>
-          <person xml:id="Otrok" sex="MALE">
+          <person xml:id="otrok" sex="MALE">
             <persName>Отрок</persName>
             <persName xml:lang="de">Edelknabe</persName>
           </person>
-          <person xml:id="PerviyBirjuch" sex="MALE">
+          <person xml:id="perviy_birjuch" sex="MALE">
             <persName>1-й бирюч</persName>
             <persName xml:lang="de">Erster Herold</persName>
           </person>
-          <person xml:id="VtorojBirjuch" sex="MALE">
+          <person xml:id="vtoroj_birjuch" sex="MALE">
             <persName>2-й бирюч</persName>
             <persName xml:lang="de">Zweiter Herold</persName>
           </person>
-          <person xml:id="ElenaPrekrasnaja" sex="FEMALE">
+          <person xml:id="elena_prekrasnaja" sex="FEMALE">
             <persName>Елена Прекрасная</persName>
             <persName xml:lang="de">Die schöne Jelena</persName>
           </person>
-          <person xml:id="HorNaroda" sex="UNKNOWN">
+          <person xml:id="hor_naroda" sex="UNKNOWN">
             <persName>Хор народа</persName>
             <persName xml:lang="de">Das Volk (im Chor)</persName>
           </person>
-          <person xml:id="Narod" sex="UNKNOWN">
+          <person xml:id="narod" sex="UNKNOWN">
             <persName>Народ</persName>
             <persName xml:lang="de">Das Volk</persName>
           </person>
-          <person xml:id="DevushkiIParni" sex="UNKNOWN">
+          <person xml:id="devushki_i_parni" sex="UNKNOWN">
             <persName>Девушки и парни</persName>
             <persName xml:lang="de">Mädchen und Burschen</persName>
           </person>
-          <person xml:id="ObschijHor" sex="UNKNOWN">
+          <person xml:id="obschij_hor" sex="UNKNOWN">
             <persName>Общий хор</persName>
             <persName xml:lang="de">Gemeinsamer Chor</persName>
           </person>
-          <person xml:id="OdnaStorona" sex="UNKNOWN">
+          <person xml:id="odna_storona" sex="UNKNOWN">
             <persName>Одна сторона</persName>
             <persName xml:lang="de">Erste Gruppe</persName>
           </person>
-          <person xml:id="DrugajaStorona" sex="UNKNOWN">
+          <person xml:id="drugaja_storona" sex="UNKNOWN">
             <persName>Другая сторона</persName>
             <persName xml:lang="de">Zweite Gruppe</persName>
           </person>
-          <person xml:id="GolosaIzNaroda" sex="UNKNOWN">
+          <person xml:id="golosa_iz_naroda" sex="UNKNOWN">
             <persName>Голоса из народа</persName>
             <persName xml:lang="de">Stimmen im Volk</persName>
           </person>
@@ -222,6 +230,7 @@
         <change who="#GG" when="2017-06-09">corrected ids</change>
         <change who="#GG" when="2017-06-09">gender info</change>
         <change who="#ff" when="2017-07-08">thorough check of all IDs</change>
+        <change who="#ff" when="2018-04-05">added some missing text; lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -266,7 +275,7 @@
           <stage>Леший сидит на сухом пне. Все небо покрывается прилетевшими из-за моря птицами.
             Весна-Красна на журавлях, лебедях и гусях спускается на землю, окруженная свитой
             птиц.</stage>
-          <sp who="#Leshij">
+          <sp who="#leshij">
             <speaker>Леший</speaker>
             <lg>
               <l>Конец зиме, пропели петухи,</l>
@@ -275,9 +284,9 @@
               <l>Отсторожил, — ныряй в дупло и спи!</l>
             </lg>
           </sp>
-          <stage type="delivery">(Проваливается в дупло.)</stage>
+          <stage>(Проваливается в дупло.)</stage>
           <stage>Весна-Красна спускается на Красную горку в сопровождении птиц.</stage>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна-Красна</speaker>
             <lg>
               <l>В урочный час обычной чередою</l>
@@ -325,7 +334,7 @@
               <l>Укромные кустарники и рощи</l>
               <l>Шелко́выми коврами трав цветных.</l>
             </lg>
-            <stage type="delivery">(Обращаясь к птицам, которые дрожат от холода.)</stage>
+            <stage>(Обращаясь к птицам, которые дрожат от холода.)</stage>
             <lg>
               <l>Товарищи: сороки-белобоки,</l>
               <l>Веселые болтушки-щекотуньи,</l>
@@ -366,7 +375,7 @@
             </lg>
           </sp>
           <stage>Одни птицы принимаются за инструменты, другие запевают, третьи пляшут.</stage>
-          <sp who="#HorPtits">
+          <sp who="#hor_ptits">
             <speaker>Хор птиц</speaker>
             <lg>
               <l>Сбирались птицы,</l>
@@ -422,9 +431,9 @@
           <stage>Из лесу на пляшущих птиц начинает сыпаться иней, потом хлопья снега, подымается
             ветер, — набегают тучи, закрывают луну, мгла совершенно застилает даль. Птицы с криком
             жмутся к Весне.</stage>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна-Красна</speaker>
-            <stage type="delivery">(птицам)</stage>
+            <stage>(птицам)</stage>
             <lg>
               <l>В кусты скорей, в кусты! Шутить задумал</l>
               <l>Старик Мороз. До утра подождите,</l>
@@ -434,24 +443,24 @@
               <l>И гнездышки начнете завивать.</l>
             </lg>
           </sp>
-          <stage>Птицы уходят в кусты, из леса выходит Мороз .</stage>
+          <stage>Птицы уходят в кусты, из леса выходит Мороз.</stage>
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <stage>Весна-Красна, Дед-Мороз .</stage>
-          <sp who="#Moroz">
+          <stage>Весна-Красна, Дед-Мороз.</stage>
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Весна-Красна, здорово ли вернулась?</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>И ты здоров ли, Дед-Мороз?</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Спасибо,</l>
@@ -505,14 +514,14 @@
               <l>Любо, любо, любо.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Не дурно ты попировал, пора бы</l>
               <l>И в путь тебе, на север.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Не гони,</l>
@@ -521,13 +530,13 @@
               <l>Вот я, старик, всегда один и тот же.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>У всякого свой норов и обычай.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Уйду, уйду, на утренней заре,</l>
@@ -554,14 +563,14 @@
               <l>Одна у них забота.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>На кого же</l>
               <l>Снегурочку оставишь?</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Дочка наша</l>
@@ -575,14 +584,14 @@
               <l>Прохожего, захожего блюдут.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Тоска возьмет меж филинов и леших</l>
               <l>Одной сидеть.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>А теремная челядь!</l>
@@ -595,13 +604,13 @@
               <l>В приспешницах сенных у ней на службе.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Да все ж тоска, подумай, дед!</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Работай,</l>
@@ -614,7 +623,7 @@
               <l>Чего еще?</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Эх, старый! Девке воля</l>
@@ -628,38 +637,38 @@
               <l>С ребятами, покуда...</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Что покуда?</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Покуда ей забавно, что ребята</l>
               <l>Наперебой за ней до драки рвутся.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>А там?</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>А там полюбится один.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Вот то-то мне и нелюбо.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Безумный</l>
@@ -668,7 +677,7 @@
               <l>Не даст тебе томить родная мать.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Вот то-то ты некстати горяча,</l>
@@ -710,7 +719,7 @@
               <l>Не властен он вредить Снегурке.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Полно!</l>
@@ -718,20 +727,20 @@
               <l>Недаром же ей кличка — баба.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Знаю</l>
               <l>Без бабы я, что зло Ярило мыслит.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Отдай мою Снегурочку!</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Не дам.</l>
@@ -739,14 +748,14 @@
               <l>Поверил дочь?</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Да что ж ты, красноносый,</l>
               <l>Ругаешься!</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Послушай, помиримся!</l>
@@ -761,14 +770,14 @@
               <l>Закидывать глаза. Согласна ты?</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Согласна, пусть живет в семье бобыльской;</l>
               <l>Лишь только бы на воле.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Дочь не знает</l>
@@ -779,51 +788,51 @@
               <l>Ласкающей, разымчивой...</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Довольно!</l>
               <l>Покличь ко мне Снегурочку.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Снегурка,</l>
               <l>Снегурушка, дитя мое!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(выглядывая из лесу)</stage>
+            <stage>(выглядывая из лесу)</stage>
             <lg>
               <l>Ау!</l>
             </lg>
           </sp>
-          <stage type="delivery">(Подходит к отцу.)</stage>
+          <stage>(Подходит к отцу.)</stage>
         </div>
         <div type="scene">
           <head>Явление третье</head>
-          <stage>Весна, Мороз, Снегурочка, потом Леший .</stage>
-          <sp who="#VesnaKrasna">
+          <stage>Весна, Мороз, Снегурочка, потом Леший.</stage>
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Ах, бедная Снегурочка, дикарка,</l>
               <l>Поди ко мне, тебя я приголублю.</l>
             </lg>
-            <stage type="delivery">(Ласкает Снегурочку.)</stage>
+            <stage>(Ласкает Снегурочку.)</stage>
             <lg>
               <l>Красавица, не хочешь ли на волю?</l>
               <l>С людьми пожить?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Хочу, хочу, пустите!</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>А что манит тебя покинуть терем</l>
@@ -831,7 +840,7 @@
               <l>Завидного нашла?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Людские песни.</l>
@@ -852,14 +861,14 @@
               <l>И выучусь скорехонько.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>А Леля</l>
               <l>Узнала ты откуда?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Из кусточка</l>
@@ -867,14 +876,14 @@
               <l>Да песенки поет.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Почем же знаешь,</l>
               <l>Что это Лель?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>К нему девицы ходят</l>
@@ -884,14 +893,14 @@
               <l>Пригоженьким и миленьким.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>А разве</l>
               <l>Пригожий Лель горазд на песни?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Мама,</l>
@@ -905,9 +914,9 @@
               <l>И слушаешь, и таешь...</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
-            <stage type="delivery">(Весне)</stage>
+            <stage>(Весне)</stage>
             <lg>
               <l>Слышишь: таешь!</l>
               <l>Ужасный смысл таится в этом слове.</l>
@@ -932,7 +941,7 @@
               <l>И так же зол, как Солнце.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Я, отец,</l>
@@ -941,7 +950,7 @@
               <l>Ни Леля я, ни Солнца не боюсь.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Снегурочка, когда тебе взгрустнется,</l>
@@ -953,14 +962,14 @@
               <l>Отказу нет тебе.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Спасибо, мама,</l>
               <l>Красавица.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Вечернею порой</l>
@@ -972,17 +981,19 @@
             </lg>
           </sp>
           <stage>В лесу голоса леших.</stage>
-          <lg>
-            <l>Ау, ау!</l>
-          </lg>
+          <sp who="golosa_leshih">
+            <lg>
+              <l>Ау, ау!</l>
+            </lg>
+          </sp>
           <stage>Из сухого дупла вылезает Леший, лениво потягиваясь и зевая.</stage>
-          <sp who="#Leshij">
+          <sp who="#leshij">
             <speaker>Леший</speaker>
             <lg>
               <l>Ау!</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Снегурочку блюдите! Слушай, Леший,</l>
@@ -994,15 +1005,15 @@
               <l>Иль по пояс в болото втисни.</l>
             </lg>
           </sp>
-          <sp who="#Leshij">
+          <sp who="#leshij">
             <speaker>Леший</speaker>
             <lg>
               <l>Ладно.</l>
             </lg>
-            <stage type="delivery">(Складывает над головой руки и проваливается в дупло.)</stage>
+            <stage>(Складывает над головой руки и проваливается в дупло.)</stage>
           </sp>
           <stage>Вдали слышны голоса.</stage>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Валит толпа веселых берендеев.</l>
@@ -1010,14 +1021,14 @@
               <l>Живи, дитя, счастливо!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Мама, счастья</l>
               <l>Найду иль нет, а поищу.</l>
             </lg>
           </sp>
-          <sp who="#Moroz">
+          <sp who="#moroz">
             <speaker>Мороз</speaker>
             <lg>
               <l>Прощай,</l>
@@ -1026,7 +1037,7 @@
               <l>Увидимся.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Пора бы гнев на милость</l>
@@ -1034,18 +1045,18 @@
               <l>Везут ее, толпами провожают</l>
               <l>Широкую...</l>
             </lg>
-            <stage type="delivery">(Уходит.)</stage>
+            <stage>(Уходит.)</stage>
           </sp>
           <stage>Вдали крики: «Честная Масляница!» Мороз, уходя, машет рукой; метель унимается, тучи
-            убегают. Ясно, как в начале действия. Толпы берендеев ; одни подвигают к лесу сани с
+            убегают. Ясно, как в начале действия. Толпы берендеев; одни подвигают к лесу сани с
             чучелой Масляницы, другие стоят поодаль.</stage>
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
-          <stage>Снегурочка, Бобыль, Бобылиха, берендеи .</stage>
-          <sp who="#PerviyHorBerendeev">
+          <stage>Снегурочка, Бобыль, Бобылиха, берендеи.</stage>
+          <sp who="#perviy_hor_berendeev">
             <speaker>1-й хор берендеев</speaker>
-            <stage type="delivery">(везущих Масляницу)</stage>
+            <stage>(везущих Масляницу)</stage>
             <lg>
               <l>Раным-рано куры́ запели,</l>
               <l>Про весну обвестили.</l>
@@ -1067,9 +1078,9 @@
               <l>Прощай, Масляница!</l>
             </lg>
           </sp>
-          <sp who="#VtorojHorBerendeev">
+          <stage>(Подвинув санки в лес, отходят.)</stage>
+          <sp who="#vtoroj_hor_berendeev">
             <speaker>2-й хор</speaker>
-            <stage type="delivery">(Подвинув санки в лес, отходят.)</stage>
             <lg>
               <l>Честна̀я Масляница!</l>
               <l>Веселенько тебя встречать, привечать,</l>
@@ -1084,7 +1095,7 @@
               <l>Честна̀я Масляница!</l>
             </lg>
           </sp>
-          <sp who="#PerviyHorBerendeev">
+          <sp who="#perviy_hor_berendeev">
             <speaker>1-й хор</speaker>
             <lg>
               <l>Масляница мокрохвостка!</l>
@@ -1107,7 +1118,7 @@
               <l>Наша ладушка, пришла!</l>
             </lg>
           </sp>
-          <sp who="#VtorojHorBerendeev">
+          <sp who="#vtoroj_hor_berendeev">
             <speaker>2-й хор</speaker>
             <lg>
               <l>Прощай, честна̀я Масляна!</l>
@@ -1116,7 +1127,7 @@
               <l>Что Масляна придет опять.</l>
             </lg>
           </sp>
-          <sp who="#ChucheloMasljanitsy">
+          <sp who="#chuchelo_masljanitsy">
             <speaker>Чучело Масляницы</speaker>
             <lg>
               <l>Минует лето красное,</l>
@@ -1145,15 +1156,15 @@
               <l>Тогда и ждать меня опять.</l>
             </lg>
           </sp>
+          <stage>(Исчезает.)</stage>
           <stage>Бобыль хватается за пустые сани, Бобылиха за Бобыля.</stage>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
-            <stage type="delivery">(Исчезает.)</stage>
             <lg>
               <l>Пойдем домой!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Постойте! Как же это?</l>
@@ -1169,7 +1180,7 @@
               <l>Никак нельзя. Куда тебе деваться,</l>
               <l>Бобыльская хмельная голова?</l>
             </lg>
-            <stage type="delivery">(Поет и пляшет).</stage>
+            <stage>(Поет и пляшет).</stage>
             <lg>
               <l>У Бакула бобыля</l>
               <l>Ни кола, ни двора,</l>
@@ -1177,19 +1188,19 @@
               <l>Ни скота, ни живота.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Домой пора, бесстыжий, люди смотрят.</l>
             </lg>
           </sp>
-          <sp who="#Berendei">
+          <sp who="#berendei">
             <speaker>Берендеи</speaker>
             <lg>
               <l>Не тронь его!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Шатался всю неделю;</l>
@@ -1197,20 +1208,20 @@
               <l>Нетоплена стоит.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Аль дров не стало?</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Да где ж им быть? Они не ходят сами</l>
               <l>Из лесу-то.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Давно бы ты сказала.</l>
@@ -1221,94 +1232,95 @@
           </sp>
           <stage>Идет в лес и видит Снегурочку, кланяется и смотрит несколько времени с удивлением.
             Потом возвращается к жене и манит ее в лес. В это время Снегурочка отходит и из-за куста
-            смотрит на берендеев, на ее место у дупла садится Леший .</stage>
-          <sp who="#Bobyl">
+            смотрит на берендеев, на ее место у дупла садится Леший.</stage>
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
-            <stage type="delivery">(Бобылихе)</stage>
+            <stage>(Бобылихе)</stage>
             <lg>
               <l>Смотри, смотри! Боярышня.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Да где?</l>
             </lg>
-            <stage type="delivery">(Увидав Лешего.)</stage>
+            <stage>(Увидав Лешего.)</stage>
             <lg>
               <l>Ах, чтоб тебя! Вот невидаль какая.</l>
             </lg>
-            <stage type="delivery">(Возвращаясь.)</stage>
+            <stage>(Возвращаясь.)</stage>
             <lg>
               <l>У! пьяница! Убила бы, кажись.</l>
             </lg>
           </sp>
           <stage>Снегурочка опять возвращается на свое место, Леший уходит в лес.</stage>
-          <sp who="#OdinBerendej">
+          <sp who="#odin_berendej">
             <speaker>Один берендей</speaker>
             <lg>
               <l>Да что у вас за споры?</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Поглядите!</l>
               <l>Диковина, честные берендеи.</l>
             </lg>
           </sp>
-          <sp who="#Berendei">
+          <stage>Все подходят к дуплу.</stage>
+          <sp who="#berendei">
             <speaker>Берендеи</speaker>
-            <stage type="delivery">(с удивлением)</stage>
+            <stage>(с удивлением)</stage>
             <lg>
               <l>Боярышня! Живая ли? Живая.</l>
               <l>В тулупчике, в сапожках, в рукавичках.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
-            <stage type="delivery">(Снегурочке)</stage>
+            <stage>(Снегурочке)</stage>
             <lg>
               <l>Дозволь спросить, далеко ль держишь путь</l>
               <l>И как зовут тебя и величают?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Снегурочкой. Куда итти, не знаю.</l>
               <l>Коль будете добры, с собой возьмите.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>К царю отвесть прикажешь, к Берендею</l>
               <l>Премудрому в палаты?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Нет, у вас</l>
               <l>В слободке я пожить хочу.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Спасибо</l>
               <l>На милости! А у кого ж?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Кто первый</l>
               <l>Нашел меня, тому и буду дочкой.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Да точно ль так, да в правду ли ко мне?</l>
@@ -1323,7 +1335,7 @@
               <l>И кланяйтесь, а я ломаться буду.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>И как это, живешь-живешь на свете,</l>
@@ -1332,14 +1344,14 @@
               <l>Дорогу нам, народ! Посторонитесь.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Прощай, отец! Прощай, и мама! Лес,</l>
               <l>И ты прощай!</l>
             </lg>
           </sp>
-          <sp who="#GolosaIzLesu">
+          <sp who="#golosa_iz_lesu">
             <speaker>Голоса из лесу</speaker>
             <lg>
               <l>Прощай, прощай, прощай!</l>
@@ -1382,9 +1394,9 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Снегурочка сидит на скамье перед домом Бобыля и прядет. Из улицы идет Бирюч,
-            надевает шапку на длинный шест и поднимает высоко; со всех сторон сходятся слобожане .
+            надевает шапку на длинный шест и поднимает высоко; со всех сторон сходятся слобожане.
             Бобыль и Бобылиха выходят из дому.</stage>
-          <sp who="#Birjuch">
+          <sp who="#birjuch">
             <speaker>Бирюч</speaker>
             <lg>
               <l>Слушайте, послушайте,</l>
@@ -1408,30 +1420,29 @@
               <l>Караулить, встречать солнце восхожее,</l>
               <l>Кланяться Ярилу светлому.</l>
             </lg>
-            <stage type="delivery">(Снимает шапку с шеста, кланяется на все четыре стороны и
-              уходит.)</stage>
+            <stage>(Снимает шапку с шеста, кланяется на все четыре стороны и уходит.)</stage>
           </sp>
           <stage>Слобожане расходятся, Бобыль и Бобылиха подходят к Снегурочке и смотрят на нее,
             качая головами.</stage>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Хе-хе, хо-хо!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Ахти, Бобыль Бакула!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Хохонюшки!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>На радость взяли дочку,</l>
@@ -1442,7 +1453,7 @@
               <l>Под старость лет.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Скудаться нам до веку,</l>
@@ -1454,7 +1465,7 @@
               <l>Ни на волос не легче.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Сам ленив,</l>
@@ -1463,7 +1474,7 @@
               <l>Не бегаю.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Да что твоя работа!</l>
@@ -1472,33 +1483,33 @@
               <l>Кусочками мирскими прокормиться.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Помаялись, нужда потерла плечи,</l>
               <l>Пора бы нам пожить и в холе.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Кто же</l>
               <l>Мешает вам? Живите.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Ты мешаешь.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Так я уйду от вас. Прощайте!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Полно!</l>
@@ -1510,20 +1521,20 @@
               <l>Что только ах, да прочь поди.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Откуда ж</l>
               <l>Богатству быть у девушки-сиротки?</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Краса твоя девичья то ж богатство.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Богатства нет, за ум возьмись. Недаром</l>
@@ -1534,14 +1545,14 @@
               <l>Житье-то бы, жена!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Ну, что уж! Было.</l>
               <l>Да мимо рта прошло.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>А парни наши</l>
@@ -1552,7 +1563,7 @@
               <l>Житье-то бы!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Не говори, Бакула,</l>
@@ -1560,14 +1571,14 @@
               <l>А хва́ть-похва́ть, меж пальцами ушло.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>И всех-то ты отвадила суровым,</l>
               <l>Неласковым обычаем своим.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Зачем они гонялись вслед за мною,</l>
@@ -1576,7 +1587,7 @@
               <l>Стыдлива я, смирна, а не сурова.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Стыдлива ты? Стыдливость-то к лицу</l>
@@ -1587,27 +1598,27 @@
               <l>А нам она не ко двору́ пришла.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Чего же вы, завистливые люди,</l>
               <l>От девочки Снегурочки хотите?</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Приваживай, ласкай ребят.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>А если</l>
               <l>Не по́ сердцу придется?</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Поневолься.</l>
@@ -1616,14 +1627,14 @@
               <l>Похаживать.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Да матери подарки</l>
               <l>Понашивать.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Отца медком да бражкой</l>
@@ -1634,13 +1645,13 @@
               <l>Поманивай!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>А мне опять подарки.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>А мне медок да бражка с хохолком,</l>
@@ -1648,7 +1659,7 @@
               <l>Вот самое законное житье!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Моя беда, что ласки нет во мне.</l>
@@ -1663,14 +1674,14 @@
               <l>Додуматься Снегурочка не может.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Беды тут нет, что ты любви не знаешь,</l>
               <l>Пожалуй, так и лучше.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Вот уж правда!</l>
@@ -1678,7 +1689,7 @@
               <l>Всю жизнь, как я с Бакулой Бобылем.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Ребята все равно тебе не милы —</l>
@@ -1690,14 +1701,14 @@
               <l>На хлебах жить, в чести у зятя.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Теще</l>
               <l>Хозяйкой быть над домом и над вами.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Коль правда то, что девку не минует</l>
@@ -1705,62 +1716,62 @@
               <l>Придет она.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Ну, девка.</l>
             </lg>
           </sp>
           <stage>За сценой пастуший рожок.</stage>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Чу, рожок!</l>
               <l>Пригнал пастух скотину. Нет своих,</l>
               <l>Хоть на чужих коровок полюбуюсь.</l>
             </lg>
-            <stage type="delivery">(Уходит.)</stage>
+            <stage>(Уходит.)</stage>
           </sp>
           <stage>Входит Лель и один из берендеев-слобожан и подходят к избе Мураша. Мураш сходит с
             крыльца.</stage>
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <stage>Бобыль, Снегурочка, Лель, Мураш, берендей .</stage>
-          <sp who="#Berendej">
+          <stage>Бобыль, Снегурочка, Лель, Мураш, берендей.</stage>
+          <sp who="#berendej">
             <speaker>Берендей</speaker>
             <lg>
               <l>Куда его вести? Черед за нами.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Не надо мне.</l>
             </lg>
           </sp>
-          <sp who="#Berendej">
+          <sp who="#berendej">
             <speaker>Берендей</speaker>
             <lg>
               <l>И мне ведь не корысть.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>А, вон Бобыль! Сведем к нему!</l>
             </lg>
           </sp>
-          <stage type="delivery">(низко кланяясь)</stage>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
+            <stage>(низко кланяясь)</stage>
             <lg>
               <l>Да что вы,</l>
               <l>Родимые, как славно от чумы,</l>
               <l>Хоронитесь от пастуха?</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Поди-ка,</l>
@@ -1770,14 +1781,14 @@
             </lg>
           </sp>
           <stage>Подходят к Бобылю.</stage>
-          <stage type="delivery">(Лелю)</stage>
-          <sp who="#Berendej">
+          <sp who="#berendej">
             <speaker>Берендей</speaker>
+            <stage>(Лелю)</stage>
             <lg>
               <l>Иди к нему, ночуй у Бобыля!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Какая есть моя возможность? Что ты?</l>
@@ -1786,48 +1797,48 @@
               <l>По бедности моей сиротской? Что ты!</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Накладу нет с тебя, отправь постой!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Поужинать запросит? Сам не евши</l>
               <l>Который день, а пастуха корми!</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Об ужине и слова нет, накормим;</l>
               <l>А твой ночлег, тебе убытку нет.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Освободить нельзя ли, братцы?</l>
             </lg>
           </sp>
-          <stage type="delivery">(кланяясь)</stage>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
+            <stage>(кланяясь)</stage>
             <lg>
               <l>Дядя,</l>
               <l>Пусти меня!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Диви б жалели хлеба,</l>
               <l>А места он не пролежит у вас.</l>
             </lg>
           </sp>
-          <sp who="#Berendej">
+          <sp who="#berendej">
             <speaker>Берендей</speaker>
             <lg>
               <l>Да видишь, тут такое вышло дело;</l>
@@ -1835,16 +1846,16 @@
               <l>На возрасте, на выданье у свата.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Показывая на Мураша.)</stage>
-          <sp who="#Bobyl">
+          <stage>(Показывая на Мураша.)</stage>
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>У свата дочь, а у тебя?</l>
             </lg>
           </sp>
-          <stage type="delivery">(показывая на берендея)</stage>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
+            <stage>(показывая на берендея)</stage>
             <lg>
               <l>Жена</l>
               <l>Красавица, да часом малодушна.</l>
@@ -1853,7 +1864,7 @@
               <l>Кажись, рубля не жаль.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>И есть за что.</l>
@@ -1861,7 +1872,7 @@
               <l>Пустить козла и мне не прибыль.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Полно,</l>
@@ -1869,13 +1880,13 @@
               <l>Снегурочка на наших баб и девок.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Куда ни шло, останься, Лель.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Спасибо.</l>
@@ -1883,16 +1894,16 @@
             </lg>
           </sp>
           <stage>Мураш и Берендей уходят.</stage>
-          <stage type="delivery">(Бобылю )</stage>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
+            <stage>(Бобылю)</stage>
             <lg>
               <l>За ласковый прием, за теплый угол</l>
               <l>Пастух тебе заплатит добрым словом</l>
               <l>Да песнями. Прикажешь, дядя, спеть?</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>До песен я не больно падок, девкам</l>
@@ -1904,19 +1915,19 @@
               <l>У ней любовь и ласка для богатых,</l>
               <l>А пастуху: «спасибо да прощай!»</l>
             </lg>
-            <stage type="delivery">(Уходит.)</stage>
+            <stage>(Уходит.)</stage>
           </sp>
         </div>
         <div type="scene">
           <head>Явление третье</head>
-          <stage>Снегурочка, Лель .</stage>
-          <sp who="#Lel">
+          <stage>Снегурочка, Лель.</stage>
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Прикажешь петь?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Приказывать не смею,</l>
@@ -1930,34 +1941,34 @@
               <l>На солнечном восходе разбужу.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Не стою я твоих поклонов.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Чем же</l>
               <l>Платить тебе за песни?</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Добрым словом,</l>
               <l>Приветливым.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Какая ж это плата?</l>
               <l>Со всеми я приветлива.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>За песни</l>
@@ -1966,7 +1977,7 @@
               <l>Поласковей, когда и поцелуют.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>За поцелуй поешь ты песни? Разве</l>
@@ -1983,14 +1994,14 @@
               <l>И целовать тебя не стану, Лель.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Сорви цветок с травы и подари</l>
               <l>За песенку, с меня довольно.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Шутишь,</l>
@@ -1998,7 +2009,7 @@
               <l>А нужен он, и сам сорвешь.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Цветок</l>
@@ -2006,7 +2017,7 @@
               <l>Снегурочки.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>К чему такие речи?</l>
@@ -2015,28 +2026,28 @@
               <l>Понюхаешь и бросишь.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Вот увидишь,</l>
               <l>Давай его!</l>
             </lg>
           </sp>
-          <stage type="delivery">(подавая цветок)</stage>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
+            <stage>(подавая цветок)</stage>
             <lg>
               <l>Возьми!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>На видном месте</l>
               <l>Приткну его. Пусть девки смотрят. Спросят,</l>
               <l>Откуда взял, скажу, что ты дала.</l>
             </lg>
-            <stage type="delivery">(Поет.)</stage>
+            <stage>(Поет.)</stage>
             <lg>
               <l>Земляничка-ягодка</l>
               <l>Под кусточком выросла;</l>
@@ -2085,13 +2096,13 @@
           </sp>
           <stage>Две девушки издали манят Леля. Он вынимает цветок, данный Снегурочкой, и бросает, и
             идет к девушкам.</stage>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Куда бежишь? Зачем цветок бросаешь?</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>На что же мне завялый твой цветок!</l>
@@ -2103,13 +2114,13 @@
               <l>Пошепчемся у тына под шумок,</l>
               <l>От матушек сердитых потихоньку.</l>
             </lg>
-            <stage type="delivery">(Уходит.)</stage>
+            <stage>(Уходит.)</stage>
           </sp>
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Снегурочка — одна.</stage>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Как больно здесь, как сердцу тяжко стало!</l>
@@ -2126,7 +2137,7 @@
               <l>В объятиях у Леля замирают.</l>
               <l>Веселье там и радость.</l>
             </lg>
-            <stage type="delivery">(Прислушивается.)</stage>
+            <stage>(Прислушивается.)</stage>
 
             <lg>
               <l>Чу! смеются.</l>
@@ -2151,43 +2162,43 @@
             </lg>
           </sp>
           <stage>На улице показываются Малуша, Радушка, Малыш, Брусило, Курилка, Лель и другие парни
-            и девушки, потом Купава . Парни с поклоном подходят к девушкам.</stage>
+            и девушки, потом Купава. Парни с поклоном подходят к девушкам.</stage>
         </div>
         <div type="scene">
           <head>Явление пятое</head>
-          <stage>Снегурочка, Купава, Малуша, Радушка, Малыш, Брусило, Курилка, Лель и берендеи
-            .</stage>
-          <stage type="delivery">(парням)</stage>
-          <sp who="#Malusha">
+          <stage>Снегурочка, Купава, Малуша, Радушка, Малыш, Брусило, Курилка, Лель и
+            берендеи.</stage>
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
+            <stage>(парням)</stage>
             <lg>
               <l>Оставьте нас! Подите подлещайтесь</l>
               <l>К Снегурочке своей!</l>
             </lg>
           </sp>
-          <stage type="delivery">(Брусилу)</stage>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
+            <stage>(Брусилу)</stage>
             <lg>
               <l>Не подходи,</l>
               <l>Бесстыжие глаза твои!</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Доколе ж</l>
               <l>Томиться нам, скажите!</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>Порешите</l>
               <l>Хоть чем-нибудь!</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>К Снегурочке подите!</l>
@@ -2195,40 +2206,40 @@
               <l>На новую, так веры нет.</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Найдите</l>
               <l>Получше нас, коль мы нехороши.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>А если нам от новой взятки гладки,</l>
               <l>Куда ж тогда?</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Не плакать же об вас.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Уж каялись; не век же распинаться;</l>
               <l>Пора забыть про старое.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Не вдруг</l>
               <l>Забудем мы, не дожидайтесь.</l>
             </lg>
-            <stage type="delivery">(Малуше.)</stage>
+            <stage>(Малуше.)</stage>
             <lg>
               <l>Прямо</l>
               <l>В глаза тебе смеются, вынимают</l>
@@ -2238,39 +2249,39 @@
               <l>Забудется.</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Ни в жизнь не позабудем.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Покорствуем, повинную приносим,</l>
               <l>А жалости не видим над собой.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Умри в глазах, и то не пожалею.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Все дело врозь да надвое.</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>Ау!</l>
               <l>Хоть волком вой.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>А врозь, так врозь; и сами</l>
@@ -2278,23 +2289,23 @@
               <l>Потянутся.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Слепой сказал: посмотрим.</l>
             </lg>
           </sp>
           <stage>Девушки и парни расходятся в разные стороны.</stage>
-          <stage type="delivery">(подходя к Снегурочке)</stage>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
+            <stage>(подходя к Снегурочке)</stage>
             <lg>
               <l>Снегурочка, одна стоишь, бедняжка!</l>
               <l>Оставили тебя, забыли парни,</l>
               <l>Хоть Леля бы ласкала.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Лель не любит</l>
@@ -2302,7 +2313,7 @@
               <l>Горячих ласк, а я стыдлива.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Я-то,</l>
@@ -2349,15 +2360,15 @@
               <l>Круги водить пойдем на Красной горке.</l>
               <l>Да вот и он!</l>
             </lg>
-            <stage type="delivery">(Бежит и прячется между девушек.)</stage>
+            <stage>(Бежит и прячется между девушек.)</stage>
           </sp>
           <stage>Входит Мизгирь, за ним двое слуг с мешками. Снегурочка прядет.</stage>
         </div>
         <div type="scene">
           <head>Явление шестое</head>
           <stage>Снегурочка, Купава, Малуша, Радушка, Мизгирь, Малыш, Брусило, Курилка, Лель, слуги
-            Мизгиря и берендеи .</stage>
-          <sp who="#Kupava">
+            Мизгиря и берендеи.</stage>
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Голубушки-девицы,</l>
@@ -2367,15 +2378,15 @@
               <l>А выдайте, так за великий выкуп.</l>
             </lg>
           </sp>
-          <stage type="delivery">(учтиво кланяясь)</stage>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
+            <stage>(учтиво кланяясь)</stage>
             <lg>
               <l>Красавицы-девицы, между вами</l>
               <l>Не прячется ль красавица Купава?</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Красавица Купава вам, девицам,</l>
@@ -2384,7 +2395,7 @@
               <l>И тайности девичьи говорить.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Красавицы, подружка вам нужна,</l>
@@ -2393,14 +2404,14 @@
               <l>Ключи отдам от кованых ларцов?</l>
             </lg>
           </sp>
-          <stage type="delivery">(девушкам)</stage>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
+            <stage>(девушкам)</stage>
             <lg>
               <l>Отдать иль нет?</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Не отдавай подружку,</l>
@@ -2408,7 +2419,7 @@
               <l>И игры мы недоиграли с ней.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Красавицы, подружка вам нужна,</l>
@@ -2417,20 +2428,20 @@
               <l>Кому чесать и холить кудри русы?</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Отдать иль нет подружку?</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Разве выкуп</l>
               <l>Великий даст.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Рублем или полтиной,</l>
@@ -2438,21 +2449,21 @@
               <l>Дари девиц, Купаву отдадим.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Не жаль для вас ни гривны, ни полтины,</l>
               <l>Не жаль рубля девицам подарить.</l>
             </lg>
-            <stage type="delivery">(Берет у слуги из мешка деньги и раздает девушкам.)</stage>
+            <stage>(Берет у слуги из мешка деньги и раздает девушкам.)</stage>
             <lg>
               <l>Орехов вам и пряников печатных</l>
               <l>Корабль пришел.</l>
             </lg>
-            <stage type="delivery">(Отдает мешок с орехами и пряниками.)</stage>
+            <stage>(Отдает мешок с орехами и пряниками.)</stage>
           </sp>
           <stage>Парни окружают Купаву.</stage>
-          <sp who="#Malysh">
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
             <lg>
               <l>Не вдруг возьмешь Купаву.</l>
@@ -2462,7 +2473,7 @@
               <l>А нам самим в слободке недостача.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>К девицам я и лаской и приветом,</l>
@@ -2473,7 +2484,7 @@
           </sp>
           <stage>Малыш подставляет шапку-берендейку, Мизгирь сыплет две пригоршни и берет
             Купаву.</stage>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Сердечный друг, свою девичью волю,</l>
@@ -2483,7 +2494,7 @@
             </lg>
           </sp>
           <stage>Отходят и садятся на крыльце избы Мураша.</stage>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Однако нам Мизгирь в глаза смеется.</l>
@@ -2494,28 +2505,28 @@
               <l>Не выдал бы на посмеянье.</l>
             </lg>
           </sp>
-          <sp who="#Malysh">
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
             <lg>
               <l>Ой ли?</l>
               <l>А что ж бы ты?</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Да не тебе чета.</l>
               <l>Уж, кажется...</l>
             </lg>
           </sp>
-          <stage type="delivery">(Засучивает рукав.)</stage>
-          <sp who="#Malysh">
+          <stage>(Засучивает рукав.)</stage>
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
             <lg>
               <l>Начни, а мы посмотрим.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Крутенек я и на руку тяжел.</l>
@@ -2523,14 +2534,14 @@
               <l>Чтоб не было беды какой.</l>
             </lg>
           </sp>
-          <sp who="#Malysh">
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
             <lg>
               <l>Смотри,</l>
               <l>Коль сунешься, не пяться.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Невозможно,</l>
@@ -2538,107 +2549,107 @@
               <l>Не выпущу. Курилка, задирай!</l>
             </lg>
           </sp>
-          <stage type="delivery">(Мизгирю)</stage>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
+            <stage>(Мизгирю)</stage>
             <lg>
               <l>Эй ты, Мизгирь, послушай, брат, робята</l>
               <l>Обиделись.</l>
             </lg>
           </sp>
-          <stage type="delivery">(встает с крыльца)</stage>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
+            <stage>(встает с крыльца)</stage>
             <lg>
               <l>На что?</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>На грубость.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Будто?</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>Уж верно так.</l>
             </lg>
           </sp>
-          <stage type="delivery">(подходя к Курилке)</stage>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
+            <stage>(подходя к Курилке)</stage>
             <lg>
               <l>А ты обижен тоже?</l>
               <l>Ну, что ж молчишь!</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>Да я-то ничего.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Так прочь поди; да поумней пошлите</l>
               <l>Кого-нибудь.</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>А я, небось, дурак,</l>
               <l>По-твоему?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Дурак и есть.</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>За дело ж</l>
               <l>Сбирается тебя побить Брусило.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Брусило? Где? Какой такой? Кажите!</l>
               <l>Давай его!</l>
             </lg>
           </sp>
-          <stage type="delivery">(удерживает Брусила)</stage>
-          <sp who="#Malysh">
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
+            <stage>(удерживает Брусила)</stage>
             <lg>
               <l>Куда же ты? Постой!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Брусило ты? Поди сюда поближе!</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
-            <stage type="delivery">(парням, которые его подталкивают)</stage>
+            <stage>(парням, которые его подталкивают)</stage>
             <lg>
               <l>Да полно вам!</l>
             </lg>
-            <stage type="delivery">(Мизгирю.)</stage>
+            <stage>(Мизгирю.)</stage>
 
             <lg>
               <l>Не слушай, государь!</l>
@@ -2646,49 +2657,49 @@
               <l>Промеж себя.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Эх, горе-богатырь!</l>
               <l>Да так тебе и надо.</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Ни́што им!</l>
               <l>У них в глазах и нас возьмут чужие.</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>А мы пойдем за девками чужими.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>А мы об вас и думать позабыли.</l>
             </lg>
           </sp>
           <stage>Девки и парни расходятся врозь.</stage>
-          <stage type="delivery">(парням)</stage>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
+            <stage>(парням)</stage>
             <lg>
               <l>Не стыдно ль вам? К девице-слобожанке</l>
               <l>Жених пришел, его приветить нужно;</l>
               <l>А вы на брань и драку лезть готовы.</l>
             </lg>
           </sp>
-          <sp who="#Malysh">
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
             <lg>
               <l>Брусило здесь зажига.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Не порядок —</l>
@@ -2697,13 +2708,13 @@
               <l>Купаву взять и без него умели б.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Умел бы ты, да я-то не умею</l>
               <l>Любить тебя, вот горе.</l>
             </lg>
-            <stage type="delivery">(Девушкам.)</stage>
+            <stage>(Девушкам.)</stage>
 
             <lg>
               <l>Запевайте,</l>
@@ -2714,7 +2725,7 @@
           <stage>Девушки запевают: «Ай во поле липонька» и уходят; парни за ними, поодаль. Лель
             садится подле Снегурочки и оплетает рожок берестой. Купава с Мизгирем подходят к
             Снегурочке.</stage>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Снегурочка, потешь свою подружку</l>
@@ -2725,7 +2736,7 @@
               <l>Снегурочка, последний.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Я, Купава,</l>
@@ -2733,65 +2744,65 @@
               <l>Снесу домой и побегу за вами.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Уходит в избу.)</stage>
-          <stage type="delivery">(Мизгирю)</stage>
-          <sp who="#Kupava">
+          <stage>(Уходит в избу.)</stage>
+          <sp who="#kupava">
             <speaker>Купава</speaker>
+            <stage>(Мизгирю)</stage>
             <lg>
               <l>Сердечный друг, пойдем! Они догонят.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Постой, постой!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Девицы за слободкой</l>
               <l>Полком стоят и ждут.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Твоя подружка</l>
               <l>Снегурочка; а Лель у вас при чем?</l>
             </lg>
           </sp>
-          <stage>Снегурочка выходит, за ней Бобыль и Бобылиха .</stage>
+          <stage>Снегурочка выходит, за ней Бобыль и Бобылиха.</stage>
         </div>
         <div type="scene">
           <head>Явление седьмое</head>
-          <stage>Снегурочка, Купава, Мизгирь, Лель, Бобыль, Бобылиха .</stage>
-          <sp who="#Kupava">
+          <stage>Снегурочка, Купава, Мизгирь, Лель, Бобыль, Бобылиха.</stage>
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Снегурочке без Леля будет скучно.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Да правда ли? Не веселей ли будет</l>
               <l>Снегурочке со мной итти?</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>А я-то?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>А ты возьми хоть Леля.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Как же, милый?</l>
@@ -2799,20 +2810,20 @@
               <l>Разлучит нас.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Пойдешь ли ты, иль нет,</l>
               <l>А я останусь здесь.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Покорно просим.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Закрой сперва сыпучими песками</l>
@@ -2825,7 +2836,7 @@
               <l>Дружка назад!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Подружка дорогая,</l>
@@ -2836,27 +2847,27 @@
               <l>Ни в зависти меня не упрекайте!</l>
             </lg>
           </sp>
-          <stage type="delivery">(Хочет итти.)</stage>
-          <stage type="delivery">(удерживает ее)</stage>
-          <sp who="#Mizgir">
+          <stage>(Хочет итти.)</stage>
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
+            <stage>(удерживает ее)</stage>
             <lg>
               <l>Снегурочка, останься! Кто счастливец</l>
               <l>Любовник твой?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Никто.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Так буду я.</l>
             </lg>
-            <stage type="delivery">(Купаве.)</stage>
+            <stage>(Купаве.)</stage>
             <lg>
               <l>Смотри туда, Купава! Видишь, солнце</l>
               <l>На западе, в лучах зари вечерней,</l>
@@ -2864,29 +2875,29 @@
               <l>Воротится ль оно назад?</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Для солнца</l>
               <l>Возврата нет.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>И для любви погасшей</l>
               <l>Возврата нет, Купава.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Горе, горе!</l>
               <l>Голубушки-подружки, воротитесь!</l>
             </lg>
-            <stage type="delivery">(Убегает.)</stage>
+            <stage>(Убегает.)</stage>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Люби меня, Снегурочка! Дарами</l>
@@ -2894,35 +2905,35 @@
               <l>Бесценную.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Любви моей не купишь.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>И жизнь свою отдам впридачу. Слуги,</l>
               <l>Казну мою несите!</l>
             </lg>
           </sp>
-          <stage type="delivery">(Снегурочке)</stage>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
+            <stage>(Снегурочке)</stage>
             <lg>
               <l>Ты, с ума-то</l>
               <l>Великого, не вздумай отказаться!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Мешки тащат, Снегурочка, попомни</l>
               <l>Родителей!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Не пронесли бы мимо.</l>
@@ -2930,7 +2941,7 @@
               <l>Рогатая с окатным жемчугам.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Сбирайте дань, завистливые люди,</l>
@@ -2939,7 +2950,7 @@
               <l>Притворствовать для ваших барышей.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Попотчевал бы гостя, да не знаю,</l>
@@ -2948,39 +2959,39 @@
               <l>Коврижку ли медовую да бражки?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Чего не жаль, того и дай.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Помилуй,</l>
               <l>Жалею ль я. Чего душе угодно?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Подай медку!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Какой тебе по нраву:</l>
               <l>Малиновый аль ви́шневый, инбирный?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Какой-нибудь.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>И всякого довольно,</l>
@@ -2990,14 +3001,14 @@
               <l>Железной нет в мошне у Бобыля.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Бери мешок, старик, — пойдет в задаток</l>
               <l>За дочь твою.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Тащи в избу, старуха,</l>
@@ -3006,7 +3017,7 @@
               <l>Попотчую тебя и сам напьюсь.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Давать казну, так знать за что. Уж Леля</l>
@@ -3014,7 +3025,7 @@
               <l>Рассоримся, старик.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Такое ль дело,</l>
@@ -3023,13 +3034,13 @@
               <l>Велишь прогнать, прогоним.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Прогони!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Снегурочка! Не полюбилось гостю,</l>
@@ -3040,37 +3051,37 @@
               <l>Не-для-чего, мол, друг любезный, так-то!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Поди от нас, уйди подальше, Лель!</l>
               <l>Не я гоню, нужда велит.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Прощайте!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>О чем же ты заплакал? Эти слезы</l>
               <l>О чем, скажи!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Когда сама заплачешь,</l>
               <l>Узнаешь ты, о чем и люди плачут.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Отходит.)</stage>
-          <stage type="delivery">(обнимая Снегурочку)</stage>
-          <sp who="#Mizgir">
+          <stage>(Отходит.)</stage>
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
+            <stage>(обнимая Снегурочку)</stage>
             <lg>
               <l>Не знаешь ты цены своей красе.</l>
               <l>По свету я гулял торговым гостем,</l>
@@ -3086,8 +3097,8 @@
         <div type="scene">
           <head>Явление восьмое</head>
           <stage>Снегурочка, Мизгирь, Бобыль, Лель, Купава, Мураш, Радушка, Малуша, Малыш, Брусило,
-            Курилка, берендеи и берендейки .</stage>
-          <sp who="#Kupava">
+            Курилка, берендеи и берендейки.</stage>
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Голубушки-подружки, поглядите!</l>
@@ -3098,39 +3109,39 @@
               <l>Уставился, глядит, не наглядится.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Да как же так?</l>
             </lg>
           </sp>
-          <sp who="#Malysh">
+          <sp who="#malysh">
             <speaker>Малыш</speaker>
             <lg>
               <l>Диковина, ребята.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Обидел он Купаву кровно.</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Всех,</l>
               <l>Обидел всех девиц.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Такого дела</l>
               <l>Не слыхано у честных берендеев.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Скажи, злодей, при всем честном народе,</l>
@@ -3141,7 +3152,7 @@
               <l>На новую добычу? Говори!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>К чему слова! Для сердца нет указки.</l>
@@ -3155,20 +3166,20 @@
               <l>Снегурочку.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Обидно берендейкам</l>
               <l>Такую речь от берендея слышать.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Чего еще! Уж хуже не бывает.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Давно живу, и старые порядки</l>
@@ -3182,20 +3193,20 @@
               <l>Не ведали обиды.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Всем обида,</l>
               <l>Обида всем девицам-берендейкам!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>За что же ты Купаву разлюбил?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Влюбленному всего дороже скромность</l>
@@ -3212,20 +3223,20 @@
               <l>И весело глядела.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Ах, обида!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>И думал я, твое бесстыдство видя,</l>
               <l>Что ты меня сменяешь на другого.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Ах, ах! Отец, родные, заступитесь!</l>
@@ -3234,71 +3245,71 @@
             <lg>
               <l>Защиты нет Купаве?</l>
             </lg>
+            <stage>Все молчат. Купава, подняв руки, обращается к пчельнику.</stage>
+            <lg>
+              <l>Пчелки, пчелки!</l>
+              <l>Крылатые, летите ярым роем,</l>
+              <l>Оставьте вы соты медовы, впейтесь</l>
+              <l>В бесстыжие глаза! Не заикнулся ж</l>
+              <l>Язык его, не поперхнулось горло</l>
+              <l>Сказать, что я девица без стыда,</l>
+              <l>И пристыдить родимых. Залепите</l>
+              <l>Лицо его и песий взгляд лгуна!</l>
+            </lg>
+            <stage>(Обращаясь к хмельнику.)</stage>
+            <lg>
+              <l>Хмелинушко, тычинная былинка,</l>
+              <l>Высоко ты по жердочке взвился,</l>
+              <l>Широко ты развесил яры шишки.</l>
+            </lg>
+            <stage>(Становится на колени.)</stage>
+            <lg>
+              <l>Молю тебя, кудрявый ярый хмель,</l>
+              <l>Отсмей ему, насмешнику, насмешку</l>
+              <l>Над девушкой! За длинными столами,</l>
+              <l>Дубовыми, за умною беседой,</l>
+              <l>В кругу гостей почетных, поседелых,</l>
+              <l>Поставь его, обманщика, невежей</l>
+              <l>Нетесаным и круглым дураком.</l>
+              <l>Домой пойдет, так хмельной головою</l>
+              <l>Ударь об тын стоячий, прямо в лужу</l>
+              <l>Лицом его бесстыжим урони!</l>
+              <l>О реченька, студеная водица,</l>
+              <l>Глубокая, проточная, укрой</l>
+              <l>Тоску мою и вместе с горем лютым</l>
+              <l>Ретивое сердечко утопи!</l>
+            </lg>
           </sp>
-          <stage>Все молчат. Купава, подняв руки, обращается к пчельнику.</stage>
-          <lg>
-            <l>Пчелки, пчелки!</l>
-            <l>Крылатые, летите ярым роем,</l>
-            <l>Оставьте вы соты медовы, впейтесь</l>
-            <l>В бесстыжие глаза! Не заикнулся ж</l>
-            <l>Язык его, не поперхнулось горло</l>
-            <l>Сказать, что я девица без стыда,</l>
-            <l>И пристыдить родимых. Залепите</l>
-            <l>Лицо его и песий взгляд лгуна!</l>
-          </lg>
-          <stage type="delivery">(Обращаясь к хмельнику.)</stage>
-          <lg>
-            <l>Хмелинушко, тычинная былинка,</l>
-            <l>Высоко ты по жердочке взвился,</l>
-            <l>Широко ты развесил яры шишки.</l>
-          </lg>
-          <stage type="delivery">(Становится на колени.)</stage>
-          <lg>
-            <l>Молю тебя, кудрявый ярый хмель,</l>
-            <l>Отсмей ему, насмешнику, насмешку</l>
-            <l>Над девушкой! За длинными столами,</l>
-            <l>Дубовыми, за умною беседой,</l>
-            <l>В кругу гостей почетных, поседелых,</l>
-            <l>Поставь его, обманщика, невежей</l>
-            <l>Нетесаным и круглым дураком.</l>
-            <l>Домой пойдет, так хмельной головою</l>
-            <l>Ударь об тын стоячий, прямо в лужу</l>
-            <l>Лицом его бесстыжим урони!</l>
-            <l>О реченька, студеная водица,</l>
-            <l>Глубокая, проточная, укрой</l>
-            <l>Тоску мою и вместе с горем лютым</l>
-            <l>Ретивое сердечко утопи!</l>
-          </lg>
-          <sp who="#Lel">
+          <stage>(Бежит к реке, Лель ее удерживает, почти бесчувственную.)</stage>
+          <sp who="#lel">
             <speaker>Лель</speaker>
-            <stage type="delivery">(Бежит к реке, Лель ее удерживает, почти бесчувственную.)</stage>
             <lg>
               <l>Зачем топить ретивое сердечко!</l>
               <l>Пройдет тоска и сердце оживет.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>За девушек обманутых заступник</l>
               <l>Великий царь. Проси царя, Купава.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka #Mizgir #Bobyl #Lel #Kupava #Murash #Radushka #Malusha #Malysh #Brusilo #Kurilka">
+          <sp who="#vse_1-8">
             <speaker>Все</speaker>
             <lg>
               <l>За всех сирот заступник Берендей.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Постылый ты, постылый человек!</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <stage>(Падает на руки Леля.)</stage>
+          <sp who="#murash">
             <speaker>Мураш</speaker>
-            <stage type="delivery">(Падает на руки Леля.)</stage>
             <lg>
               <l>Дождался ты проклятья от Купавы.</l>
               <l>Не долго ждать погибельного гнева</l>
@@ -3328,9 +3339,9 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Царь Берендей сидит на золотом стуле, расписывает красками один из столбов. У ног
-            царя сидят на полу два скомороха ; несколько поодаль — слепые гусляры с гуслями; на
+            царя сидят на полу два скомороха; несколько поодаль — слепые гусляры с гуслями; на
             переходах и у дверей стоят царские отроки.</stage>
-          <sp who="#Gusljary">
+          <sp who="#gusljary">
             <speaker>Гусляры (поют)</speaker>
             <lg>
               <l>Вещие, звонкие струны рокочут</l>
@@ -3388,70 +3399,70 @@
             </lg>
           </sp>
           <stage>Царь знаком благодарит слепых, их уводят.</stage>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Что ж это царь, — к чему, скажи, пристало, —</l>
               <l>Внизу столба коровью ногу пишет.</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>Аль ты ослеп? Да где ж она, коровья?</l>
             </lg>
           </sp>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Какая же?</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>Какая! Видишь: песья.</l>
             </lg>
           </sp>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Коровья, шут.</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>Ан, песья.</l>
             </lg>
           </sp>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Ан, коровья,</l>
               <l>С копытами.</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>Да песья ж.</l>
             </lg>
           </sp>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Сам ты пес,</l>
               <l>Собачий нос!</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>А ты корова.</l>
             </lg>
           </sp>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Я-то?</l>
@@ -3461,14 +3472,14 @@
               <l>Так я тебя рогами забоду!</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>А я тебя зубами загрызу!</l>
             </lg>
           </sp>
           <stage>Встают на ноги и расходятся, приготовляясь биться на кулачки.</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>На место, вы!</l>
@@ -3493,28 +3504,28 @@
               <l>Ну, поняли, глупцы?</l>
             </lg>
           </sp>
-          <sp who="#PerviySkomoroh">
+          <sp who="#perviy_skomoroh">
             <speaker>1-й скоморох</speaker>
             <lg>
               <l>Скажи, который</l>
               <l>Из нас двоих глупее.</l>
             </lg>
           </sp>
-          <sp who="#VtorojSkomoroh">
+          <sp who="#vtoroj_skomoroh">
             <speaker>2-й скоморох</speaker>
             <lg>
               <l>Вот задача!</l>
               <l>Нехитрому уму не разгадать.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Приятно ум чужой своим примерить,</l>
               <l>На меру взять и на́ вес; глупость мерить —</l>
               <l>Напрасно труд терять.</l>
             </lg>
-            <stage>Входит Бермята .</stage>
+            <stage>Входит Бермята.</stage>
             <lg>
               <l>Подите вон!</l>
             </lg>
@@ -3523,8 +3534,8 @@
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <stage>Царь Берендей, Бермята .</stage>
-          <sp who="#Bermjata">
+          <stage>Царь Берендей, Бермята.</stage>
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Великий царь счастливых берендеев,</l>
@@ -3534,19 +3545,19 @@
               <l>Покуда все благополучно.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Правда ль?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Воистину.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Не верю я, Бермята.</l>
@@ -3566,19 +3577,19 @@
               <l>И воровства...</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Воруют понемножку.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>И ловите?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Зачем же их ловить,</l>
@@ -3588,7 +3599,7 @@
               <l>Ни воровать, кнута не миновать».</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Конечно, грех неправого стяжанья</l>
@@ -3630,14 +3641,14 @@
               <l>Сердит на нас Ярило.</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Царь премудрый,</l>
               <l>За что б ему сердиться?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Есть за что.</l>
@@ -3684,7 +3695,7 @@
               <l>И стужей мстит. Понятно?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Понимаю,</l>
@@ -3692,14 +3703,14 @@
               <l>Не вижу средств.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>А средства быть должны.</l>
               <l>Подумай-ка, Бермята!</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Царь премудрый,</l>
@@ -3712,26 +3723,26 @@
               <l>Любовники.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Весьма нехитрый способ.</l>
               <l>А пользы-то дождемся?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Никакой.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>К чему ж тогда указы?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Перед Солнцем</l>
@@ -3740,7 +3751,7 @@
               <l>По сторожу ко всякому приставить.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Придумано неглупо, но некстати.</l>
@@ -3761,7 +3772,7 @@
               <l>Угодней нет Яриле жертвы!</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Мудрый,</l>
@@ -3770,7 +3781,7 @@
               <l>Да только жаль, что невозможна.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Что?</l>
@@ -3779,7 +3790,7 @@
               <l>В уме ли ты?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Не гневайся! Невесты</l>
@@ -3788,13 +3799,13 @@
               <l>Не подведешь друг к другу.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Из чего?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Какая-то в заречной слободе</l>
@@ -3805,7 +3816,7 @@
               <l>Усобица, что только руки врозь!</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Во-первых, я не верю, во-вторых,</l>
@@ -3814,8 +3825,8 @@
               <l>Решение мое неперменимо.</l>
             </lg>
           </sp>
-          <stage>Входит отрок .</stage>
-          <sp who="#Otrok">
+          <stage>Входит отрок.</stage>
+          <sp who="#otrok">
             <speaker>Отрок</speaker>
             <lg>
               <l>Девушка красная</l>
@@ -3823,7 +3834,7 @@
               <l>Взнесть челобитьице.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Разве для девушек</l>
@@ -3831,26 +3842,26 @@
               <l>Двери затворены?</l>
             </lg>
           </sp>
-          <stage>Отрок вводит Купаву .</stage>
+          <stage>Отрок вводит Купаву.</stage>
         </div>
         <div type="scene">
           <head>Явление третье</head>
-          <stage>Царь Берендей, Бермята, Купава, отроки .</stage>
-          <sp who="#Kupava">
+          <stage>Царь Берендей, Бермята, Купава, отроки.</stage>
+          <sp who="#kupava">
             <speaker>Купава</speaker>
-            <stage type="delivery">(кланяясь)</stage>
+            <stage>(кланяясь)</stage>
             <lg>
               <l>Батюшка, светлый царь!</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
-            <stage type="delivery">(ласково подымая ее)</stage>
+            <stage>(ласково подымая ее)</stage>
             <lg>
               <l>Сказывай, слушаю!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Батюшка, светлый царь,</l>
@@ -3859,15 +3870,15 @@
               <l>Где же показано?</l>
               <l>Сердце-то вынувши...</l>
             </lg>
-            <stage type="delivery">(Плачет.)</stage>
+            <stage>(Плачет.)</stage>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Сказывай, слушаю.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Сердце-то вынувши,</l>
@@ -3879,7 +3890,7 @@
               <l>Назвал бесстыжею.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Слышу я, девица,</l>
@@ -3894,20 +3905,20 @@
               <l>Кем опозорена!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
-            <stage type="delivery">(плача)</stage>
+            <stage>(плача)</stage>
             <lg>
               <l>Сказывать, светлый царь?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Сказывай, умница!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Время весеннее,</l>
@@ -3920,14 +3931,14 @@
               <l>Вот я и встретилась.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>С кем же ты встретилась</l>
               <l>С кем познакомилась?</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Встретилась с юношей,</l>
@@ -3935,26 +3946,26 @@
               <l>Роду Мизгирьего.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Знаю, красавица.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
-            <stage type="delivery">(плача)</stage>
+            <stage>(плача)</stage>
             <lg>
               <l>Сказывать, светлый царь?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Сказывай, сказывай!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Дай-ка, спрошу тебя,</l>
@@ -3965,7 +3976,7 @@
               <l>Вовсе извериться?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Как же не верить-то,</l>
@@ -3975,21 +3986,21 @@
               <l>Только и держится.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
-            <stage type="delivery">(плача)</stage>
+            <stage>(плача)</stage>
             <lg>
               <l>Я и поверила.</l>
               <l>Сказывать, светлый царь?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Сказывай, умница!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Дай-ка, еще спрошу!</l>
@@ -4001,27 +4012,27 @@
               <l>Надо ль любить его?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Надо, красавица.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
-            <stage type="delivery">(плача)</stage>
+            <stage>(плача)</stage>
             <lg>
               <l>Так я и сделала.</l>
               <l>Сказывать, светлый царь?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Сказывай, сказывай!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Всех-то забыла я,</l>
@@ -4058,7 +4069,7 @@
               <l>Назвал бесстыжею...</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Бедная девушка!</l>
@@ -4067,7 +4078,7 @@
               <l>Горе правдивое.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Слушала, слушала,</l>
@@ -4081,9 +4092,9 @@
               <l>Так вот точнехонько</l>
               <l>Оземь и грянулась.</l>
             </lg>
-            <stage type="delivery">(Хочет упасть, царь ее поддерживает.)</stage>
+            <stage>(Хочет упасть, царь ее поддерживает.)</stage>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Красавица, поверь, что если б громы</l>
@@ -4110,9 +4121,9 @@
             </lg>
           </sp>
           <stage>Глашатаи по переходам бегут на вышки</stage>
-          <stage type="delivery">(кричит с вышки)</stage>
-          <sp who="#PerviyBirjuch">
+          <sp who="#perviy_birjuch">
             <speaker>1-й бирюч</speaker>
+            <stage>(кричит с вышки)</stage>
             <lg>
               <l>Государевы люди:</l>
               <l>Бояре, дворяне,</l>
@@ -4124,9 +4135,9 @@
               <l>Холопы босые!</l>
             </lg>
           </sp>
-          <stage type="delivery">(с другой вышки)</stage>
-          <sp who="#VtorojBirjuch">
+          <sp who="#vtoroj_birjuch">
             <speaker>2-й бирюч</speaker>
+            <stage>(с другой вышки)</stage>
             <lg>
               <l>Гости торговые,</l>
               <l>Шапки бобровые,</l>
@@ -4135,7 +4146,7 @@
               <l>Кошели тугие</l>
             </lg>
           </sp>
-          <sp who="#PerviyBirjuch">
+          <sp who="#perviy_birjuch">
             <speaker>1-й бирюч</speaker>
             <lg>
               <l>Молодые молодицы,</l>
@@ -4147,7 +4158,7 @@
               <l>Затылки битые.</l>
             </lg>
           </sp>
-          <sp who="#VtorojBirjuch">
+          <sp who="#vtoroj_birjuch">
             <speaker>2-й бирюч</speaker>
             <lg>
               <l>Дьяки, подьячие,</l>
@@ -4156,7 +4167,7 @@
               <l>Да руку крючком держать.</l>
             </lg>
           </sp>
-          <sp who="#PerviyBirjuch">
+          <sp who="#perviy_birjuch">
             <speaker>1-й бирюч</speaker>
             <lg>
               <l>Старые старички,</l>
@@ -4165,7 +4176,7 @@
               <l>Бабьи служители!</l>
             </lg>
           </sp>
-          <sp who="#VtorojBirjuch">
+          <sp who="#vtoroj_birjuch">
             <speaker>2-й бирюч</speaker>
             <lg>
               <l>Старые старушки,</l>
@@ -4175,7 +4186,7 @@
               <l>Сына со снохой развесть.</l>
             </lg>
           </sp>
-          <sp who="#PerviyBirjuch">
+          <sp who="#perviy_birjuch">
             <speaker>1-й бирюч</speaker>
             <lg>
               <l>Молодые молодцы,</l>
@@ -4188,7 +4199,7 @@
               <l>Девок выманивать.</l>
             </lg>
           </sp>
-          <sp who="#VtorojBirjuch">
+          <sp who="#vtoroj_birjuch">
             <speaker>2-й бирюч</speaker>
             <lg>
               <l>Красные девицы,</l>
@@ -4200,7 +4211,7 @@
               <l>Да ребят кормить.</l>
             </lg>
           </sp>
-          <sp who="#PerviyBirjuch">
+          <sp who="#perviy_birjuch">
             <speaker>1-й бирюч</speaker>
             <lg>
               <l>Слушайте-послушайте,</l>
@@ -4218,7 +4229,7 @@
               <l>Сходят с вышек.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Любезна мне игра ума и слова:</l>
@@ -4229,17 +4240,17 @@
               <l>Сбирается народ?</l>
             </lg>
           </sp>
-          <stage type="delivery">(с переходов)</stage>
-          <sp who="#Otrok">
+          <sp who="#otrok">
             <speaker>Отрок</speaker>
+            <stage>(с переходов)</stage>
             <lg>
               <l>Валит толпами,</l>
               <l>Великий царь.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Купаве)</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
+            <stage>(Купаве)</stage>
             <lg>
               <l>Девица, не тужи!</l>
               <l>Печаль темнит лица живые краски.</l>
@@ -4250,22 +4261,22 @@
               <l>Отмститель суд да царь.</l>
             </lg>
           </sp>
-          <stage>Из внутренних покоев выходят Прекрасная Елена и боярыни ; из наружных дверей и с
-            лестницы — народ ; между народом Мураш и Лель . Приспешники приводят Мизгиря .</stage>
+          <stage>Из внутренних покоев выходят Прекрасная Елена и боярыни; из наружных дверей и с
+            лестницы — народ; между народом Мураш и Лель. Приспешники приводят Мизгиря.</stage>
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Царь Берендей, Бермята, Прекрасная Елена, Купава, Мураш, Лель, Мизгирь, царские
-            отроки, народ .</stage>
-          <sp who="#Tsar">
+            отроки, народ.</stage>
+          <sp who="#tsar">
             <speaker>Царь</speaker>
-            <stage type="delivery">(Елене Прекрасной)</stage>
+            <stage>(Елене Прекрасной)</stage>
             <lg>
               <l>Привет тебе,</l>
               <l>Краса дворца, Прекрасная Елене!</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>Привет тебе, великий Берендей,</l>
@@ -4273,7 +4284,7 @@
               <l>От всех сердец, лелеющих любовь.</l>
             </lg>
           </sp>
-          <sp who="#HorNaroda">
+          <sp who="#hor_naroda">
             <speaker>Хор народа</speaker>
             <lg>
               <l>Привет тебе, премудрый,</l>
@@ -4290,46 +4301,46 @@
               <l>Великий Берендей!</l>
             </lg>
           </sp>
-          <stage type="delivery">(народу)</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
+            <stage>(народу)</stage>
             <lg>
               <l>Спасибо вам! В приводе ль виноватый?</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Виновный здесь, смиренно ждет суда.</l>
             </lg>
           </sp>
-          <stage type="delivery">(народу)</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
+            <stage>(народу)</stage>
             <lg>
               <l>Вина его известна вам?</l>
             </lg>
           </sp>
-          <sp who="#Narod">
+          <sp who="#narod">
             <speaker>Народ</speaker>
             <lg>
               <l>Известна.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Мизгирю)</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
+            <stage>(Мизгирю)</stage>
             <lg>
               <l>В вине своей винишься ль ты?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Винюсь.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Вина его ужасна, берендеи</l>
@@ -4349,14 +4360,14 @@
               <l>Чему Мизгирь повинен, говорите!</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Заставь его жениться на девице</l>
               <l>Обиженной!</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Заставь молить прощенья</l>
@@ -4364,7 +4375,7 @@
               <l>Тогда карай грозой своей.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Мизгирь,</l>
@@ -4372,28 +4383,28 @@
               <l>Понять в жену?</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>У Мизгиря невеста —</l>
               <l>Снегурочка.</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Его заставить можно.</l>
               <l>Премудрый царь.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Не терпит принужденья</l>
               <l>Свободный брак.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Не дай ему ругаться,</l>
@@ -4401,13 +4412,13 @@
               <l>Желает ли она сама?</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Купава!</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Великий царь, любви Купава ищет.</l>
@@ -4417,7 +4428,7 @@
               <l>В груди моей. Не надо мне его.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Честной народ, достойна смертной казни</l>
@@ -4437,7 +4448,7 @@
               <l>Звериное с зверями тешь, Мизгирь!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Ни слова я не молвлю в оправданье;</l>
@@ -4445,7 +4456,7 @@
               <l>Снегурочку...</l>
             </lg>
           </sp>
-          <sp who="#Narod">
+          <sp who="#narod">
             <speaker>Народ</speaker>
             <lg>
               <l>Снегурочка идет!</l>
@@ -4457,92 +4468,92 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Царь Берендей, Бермята, Прекрасная Елена, Купава, Мураш, Лель, Мизгирь, Снегурочка,
-            Бобыль, Бобылиха, царские отроки, народ .</stage>
-          <sp who="#Snegurochka">
+            Бобыль, Бобылиха, царские отроки, народ.</stage>
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(оглядывая дворец)</stage>
+            <stage>(оглядывая дворец)</stage>
             <lg>
               <l>Какой простор, как чисто все, богато!</l>
               <l>Смотри-ка, мать! Лазоревый цветочек —</l>
               <l>Живехонек.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <stage>(Садится на пол и рассматривает цветок на столбе.)</stage>
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
-            <stage type="delivery">(Садится на пол и рассматривает цветок на столбе.)</stage>
             <lg>
               <l>Да ты бы поклонилась</l>
               <l>Вперед всего! И нам поклон отвесят,</l>
               <l>Ведь тоже мы не из последних.</l>
             </lg>
-            <stage type="delivery">(Толкает Снегурочку локтем и говорит тихо.)</stage>
+            <stage>(Толкает Снегурочку локтем и говорит тихо.)</stage>
             <lg>
               <l>Смотрят</l>
               <l>На кику-то?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Дивуются, глядят.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Ну, кланяйся!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Забыла, не взыщите!</l>
               <l>Ну, здравствуйте, честны́е берендеи!</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Боярыни стоят, гляди! А кики</l>
               <l>Попроще, чай, моей?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Твоя рогатей.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Ну, то-то же, пускай глядят да сохнут</l>
               <l>От зависти!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(указывая на царя)</stage>
+            <stage>(указывая на царя)</stage>
             <lg>
               <l>А это кто? Кафтан-то</l>
               <l>Узорчатый, обвязка золотая</l>
               <l>И по пояс седая борода.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Да это царь.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Ах! Мама, страшно стало</l>
               <l>Снегурочке. Пойдем на волю.</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Ну-ка.</l>
@@ -4553,7 +4564,7 @@
               <l>Побарствуем, покуда не погонят.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Невежа ты! Глазеешь, рот разиня,</l>
@@ -4565,16 +4576,16 @@
               <l>Да кланяйся пониже!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(подойдя к царю, кланяется)</stage>
+            <stage>(подойдя к царю, кланяется)</stage>
             <lg>
               <l>Здравствуй, царь!</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
-            <stage type="delivery">(берет ее за руку)</stage>
+            <stage>(берет ее за руку)</stage>
             <lg>
               <l>Полна чудес могучая природа!</l>
               <l>Дары свои обильно рассыпая,</l>
@@ -4588,7 +4599,7 @@
               <l>Прельщая взор и обонянье.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Жалко,</l>
@@ -4600,7 +4611,7 @@
               <l>Пойдем со мной, я место укажу.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Не плачу я, что цветики увяли,</l>
@@ -4618,28 +4629,28 @@
               <l>Ищи себе по сердцу друга!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Где же</l>
               <l>Искать его, не знаю.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Сердце скажет.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Молчит мое сердечко.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
-            <stage type="delivery">(отводя Снегурочку)</stage>
+            <stage>(отводя Снегурочку)</stage>
             <lg>
               <l>Не стыдись!</l>
               <l>Преклонные лета равняют старца</l>
@@ -4655,19 +4666,19 @@
               <l>Кому, скажи, девица!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Никому.</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Великий царь, она любви не знает.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>С ее красой любви не знать, Бермята?</l>
@@ -4684,14 +4695,14 @@
               <l>Желанием любви зажечь, скажите!</l>
             </lg>
           </sp>
-          <sp who="#Bobyl">
+          <sp who="#bobyl">
             <speaker>Бобыль</speaker>
             <lg>
               <l>Немало уж пытались, только даром</l>
               <l>Потратили труды.</l>
             </lg>
           </sp>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
             <lg>
               <l>Немало было</l>
@@ -4699,7 +4710,7 @@
               <l>Ни на волос не вышло.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Берендеи,</l>
@@ -4711,16 +4722,16 @@
               <l>На празднике Ярилы.</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Царь великий,</l>
               <l>Молчат они.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
-            <stage type="delivery">(Елене)</stage>
+            <stage>(Елене)</stage>
             <lg>
               <l>Прекрасная Елена,</l>
               <l>Хочу спросить у вас, у женщин, лучше</l>
@@ -4735,7 +4746,7 @@
               <l>Способного свершить желанный подвиг</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>Великий царь, стыдливость наблюдая</l>
@@ -4750,13 +4761,13 @@
               <l>Крепка была, как сталь, — и это Лель.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Какая честь тебе, пастух.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Не мне,</l>
@@ -4779,7 +4790,7 @@
               <l>И светлому царю, поможет ей!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Великий царь, отсрочь мое изгнанье, —</l>
@@ -4791,7 +4802,7 @@
               <l>Закон царя и страшный гнев богов!</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Мизгирь и Лель, при вашем обещанье</l>
@@ -4805,7 +4816,7 @@
               <l>Счастливый царь пойдет на встречу Солнца.</l>
             </lg>
           </sp>
-          <sp who="#Narod">
+          <sp who="#narod">
             <speaker>Народ</speaker>
             <lg>
               <l>Да здравствует премудрый,</l>
@@ -4850,12 +4861,12 @@
           <stage>Молодые берендеи водят круги; один круг ближе к зрителям, другой поодаль. Девушки и
             парни в венках. Старики и старухи кучками сидят под кустами и угощаются брагой и
             пряниками. В первом кругу ходят: Купава, Радушка, Малуша, Брусило, Курилка, в середине
-            круга: Лель и Снегурочка . Мизгирь, не принимая участия в играх, то показывается между
+            круга: Лель и Снегурочка. Мизгирь, не принимая участия в играх, то показывается между
             народом, то уходит в лес. Бобыль пляшет под волынку. Бобылиха, Мураш и несколько их
             соседей сидят под кустом и пьют пиво. Царь со свитой смотрит издали на играющих.</stage>
-          <sp who="#DevushkiIParni">
+          <sp who="#devushki_i_parni">
             <speaker>Девушки и парни</speaker>
-            <stage type="delivery">(водя круги, поют)</stage>
+            <stage>(водя круги, поют)</stage>
             <lg>
               <l>Ай, во поле липонька,</l>
               <l>Под липою бел шатер,</l>
@@ -4869,15 +4880,15 @@
           </sp>
           <stage>Снегурочка надевает венок на Леля. Круг расходится, все смотрят на Бобыля, который
             пляшет под волынку.</stage>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
-            <stage type="delivery">(потчуя Мураша)</stage>
+            <stage>(потчуя Мураша)</stage>
             <lg>
               <l>Пожалуйте! И наша не щербата</l>
               <l>Копеечка, — и мы поразжились.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Отказу нет. Да мужа-то попотчуй!</l>
@@ -4885,9 +4896,9 @@
             </lg>
           </sp>
           <stage>Бобыль перестает плясать</stage>
-          <sp who="#Bobyliha">
+          <sp who="#bobyliha">
             <speaker>Бобылиха</speaker>
-            <stage type="delivery">(подавая Бобылю жбан пива)</stage>
+            <stage>(подавая Бобылю жбан пива)</stage>
             <lg>
               <l>На праздниках тяжеле всех Бакуле,</l>
               <l>Хлопот ему по горло: пляшет, пляшет,</l>
@@ -4897,15 +4908,15 @@
               <l>Допляшется.</l>
             </lg>
           </sp>
-          <sp who="#Murash">
+          <sp who="#murash">
             <speaker>Мураш</speaker>
             <lg>
               <l>Старательный мужик.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
-            <stage type="delivery">(проходит между гуляющими)</stage>
+            <stage>(проходит между гуляющими)</stage>
             <lg>
               <l>Веселое гулянье! Сердцу радость</l>
               <l>Глядеть на вас. Играйте, веселитесь,</l>
@@ -4921,7 +4932,7 @@
               <l>Спасибо вам на песнях и на пляске!</l>
               <l>Уж тешиться, так тешиться!</l>
             </lg>
-            <stage type="delivery">(Скоморохам.)</stage>
+            <stage>(Скоморохам.)</stage>
             <lg>
               <l>Пляшите,</l>
               <l>Кувыркайтесь, ломайтесь, дураки!</l>
@@ -4941,9 +4952,9 @@
               <l>Последнюю пропой, пригожий Лель!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
-            <stage type="delivery">(поет)</stage>
+            <stage>(поет)</stage>
             <lg>
               <l>Туча со громом сговаривалась:</l>
               <l>Ты, гром, греми, а я дождь разолью,</l>
@@ -4984,7 +4995,7 @@
               <l>Лель, мой Лель! Лели-лели, Лель!</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Спасибо, Лель! Девицы, не стыдитесь!</l>
@@ -4999,14 +5010,14 @@
             </lg>
           </sp>
           <stage>Лель идет к девушкам.</stage>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(тихо Лелю)</stage>
+            <stage>(тихо Лелю)</stage>
             <lg>
               <l>Возьми меня!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Изволь. Поди к сторонке!</l>
@@ -5016,7 +5027,7 @@
           </sp>
           <stage>Снегурочка отходит, весело смотрит, оправляется и охорашивается. Лель берет Купаву,
             подводит к царю и целует. Снегурочка в слезах убегает в кусты.</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Теплом проник до старикова сердца</l>
@@ -5032,7 +5043,7 @@
           </sp>
           <stage>Уходит с Бермятой и Прекрасной Еленой. Некоторые берендеи, и в том числе Лель,
             уходят за царем.</stage>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Все Лель да Лель! Ему такое счастье!</l>
@@ -5040,7 +5051,7 @@
               <l>Сплясать да спеть умеем.</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>А Купаве</l>
@@ -5048,14 +5059,14 @@
               <l>Не ей чета, найдется между нами.</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>Вот мы ему докажем, только стоит</l>
               <l>Осмелиться да захотеть.</l>
             </lg>
           </sp>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
             <lg>
               <l>Докажем,</l>
@@ -5063,7 +5074,7 @@
               <l>Игру свою, что два года учили</l>
               <l>Тишком от всех, в овинах хоронясь.</l>
             </lg>
-            <stage type="delivery">(Поет песню, а Курилка представляет бобра.)</stage>
+            <stage>(Поет песню, а Курилка представляет бобра.)</stage>
             <lg>
               <l>Купался бобер,</l>
               <l>Купался черно́й,</l>
@@ -5094,18 +5105,18 @@
               <l>Опушки бобровы.</l>
               <l>Ай, лели-лели!</l>
             </lg>
-            <stage type="delivery">(Перестает петь.)</stage>
+            <stage>(Перестает петь.)</stage>
             <lg>
               <l>Не ладно, что ль, пропето?</l>
             </lg>
           </sp>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
             <lg>
               <l>Ай да мы!</l>
             </lg>
           </sp>
-          <sp who="#Radushka">
+          <sp who="#radushka">
             <speaker>Радушка</speaker>
             <lg>
               <l>Уж видно, нам мириться с вами, парни.</l>
@@ -5117,22 +5128,22 @@
               <l>От Радушки.</l>
             </lg>
           </sp>
-          <sp who="#Malusha">
+          <sp who="#malusha">
             <speaker>Малуша</speaker>
             <lg>
               <l>Малушины Курилке.</l>
             </lg>
           </sp>
-          <stage type="delivery">(обнимая Радушку)</stage>
-          <sp who="#Brusilo">
+          <sp who="#brusilo">
             <speaker>Брусило</speaker>
+            <stage>(обнимая Радушку)</stage>
             <lg>
               <l>Любезное житье.</l>
             </lg>
           </sp>
-          <stage type="delivery">(обнимая Малушу)</stage>
-          <sp who="#Kurilka">
+          <sp who="#kurilka">
             <speaker>Курилка</speaker>
+            <stage>(обнимая Малушу)</stage>
             <lg>
               <l>Чего же лучше:</l>
               <l>Подружка есть, так сердце дома. Братцы,</l>
@@ -5144,14 +5155,14 @@
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <stage>Лель, Снегурочка .</stage>
-          <sp who="#Lel">
+          <stage>Лель, Снегурочка.</stage>
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Куда она девалась-запропала?</l>
               <l>Купавушка! Да не она ли?</l>
             </lg>
-            <stage type="delivery">(Подходит к Снегурочке.)</stage>
+            <stage>(Подходит к Снегурочке.)</stage>
             <lg>
               <l>Нет,</l>
               <l>Снегурочка, одна, в слезах. О чем</l>
@@ -5163,34 +5174,34 @@
               <l>Одна, в слезах.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Ужли тебе не жалко</l>
               <l>Сиротку так обидеть?</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Я не знаю,</l>
               <l>Какую ты нашла обиду.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Как же?</l>
               <l>Красавица Снегурочка иль нет?</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Красавица.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>А ты берешь Купаву,</l>
@@ -5199,9 +5210,9 @@
               <l>Какой забыть нельзя.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
-            <stage type="delivery">(обнимая Снегурочку)</stage>
+            <stage>(обнимая Снегурочку)</stage>
             <lg>
               <l>За что сердиться,</l>
               <l>Снегурочка? Не дорог поцелуй</l>
@@ -5209,7 +5220,7 @@
               <l>Ценнее он и слаще.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Я не верю.</l>
@@ -5219,20 +5230,20 @@
               <l>Красавицу поставить напоказ!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Не долго ждать тебе.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Опять обманешь,</l>
               <l>Опять возьмешь другую.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Как же быть-то?</l>
@@ -5244,33 +5255,33 @@
               <l>С подружкою. Кого бы взять? Не знаю.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Пригожий Лель, возьми меня!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Другая</l>
               <l>За эту честь души не пожалеет.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Чего тебе угодно, все на свете</l>
               <l>Снегурочка отдаст.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Люби меня!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>И рада б я душой, да не умею.</l>
@@ -5279,25 +5290,25 @@
               <l>Опричь тебя не полюблю.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Посмотрим.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Хорошенький-пригоженький, возьми.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Уж, видно, взять.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Пригоженький, послушай!</l>
@@ -5308,7 +5319,7 @@
               <l>Целуешь их, а я гляжу да плачу.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Без ласки жить нельзя же пастушонку!</l>
@@ -5320,7 +5331,7 @@
               <l>И думаешь о ней.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Ласкай меня,</l>
@@ -5337,7 +5348,7 @@
               <l>Пригоженький!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Сама же виновата,</l>
@@ -5345,14 +5356,14 @@
               <l>Немало слез украдкой пролил.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Все-то</l>
               <l>Глупа еще, — прости, пригожий Лель!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>А стоило хоть словом приласкать</l>
@@ -5360,7 +5371,7 @@
               <l>Меня навек и волю отняла.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Про старое не помни, Лель пригожий!</l>
@@ -5371,19 +5382,19 @@
               <l>Хорошенький-пригоженький, возьми!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Дождись меня, возьму. Пойду к ребятам,</l>
               <l>Не ужинал еще, — как раз вернусь.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Убегает.)</stage>
+          <stage>(Убегает.)</stage>
         </div>
         <div type="scene">
           <head>Явление третье</head>
-          <stage>Снегурочка, потом Мизгирь .</stage>
-          <sp who="#Snegurochka">
+          <stage>Снегурочка, потом Мизгирь.</stage>
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Вот любо-то! Вот радость! Не в народе,</l>
@@ -5392,38 +5403,38 @@
               <l>Вперед пойдет. И царь, и люди скажут:</l>
               <l>Такой четы на диво поискать!</l>
             </lg>
-            <stage type="delivery">(Снимает венок.)</stage>
+            <stage>(Снимает венок.)</stage>
             <lg>
               <l>Завял венок; наутро надо новый</l>
               <l>Сплести себе из тонких гибких веток;</l>
               <l>Вплету туда цветочки-василечки.</l>
             </lg>
 
-            <stage type="delivery">(В задумчивости запевает.)</stage>
+            <stage>(В задумчивости запевает.)</stage>
 
             <lg>
               <l>Ах, цветочки-василечки!</l>
             </lg>
           </sp>
-          <stage>Выходит Мизгирь .</stage>
-          <sp who="#Mizgir">
+          <stage>Выходит Мизгирь.</stage>
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Снегурочка, тебя давно ищу я.</l>
             </lg>
-            <stage type="delivery">(Берет ее за руку.)</stage>
+            <stage>(Берет ее за руку.)</stage>
           </sp>
 
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
 
 
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(с испугом)</stage>
+            <stage>(с испугом)</stage>
             <lg>
               <l>Ах, нет. Уйди! Не надо.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Не оставлю</l>
@@ -5443,22 +5454,22 @@
               <l>И слезы лью. Смотри, колена клонит</l>
               <l>Перед девчонкой гордый человек.</l>
             </lg>
-            <stage type="delivery">(Падает на колени.)</stage>
+            <stage>(Падает на колени.)</stage>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Зачем, зачем? Вставай, Мизгирь!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Полюбишь,</l>
               <l>Полюбишь ты меня, скажи!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>О нет!</l>
@@ -5467,9 +5478,9 @@
               <l>Оставь меня, прошу! Пусти! Ты добрый.</l>
               <l>Зачем пугать Снегурочку?</l>
             </lg>
-            <stage type="delivery">(Старается вырвать руку.)</stage>
+            <stage>(Старается вырвать руку.)</stage>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Постой!</l>
@@ -5479,7 +5490,7 @@
               <l>Заплатишь ты.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>О, если все такая</l>
@@ -5487,7 +5498,7 @@
               <l>Не буду я любить.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Поищем средства</l>
@@ -5512,7 +5523,7 @@
               <l>А мне любовь отдай.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Бесценный жемчуг</l>
@@ -5522,7 +5533,7 @@
               <l>Но не с тобой, Мизгирь.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Отдашь и даром.</l>
@@ -5532,14 +5543,14 @@
               <l>Перед царем и клятву исполняю.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Оставь! Пусти! Беги, спасай Снегурку,</l>
               <l>Пригожий Лель!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>О! Если Лель... так прежде</l>
@@ -5559,7 +5570,7 @@
           </sp>
           <stage>Из лесу показывается призрак Снегурочки и манит Мизгиря. Кусты и сучья деревьев
             принимают меняющиеся фантастические образы. Мизгирь бежит за призраком.</stage>
-          <sp who="#Leshij">
+          <sp who="#leshij">
             <speaker>Леший</speaker>
             <lg>
               <l>Броди всю ночь за призраком бегущим!</l>
@@ -5567,26 +5578,26 @@
               <l>Лишь светлый день твои рассеет грезы.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Уходит.)</stage>
-          <stage>Поляна принимает прежний вид. Выходит Лель, за ним Прекрасная Елена .</stage>
+          <stage>(Уходит.)</stage>
+          <stage>Поляна принимает прежний вид. Выходит Лель, за ним Прекрасная Елена.</stage>
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
-          <stage>Лель, Прекрасная Елена .</stage>
-          <sp who="#ElenaPrekrasnaja">
+          <stage>Лель, Прекрасная Елена.</stage>
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>Пленительный пастух, куда стремишься?</l>
               <l>Умильный взгляд обороти назад!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Прекрасная Елена!</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>Ты дивишься,</l>
@@ -5599,7 +5610,7 @@
               <l>Прекрасную Елену.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Недалеко</l>
@@ -5608,7 +5619,7 @@
               <l>Опасности не встретишь.</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>Злой пастух!</l>
@@ -5617,7 +5628,7 @@
               <l>Уютною тропинкой.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Провожатым</l>
@@ -5626,7 +5637,7 @@
               <l>Ищу теперь по кустикам овечек.</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>По кустикам? Противный, чует сердце,</l>
@@ -5640,29 +5651,29 @@
               <l>Как вредно вам вверяться, пастухам.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Спеши к шатрам, Прекрасная Елена!</l>
               <l>Отсутствие твое заметят скоро.</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
             <lg>
               <l>Ах, милый Лель, боюсь!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Чего, Елена</l>
               <l>Прекрасная, боишься ты?</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Прекрасная Елена</speaker>
-            <stage type="delivery">(прижимаясь к Лелю)</stage>
+            <stage>(прижимаясь к Лелю)</stage>
             <lg>
               <l>Ах, Лель,</l>
               <l>Всего боюсь. Смотри, в кустах мелькают</l>
@@ -5681,7 +5692,7 @@
               <l>Пригожему, закрыв глаза, без страха</l>
               <l>Холодного, себя вверяю.</l>
             </lg>
-            <stage type="delivery">(Зажмурясь, ложится на грудь Лелю.)</stage>
+            <stage>(Зажмурясь, ложится на грудь Лелю.)</stage>
             <lg>
               <l>Сладко</l>
               <l>В объятиях твоих лежать и млеть.</l>
@@ -5695,21 +5706,21 @@
         </div>
         <div type="scene">
           <head>Явление пятое</head>
-          <stage>Елена Прекрасная, Бермята .</stage>
-          <sp who="#Bermjata">
+          <stage>Елена Прекрасная, Бермята.</stage>
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Лель пригожий</l>
               <l>От пламенной любви твоей бежит.</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Елена Прекрасная</speaker>
             <lg>
               <l>Какой удар!</l>
             </lg>
           </sp>
-          <sp who="#Bermjata">
+          <sp who="#bermjata">
             <speaker>Бермята</speaker>
             <lg>
               <l>Пенять и удивляться</l>
@@ -5720,7 +5731,7 @@
               <l>Бродить тебе, чем с Лелем.</l>
             </lg>
           </sp>
-          <sp who="#ElenaPrekrasnaja">
+          <sp who="#elena_prekrasnaja">
             <speaker>Елена Прекрасная</speaker>
             <lg>
               <l>Милый муж,</l>
@@ -5731,12 +5742,12 @@
               <l>Зато мужья и милы и добры.</l>
             </lg>
           </sp>
-          <stage>Уходят. Входит Лель . Снегурочка выходит из кустов.</stage>
+          <stage>Уходят. Входит Лель. Снегурочка выходит из кустов.</stage>
         </div>
         <div type="scene">
           <head>Явление шестое</head>
-          <stage>Лель и Снегурочка .</stage>
-          <sp who="#Snegurochka">
+          <stage>Лель и Снегурочка.</stage>
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Велел, и жду тебя; велел, и жду.</l>
@@ -5751,22 +5762,22 @@
               <l>Нескладное!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
-            <stage type="delivery">(завидев бегущую Купаву)</stage>
+            <stage>(завидев бегущую Купаву)</stage>
             <lg>
               <l>Да здесь ли нам сжидаться?</l>
               <l>Не там ли вон, смотри!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Да здесь ли, там ли,</l>
               <l>Ведь ты со мной. Чего ж еще?</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Подпасок</l>
@@ -5774,18 +5785,19 @@
               <l>Сказать со мной. Дождись вон там!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Изволь!</l>
             </lg>
           </sp>
-          <stage>Прибегает Купава .</stage>
+          <stage>(Уходит на другую сторону в кусты.)</stage>
+          <stage>Прибегает Купава.</stage>
         </div>
         <div type="scene">
           <head>Явление седьмое</head>
-          <stage>Лель, Купава, Снегурочка .</stage>
-          <sp who="#Kupava">
+          <stage>Лель, Купава, Снегурочка.</stage>
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Насилу я нашла тебя, желанный,</l>
@@ -5795,7 +5807,7 @@
               <l>У ног лежать должна Купава.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Полно!</l>
@@ -5804,7 +5816,7 @@
               <l>К Купаве Лель.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Голубчик сизокрылый!</l>
@@ -5816,7 +5828,7 @@
               <l>Сравнял меня, забытую, со всеми.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Да разве я не знал, какое сердце</l>
@@ -5826,7 +5838,7 @@
               <l>Подружку он.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Подружку? Нет, собачку.</l>
@@ -5837,7 +5849,7 @@
               <l>Приду опять, когда поманишь.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Радость</l>
@@ -5849,7 +5861,7 @@
               <l>До теплого приюта.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Лель пригожий,</l>
@@ -5858,7 +5870,7 @@
               <l>Последнего, голубчик сизокрылый!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Идем скорей! Бледнеют тени ночи.</l>
@@ -5872,9 +5884,9 @@
               <l>Любимую свою подругу.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <stage>Снегурочка выбегает из кустов.</stage>
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage>Снегурочка выбегает из кустов.</stage>
             <lg>
               <l>Стойте!</l>
               <l>Обманщик Лель, зачем же я ждала,</l>
@@ -5886,7 +5898,7 @@
               <l>А ты манил.</l>
             </lg>
           </sp>
-          <sp who="#Kupava">
+          <sp who="#kupava">
             <speaker>Купава</speaker>
             <lg>
               <l>Снегурочка, да чем же</l>
@@ -5905,7 +5917,7 @@
               <l>И хвастаться обновками.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Купава,</l>
@@ -5914,7 +5926,7 @@
               <l>Сама же ты и разлучаешь с Лелем.</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
             <lg>
               <l>Снегурочка, подслушивай почаще</l>
@@ -5924,9 +5936,9 @@
               <l>Учись у ней любить и знай, что Лелю</l>
               <l>Не детская любовь нужна. Прощай!</l>
             </lg>
-            <stage type="delivery">(Убегает с Купавой.)</stage>
+            <stage>(Убегает с Купавой.)</stage>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
 
             <lg>
@@ -5937,7 +5949,7 @@
               <l>Снегурочке девичье сердце, мама!</l>
               <l>Отдай любовь иль жизнь мою возьми!</l>
             </lg>
-            <stage type="delivery">(Убегает.)</stage>
+            <stage>(Убегает.)</stage>
           </sp>
         </div>
       </div>
@@ -5959,21 +5971,22 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Призрак Снегурочки несется, едва касаясь земли. Мизгирь идет за ним.</stage>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Всю ночь в глазах мелькает милый образ.</l>
               <l>Снегурочка, постой одно мгновенье.</l>
             </lg>
           </sp>
+          <stage>(Убегает за призраком в лес.)</stage>
           <stage>Снегурочка сходит с горы.</stage>
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <stage>Снегурочка, потом Весна .</stage>
-          <sp who="#Snegurochka">
+          <stage>Снегурочка, потом Весна.</stage>
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-            <stage type="delivery">(обращаясь к озеру)</stage>
+            <stage>(обращаясь к озеру)</stage>
             <lg>
               <l>Родимая, в слезах тоски и горя</l>
               <l>Зовет тебя покинутая дочь.</l>
@@ -5981,8 +5994,8 @@
               <l>И жалобы Снегурочки твоей.</l>
             </lg>
           </sp>
-          <stage>Из озера поднимается Весна, окруженная цветами .</stage>
-          <sp who="#VesnaKrasna">
+          <stage>Из озера поднимается Весна, окруженная цветами.</stage>
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Снегурочка, дитя мое, о чем</l>
@@ -5992,12 +6005,12 @@
               <l>С рассветом дня вступает бог-Ярило</l>
               <l>В свои права и начинает лето.</l>
             </lg>
-            <stage type="delivery">(Подходит к Снегурочке.)</stage>
+            <stage>(Подходит к Снегурочке.)</stage>
             <lg>
               <l>Чего тебе недостает?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Любви!</l>
@@ -6025,7 +6038,7 @@
               <l>Любви прошу, любви девичьей!</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Дочка,</l>
@@ -6033,7 +6046,7 @@
               <l>Любовь тебе погибель будет.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Мама,</l>
@@ -6041,7 +6054,7 @@
               <l>Дороже мне годов тоски и слез.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Изволь, дитя, — любовью поделиться</l>
@@ -6087,9 +6100,9 @@
               <l>Хмель ланиты нарумянит</l>
               <l>И головку закружит.</l>
             </lg>
-            <stage type="delivery">(Надевает венок на голову Снегурочки.)</stage>
+            <stage>(Надевает венок на голову Снегурочки.)</stage>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Ах, мама, что со мной? Какой красою</l>
@@ -6101,7 +6114,7 @@
               <l>Колышется.</l>
             </lg>
           </sp>
-          <sp who="#VesnaKrasna">
+          <sp who="#vesna_krasna">
             <speaker>Весна</speaker>
             <lg>
               <l>Снегурочка, прощай,</l>
@@ -6126,9 +6139,9 @@
               <l>Прощай, дитя, до нового свиданья,</l>
               <l>И матери советов не забудь.</l>
             </lg>
-            <stage type="delivery">(Опускается в озеро.)</stage>
+            <stage>(Опускается в озеро.)</stage>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Какое я сокровище храню</l>
@@ -6144,26 +6157,26 @@
               <l>Манят по ней, чтоб завести в трясину</l>
               <l>Без выхода.</l>
             </lg>
-            <stage type="delivery">(Идет в лес.)</stage>
+            <stage>(Идет в лес.)</stage>
           </sp>
-          <stage>Навстречу ей выходит Мизгирь .</stage>
+          <stage>Навстречу ей выходит Мизгирь.</stage>
         </div>
         <div type="scene">
           <head>Явление третье</head>
-          <stage>Снегурочка, Мизгирь .</stage>
-          <sp who="#Mizgir">
+          <stage>Снегурочка, Мизгирь.</stage>
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Снегурочка!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Ах, встреча!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Снегурочка, мои слабеют силы,</l>
@@ -6171,7 +6184,7 @@
               <l>Боишься ты?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>О нет, Мизгирь, не страхом</l>
@@ -6186,16 +6199,16 @@
               <l>К твоей груди прижмется.</l>
             </lg>
           </sp>
-          <stage type="delivery">(обнимая ее)</stage>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
+            <stage>(обнимая ее)</stage>
             <lg>
               <l>Жадным слухом</l>
               <l>Ловлю твои слова, боюсь поверить</l>
               <l>Блаженству я, Снегурочка.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>О милый,</l>
@@ -6207,14 +6220,14 @@
               <l>Любовь.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Еще отрадных слов, еще</l>
               <l>И счастию не будет меры.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Милый,</l>
@@ -6238,7 +6251,7 @@
               <l>Спасай свою Снегурочку!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Дитя,</l>
@@ -6250,9 +6263,9 @@
               <l>Младой чете свою окажет ласку.</l>
             </lg>
           </sp>
-          <stage type="delivery">(на коленях)</stage>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
+            <stage>(на коленях)</stage>
             <lg>
               <l>Завет отца и матери, о милый,</l>
               <l>Не смею я нарушить. Вещим сердцем</l>
@@ -6263,7 +6276,7 @@
               <l>Снегурочку!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Покорными сердцами</l>
@@ -6273,14 +6286,14 @@
               <l>И приказать умею; оставайся!</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Не прихоть, нет. В руках твоих погибнет</l>
               <l>Снегурочка!</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Оставь ребячьи страхи</l>
@@ -6288,7 +6301,7 @@
               <l>Беда придет — тогда погибнем вместе.</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>Смотри, смотри! Все ярче и страшнее</l>
@@ -6297,81 +6310,81 @@
               <l>От яростных лучей, укрой под тенью</l>
               <l>Склонившихся над озером ветвей.</l>
             </lg>
-            <stage type="delivery">(Становится под тень куста.)</stage>
+            <stage>(Становится под тень куста.)</stage>
           </sp>
-          <stage>Из лесу по горе сходит народ ; впереди гусляры играют на гуслях и пастухи на
-            рожках, за ними царь со свитой, за царем попарно женихи и невесты в праздничных одеждах,
-            далее все берендеи . Сойдя в долину, народ разделяется на две стороны.</stage>
+          <stage>Из лесу по горе сходит народ; впереди гусляры играют на гуслях и пастухи на рожках,
+            за ними царь со свитой, за царем попарно женихи и невесты в праздничных одеждах, далее
+            все берендеи. Сойдя в долину, народ разделяется на две стороны.</stage>
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
-          <stage>Снегурочка, Мизгирь, царь Берендей, Лель и весь народ . Все с ожиданием смотрят на
+          <stage>Снегурочка, Мизгирь, царь Берендей, Лель и весь народ. Все с ожиданием смотрят на
             восток и при первых лучах солнца запевают.</stage>
           <stage>Общий хор</stage>
-          <sp who="#OdnaStorona">
+          <sp who="#odna_storona">
             <speaker>Одна сторона:</speaker>
             <lg>
               <l>А мы просо сеяли, сеяли,</l>
               <l>Ой Дид-Ладо, сеяли, сеяли.</l>
             </lg>
           </sp>
-          <sp who="#DrugajaStorona">
+          <sp who="#drugaja_storona">
             <speaker>Другая сторона:</speaker>
             <lg>
               <l>А мы просо вытопчем, вытопчем,</l>
               <l>Ой Дид-Ладо, вытопчем, вытопчем.</l>
             </lg>
           </sp>
-          <sp who="#OdnaStorona">
+          <sp who="#odna_storona">
             <speaker>1-я:</speaker>
             <lg>
               <l>А чем же вам вытоптать, вытоптать,</l>
               <l>Ой Дид-Ладо, вытоптать, вытоптать?</l>
             </lg>
           </sp>
-          <sp who="#DrugajaStorona">
+          <sp who="#drugaja_storona">
             <speaker>2-я:</speaker>
             <lg>
               <l>А мы коней выпустим, выпустим,</l>
               <l>Ой Дид-Ладо, выпустим, выпустим.</l>
             </lg>
           </sp>
-          <sp who="#OdnaStorona">
+          <sp who="#odna_storona">
             <speaker>1-я:</speaker>
             <lg>
               <l>А мы коней переймем, переймем,</l>
               <l>Ой Дид-Ладо, переймем, переймем.</l>
             </lg>
           </sp>
-          <sp who="#DrugajaStorona">
+          <sp who="#drugaja_storona">
             <speaker>2-я:</speaker>
             <lg>
               <l>А мы коней выкупим, выкупим,</l>
               <l>Ой Дид-Ладо, выкупим, выкупим.</l>
             </lg>
           </sp>
-          <sp who="#OdnaStorona">
+          <sp who="#odna_storona">
             <speaker>1-я:</speaker>
             <lg>
               <l>А чем же вам выкупить, выкупить,</l>
               <l>Ой Дид-Ладо, выкупить, выкупить?</l>
             </lg>
           </sp>
-          <sp who="#DrugajaStorona">
+          <sp who="#drugaja_storona">
             <speaker>2-я:</speaker>
             <lg>
               <l>А мы дадим девицу, девицу,</l>
               <l>Ой Дид-Ладо, девицу, девицу.</l>
             </lg>
           </sp>
-          <sp who="#OdnaStorona">
+          <sp who="#odna_storona">
             <speaker>1-я:</speaker>
             <lg>
               <l>А нашего полку прибыло, прибыло,</l>
               <l>Ой Дид-Ладо, прибыло, прибыло.</l>
             </lg>
           </sp>
-          <sp who="#DrugajaStorona">
+          <sp who="#drugaja_storona">
             <speaker>2-я:</speaker>
             <lg>
               <l>А нашего полку убыло, убыло,</l>
@@ -6380,7 +6393,7 @@
           </sp>
           <stage>При пении обе стороны сближаются медленными шагами под размер песни. При конце
             песни женихи берут невест и кланяются царю.</stage>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Да будет ваш союз благословен</l>
@@ -6400,9 +6413,9 @@
               <l>Тяжелый год и житниц оскуденье.</l>
             </lg>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
-            <stage type="delivery">(подводя Снегурочку к царю)</stage>
+            <stage>(подводя Снегурочку к царю)</stage>
             <lg>
               <l>Великий царь, твое желанье было</l>
               <l>Законом мне, и я его исполнил:</l>
@@ -6411,14 +6424,14 @@
               <l>Перемени!</l>
             </lg>
           </sp>
-          <sp who="#GolosaIzNaroda">
+          <sp who="#golosa_iz_naroda">
             <speaker>Голоса из народа</speaker>
             <lg>
               <l>О, диво, полюбила</l>
               <l>Снегурочка.</l>
             </lg>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Охотой ли, девица</l>
@@ -6427,7 +6440,7 @@
               <l>Даешь ли ты любовь ему?</l>
             </lg>
           </sp>
-          <sp who="#Snegurochka">
+          <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
             <lg>
               <l>О царь!</l>
@@ -6454,9 +6467,9 @@
               <l>Подруженьки, прощай, жених! О милый,</l>
               <l>Последний взгляд Снегурочки тебе.</l>
             </lg>
-            <stage type="delivery">(Тает.)</stage>
+            <stage>(Тает.)</stage>
           </sp>
-          <sp who="#Mizgir">
+          <sp who="#mizgir">
             <speaker>Мизгирь</speaker>
             <lg>
               <l>Снегурочка, обманщица, живи,</l>
@@ -6473,9 +6486,9 @@
               <l>Жестокая судьбы. Но если боги</l>
               <l>Обманщики — не сто́ит жить на свете!</l>
             </lg>
-            <stage type="delivery">(Убегает на Ярилину гору и бросается в озеро.)</stage>
+            <stage>(Убегает на Ярилину гору и бросается в озеро.)</stage>
           </sp>
-          <sp who="#Tsar">
+          <sp who="#tsar">
             <speaker>Царь</speaker>
             <lg>
               <l>Снегурочки печальная кончина</l>
@@ -6498,9 +6511,9 @@
               <l>Пастух и царь тебя зовут, явись!</l>
             </lg>
           </sp>
-          <sp who="#Lel">
+          <sp who="#lel">
             <speaker>Лель</speaker>
-            <stage type="delivery">(запевает)</stage>
+            <stage>(запевает)</stage>
             <lg>
               <l>Свет и сила,</l>
               <l>Бог Ярило.</l>
@@ -6508,7 +6521,7 @@
               <l>Нет тебя в мире краше.</l>
             </lg>
           </sp>
-          <sp who="#ObschijHor">
+          <sp who="#obschij_hor">
             <speaker>Общий хор</speaker>
             <lg>
               <l>Свет и сила,</l>
@@ -6522,9 +6535,9 @@
             ржаной сноп. По знаку царя прислужники несут целых жареных быков и баранов с
             вызолоченными рогами, бочонки и ендовы с пивом и медом, разную посуду и все
             принадлежности пира.</stage>
-          <sp who="#ObschijHor">
+          <sp who="#obschij_hor">
             <speaker>Хор</speaker>
-            <stage type="delivery">(допевает)</stage>
+            <stage>(допевает)</stage>
             <lg>
               <l>Даруй, бог света,</l>
               <l>Теплое лето.</l>
