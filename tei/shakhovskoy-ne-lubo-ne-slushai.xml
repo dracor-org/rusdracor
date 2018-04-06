@@ -163,7 +163,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Ай! наш племянник лгун!</l>
         </sp>
         <sp who="#Zarnitskin">
@@ -282,7 +282,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Как жалко, что он лжет!</l>
         </sp>
         <sp who="#Zarnitskin">
@@ -449,7 +449,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Солгал!</l>
         </sp>
         <sp who="#Zarnitskin">
@@ -508,7 +508,7 @@
         <stage>Те же и Митяй.</stage>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(тихо Даше)</stage>
+          <stage>(тихо Даше)</stage>
           <l>Что это за чудак?</l>
         </sp>
         <sp who="#Dashenka">
@@ -561,7 +561,7 @@
         </sp>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(отходя с Митяем)</stage>
+          <stage>(отходя с Митяем)</stage>
           <l>Ты слишком мил!</l>
         </sp>
       </div>
@@ -570,7 +570,7 @@
         <head>ЯВЛЕНИЕ 3</head>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(одна)</stage>
+          <stage>(одна)</stage>
           <l>Ну, вряд ли от него княгиня уцелеет;</l>
           <l>Он скажет вздор, она в окошко скок...</l>
           <l>А дом ее высок, -</l>
@@ -665,7 +665,7 @@
         </sp>
         <sp who="#Mitjaj">
           <speaker>Митяй</speaker>
-          <stage type="delivery">(глядя в окошко)</stage>
+          <stage>(глядя в окошко)</stage>
           <l>Ага! наш фрер {1} уж прикатил назад,</l>
           <l>К княгине, видно, он заехал невпопад.</l>
           <l>Гей, вы, голубчики!.. лакейчики!.. дворецкий!</l>
@@ -691,7 +691,7 @@
         <stage>Те же и Мезецкий.</stage>
         <sp who="#Mitjaj">
           <speaker>Митяй</speaker>
-          <stage type="delivery">(встречая Мезецкого)</stage>
+          <stage>(встречая Мезецкого)</stage>
           <l>С масерским {1} ангелом, с невеновским {2} приездом:</l>
           <l>Мон шер!.. мон фрер!.. мон анж!.. {3}</l>
           <l>Тебя формально поздравляю:</l>
@@ -982,7 +982,7 @@
         </sp>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Он с ней знаком, так будет нелегко</l>
           <l>Свести концы.</l>
         </sp>
@@ -1095,7 +1095,7 @@
         </sp>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Какая дребедень!</l>
           <stage>(Ему.)</stage>
           <l>И воля уж твоя, а это непонятно.</l>
@@ -1226,7 +1226,7 @@
         <head>ЯВЛЕНИЕ 9</head>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(один)</stage>
+          <stage>(один)</stage>
           <l>Что слышал я?.. Все вздор, лганье, вранье, горячка;</l>
           <l>Но можно ль так бесстыдно лгать?</l>
           <l>Да он же и письмо хотел мне показать!..</l>
@@ -1246,7 +1246,7 @@
         <stage>Мезецкий и Дашенька.</stage>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(вбегая)</stage>
+          <stage>(вбегая)</stage>
           <l>Ах! радуйтесь!</l>
         </sp>
         <sp who="#Mezetskij">
@@ -1334,7 +1334,7 @@
         <stage>Те же и княгиня.</stage>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>И очень весела!</l>
         </sp>
         <sp who="#Knjaginja">
@@ -1419,7 +1419,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Что это за чуха!</l>
         </sp>
         <sp who="#Knjaginja">
@@ -1457,12 +1457,12 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Ах, злодей! так точно... понимаю!</l>
         </sp>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(княгине)</stage>
+          <stage>(княгине)</stage>
           <l>Я спрашиваю вас...</l>
         </sp>
         <sp who="#Knjaginja">
@@ -1489,7 +1489,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(со смехом)</stage>
+          <stage>(со смехом)</stage>
           <l>И вы поверили?</l>
         </sp>
         <sp who="#Mezetskij">
@@ -1607,7 +1607,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Ах, вдовушки! Вот муж завидный!</l>
         </sp>
         <sp who="#Knjaginja">
@@ -1665,7 +1665,7 @@
         <stage>Те же и Митяй.</stage>
         <sp who="#Mitjaj">
           <speaker>Митяй</speaker>
-          <stage type="delivery">(вбегая)</stage>
+          <stage>(вбегая)</stage>
           <l>Прочь, прочь, штафет {1} катит.</l>
           <l>{1 Estafet - эстафета (нем.). - Ред.}</l>
           <stage>(Подает письмо Мезецкому.)</stage>
@@ -1686,7 +1686,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(Митяю)</stage>
+          <stage>(Митяю)</stage>
           <l>Ну, что там барыня?</l>
         </sp>
         <sp who="#Mitjaj">
@@ -1698,7 +1698,7 @@
         </sp>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(читая)</stage>
+          <stage>(читая)</stage>
           <l>Ложь наглая!</l>
         </sp>
         <sp who="#Knjaginja">
@@ -1934,7 +1934,7 @@
         <stage>Те же и Зарницкин.</stage>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(с отчаянным видом)</stage>
+          <stage>(с отчаянным видом)</stage>
           <l>Ах! боже мой! узнайте...</l>
           <l>Что всё... нет сил договорить!</l>
           <l>Так, тетушка, вы правы,</l>
@@ -1978,7 +1978,7 @@
         </sp>
         <sp who="#Knjaginja">
           <speaker>Княгиня</speaker>
-          <stage type="delivery">(в сторону)</stage>
+          <stage>(в сторону)</stage>
           <l>Ну так, я этого ждала.</l>
         </sp>
         <sp who="#Handrina">
@@ -1990,7 +1990,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(Зарницкину)</stage>
+          <stage>(Зарницкину)</stage>
           <l>Бежать ли мне?</l>
         </sp>
         <sp who="#Zarnitskin">
@@ -2002,7 +2002,7 @@
         </sp>
         <sp who="#Mitjaj">
           <speaker>Митяй</speaker>
-          <stage type="delivery">(Дашеньке)</stage>
+          <stage>(Дашеньке)</stage>
           <l>Адье, мон шер {1} кафтан.</l>
           <l>{1 Adieu, mon cher - прощай, мой дорогой (фр.). - Ред.}</l>
         </sp>
@@ -2012,7 +2012,7 @@
         </sp>
         <sp who="#Handrina">
           <speaker>Хандрина</speaker>
-          <stage type="delivery">(Мезецкому)</stage>
+          <stage>(Мезецкому)</stage>
           <l>Вот встречи каковы!</l>
         </sp>
         <sp who="#Mezetskij">
@@ -2041,7 +2041,7 @@
         </sp>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(тетке)</stage>
+          <stage>(тетке)</stage>
           <l>Что ж этого вернее?</l>
           <l>И дядюшка не будет, верно, лгать.</l>
         </sp>
@@ -2101,7 +2101,7 @@
         </sp>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(бежав взять стул, встречается с княгинею)</stage>
+          <stage>(бежав взять стул, встречается с княгинею)</stage>
           <l>Ах! как я виноват!</l>
         </sp>
         <sp who="#Handrina">
@@ -2142,7 +2142,7 @@
         <stage>Митяй подвигает стулья.</stage>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(разглядывая княгиню)</stage>
+          <stage>(разглядывая княгиню)</stage>
           <l>Так точно: та же голова!..</l>
           <l>Глаза небесные... улыбка... вид прелестный!</l>
           <l>Какое сходство!</l>
@@ -2239,7 +2239,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(тихо Митяю)</stage>
+          <stage>(тихо Митяю)</stage>
           <l>Как он лгуна заводит!</l>
         </sp>
         <sp who="#Zarnitskin">
@@ -2277,7 +2277,7 @@
         </sp>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(с насмешкой)</stage>
+          <stage>(с насмешкой)</stage>
           <l>Три дня! хотя от ран со мной случилось то же,</l>
           <l>Однако ж я без чувств не пролежал трех дней.</l>
         </sp>
@@ -2359,7 +2359,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(Митяю)</stage>
+          <stage>(Митяю)</stage>
           <l>Каков?</l>
         </sp>
         <sp who="#Handrina">
@@ -2394,7 +2394,7 @@
         </sp>
         <sp who="#Knjaginja">
           <speaker>Княгиня</speaker>
-          <stage type="delivery">(Даше)</stage>
+          <stage>(Даше)</stage>
           <l>Каков скачок?</l>
         </sp>
         <sp who="#Dashenka">
@@ -2574,13 +2574,13 @@
         </sp>
         <sp who="#Handrina">
           <speaker>Хандрина</speaker>
-          <stage type="delivery">(Мезецкому)</stage>
+          <stage>(Мезецкому)</stage>
           <l>А что ты думаешь, ведь, право, статься может,</l>
           <l>И долго ль даром поклепать?</l>
         </sp>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(Зарницкому)</stage>
+          <stage>(Зарницкому)</stage>
           <l>Ты выдумал остро, да это не поможет.</l>
           <stage>(Хандриной.)</stage>
           <l>Онегина руки не можно вам не знать,</l>
@@ -2657,7 +2657,7 @@
         </sp>
         <sp who="#Mezetskij">
           <speaker>Мезецкий</speaker>
-          <stage type="delivery">(читает)</stage>
+          <stage>(читает)</stage>
           <l>"Вот в чем дело: племянник ваш надел траур, уверил кредиторов своих,</l>
           <l>что он сделан единственным наследником сестрицы вашей Марфы Романовны,</l>
           <l>которая, по словам его, скоропостижно умерла".</l>
@@ -2678,7 +2678,7 @@
         </sp>
         <sp who="#Dashenka">
           <speaker>Дашенька</speaker>
-          <stage type="delivery">(Зарницкину)</stage>
+          <stage>(Зарницкину)</stage>
           <l>Не с вами ль о-дез-альп?</l>
         </sp>
         <sp who="#Zarnitskin">
@@ -2726,7 +2726,7 @@
         </sp>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(бросаясь на колени)</stage>
+          <stage>(бросаясь на колени)</stage>
           <l>Ах! сжальтесь надо мною!</l>
           <l>И вспомните, что я племянник ваш родной.</l>
         </sp>
@@ -2743,7 +2743,7 @@
         <stage>Княгиня, Мезецкий, Зарницкин и Митяй.</stage>
         <sp who="#Zarnitskin">
           <speaker>Зарницкин</speaker>
-          <stage type="delivery">(с горестью)</stage>
+          <stage>(с горестью)</stage>
           <l>Не верит ничему!</l>
         </sp>
         <sp who="#Mezetskij">
@@ -2832,7 +2832,7 @@
         </sp>
         <sp who="#Knjaginja">
           <speaker>Княгиня</speaker>
-          <stage type="delivery">(Мезецкому)</stage>
+          <stage>(Мезецкому)</stage>
           <l>Пойдемте мы просить прощенья за него.</l>
         </sp>
         <sp who="#Mezetskij">

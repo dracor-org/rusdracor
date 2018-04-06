@@ -221,7 +221,7 @@
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(передавая письмо)</stage>
+            <stage>(передавая письмо)</stage>
             <l>Начни ж, племянничек!</l>
           </sp>
           <sp who="#Major">
@@ -259,7 +259,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(читает письмо)</stage>
+            <stage>(читает письмо)</stage>
             <p>"Милостивая государыня тетушка, Варвара Саввишна! вы, верно, гневаетесь на меня за
               то, что я к вам не писал, и точно, я виноват; но проклятое "завтра" всему причиною.
               Ради бога, не подумайте, что я мог забыть все ваши милости. Нет, я очень помню, что вы
@@ -532,7 +532,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(майору)</stage>
+            <stage>(майору)</stage>
             <l>А ты?</l>
           </sp>
           <sp who="#Major">
@@ -564,7 +564,7 @@
           <stage>Вельдюзева, потом Любим</stage>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(идя к кабинету)</stage>
+            <stage>(идя к кабинету)</stage>
             <l>Уж все ушли, Любим!</l>
           </sp>
           <stage>Он входит.</stage>
@@ -652,7 +652,7 @@
           </sp>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(бежа в кабинет)</stage>
+            <stage>(бежа в кабинет)</stage>
             <l>Наташа!</l>
           </sp>
           <sp who="#Veldjuzeva">
@@ -689,7 +689,7 @@
           </sp>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(Вельдюэевой)</stage>
+            <stage>(Вельдюэевой)</stage>
             <l>Смешон ли я?</l>
           </sp>
           <sp who="#Veldjuzeva">
@@ -709,7 +709,7 @@
           </sp>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(Вельдюзевой)</stage>
+            <stage>(Вельдюзевой)</stage>
             <l>С чего?</l>
           </sp>
           <sp who="#Veldjuzeva">
@@ -898,7 +898,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Подходит... силы нет!</l>
             <stage>(Берется за стул.)</stage>
           </sp>
@@ -939,7 +939,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Кой черт! вот беглый разговор.</l>
             <l>Да как зовут тебя? и здесь с которых пор?</l>
           </sp>
@@ -977,13 +977,13 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Я примечаю,</l>
             <l>Что вряд ли чем она покойницы умней.</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Доволен, кажется, он глупостью моей.</l>
           </sp>
           <sp who="#Major">
@@ -1005,7 +1005,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(обнимая ее)</stage>
+            <stage>(обнимая ее)</stage>
             <l>Так здравствуй, сватьюшка! - Вот так: я не терплю</l>
             <l>Жеманства да чинов. - Да как ты миловидна,</l>
             <l>Совсем красавица!</l>
@@ -1073,7 +1073,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Точь-в-точь покойница! Ну те же поговорки!</l>
             <l>Эх! укатали, жаль, коня крутые горки,</l>
             <l>А то б хоть под венец.</l>
@@ -1089,7 +1089,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Кой черт! с чего начать?</l>
             <stage>(Наташе.)</stage>
             <l>Я очень знать желаю,</l>
@@ -1114,7 +1114,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Что это?</l>
           </sp>
           <sp who="#Major">
@@ -1139,7 +1139,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ну, онемел я снова!</l>
           </sp>
           <sp who="#Natasha">
@@ -1156,7 +1156,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(вскакивая)</stage>
+            <stage>(вскакивая)</stage>
             <l>Ах, Боже мой!</l>
           </sp>
           <sp who="#Major">
@@ -1430,7 +1430,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(тихо майору)</stage>
+            <stage>(тихо майору)</stage>
             <l>Как показалася?</l>
           </sp>
           <sp who="#Major">
@@ -1603,7 +1603,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(уходя)</stage>
+            <stage>(уходя)</stage>
             <l>Любим!</l>
           </sp>
           <sp who="#Ljubim">
@@ -1821,7 +1821,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(севши на краешке стула)</stage>
+            <stage>(севши на краешке стула)</stage>
             <l>Сижу</l>
             <l>Вот что... Спросить у вас позвольте: вы давно ли</l>
             <l>Расстались с матушкой?</l>
@@ -2030,7 +2030,7 @@
           <stage>Любим, Вельдюзева и Наташа.</stage>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(выбегая)</stage>
+            <stage>(выбегая)</stage>
             <l>Прелестно, ангел мой! прелестно, беспримерно!</l>
             <l>Ну, с Феклой Саввишной всё кончено, наверно.</l>
             <l>Остались две еще... Однако я вперед</l>
@@ -2056,7 +2056,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(возвращаясь)</stage>
+            <stage>(возвращаясь)</stage>
             <l>Тобой довольна я.</l>
           </sp>
           <sp who="#Ljubim">
@@ -2124,18 +2124,18 @@
           </sp>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(перебегая через театр)</stage>
+            <stage>(перебегая через театр)</stage>
             <l>Ну, плакать начинайте!</l>
             <l>Раиса в цветнике, скорей садитесь вы.</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(садясь в угол)</stage>
+            <stage>(садясь в угол)</stage>
             <l>Как быть, начну читать о вскрытии Невы.</l>
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(садясь к столу)</stage>
+            <stage>(садясь к столу)</stage>
             <l>Вот, кстати, здесь шитье.</l>
           </sp>
           <sp who="#Natasha">
@@ -2154,7 +2154,7 @@
           <stage>Те же и Раиса.</stage>
           <sp who="#Raisa">
             <speaker>Раиса</speaker>
-            <stage type="delivery">(вынося пучок цветов)</stage>
+            <stage>(вынося пучок цветов)</stage>
             <l>Смотри, я нарвала</l>
             <l>В саду твоем цветов. Как розочка мила,</l>
             <l>Головочку свою так опустила жалко;</l>
@@ -2223,7 +2223,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(не давая книги, Наташе)</stage>
+            <stage>(не давая книги, Наташе)</stage>
             <l>Нет, с этих пор</l>
             <l>Не будешь ты читать да попусту томиться, -</l>
             <l>И с книжкою своей изволь навек проститься,</l>
@@ -2231,12 +2231,12 @@
           </sp>
           <sp who="#Raisa">
             <speaker>Раиса</speaker>
-            <stage type="delivery">(ловя книгу)</stage>
+            <stage>(ловя книгу)</stage>
             <l>Хотя взглянуть дозволь.</l>
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(все не давая книжки, Наташе)</stage>
+            <stage>(все не давая книжки, Наташе)</stage>
             <l>Твой дядя много книг оставил; только моль</l>
             <l>Их, слава богу, всех на чердаке изъела.</l>
             <l>Сестрица, помнишь ли, как я всегда хотела,</l>
@@ -2318,7 +2318,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Боюся засмеяться.</l>
           </sp>
           <sp who="#Raisa">
@@ -2447,7 +2447,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(входя, Любиму)</stage>
+            <stage>(входя, Любиму)</stage>
             <l>Войди, войди, проказник.</l>
             <l>Сестра! вот наш Любим; у нас сегодня праздник,</l>
             <l>Веселье.</l>
@@ -2488,18 +2488,18 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(тихо)</stage>
+            <stage>(тихо)</stage>
             <l>Не знаю-с, как сказать...</l>
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(Наташе)</stage>
+            <stage>(Наташе)</stage>
             <l>Вот тут не стало слов,</l>
             <l>А с тем, я чай, не так...</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(тихо)</stage>
+            <stage>(тихо)</stage>
             <l>Мне стыдно-с.</l>
           </sp>
           <sp who="#Major">
@@ -2559,7 +2559,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(майору)</stage>
+            <stage>(майору)</stage>
             <l>Прощайте-с.</l>
           </sp>
         </div>
@@ -2588,7 +2588,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(смеючись)</stage>
+            <stage>(смеючись)</stage>
             <l>Кто? Он?</l>
           </sp>
           <sp who="#Major">
@@ -2757,7 +2757,7 @@
           <stage>Наташа, потом Вельдюзева.</stage>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(входя и почти падая на стул)</stage>
+            <stage>(входя и почти падая на стул)</stage>
             <l>Ах! в жизнь мою... еще... я так не уставала.</l>
             <l>В Раисе Саввишне... нет жалости нимало...</l>
             <l>Я вся измучена... кружится голова!</l>
@@ -2830,7 +2830,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(испугавшись)</stage>
+            <stage>(испугавшись)</stage>
             <l>Как?</l>
           </sp>
           <sp who="#Ljubim">
@@ -2884,14 +2884,14 @@
           <stage>Те же, Максим и майор.</stage>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(за кулисами)</stage>
+            <stage>(за кулисами)</stage>
             <l>Экзамент ей сейчас.</l>
             <stage>(Входя вполпьяна.)</stage>
             <l>Экзамент, слышите ль?</l>
           </sp>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(Максиму)</stage>
+            <stage>(Максиму)</stage>
             <l>Просить позвольте вас</l>
             <l>Принять мою жену...</l>
           </sp>
@@ -2902,7 +2902,7 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(Наташе)</stage>
+            <stage>(Наташе)</stage>
             <l>Да он рехнулся совершенно.</l>
           </sp>
           <sp who="#Maksim">
@@ -2951,7 +2951,7 @@
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Вот это преобидно,</l>
             <l>А то бы я...</l>
           </sp>
@@ -2986,7 +2986,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(Максиму)</stage>
+            <stage>(Максиму)</stage>
             <l>Я благосклонность вашу</l>
             <l>Заслуживать почту себе за первый долг.</l>
           </sp>
@@ -3052,12 +3052,12 @@
           </sp>
           <sp who="#Ljubim">
             <speaker>Любим</speaker>
-            <stage type="delivery">(Вельдюзевой)</stage>
+            <stage>(Вельдюзевой)</stage>
             <l>Да он ее измучит.</l>
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(надевая очки, читает)</stage>
+            <stage>(надевая очки, читает)</stage>
             <l>Что есть грамматика?</l>
           </sp>
           <sp who="#Natasha">
@@ -3067,7 +3067,7 @@
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(глядя в книгу)</stage>
+            <stage>(глядя в книгу)</stage>
             <l>Так точно, и умней не можно отвечать.</l>
             <l>Грамматике конец. Теперь начнем словесность.</l>
             <stage>(Глядя в тетрадь.)</stage>
@@ -3103,7 +3103,7 @@
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(ища в книге)</stage>
+            <stage>(ища в книге)</stage>
             <l>Итак, скажите мне... какое</l>
             <l>Число чудес?</l>
           </sp>
@@ -3117,12 +3117,12 @@
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(глядя в тетрадь)</stage>
+            <stage>(глядя в тетрадь)</stage>
             <l>Так точно.</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(подходя к столу)</stage>
+            <stage>(подходя к столу)</stage>
             <l>Знаю я всех древних мудрецов,</l>
             <l>Поэтов, воинов, оракулов, богов...</l>
           </sp>
@@ -3143,7 +3143,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(продолжая)</stage>
+            <stage>(продолжая)</stage>
             <l>Вавилон, развалины Палмиры,</l>
             <l>Самос, Персеполис, мемфисские кумиры,</l>
             <l>Сибиллу Кумскую...</l>
@@ -3197,7 +3197,7 @@
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>А! запинается...</l>
             <stage>(Наташе.)</stage>
             <l>Ну как какой? известной!</l>
@@ -3233,7 +3233,7 @@
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Своей ученостью она меня погубит,</l>
             <l>Окончу. - Нет, ее могу я подстеречь.</l>
             <stage>(Наташе.)</stage>
@@ -3266,19 +3266,19 @@
           </sp>
           <sp who="#Veldjuzeva">
             <speaker>Вельдюзева</speaker>
-            <stage type="delivery">(Максиму)</stage>
+            <stage>(Максиму)</stage>
             <l>Что, учена ль, скажите?</l>
           </sp>
           <sp who="#Maksim">
             <speaker>Максим</speaker>
-            <stage type="delivery">(отведя ее)</stage>
+            <stage>(отведя ее)</stage>
             <l>Она познания имеет, коль хотите,</l>
             <l>Но всё ученою назвать еще нельзя,</l>
             <l>Тут нужно многое!</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(подходя к Максиму)</stage>
+            <stage>(подходя к Максиму)</stage>
             <l>Вас спрашивала я,</l>
             <l>Которой секты вы?</l>
           </sp>
@@ -3479,12 +3479,12 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(с смятением)</stage>
+            <stage>(с смятением)</stage>
             <l>Она в минуту будет дома.</l>
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(увидя Наташу)</stage>
+            <stage>(увидя Наташу)</stage>
             <l>А это кто, мой друг? мне что-то незнакома,</l>
             <l>Уж не приезжая ль?</l>
           </sp>
@@ -3509,7 +3509,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(тихо Наташе)</stage>
+            <stage>(тихо Наташе)</stage>
             <l>Ну, отвечай живей!</l>
           </sp>
           <sp who="#Natasha">
@@ -3526,12 +3526,12 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Попалась тетушка.</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(подает стул)</stage>
+            <stage>(подает стул)</stage>
             <l>Вам не угодно ль сесть?</l>
           </sp>
           <sp who="#Zvonkina">
@@ -3549,12 +3549,12 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Смелей! пошла писать.</l>
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(майору)</stage>
+            <stage>(майору)</stage>
             <l>Не правда ль, сватьюшка у нас предорогая?</l>
           </sp>
           <sp who="#Major">
@@ -3564,7 +3564,7 @@
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(Наташе)</stage>
+            <stage>(Наташе)</stage>
             <l>Так, стало, ты, мой свет</l>
             <l>Еще не замужем?</l>
           </sp>
@@ -3574,17 +3574,17 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(перебивая)</stage>
+            <stage>(перебивая)</stage>
             <l>Покуда нет.</l>
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(поглядывая на майора)</stage>
+            <stage>(поглядывая на майора)</stage>
             <l>Вот что!</l>
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Я лихо лгу.</l>
           </sp>
           <sp who="#Zvonkina">
@@ -3622,14 +3622,14 @@
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Я понимаю это.</l>
             <stage>(Наташе.)</stage>
           </sp>
           <stage>Какую ж жизнь ведут большие господа?</stage>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(улыбаясь)</stage>
+            <stage>(улыбаясь)</stage>
             <l>Чуть все не мрут с тоски, хоть, правда, иногда</l>
             <l>Находит и на них охота забавляться,</l>
             <l>И рады б кое-что затеять, да боятся,</l>
@@ -3643,7 +3643,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(весело)</stage>
+            <stage>(весело)</stage>
             <l>Те, которые не рады,</l>
             <l>Что весело не им.</l>
           </sp>
@@ -3748,7 +3748,7 @@
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(смеючись)</stage>
+            <stage>(смеючись)</stage>
             <l>Венец!.. как ты узнал? ведь к нам она недавно</l>
             <l>Приехала...</l>
           </sp>
@@ -3760,18 +3760,18 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ай, ай!</l>
           </sp>
           <sp who="#Zvonkina">
             <speaker>Звонкина</speaker>
-            <stage type="delivery">(Наташе)</stage>
+            <stage>(Наташе)</stage>
             <l>Ходили ли вы слушать у ворот</l>
             <l>И спрашивать, кого прохожий назовет?</l>
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Что это за вопрос?</l>
             <stage>(Звонкиной.)</stage>
             <l>Да, мы в Васильев вечер</l>
@@ -3810,7 +3810,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Она всё знает!..</l>
           </sp>
           <sp who="#Zvonkina">
@@ -3819,7 +3819,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Да, жди, скажу тебе!</l>
             <stage>(Звонкиной.)</stage>
             <l>С чего Любима тут</l>
@@ -3832,7 +3832,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(значительно)</stage>
+            <stage>(значительно)</stage>
             <l>Приятней, если вам</l>
             <l>Угодно это.</l>
           </sp>
@@ -3860,7 +3860,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(с насмешкой)</stage>
+            <stage>(с насмешкой)</stage>
             <l>А он жених?</l>
           </sp>
           <sp who="#Zvonkina">
@@ -3880,7 +3880,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(Звонкиной)</stage>
+            <stage>(Звонкиной)</stage>
             <l>Да кто же вам сказал?</l>
           </sp>
           <sp who="#Zvonkina">
@@ -4056,7 +4056,7 @@
           </sp>
           <sp who="#Natasha">
             <speaker>Наташа</speaker>
-            <stage type="delivery">(вертя Максима)</stage>
+            <stage>(вертя Максима)</stage>
             <l>Нельзя ли, дядюшка, немного поскорее.</l>
           </sp>
           <sp who="#Zvonkina">
@@ -4065,7 +4065,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(танцуя)</stage>
+            <stage>(танцуя)</stage>
             <l>Ну, тетушка, живее.</l>
           </sp>
           <sp who="#Maksim">
@@ -4122,7 +4122,7 @@
           </sp>
           <sp who="#Major">
             <speaker>Майор</speaker>
-            <stage type="delivery">(Звонкиной)</stage>
+            <stage>(Звонкиной)</stage>
             <l>Вот наш Максим каков!</l>
           </sp>
         </div>
@@ -4200,7 +4200,7 @@
           </sp>
           <sp who="#Raisa">
             <speaker>Раиса</speaker>
-            <stage type="delivery">(обнимая Наташу)</stage>
+            <stage>(обнимая Наташу)</stage>
             <l>Вот мой ответ.</l>
           </sp>
           <sp who="#Maksim">

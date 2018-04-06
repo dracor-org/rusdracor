@@ -234,7 +234,7 @@
             кресел. Утро, чуть день брезжится.</stage>
           <sp who="#Lizanka">
             <speaker>Лизанька</speaker>
-            <stage type="delivery">(вдруг просыпается, встает с кресел, оглядывается)</stage>
+            <stage>(вдруг просыпается, встает с кресел, оглядывается)</stage>
             <lg>
               <l>Светает!.. Ах! как скоро ночь минула!</l>
               <l>Вчера просилась спать — отказ.</l>
@@ -558,7 +558,7 @@
               <l>Бог с вами-с; прочь возьмите руку.</l>
             </lg>
           </sp>
-          <stage type="delivery"> (Разводит их, Молчалин в дверях сталкивается с Фамусовым.)</stage>
+          <stage>(Разводит их, Молчалин в дверях сталкивается с Фамусовым.)</stage>
         </div>
         <div type="scene">
           <head>Явление 4</head>
@@ -852,7 +852,7 @@
               <l part="I">А у меня, что дело, что не дело,</l>
               <l part="F">Обычай мой такой:</l>
               <l>Подписано, так с плеч долой.</l>
-              <stage type="delivery"> (Уходит с Молчалиным, в дверях пропускает его вперед.)</stage>
+              <stage>(Уходит с Молчалиным, в дверях пропускает его вперед.)</stage>
             </lg>
           </sp>
         </div>
@@ -5131,7 +5131,8 @@
               <l part="F">Шш!</l>
             </lg>
           </sp>
-          <sp who="#GrafinjaBabushka #Knjaz #Hlestova #Sofija #Molchalin #PlatonMihajlovich #NataljaDmitrievna #GrafinjaVnuchka #Knjaginja #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Zagoretskij #Skalozub #Famusov">
+          <sp
+            who="#GrafinjaBabushka #Knjaz #Hlestova #Sofija #Molchalin #PlatonMihajlovich #NataljaDmitrievna #GrafinjaVnuchka #Knjaginja #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Zagoretskij #Skalozub #Famusov">
             <speaker>Все</speaker>
             <lg>
               <l part="F">Шш!</l>
@@ -5762,8 +5763,8 @@
         </div>
         <div type="scene">
           <head>Явление 6</head>
-          <stage type="delivery">(Останавливается, увидя, что Загорецкий заступил место Скалозуба,
-            который покудова уехал.)</stage>
+          <stage>(Останавливается, увидя, что Загорецкий заступил место Скалозуба, который покудова
+            уехал.)</stage>
           <sp who="#Zagoretskij">
             <speaker>Загорецкий</speaker>
             <lg>
@@ -5902,7 +5903,8 @@
               <l part="F">Вы!</l>
             </lg>
           </sp>
-          <sp who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna">
+          <sp
+            who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna">
             <speaker>Все вместе</speaker>
             <lg>
               <l>Мсьё Репетилов! Вы! Мсье Репетилов, что вы!</l>
@@ -5942,7 +5944,8 @@
               <l part="I">За мною, матушка.</l>
             </lg>
           </sp>
-          <sp who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Knjaginja #Repetilov #Hlestova">
+          <sp
+            who="#Zagoretskij #PervajajaKnjazhna #VtorajajaKnjazhna #TretjajaKnjazhna #ChetviortajajaKnjazhna #PjatajajaKnjazhna #ShestajajaKnjazhna #Knjaginja #Repetilov #Hlestova">
             <speaker>Все</speaker>
             <stage>(друг к другу)</stage>
             <lg>

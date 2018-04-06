@@ -128,8 +128,7 @@
           <stage>Ванюша, потом Фома.</stage>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(показывая слугам, где поставить письменный стол и
-              кресла)</stage>
+            <stage>(показывая слугам, где поставить письменный стол и кресла)</stage>
             <l>К окну поставьте стол; подвиньте кресла, - ладно.</l>
             <l>Вот хлопоты бог дал, затем, что в Петергоф</l>
             <l>На праздник едут все, и князь наш, философ,</l>
@@ -144,7 +143,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(за кулисами)</stage>
+            <stage>(за кулисами)</stage>
             <l>Пустите!</l>
           </sp>
           <sp who="#Vanjusha">
@@ -162,7 +161,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(врываясь)</stage>
+            <stage>(врываясь)</stage>
             <l>Ведь здесь князь Радугин живет?</l>
           </sp>
           <sp who="#Vanjusha">
@@ -185,7 +184,7 @@
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(слугам)</stage>
+            <stage>(слугам)</stage>
             <l>Все вещи по местам,</l>
             <l>Ступайте.</l>
           </sp>
@@ -433,7 +432,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(увидя Инквартуса)</stage>
+            <stage>(увидя Инквартуса)</stage>
             <l>Кто это?</l>
           </sp>
           <sp who="#Vanjusha">
@@ -444,7 +443,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(отходя)</stage>
+            <stage>(отходя)</stage>
             <l>Пришлося ждать... ой, ой!</l>
             <stage>(Уходит.)</stage>
           </sp>
@@ -641,13 +640,13 @@
           <stage>Те же и Фома.</stage>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(подавая письмо)</stage>
+            <stage>(подавая письмо)</stage>
             <l>Когда изволите прочесть</l>
             <l>Письмо от дядюшки, узнаете вы сами.</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(бросив письмо на стол)</stage>
+            <stage>(бросив письмо на стол)</stage>
             <l>Успею прочитать; но сельскими делами</l>
             <l>Займемся мы теперь. Ну что, пошел ли в ход</l>
             <l>Свекольный сахар? А?</l>
@@ -751,7 +750,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(Инквартусу)</stage>
+            <stage>(Инквартусу)</stage>
             <l>Да, господин философ,</l>
             <l>Будь сказано не в гнев, а турфы так горят,</l>
             <l>Что ими не вино, одну раку сидят.</l>
@@ -839,7 +838,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(в бешенстве)</stage>
+            <stage>(в бешенстве)</stage>
             <l>Читай, учись,</l>
             <l>И просвещай невежд, и заводи устройство</l>
             <l>На то, чтоб лекаря, зима, мороз нашлись,</l>
@@ -902,12 +901,12 @@
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(Фоме)</stage>
+            <stage>(Фоме)</stage>
             <l>Пойдем за стол.</l>
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(отходя)</stage>
+            <stage>(отходя)</stage>
             <l>Ой! ой!</l>
           </sp>
         </div>
@@ -1039,7 +1038,7 @@
           </sp>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(подходя к столу)</stage>
+            <stage>(подходя к столу)</stage>
             <l>Найду.</l>
           </sp>
           <sp who="#Knjaz">
@@ -1053,7 +1052,7 @@
           </sp>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(разбирая бумаги)</stage>
+            <stage>(разбирая бумаги)</stage>
             <l>Нет...</l>
             <l>Здесь тысячи начал...</l>
           </sp>
@@ -1064,7 +1063,7 @@
           </sp>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(смотря бумаги)</stage>
+            <stage>(смотря бумаги)</stage>
             <l>Начало о виденьях,</l>
             <l>Начало о червях... начало...</l>
           </sp>
@@ -1117,7 +1116,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(разбирая бумаги)</stage>
+            <stage>(разбирая бумаги)</stage>
             <l>Нет, всё не то,</l>
             <l>Где делся?..</l>
           </sp>
@@ -1136,7 +1135,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(Инквартусу)</stage>
+            <stage>(Инквартусу)</stage>
             <l>Садися, и наш план рассмотрим мы с тобою.</l>
             <l>О чадолюбии...</l>
           </sp>
@@ -1269,12 +1268,12 @@
           </sp>
           <sp who="#Knjazhna">
             <speaker>Княжна</speaker>
-            <stage type="delivery">(входя)</stage>
+            <stage>(входя)</stage>
             <l>Ах, братец!</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Так, нельзя</l>
             <l>Не помешать! - Ну что, сестрица?</l>
           </sp>
@@ -1343,12 +1342,12 @@
           </sp>
           <sp who="#Knjazhna">
             <speaker>Княжна</speaker>
-            <stage type="delivery">(встретясь с графом)</stage>
+            <stage>(встретясь с графом)</stage>
             <l>Ах, граф!</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(Инквартусу)</stage>
+            <stage>(Инквартусу)</stage>
             <l>Зачем ты встал?</l>
           </sp>
           <sp who="#Inkvartus">
@@ -1361,7 +1360,7 @@
           </sp>
           <sp who="#Graf">
             <speaker>Граф</speaker>
-            <stage type="delivery">(князю)</stage>
+            <stage>(князю)</stage>
             <l>Я не мешаю ль вам? Вы заняты...</l>
           </sp>
           <sp who="#Knjaz">
@@ -1381,28 +1380,28 @@
           </sp>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(за кулисами)</stage>
+            <stage>(за кулисами)</stage>
             <l>Княгиня не вставала.</l>
           </sp>
           <sp who="#Graf">
             <speaker>Граф</speaker>
-            <stage type="delivery">(останавливаясь)</stage>
+            <stage>(останавливаясь)</stage>
             <l>Вот голос матушкин...</l>
           </sp>
           <sp who="#Knjazhna">
             <speaker>Княжна</speaker>
-            <stage type="delivery">(возвращаясь)</stage>
+            <stage>(возвращаясь)</stage>
             <l>Графиня...</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(вскакивая)</stage>
+            <stage>(вскакивая)</stage>
             <l>Здесь она!</l>
             <l>Уйдем.</l>
           </sp>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(собирая бумаги)</stage>
+            <stage>(собирая бумаги)</stage>
             <l>Уйдем скорей!</l>
           </sp>
           <stage>Уходят.</stage>
@@ -1414,7 +1413,7 @@
             двери.</stage>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(обнимая княжну)</stage>
+            <stage>(обнимая княжну)</stage>
             <l>Здорова ли, княжна?</l>
             <l>Скажи, что делают твой братец и сестрица?</l>
             <l>Сюда приехавши, я к детям захожу,</l>
@@ -1571,7 +1570,7 @@
           </sp>
           <sp who="#Graf">
             <speaker>Граф</speaker>
-            <stage type="delivery">(графине)</stage>
+            <stage>(графине)</stage>
             <l>Но вы...</l>
           </sp>
           <sp who="#Grafinja">
@@ -1581,12 +1580,12 @@
           <stage>Графиня уводит сына.</stage>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(входя)</stage>
+            <stage>(входя)</stage>
             <l>Карета подана.</l>
           </sp>
           <sp who="#Knjazhna">
             <speaker>Княжна</speaker>
-            <stage type="delivery">(отходя)</stage>
+            <stage>(отходя)</stage>
             <l>Так, брата из беды я выручить должна.</l>
           </sp>
         </div>
@@ -1600,7 +1599,7 @@
           <stage>Маша, Ванюша и слуги (выносят разные товары).</stage>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(Ванюше)</stage>
+            <stage>(Ванюше)</stage>
             <l>Любуйся и дивись: я подняла всю лавку</l>
             <l>Мадам Каре.</l>
             <stage>(Слугам.)</stage>
@@ -1759,7 +1758,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(с сердцем)</stage>
+            <stage>(с сердцем)</stage>
             <l>Ах! да кто тебя просил?</l>
             <l>Не стыдно ль быть такой болтуньей. - Что ж,</l>
             <l>нашла ли?</l>
@@ -1786,7 +1785,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(показывая одну шаль)</stage>
+            <stage>(показывая одну шаль)</stage>
             <l>Я угадала ль?</l>
           </sp>
           <sp who="#Knjaginja">
@@ -1796,7 +1795,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(показывая другую)</stage>
+            <stage>(показывая другую)</stage>
             <l>Постойте, вот другая.</l>
           </sp>
           <sp who="#Knjaginja">
@@ -1805,7 +1804,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(показывая еще одну)</stage>
+            <stage>(показывая еще одну)</stage>
             <l>Так эта...</l>
           </sp>
           <sp who="#Knjaginja">
@@ -1921,17 +1920,17 @@
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>А сделаны в Морской.</l>
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(разбирая цветы)</stage>
+            <stage>(разбирая цветы)</stage>
             <l>Так хочется нюхнуть!</l>
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(любуясь)</stage>
+            <stage>(любуясь)</stage>
             <l>По чести, ландыши живые не живее.</l>
             <l>Ах, Маша! подойди.</l>
             <stage>(Примеривая на нее.)</stage>
@@ -1946,7 +1945,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(с досадой)</stage>
+            <stage>(с досадой)</stage>
             <l>Фи, Маша!</l>
           </sp>
           <sp who="#Masha">
@@ -2012,7 +2011,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(оглядывая вещи)</stage>
+            <stage>(оглядывая вещи)</stage>
             <l>Ничем и никогда я так не восхищалась.</l>
             <l>Ах! я от радости, боюсь, занемогу!</l>
           </sp>
@@ -2027,7 +2026,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ай, ай!</l>
           </sp>
           <sp who="#Grafinja">
@@ -2209,7 +2208,7 @@
           </sp>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(показывая товары)</stage>
+            <stage>(показывая товары)</stage>
             <l>А вот стоит улика.</l>
             <stage>(Маше.)</stage>
             <l>Всё это забрала ты в вашей лавке?</l>
@@ -2269,7 +2268,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(делая знак княгине)</stage>
+            <stage>(делая знак княгине)</stage>
             <l>Да знаете ль, на что их принесли?</l>
           </sp>
           <sp who="#Grafinja">
@@ -2279,7 +2278,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(Маше)</stage>
+            <stage>(Маше)</stage>
             <l>Скажи, что оставляю</l>
             <l>Я шаль одну.</l>
           </sp>
@@ -2289,7 +2288,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(надевая шаль на графиню)</stage>
+            <stage>(надевая шаль на графиню)</stage>
             <l>Позвольте.</l>
           </sp>
           <sp who="#Grafinja">
@@ -2409,12 +2408,12 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(дает вазу)</stage>
+            <stage>(дает вазу)</stage>
             <l>Смотрите, как легка.</l>
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(вбегая)</stage>
+            <stage>(вбегая)</stage>
             <l>Исполнен ваш приказ.</l>
           </sp>
           <sp who="#Knjaginja">
@@ -2446,7 +2445,7 @@
           <stage>Княгиня ее провожает.</stage>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(вслед)</stage>
+            <stage>(вслед)</stage>
             <l>Ее спровадил страх,</l>
             <l>Чтоб князю не попасть с уликою в руках.</l>
           </sp>
@@ -2512,7 +2511,7 @@
           <stage>Те же и князь.</stage>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(идя к нему навстречу)</stage>
+            <stage>(идя к нему навстречу)</stage>
             <l>Ах, Радугин, как мил!</l>
             <l>Своим сюрпризом ты мне голову вскружил.</l>
           </sp>
@@ -2635,7 +2634,7 @@
           <stage>Те же и Цаплин.</stage>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(Увидя Цаплина)</stage>
+            <stage>(Увидя Цаплина)</stage>
             <l>Ну, Цаплин, целый день</l>
             <l>Вчера я ждал тебя.</l>
           </sp>
@@ -2678,7 +2677,7 @@
           <stage>Возможно ль?</stage>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Вот сюрприз обоим.</l>
           </sp>
           <sp who="#Tsaplin">
@@ -2810,7 +2809,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ай! ай!</l>
           </sp>
           <sp who="#Knjaz">
@@ -2827,7 +2826,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(Цаплину)</stage>
+            <stage>(Цаплину)</stage>
             <l>Речь замни.</l>
           </sp>
           <sp who="#Tsaplin">
@@ -2910,7 +2909,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ай!</l>
           </sp>
           <sp who="#Knjaz">
@@ -2995,7 +2994,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(Маше)</stage>
+            <stage>(Маше)</stage>
             <l>Уйдем.</l>
           </sp>
           <sp who="#Knjaz">
@@ -3034,7 +3033,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(князю)</stage>
+            <stage>(князю)</stage>
             <l>Помочь извольте ей.</l>
           </sp>
           <sp who="#Masha">
@@ -3049,17 +3048,17 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(с бешенством уходя в одну сторону)</stage>
+            <stage>(с бешенством уходя в одну сторону)</stage>
             <l>Прости!</l>
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(уходя в другую сторону)</stage>
+            <stage>(уходя в другую сторону)</stage>
             <l>Прости!</l>
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(обоим вслед)</stage>
+            <stage>(обоим вслед)</stage>
             <l>Простите.</l>
             <stage>(Цаплину.)</stage>
             <l>Ну, вот вам и ответ.</l>
@@ -3118,7 +3117,7 @@
           <head>ЯВЛЕНИЕ 1</head>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(один, выходит потихоньку)</stage>
+            <stage>(один, выходит потихоньку)</stage>
             <l>И в зале ни души... Ой, ой! житье плохое</l>
             <l>Здесь в доме господам, не служит им никто,</l>
             <l>Людей тьма-тьмущая, а поглядишь, на что?</l>
@@ -3135,13 +3134,13 @@
           <stage>Фома и Радимов.</stage>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(входя)</stage>
+            <stage>(входя)</stage>
             <l>Всё настежь! Дело! так, уж видно по порядку,</l>
             <l>Что дом племянников.</l>
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(оглядывая)</stage>
+            <stage>(оглядывая)</stage>
             <l>Кто это? - Ба!</l>
           </sp>
           <sp who="#Radimov">
@@ -3203,7 +3202,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ну, вот тебе беда!</l>
           </sp>
           <sp who="#Radimov">
@@ -3256,7 +3255,7 @@
           <stage>Те же и Инквартус.</stage>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(кладя бумаги на стол)</stage>
+            <stage>(кладя бумаги на стол)</stage>
             <l>Нет места здесь порядочно заняться,</l>
             <l>И там пришла княжна.</l>
             <stage>(Садится за стол.)</stage>
@@ -3457,7 +3456,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(перебирая тетради)</stage>
+            <stage>(перебирая тетради)</stage>
             <l>Так это сочиненья</l>
             <l>Княжие...</l>
           </sp>
@@ -3476,7 +3475,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(с досадою)</stage>
+            <stage>(с досадою)</stage>
             <l>Оно.</l>
           </sp>
           <sp who="#Foma">
@@ -3485,7 +3484,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(с большею досадою)</stage>
+            <stage>(с большею досадою)</stage>
             <l>И запечатано!</l>
           </sp>
           <sp who="#Inkvartus">
@@ -3507,7 +3506,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(с сердцем)</stage>
+            <stage>(с сердцем)</stage>
             <l>Что завздыхал ты снова?</l>
             <l>Так он прочел письмо? - Ну, что ж молчишь?</l>
           </sp>
@@ -3525,12 +3524,12 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(бежит за ним)</stage>
+            <stage>(бежит за ним)</stage>
             <l>Ну, вот те, бабушка, и Юрьев день!..</l>
           </sp>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(Фоме)</stage>
+            <stage>(Фоме)</stage>
             <l>Постой!..</l>
             <l>Бежит... А! правдолог, как видно, рассердился;</l>
             <l>Но гнев сей отчего, кем возбужден, за что?</l>
@@ -3545,7 +3544,7 @@
           <stage>Инквартус, княгиня и Маша.</stage>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(Инквартусу)</stage>
+            <stage>(Инквартусу)</stage>
             <l>Что делает мой муж?</l>
           </sp>
           <sp who="#Inkvartus">
@@ -3917,7 +3916,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Когда дадут.</l>
           </sp>
         </div>
@@ -3927,12 +3926,12 @@
           <stage>Те же, Инквартус и Ванюша.</stage>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(вбегая)</stage>
+            <stage>(вбегая)</stage>
             <l>Профессор Труфанталь и доктор Гиль идут.</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(Ванюше)</stage>
+            <stage>(Ванюше)</stage>
             <l>Проси их в кабинет.</l>
           </sp>
           <stage>Ванюша уходит.</stage>
@@ -4011,12 +4010,12 @@
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(вбегая с пакетом)</stage>
+            <stage>(вбегая с пакетом)</stage>
             <l>Его сиятельство...</l>
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(взяв скоро пакет)</stage>
+            <stage>(взяв скоро пакет)</stage>
             <l>Как толст пакет! А сколько</l>
             <l>Тут денег может быть?</l>
           </sp>
@@ -4253,7 +4252,7 @@
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Преславное решенье!</l>
           </sp>
           <sp who="#Masha">
@@ -4296,7 +4295,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(Ванюше)</stage>
+            <stage>(Ванюше)</stage>
             <l>Послушай, я боюсь, что Цаплин будет скоро</l>
             <l>И помешает.</l>
           </sp>
@@ -4315,7 +4314,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(бежит к столу и пишет)</stage>
+            <stage>(бежит к столу и пишет)</stage>
             <l>Что больше вздора,</l>
             <l>Тем лучше. Ну, хитрец, отгадывать прошу!</l>
             <l>Увидишь, как пугнет его моя загадка.</l>
@@ -4381,7 +4380,7 @@
           <stage>Те же и Цаплин.</stage>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(входя, берет в дверях письмо у мальчика)</stage>
+            <stage>(входя, берет в дверях письмо у мальчика)</stage>
             <l>Ко мне письмо от Маши?</l>
             <stage>(Читает.)</stage>
             <l>"Когда не хочете дела испортить наши,</l>
@@ -4395,7 +4394,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(прочитав дальше)</stage>
+            <stage>(прочитав дальше)</stage>
             <l>Ну, право, всё загадка.</l>
             <l>Да где она? Гей, ты!</l>
             <stage>(Хочет идти с мальчиком.)</stage>
@@ -4422,12 +4421,12 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Вот отгадка!</l>
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(схватя его)</stage>
+            <stage>(схватя его)</stage>
             <l>А! прикусил язык. Прошу идти со мной.</l>
             <l>Сейчас же в Петербург: свидетели, улика</l>
             <l>И явочная там тебя, бездельник, ждут.</l>
@@ -4500,7 +4499,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Он черт на правду.</l>
           </sp>
           <sp who="#Tsaplin">
@@ -4575,7 +4574,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(падая на колени)</stage>
+            <stage>(падая на колени)</stage>
             <l>Прощения у всех прошу покорно.</l>
             <l>Превосходительный, помилуй! твой приказ</l>
             <l>Исполнить я готов.</l>
@@ -4587,7 +4586,7 @@
           <stage>Те же и князь.</stage>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(в удивлении)</stage>
+            <stage>(в удивлении)</stage>
             <l>Ба! Цаплин.</l>
           </sp>
           <sp who="#Tsaplin">
@@ -4606,7 +4605,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(в замешательстве)</stage>
+            <stage>(в замешательстве)</stage>
             <l>Так.</l>
           </sp>
           <sp who="#Knjaz">
@@ -4624,7 +4623,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Не сказывай.</l>
             <stage>(В сторону.)</stage>
             <l>Так, я не назовуся,</l>
@@ -4653,12 +4652,12 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Вот плут!</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(обнимая Цаплина)</stage>
+            <stage>(обнимая Цаплина)</stage>
             <l>Вот честный человек! Ему должно дивиться.</l>
             <stage>(Радимову.)</stage>
             <l>Не правда ль?</l>
@@ -4684,7 +4683,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(с нетерпением)</stage>
+            <stage>(с нетерпением)</stage>
             <l>Как!..</l>
           </sp>
           <sp who="#Knjaz">
@@ -4703,17 +4702,17 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Прекрасно!</l>
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(Цаплину)</stage>
+            <stage>(Цаплину)</stage>
             <l>Деньги все княгиня получила.</l>
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(с ужасом)</stage>
+            <stage>(с ужасом)</stage>
             <l>Княгиня!</l>
           </sp>
           <sp who="#Knjaz">
@@ -4724,7 +4723,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Постой!</l>
           </sp>
           <sp who="#Knjaz">
@@ -4733,7 +4732,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(в смущении)</stage>
+            <stage>(в смущении)</stage>
             <l>Что бишь?.. Да те безделки,</l>
             <l>Что приказали вы, я с биржи взял к себе.</l>
           </sp>
@@ -4761,7 +4760,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Он думает.</l>
             <stage>(Фоме.)</stage>
             <l>Эй! стул!</l>
@@ -4791,7 +4790,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Он читает.</l>
             <stage>(Радимову.)</stage>
             <l>Так, стало быть, у вас хозяйство процветает,</l>
@@ -5019,7 +5018,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Наглец!</l>
           </sp>
           <sp who="#Knjaz">
@@ -5028,7 +5027,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Скреплюсь еще...</l>
           </sp>
           <sp who="#Knjaz">
@@ -5150,7 +5149,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Распишет он его!</l>
           </sp>
           <sp who="#Radimov">
@@ -5160,7 +5159,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(с презрением)</stage>
+            <stage>(с презрением)</stage>
             <l>Что за вопрос?</l>
           </sp>
           <sp who="#Radimov">
@@ -5225,7 +5224,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(Радимову)</stage>
+            <stage>(Радимову)</stage>
             <l>Помилуйте!</l>
           </sp>
           <sp who="#Radimov">
@@ -5246,7 +5245,7 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(Радимову)</stage>
+            <stage>(Радимову)</stage>
             <l>Он кровь твоя.</l>
           </sp>
           <sp who="#Radimov">
@@ -5271,7 +5270,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Я рад, хоть он не трус.</l>
           </sp>
           <sp who="#Knjaz">
@@ -5280,7 +5279,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Кто я? я всё испорчу,</l>
             <l>Когда скажу...</l>
           </sp>
@@ -5290,7 +5289,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Нет, с плутом прежде кончу.</l>
             <stage>(Князю.)</stage>
             <l>Вы всё узнаете, я к вам сейчас вернусь.</l>
@@ -5328,7 +5327,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(с сердцем)</stage>
+            <stage>(с сердцем)</stage>
             <l>Урок!</l>
           </sp>
           <sp who="#Inkvartus">
@@ -5337,7 +5336,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(с бешенством)</stage>
+            <stage>(с бешенством)</stage>
             <l>Хорош ли? Как бесстыдно</l>
             <l>Он шутит!..</l>
           </sp>
@@ -5390,7 +5389,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(в бешенстве)</stage>
+            <stage>(в бешенстве)</stage>
             <l>Нейдешь?</l>
             <stage>(Фоме.)</stage>
             <l>В окно его!</l>
@@ -5441,7 +5440,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(тихо Инквартусу)</stage>
+            <stage>(тихо Инквартусу)</stage>
             <l>Молчи и убирайся,</l>
             <l>Или сейчас...</l>
           </sp>
@@ -5461,13 +5460,13 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(с сердцем)</stage>
+            <stage>(с сердцем)</stage>
             <l>Я смешон</l>
             <l>Кажуся нынче всем.</l>
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(князю)</stage>
+            <stage>(князю)</stage>
             <l>В нем даже воспаленье!</l>
             <l>Да выпей хоть воды.</l>
           </sp>
@@ -5563,7 +5562,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(графу)</stage>
+            <stage>(графу)</stage>
             <l>А сколько с этих пор переменилось мод?</l>
           </sp>
           <sp who="#Graf">
@@ -5617,7 +5616,7 @@
           <stage>Князь, княгиня, княжна, граф, Фома и графиня.</stage>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(вбегая с бешенством)</stage>
+            <stage>(вбегая с бешенством)</stage>
             <l>Все вместе!</l>
             <l>Тем лучше... Слушайте ж: ты, господин жених,</l>
             <l>С сего часа не смей и думать о невесте -</l>
@@ -5663,7 +5662,7 @@
           </sp>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(возвращаясь)</stage>
+            <stage>(возвращаясь)</stage>
             <l>Прошу идти за мною;</l>
             <l>И мой приказ: тебе в дом этот ни ногою.</l>
           </sp>
@@ -5677,7 +5676,7 @@
           </sp>
           <sp who="#Graf">
             <speaker>Граф</speaker>
-            <stage type="delivery">(княжне)</stage>
+            <stage>(княжне)</stage>
             <l>Вам повинуюсь я.</l>
           </sp>
           <stage>Уходят.</stage>
@@ -5696,7 +5695,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(сидя в креслах)</stage>
+            <stage>(сидя в креслах)</stage>
             <l>Как я несчастна!</l>
           </sp>
           <sp who="#Knjazhna">
@@ -5716,7 +5715,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(княгине)</stage>
+            <stage>(княгине)</stage>
             <l>Не правда ли, ты рада,</l>
             <l>Что Цаплин не взял их?</l>
           </sp>
@@ -5778,7 +5777,7 @@
           <stage>Радимов, Цаплин, Фома, потом слуга.</stage>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(Фоме)</stage>
+            <stage>(Фоме)</stage>
             <l>Графиня, стало быть, всех положила разом?</l>
             <l>Где ж князь?</l>
           </sp>
@@ -5805,19 +5804,19 @@
           </sp>
           <sp who="#Sluga">
             <speaker>Слуга</speaker>
-            <stage type="delivery">(входя, Цаплину)</stage>
+            <stage>(входя, Цаплину)</stage>
             <l>Увидя из окна,</l>
             <l>Что вы сюда пришли, княгиня приказала</l>
             <l>Вас звать скорей к себе, ей нужда...</l>
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Не ходи.</l>
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(слуге)</stage>
+            <stage>(слуге)</stage>
             <l>Ее сиятельство проси, чтоб обождала.</l>
           </sp>
           <sp who="#Sluga">
@@ -5877,7 +5876,7 @@
           <stage>Те же и княгиня.</stage>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(входя скоро, Цаплину)</stage>
+            <stage>(входя скоро, Цаплину)</stage>
             <l>Я, Цаплин, нахожу,</l>
             <l>Что ты с ума сошел, мне нужда...</l>
             <stage>(Радимову.)</stage>
@@ -5887,12 +5886,12 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(тихо Цаплину)</stage>
+            <stage>(тихо Цаплину)</stage>
             <l>Останься здесь.</l>
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(тихо княгине)</stage>
+            <stage>(тихо княгине)</stage>
             <l>Ах! разве вы хотите</l>
             <l>Его взбесить?</l>
           </sp>
@@ -6055,7 +6054,7 @@
             здесь? - Так, стало,Не в этом ли себя вы можете винить?</stage>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Несносный! - Ах! легко вам это говорить;</l>
             <l>Вы моего, сударь, не знаете страданья.</l>
             <l>Я мужа и детей люблю до обожанья,</l>
@@ -6106,12 +6105,12 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(княгине)</stage>
+            <stage>(княгине)</stage>
             <l>Что сделалося с вами?</l>
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(в слезах)</stage>
+            <stage>(в слезах)</stage>
             <l>Со мной?..</l>
           </sp>
           <sp who="#Radimov">
@@ -6189,7 +6188,7 @@
           </sp>
           <sp who="#Tsaplin">
             <speaker>Цаплин</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Я угадал.</l>
           </sp>
           <sp who="#Knjaginja">
@@ -6256,7 +6255,7 @@
           <stage>Те же, Инквартус и Фома.</stage>
           <sp who="#Inkvartus">
             <speaker>Инквартус</speaker>
-            <stage type="delivery">(за дверьми)</stage>
+            <stage>(за дверьми)</stage>
             <l>Пусти!</l>
           </sp>
           <sp who="#Foma">
@@ -6290,7 +6289,7 @@
           <stage>Те же и князь.</stage>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(входя и увидя Радимова)</stage>
+            <stage>(входя и увидя Радимова)</stage>
             <l>Вот он!</l>
             <stage>(Ему.)</stage>
             <l>Что это значит?</l>
@@ -6314,7 +6313,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(тихо Радимову)</stage>
+            <stage>(тихо Радимову)</stage>
             <l>Ах! сжальтесь надо мной,</l>
             <l>Не открывайте.</l>
           </sp>
@@ -6347,7 +6346,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(Радимову)</stage>
+            <stage>(Радимову)</stage>
             <l>Хотите ль отвечать?</l>
           </sp>
           <sp who="#Radimov">
@@ -6378,7 +6377,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(в бешенстве)</stage>
+            <stage>(в бешенстве)</stage>
             <l>Прочел я или нет, тебе в том нужды мало;</l>
             <l>Уж я устал терпеть, - скажи, кто ты таков?</l>
           </sp>
@@ -6393,12 +6392,12 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Мой дядя!</l>
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Боже мой!</l>
           </sp>
           <sp who="#Grafinja">
@@ -6433,7 +6432,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(тихо Радимову)</stage>
+            <stage>(тихо Радимову)</stage>
             <l>Мне совестно...</l>
           </sp>
           <sp who="#Radimov">
@@ -6448,13 +6447,13 @@
           </sp>
           <sp who="#Foma">
             <speaker>Фома</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Хоть он меня побей, а побегу к княжне.</l>
             <stage>(Уходит.)</stage>
           </sp>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Тут что-то сделалось, и не сказали мне.</l>
           </sp>
           <sp who="#Radimov">
@@ -6543,7 +6542,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(Цаплину)</stage>
+            <stage>(Цаплину)</stage>
             <l>Письмо подай,</l>
             <l>Оно докажет всё.</l>
             <stage>(Князю.)</stage>
@@ -6551,7 +6550,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(читает)</stage>
+            <stage>(читает)</stage>
             <l>"Ты с возвращения своего из чужих краев, где тебя воспитывали, не хотел</l>
             <l>меня видеть и не написал ни разу к своему дяде; но твои дела расстроены, я</l>
             <l>забываю все, кроме того, что ты сын моей сестры. Твое имение назначено в</l>
@@ -6572,7 +6571,7 @@
           </sp>
           <sp who="#Knjaz">
             <speaker>Князь</speaker>
-            <stage type="delivery">(читает)</stage>
+            <stage>(читает)</stage>
             <l>Но у меня есть дети, которым принадлежит мое имение; однако я могу</l>
             <l>заложить его, чтоб выкупить ваше, с тем уговором, чтоб оно было в полном</l>
             <l>моем распоряжении до заплаты вашего долга. Итак, вы должны тотчас ехать в</l>
@@ -6686,7 +6685,7 @@
           </sp>
           <sp who="#Grafinja">
             <speaker>Графиня</speaker>
-            <stage type="delivery">(княгине)</stage>
+            <stage>(княгине)</stage>
             <l>Хоть сжалься над детьми.</l>
           </sp>
           <sp who="#Knjaginja">
@@ -6733,7 +6732,7 @@
           <stage>Те же и Ванюша, потом Маша.</stage>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(вбегает)</stage>
+            <stage>(вбегает)</stage>
             <l>Ваш новый экипаж</l>
             <l>Уж привезен к крыльцу.</l>
           </sp>
@@ -6749,7 +6748,7 @@
           </sp>
           <sp who="#Vanjusha">
             <speaker>Ванюша</speaker>
-            <stage type="delivery">(в сторону)</stage>
+            <stage>(в сторону)</stage>
             <l>Ну, я попал впросак!</l>
           </sp>
           <sp who="#Knjaginja">
@@ -6768,7 +6767,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(вбегает с ящиком и, увидя всех, пугается)</stage>
+            <stage>(вбегает с ящиком и, увидя всех, пугается)</stage>
             <l>Ай!</l>
           </sp>
           <sp who="#Grafinja">
@@ -6796,7 +6795,7 @@
           </sp>
           <sp who="#Knjaginja">
             <speaker>Княгиня</speaker>
-            <stage type="delivery">(тихо Радимову)</stage>
+            <stage>(тихо Радимову)</stage>
             <l>Он, дядюшка, тот самый...</l>
           </sp>
           <sp who="#Radimov">
@@ -6819,7 +6818,7 @@
           </sp>
           <sp who="#Masha">
             <speaker>Маша</speaker>
-            <stage type="delivery">(Ванюше)</stage>
+            <stage>(Ванюше)</stage>
             <l>Ай! что-то худо.</l>
           </sp>
           <sp who="#Vanjusha">
@@ -6828,7 +6827,7 @@
           </sp>
           <sp who="#Radimov">
             <speaker>Радимов</speaker>
-            <stage type="delivery">(графине)</stage>
+            <stage>(графине)</stage>
             <l>Ну, кончим же скорей.</l>
             <l>Теперь о горе их вам больше нет заботы:</l>
             <l>Они пристроены, подумаем о ней.</l>
