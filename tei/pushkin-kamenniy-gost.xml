@@ -223,7 +223,7 @@
           </sp>
           <sp who="#DonGuan">
             <speaker>Дон Гуан</speaker>
-            <stage type="delivery">(задумчиво)</stage>
+            <stage>(задумчиво)</stage>
             <lg>
               <l part="F">Бедная Инеза!</l>
               <l>Ее уж нет! как я любил ее!</l>
@@ -530,7 +530,7 @@
               <l part="I">Взойдем в Мадрит.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
           <sp who="#Leporello">
             <speaker>Лепорелло</speaker>
             <lg>
@@ -593,7 +593,7 @@
               <l part="F">Подайте мне гитару.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Поет.)</stage>
+          <stage>(Поет.)</stage>
           <sp who="#PervyjGost #VtorojGost #TretijGost #DonKarlos">
             <speaker>Все</speaker>
             <lg>
@@ -653,7 +653,7 @@
           </sp>
           <sp who="#DonKarlos">
             <speaker>Дон Карлос</speaker>
-            <stage type="delivery">(встает)</stage>
+            <stage>(встает)</stage>
             <lg>
               <l part="I">Зови же их.</l>
             </lg>
@@ -716,7 +716,7 @@
               <l part="I">А, слушайте.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Поет.)</stage>
+          <stage>(Поет.)</stage>
           <sp who="#PervyjGost #VtorojGost #TretijGost #DonKarlos">
             <speaker>Все</speaker>
             <lg>
@@ -860,7 +860,7 @@
               <l part="I">Ужели!.. Боже!..</l>
             </lg>
           </sp>
-          <stage type="delivery">(Отпирает двери, входит Дон Гуан.)</stage>
+          <stage>(Отпирает двери, входит Дон Гуан.)</stage>
           <sp who="#DonGuan">
             <speaker>Дон Гуан</speaker>
             <lg>
@@ -873,7 +873,7 @@
               <l part="F">Дон Гуан!..</l>
             </lg>
           </sp>
-          <stage type="delivery">(Лаура кидается ему на шею.)</stage>
+          <stage>(Лаура кидается ему на шею.)</stage>
           <sp who="#DonKarlos">
             <speaker>Дон Карлос</speaker>
             <lg>
@@ -885,7 +885,7 @@
             <lg>
               <l part="F">Лаура, милый друг!..</l>
             </lg>
-            <stage type="delivery">(Целует ее.)</stage>
+            <stage>(Целует ее.)</stage>
             <lg>
               <l part="I">Кто у тебя, моя Лаура?</l>
             </lg>
@@ -921,7 +921,7 @@
           </sp>
           <sp who="#DonKarlos">
             <speaker>Дон Карлос</speaker>
-            <stage type="delivery">(ее не слушая)</stage>
+            <stage>(ее не слушая)</stage>
             <lg>
               <l part="F">Я жду. Ну что ж,</l>
               <l part="I">Ведь ты при шпаге.</l>
@@ -967,7 +967,7 @@
           </sp>
           <sp who="#Laura">
             <speaker>Лаура</speaker>
-            <stage type="delivery">(осматривает тело)</stage>
+            <stage>(осматривает тело)</stage>
             <lg>
               <l part="F">Да! жив! гляди, проклятый,</l>
               <l>Ты прямо в сердце ткнул – небось не мимо,</l>
@@ -1016,7 +1016,7 @@
               <l part="I">Пришел искать в Мадрите.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Целует ее.)</stage>
+          <stage>(Целует ее.)</stage>
           <sp who="#Laura">
             <speaker>Лаура</speaker>
             <lg>
@@ -1416,7 +1416,7 @@
               <l part="I">Прощайте, Дон Диего.</l>
             </lg>
           </sp>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </div>
         <div type="configuration">
           <sp who="#DonGuan">
@@ -1602,7 +1602,7 @@
           </sp>
           <sp who="#Leporello">
             <speaker>Лепорелло</speaker>
-            <stage type="delivery">(кивая головой)</stage>
+            <stage>(кивая головой)</stage>
             <lg>
               <l part="I">Статуя... ай!..</l>
             </lg>
@@ -1637,7 +1637,7 @@
             <lg>
               <l part="F">Ну смотри ж, бездельник.</l>
             </lg>
-            <stage type="delivery">(Статуе.)</stage>
+            <stage>(Статуе.)</stage>
             <lg>
               <l>Я, командор, прошу тебя прийти</l>
               <l>К твоей вдове, где завтра буду я,</l>
@@ -1849,7 +1849,7 @@
           </sp>
           <sp who="#DonGuan">
             <speaker>Дон Гуан </speaker>
-            <stage type="delivery">(про себя)</stage>
+            <stage>(про себя)</stage>
             <lg>
               <l part="F">Идет к развязке дело!</l>
               <l>Скажите мне, несчастный Дон Гуан</l>
@@ -1953,7 +1953,7 @@
           </sp>
           <sp who="#DonaAnna">
             <speaker>Дона Анна</speaker>
-            <stage type="delivery">(падая)</stage>
+            <stage>(падая)</stage>
             <lg>
               <l part="I">Где я?.. где я? мне дурно, дурно.</l>
             </lg>
@@ -1972,7 +1972,7 @@
             <lg>
               <l part="F">Оставь меня!</l>
             </lg>
-            <stage type="delivery">(Слабо.)</stage>
+            <stage>(Слабо.)</stage>
             <lg>
               <l>О, ты мне враг – ты отнял у меня</l>
               <l part="I">Все, что я в жизни...</l>
@@ -2068,7 +2068,7 @@
           </sp>
           <sp who="#DonGuan">
             <speaker>Дон Гуан</speaker>
-            <stage type="delivery">(целуя ей руки)</stage>
+            <stage>(целуя ей руки)</stage>
             <lg>
               <l>И вы о жизни бедного Гуана</l>
               <l>Заботитесь! Так ненависти нет</l>
@@ -2149,7 +2149,7 @@
             <lg>
               <l>Прощай же, до свиданья, друг мой милый.</l>
             </lg>
-            <stage type="delivery">(Уходит и вбегает опять.)</stage>
+            <stage>(Уходит и вбегает опять.)</stage>
             <lg>
               <l part="I">А!..</l>
             </lg>

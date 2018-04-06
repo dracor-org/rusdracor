@@ -482,7 +482,7 @@
         </sp>
         <sp who="#Frants">
           <speaker>Франц</speaker>
-          <stage type="delivery">(почесывается).</stage>
+          <stage>(почесывается).</stage>
           <p>Вашим конюшим?</p>
         </sp>
         <sp who="#Alber">
@@ -639,7 +639,7 @@
           <speaker>Клотильда.</speaker>
           <p>Граф, я рада, что имею честь принимать вас у себя... Братец, я буду вас ожидать в
             северной башне...</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Rotenfeld">
           <speaker>Граф.</speaker>
@@ -663,7 +663,7 @@
         <sp who="#Alber">
           <speaker>Альбер.</speaker>
           <p>Грубиян!</p>
-          <stage type="delivery">(Замахивается.)</stage>
+          <stage>(Замахивается.)</stage>
           <p>Я тебя прогоню!</p>
         </sp>
         <sp who="#Frants">
@@ -673,7 +673,7 @@
         <sp who="#Alber">
           <speaker>Альбер.</speaker>
           <p>Мужик, подлая тварь! Извините, граф, я с ним управлюсь... Вон!...</p>
-          <stage type="delivery">(Толкает его в спину.)</stage>
+          <stage>(Толкает его в спину.)</stage>
           <p>Чтобы духа твоего здесь не было.</p>
         </sp>
         <sp who="#Rotenfeld">
@@ -736,15 +736,15 @@
             кончилось? – боже... кровь кидается в лицо – кулаки мои сжимаются... О, я им отомщу,
             отомщу...</p>
           <p>Как-то примет меня отец!</p>
-          <stage type="delivery">(Стучится.)</stage>
+          <stage>(Стучится.)</stage>
         </sp>
       </div>
       <div type="configuration">
         <sp who="#Karl">
           <speaker>Карл</speaker>
-          <stage type="delivery">(выходит).</stage>
+          <stage>(выходит).</stage>
           <p>Кто там так бодро стучится? – A! Франц, это ты!</p>
-          <stage type="delivery">(Про себя.)</stage>
+          <stage>(Про себя.)</stage>
           <p>Вот черт принес!</p>
         </sp>
         <sp who="#Frants">
@@ -842,7 +842,7 @@
         <stage>Франц с частью вассалов скрывается за лес.</stage>
         <sp who="#Kosari">
           <speaker>Косари</speaker>
-          <stage type="delivery">(поют)</stage>
+          <stage>(поют)</stage>
           <lg>
             <l>Ходит во́ поле коса,</l>
             <l>Зелена́я полоса</l>
@@ -874,12 +874,12 @@
         <stage>Лошади раненые падают с седоками, другие бесятся.</stage>
         <sp who="#Frants">
           <speaker>Франц</speaker>
-          <stage type="delivery">(бросается из засады).</stage>
+          <stage>(бросается из засады).</stage>
           <p>Вперед, ребята! У! у!..</p>
         </sp>
         <sp who="#OdinRytsar">
           <speaker>Один рыцарь</speaker>
-          <stage type="delivery">(другому).</stage>
+          <stage>(другому).</stage>
           <p>Плохо, брат, – их более ста человек...</p>
         </sp>
         <sp who="#DrugojRytsar">
@@ -897,7 +897,7 @@
         <stage>Сражение. Все рыцари падают один за другим.</stage>
         <sp who="#Vassaly">
           <speaker>Вассалы</speaker>
-          <stage type="delivery">(бьют их дубинами, косами).</stage>
+          <stage>(бьют их дубинами, косами).</stage>
           <p>Наша взяла!.. Кровопийцы! разбойники! гордецы поганые! Теперь вы в наших руках...</p>
         </sp>
         <sp who="#Frants">
@@ -923,7 +923,7 @@
         <sp who="#Vassaly">
           <speaker>Вассалы.</speaker>
           <p>Беда! Беда! Это рыцари!..</p>
-          <stage type="delivery">(Разбегаются.)</stage>
+          <stage>(Разбегаются.)</stage>
         </sp>
         <sp who="#Frants">
           <speaker>Франц.</speaker>
@@ -1002,7 +1002,7 @@
         <sp who="#Klotilda">
           <speaker>Клотильда.</speaker>
           <p>Благодарю вас, рыцари. За здоровье ваших дам...</p>
-          <stage type="delivery">(Пьет.)</stage>
+          <stage>(Пьет.)</stage>
         </sp>
         <sp who="#Rotenfeld">
           <speaker>Ротенфельд.</speaker>
@@ -1068,7 +1068,7 @@
         </sp>
         <sp who="#Frants">
           <speaker>Франц</speaker>
-          <stage type="delivery">(поет)</stage>
+          <stage>(поет)</stage>
           <lg>
             <l>Жил на свете рыцарь бедный,</l>
             <l>Молчаливый и простой,</l>
@@ -1187,7 +1187,7 @@
         </sp>
         <sp who="#Frants">
           <speaker>Франц</speaker>
-          <stage type="delivery">(в чрезвычайном смущении).</stage>
+          <stage>(в чрезвычайном смущении).</stage>
           <p>Сударыня... Сударыня...</p>
         </sp>
         <sp who="#Rytsar_2">

@@ -251,7 +251,7 @@
             <l>Пойду тебе готовить угощенье.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Уходит.)</stage>
+        <stage>(Уходит.)</stage>
         <sp who="#DochRusalka">
           <speaker>Дочь</speaker>
           <lg>
@@ -407,7 +407,7 @@
             <l>Возьми его. Да вот еще: отцу</l>
             <l>Я это посулил. Отдай ему.</l>
           </lg>
-          <stage type="delivery"> (Дает ей в руки мешок с золотом.)</stage>
+          <stage> (Дает ей в руки мешок с золотом.)</stage>
           <lg>
             <l part="I">Прощай.</l>
           </lg>
@@ -446,18 +446,18 @@
             <l>Вас навестить. Утешься, не крушися.</l>
             <l>Дай обниму тебя в последний раз.</l>
           </lg>
-          <stage type="delivery">(Уходя.)</stage>
+          <stage>(Уходя.)</stage>
           <lg>
             <l>Ух! кончено — душе как будто легче.</l>
             <l>Я бури ждал, но дело обошлось</l>
             <l part="I">Довольно тихо.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Уходит.)</stage>
+        <stage>(Уходит.)</stage>
         <stage>Она остается неподвижною.</stage>
         <sp who="#Melnik">
           <speaker>Мельник</speaker>
-          <stage type="delivery">(входит)</stage>
+          <stage>(входит)</stage>
           <lg>
             <l part="F">Не угодно ль будет</l>
             <l>Пожаловать на мельницу... да где ж он?</l>
@@ -582,10 +582,10 @@
             <l part="I">Моя погибель.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Отдает ему мешок.)</stage>
+        <stage>(Отдает ему мешок.)</stage>
         <sp who="#Melnik">
           <speaker>Отец</speaker>
-          <stage type="delivery">(в слезах)</stage>
+          <stage>(в слезах)</stage>
           <lg>
             <l part="F">До чего я дожил!</l>
             <l>Что бог привел услышать! Грех тебе</l>
@@ -606,7 +606,7 @@
             <l part="I">Не жемчугом.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Рвет с себя жемчуг.)</stage>
+        <stage>(Рвет с себя жемчуг.)</stage>
         <sp who="#Melnik">
           <speaker>Мельник</speaker>
           <lg>
@@ -629,7 +629,7 @@
         </sp>
         <sp who="#DochRusalka">
           <speaker>Дочь</speaker>
-          <stage type="delivery">(сымает с себя повязку)</stage>
+          <stage>(сымает с себя повязку)</stage>
           <lg>
             <l part="F">Вот венец мой,</l>
             <l>Венец позорный! вот чем нас венчал</l>
@@ -637,15 +637,15 @@
             <l>Ото всего, чем прежде дорожила.</l>
             <l>Мы развенчались. — Сгинь ты, мой венец!</l>
           </lg>
-          <stage type="delivery">(Бросает повязку в Днепр.)</stage>
+          <stage>(Бросает повязку в Днепр.)</stage>
           <lg>
             <l part="I">Теперь все кончено.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Бросается в реку.)</stage>
+        <stage>(Бросается в реку.)</stage>
         <sp who="#Melnik">
           <speaker>Старик</speaker>
-          <stage type="delivery">(падая)</stage>
+          <stage>(падая)</stage>
           <lg>
             <l part="F">Ох, горе, горе!</l>
           </lg>
@@ -694,7 +694,7 @@
             <l>На, на, возьмите, не корите свата.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Дарит девушек.)</stage>
+        <stage>(Дарит девушек.)</stage>
         <sp who="#OdinGolos">
           <speaker>Один голос</speaker>
           <lg>
@@ -735,7 +735,7 @@
           <lg>
             <l part="I">Я знаю кто.</l>
           </lg>
-          <stage type="delivery">(Встает из-за стола и говорит тихо конюшему.)</stage>
+          <stage>(Встает из-за стола и говорит тихо конюшему.)</stage>
           <lg>
             <l part="F">Она сюда прокралась.</l>
             <l>Скорее выведи ее. Да сведай,</l>
@@ -745,7 +745,7 @@
         <stage>Конюший подходит к девушкам.</stage>
         <sp who="#Knjaz">
           <speaker>Князь</speaker>
-          <stage type="delivery">(садится, про себя)</stage>
+          <stage>(садится, про себя)</stage>
           <lg>
             <l part="F">Она, пожалуй,</l>
             <l>Готова здесь наделать столько шума,</l>
@@ -780,7 +780,7 @@
           <lg>
             <l part="I">Она! вот крик ее ревнивый.</l>
           </lg>
-          <stage type="delivery">(Конюшему.)</stage>
+          <stage>(Конюшему.)</stage>
           <lg>
             <l part="F">Что?</l>
           </lg>
@@ -799,7 +799,7 @@
         </sp>
         <sp who="#Druzhko">
           <speaker>Дружко</speaker>
-          <stage type="delivery">(вставая)</stage>
+          <stage>(вставая)</stage>
           <lg>
             <l>Не время ль нам княгиню выдать мужу</l>
             <l>Да молодых в дверях осыпать хмелем?</l>
@@ -831,7 +831,7 @@
         </sp>
         <sp who="#Svaha">
           <speaker>Сваха</speaker>
-          <stage type="delivery"> (наливает ему чарку)</stage>
+          <stage> (наливает ему чарку)</stage>
           <lg>
             <l part="I">На, кушай на здоровье.</l>
           </lg>
@@ -874,7 +874,7 @@
             <l>Прощай, кума.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Уходит.)</stage>
+        <stage>(Уходит.)</stage>
         <sp who="#Svaha">
           <speaker>Сваха</speaker>
           <lg>
@@ -1189,7 +1189,7 @@
             <l>И сыт, и волен. Не хочу в твой терем.</l>
           </lg>
         </sp>
-        <stage type="delivery">(Уходит.)</stage>
+        <stage>(Уходит.)</stage>
         <sp who="#Knjaz">
           <speaker>Князь</speaker>
           <lg>
@@ -1234,7 +1234,7 @@
             <l>Что шагу мне ступить нельзя без няньки?</l>
           </lg>
         </sp>
-        <stage type="delivery">(Уходит.)</stage>
+        <stage>(Уходит.)</stage>
         <stage>Русалки показываются над водой.</stage>
         <sp who="#Rusalki">
           <speaker>Русалки</speaker>
@@ -1341,7 +1341,7 @@
           <lg>
             <l part="M">Ступай же.</l>
           </lg>
-          <stage type="delivery">(Одна.)</stage>
+          <stage>(Одна.)</stage>
           <lg>
             <l part="F">С той поры,</l>
             <l>Как бросилась без памяти я в воду</l>
