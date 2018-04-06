@@ -176,7 +176,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(насмешливо)</stage>
+          <stage>(насмешливо)</stage>
           <l>А храм кому, мой старый дракон?</l>
         </sp>
         <sp who="#Ehion">
@@ -185,7 +185,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(со смехом)</stage>
+          <stage>(со смехом)</stage>
           <l part="M">Нет.</l>
         </sp>
         <sp who="#Ehion">
@@ -202,7 +202,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(поёт, выворачивая камень)</stage>
+          <stage>(поёт, выворачивая камень)</stage>
           <l>Отдай мне глыбу, земля! земля!</l>
           <l>Я взнесу её к небу, земля! земля!</l>
           <l>И она будет в храме, земля! земля!</l>
@@ -214,7 +214,7 @@
         </sp>
         <sp who="#Ehion">
           <speaker>Эхион</speaker>
-          <stage type="delivery">(поёт тотчас вслед за Кадмом)</stage>
+          <stage>(поёт тотчас вслед за Кадмом)</stage>
           <l>Белая кровь дракона, чёрное тело.</l>
           <l>Господин приказал приняться за дело.</l>
           <l>Зубы дракона, нас было много,</l>
@@ -251,7 +251,7 @@
         </sp>
         <sp who="#Agava">
           <speaker>Агава</speaker>
-          <stage type="delivery">(насмешливо)</stage>
+          <stage>(насмешливо)</stage>
           <l part="F">Всё те же.</l>
           <l>Значит, на рынке Пентей</l>
           <l>Дуракам диктует законы.</l>
@@ -264,7 +264,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(с важностью)</stage>
+          <stage>(с важностью)</stage>
           <l part="I">Ты, женщина, нас не поймёшь.</l>
         </sp>
         <sp who="#Agava">
@@ -279,7 +279,7 @@
       <div type="configuration">
         <sp who="#Akteon">
           <speaker>Актеон</speaker>
-          <stage type="delivery">(кричит за сценой)</stage>
+          <stage>(кричит за сценой)</stage>
           <l>Сюда, товарищи, за этой чащей</l>
           <l>Звучат людские голоса,</l>
           <l>Они врываются всё чаще, чаще</l>
@@ -293,7 +293,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(недовольно)</stage>
+          <stage>(недовольно)</stage>
           <l>Как, ты, Актеон? Но сегодня тебя я</l>
           <l>Поставил следить за прокладкой канала,</l>
           <l>А ты всё оставил, медведя гоняя.</l>
@@ -301,12 +301,12 @@
         </sp>
         <sp who="#Akteon">
           <speaker>Актеон</speaker>
-          <stage type="delivery">(со смущением)</stage>
+          <stage>(со смущением)</stage>
           <l part="I">Отец, я виновен.</l>
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(к нему и к вошедшим юношам)</stage>
+          <stage>(к нему и к вошедшим юношам)</stage>
           <l part="F">Ну, полно, к работе!</l>
           <l>Болтать будем после мы. Этот камень —</l>
           <l>На площадь Судилища вы снесёте,</l>
@@ -315,7 +315,7 @@
         </sp>
         <sp who="#Akteon">
           <speaker>Актеон</speaker>
-          <stage type="delivery">(подходя к камню)</stage>
+          <stage>(подходя к камню)</stage>
           <l part="I">О, боги, он грязен!</l>
         </sp>
         <sp who="#Ehion">
@@ -332,7 +332,7 @@
         </sp>
         <sp who="#Akteon">
           <speaker>Актеон</speaker>
-          <stage type="delivery">(вопросительно)</stage>
+          <stage>(вопросительно)</stage>
           <l part="I">Отец?</l>
         </sp>
         <sp who="#Kadm">
@@ -349,7 +349,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(спокойно)</stage>
+          <stage>(спокойно)</stage>
           <l part="I">Не хочешь?</l>
         </sp>
         <sp who="#Akteon">
@@ -358,7 +358,7 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(ещё спокойнее)</stage>
+          <stage>(ещё спокойнее)</stage>
           <l part="F">Так будь счастлив,</l>
           <l>Как травы, может быть как звери.</l>
           <stage>(С внезапной торжественностью)</stage>
@@ -368,7 +368,7 @@
         </sp>
         <sp who="#Ehion">
           <speaker>Эхион</speaker>
-          <stage type="delivery">(Актеону)</stage>
+          <stage>(Актеону)</stage>
           <l>Дитя, я многого не понимаю,</l>
           <l>Но слушай, когда говорит господин…</l>
           <l>А я тебе рыжего львёнка поймаю</l>
@@ -376,7 +376,7 @@
         </sp>
         <sp who="#Agava">
           <speaker>Агава</speaker>
-          <stage type="delivery">(Актеону, с другой стороны)</stage>
+          <stage>(Актеону, с другой стороны)</stage>
           <l>Скорее, ведь камень совсем не тяжёлый,</l>
           <l>Его бы, пожалуй, одна я снесла.</l>
           <l>Тащи его в город… а город весёлый,</l>
@@ -385,12 +385,12 @@
         </sp>
         <sp who="#Kadm">
           <speaker>Кадм</speaker>
-          <stage type="delivery">(резко Эхиону, указывая на камень)</stage>
+          <stage>(резко Эхиону, указывая на камень)</stage>
           <l part="I">Берись!</l>
         </sp>
         <sp who="#Ehion">
           <speaker>Эхион</speaker>
-          <stage type="delivery">(покорно, наклоняясь)</stage>
+          <stage>(покорно, наклоняясь)</stage>
           <l part="M">Берусь.</l>
         </sp>
         <sp who="#Akteon">
@@ -467,7 +467,7 @@
       <div type="configuration">
         <sp who="#Akteon">
           <speaker>Актеон</speaker>
-          <stage type="delivery">(слегка хмурясь)</stage>
+          <stage>(слегка хмурясь)</stage>
           <l part="I">Идите же.</l>
           <stage>(Юноши уходят. Актеон один).</stage>
           <l part="F">Как хорошо вокруг!</l>
@@ -524,12 +524,12 @@
         </sp>
         <sp who="#Hiale">
           <speaker>Хиале</speaker>
-          <stage type="delivery">(обиженно)</stage>
+          <stage>(обиженно)</stage>
           <l>А косы у кого расплелись?</l>
         </sp>
         <sp who="#Krokale">
           <speaker>Крокале</speaker>
-          <stage type="delivery">(со смехом)</stage>
+          <stage>(со смехом)</stage>
           <l>У Ранис.</l>
         </sp>
         <sp who="#Ranis">
@@ -548,7 +548,7 @@
         </sp>
         <sp who="#Diana">
           <speaker>Диана</speaker>
-          <stage type="delivery">(медленно, скандируя)</stage>
+          <stage>(медленно, скандируя)</stage>
           <l>Время нам ноги омыть, расстегните ремни у сандалий,</l>
           <l>Сбросьте лёгкую ткань с ваших измученных плеч.</l>
           <stage>Девушки помогают ей раздеваться и болтают между собой.</stage>
@@ -566,12 +566,12 @@
         </sp>
         <sp who="#Hiale">
           <speaker>Хиале</speaker>
-          <stage type="delivery">(со вздохом)</stage>
+          <stage>(со вздохом)</stage>
           <l>А Марсом — ещё тяжелей.</l>
         </sp>
         <sp who="#Ranis">
           <speaker>Ранис</speaker>
-          <stage type="delivery">(недоверчиво)</stage>
+          <stage>(недоверчиво)</stage>
           <l part="I">Как, Марс тебя любит?</l>
         </sp>
         <sp who="#Hiale">
@@ -581,12 +581,12 @@
         </sp>
         <sp who="#Ranis #Krokale">
           <speaker>Ранис и Крокале</speaker>
-          <stage type="delivery">(с интересом)</stage>
+          <stage>(с интересом)</stage>
           <l part="I">Настиг?</l>
         </sp>
         <sp who="#Hiale">
           <speaker>Хиале</speaker>
-          <stage type="delivery">(скромно)</stage>
+          <stage>(скромно)</stage>
           <l part="M">Нет, конечно.</l>
         </sp>
         <sp who="#Krokale">
@@ -661,7 +661,7 @@
       <div type="configuration">
         <sp who="#Akteon">
           <speaker>Актеон</speaker>
-          <stage type="delivery">(один, озирается чутко и неловко)</stage>
+          <stage>(один, озирается чутко и неловко)</stage>
           <l>Кажется, здесь были люди.</l>
           <l>А какая вкусная трава,</l>
           <l>Какая холодная вода,</l>
@@ -675,7 +675,7 @@
         </sp>
         <sp who="#PervyjPes">
           <speaker>Первый</speaker>
-          <stage type="delivery">(вкрадчиво и зловеще)</stage>
+          <stage>(вкрадчиво и зловеще)</stage>
           <l>Ты помнишь пламенные губы,</l>
           <l>Перед тобой они, гляди,</l>
           <l>Прильни, целуй, кусай их грубо…</l>
@@ -686,7 +686,7 @@
         </sp>
         <sp who="#VtorojPes">
           <speaker>Второй</speaker>
-          <stage type="delivery">(так же)</stage>
+          <stage>(так же)</stage>
           <l>Ты помнишь грудь, как плод созрелый,</l>
           <l>Перед тобой она, гляди,</l>
           <l>Сожми её рукою смелой…</l>
@@ -697,7 +697,7 @@
         </sp>
         <sp who="#TretijPes">
           <speaker>Третий</speaker>
-          <stage type="delivery">(так же)</stage>
+          <stage>(так же)</stage>
           <l>Ты помнишь ослабевший пояс,</l>
           <l>Перед тобою он, гляди,</l>
           <l>Сорви его, не беспокоясь…</l>
@@ -708,7 +708,7 @@
         </sp>
         <sp who="#PervyjPes #VtorojPes #TretijPes">
           <speaker>Все трое</speaker>
-          <stage type="delivery">(вместе)</stage>
+          <stage>(вместе)</stage>
           <l>Беги, сок жил твоих отравлен,</l>
           <l>Но ты склоняешься, дрожишь,</l>
           <l>Ты нашей воле предоставлен</l>
@@ -720,7 +720,7 @@
       <div type="configuration">
         <sp who="#Agava">
           <speaker>Агава</speaker>
-          <stage type="delivery">(зовёт)</stage>
+          <stage>(зовёт)</stage>
           <l>Сыночек, сыночек, иди с нами,</l>
           <l>В доме тепло, а здесь сыро.</l>
           <stage>(Замечает лежащего, наклоняется к нему и отшатывается)</stage>

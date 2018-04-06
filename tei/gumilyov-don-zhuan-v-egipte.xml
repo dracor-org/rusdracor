@@ -97,7 +97,7 @@
       <div type="configuration">
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(выходя из глубокой расселины между плит)</stage>
+          <stage>(выходя из глубокой расселины между плит)</stage>
           <l>Как странно! Где я? Что за бред?</l>
           <l>Ага! Я ставлю три червонца,</l>
           <l>Что наконец я вижу свет</l>
@@ -152,7 +152,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(тихо)</stage>
+          <stage>(тихо)</stage>
           <l>Ах да, пожалуйста, молчите.</l>
         </sp>
         <sp who="#DonZhuan">
@@ -161,7 +161,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло </speaker>
-          <stage type="delivery">(тихо)</stage>
+          <stage>(тихо)</stage>
           <l part="F">Я объясню</l>
           <l part="I">Вам всё…</l>
           <stage>(обнимая его, громко)</stage>
@@ -181,7 +181,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло </speaker>
-          <stage type="delivery">(Американцу и Американке)</stage>
+          <stage>(Американцу и Американке)</stage>
           <l>Всё тот же он, манеры те же.</l>
         </sp>
         <sp who="#DonZhuan">
@@ -190,7 +190,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло </speaker>
-          <stage type="delivery">(продолжая его обнимать, тихо)</stage>
+          <stage>(продолжая его обнимать, тихо)</stage>
           <l part="F">Молчите! О!</l>
           <l part="I">Не бейте…</l>
           <stage>(громко)</stage>
@@ -201,7 +201,7 @@
         </sp>
         <sp who="#Amerikanets">
           <speaker>Американец </speaker>
-          <stage type="delivery">(тихо Лепорелло)</stage>
+          <stage>(тихо Лепорелло)</stage>
           <l>Но кто он? Как его зовут?</l>
         </sp>
         <sp who="#DonZhuan">
@@ -210,12 +210,12 @@
         </sp>
         <sp who="#Amerikanka">
           <speaker>Американка</speaker>
-          <stage type="delivery">(тихо ему же, указывая на дон Жуана)</stage>
+          <stage>(тихо ему же, указывая на дон Жуана)</stage>
           <l>Как он красив! Зачем он тут?</l>
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(тихо, то тем, то другим)</stage>
+          <stage>(тихо, то тем, то другим)</stage>
           <l>Сейчас, сейчас, я всё устрою.</l>
           <stage>(Громко, становясь в позу)</stage>
           <l>Я был его секретарём,</l>
@@ -233,7 +233,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(примиряюще)</stage>
+          <stage>(примиряюще)</stage>
           <l part="F">Да, для меня.</l>
           <l>Я стал студентом Саламанки</l>
           <l>И позабыл день ото дня</l>
@@ -249,7 +249,7 @@
         </sp>
         <sp who="#Amerikanets">
           <speaker>Американец</speaker>
-          <stage type="delivery">(почтительно)</stage>
+          <stage>(почтительно)</stage>
           <l part="I">Мы знаем, да.</l>
         </sp>
         <sp who="#Leporello">
@@ -301,22 +301,22 @@
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(подходя к Американке)</stage>
+          <stage>(подходя к Американке)</stage>
           <l part="I">Сеньора!</l>
         </sp>
         <sp who="#Amerikanka">
           <speaker>Американка</speaker>
-          <stage type="delivery">(поправляя его)</stage>
+          <stage>(поправляя его)</stage>
           <l part="M">Мисс.</l>
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(настаивая)</stage>
+          <stage>(настаивая)</stage>
           <l part="M">Сеньора!</l>
         </sp>
         <sp who="#Amerikanka">
           <speaker>Американка</speaker>
-          <stage type="delivery">(по-прежнему)</stage>
+          <stage>(по-прежнему)</stage>
           <l part="F">Мисс!</l>
           <l>Я не желаю быть сеньорой!</l>
         </sp>
@@ -348,7 +348,7 @@
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(мечтательно)</stage>
+          <stage>(мечтательно)</stage>
           <l part="F">Земля во мгле;</l>
           <l>Задумчивое устье Нила,</l>
           <l>И я плыву на корабле,</l>
@@ -360,7 +360,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(подозрительно)</stage>
+          <stage>(подозрительно)</stage>
           <l part="I">О чём здесь речь?</l>
         </sp>
         <sp who="#DonZhuan">
@@ -374,7 +374,7 @@
         </sp>
         <sp who="#Amerikanets">
           <speaker>Американец</speaker>
-          <stage type="delivery">(рассматривая памятник)</stage>
+          <stage>(рассматривая памятник)</stage>
           <l>Какие странные листы!</l>
           <stage>(Лепорелло отходит к нему)</stage>
         </sp>
@@ -406,7 +406,7 @@
         </sp>
         <sp who="#Amerikanets">
           <speaker>Американец</speaker>
-          <stage type="delivery">(Лепорелло, указывая на саркофаг)</stage>
+          <stage>(Лепорелло, указывая на саркофаг)</stage>
           <l>Скажите, мой учёный друг,</l>
           <l part="I">Кто здесь положен?</l>
         </sp>
@@ -430,7 +430,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(хочет отойти)</stage>
+          <stage>(хочет отойти)</stage>
           <l part="M">Сейчас!</l>
         </sp>
         <sp who="#Amerikanets">
@@ -463,7 +463,7 @@
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(Американке)</stage>
+          <stage>(Американке)</stage>
           <l part="F">Он ваш жених?</l>
         </sp>
         <sp who="#Amerikanka">
@@ -521,12 +521,12 @@
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(схватывая ее за руку)</stage>
+          <stage>(схватывая ее за руку)</stage>
           <l part="I">Я вас люблю!</l>
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(Американцу, косясь на Дон Жуана)</stage>
+          <stage>(Американцу, косясь на Дон Жуана)</stage>
           <l part="F">Пройдём сюда.</l>
           <l>Я вам скажу про Дон Жуана;</l>
           <l>Мне кажется, на путь труда</l>
@@ -551,7 +551,7 @@
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(Американке)</stage>
+          <stage>(Американке)</stage>
           <l>Я вас люблю! Уйдём! Уйдём!</l>
           <l>Вы знаете ль, как пахнут розы,</l>
           <l>Когда их нюхают вдвоем</l>
@@ -589,7 +589,7 @@
         </sp>
         <sp who="#DonZhuan">
           <speaker>Дон Жуан</speaker>
-          <stage type="delivery">(обнимая ее)</stage>
+          <stage>(обнимая ее)</stage>
           <l>Тебя я счастью научу</l>
           <l>И над твоей умру могилой.</l>
           <stage>(Уходят)</stage>
@@ -598,7 +598,7 @@
       <div type="configuration">
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(оглядываясь)</stage>
+          <stage>(оглядываясь)</stage>
           <l>Но где мисс Покэр, где Жуан?</l>
         </sp>
         <sp who="#Amerikanets">
@@ -607,7 +607,7 @@
         </sp>
         <sp who="#Leporello">
           <speaker>Лепорелло</speaker>
-          <stage type="delivery">(хватаясь за голову)</stage>
+          <stage>(хватаясь за голову)</stage>
           <l>Ах, я разиня, ах, болван,</l>
           <l>Всё прозевал, они бежали.</l>
         </sp>

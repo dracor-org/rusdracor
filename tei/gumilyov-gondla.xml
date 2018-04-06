@@ -501,7 +501,7 @@
         </sp>
         <sp who="#Ahti">
           <speaker>Ахти</speaker>
-          <stage type="delivery">(смеётся)</stage>
+          <stage>(смеётся)</stage>
           <l>Это Лаге.</l>
         </sp>
         <sp who="#Gondla">
@@ -673,7 +673,7 @@
         </sp>
         <sp who="#Konung">
           <speaker>Конунг</speaker>
-          <stage type="delivery">(к Лаге)</stage>
+          <stage>(к Лаге)</stage>
           <l>Что ты скажешь в своё оправданье,</l>
           <l>Человек неправдивый и злой,</l>
           <l>И какого ты ждёшь наказанья</l>
@@ -696,7 +696,7 @@
         </sp>
         <sp who="#Konung">
           <speaker>Конунг</speaker>
-          <stage type="delivery">(к Снорре и Груббе)</stage>
+          <stage>(к Снорре и Груббе)</stage>
           <l>Ярлы, ум ваш и ясен и зорок,</l>
           <l>Так судите ж обиду и боль,</l>
           <l>Позабыв, и что Лаге вам дорог</l>
@@ -780,7 +780,7 @@
         </sp>
         <sp who="#Gondla">
           <speaker>Гондла</speaker>
-          <stage type="delivery">(ему вслед)</stage>
+          <stage>(ему вслед)</stage>
           <l>Волк, и с поступью лёгкою, волчьей!</l>
           <l>Я воды у него попросил,</l>
           <l>Он же уксусом, смертною жёлчью,</l>
@@ -835,7 +835,7 @@
         </sp>
         <sp who="#Ahti">
           <speaker>Ахти</speaker>
-          <stage type="delivery">(протягивая лютню)</stage>
+          <stage>(протягивая лютню)</stage>
           <l>Эта лютня всегда приносила</l>
           <l>Славу самым плохим игрокам,</l>
           <l>В ней сокрыта волшебная сила</l>
@@ -843,7 +843,7 @@
         </sp>
         <sp who="#Gondla">
           <speaker>Гондла</speaker>
-          <stage type="delivery">(играет и пробует петь)</stage>
+          <stage>(играет и пробует петь)</stage>
           <l>Разгорается звёздное пламя…</l>
           <l>Нет, не то! На морском берегу…</l>
           <l>Ах, слова не идут мне на память,</l>
@@ -1279,7 +1279,7 @@
         </sp>
         <sp who="#Lera">
           <speaker>Лера</speaker>
-          <stage type="delivery">(целуя его)</stage>
+          <stage>(целуя его)</stage>
           <l part="F"> Да.</l>
         </sp>
         <stage>(Входит Гондла)</stage>
@@ -1299,7 +1299,7 @@
         </sp>
         <sp who="#Gondla">
           <speaker>Гондла</speaker>
-          <stage type="delivery">(не слушая)</stage>
+          <stage>(не слушая)</stage>
           <l>Вот теперь-то добьюсь я ответа</l>
           <l>От тебя, возмутившийся раб!</l>
         </sp>
@@ -1317,7 +1317,7 @@
         </sp>
         <sp who="#Lera">
           <speaker>Лера</speaker>
-          <stage type="delivery">(к Лаге)</stage>
+          <stage>(к Лаге)</stage>
           <l>Уходи же!</l>
         </sp>
         <sp who="#Lage">
@@ -1337,7 +1337,7 @@
         </sp>
         <sp who="#Lage">
           <speaker>Лаге</speaker>
-          <stage type="delivery">(указывая на входящего Груббе)</stage>
+          <stage>(указывая на входящего Груббе)</stage>
           <l>Груббе всё рассказать вам готов,</l>
           <l>Очевидец нелепого дела</l>
           <l>На одном из старинных судов.</l>
@@ -1391,7 +1391,7 @@
         </sp>
         <sp who="#Gondla">
           <speaker>Гондла</speaker>
-          <stage type="delivery">(быстро)</stage>
+          <stage>(быстро)</stage>
           <l>Кто отец мой?</l>
         </sp>
         <sp who="#Grubbe">
@@ -1522,7 +1522,7 @@
         </sp>
         <sp who="#Ahti">
           <speaker>Ахти</speaker>
-          <stage type="delivery">(втаскивая оленью тушу)</stage>
+          <stage>(втаскивая оленью тушу)</stage>
           <l>Вот олень. Жира, жира-то сколько!</l>
           <l>Ну, волкам не пропасть без еды.</l>
         </sp>
@@ -1547,7 +1547,7 @@
         </sp>
         <sp who="#Lage">
           <speaker>Лаге</speaker>
-          <stage type="delivery">(обнимая ее)</stage>
+          <stage>(обнимая ее)</stage>
           <l part="F"> Гондла, вина!</l>
         </sp>
         <sp who="#Snorre #Grubbe #Ahti">
@@ -1559,7 +1559,7 @@
         </sp>
         <sp who="#Lage">
           <speaker>Лаге</speaker>
-          <stage type="delivery">(наклоняясь к Лере)</stage>
+          <stage>(наклоняясь к Лере)</stage>
           <l>Как мучительно рот мой находит</l>
           <l>Твой кровавый, смеющийся рот!</l>
         </sp>
@@ -1676,7 +1676,7 @@
         </sp>
         <sp who="#Vozhd">
           <speaker>Вождь</speaker>
-          <stage type="delivery">(ирландцам)</stage>
+          <stage>(ирландцам)</stage>
           <l>Братья, вступимся, он христианин</l>
           <l>И наверно из нашей страны.</l>
           <stage>(Ирландцы отбрасывают исландцев)</stage>
@@ -1727,7 +1727,7 @@
         </sp>
         <sp who="#Vozhd">
           <speaker>Вождь</speaker>
-          <stage type="delivery">(к Гондле)</stage>
+          <stage>(к Гондле)</stage>
           <l>Государь, мы тебя не узнали,</l>
           <l>Не суди же покорных рабов,</l>
           <l>Но скажи, чтобы мы разметали</l>
@@ -1918,7 +1918,7 @@
         </sp>
         <sp who="#Lera">
           <speaker>Лера</speaker>
-          <stage type="delivery">(простирая руки к Гондле)</stage>
+          <stage>(простирая руки к Гондле)</stage>
           <l>Брат, жених, я тебя умоляю,</l>
           <l>Отправляйся с твоими людьми</l>
           <l>К лебединому, к белому раю</l>
@@ -1951,7 +1951,7 @@
         </sp>
         <sp who="#Konung">
           <speaker>Конунг</speaker>
-          <stage type="delivery">(отступая)</stage>
+          <stage>(отступая)</stage>
           <l>Нет, нам нового бога не надо!</l>
         </sp>
         <sp who="#Snorre #Grubbe #Ahti">
@@ -1991,7 +1991,7 @@
         <stage>Те же перед трупом Гондлы.</stage>
         <sp who="#Vozhd">
           <speaker>Вождь</speaker>
-          <stage type="delivery">(склоняясь над трупом)</stage>
+          <stage>(склоняясь над трупом)</stage>
           <l>Меч пришёлся по жизненной жиле,</l>
           <l>И ему не поднять головы!</l>
           <stage>(К исландцам)</stage>
@@ -2032,7 +2032,7 @@
         </sp>
         <sp who="#Vozhd">
           <speaker>Вождь</speaker>
-          <stage type="delivery">(к Лере)</stage>
+          <stage>(к Лере)</stage>
           <l>Что же, девушка? Ты отступила?</l>
           <l>Ты не хочешь Нетленного Дня?</l>
         </sp>
