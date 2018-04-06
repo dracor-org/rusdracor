@@ -211,7 +211,7 @@
           <stage>Те же и Дурдуран каплуном в руках.</stage>
           <sp who="#durduran">
             <speaker>Дурдуран</speaker>
-            <stage type="delivery">(кланяясь низко)</stage>
+            <stage>(кланяясь низко)</stage>
             <l>Княжна! родительский узнай к тебе приказ,</l>
             <l>И будь готова ты венчаться через час.</l>
             <l>Сейчас лишь каплуна я сам купил на рынке,</l>
@@ -239,18 +239,18 @@
           </sp>
           <sp who="#durduran">
             <speaker>Дурдуран</speaker>
-            <stage type="delivery">(ощупывая княжну)</stage>
+            <stage>(ощупывая княжну)</stage>
             <l>Смотри: копна копной, не можно с места сдвинуть!</l>
             <l>Не лучше ль на живот горшка ей два накинуть?</l>
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(несколько опамятовавшись)</stage>
+            <stage>(несколько опамятовавшись)</stage>
             <l>Где я?.. Скажите мне: теперя ночь иль день?</l>
           </sp>
           <sp who="#chernavka">
             <speaker>Чернавка</speaker>
-            <stage type="delivery">(щупая ей голову)</stage>
+            <stage>(щупая ей голову)</stage>
             <l>Царевна! что у вас?</l>
           </sp>
           <sp who="#podschipa">
@@ -297,7 +297,7 @@
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(вставши)</stage>
+            <stage>(вставши)</stage>
             <l>О царский сан! ты мне противней горькой редьки!</l>
             <l>Почто, увы! не дочь конюшего я Федьки!</l>
           </sp>
@@ -430,7 +430,7 @@
           <stage>Подщипа, Чернавка и Слюняй.</stage>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(крадется тихонько из-за кулис)</stage>
+            <stage>(крадется тихонько из-за кулис)</stage>
             <l>Князна! усой и он? Ну, бьят, какой сейдитой!</l>
             <l>Он съядит хоть бы с кем, хоть с куцейем Никитой!</l>
             <l>Пьеесная! как я бояйся за тебя!</l>
@@ -570,7 +570,7 @@
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(подавая ему нож)</stage>
+            <stage>(подавая ему нож)</stage>
             <l part="F"> Начни ж.</l>
           </sp>
           <sp who="#sljunjaj">
@@ -583,7 +583,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(отдавая нож)</stage>
+            <stage>(отдавая нож)</stage>
             <l>Князна! заезься ты, я пьезде погьяжу.</l>
           </sp>
           <sp who="#podschipa">
@@ -692,7 +692,7 @@
           <stage>Те же, кроме Слюняя.</stage>
           <sp who="#vakula">
             <speaker>Вакула</speaker>
-            <stage type="delivery">(встает и подходит к одному из вельмож)</stage>
+            <stage>(встает и подходит к одному из вельмож)</stage>
             <l>Ну, что ж придумал ты, мой дорогой совет?</l>
             <l>А, слышь, и в помощи нам недостатка нет! <stage>(Подает бумагу).</stage>
             </l>
@@ -702,7 +702,7 @@
           </sp>
           <sp who="#durduran">
             <speaker>Дурдуран</speaker>
-            <stage type="delivery">(привстает)</stage>
+            <stage>(привстает)</stage>
             <l part="F"> Он слеп, о государь!</l>
           </sp>
           <sp who="#vakula">
@@ -725,7 +725,7 @@
           </sp>
           <sp who="#durduran">
             <speaker>Дурдуран</speaker>
-            <stage type="delivery">(привстает)</stage>
+            <stage>(привстает)</stage>
             <l>Он нем, о государь!</l>
           </sp>
           <sp who="#vakula">
@@ -739,17 +739,17 @@
           </sp>
           <sp who="#durduran">
             <speaker>Дурдуран</speaker>
-            <stage type="delivery">(привстает)</stage>
+            <stage>(привстает)</stage>
             <l part="F"> Он, государь, не слышит!</l>
           </sp>
           <sp who="#vakula">
             <speaker>Вакула</speaker>
-            <stage type="delivery">(к четвертому)</stage>
+            <stage>(к четвертому)</stage>
             <l>Хоть ты!</l>
           </sp>
           <sp who="#durduran">
             <speaker>Дурдуран</speaker>
-            <stage type="delivery">(привстает)</stage>
+            <stage>(привстает)</stage>
             <l part="F"> За старостью, о царь, едва он дышит!</l>
           </sp>
           <sp who="#vakula">
@@ -919,7 +919,7 @@
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(подает руку)</stage>
+            <stage>(подает руку)</stage>
             <l>Скажи, цыганка, мне, да будь лишь справедлива...</l>
           </sp>
           <sp who="#tsyganka">
@@ -928,7 +928,7 @@
           </sp>
           <sp who="#vakula">
             <speaker>Вакула</speaker>
-            <stage type="delivery">(выдергивает руку Подщипы и подает свою)</stage>
+            <stage>(выдергивает руку Подщипы и подает свою)</stage>
             <l>Постой-ка! руку-то и после можешь дать,</l>
             <l>Тут, слышь, о царственных делах хотят гадать.</l>
             <l>Скажи-ка — от тебя я свету ожидаю...</l>
@@ -956,7 +956,7 @@
           </sp>
           <sp who="#tsyganka">
             <speaker>Цыганка</speaker>
-            <stage type="delivery">(смотря на руку Вакулы)</stage>
+            <stage>(смотря на руку Вакулы)</stage>
             <l>Богата рученька, разумная головка!</l>
             <l>Ой, много мозгу в ней!</l>
           </sp>
@@ -1000,7 +1000,7 @@
           </sp>
           <sp who="#vakula">
             <speaker>Вакула</speaker>
-            <stage type="delivery">(Дурдурану)</stage>
+            <stage>(Дурдурану)</stage>
             <l>Слышь, слушайся ж ее!</l>
           </sp>
           <sp who="#durduran">
@@ -1229,7 +1229,7 @@
           <head>ЯВЛЕНИЕ ШЕСТОЕ</head>
           <sp who="#trumf">
             <speaker>Трумф</speaker>
-            <stage type="delivery">(один)</stage>
+            <stage>(один)</stage>
             <l>Она скасаль не лошь. Умен, снать, эта тефка.</l>
             <l>Я, прафо, подшутиль: молотшик не в истефка.</l>
           </sp>
@@ -1239,12 +1239,12 @@
           <stage>Трумф и Слюняй.</stage>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(вбегая и не видя Трумфа)</stage>
+            <stage>(вбегая и не видя Трумфа)</stage>
             <l>Ну вот и я пьисой!</l>
           </sp>
           <sp who="#trumf">
             <speaker>Трумф</speaker>
-            <stage type="delivery">(схватывает его)</stage>
+            <stage>(схватывает его)</stage>
             <l part="F"> Пати-ка, прат, сюта!</l>
           </sp>
           <sp who="#sljunjaj">
@@ -1319,7 +1319,7 @@
           </sp>
           <sp who="#trumf">
             <speaker>Трумф</speaker>
-            <stage type="delivery">(вынимая шпагу)</stage>
+            <stage>(вынимая шпагу)</stage>
             <l>Катофся умирай.</l>
           </sp>
           <sp who="#sljunjaj">
@@ -1351,12 +1351,12 @@
           </sp>
           <sp who="#trumf">
             <speaker>Трумф</speaker>
-            <stage type="delivery">(вынимает пару пистолетов)</stage>
+            <stage>(вынимает пару пистолетов)</stage>
             <l part="F"> Так выпери-ш люпой! </l>
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l>Смотьи-ка, усь даит!</l>
             <stage>(Трумфу.)</stage>
             <l part="F"> Спасибо, гьяфцик мой!</l>
@@ -1369,7 +1369,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l>Ой, егце!</l>
             <stage>(Трумфу.)</stage>
             <l part="F"> Дядюска, я съёду не стьеяй. </l>
@@ -1391,7 +1391,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(кланяясь низко)</stage>
+            <stage>(кланяясь низко)</stage>
             <l>Сто хоцес! Виноват! а смейти я боюсь.</l>
           </sp>
           <sp who="#trumf">
@@ -1447,13 +1447,13 @@
           <stage>Слюняй и Подщипа.</stage>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(вбегая)</stage>
+            <stage>(вбегая)</stage>
             <l part="F"> Мир, мир, любезный Князь!</l>
             <l>Прости, коль дерзко я сказала, рассердясь!</l>
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l>Ахти! она меня есце сийнее юбит!</l>
           </sp>
           <sp who="#podschipa">
@@ -1462,7 +1462,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l part="F"> Ну, ну! совсем погубит!</l>
           </sp>
           <sp who="#podschipa">
@@ -1472,12 +1472,12 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l>Того-то и боюсь!</l>
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(плачет)</stage>
+            <stage>(плачет)</stage>
             <l part="F"> Тронись же хоть слезами.</l>
             <l>Взгляни ты на меня умильными глазами.</l>
           </sp>
@@ -1538,7 +1538,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l>Ну, вот тебе юбовь!</l>
             <stage>(Громко.)</stage>
             <l part="F"> Пьеесная, увы!</l>
@@ -1552,7 +1552,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(особо)</stage>
+            <stage>(особо)</stage>
             <l>Стобы ты тьеснуя и с незностью своей!</l>
           </sp>
           <sp who="#podschipa">
@@ -1579,7 +1579,7 @@
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(громче)</stage>
+            <stage>(громче)</stage>
             <l>Люблю, люблю тебя! будь то известно свету!</l>
           </sp>
         </div>
@@ -1599,7 +1599,7 @@
           </sp>
           <sp who="#podschipa">
             <speaker>Подщипа</speaker>
-            <stage type="delivery">(пажу)</stage>
+            <stage>(пажу)</stage>
             <l>Скажи, что никогда...</l>
           </sp>
           <sp who="#sljunjaj">
@@ -1640,7 +1640,7 @@
           <stage>Те же и Трумф.</stage>
           <sp who="#trumf">
             <speaker>Трумф</speaker>
-            <stage type="delivery">(вбегая в бешенстве)</stage>
+            <stage>(вбегая в бешенстве)</stage>
             <l>Нет моши польш терпел! Скафор тфой коль нейтет,</l>
             <l>В минута сей Слюняй от рук моя умрет!</l>
           </sp>
@@ -1652,7 +1652,7 @@
           </sp>
           <sp who="#trumf">
             <speaker>Трумф</speaker>
-            <stage type="delivery">(вырывая у нее Слюняя)</stage>
+            <stage>(вырывая у нее Слюняя)</stage>
             <l>Умри ше!</l>
           </sp>
           <sp who="#sljunjaj">
@@ -1681,7 +1681,7 @@
           <stage>Те же и Вакула.</stage>
           <sp who="#vakula">
             <speaker>Вакула</speaker>
-            <stage type="delivery">(вбегая)</stage>
+            <stage>(вбегая)</stage>
             <l>Ура! ребятушки! а наша, слышь, взяла!</l>
           </sp>
           <sp who="#trumf">
@@ -1730,7 +1730,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(прыгает и поет)</stage>
+            <stage>(прыгает и поет)</stage>
             <l>Тья-я-я-я! тья-я! Я весей, как с похмейя!</l>
             <l>Сто дейать с ядости! такого я весейя</l>
             <l>И съйоду не видай!</l>
@@ -1750,7 +1750,7 @@
           </sp>
           <sp who="#sljunjaj">
             <speaker>Слюняй</speaker>
-            <stage type="delivery">(отскакивая)</stage>
+            <stage>(отскакивая)</stage>
             <l part="F"> Ай! экой зьой!</l>
           </sp>
         </div>
@@ -1767,7 +1767,7 @@
           </sp>
           <sp who="#vakula">
             <speaker>Вакула</speaker>
-            <stage type="delivery">(цыганке)</stage>
+            <stage>(цыганке)</stage>
             <l>А слышь, будь фрейлиной у дочери моей.</l>
           </sp>
           <sp who="#chernavka">

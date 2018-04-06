@@ -190,7 +190,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>Ты чего хрюкаешь?</p>
         </sp>
         <stage>Сатин рычит.</stage>
@@ -214,29 +214,29 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(выхватив у Насти книжку, читает название).</stage>
+          <stage>(выхватив у Насти книжку, читает название).</stage>
           <p>«Роковая любовь»...</p>
-          <stage type="delivery">(Хохочет.)</stage>
+          <stage>(Хохочет.)</stage>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(протягивая руку).</stage>
+          <stage>(протягивая руку).</stage>
           <p>Дай... отдай! Ну... не балуй!</p>
         </sp>
         <stage>Барон смотрит на нее, помахивая книжкой в воздухе.</stage>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(Клещу).</stage>
+          <stage>(Клещу).</stage>
           <p>Козел ты рыжий! Туда же – врешь! Да как ты смеешь говорить мне такое дерзкое слово?</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(ударяя книгой по голове Настю).</stage>
+          <stage>(ударяя книгой по голове Настю).</stage>
           <p>Дура ты, Настька...</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(отнимает книгу).</stage>
+          <stage>(отнимает книгу).</stage>
           <p>Дай...</p>
         </sp>
         <sp who="#Klesch">
@@ -261,12 +261,12 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(не поднимая головы).</stage>
+          <stage>(не поднимая головы).</stage>
           <p>А?.. Уйди!</p>
         </sp>
         <sp who="#Anna">
           <speaker>Анна</speaker>
-          <stage type="delivery">(высовывая голову из-за полога).</stage>
+          <stage>(высовывая голову из-за полога).</stage>
           <p>Начался день! Бога ради... не кричите... не ругайтесь вы!</p>
         </sp>
         <sp who="#Klesch">
@@ -283,7 +283,7 @@
         </sp>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(подходя к Анне).</stage>
+          <stage>(подходя к Анне).</stage>
           <p>И как ты, мать моя, с таким злыднем жила?</p>
         </sp>
         <sp who="#Anna">
@@ -301,7 +301,7 @@
         <sp who="#Kvashnja">
           <speaker>Квашня.</speaker>
           <p>Идем, сейчас!</p>
-          <stage type="delivery">(Анне.)</stage>
+          <stage>(Анне.)</stage>
           <p>Хочешь, пельмешков горяченьких дам?</p>
         </sp>
         <sp who="#Anna">
@@ -312,29 +312,29 @@
           <speaker>Квашня.</speaker>
           <p>А ты – поешь. Горячее – мягчит. Я тебе в чашку отложу и оставлю... захочешь когда, и
             покушай! Идем, барин...</p>
-          <stage type="delivery">(Клещу.)</stage>
+          <stage>(Клещу.)</stage>
           <p>У, нечистый дух...</p>
-          <stage type="delivery">(Уходит в кухню.)</stage>
+          <stage>(Уходит в кухню.)</stage>
         </sp>
         <sp who="#Anna">
           <speaker>Анна</speaker>
-          <stage type="delivery">(кашляя).</stage>
+          <stage>(кашляя).</stage>
           <p>Господи...</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(тихонько толкает Настю в затылок).</stage>
+          <stage>(тихонько толкает Настю в затылок).</stage>
           <p>Брось... дуреха!</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(бормочет).</stage>
+          <stage>(бормочет).</stage>
           <p>Убирайся... я тебе не мешаю.</p>
         </sp>
         <stage>Барон, насвистывая, уходит за Квашней.</stage>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(приподнимаясь на нарах).</stage>
+          <stage>(приподнимаясь на нарах).</stage>
           <p>Кто это бил меня вчера?</p>
         </sp>
         <sp who="#Bubnov">
@@ -363,7 +363,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(высовывая голову с печи).</stage>
+          <stage>(высовывая голову с печи).</stage>
           <p>Однажды тебя совсем убьют... до смерти...</p>
         </sp>
         <sp who="#Satin">
@@ -380,7 +380,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(помолчав).</stage>
+          <stage>(помолчав).</stage>
           <p>Не понимаю... почему – нельзя?</p>
         </sp>
         <sp who="#Klesch">
@@ -401,7 +401,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(выходя из кухни).</stage>
+          <stage>(выходя из кухни).</stage>
           <p>Мне некогда убираться... я на базар иду с Квашней.</p>
         </sp>
         <sp who="#Akter">
@@ -412,26 +412,26 @@
         <sp who="#Baron">
           <speaker>Барон.</speaker>
           <p>Ну, черт с тобой! Настёнка подметет... Эй, ты, роковая любовь! Очнись!</p>
-          <stage type="delivery">(Отнимает книгу у Насти.)</stage>
+          <stage>(Отнимает книгу у Насти.)</stage>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(вставая).</stage>
+          <stage>(вставая).</stage>
           <p>Что тебе нужно? Дай сюда! Озорник! А еще – барин...</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(отдавая книгу).</stage>
+          <stage>(отдавая книгу).</stage>
           <p>Настя! Подмети пол за меня – ладно?</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(уходя в кухню).</stage>
+          <stage>(уходя в кухню).</stage>
           <p>Очень нужно... как же!</p>
         </sp>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(в двери из кухни – Барону).</stage>
+          <stage>(в двери из кухни – Барону).</stage>
           <p>А ты – иди! Уберутся без тебя... Актер! тебя просят, – ты и сделай... не переломишься,
             чай!</p>
         </sp>
@@ -441,7 +441,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(выносит из кухни на коромысле корзины. В них – корчаги, покрытые
+          <stage>(выносит из кухни на коромысле корзины. В них – корчаги, покрытые
             тряпками).</stage>
           <p>Сегодня что-то тяжело...</p>
         </sp>
@@ -451,17 +451,17 @@
         </sp>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(Актеру).</stage>
+          <stage>(Актеру).</stage>
           <p>Ты смотри же, – подмети!</p>
-          <stage type="delivery">(Выходит в сени, пропустив вперед себя Барона.)</stage>
+          <stage>(Выходит в сени, пропустив вперед себя Барона.)</stage>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(слезая с печи).</stage>
+          <stage>(слезая с печи).</stage>
           <p>Мне вредно дышать пылью.</p>
-          <stage type="delivery">(С гордостью.)</stage>
+          <stage>(С гордостью.)</stage>
           <p>Мой организм отравлен алкоголем...</p>
-          <stage type="delivery">(Задумывается, сидя на нарах.)</stage>
+          <stage>(Задумывается, сидя на нарах.)</stage>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин.</speaker>
@@ -481,7 +481,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(подходя к ней).</stage>
+          <stage>(подходя к ней).</stage>
           <p>А ты – не будешь?</p>
         </sp>
         <sp who="#Anna">
@@ -498,24 +498,24 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(отходя).</stage>
+          <stage>(отходя).</stage>
           <p>Ничего... может – встанешь... бывает!</p>
-          <stage type="delivery">(Уходит в кухню.)</stage>
+          <stage>(Уходит в кухню.)</stage>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(громко, как бы вдруг проснувшись).</stage>
+          <stage>(громко, как бы вдруг проснувшись).</stage>
           <p>Вчера, в лечебнице, доктор сказал мне: ваш, говорит, организм – совершенно отравлен
             алкоголем...</p>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(улыбаясь).</stage>
+          <stage>(улыбаясь).</stage>
           <p>Органон...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(настойчиво).</stage>
+          <stage>(настойчиво).</stage>
           <p>Не органон, а ор-га-ни-зм...</p>
         </sp>
         <sp who="#Satin">
@@ -524,7 +524,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(машет на него рукой).</stage>
+          <stage>(машет на него рукой).</stage>
           <p>Э, вздор! Я говорю – серьезно... да. Если организм – отравлен... значит, – мне вредно
             мести пол... дышать пылью...</p>
         </sp>
@@ -564,13 +564,13 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(выходя из кухни).</stage>
+          <stage>(выходя из кухни).</stage>
           <p>Ты с метлой играть скоро будешь?</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер.</speaker>
           <p>Не твое дело...</p>
-          <stage type="delivery">(Ударяет себя в грудь рукой.)</stage>
+          <stage>(Ударяет себя в грудь рукой.)</stage>
           <p>«Офелия! О... помяни меня в твоих молитвах!..»</p>
         </sp>
         <stage>За сценой, где-то далеко, – глухой шум, крики, свисток полицейского. Клещ садится за
@@ -587,7 +587,7 @@
         <sp who="#Satin">
           <speaker>Сатин.</speaker>
           <p>Был...</p>
-          <stage type="delivery">(Усмехаясь.)</stage>
+          <stage>(Усмехаясь.)</stage>
           <p>Есть очень хорошие книги... и множество любопытных слов... Я был образованным
             человеком... знаешь?</p>
         </sp>
@@ -621,7 +621,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(сидит, обняв руками колени).</stage>
+          <stage>(сидит, обняв руками колени).</stage>
           <p>Образование – чепуха, главное – талант. Я знал артиста... он читал роли по складам, но
             мог играть героев так, что... театр трещал и шатался от восторга публики...</p>
         </sp>
@@ -669,12 +669,12 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(спокойно).</stage>
+          <stage>(спокойно).</stage>
           <p>Мне отворять не надо... твоя жена просит...</p>
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(угрюмо).</stage>
+          <stage>(угрюмо).</stage>
           <p>Мало ли кто чего попросил бы...</p>
         </sp>
         <sp who="#Satin">
@@ -684,15 +684,15 @@
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
           <p>Они не только по башкам, а и по всему прочему телу.</p>
-          <stage type="delivery">(Встает.)</stage>
+          <stage>(Встает.)</stage>
           <p>Пойти, ниток купить... А хозяев наших чего-то долго не видать сегодня... словно
             издохли.</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <stage>Анна кашляет. Сатин, закинув руки под голову, лежит неподвижно.</stage>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(тоскливо осмотревшись вокруг, подходит к Анне).</stage>
+          <stage>(тоскливо осмотревшись вокруг, подходит к Анне).</stage>
           <p>Что? Плохо?</p>
         </sp>
         <sp who="#Anna">
@@ -702,13 +702,13 @@
         <sp who="#Akter">
           <speaker>Актер.</speaker>
           <p>Хочешь – в сени выведу? Ну, вставай.</p>
-          <stage type="delivery">(Помогает женщине подняться, накидывает ей на плечи какую-то
-            рухлядь и, поддерживая, ведет в сени.)</stage>
+          <stage>(Помогает женщине подняться, накидывает ей на плечи какую-то рухлядь и,
+            поддерживая, ведет в сени.)</stage>
           <p>Ну-ну... твердо! Я – сам больной... отравлен алкоголем...</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(в дверях).</stage>
+          <stage>(в дверях).</stage>
           <p>На прогулку? Ах, и хороша парочка, баран да ярочка...</p>
         </sp>
         <sp who="#Akter">
@@ -718,9 +718,8 @@
         <sp who="#Kostylev">
           <speaker>Костылев.</speaker>
           <p>Проходи, изволь...</p>
-          <stage type="delivery">(Напевая под нос что-то божественное, подозрительно осматривает
-            ночлежку и склоняет голову налево, как бы прислушиваясь к чему-то в комнате
-            Пепла.)</stage>
+          <stage>(Напевая под нос что-то божественное, подозрительно осматривает ночлежку и склоняет
+            голову налево, как бы прислушиваясь к чему-то в комнате Пепла.)</stage>
           <stage>Клещ ожесточенно звякает ключами и скрипит подпилком, исподлобья следя за
             хозяином.</stage>
           <p>Скрипишь?</p>
@@ -734,7 +733,7 @@
           <p>Скрипишь, говорю?</p>
           <stage>Пауза.</stage>
           <p>А-а... того... что бишь я хотел спросить?</p>
-          <stage type="delivery">(Быстро и негромко.)</stage>
+          <stage>(Быстро и негромко.)</stage>
           <p>Жена не была здесь?</p>
         </sp>
         <sp who="#Klesch">
@@ -743,7 +742,7 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(осторожно подвигаясь к двери в комнату Пепла).</stage>
+          <stage>(осторожно подвигаясь к двери в комнату Пепла).</stage>
           <p>Сколько ты у меня за два-то рубля в месяц места занимаешь! Кровать... сам сидишь...
             н-да! На пять целковых места, ей-богу! Надо будет накинуть на тебя полтинничек...</p>
         </sp>
@@ -763,18 +762,18 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(кричит).</stage>
+          <stage>(кричит).</stage>
           <p>Ты что меня... травить пришел?</p>
         </sp>
         <stage>Сатин громко рычит.</stage>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(вздрогнув).</stage>
+          <stage>(вздрогнув).</stage>
           <p>Эк ты, батюшка...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(входит).</stage>
+          <stage>(входит).</stage>
           <p>Усадил бабу в сенях, закутал...</p>
         </sp>
         <sp who="#Kostylev">
@@ -811,12 +810,12 @@
         <sp who="#Akter">
           <speaker>Актер.</speaker>
           <p>Шельма ты, старец...</p>
-          <stage type="delivery">(Уходит в кухню.)</stage>
+          <stage>(Уходит в кухню.)</stage>
         </sp>
         <stage>Клещ встает и уходит в сени.</stage>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>Скрипун-то? Убежал, хе-хе! Не любит он меня...</p>
         </sp>
         <sp who="#Satin">
@@ -825,10 +824,10 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(посмеиваясь).</stage>
+          <stage>(посмеиваясь).</stage>
           <p>Экой ты ругатель! А я вас всех люблю... я понимаю, братия вы моя несчастная,
             никудышная, пропащая...</p>
-          <stage type="delivery">(Вдруг, быстро.)</stage>
+          <stage>(Вдруг, быстро.)</stage>
           <p>А... Васька – дома?</p>
         </sp>
         <sp who="#Satin">
@@ -837,7 +836,7 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(подходит к двери и стучит).</stage>
+          <stage>(подходит к двери и стучит).</stage>
           <p>Вася!</p>
         </sp>
         <stage>Актер появляется в двери из кухни. Он что-то жует.</stage>
@@ -855,18 +854,18 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(отодвигаясь).</stage>
+          <stage>(отодвигаясь).</stage>
           <p>Отвори...</p>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(не глядя на Костылева).</stage>
+          <stage>(не глядя на Костылева).</stage>
           <p>Он отворит, а она – там...</p>
         </sp>
         <stage>Актер фыркает.</stage>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(беспокойно, негромко).</stage>
+          <stage>(беспокойно, негромко).</stage>
           <p>А? Кто – там? Ты... что?</p>
         </sp>
         <sp who="#Satin">
@@ -884,17 +883,17 @@
         <sp who="#Kostylev">
           <speaker>Костылев.</speaker>
           <p>Смотри, брат! Шути в меру... да!</p>
-          <stage type="delivery">(Сильно стучит в дверь.)</stage>
+          <stage>(Сильно стучит в дверь.)</stage>
           <p>Василий!..</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(отворяя дверь).</stage>
+          <stage>(отворяя дверь).</stage>
           <p>Ну? Чего беспокоишь?</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(заглядывая в комнату).</stage>
+          <stage>(заглядывая в комнату).</stage>
           <p>Я... видишь – ты...</p>
         </sp>
         <sp who="#Pepel">
@@ -937,12 +936,12 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(строго).</stage>
+          <stage>(строго).</stage>
           <p>Я краденого не принимаю... как ты можешь...</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(берет его за плечо).</stage>
+          <stage>(берет его за плечо).</stage>
           <p>Ты – зачем меня встревожил? Чего тебе надо?</p>
         </sp>
         <sp who="#Kostylev">
@@ -955,7 +954,7 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(уходит.)</stage>
+          <stage>(уходит.)</stage>
           <p>Экие грубые люди! Ай-яй...</p>
         </sp>
         <sp who="#Akter">
@@ -972,7 +971,7 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(смеясь).</stage>
+          <stage>(смеясь).</stage>
           <p>Не понимаешь? Жену ищет... и чего ты не пришибешь его, Василий?!</p>
         </sp>
         <sp who="#Pepel">
@@ -987,7 +986,7 @@
           <speaker>Пепел.</speaker>
           <p>Велика радость! Вы не токмо все мое хозяйство, а и меня, по доброте моей, в кабаке
             пропьете...</p>
-          <stage type="delivery">(Садится на нары.)</stage>
+          <stage>(Садится на нары.)</stage>
           <p>Старый черт... разбудил... А я – сон хороший видел: будто ловлю я рыбу, и попал мне –
             огромаднейший лещ! Такой лещ, – только во сне эдакие и бывают... И вот я его вожу на
             удочке и боюсь, – лёса оборвется! И приготовил сачок... вот, думаю, сейчас...</p>
@@ -1002,12 +1001,12 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(сердито).</stage>
+          <stage>(сердито).</stage>
           <p>Подите вы к чертям... да и с ней вместе!</p>
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(входит из сеней).</stage>
+          <stage>(входит из сеней).</stage>
           <p>Холодище... собачий...</p>
         </sp>
         <sp who="#Akter">
@@ -1024,7 +1023,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(садясь работать).</stage>
+          <stage>(садясь работать).</stage>
           <p>Ну... Наташка приведет...</p>
         </sp>
         <sp who="#Satin">
@@ -1033,7 +1032,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>Эх ты... пятак! Вася! Дай нам двугривенный...</p>
         </sp>
         <sp who="#Pepel">
@@ -1046,7 +1045,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(угрюмо).</stage>
+          <stage>(угрюмо).</stage>
           <p>Им легко деньги достаются... Они – не работают...</p>
         </sp>
         <sp who="#Satin">
@@ -1055,7 +1054,7 @@
             так, чтоб работа была мне приятна – я, может быть, буду работать... да! Может быть!
             Когда труд – удовольствие, жизнь – хороша! Когда труд – обязанность, жизнь –
             рабство!</p>
-          <stage type="delivery">(Актеру.)</stage>
+          <stage>(Актеру.)</stage>
           <p>Ты, Сарданапал! Идем...</p>
         </sp>
         <sp who="#Akter">
@@ -1065,7 +1064,7 @@
         <stage>Уходят.</stage>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(зевая).</stage>
+          <stage>(зевая).</stage>
           <p>Что, как жена твоя?</p>
         </sp>
         <sp who="#Klesch">
@@ -1110,13 +1109,13 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(равнодушно).</stage>
+          <stage>(равнодушно).</stage>
           <p>А куда они – честь, совесть? На ноги, вместо сапогов, не наденешь ни чести, ни
             совести... Честь-совесть тем нужна, у кого власть да сила есть...</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(входит).</stage>
+          <stage>(входит).</stage>
           <p>У-у... озяб!</p>
         </sp>
         <sp who="#Pepel">
@@ -1155,7 +1154,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(поучительно).</stage>
+          <stage>(поучительно).</stage>
           <p>Дурак ты, Андрюшка! Ты бы, насчет совести, Сатина послушал... а то – Барона...</p>
         </sp>
         <sp who="#Klesch">
@@ -1183,12 +1182,12 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(приглаживая усы).</stage>
+          <stage>(приглаживая усы).</stage>
           <p>А-а, Наташа!</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(Луке).</stage>
+          <stage>(Луке).</stage>
           <p>Был честной, да позапрошлой весной...</p>
         </sp>
         <sp who="#Natasha">
@@ -1202,7 +1201,7 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(указывая на дверь в кухню).</stage>
+          <stage>(указывая на дверь в кухню).</stage>
           <p>Туда, иди, дедушка...</p>
         </sp>
         <sp who="#Luka">
@@ -1243,7 +1242,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(свистнув).</stage>
+          <stage>(свистнув).</stage>
           <p>А нитки-то гнилые...</p>
         </sp>
         <sp who="#Pepel">
@@ -1253,17 +1252,17 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(уходит).</stage>
+          <stage>(уходит).</stage>
           <p>Ну, вы другим уж зубы-то заговаривайте.</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(протяжно).</stage>
+          <stage>(протяжно).</stage>
           <p>А ниточки-то гнилые...</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(у двери в сени).</stage>
+          <stage>(у двери в сени).</stage>
           <p>Не забудь, Андрей, про жену...</p>
         </sp>
         <sp who="#Klesch">
@@ -1308,7 +1307,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(ложится на нары).</stage>
+          <stage>(ложится на нары).</stage>
           <p>Подите вы к чертям оба... пророки!</p>
         </sp>
         <sp who="#Klesch">
@@ -1317,12 +1316,12 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(в кухне, напевает).</stage>
+          <stage>(в кухне, напевает).</stage>
           <p>Середь но-очи... пу-уть-дорогу не-е видать...</p>
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(уходя в сени).</stage>
+          <stage>(уходя в сени).</stage>
           <p>Ишь воет... тоже...</p>
         </sp>
         <sp who="#Pepel">
@@ -1340,7 +1339,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(поет).</stage>
+          <stage>(поет).</stage>
           <p>Эх, и не вида-ать пути-и...</p>
         </sp>
         <sp who="#Pepel">
@@ -1349,7 +1348,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(выглядывая из двери).</stage>
+          <stage>(выглядывая из двери).</stage>
           <p>Это я?</p>
         </sp>
         <sp who="#Pepel">
@@ -1358,7 +1357,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(выходит).</stage>
+          <stage>(выходит).</stage>
           <p>Не любишь?</p>
         </sp>
         <sp who="#Pepel">
@@ -1380,7 +1379,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(смеясь).</stage>
+          <stage>(смеясь).</stage>
           <p>Вот! Верно...</p>
         </sp>
         <sp who="#Bubnov">
@@ -1476,13 +1475,13 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(смеется).</stage>
+          <stage>(смеется).</stage>
           <p>Графа видал я и князя видал... а барона – первый раз встречаю, да и то
             испорченного...</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(хохочет).</stage>
+          <stage>(хохочет).</stage>
           <p>Барон! А ты меня сконфузил...</p>
         </sp>
         <sp who="#Baron">
@@ -1527,17 +1526,17 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(строго).</stage>
+          <stage>(строго).</stage>
           <p>Это так, ну, а – паспорт имеешь?</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(не сразу).</stage>
+          <stage>(не сразу).</stage>
           <p>А ты кто, – сыщик?</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(радостно).</stage>
+          <stage>(радостно).</stage>
           <p>Ловко, старик! Что, Бароша, и тебе попало?</p>
         </sp>
         <sp who="#Bubnov">
@@ -1546,7 +1545,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(сконфуженный).</stage>
+          <stage>(сконфуженный).</stage>
           <p>Ну, чего там? Я ведь... шучу, старик! У меня, брат, у самого бумаг нет...</p>
         </sp>
         <sp who="#Bubnov">
@@ -1575,9 +1574,9 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(у двери в сени).</stage>
+          <stage>(у двери в сени).</stage>
           <p>Ну, идем, что ли!</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <stage>Барон быстро идет за ним.</stage>
         <sp who="#Luka">
@@ -1601,7 +1600,7 @@
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(входит выпивши, с гармонией в руках. Свистит).</stage>
+          <stage>(входит выпивши, с гармонией в руках. Свистит).</stage>
           <p>Эй, жители!</p>
         </sp>
         <sp who="#Bubnov">
@@ -1630,7 +1629,7 @@
         <stage>Настя, стоя у двери, качает головой, глядя на Алешку.</stage>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(добродушно).</stage>
+          <stage>(добродушно).</stage>
           <p>Эх, парень, запутался ты...</p>
         </sp>
         <sp who="#Bubnov">
@@ -1639,7 +1638,7 @@
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(ложится на пол).</stage>
+          <stage>(ложится на пол).</stage>
           <p>На, ешь меня! А я – ничего не хочу! Я – отчаянный человек! Объясните мне – кого я хуже?
             Почему я хуже прочих? Вот! Медякин говорит: на улицу не ходи – морду побью! А я –
             пойду... пойду лягу середь улицы – дави меня! Я – ничего не желаю!..</p>
@@ -1650,17 +1649,17 @@
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(увидав ее, встает на колени).</stage>
+          <stage>(увидав ее, встает на колени).</stage>
           <p>Барышня! Мамзель! Парле франсе... прейскурант! Загулял я...</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(громко шепчет).</stage>
+          <stage>(громко шепчет).</stage>
           <p>Василиса!</p>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(быстро отворяя дверь, Алешке).</stage>
+          <stage>(быстро отворяя дверь, Алешке).</stage>
           <p>Ты опять здесь?</p>
         </sp>
         <sp who="#Aleshka">
@@ -1677,12 +1676,12 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(толкает его в плечо).</stage>
+          <stage>(толкает его в плечо).</stage>
           <p>Вон!</p>
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(подвигаясь к двери).</stage>
+          <stage>(подвигаясь к двери).</stage>
           <p>Постой... так нельзя! Похоронный марш... недавно выучил! Свежая музыка... погоди! так
             нельзя!</p>
         </sp>
@@ -1693,12 +1692,12 @@
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(выбегая).</stage>
+          <stage>(выбегая).</stage>
           <p>Ну, я уйду...</p>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(Бубнову).</stage>
+          <stage>(Бубнову).</stage>
           <p>Чтобы ноги его здесь не было! Слышишь?</p>
         </sp>
         <sp who="#Bubnov">
@@ -1711,7 +1710,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(спокойно).</stage>
+          <stage>(спокойно).</stage>
           <p>Не считал...</p>
         </sp>
         <sp who="#Vasilisa">
@@ -1720,9 +1719,9 @@
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(отворив дверь, кричит).</stage>
+          <stage>(отворив дверь, кричит).</stage>
           <p>Василиса Карповна! А я тебя не боюсь... н-не боюсь!</p>
-          <stage type="delivery">(Прячется.)</stage>
+          <stage>(Прячется.)</stage>
         </sp>
         <stage>Лука смеется.</stage>
         <sp who="#Vasilisa">
@@ -1763,24 +1762,24 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(вздохнув).</stage>
+          <stage>(вздохнув).</stage>
           <p>Ах, и неласкова ты, мать...</p>
         </sp>
         <stage>Василиса идет к двери в комнату Пепла.</stage>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(выглядывая из кухни, шепчет).</stage>
+          <stage>(выглядывая из кухни, шепчет).</stage>
           <p>Ушла? а?</p>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(оборачивается к нему).</stage>
+          <stage>(оборачивается к нему).</stage>
           <p>Ты еще здесь?</p>
         </sp>
         <stage>Алешка, скрываясь, свистит. Настя и Лука смеются.</stage>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(Василисе).</stage>
+          <stage>(Василисе).</stage>
           <p>Нет его...</p>
         </sp>
         <sp who="#Vasilisa">
@@ -1815,13 +1814,13 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(спокойно).</stage>
+          <stage>(спокойно).</stage>
           <p>А чем жить будешь?</p>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса.</speaker>
           <p>Чтобы соринки не было!</p>
-          <stage type="delivery">(Идет в кухню. Насте.)</stage>
+          <stage>(Идет в кухню. Насте.)</stage>
           <p>Ты чего тут торчишь? Что рожа-то вспухла? Чего стоишь пнем? Мети пол! Наталью...
             видела? Была она тут?</p>
         </sp>
@@ -1849,7 +1848,7 @@
           <speaker>Василиса.</speaker>
           <p>Я тебя не спрашиваю – с кем! Грязь везде... грязища! Эх вы... свиньи! Чтобы было
             чисто... слышите!</p>
-          <stage type="delivery">(Быстро уходит.)</stage>
+          <stage>(Быстро уходит.)</stage>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
@@ -1888,7 +1887,7 @@
         <sp who="#Nastja">
           <speaker>Настя.</speaker>
           <p>Ну да, как же! Горничная я вам тут...</p>
-          <stage type="delivery">(Помолчав.)</stage>
+          <stage>(Помолчав.)</stage>
           <p>Напьюсь вот я сегодня... так напьюсь!</p>
         </sp>
         <sp who="#Bubnov">
@@ -1902,7 +1901,7 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(вызывающе).</stage>
+          <stage>(вызывающе).</stage>
           <p>А напьюсь – опять плакать буду... вот и все!</p>
         </sp>
         <sp who="#Bubnov">
@@ -1945,7 +1944,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(спокойно).</stage>
+          <stage>(спокойно).</stage>
           <p>Ты везде лишняя... да и все люди на земле – лишние...</p>
         </sp>
         <stage>Настя качает головой. Встает, тихо уходит в сени. Медведев входит. За ним – Лука с
@@ -1966,11 +1965,11 @@
           <speaker>Лука.</speaker>
           <p>Это оттого, дядя, что земля-то не вся в твоем участке поместилась... осталось маленько
             и опричь его...</p>
-          <stage type="delivery">(Уходит в кухню.)</stage>
+          <stage>(Уходит в кухню.)</stage>
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(подходя к Бубнову).</stage>
+          <stage>(подходя к Бубнову).</stage>
           <p>Правильно, участок у меня невелик... хоть хуже всякого большого... Сейчас, перед тем
             как с дежурства смениться, сапожника Алешку в часть отвез... Лег, понимаешь, среди
             улицы, играет на гармонии и орет: ничего не хочу, ничего не желаю! Лошади тут ездят и
@@ -1999,7 +1998,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(сомневаясь).</stage>
+          <stage>(сомневаясь).</stage>
           <p>Можно?</p>
           <stage>Лука выходит в сени с ведром в руке.</stage>
           <p>М-да... тут – разговор идет... насчет Васьки... ты не слыхал?</p>
@@ -2019,7 +2018,7 @@
         <sp who="#Medvedev">
           <speaker>Медведев.</speaker>
           <p>Так... вообще... Ты, может, знаешь, да врешь? Ведь все знают...</p>
-          <stage type="delivery">(Строго.)</stage>
+          <stage>(Строго.)</stage>
           <p>Врать нельзя, брат...</p>
         </sp>
         <sp who="#Bubnov">
@@ -2076,13 +2075,13 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(вводит Анну).</stage>
+          <stage>(вводит Анну).</stage>
           <p>Ну вот и доползли... эх ты! И разве можно в таком слабом составе одной ходить? Где твое
             место?</p>
         </sp>
         <sp who="#Anna">
           <speaker>Анна</speaker>
-          <stage type="delivery">(указывая).</stage>
+          <stage>(указывая).</stage>
           <p>Спасибо, дедушка...</p>
         </sp>
         <sp who="#Kvashnja">
@@ -2140,12 +2139,12 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(слезая с нар).</stage>
+          <stage>(слезая с нар).</stage>
           <p>Ты начальству поговори насчет этого...</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(распахивая дверь, кричит).</stage>
+          <stage>(распахивая дверь, кричит).</stage>
           <p>Абрам! Иди... Василиса Наташку... убивает... иди!</p>
         </sp>
         <stage>Квашня, Медведев, Бубнов бросаются в сени. Лука, качая головой, смотрит вслед
@@ -2164,7 +2163,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(подходя к Анне).</stage>
+          <stage>(подходя к Анне).</stage>
           <p>Чего делят?</p>
         </sp>
         <sp who="#Anna">
@@ -2183,7 +2182,7 @@
         <sp who="#Luka">
           <speaker>Лука.</speaker>
           <p>Мяли много, оттого и мягок...</p>
-          <stage type="delivery">(Смеется дребезжащим смехом.)</stage>
+          <stage>(Смеется дребезжащим смехом.)</stage>
         </sp>
         <stage>Занавес</stage>
       </div>
@@ -2201,26 +2200,26 @@
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
           <p>Зоб! Пой!</p>
-          <stage type="delivery">(Запевает.)</stage>
+          <stage>(Запевает.)</stage>
           <lg>
             <l>Солнце всходит и заходит...</l>
           </lg>
         </sp>
         <sp who="#KrivojZob">
           <speaker>Кривой Зоб</speaker>
-          <stage type="delivery">(подхватывает голос).</stage>
+          <stage>(подхватывает голос).</stage>
           <lg>
             <l>А в тюрьме моей темно...</l>
           </lg>
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>Мешай карта! Хорошо мешай! Знаем мы, какой-такой ты...</p>
         </sp>
         <sp who="#Bubnov #KrivojZob">
           <speaker>Бубнов и Кривой Зоб</speaker>
-          <stage type="delivery">(вместе).</stage>
+          <stage>(вместе).</stage>
           <lg>
             <l>Дни и ночи часовые – э-эх!</l>
             <l>Стерегут мое окно...</l>
@@ -2244,7 +2243,7 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(грозя Сатину кулаком).</stage>
+          <stage>(грозя Сатину кулаком).</stage>
           <p>Зачем карта прятать хочешь? Я вижу... э, ты!</p>
         </sp>
         <sp who="#KrivojZob">
@@ -2263,7 +2262,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(Кривому Зобу).</stage>
+          <stage>(Кривому Зобу).</stage>
           <p>Валетом ходи... валетом, черт!</p>
         </sp>
         <sp who="#Baron">
@@ -2315,11 +2314,11 @@
           <speaker>Лука.</speaker>
           <p>Ничего не будет! Лежи, знай! Ничего! Отдохнешь там!.. Потерпи еще! Все, милая,
             терпят... всяк по-своему жизнь терпит...</p>
-          <stage type="delivery">(Встает и уходит в кухню быстрыми шагами.)</stage>
+          <stage>(Встает и уходит в кухню быстрыми шагами.)</stage>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(запевает).</stage>
+          <stage>(запевает).</stage>
           <lg>
             <l>Как хотите, стерегите...</l>
           </lg>
@@ -2340,17 +2339,17 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(кричит).</stage>
+          <stage>(кричит).</stage>
           <p>А! Карта рукав совал!</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(конфузясь).</stage>
+          <stage>(конфузясь).</stage>
           <p>Ну... что же мне – в нос твой сунуть?</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(убедительно).</stage>
+          <stage>(убедительно).</stage>
           <p>Князь! Ты ошибся... никто, никогда...</p>
         </sp>
         <sp who="#Tatarin">
@@ -2359,7 +2358,7 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(собирая карты).</stage>
+          <stage>(собирая карты).</stage>
           <p>Ты, Асан, отвяжись... Что мы – жулики, тебе известно. Стало быть, зачем играл?</p>
         </sp>
         <sp who="#Baron">
@@ -2368,7 +2367,7 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(горячо).</stage>
+          <stage>(горячо).</stage>
           <p>Надо играть честна!</p>
         </sp>
         <sp who="#Satin">
@@ -2394,7 +2393,7 @@
         <stage>Татарин плюет, озлобленный. Все хохочут над ним.</stage>
         <sp who="#KrivojZob">
           <speaker>Кривой Зоб</speaker>
-          <stage type="delivery">(благодушно).</stage>
+          <stage>(благодушно).</stage>
           <p>Чудак ты, Асан! Ты – пойми! Коли им честно жить начать, они в три дня с голоду
             издохнут...</p>
         </sp>
@@ -2419,7 +2418,7 @@
         <sp who="#KrivojZob">
           <speaker>Кривой Зоб.</speaker>
           <p>Идем, Асанка!</p>
-          <stage type="delivery">(Уходит, напевая.)</stage>
+          <stage>(Уходит, напевая.)</stage>
           <lg>
             <l>Не порвать мне, не разбить вас...</l>
           </lg>
@@ -2427,13 +2426,13 @@
         <stage>Татарин грозит Барону кулаком и выходит вслед за товарищем.</stage>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(Барону, смеясь).</stage>
+          <stage>(Барону, смеясь).</stage>
           <p>Вы, ваше вашество, опять торжественно сели в лужу! Образованный человек, а карту
             передернуть не можете...</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(разводя руками).</stage>
+          <stage>(разводя руками).</stage>
           <p>Черт знает, как она...</p>
         </sp>
         <sp who="#Akter">
@@ -2466,7 +2465,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(выходя из кухни).</stage>
+          <stage>(выходя из кухни).</stage>
           <p>Ну, обыграли татарина? Водочку пить пойдете?</p>
         </sp>
         <sp who="#Baron">
@@ -2504,13 +2503,13 @@
         <sp who="#Satin">
           <speaker>Сатин.</speaker>
           <p>Ну, куплетист, идешь?</p>
-          <stage type="delivery">(Уходит с Бароном.)</stage>
+          <stage>(Уходит с Бароном.)</stage>
         </sp>
         <sp who="#Akter">
           <speaker>Актер.</speaker>
           <p>Иду... я догоню! Вот, например, старик, из одного стихотворения... начало я забыл...
             забыл!</p>
-          <stage type="delivery">(Потирает лоб.)</stage>
+          <stage>(Потирает лоб.)</stage>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
@@ -2526,9 +2525,9 @@
             память... А теперь вот... кончено, брат! Все кончено для меня! Я всегда читал это
             стихотворение с большим успехом... гром аплодисментов! Ты... не знаешь, что такое
             аплодисменты... это, брат, как... водка!.. Бывало, выйду, встану вот так...</p>
-          <stage type="delivery">(Становится в позу.)</stage>
+          <stage>(Становится в позу.)</stage>
           <p>Встану... и...</p>
-          <stage type="delivery">(Молчит.)</stage>
+          <stage>(Молчит.)</stage>
           <p>Ничего не помню... ни слова... не помню! Любимое стихотворение... плохо это,
             старик?</p>
         </sp>
@@ -2550,7 +2549,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(задумчиво).</stage>
+          <stage>(задумчиво).</stage>
           <p>Куда? Где это?</p>
         </sp>
         <sp who="#Luka">
@@ -2562,9 +2561,9 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(улыбаясь).</stage>
+          <stage>(улыбаясь).</stage>
           <p>Снова... сначала... Это – хорошо. Н-да... Снова?</p>
-          <stage type="delivery">(Смеется.)</stage>
+          <stage>(Смеется.)</stage>
           <p>Ну... да! Я могу?!. Ведь могу, а?</p>
         </sp>
         <sp who="#Luka">
@@ -2573,11 +2572,11 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(вдруг, как бы проснувшись).</stage>
+          <stage>(вдруг, как бы проснувшись).</stage>
           <p>Ты – чудак! Прощай пока!</p>
-          <stage type="delivery">(Свистит.)</stage>
+          <stage>(Свистит.)</stage>
           <p>Старичок... прощай...</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Anna">
           <speaker>Анна.</speaker>
@@ -2593,7 +2592,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(подходя к ней).</stage>
+          <stage>(подходя к ней).</stage>
           <p>Давай, побеседуем...</p>
           <stage>Клещ оглядывается, молча подходит к жене, смотрит на нее и делает какие-то жесты
             руками, как бы желая что-то сказать.</stage>
@@ -2601,14 +2600,13 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Ничего...</p>
-          <stage type="delivery">(Медленно идет к двери в сени, несколько секунд стоит пред ней и –
-            уходит.)</stage>
+          <stage>(Медленно идет к двери в сени, несколько секунд стоит пред ней и – уходит.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(проводив его взглядом).</stage>
+          <stage>(проводив его взглядом).</stage>
           <p>Тяжело мужику-то твоему...</p>
         </sp>
         <sp who="#Anna">
@@ -2656,7 +2654,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(строго).</stage>
+          <stage>(строго).</stage>
           <p>А ты почему знаешь, что там скажут? Эй, ты...</p>
         </sp>
         <stage>Пепел при звуке голоса Медведева поднимает голову и прислушивается.</stage>
@@ -2666,7 +2664,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(примирительно).</stage>
+          <stage>(примирительно).</stage>
           <p>М... да! Ну... твое дело... Хоша... я еще не совсем... ундер...</p>
         </sp>
         <sp who="#Bubnov">
@@ -2685,7 +2683,7 @@
         </sp>
         <sp who="#Anna">
           <speaker>Анна</speaker>
-          <stage type="delivery">(задыхаясь).</stage>
+          <stage>(задыхаясь).</stage>
           <p>Дедушка... милый ты... кабы так! Кабы... покой бы... не чувствовать бы ничего...</p>
         </sp>
         <sp who="#Luka">
@@ -2699,7 +2697,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(усмехаясь).</stage>
+          <stage>(усмехаясь).</stage>
           <p>На что? На муку опять?</p>
         </sp>
         <sp who="#Anna">
@@ -2713,12 +2711,12 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(вставая).</stage>
+          <stage>(вставая).</stage>
           <p>Верно... а может, и – не верно!</p>
         </sp>
         <sp who="#Anna">
           <speaker>Анна</speaker>
-          <stage type="delivery">(пугливо).</stage>
+          <stage>(пугливо).</stage>
           <p>Господи...</p>
         </sp>
         <sp who="#Luka">
@@ -2731,7 +2729,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(подходя к нему).</stage>
+          <stage>(подходя к нему).</stage>
           <p>Я! А что?</p>
         </sp>
         <sp who="#Medvedev">
@@ -2744,7 +2742,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(Пеплу, негромко).</stage>
+          <stage>(Пеплу, негромко).</stage>
           <p>Слышь, – не кричи! Тут – женщина помирает... уж губы у нее землей обметало... не
             мешай!</p>
         </sp>
@@ -2799,7 +2797,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(бросая игру).</stage>
+          <stage>(бросая игру).</stage>
           <p>Ты – что говоришь? Ты – про кого это? Племянница моя чтобы... ах, вор!</p>
         </sp>
         <sp who="#Pepel">
@@ -2827,7 +2825,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(теряясь).</stage>
+          <stage>(теряясь).</stage>
           <p>Врешь! И... врешь! И... что я тебе худого сделал? Пес ты бешеный...</p>
         </sp>
         <sp who="#Pepel">
@@ -2840,25 +2838,25 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(Луке).</stage>
+          <stage>(Луке).</stage>
           <p>Ты... чего каркаешь? Твое тут – какое дело? Тут – семейное дело!</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(Луке).</stage>
+          <stage>(Луке).</stage>
           <p>Отстань! Не для нас с тобой петли вяжут.</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(смиренно).</stage>
+          <stage>(смиренно).</stage>
           <p>Я ведь – ничего! Я только говорю, что, если кто кому хорошего не сделал, тот и худо
             поступил...</p>
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(не поняв).</stage>
+          <stage>(не поняв).</stage>
           <p>То-то! Мы тут... все друг друга знаем... а ты – кто такой!</p>
-          <stage type="delivery">(Сердито фыркая, быстро уходит.)</stage>
+          <stage>(Сердито фыркая, быстро уходит.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука.</speaker>
@@ -2962,7 +2960,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Коли веришь, – есть; не веришь, – нет... Во что веришь, то и есть...</p>
         </sp>
         <stage>Пепел молча, удивленно и упорно смотрит на старика.</stage>
@@ -2972,7 +2970,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(Пеплу).</stage>
+          <stage>(Пеплу).</stage>
           <p>Чего глядишь?</p>
         </sp>
         <sp who="#Pepel">
@@ -2982,7 +2980,7 @@
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
           <p>Ну, я один...</p>
-          <stage type="delivery">(Идет к двери и встречается с Василисой.)</stage>
+          <stage>(Идет к двери и встречается с Василисой.)</stage>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел.</speaker>
@@ -2990,13 +2988,13 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(Бубнову).</stage>
+          <stage>(Бубнову).</stage>
           <p>Настасья – дома?</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
           <p>Нет...</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел.</speaker>
@@ -3004,7 +3002,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(подходя к Анне).</stage>
+          <stage>(подходя к Анне).</stage>
           <p>Жива еще?</p>
         </sp>
         <sp who="#Luka">
@@ -3021,11 +3019,11 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(направляясь к двери в комнату Пепла).</stage>
+          <stage>(направляясь к двери в комнату Пепла).</stage>
           <p>Василий! У меня к тебе дело есть...</p>
           <stage>Лука подходит к двери в сени, отворяет ее и громко хлопает ею. Затем – осторожно
             влезает на нары и – на печь.</stage>
-          <stage type="delivery">(Из комнаты Пепла.)</stage>
+          <stage>(Из комнаты Пепла.)</stage>
           <p>Вася... Поди сюда!</p>
         </sp>
         <sp who="#Pepel">
@@ -3064,12 +3062,12 @@
           <speaker>Василиса.</speaker>
           <p>А что надоела я тебе... али это не правда?</p>
           <stage>Пепел молча смотрит на нее.</stage>
-          <stage type="delivery">(Подвигаясь к нему.)</stage>
+          <stage>(Подвигаясь к нему.)</stage>
           <p>Что глядишь? Не узнаешь?</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(вздыхая).</stage>
+          <stage>(вздыхая).</stage>
           <p>Красивая ты, Васка...</p>
           <stage>Женщина кладет ему руку на шею, но он стряхивает руку ее движением плеча.</stage>
           <p>...а никогда не лежало у меня сердце к тебе... И жил я с тобой, и всё... а никогда ты
@@ -3077,7 +3075,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(тихо).</stage>
+          <stage>(тихо).</stage>
           <p>Та-ак... Н-ну...</p>
         </sp>
         <sp who="#Pepel">
@@ -3094,18 +3092,18 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(значительно).</stage>
+          <stage>(значительно).</stage>
           <p>А напрасно... Может, я бы и сосватала...</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(подозрительно).</stage>
+          <stage>(подозрительно).</stage>
           <p>Кого это?</p>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса.</speaker>
           <p>Ты знаешь... что притворяться? Василий... я – человек прямой...</p>
-          <stage type="delivery">(Тише.)</stage>
+          <stage>(Тише.)</stage>
           <p>Скрывать не буду... ты меня обидел... Ни за что ни про что – как плетью хлестнул...
             Говорил – любишь... и вдруг...</p>
         </sp>
@@ -3137,7 +3135,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(близко наклоняясь к нему).</stage>
+          <stage>(близко наклоняясь к нему).</stage>
           <p>Вася! давай поможем друг другу...</p>
         </sp>
         <sp who="#Pepel">
@@ -3146,7 +3144,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(тихо, сильно).</stage>
+          <stage>(тихо, сильно).</stage>
           <p>Сестра... тебе нравится, я знаю...</p>
         </sp>
         <sp who="#Pepel">
@@ -3160,7 +3158,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(отодвигаясь).</stage>
+          <stage>(отодвигаясь).</stage>
           <p>Постой... как это? За что?</p>
         </sp>
         <sp who="#Vasilisa">
@@ -3169,7 +3167,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(тихо свистит).</stage>
+          <stage>(тихо свистит).</stage>
           <p>Вон что-о! Ого-го! Это – ты ловко придумала... мужа, значит, в гроб, любовника – на
             каторгу, а сама...</p>
         </sp>
@@ -3203,39 +3201,38 @@
         <stage>Костылев осторожно входит и крадется вперед.</stage>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(Василисе).</stage>
+          <stage>(Василисе).</stage>
           <p>Ну... иди!</p>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса.</speaker>
           <p>Подумай!</p>
-          <stage type="delivery">(Видит мужа.)</stage>
+          <stage>(Видит мужа.)</stage>
           <p>Ты – что? За мной?</p>
         </sp>
         <stage>Пепел вскакивает и дико смотрит на Костылева.</stage>
         <sp who="#Kostylev">
           <speaker>Костылев.</speaker>
           <p>Это я... я! А вы тут... одни? А-а... Вы – разговаривали?</p>
-          <stage type="delivery">(Вдруг топает ногами и громко визжит.)</stage>
+          <stage>(Вдруг топает ногами и громко визжит.)</stage>
           <p>Васка... поганая! Нищая... шкура!</p>
-          <stage type="delivery">(Пугается своего крика, встреченного молчанием и
-            неподвижностью.)</stage>
+          <stage>(Пугается своего крика, встреченного молчанием и неподвижностью.)</stage>
           <p>Прости, господи... опять ты меня, Василиса, во грех ввела... Я тебя ищу везде...</p>
-          <stage type="delivery">(Взвизгивая.)</stage>
+          <stage>(Взвизгивая.)</stage>
           <p>Спать пора! Масла в лампады забыла налить... у, ты! Нищая... свинья...</p>
-          <stage type="delivery">(Дрожащими руками машет на нее.)</stage>
+          <stage>(Дрожащими руками машет на нее.)</stage>
         </sp>
         <stage>Василиса медленно идет к двери в сени, оглядываясь на Пепла.</stage>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(Костылеву).</stage>
+          <stage>(Костылеву).</stage>
           <p>Ты! Уйди... пошел!.. Костылев</p>
-          <stage type="delivery">(кричит).</stage>
+          <stage>(кричит).</stage>
           <p>Я – хозяин! Сам пошел, да! Вор...</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(глухо).</stage>
+          <stage>(глухо).</stage>
           <p>Уйди, Мишка...</p>
         </sp>
         <sp who="#Kostylev">
@@ -3246,12 +3243,12 @@
           позевыванье. Пепел выпускает Костылева, старик с криком бежит в сени.</stage>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(вспрыгнув на нары).</stage>
+          <stage>(вспрыгнув на нары).</stage>
           <p>Кто это... кто на печи?</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(высовывая голову).</stage>
+          <stage>(высовывая голову).</stage>
           <p>Ась?</p>
         </sp>
         <sp who="#Pepel">
@@ -3260,12 +3257,12 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(спокойно).</stage>
+          <stage>(спокойно).</stage>
           <p>Я... я самый... о, господи Исусе Христе!</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(затворяет дверь в сени, ищет запора и не находит).</stage>
+          <stage>(затворяет дверь в сени, ищет запора и не находит).</stage>
           <p>А, черти... Старик, слезай!</p>
         </sp>
         <sp who="#Luka">
@@ -3274,7 +3271,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(грубо).</stage>
+          <stage>(грубо).</stage>
           <p>Ты зачем на печь залез?</p>
         </sp>
         <sp who="#Luka">
@@ -3300,7 +3297,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(подозрительно).</stage>
+          <stage>(подозрительно).</stage>
           <p>Какое счастье? В чем?</p>
         </sp>
         <sp who="#Luka">
@@ -3326,7 +3323,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(улыбаясь).</stage>
+          <stage>(улыбаясь).</stage>
           <p>Ты – что? Сам, что ли, ошибся однажды?</p>
         </sp>
         <sp who="#Luka">
@@ -3348,7 +3345,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(угрюмо).</stage>
+          <stage>(угрюмо).</stage>
           <p>Не поймешь людей! Которые – добрые, которые – злые!.. Ничего не понятно...</p>
         </sp>
         <sp who="#Luka">
@@ -3359,27 +3356,26 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(берет его за плечо).</stage>
+          <stage>(берет его за плечо).</stage>
           <p>Нет, ты скажи – зачем ты все это...</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука.</speaker>
           <p>Погоди-ка, пусти... Погляжу я на Анну... чего-то она хрипела больно...</p>
-          <stage type="delivery">(Идет к постели Анны, открывает полог, смотрит, трогает
-            рукой.)</stage>
+          <stage>(Идет к постели Анны, открывает полог, смотрит, трогает рукой.)</stage>
           <stage>Пепел задумчиво и растерянно следит за ним.</stage>
           <p>Исусе Христе, многомилостивый! Дух новопреставленной рабы твоей Анны с миром
             прими...</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(тихо).</stage>
+          <stage>(тихо).</stage>
           <p>Умерла?..</p>
-          <stage type="delivery">(Не подходя, вытягивается и смотрит на кровать.)</stage>
+          <stage>(Не подходя, вытягивается и смотрит на кровать.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(тихо).</stage>
+          <stage>(тихо).</stage>
           <p>Отмаялась!.. А где мужик-то ее?</p>
         </sp>
         <sp who="#Pepel">
@@ -3392,12 +3388,12 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(вздрагивая).</stage>
+          <stage>(вздрагивая).</stage>
           <p>Не люблю покойников...</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(идет к двери).</stage>
+          <stage>(идет к двери).</stage>
           <p>За что их любить?.. Любить – живых надо... живых...</p>
         </sp>
         <sp who="#Pepel">
@@ -3416,10 +3412,10 @@
           непонятный. Потом – входит Актер.</stage>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(останавливается, не затворяя двери, на пороге и, придерживаясь
-            руками за косяки, кричит).</stage>
+          <stage>(останавливается, не затворяя двери, на пороге и, придерживаясь руками за косяки,
+            кричит).</stage>
           <p>Старик, эй! Ты где? Я – вспомнил... слушай.</p>
-          <stage type="delivery">(Шатаясь, делает два шага вперед и, принимая позу, читает.)</stage>
+          <stage>(Шатаясь, делает два шага вперед и, принимая позу, читает.)</stage>
           <lg>
             <l>Господа! Если к правде святой</l>
             <l>Мир дорогу найти не умеет, –</l>
@@ -3437,23 +3433,23 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(смеется).</stage>
+          <stage>(смеется).</stage>
           <p>Чучело! Нализался...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(оборачиваясь к ней).</stage>
+          <stage>(оборачиваясь к ней).</stage>
           <p>А-а, это ты? А – где старичок... милый старикашка? Здесь, по-видимому, – никого нет...
             Наташа, прощай! Прощай... да!</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(входя).</stage>
+          <stage>(входя).</stage>
           <p>Не здоровался, а прощаешься...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(загораживая ей дорогу).</stage>
+          <stage>(загораживая ей дорогу).</stage>
           <p>Я – уезжаю, ухожу... Настанет весна – и меня больше нет...</p>
         </sp>
         <sp who="#Natasha">
@@ -3478,17 +3474,17 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(качая головой).</stage>
+          <stage>(качая головой).</stage>
           <p>Не может быть...</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(отступая).</stage>
+          <stage>(отступая).</stage>
           <p>Ей-богу... смотри...</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(в двери).</stage>
+          <stage>(в двери).</stage>
           <p>Чего смотреть?</p>
         </sp>
         <sp who="#Natasha">
@@ -3498,22 +3494,22 @@
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
           <p>Кашлять перестала, значит.</p>
-          <stage type="delivery">(Идет к постели Анны, смотрит, идет на свое место.)</stage>
+          <stage>(Идет к постели Анны, смотрит, идет на свое место.)</stage>
           <p>Надо Клещу сказать... это – его дело...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер.</speaker>
           <p>Я иду... скажу... потеряла имя!..</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(посреди комнаты).</stage>
+          <stage>(посреди комнаты).</stage>
           <p>Вот и я... когда-нибудь так же... в подвале... забитая...</p>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(расстилая на своих нарах какое-то тряпье).</stage>
+          <stage>(расстилая на своих нарах какое-то тряпье).</stage>
           <p>Чего? Ты чего бормочешь?</p>
         </sp>
         <sp who="#Natasha">
@@ -3530,7 +3526,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(ложится).</stage>
+          <stage>(ложится).</stage>
           <p>Ну, твое дело...</p>
         </sp>
         <sp who="#Natasha">
@@ -3553,19 +3549,19 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(Клещу).</stage>
+          <stage>(Клещу).</stage>
           <p>Надо вон тащить! Сени надо тащить! Здесь – мертвый – нельзя, здесь – живой спать
             будет...</p>
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Вытащим...</p>
         </sp>
         <stage>Все подходят к постели. Клещ смотрит на жену через плечи других.</stage>
         <sp who="#KrivojZob">
           <speaker>Кривой Зоб</speaker>
-          <stage type="delivery">(Татарину).</stage>
+          <stage>(Татарину).</stage>
           <p>Ты думаешь – дух пойдет? От нее духа не будет... она вся еще живая высохла...</p>
         </sp>
         <sp who="#Natasha">
@@ -3579,12 +3575,12 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(зевая).</stage>
+          <stage>(зевая).</stage>
           <p>И опять же – смерть слова не боится!.. Болезнь – боится слова, а смерть – нет!</p>
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(отходя).</stage>
+          <stage>(отходя).</stage>
           <p>Полицию надо...</p>
         </sp>
         <sp who="#KrivojZob">
@@ -3599,17 +3595,17 @@
           <speaker>Кривой Зоб.</speaker>
           <p>Ну, на такой случай – займи... а то мы соберем... кто пятак, кто – сколько может... А
             полиции заяви... скорее! А то она подумает – убил ты бабу... или что...</p>
-          <stage type="delivery">(Идет к нарам и собирается лечь рядом с Татарином.)</stage>
+          <stage>(Идет к нарам и собирается лечь рядом с Татарином.)</stage>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(отходя к нарам Бубнова).</stage>
+          <stage>(отходя к нарам Бубнова).</stage>
           <p>Вот... будет она мне сниться теперь... мне всегда покойники снятся... боюсь идти
             одна... в сенях – темно...</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(следуя за ней).</stage>
+          <stage>(следуя за ней).</stage>
           <p>Ты – живых опасайся... вот что я скажу...</p>
         </sp>
         <sp who="#Natasha">
@@ -3633,7 +3629,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(стоит посредине ночлежки и тупо смотрит пред собой).</stage>
+          <stage>(стоит посредине ночлежки и тупо смотрит пред собой).</stage>
           <p>Чего же мне теперь делать?</p>
         </sp>
         <sp who="#KrivojZob">
@@ -3642,13 +3638,13 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(тихо).</stage>
+          <stage>(тихо).</stage>
           <p>А... она... как же?</p>
         </sp>
         <stage>Никто не отвечает ему. Сатин и Актер входят.</stage>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(кричит).</stage>
+          <stage>(кричит).</stage>
           <p>Старик! Сюда, мой верный Кент...</p>
         </sp>
         <sp who="#Satin">
@@ -3670,14 +3666,14 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(вскакивая).</stage>
+          <stage>(вскакивая).</stage>
           <p>Где хозяин? Хозяину иду! Нельзя спать – нельзя деньги брать... Мертвые... пьяные...</p>
-          <stage type="delivery">(Быстро уходит.)</stage>
+          <stage>(Быстро уходит.)</stage>
         </sp>
         <stage>Сатин свистит вслед ему.</stage>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(сонным голосом).</stage>
+          <stage>(сонным голосом).</stage>
           <p>Ложись, ребята, не шуми... ночью – спать надо!</p>
         </sp>
         <sp who="#Akter">
@@ -3687,7 +3683,7 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(кричит).</stage>
+          <stage>(кричит).</stage>
           <p>Мертвецы – не слышат! Мертвецы не чувствуют... Кричи... реви... мертвецы не
             слышат!..</p>
         </sp>
@@ -3710,15 +3706,14 @@
           земли – рожа Бубнова.</stage>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(закрыв глаза и качая головой в такт словам, певуче
-            рассказывает).</stage>
+          <stage>(закрыв глаза и качая головой в такт словам, певуче рассказывает).</stage>
           <p>Вот приходит он ночью в сад, в беседку, как мы уговорились... а уж я его давно жду и
             дрожу от страха и горя. Он тоже дрожит весь и – белый как мел, а в руках у него
             леворверт...</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(грызет семечки).</stage>
+          <stage>(грызет семечки).</stage>
           <p>Ишь! Видно, правду говорят, что студенты – отчаянные...</p>
         </sp>
         <sp who="#Nastja">
@@ -3744,20 +3739,20 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(удивленный).</stage>
+          <stage>(удивленный).</stage>
           <p>Чего-о? Как? Краул?</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(хохочет).</stage>
+          <stage>(хохочет).</stage>
           <p>Настька! Да ведь... ведь прошлый раз – Гастон был!</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(вскакивая).</stage>
+          <stage>(вскакивая).</stage>
           <p>Молчите... несчастные! Ах... бродячие собаки! Разве... разве вы можете понимать...
             любовь? Настоящую любовь? А у меня – была она... настоящая!</p>
-          <stage type="delivery">(Барону.)</stage>
+          <stage>(Барону.)</stage>
           <p>Ты! Ничтожный!.. Образованный ты человек... говоришь – лежа кофей пил...</p>
         </sp>
         <sp who="#Luka">
@@ -3779,33 +3774,33 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(снова садится).</stage>
+          <stage>(снова садится).</stage>
           <p>Не хочу больше! Не буду говорить... Коли они не верят... коли смеются...</p>
-          <stage type="delivery">(Вдруг, прерывая речь, молчит несколько секунд и, вновь закрыв
-            глаза, продолжает горячо и громко, помахивая рукой в такт речи и точно вслушиваясь в
-            отдаленную музыку.)</stage>
+          <stage>(Вдруг, прерывая речь, молчит несколько секунд и, вновь закрыв глаза, продолжает
+            горячо и громко, помахивая рукой в такт речи и точно вслушиваясь в отдаленную
+            музыку.)</stage>
           <p>И вот – отвечаю я ему: «Радость жизни моей! Месяц ты мой ясный! И мне без тебя тоже
             вовсе невозможно жить на свете... потому как люблю я тебя безумно и буду любить, пока
             сердце бьется во груди моей! Но, говорю, не лишай себя молодой твоей жизни... как нужна
             она дорогим твоим родителям, для которых ты – вся их радость... брось меня! Пусть лучше
             я пропаду... от тоски по тебе, жизнь моя... я – одна... я – таковская! Пускай уж я...
             погибаю, – все равно! Я – никуда не гожусь... и нет мне ничего... нет ничего...»</p>
-          <stage type="delivery">(Закрывает лицо руками и беззвучно плачет.)</stage>
+          <stage>(Закрывает лицо руками и беззвучно плачет.)</stage>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(отвертываясь в сторону, негромко).</stage>
+          <stage>(отвертываясь в сторону, негромко).</stage>
           <p>Не плачь... не надо!</p>
         </sp>
         <stage>Лука, улыбаясь, гладит голову Насти.</stage>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(хохочет).</stage>
+          <stage>(хохочет).</stage>
           <p>Ах... чертова кукла! а?</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(тоже смеется).</stage>
+          <stage>(тоже смеется).</stage>
           <p>Дедка! Ты думаешь – это правда? Это все из книжки «Роковая любовь»... Все это – ерунда!
             Брось ее!..</p>
         </sp>
@@ -3815,12 +3810,12 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(яростно).</stage>
+          <stage>(яростно).</stage>
           <p>Пропащая душа! Пустой человек! Где у тебя – душа?</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(берет Настю за руку).</stage>
+          <stage>(берет Настю за руку).</stage>
           <p>Уйдем, милая! ничего... не сердись! Я – знаю... Я – верю! Твоя правда, а не ихняя...
             Коли ты веришь, была у тебя настоящая любовь... значит – была она! Была! А на него – не
             сердись, на сожителя-то... Он... может, и впрямь из зависти смеется... у него, может,
@@ -3828,7 +3823,7 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(крепко прижимая руки к груди).</stage>
+          <stage>(крепко прижимая руки к груди).</stage>
           <p>Дедушка! Ей-богу... было это! Все было!.. Студент он... француз был... Гастошей
             звали... с черной бородкой... в лаковых сапогах ходил... разрази меня гром на этом
             месте! И так он меня любил... так любил!</p>
@@ -3866,7 +3861,7 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(смущенно улыбаясь).</stage>
+          <stage>(смущенно улыбаясь).</stage>
           <p>Так... Вот, думаю, завтра... приедет кто-то... кто-нибудь... особенный... Или –
             случится что-нибудь... тоже – небывалое... Подолгу жду... всегда – жду... А так... на
             самом деле – чего можно ждать?</p>
@@ -3874,7 +3869,7 @@
         <stage>Пауза.</stage>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(с усмешкой).</stage>
+          <stage>(с усмешкой).</stage>
           <p>Нечего ждать... Я – ничего не жду! Все уже... было! Прошло... кончено!.. Дальше!</p>
         </sp>
         <sp who="#Natasha">
@@ -3893,8 +3888,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(до этой поры неподвижный и безучастный – вдруг
-            вскакивает).</stage>
+          <stage>(до этой поры неподвижный и безучастный – вдруг вскакивает).</stage>
           <p>Всем? Врешь! Не всем! Кабы – всем... пускай! Тогда – не обидно... да!</p>
         </sp>
         <sp who="#Bubnov">
@@ -3915,12 +3909,12 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(усмехаясь, отходит).</stage>
+          <stage>(усмехаясь, отходит).</stage>
           <p>У всех людей – души серенькие... все подрумяниться желают...</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(выходит из-за угла).</stage>
+          <stage>(выходит из-за угла).</stage>
           <p>Ты, барин, зачем девку тревожишь? Ты бы не мешал ей... пускай плачет-забавляется... Она
             ведь для своего удовольствия слезы льет... чем тебе это вредно?</p>
         </sp>
@@ -3928,7 +3922,7 @@
           <speaker>Барон.</speaker>
           <p>Глупо, старик! Надоела она... Сегодня – Рауль, завтра – Гастон... а всегда одно и то
             же! Впрочем – я иду мириться с ней...</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука.</speaker>
@@ -3963,7 +3957,7 @@
             Теперь, приказываю, один – ложись, а другой пори его! Так они, по моему приказу, и
             выпороли дружка дружку. А как выпоролись они... и говорят мне – дедушка, говорят, дай
             хлебца Христа ради! Идем, говорят, не жрамши. Вот те и воры, милая</p>
-          <stage type="delivery">(смеется)...</stage>
+          <stage>(смеется)...</stage>
           <p>вот те и с топором! Да... Хорошие мужики оба... Я говорю им: вы бы, лешие, прямо бы
             хлеба просили. А они – надоело, говорят... просишь-просишь, а никто не дает... обидно!..
             Так они у меня всю зиму и жили. Один, – Степаном звать, – возьмет бывало, ружьишко и
@@ -3990,9 +3984,9 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(вдруг снова вскакивает, как обожженный, и кричит).</stage>
+          <stage>(вдруг снова вскакивает, как обожженный, и кричит).</stage>
           <p>Какая – правда? Где – правда?</p>
-          <stage type="delivery">(Треплет руками лохмотья на себе.)</stage>
+          <stage>(Треплет руками лохмотья на себе.)</stage>
           <p>Вот – правда! Работы нет... силы нет! Вот – правда! Пристанища... пристанища нету!
             Издыхать надо... вот она, правда! Дьявол! На... на что мне она – правда? Дай
             вздохнуть... вздохнуть дай! Чем я виноват?.. За что мне – правду? Жить – дьявол – жить
@@ -4008,10 +4002,10 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(дрожит от возбуждения).</stage>
+          <stage>(дрожит от возбуждения).</stage>
           <p>Говорите тут – пра-авда! Ты, старик, утешаешь всех... Я тебе скажу... ненавижу я всех!
             И эту правду... будь она, окаянная, проклята! Понял? Пойми! Будь она – проклята!</p>
-          <stage type="delivery">(Бежит за угол, оглядываясь.)</stage>
+          <stage>(Бежит за угол, оглядываясь.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука.</speaker>
@@ -4028,7 +4022,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(медленно выходит из-за угла).</stage>
+          <stage>(медленно выходит из-за угла).</stage>
           <p>Мир честной компании! Что, Лука, старец лукавый, всё истории рассказываешь?</p>
         </sp>
         <sp who="#Luka">
@@ -4045,9 +4039,9 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(садится).</stage>
+          <stage>(садится).</stage>
           <p>Не люблю его... больно он зол да горд.</p>
-          <stage type="delivery">(Передразнивая Клеща.)</stage>
+          <stage>(Передразнивая Клеща.)</stage>
           <p>«Я – рабочий человек». И – все его ниже будто... Работай, коли нравится... чем же
             гордиться тут? Ежели людей по работе ценить... тогда лошадь лучше всякого человека...
             возит и – молчит! Наташа! Твои дома?</p>
@@ -4062,7 +4056,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(задумчиво, Бубнову).</stage>
+          <stage>(задумчиво, Бубнову).</stage>
           <p>Вот... ты говоришь – правда... Она, правда-то, – не всегда по недугу человеку... не
             всегда правдой душу вылечишь... Был, примерно, такой случай; знал я одного человека,
             который в праведную землю верил...</p>
@@ -4100,7 +4094,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Ну? Нету?</p>
         </sp>
         <stage>Бубнов хохочет.</stage>
@@ -4116,13 +4110,13 @@
             так? Жил-жил, терпел-терпел и все верил – есть! а по планам выходит – нету! Грабеж!.. И
             говорит он ученому: «Ах ты... сволочь эдакой! Подлец ты, а не ученый...» Да в ухо ему –
             раз! Да еще!..</p>
-          <stage type="delivery">(Помолчав.)</stage>
+          <stage>(Помолчав.)</stage>
           <p>А после того пошел домой – и удавился!..</p>
         </sp>
         <stage>Все молчат, Лука, улыбаясь, смотрит на Пепла и Наташу.</stage>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Ч-черт те возьми... история – невеселая...</p>
         </sp>
         <sp who="#Natasha">
@@ -4131,7 +4125,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(угрюмо).</stage>
+          <stage>(угрюмо).</stage>
           <p>Всё – сказки...</p>
         </sp>
         <sp who="#Pepel">
@@ -4145,11 +4139,11 @@
         <sp who="#Bubnov">
           <speaker>Бубнов.</speaker>
           <p>Всё – выдумки... тоже! Хо-хо! Праведная земля! Туда же! Хо-хо-хо!</p>
-          <stage type="delivery">(Исчезает из окна.)</stage>
+          <stage>(Исчезает из окна.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(кивая головой на окно Бубнова).</stage>
+          <stage>(кивая головой на окно Бубнова).</stage>
           <p>Смеется! Эхе-хе...</p>
           <stage>Пауза.</stage>
           <p>Ну, ребята!.. живите богато! Уйду скоро от вас...</p>
@@ -4185,7 +4179,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(решительно).</stage>
+          <stage>(решительно).</stage>
           <p>Опять я... снова я буду говорить с тобой... Наташа... Вот – при нем... он – все
             знает... Иди... со мной!</p>
         </sp>
@@ -4216,7 +4210,7 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(грустно).</stage>
+          <stage>(грустно).</stage>
           <p>Не верю я как-то... никаким словам... И беспокойно мне сегодня... сердце щемит... будто
             жду я чего-то. Напрасно ты, Василий, разговор этот сегодня завел...</p>
         </sp>
@@ -4243,7 +4237,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(смущенно).</stage>
+          <stage>(смущенно).</stage>
           <p>Ну, что она? Мало ли... эдаких-то...</p>
         </sp>
         <sp who="#Luka">
@@ -4252,7 +4246,7 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(угрюмо).</stage>
+          <stage>(угрюмо).</stage>
           <p>Ты... пожалей меня! Несладко живу... волчья жизнь – мало радует... Как в трясине
             тону... за что ни схватишься... все – гнилое... все – не держит... Сестра твоя... я
             думал, она... не то... Ежели бы она... не жадная до денег была – я бы ее ради... на все
@@ -4280,17 +4274,17 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(улыбаясь).</stage>
+          <stage>(улыбаясь).</stage>
           <p>Вот... еще не жена я тебе, а уж хочешь убить.</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(обнимает ее).</stage>
+          <stage>(обнимает ее).</stage>
           <p>Брось, Наташа! Все равно!..</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(прижимаясь к нему).</stage>
+          <stage>(прижимаясь к нему).</stage>
           <p>Ну... одно я тебе скажу, Василий... вот как перед богом говорю! – как только ты меня
             первый раз ударишь... или иначе обидишь... я – себя не пожалею... или сама удавлюсь,
             или...</p>
@@ -4305,7 +4299,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(из окна).</stage>
+          <stage>(из окна).</stage>
           <p>Вот и сосватались! Совет да любовь!</p>
         </sp>
         <sp who="#Natasha">
@@ -4323,7 +4317,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Ах, баба... гадюка ядовитая...</p>
         </sp>
         <sp who="#Vasilisa">
@@ -4332,13 +4326,13 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(выходит).</stage>
+          <stage>(выходит).</stage>
           <p>Наташка! Ты что тут делаешь, дармоедка? Сплетни плетешь? На родных жалуешься? А самовар
             не готов? На стол не собрано?</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(уходя).</stage>
+          <stage>(уходя).</stage>
           <p>Да ведь вы в церковь идти хотели...</p>
         </sp>
         <sp who="#Kostylev">
@@ -4352,11 +4346,11 @@
         <sp who="#Natasha">
           <speaker>Наташа.</speaker>
           <p>Ты – не командуй... рано еще!</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(Костылеву).</stage>
+          <stage>(Костылеву).</stage>
           <p>Будет вам! Поиздевались над человеком... достаточно! Теперь она – моя!</p>
         </sp>
         <sp who="#Kostylev">
@@ -4390,18 +4384,18 @@
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(грозит ей кулаком).</stage>
+          <stage>(грозит ей кулаком).</stage>
           <p>Поглядим!..</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(исчезая из окна).</stage>
+          <stage>(исчезая из окна).</stage>
           <p>Устрою я тебе свадебку!</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(подходит к Луке).</stage>
+          <stage>(подходит к Луке).</stage>
           <p>Что, старичок?</p>
         </sp>
         <sp who="#Luka">
@@ -4495,12 +4489,12 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(входит).</stage>
+          <stage>(входит).</stage>
           <p>Михаила Иваныч, иди чай пить.</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(Луке).</stage>
+          <stage>(Луке).</stage>
           <p>Ты... вот что: пошел-ка вон! долой с квартиры!..</p>
         </sp>
         <sp who="#Vasilisa">
@@ -4519,7 +4513,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(в окне).</stage>
+          <stage>(в окне).</stage>
           <p>Чем тут торгуют? За что – три копейки?</p>
         </sp>
         <sp who="#Luka">
@@ -4528,7 +4522,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(мужу).</stage>
+          <stage>(мужу).</stage>
           <p>Идем...</p>
         </sp>
         <sp who="#Bubnov">
@@ -4537,9 +4531,9 @@
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(Бубнову).</stage>
+          <stage>(Бубнову).</stage>
           <p>Ты... вытаращился, ровно домовой из-под печки!</p>
-          <stage type="delivery">(Идет с женой.)</stage>
+          <stage>(Идет с женой.)</stage>
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса.</speaker>
@@ -4551,9 +4545,9 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(оборачиваясь).</stage>
+          <stage>(оборачиваясь).</stage>
           <p>Попридержи язык... гриб поганый!</p>
-          <stage type="delivery">(Уходит с мужем за угол.)</stage>
+          <stage>(Уходит с мужем за угол.)</stage>
         </sp>
         <sp who="#Luka">
           <speaker>Лука.</speaker>
@@ -4626,7 +4620,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>А ты – почто его с толку сбиваешь?</p>
         </sp>
         <sp who="#Satin">
@@ -4703,7 +4697,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(тихо).</stage>
+          <stage>(тихо).</stage>
           <p>Гляди! Идет...</p>
         </sp>
         <stage>Клещ идет – медленно, низко опустив голову.</stage>
@@ -4735,7 +4729,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>Тебе бы с такими речами к бегунам идти... Есть такие люди, бегуны называются...</p>
         </sp>
         <sp who="#Satin">
@@ -4745,7 +4739,7 @@
         <stage>Из окна Костылевых доносится крик Наташи: «За что? Постой... за что-о?»</stage>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(беспокойно).</stage>
+          <stage>(беспокойно).</stage>
           <p>Наташа? Она кричит? а? Ах ты...</p>
         </sp>
         <stage>В квартире Костылевых – шум, возня, звон разбитой посуды и визгливый крик Костылева:
@@ -4760,17 +4754,17 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(кричит в окно).</stage>
+          <stage>(кричит в окно).</stage>
           <p>Эй, вы там!</p>
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(суетясь).</stage>
+          <stage>(суетясь).</stage>
           <p>Василья бы... позвать бы Васю-то... ах, господи! Братцы... ребята...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(убегая).</stage>
+          <stage>(убегая).</stage>
           <p>Вот я... сейчас его...</p>
         </sp>
         <sp who="#Bubnov">
@@ -4783,7 +4777,7 @@
         </sp>
         <sp who="#Luka">
           <speaker>Лука</speaker>
-          <stage type="delivery">(идет вслед за Сатиным).</stage>
+          <stage>(идет вслед за Сатиным).</stage>
           <p>Какой я свидетель! Куда уж... Василья-то бы скорее... Э-эхма!..</p>
         </sp>
         <sp who="#Natasha">
@@ -4799,13 +4793,13 @@
           На сцене – тихо. Вечерний сумрак.</stage>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(безучастно сидит на дровнях, крепко потирает руки. Потом начинает
-            что-то бормотать, сначала – невнятно, далее –)</stage>
+          <stage>(безучастно сидит на дровнях, крепко потирает руки. Потом начинает что-то
+            бормотать, сначала – невнятно, далее –)</stage>
           <p>Как же?.. Надо жить...</p>
-          <stage type="delivery">(Громко.)</stage>
+          <stage>(Громко.)</stage>
           <p>Пристанище надо... ну? Нет пристанища... ничего нет! Один человек... один, весь тут...
             Помощи нет...</p>
-          <stage type="delivery">(Медленно, согнувшись, уходит.)</stage>
+          <stage>(Медленно, согнувшись, уходит.)</stage>
         </sp>
         <stage>Несколько секунд зловещей тишины. Потом – где-то в проходе рождается смутный шум,
           хаос звуков. Он растет, приближается. Слышны отдельные голоса.</stage>
@@ -4828,12 +4822,12 @@
         <stage>Полицейский свисток.</stage>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(выбегает. Правая рука у него на перевязи).</stage>
+          <stage>(выбегает. Правая рука у него на перевязи).</stage>
           <p>Какой-такой закон есть – днем убивать?</p>
         </sp>
         <sp who="#KrivojZob">
           <speaker>Кривой Зоб</speaker>
-          <stage type="delivery">(за ним Медведев).</stage>
+          <stage>(за ним Медведев).</stage>
           <p>Эх, и дал я ему разочек!</p>
         </sp>
         <sp who="#Medvedev">
@@ -4846,12 +4840,12 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(гонится за крючником).</stage>
+          <stage>(гонится за крючником).</stage>
           <p>Стой! Отдай свисток...</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(выбегает).</stage>
+          <stage>(выбегает).</stage>
           <p>Абрам! Хватай... бери его! Убил...</p>
         </sp>
         <stage>Из-за угла выходят Квашня и Настя – они ведут под руки Наташу, растрепанную. Сатин
@@ -4860,7 +4854,7 @@
           несколько оборванных фигур мужчин и женщин.</stage>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(Василисе).</stage>
+          <stage>(Василисе).</stage>
           <p>Куда? Сова, проклятая...</p>
         </sp>
         <sp who="#Vasilisa">
@@ -4869,12 +4863,12 @@
         </sp>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(отводя Наташу).</stage>
+          <stage>(отводя Наташу).</stage>
           <p>А ты, Карповна, полно... постыдись! Что зверствуешь?</p>
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(хватает Сатина).</stage>
+          <stage>(хватает Сатина).</stage>
           <p>Ага... попал!</p>
         </sp>
         <sp who="#Satin">
@@ -4885,19 +4879,18 @@
           усаживают на куче дерева.</stage>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(выскочив из проулка, он молча сильными движениями расталкивает
-            всех).</stage>
+          <stage>(выскочив из проулка, он молча сильными движениями расталкивает всех).</stage>
           <p>Где – Наталья? Ты...</p>
         </sp>
         <sp who="#Kostylev">
           <speaker>Костылев</speaker>
-          <stage type="delivery">(скрываясь за углом).</stage>
+          <stage>(скрываясь за углом).</stage>
           <p>Абрам! Хватай Ваську... братцы – помогите Ваську взять! Вора... грабителя...</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел.</speaker>
           <p>А ты... блудня старая!</p>
-          <stage type="delivery">(Сильно размахнувшись, бьет старика.)</stage>
+          <stage>(Сильно размахнувшись, бьет старика.)</stage>
         </sp>
         <stage>Костылев падает так, что из-за угла видна только верхняя половина его тела, Пепел
           бросается к Наташе.</stage>
@@ -4907,7 +4900,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(кричит Сатину).</stage>
+          <stage>(кричит Сатину).</stage>
           <p>Не можешь... тут – дело семейное! Они – родные... а ты кто?</p>
         </sp>
         <sp who="#Pepel">
@@ -4928,7 +4921,7 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(почти в обмороке).</stage>
+          <stage>(почти в обмороке).</stage>
           <p>Василий... возьми меня... схорони меня...</p>
         </sp>
         <sp who="#Vasilisa">
@@ -4939,12 +4932,12 @@
           Василию.</stage>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Васька! Старик-то... того... готов!</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(смотрит на него, как бы не понимая).</stage>
+          <stage>(смотрит на него, как бы не понимая).</stage>
           <p>Иди... зови... в больницу надо... ну, я рассчитаюсь с ними!</p>
         </sp>
         <sp who="#Bubnov">
@@ -4957,19 +4950,19 @@
           Татарин. Настя и Квашня бросаются к трупу Костылева.</stage>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(поднимаясь с земли, кричит торжествующим голосом).</stage>
+          <stage>(поднимаясь с земли, кричит торжествующим голосом).</stage>
           <p>Убили! Мужа моего... вот кто убил! Васька убил! Я – видела! Голубчики – я видела! Что –
             Вася? Полиция!</p>
         </sp>
         <sp who="#Pepel">
           <speaker>Пепел</speaker>
-          <stage type="delivery">(отходит от Наташи).</stage>
+          <stage>(отходит от Наташи).</stage>
           <p>Пусти... прочь!</p>
-          <stage type="delivery">(Смотрит на старика. Василисе.)</stage>
+          <stage>(Смотрит на старика. Василисе.)</stage>
           <p>Ну? рада?</p>
-          <stage type="delivery">(Трогает труп ногой.)</stage>
+          <stage>(Трогает труп ногой.)</stage>
           <p>Околел... старый пес! По-твоему вышло... А... не прихлопнуть ли и тебя?</p>
-          <stage type="delivery">(Бросается на нее.)</stage>
+          <stage>(Бросается на нее.)</stage>
         </sp>
         <stage>Сатин и Кривой Зоб быстро хватают его. Василиса – скрывается в проулке.</stage>
         <sp who="#Satin">
@@ -4982,7 +4975,7 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(появляясь).</stage>
+          <stage>(появляясь).</stage>
           <p>Что, Вася, мил друг? От судьбы – не уйдешь... Полиция! Абрам... свисти!</p>
         </sp>
         <sp who="#Medvedev">
@@ -4992,12 +4985,12 @@
         <sp who="#Aleshka">
           <speaker>Алешка.</speaker>
           <p>Вот он!</p>
-          <stage type="delivery">(Свистит.)</stage>
+          <stage>(Свистит.)</stage>
         </sp>
         <stage>Медведев бежит за ним.</stage>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(отводя Пепла к Наташе).</stage>
+          <stage>(отводя Пепла к Наташе).</stage>
           <p>Васька – не трусь! Убийство в драке... пустяки! Это – недорого стоит...</p>
         </sp>
         <sp who="#Vasilisa">
@@ -5016,7 +5009,7 @@
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(вдруг громко).</stage>
+          <stage>(вдруг громко).</stage>
           <p>А-а... я поняла!.. Так, Василий?! Добрые люди! Они – заодно! Сестра моя и – он... они
             заодно! Они все это подстроили! Так, Василий?.. Ты... для того со мной давеча говорил...
             чтобы она все слышала? Люди добрые! Она – его любовница... вы – знаете... это – все
@@ -5057,13 +5050,13 @@
         </sp>
         <sp who="#Vasilisa">
           <speaker>Василиса</speaker>
-          <stage type="delivery">(в проулке).</stage>
+          <stage>(в проулке).</stage>
           <p>Убили мужа моего... ваше благородие... Васька Пепел, вор... он убил... господин
             пристав! Я – видела... все видели...</p>
         </sp>
         <sp who="#Natasha">
           <speaker>Наташа</speaker>
-          <stage type="delivery">(мечется почти в беспамятстве).</stage>
+          <stage>(мечется почти в беспамятстве).</stage>
           <p>Люди добрые... сестра моя и Васька убили! Полиция – слушай... вот эта, сестра моя,
             научила... уговорила... своего любовника... вот он, проклятый! – они убили! Берите их...
             судите... Возьмите и меня... в тюрьму меня! Христа ради... в тюрьму меня!..</p>
@@ -5096,7 +5089,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(пьет).</stage>
+          <stage>(пьет).</stage>
           <p>За ваше здоровье, леди!</p>
         </sp>
         <sp who="#Satin">
@@ -5109,12 +5102,12 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(смеясь).</stage>
+          <stage>(смеясь).</stage>
           <p>И вообще... для многих был... как мякиш для беззубых...</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(смеясь).</stage>
+          <stage>(смеясь).</stage>
           <p>Как пластырь для нарывов...</p>
         </sp>
         <sp who="#Klesch">
@@ -5131,7 +5124,7 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(садится на нарах и качает свою больную руку, как ребенка).</stage>
+          <stage>(садится на нарах и качает свою больную руку, как ребенка).</stage>
           <p>Старик хорош был... закон душе имел! Кто закон душа имеет – хорош! Кто закон терял –
             пропал!..</p>
         </sp>
@@ -5165,7 +5158,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(пробуя гармонию).</stage>
+          <stage>(пробуя гармонию).</stage>
           <p>Шипит, дьявол!.. А князь верно говорит... надо жить – по закону... по евангелию...</p>
         </sp>
         <sp who="#Satin">
@@ -5188,7 +5181,7 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(ударяет стаканом по столу).</stage>
+          <stage>(ударяет стаканом по столу).</stage>
           <p>И чего... зачем я живу здесь... с вами? Уйду... пойду куда-нибудь... на край света!</p>
         </sp>
         <sp who="#Baron">
@@ -5215,7 +5208,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(высовываясь из печи).</stage>
+          <stage>(высовываясь из печи).</stage>
           <p>Орга-ни-змо-в, дурак!</p>
         </sp>
         <sp who="#Satin">
@@ -5276,7 +5269,7 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(поднимая голову со стола, взмахивает руками).</stage>
+          <stage>(поднимая голову со стола, взмахивает руками).</stage>
           <p>Кричи! Пусть слушают!</p>
         </sp>
         <sp who="#Baron">
@@ -5313,9 +5306,9 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(ударяя кулаком по столу).</stage>
+          <stage>(ударяя кулаком по столу).</stage>
           <p>Молчать! Вы – все – скоты! Дубье... молчать о старике!</p>
-          <stage type="delivery">(Спокойнее.)</stage>
+          <stage>(Спокойнее.)</stage>
           <p>Ты, Барон, – всех хуже!.. Ты – ничего не понимаешь... и – врешь! Старик – не шарлатан!
             Что такое – правда? Человек – вот правда! Он это понимал... вы – нет! Вы – тупы, как
             кирпичи... Я – понимаю старика... да! Он врал... но – это из жалости к вам, черт вас
@@ -5338,10 +5331,10 @@
             подействовал на меня, как кислота на старую и грязную монету... Выпьем, за его здоровье!
             Наливай...</p>
           <stage>Настя наливает стакан пива и дает Сатину.</stage>
-          <stage type="delivery">(Усмехаясь.)</stage>
+          <stage>(Усмехаясь.)</stage>
           <p>Старик живет из себя... он на все смотрит своими глазами. Однажды я спросил его: «Дед!
             зачем живут люди?»...</p>
-          <stage type="delivery">(Стараясь говорить голосом Луки и подражая его манерам.)</stage>
+          <stage>(Стараясь говорить голосом Луки и подражая его манерам.)</stage>
           <p>«А – для лучшего люди-то живут, милачок! Вот, скажем, живут столяры и всё –
             хлам-народ... И вот от них рождается столяр... такой столяр, какого подобного и не
             видала земля, – всех превысил, и нет ему во столярах равного. Всему он столярному делу
@@ -5357,12 +5350,12 @@
             он родился-то на счастье нам... для большой нам пользы?.. Особливо же деток надо
             уважать... ребятишек! Ребятишкам – простор надобен! Деткам-то жить не мешайте... Деток
             уважьте!»</p>
-          <stage type="delivery">(Смеется тихо.)</stage>
+          <stage>(Смеется тихо.)</stage>
         </sp>
         <stage>Пауза.</stage>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(задумчиво).</stage>
+          <stage>(задумчиво).</stage>
           <p>Мм-да... для лучшего? Это... напоминает наше семейство... Старая фамилия... времен
             Екатерины... дворяне... вояки!.. выходцы из Франции... Служили, поднимались всё выше...
             При Николае Первом дед мой, Густав Дебиль... занимал высокий пост... богатство... сотни
@@ -5374,7 +5367,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(вскакивая).</stage>
+          <stage>(вскакивая).</stage>
           <p>Что-о? Н-ну... дальше?!</p>
         </sp>
         <sp who="#Nastja">
@@ -5383,7 +5376,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(кричит).</stage>
+          <stage>(кричит).</stage>
           <p>Дом в Москве! Дом в Петербурге! Кареты... кареты с гербами!</p>
         </sp>
         <stage>Клещ берет гармонию, встает и отходит в сторону, откуда наблюдает за сценой.</stage>
@@ -5397,7 +5390,7 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(с наслаждением).</stage>
+          <stage>(с наслаждением).</stage>
           <p>Н-не было!</p>
         </sp>
         <sp who="#Baron">
@@ -5406,7 +5399,7 @@
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(приготовляясь бежать).</stage>
+          <stage>(приготовляясь бежать).</stage>
           <p>Не было карет!</p>
         </sp>
         <sp who="#Satin">
@@ -5424,19 +5417,19 @@
         <stage>Сатин хохочет.</stage>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(усталый от гнева, садится на скамью).</stage>
+          <stage>(усталый от гнева, садится на скамью).</stage>
           <p>Сатин, скажи ей... шлюхе... ты – тоже смеешься? Ты... тоже – не веришь?</p>
-          <stage type="delivery">(Кричит с отчаяньем, ударяя кулаками по столу.)</stage>
+          <stage>(Кричит с отчаяньем, ударяя кулаками по столу.)</stage>
           <p>Было, черт вас возьми!</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(торжествуя).</stage>
+          <stage>(торжествуя).</stage>
           <p>А-а, взвыл? Понял, каково человеку, когда ему не верят?</p>
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(возвращаясь к столу).</stage>
+          <stage>(возвращаясь к столу).</stage>
           <p>Я думал – драка будет...</p>
         </sp>
         <sp who="#Tatarin">
@@ -5467,7 +5460,7 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(успокаиваясь).</stage>
+          <stage>(успокаиваясь).</stage>
           <p>Черт тебя возьми... ты... умеешь рассуждать спокойно... А у меня... кажется, нет
             характера...</p>
         </sp>
@@ -5512,7 +5505,7 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(удивленно).</stage>
+          <stage>(удивленно).</stage>
           <p>Что ты? Свесилась?</p>
         </sp>
         <sp who="#Baron">
@@ -5530,13 +5523,13 @@
         <sp who="#Satin">
           <speaker>Сатин.</speaker>
           <p>Брось! Не тронь... не обижай человека! У меня из головы вон не идет... этот старик!</p>
-          <stage type="delivery">(Хохочет.)</stage>
+          <stage>(Хохочет.)</stage>
           <p>Не обижай человека!.. А если меня однажды обидели и – на всю жизнь сразу! Как быть?
             Простить? Ничего. Никому...</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(Насте).</stage>
+          <stage>(Насте).</stage>
           <p>Ты должна понимать, что я – не чета тебе! Ты... мразь!</p>
         </sp>
         <sp who="#Nastja">
@@ -5558,13 +5551,13 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(мрачно).</stage>
+          <stage>(мрачно).</stage>
           <p>Катай их!</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя.</speaker>
           <p>Кабы я... могла! я бы вас</p>
-          <stage type="delivery">(берет со стола чашку и бросает на пол)</stage>
+          <stage>(берет со стола чашку и бросает на пол)</stage>
           <p>– вот как!</p>
         </sp>
         <sp who="#Tatarin">
@@ -5573,17 +5566,17 @@
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(вставая).</stage>
+          <stage>(вставая).</stage>
           <p>Нет, я ее сейчас... научу манерам!</p>
         </sp>
         <sp who="#Nastja">
           <speaker>Настя</speaker>
-          <stage type="delivery">(убегая).</stage>
+          <stage>(убегая).</stage>
           <p>Черт вас возьми!</p>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(вслед ей).</stage>
+          <stage>(вслед ей).</stage>
           <p>Эй! Полно! Кого ты пугаешь? В чем дело, наконец?</p>
         </sp>
         <sp who="#Nastja">
@@ -5592,7 +5585,7 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(мрачно).</stage>
+          <stage>(мрачно).</stage>
           <p>Аминь!</p>
         </sp>
         <sp who="#Tatarin">
@@ -5610,7 +5603,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(пробуя гармонию).</stage>
+          <stage>(пробуя гармонию).</stage>
           <p>Готова! А хозяина ее – все нет... Горит парнишка...</p>
         </sp>
         <sp who="#Satin">
@@ -5627,20 +5620,20 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(выпив, отходит в угол к нарам).</stage>
+          <stage>(выпив, отходит в угол к нарам).</stage>
           <p>Ничего... Везде – люди... Сначала – не видишь этого... потом – поглядишь, окажется, все
             люди... ничего!</p>
         </sp>
         <stage>Татарин расстилает что-то на нарах, становится на колени и – молится.</stage>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(указывая Сатину на Татарина).</stage>
+          <stage>(указывая Сатину на Татарина).</stage>
           <p>Гляди!</p>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин.</speaker>
           <p>Оставь! Он – хороший парень... не мешай!</p>
-          <stage type="delivery">(Хохочет.)</stage>
+          <stage>(Хохочет.)</stage>
           <p>Я сегодня – добрый... черт знает почему!..</p>
         </sp>
         <sp who="#Baron">
@@ -5654,31 +5647,31 @@
             неверие, за любовь, за ум – человек за все платит сам, и потому он – свободен!.. Человек
             – вот правда! Что такое человек?.. Это не ты, не я, не они... нет! – это ты, я, они,
             старик, Наполеон, Магомет... в одном!</p>
-          <stage type="delivery">(Очерчивает пальцем в воздухе фигуру человека.)</stage>
+          <stage>(Очерчивает пальцем в воздухе фигуру человека.)</stage>
           <p>Понимаешь? Это – огромно! В этом – все начала и концы... Всё – в человеке, всё для
             человека! Существует только человек, все же остальное – дело его рук и его мозга!
             Чело-век! Это – великолепно! Это звучит... гордо! Че-ло-век! Надо уважать человека! Не
             жалеть... не унижать его жалостью... уважать надо! Выпьем за человека, Барон!</p>
-          <stage type="delivery">(Встает.)</stage>
+          <stage>(Встает.)</stage>
           <p>Хорошо это... чувствовать себя человеком!.. Я – арестант, убийца, шулер... ну, да!
             Когда я иду по улице, люди смотрят на меня как на жулика... и сторонятся и
             оглядываются... и часто говорят мне – «Мерзавец! Шарлатан! Работай!» Работать? Для чего?
             Чтобы быть сытым?</p>
-          <stage type="delivery">(Хохочет.)</stage>
+          <stage>(Хохочет.)</stage>
           <p>Я всегда презирал людей, которые слишком заботятся о том, чтобы быть сытыми... Не в
             этом дело, Барон! Не в этом дело! Человек – выше! Человек – выше сытости!..</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(качая головой).</stage>
+          <stage>(качая головой).</stage>
           <p>Ты – рассуждаешь... Это – хорошо... это, должно быть, греет сердце... У меня – нет
             этого... я – не умею!</p>
-          <stage type="delivery">(Оглядывается и – тихо, осторожно.)</stage>
+          <stage>(Оглядывается и – тихо, осторожно.)</stage>
           <p>Я, брат, боюсь... иногда. Понимаешь? Трушу... Потому – что же дальше?</p>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(уходит).</stage>
+          <stage>(уходит).</stage>
           <p>Пустяки! Кого бояться человеку?</p>
         </sp>
         <sp who="#Baron">
@@ -5702,15 +5695,15 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(смеясь).</stage>
+          <stage>(смеясь).</stage>
           <p>Вероятно... Человек рождается для лучшего!</p>
-          <stage type="delivery">(Кивая головой.)</stage>
+          <stage>(Кивая головой.)</stage>
           <p>Так... хорошо!</p>
         </sp>
         <sp who="#Baron">
           <speaker>Барон.</speaker>
           <p>Эта... Настька!.. Убежала... куда? Пойду, посмотрю... где она? Все-таки... она...</p>
-          <stage type="delivery">(Уходит.)</stage>
+          <stage>(Уходит.)</stage>
         </sp>
         <stage>Пауза.</stage>
         <sp who="#Akter">
@@ -5727,24 +5720,24 @@
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(тише).</stage>
+          <stage>(тише).</stage>
           <p>Помолись... за меня!..</p>
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(помолчав).</stage>
+          <stage>(помолчав).</stage>
           <p>Сам молись...</p>
         </sp>
         <sp who="#Akter">
           <speaker>Актер</speaker>
-          <stage type="delivery">(быстро слезает с печи, подходит к столу, дрожащей рукой наливает
-            водки, пьет и – почти бежит – в сени).</stage>
+          <stage>(быстро слезает с печи, подходит к столу, дрожащей рукой наливает водки, пьет и –
+            почти бежит – в сени).</stage>
           <p>Ушел!</p>
         </sp>
         <sp who="#Satin">
           <speaker>Сатин.</speaker>
           <p>Эй ты, сикамбр! Куда?</p>
-          <stage type="delivery">(Свистит.)</stage>
+          <stage>(Свистит.)</stage>
         </sp>
         <stage>Входят – Медведев в женской ватной кофте и Бубнов; оба – выпивши, но не очень. В
           одной руке Бубнова – связка кренделей, в другой – несколько штук воблы, под мышкой –
@@ -5763,7 +5756,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(Сатину).</stage>
+          <stage>(Сатину).</stage>
           <p>Друг! Я тебя искал по всем трактирам-кабакам! Возьми бутылку, у меня все руки
             заняты!</p>
         </sp>
@@ -5795,7 +5788,7 @@
         </sp>
         <sp who="#Klesch">
           <speaker>Клещ</speaker>
-          <stage type="delivery">(подходя к столу).</stage>
+          <stage>(подходя к столу).</stage>
           <p>Нет его...</p>
         </sp>
         <sp who="#Bubnov">
@@ -5829,7 +5822,7 @@
         </sp>
         <sp who="#Aleshka">
           <speaker>Алешка</speaker>
-          <stage type="delivery">(входит босый).</stage>
+          <stage>(входит босый).</stage>
           <p>Братцы! Я ноги промочил!</p>
         </sp>
         <sp who="#Bubnov">
@@ -5840,7 +5833,7 @@
         <sp who="#Aleshka">
           <speaker>Алешка.</speaker>
           <p>По тебе вижу! Ты – только пьяный и похож на человека... Клещ! Гармошку – починил?</p>
-          <stage type="delivery">(Поет, приплясывая.)</stage>
+          <stage>(Поет, приплясывая.)</stage>
           <lg>
             <l>Эх, кабы мое рыло</l>
             <l>Не красиво было –</l>
@@ -5868,7 +5861,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(гордо).</stage>
+          <stage>(гордо).</stage>
           <p>Врешь! Она – не помирает, она у меня без вести пропала!</p>
         </sp>
         <stage>Сатин хохочет.</stage>
@@ -5911,7 +5904,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(идя к нему).</stage>
+          <stage>(идя к нему).</stage>
           <p>Князь! Что – рука? Отрезали тебе руку?</p>
         </sp>
         <sp who="#Tatarin">
@@ -5927,7 +5920,7 @@
         </sp>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(входит).</stage>
+          <stage>(входит).</stage>
           <p>Ах, жители вы мои милые! На дворе-то, на дворе-то! Холод, слякоть... Бутошник мой
             здесь? Бутарь!</p>
         </sp>
@@ -5949,7 +5942,7 @@
         </sp>
         <sp who="#Medvedev">
           <speaker>Медведев</speaker>
-          <stage type="delivery">(уходит в кухню).</stage>
+          <stage>(уходит в кухню).</stage>
           <p>Спать – я могу... я хочу... пора!</p>
         </sp>
         <sp who="#Satin">
@@ -5973,7 +5966,7 @@
         </sp>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(хохочет).</stage>
+          <stage>(хохочет).</stage>
           <p>Это верно, хозяйка! Проиграю...</p>
         </sp>
         <sp who="#Kvashnja">
@@ -6004,7 +5997,7 @@
         </sp>
         <sp who="#Kvashnja">
           <speaker>Квашня</speaker>
-          <stage type="delivery">(смеясь).</stage>
+          <stage>(смеясь).</stage>
           <p>Дурак! А ты – будто не видишь. Зачем сор из избы выносить?.. И, опять же, обидно ему...
             Он от твоего разговору пить начал...</p>
         </sp>
@@ -6023,7 +6016,7 @@
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(около нар Татарина).</stage>
+          <stage>(около нар Татарина).</stage>
           <p>Идет! Все равно – спать не дадим! Петь будем... всю ночь! Зоб!</p>
         </sp>
         <sp who="#KrivojZob">
@@ -6040,7 +6033,7 @@
         </sp>
         <sp who="#Tatarin">
           <speaker>Татарин</speaker>
-          <stage type="delivery">(улыбаясь).</stage>
+          <stage>(улыбаясь).</stage>
           <p>Ну, шайтан Бубна... подноси вина! Пить будим, гулять будим, смерть пришол – помирать
             будим!</p>
         </sp>
@@ -6051,14 +6044,14 @@
         </sp>
         <sp who="#KrivojZob">
           <speaker>Кривой Зоб</speaker>
-          <stage type="delivery">(запевает).</stage>
+          <stage>(запевает).</stage>
           <lg>
             <l>Со-олнце всходит и захо-оди-ит...</l>
           </lg>
         </sp>
         <sp who="#Bubnov">
           <speaker>Бубнов</speaker>
-          <stage type="delivery">(подхватывая).</stage>
+          <stage>(подхватывая).</stage>
           <lg>
             <l>А а в тюрьме моей темно-о!</l>
           </lg>
@@ -6066,14 +6059,14 @@
         <stage>Дверь быстро отворяется.</stage>
         <sp who="#Baron">
           <speaker>Барон</speaker>
-          <stage type="delivery">(стоя на пороге, кричит).</stage>
+          <stage>(стоя на пороге, кричит).</stage>
           <p>Эй... вы! Иди... идите сюда! На пустыре... там... Актер... удавился!</p>
         </sp>
         <stage>Молчание. Все смотрят на Барона. Из-за его спины появляется Настя и медленно, широко
           раскрыв глаза, идет к столу.</stage>
         <sp who="#Satin">
           <speaker>Сатин</speaker>
-          <stage type="delivery">(негромко).</stage>
+          <stage>(негромко).</stage>
           <p>Эх... испортил песню... дур-рак!</p>
         </sp>
         <stage>Занавес</stage>
