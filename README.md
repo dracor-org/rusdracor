@@ -1,8 +1,8 @@
 # RusDraCor
 
 We are building a Russian Drama Corpus with files encoded in
-[TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises **88 plays**
-so far (March 2018), stemming from [ilibrary](http://ilibrary.ru/),
+[TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises **89 plays**
+so far (April 2018), stemming from [ilibrary](http://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/), [РВБ](http://rvb.ru/) and
 [lib.ru](http://lib.ru/), converted into TEI and corrected by us. There will be
 more.
