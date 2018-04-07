@@ -103,10 +103,10 @@
             <persName>2-я гостья</persName>
             <persName xml:lang="de">Zweite alte Dame</persName>
           </person>
-          <person xml:id="Devushki" sex="FEMALE">
-            <persName>Девушки</persName>
-            <persName xml:lang="de">Die Mädchen</persName>
-          </person>
+          <personGrp xml:id="Devushki" sex="FEMALE">
+            <name>Девушки</name>
+            <name xml:lang="de">Die Mädchen</name>
+          </personGrp>
           <person xml:id="Starik" sex="MALE">
             <persName>Старик</persName>
             <persName xml:lang="de">Ein alter Mann</persName>
