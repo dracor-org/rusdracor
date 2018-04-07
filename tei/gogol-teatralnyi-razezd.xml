@@ -307,10 +307,10 @@
             <persName>Голос из толпы</persName>
             <persName xml:lang="de">Stimme aus der Menge</persName>
           </person>
-          <person xml:id="RaznyeGolosa" sex="UNKNOWN">
-            <persName>Разные голоса</persName>
-            <persName xml:lang="de">Verschiedene Stimmen</persName>
-          </person>
+          <personGrp xml:id="RaznyeGolosa" sex="UNKNOWN">
+            <name>Разные голоса</name>
+            <name xml:lang="de">Verschiedene Stimmen</name>
+          </personGrp>
           <person xml:id="GolosVOdnomKontseTolpy" sex="UNKNOWN">
             <persName>Голос в одном конце толпы</persName>
             <persName xml:lang="de">Stimme an einem Ende der Menge</persName>
@@ -466,6 +466,7 @@
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-05">double-checked segmentation; particDesc in order of
           appearance; added German translations to character names in particDesc</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

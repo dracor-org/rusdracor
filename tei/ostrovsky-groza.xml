@@ -92,9 +92,9 @@
           <person xml:id="OdinIzNaroda" sex="MALE">
             <persName>Один из народа (Действие пятое)</persName>
           </person>
-          <person xml:id="NeskolkoGolosov" sex="UNKNOWN">
-            <persName>Несколько голосов (Действие пятое)</persName>
-          </person>
+          <personGrp xml:id="NeskolkoGolosov" sex="UNKNOWN">
+            <name>Несколько голосов (Действие пятое)</name>
+          </personGrp>
           <person xml:id="Drugoj" sex="MALE">
             <persName>Другой из народа (Действие пятое)</persName>
           </person>
@@ -131,6 +131,7 @@
         <change who="#ds" when="2017-06-07">inserted missing scene divs (явления)</change>
         <change who="#ff" when="2017-06-09">particDesc in order of appearance; minor
           formalities</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

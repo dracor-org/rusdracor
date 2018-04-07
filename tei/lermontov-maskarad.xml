@@ -80,10 +80,10 @@
             <persName>Казарин</persName>
             <persName xml:lang="de">Kazarin</persName>
           </person>
-          <person xml:id="Igroki_VyhodVtoroj" sex="MALE">
-            <persName>Игроки</persName>
-            <persName xml:lang="de">Spieler</persName>
-          </person>
+          <personGrp xml:id="Igroki_VyhodVtoroj" sex="MALE">
+            <name>Игроки</name>
+            <name xml:lang="de">Spieler</name>
+          </personGrp>
           <person xml:id="PervyjjPonter_VyhodVtoroj" sex="MALE">
             <persName>1-й понтер (Выход второй)</persName>
             <persName xml:lang="de">Erster Spieler (2. Auftritt)</persName>
@@ -169,10 +169,10 @@
             <persName>2-й гость (Бал)</persName>
             <persName xml:lang="de">Zweiter Gast (Ball)</persName>
           </person>
-          <person xml:id="Mnogie" sex="UNKNOWN">
-            <persName>Многие</persName>
-            <persName xml:lang="de">Mehrere</persName>
-          </person>
+          <personGrp xml:id="Mnogie" sex="UNKNOWN">
+            <name>Многие</name>
+            <name xml:lang="de">Mehrere</name>
+          </personGrp>
           <person xml:id="Dama_Bal" sex="FEMALE">
             <persName>Дама (Бал)</persName>
             <persName xml:lang="de">Eine Dame (Ball)</persName>
@@ -251,6 +251,7 @@
         <change who="#ff" when="2017-11-26">rectify IDs</change>
         <change who="#ff" when="2017-11-27">correct another ID</change>
         <change who="#ff" when="2018-03-21">add some missing text</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

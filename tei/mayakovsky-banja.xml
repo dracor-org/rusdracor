@@ -116,9 +116,9 @@
           <person xml:id="Rezhisser" sex="MALE">
             <persName>Режиссер</persName>
           </person>
-          <person xml:id="Golosa" sex="UNKNOWN">
-            <persName>Голоса</persName>
-          </person>
+          <personGrp xml:id="Golosa" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -138,6 +138,7 @@
           appropriate place</change>
         <change who="#ff" when="2017-06-25">added scene segmentation for all 6 acts; added missing
           verse lines; removed unnecessary whitespaces</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -63,10 +63,10 @@
             <persName>Третий (Красная площадь)</persName>
             <persName xml:lang="de">Ein Dritter (Roter Platz)</persName>
           </person>
-          <person xml:id="narod" sex="UNKNOWN">
-            <persName>Народ</persName>
-            <persName xml:lang="de">Volk</persName>
-          </person>
+          <personGrp xml:id="narod" sex="UNKNOWN">
+            <name>Народ</name>
+            <name xml:lang="de">Volk</name>
+          </personGrp>
           <person xml:id="schelkalov" sex="MALE">
             <persName>Щелкалов</persName>
             <persName xml:lang="de">Ŝelkalov</persName>
@@ -75,10 +75,10 @@
             <persName>Борис</persName>
             <persName xml:lang="de">Boris</persName>
           </person>
-          <person xml:id="bojare" sex="MALE">
-            <persName>Бояре</persName>
-            <persName xml:lang="de">Bojaren</persName>
-          </person>
+          <personGrp xml:id="bojare" sex="MALE">
+            <name>Бояре</name>
+            <name xml:lang="de">Bojaren</name>
+          </personGrp>
           <person xml:id="pimen" sex="MALE">
             <persName>Пимен</persName>
             <persName xml:lang="de">Vater Pimen</persName>
@@ -219,10 +219,10 @@
             <persName>Другой боярин</persName>
             <persName xml:lang="de">Der andere Bojar</persName>
           </person>
-          <person xml:id="voiny" sex="MALE">
-            <persName>Воины</persName>
-            <persName xml:lang="de">Soldaten</persName>
-          </person>
+          <personGrp xml:id="voiny" sex="MALE">
+            <name>Воины</name>
+            <name xml:lang="de">Soldaten</name>
+          </personGrp>
           <person xml:id="marzheret" sex="FEMALE">
             <persName>Маржерет</persName>
             <persName xml:lang="de">Maržeret</persName>
@@ -239,14 +239,14 @@
             <persName>В. Розен</persName>
             <persName xml:lang="de">V. Rozen</persName>
           </person>
-          <person xml:id="nemtsy" sex="MALE">
-            <persName>Немцы</persName>
-            <persName xml:lang="de">Die Deutschen</persName>
-          </person>
-          <person xml:id="ljahi" sex="MALE">
-            <persName>Ляхи</persName>
-            <persName xml:lang="de">Die Ljachen</persName>
-          </person>
+          <personGrp xml:id="nemtsy" sex="MALE">
+            <name>Немцы</name>
+            <name xml:lang="de">Die Deutschen</name>
+          </personGrp>
+          <personGrp xml:id="ljahi" sex="MALE">
+            <name>Ляхи</name>
+            <name xml:lang="de">Die Ljachen</name>
+          </personGrp>
           <person xml:id="odin_iz_naroda_2" sex="MALE">
             <persName>Один из народа (Площадь перед собором в Москве)</persName>
             <persName xml:lang="de">Einer aus dem Volk (Platz vor der Kathedrale in
@@ -267,10 +267,10 @@
             <persName xml:lang="de">Ein Vierter aus dem Volk (Platz vor der Kathedrale in
               Moskau)</persName>
           </person>
-          <person xml:id="malchishki" sex="MALE">
-            <persName>Мальчишки</persName>
-            <persName xml:lang="de">Die Kinder</persName>
-          </person>
+          <personGrp xml:id="malchishki" sex="MALE">
+            <name>Мальчишки</name>
+            <name xml:lang="de">Die Kinder</name>
+          </personGrp>
           <person xml:id="staruha" sex="FEMALE">
             <persName>Старуха</persName>
             <persName xml:lang="de">Altes Weib</persName>
@@ -387,6 +387,7 @@
           9</change>
         <change who="#ff" when="2018-04-02">lowercase IDs; text update according to upstream
           source</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -63,9 +63,9 @@
           <person xml:id="TretijJunosha" sex="MALE">
             <persName>Третий юноша</persName>
           </person>
-          <person xml:id="Ohotnitsy" sex="FEMALE">
-            <persName>Голоса охотниц</persName>
-          </person>
+          <personGrp xml:id="Ohotnitsy" sex="FEMALE">
+            <name>Голоса охотниц</name>
+          </personGrp>
           <person xml:id="Krokale" sex="FEMALE">
             <persName>Крокале</persName>
           </person>
@@ -102,6 +102,7 @@
         <change who="#to" when="2017-04-26">correct IDs</change>
         <change who="#ff" when="2017-06-07">add missing stage directions; scene
           segmentation</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

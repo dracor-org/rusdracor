@@ -46,9 +46,6 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Zarnitskij" sex="MALE">
-            <persName>Зарницкий</persName>
-          </person>
           <person xml:id="Dashenka" sex="FEMALE">
             <persName>Дашенька</persName>
           </person>
@@ -526,7 +523,7 @@
           <l>2 Mon cher - мой дорогой (фр.). - Ред.</l>
           <l>3 Mon frer - мой брат (фр.). - Ред.}</l>
         </sp>
-        <sp who="#Zarnitskij">
+        <sp who="#Zarnitskin">
           <speaker>Зарницкий</speaker>
           <l>Ах! вашу братию в одной Москве найдешь.</l>
         </sp>

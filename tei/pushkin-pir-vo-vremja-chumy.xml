@@ -57,9 +57,9 @@
           <person xml:id="Luiza" sex="FEMALE">
             <persName>Луиза</persName>
           </person>
-          <person xml:id="Mnogie" sex="UNKNOWN">
-            <persName>Многие</persName>
-          </person>
+          <personGrp xml:id="Mnogie" sex="UNKNOWN">
+            <name>Многие</name>
+          </personGrp>
           <person xml:id="Svjaschennik" sex="MALE">
             <persName>Священник</persName>
           </person>
@@ -83,6 +83,7 @@
           formatted front page; configuration changes</change>
         <change who="#ff" when="2017-06-26">connected continued verses with part attribute;
           formatted front page; configuration changes</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

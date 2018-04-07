@@ -105,10 +105,10 @@
             <persName>Паяц</persName>
             <persName xml:lang="de">Bajazzo</persName>
           </person>
-          <person xml:id="Hor" sex="UNKNOWN">
-            <persName>Хор</persName>
-            <persName xml:lang="de">Chor</persName>
-          </person>
+          <personGrp xml:id="Hor" sex="UNKNOWN">
+            <name>Хор</name>
+            <name xml:lang="de">Chor</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -129,6 +129,7 @@
         <change who="#ff" when="2017-07-08">connected lines via 'part' attribute; alphabetically
           sorted 'particDesc'; less strict segmentation (only three segments now: 1. conversation
           with the mystics; 2. the ball; 3. the end)</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

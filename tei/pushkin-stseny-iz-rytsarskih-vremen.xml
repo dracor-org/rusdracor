@@ -68,15 +68,15 @@
           <person xml:id="Karl" sex="MALE">
             <persName>Карл</persName>
           </person>
-          <person xml:id="Kosari" sex="MALE">
-            <persName>Косари</persName>
-          </person>
-          <person xml:id="Rytsari" sex="MALE">
-            <persName>Рыцари</persName>
-          </person>
-          <person xml:id="Vassaly" sex="MALE">
-            <persName>Вассалы</persName>
-          </person>
+          <personGrp xml:id="Kosari" sex="MALE">
+            <name>Косари</name>
+          </personGrp>
+          <personGrp xml:id="Rytsari" sex="MALE">
+            <name>Рыцари</name>
+          </personGrp>
+          <personGrp xml:id="Vassaly" sex="MALE">
+            <name>Вассалы</name>
+          </personGrp>
           <person xml:id="OdinRytsar" sex="MALE">
             <persName>Один рыцарь</persName>
           </person>
@@ -129,6 +129,7 @@
         <change who="#GG" when="2017-06-03">gender info</change>
         <change who="#ff" when="2017-12-03">formalities; delete duplicate of poem; work on
           IDs</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

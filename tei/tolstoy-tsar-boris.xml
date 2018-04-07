@@ -84,10 +84,10 @@
             <persName>Гермерс</persName>
             <persName xml:lang="de">Germers</persName>
           </person>
-          <person xml:id="prochie" sex="UNKNOWN">
-            <persName>Прочие</persName>
-            <persName xml:lang="de">Gefolge</persName>
-          </person>
+          <personGrp xml:id="prochie" sex="UNKNOWN">
+            <name>Прочие</name>
+            <name xml:lang="de">Gefolge</name>
+          </personGrp>
           <person xml:id="semen_godunov" sex="MALE">
             <persName>Семен Годунов</persName>
             <persName xml:lang="de">Semen Godunov</persName>
@@ -104,10 +104,10 @@
             <persName>Архимандрит Кирилл</persName>
             <persName xml:lang="de">Archimandrit Kirill</persName>
           </person>
-          <person xml:id="bojare" sex="MALE">
-            <persName>Бояре</persName>
-            <persName xml:lang="de">Bojaren</persName>
-          </person>
+          <personGrp xml:id="bojare" sex="MALE">
+            <name>Бояре</name>
+            <name xml:lang="de">Bojaren</name>
+          </personGrp>
           <person xml:id="tsaritsa_marija" sex="FEMALE">
             <persName>Царица Мария Григорьевна</persName>
             <persName xml:lang="de">Zariza Mariâ</persName>
@@ -116,22 +116,22 @@
             <persName>Царевна Ксения</persName>
             <persName xml:lang="de">Zarewna Kseniâ</persName>
           </person>
-          <person xml:id="golosa_1-1" sex="UNKNOWN">
-            <persName>Голоса</persName>
-            <persName xml:lang="de">Stimmen (I/1)</persName>
-          </person>
+          <personGrp xml:id="golosa_1-1" sex="UNKNOWN">
+            <name>Голоса</name>
+            <name xml:lang="de">Stimmen (I/1)</name>
+          </personGrp>
           <person xml:id="streletskij_golova" sex="MALE">
             <persName>Стрелецкий голова</persName>
             <persName xml:lang="de">Schützenhauptmann</persName>
           </person>
-          <person xml:id="narod_1-1" sex="UNKNOWN">
-            <persName>Народ (I/1)</persName>
-            <persName xml:lang="de">Volk (I/1)</persName>
-          </person>
-          <person xml:id="nischie" sex="MALE">
-            <persName>Нищие</persName>
-            <persName xml:lang="de">Bettler</persName>
-          </person>
+          <personGrp xml:id="narod_1-1" sex="UNKNOWN">
+            <name>Народ (I/1)</name>
+            <name xml:lang="de">Volk (I/1)</name>
+          </personGrp>
+          <personGrp xml:id="nischie" sex="MALE">
+            <name>Нищие</name>
+            <name xml:lang="de">Bettler</name>
+          </personGrp>
           <person xml:id="kriloshanka" sex="FEMALE">
             <persName>Крилошанка</persName>
             <persName xml:lang="de">Klosterfrau</persName>
@@ -180,14 +180,14 @@
             <persName>Наковальня</persName>
             <persName xml:lang="de">Nakovalʹnâ</persName>
           </person>
-          <person xml:id="golosa_2-3" sex="UNKNOWN">
-            <persName>Голоса</persName>
-            <persName xml:lang="de">Stimmen (II/3)</persName>
-          </person>
-          <person xml:id="krestjane" sex="UNKNOWN">
-            <persName>Крестьяне</persName>
-            <persName xml:lang="de">Bauern</persName>
-          </person>
+          <personGrp xml:id="golosa_2-3" sex="UNKNOWN">
+            <name>Голоса</name>
+            <name xml:lang="de">Stimmen (II/3)</name>
+          </personGrp>
+          <personGrp xml:id="krestjane" sex="UNKNOWN">
+            <name>Крестьяне</name>
+            <name xml:lang="de">Bauern</name>
+          </personGrp>
           <person xml:id="odin_krestjanin" sex="MALE">
             <persName>Один крестьянин</persName>
             <persName xml:lang="de">Einer der Bauern</persName>
@@ -200,10 +200,10 @@
             <persName>Посадский</persName>
             <persName xml:lang="de">Ein Fremder</persName>
           </person>
-          <person xml:id="razbojniki" sex="MALE">
-            <persName>Разбойники</persName>
-            <persName xml:lang="de">Die Räuber</persName>
-          </person>
+          <personGrp xml:id="razbojniki" sex="MALE">
+            <name>Разбойники</name>
+            <name xml:lang="de">Die Räuber</name>
+          </personGrp>
           <person xml:id="odin_razbojnik_2-3a" sex="MALE">
             <persName>Один разбойник</persName>
             <persName xml:lang="de">Ein Räuber</persName>
@@ -220,10 +220,10 @@
             <persName>Григорий Отрепьев</persName>
             <persName xml:lang="de">Grigorij Otrepʹev</persName>
           </person>
-          <person xml:id="kriki" sex="UNKNOWN">
-            <persName>Крики</persName>
-            <persName xml:lang="de">Rufe</persName>
-          </person>
+          <personGrp xml:id="kriki" sex="UNKNOWN">
+            <name>Крики</name>
+            <name xml:lang="de">Rufe</name>
+          </personGrp>
           <person xml:id="odin_razbojnik_2-3b" sex="MALE">
             <persName>Один разбойник</persName>
             <persName xml:lang="de">Ein Räuber</persName>
@@ -332,10 +332,10 @@
             <persName>Купец</persName>
             <persName xml:lang="de">Kaufmann</persName>
           </person>
-          <person xml:id="posadskie" sex="MALE">
-            <persName>Посадские</persName>
-            <persName xml:lang="de">Bürger</persName>
-          </person>
+          <personGrp xml:id="posadskie" sex="MALE">
+            <name>Посадские</name>
+            <name xml:lang="de">Bürger</name>
+          </personGrp>
           <person xml:id="narod_4-1" sex="UNKNOWN">
             <persName>Народ (IV/1)</persName>
             <persName xml:lang="de">Volk (IV/1)</persName>
@@ -424,10 +424,10 @@
             <persName>Петр Федорович Басманов</persName>
             <persName xml:lang="de">Petr Fedorovič Basmanov</persName>
           </person>
-          <person xml:id="vse_5-3" sex="UNKNOWN">
-            <persName>Все (V/3)</persName>
-            <persName xml:lang="de">Alle (V/3)</persName>
-          </person>
+          <personGrp xml:id="vse_5-3" sex="UNKNOWN">
+            <name>Все (V/3)</name>
+            <name xml:lang="de">Alle (V/3)</name>
+          </personGrp>
           <person xml:id="odin_bojarin_5-3a" sex="MALE">
             <persName>Один боярин</persName>
             <persName xml:lang="de">Ein Bojar</persName>
@@ -436,10 +436,10 @@
             <persName>Другой боярин</persName>
             <persName xml:lang="de">Ein zweiter Bojar</persName>
           </person>
-          <person xml:id="golosa_5-3" sex="UNKNOWN">
-            <persName>Голоса</persName>
-            <persName xml:lang="de">Stimmen (V/3)</persName>
-          </person>
+          <personGrp xml:id="golosa_5-3" sex="UNKNOWN">
+            <name>Голоса</name>
+            <name xml:lang="de">Stimmen (V/3)</name>
+          </personGrp>
           <person xml:id="odin_bojarin_5-3b" sex="MALE">
             <persName>Один боярин</persName>
             <persName xml:lang="de">Ein Bojar</persName>
@@ -448,10 +448,10 @@
             <persName>Другой боярин</persName>
             <persName xml:lang="de">Zweiter Bojar</persName>
           </person>
-          <person xml:id="neskolko_golosov" sex="UNKNOWN">
-            <persName>Несколько голосов</persName>
-            <persName xml:lang="de">Einige Stimmen</persName>
-          </person>
+          <personGrp xml:id="neskolko_golosov" sex="UNKNOWN">
+            <name>Несколько голосов</name>
+            <name xml:lang="de">Einige Stimmen</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -465,6 +465,7 @@
         <change who="#MatveyKolbasov" when="2017-11-27">convert from source</change>
         <change who="#ff" when="2018-01-27">formalities; work on IDs; character names in DE/ISO 9;
           add gender info</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

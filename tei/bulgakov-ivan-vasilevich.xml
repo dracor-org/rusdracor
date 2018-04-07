@@ -87,10 +87,10 @@
             <persName>Якин</persName>
             <persName xml:lang="de">Âkin</persName>
           </person>
-          <person xml:id="oprichniki" sex="MALE">
-            <persName>Опричники</persName>
-            <persName xml:lang="de">Leibwächter</persName>
-          </person>
+          <personGrp xml:id="oprichniki" sex="MALE">
+            <name>Опричники</name>
+            <name xml:lang="de">Leibwächter</name>
+          </personGrp>
           <person xml:id="posol" sex="MALE">
             <persName>Шведский посол</persName>
             <persName xml:lang="de">Schwedischer Gesandter</persName>
@@ -103,10 +103,10 @@
             <persName>Царица</persName>
             <persName xml:lang="de">Zarin</persName>
           </person>
-          <person xml:id="gusljary" sex="MALE">
-            <persName>Гусляры</persName>
-            <persName xml:lang="de">Guslispieler</persName>
-          </person>
+          <personGrp xml:id="gusljary" sex="MALE">
+            <name>Гусляры</name>
+            <name xml:lang="de">Guslispieler</name>
+          </personGrp>
           <person xml:id="militsija" sex="MALE">
             <persName>Милиция</persName>
             <persName xml:lang="de">Milizionär</persName>
@@ -122,6 +122,7 @@
     <revisionDesc>
       <listChange>
         <change who="#ff" when="2018-02-18">convert from source</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

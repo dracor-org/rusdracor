@@ -74,9 +74,9 @@
           <person xml:id="drugoj_golos" sex="UNKNOWN">
             <persName>Другой голос</persName>
           </person>
-          <person xml:id="golosa_devok" sex="FEMALE">
-            <persName>Голоса девок</persName>
-          </person>
+          <personGrp xml:id="golosa_devok" sex="FEMALE">
+            <name>Голоса девок</name>
+          </personGrp>
           <person xml:id="olga" sex="FEMALE">
             <persName>Ольга</persName>
           </person>
@@ -106,6 +106,7 @@
         <change who="#to" when="2017-06-03">add gender info</change>
         <change who="#ff" when="2018-04-01">lowercase IDs; revision according to source; delete
           translations from French</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -99,9 +99,9 @@
           <person xml:id="Gafiz" sex="MALE">
             <persName>Гафиз</persName>
           </person>
-          <person xml:id="Ptitsy" sex="UNKNOWN">
-            <persName>Птицы</persName>
-          </person>
+          <personGrp xml:id="Ptitsy" sex="UNKNOWN">
+            <name>Птицы</name>
+          </personGrp>
           <person xml:id="Angel" sex="UNKNOWN">
             <persName>Ангел</persName>
           </person>
@@ -118,6 +118,7 @@
         <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
         <change who="#ff" when="2017-04-14">establish well-formedness</change>
         <change who="#ff" when="2017-07-07">connect lines via 'part' attribute</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

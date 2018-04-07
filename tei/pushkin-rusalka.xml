@@ -57,15 +57,15 @@
           <person xml:id="Svat" sex="MALE">
             <persName>Сват</persName>
           </person>
-          <person xml:id="Hor" sex="FEMALE">
-            <persName>Хор</persName>
-          </person>
+          <personGrp xml:id="Hor" sex="FEMALE">
+            <name>Хор</name>
+          </personGrp>
           <person xml:id="OdinGolos" sex="FEMALE">
             <persName>Один голос</persName>
           </person>
-          <person xml:id="Devushki" sex="FEMALE">
-            <persName>Девушки</persName>
-          </person>
+          <personGrp xml:id="Devushki" sex="FEMALE">
+            <name>Девушки</name>
+          </personGrp>
           <person xml:id="Konjushij" sex="MALE">
             <persName>Конюший</persName>
           </person>
@@ -93,9 +93,9 @@
           <person xml:id="Drugaja" sex="FEMALE">
             <persName>Другая</persName>
           </person>
-          <person xml:id="Rusalki" sex="FEMALE">
-            <persName>Русалки</persName>
-          </person>
+          <personGrp xml:id="Rusalki" sex="FEMALE">
+            <name>Русалки</name>
+          </personGrp>
           <person xml:id="Rusalochka" sex="FEMALE">
             <persName>Дочь</persName>
           </person>
@@ -115,6 +115,7 @@
         <change who="#GG" when="2017-06-03">gender info</change>
         <change who="#ff" when="2017-06-26">marked-up shared verses with part attribute; shifted
           some stage directions to their right place</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

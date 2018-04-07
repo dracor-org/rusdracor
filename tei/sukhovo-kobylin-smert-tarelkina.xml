@@ -60,11 +60,11 @@
             <persName xml:lang="de">Varravin</persName>
             <persName xml:lang="en">Varravin</persName>
           </person>
-          <person xml:id="Chinovniki" sex="MALE">
-            <persName>Чиновники</persName>
-            <persName xml:lang="de">Die Beamten</persName>
-            <persName xml:lang="en">The Clerks</persName>
-          </person>
+          <personGrp xml:id="Chinovniki" sex="MALE">
+            <name>Чиновники</name>
+            <name xml:lang="de">Die Beamten</name>
+            <name xml:lang="en">The Clerks</name>
+          </personGrp>
           <person xml:id="Chibisov" sex="MALE">
             <persName>Чибисов</persName>
             <persName xml:lang="de">Čibisov</persName>
@@ -120,12 +120,12 @@
             <persName xml:lang="de">4. Gläubiger</persName>
             <persName xml:lang="en">Fourth Creditor</persName>
           </person>
-          <person xml:id="Kreditory" sex="MALE">
-            <persName>Кредиторы</persName>
-            <persName type="variant">Все кредиторы</persName>
-            <persName xml:lang="de">Die Gläubiger</persName>
-            <persName xml:lang="en">The Creditors</persName>
-          </person>
+          <personGrp xml:id="Kreditory" sex="MALE">
+            <name>Кредиторы</name>
+            <name type="variant">Все кредиторы</name>
+            <name xml:lang="de">Die Gläubiger</name>
+            <name xml:lang="en">The Creditors</name>
+          </personGrp>
           <person xml:id="Kachala" sex="MALE">
             <persName>Качала</persName>
             <persName xml:lang="de">Kačala</persName>
@@ -180,6 +180,7 @@
         <change who="#FF" when="2017-11-05">clean IDs; formalities</change>
         <change who="#FF" when="2017-11-06">add some missing text; add (DE|EN) translations of
           character names in ISO 9</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

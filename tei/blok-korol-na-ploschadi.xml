@@ -55,9 +55,9 @@
           <person xml:id="Shut" sex="MALE">
             <persName>Шут</persName>
           </person>
-          <person xml:id="GolosaVTolpe" sex="UNKNOWN">
-            <persName>Голоса в толпе</persName>
-          </person>
+          <personGrp xml:id="GolosaVTolpe" sex="UNKNOWN">
+            <name>Голоса в толпе</name>
+          </personGrp>
           <person xml:id="ObydennyjGolos" sex="UNKNOWN">
             <persName>Тот же обыденный голос</persName>
           </person>
@@ -145,6 +145,7 @@
         <change who="#sveta" when="2017-04-22">corrected IDs, added the "written" date, established
           more comprehensible order of IDs</change>
         <change who="#sveta" when="2017-05-26">added segmentation, dates</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

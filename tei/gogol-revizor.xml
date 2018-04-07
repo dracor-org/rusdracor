@@ -83,9 +83,9 @@
           <person xml:id="Rastakovskij" sex="MALE">
             <persName>Растаковский</persName>
           </person>
-          <person xml:id="Kuptsy" sex="MALE">
-            <persName>Купцы</persName>
-          </person>
+          <personGrp xml:id="Kuptsy" sex="MALE">
+            <name>Купцы</name>
+          </personGrp>
           <person xml:id="ZhenaLukiLukicha" sex="FEMALE">
             <persName>Жена Луки Лукича</persName>
           </person>
@@ -137,9 +137,9 @@
           <person xml:id="Slesarsha" sex="FEMALE">
             <persName>Слесарша</persName>
           </person>
-          <person xml:id="MnogieIzGostej" sex="UNKNOWN">
-            <persName>Многие из гостей</persName>
-          </person>
+          <personGrp xml:id="MnogieIzGostej" sex="UNKNOWN">
+            <name>Многие из гостей</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -159,6 +159,7 @@
         <change who="#to" when="2017-06-04">gender</change>
         <change who="#ff" when="2017-07-10">formalities</change>
         <change who="#ff" when="2018-02-16">correct speaker tags in monologues</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

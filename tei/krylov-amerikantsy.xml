@@ -63,15 +63,15 @@
           <person xml:id="elvira" sex="FEMALE">
             <persName>Ельвира</persName>
           </person>
-          <person xml:id="hor_zhenschin" sex="FEMALE">
-            <persName>Хор женщин</persName>
-          </person>
-          <person xml:id="hor_muzhchin" sex="MALE">
-            <persName>Хор мужчин</persName>
-          </person>
-          <person xml:id="hor" sex="UNKNOWN">
-            <persName>Хор</persName>
-          </person>
+          <personGrp xml:id="hor_zhenschin" sex="FEMALE">
+            <name>Хор женщин</name>
+          </personGrp>
+          <personGrp xml:id="hor_muzhchin" sex="MALE">
+            <name>Хор мужчин</name>
+          </personGrp>
+          <personGrp xml:id="hor" sex="UNKNOWN">
+            <name>Хор</name>
+          </personGrp>
           <person xml:id="ferdinand" sex="MALE">
             <persName>Фердинанд</persName>
           </person>
@@ -89,6 +89,7 @@
         <change who="#FF" when="2017-06-01">deleted brackets in stage directions according to
           original; added English title; correctly formatted epigraph</change>
         <change who="#GG" when="2017-07-01">changed a lot of IDs and added gender</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

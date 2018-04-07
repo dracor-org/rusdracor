@@ -128,11 +128,11 @@
             <persName xml:lang="en">The girls</persName>
             <persName xml:lang="de">Die jungen Damen</persName>
           </person>
-          <person xml:id="GolosaVZale" sex="UNKNOWN">
-            <persName>Голоса в зале</persName>
-            <persName xml:lang="en">Voices from the ball-room</persName>
-            <persName xml:lang="de">Stimmen im Saal</persName>
-          </person>
+          <personGrp xml:id="GolosaVZale" sex="UNKNOWN">
+            <name>Голоса в зале</name>
+            <name xml:lang="en">Voices from the ball-room</name>
+            <name xml:lang="de">Stimmen im Saal</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -150,6 +150,7 @@
         <change who="#ff" when="2017-07-08">formalities</change>
         <change who="#ff" when="2017-07-21">added some missing text parts</change>
         <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

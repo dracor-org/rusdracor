@@ -71,11 +71,11 @@
             <persName xml:lang="en">Deacon</persName>
             <persName xml:lang="de">Diakon</persName>
           </person>
-          <person xml:id="SobornyjHor" sex="UNKNOWN">
-            <persName>Соборный хор</persName>
-            <persName xml:lang="en">Cathedral Choir</persName>
-            <persName xml:lang="de">Domchor</persName>
-          </person>
+          <personGrp xml:id="SobornyjHor" sex="UNKNOWN">
+            <name>Соборный хор</name>
+            <name xml:lang="en">Cathedral Choir</name>
+            <name xml:lang="de">Domchor</name>
+          </personGrp>
           <person xml:id="ONikolaj" sex="MALE">
             <persName>О. Николай</persName>
             <persName xml:lang="en">Father Nikolaj</persName>
@@ -126,11 +126,11 @@
             <persName xml:lang="en">Sabinin</persName>
             <persName xml:lang="de">Sabinin</persName>
           </person>
-          <person xml:id="Hor" sex="UNKNOWN">
-            <persName>Хор</persName>
-            <persName xml:lang="en">Choir</persName>
-            <persName xml:lang="de">Chor</persName>
-          </person>
+          <personGrp xml:id="Hor" sex="UNKNOWN">
+            <name>Хор</name>
+            <name xml:lang="en">Choir</name>
+            <name xml:lang="de">Chor</name>
+          </personGrp>
           <person xml:id="KtoTo" sex="UNKNOWN">
             <persName>Кто-то</persName>
             <persName xml:lang="en">Somebody</persName>
@@ -206,6 +206,7 @@
           collecting differenct voices, etc.)</change>
         <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
         <change who="#ff" when="2018-04-02">markup stage direction</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

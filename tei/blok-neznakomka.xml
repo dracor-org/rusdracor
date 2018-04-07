@@ -166,10 +166,10 @@
             <persName>Другой</persName>
             <persName xml:lang="de">Herr</persName>
           </person>
-          <person xml:id="RaznyeGolosa" sex="UNKNOWN">
-            <persName>Разные голоса</persName>
-            <persName xml:lang="de">Verschiedene Stimmen</persName>
-          </person>
+          <personGrp xml:id="RaznyeGolosa" sex="UNKNOWN">
+            <name>Разные голоса</name>
+            <name xml:lang="de">Verschiedene Stimmen</name>
+          </personGrp>
           <person xml:id="KtoTo" sex="UNKNOWN">
             <persName>Кто-то</persName>
             <persName xml:lang="de">Jemand</persName>
@@ -188,6 +188,7 @@
         <change who="#ff" when="2017-04-19">establish well-formedness</change>
         <change who="#sveta" when="2017-04-24">corrected IDs, added the dates</change>
         <change who="#ff" when="2017-07-08">some corrections</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

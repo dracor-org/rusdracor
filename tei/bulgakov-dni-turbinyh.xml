@@ -99,9 +99,9 @@
           <person xml:id="Uragan" sex="MALE">
             <persName>Ураган</persName>
           </person>
-          <person xml:id="Golosa" sex="UNKNOWN">
-            <persName>Голоса</persName>
-          </person>
+          <personGrp xml:id="Golosa" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
           <person xml:id="Kirpatyj" sex="MALE">
             <persName>Кирпатый</persName>
           </person>
@@ -114,9 +114,9 @@
           <person xml:id="ChelovekSKorzinoj" sex="MALE">
             <persName>Человек с корзиной</persName>
           </person>
-          <person xml:id="Junkera" sex="MALE">
-            <persName>Юнкера</persName>
-          </person>
+          <personGrp xml:id="Junkera" sex="MALE">
+            <name>Юнкера</name>
+          </personGrp>
           <person xml:id="PervyjOfitser" sex="MALE">
             <persName>Первый офицер</persName>
           </person>
@@ -155,6 +155,7 @@
         <change who="#ff" when="2017-06-05">formatted front page</change>
         <change who="#IP" when="2017-06-11">merged some 'sp'</change>
         <change who="#ff" when="2017-07-08">formalities</change>
+        <change who="#zh" when="2018-04-07">group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
