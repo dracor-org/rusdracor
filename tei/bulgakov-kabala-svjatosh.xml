@@ -1,0 +1,3802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Кабала святош (Мольер)</title>
+        <title type="main" xml:lang="en">The Cabal of Hypocrites (Molière)</title>
+        <title type="sub" xml:lang="ru">Драма в четырех действиях</title>
+        <title type="sub" xml:lang="en">A Drama in Four Acts</title>
+        <author key="Wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/bulgakov-kabala-svjatosh</idno>
+        <idno type="RusDraCor">90</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://lib.ru/BULGAKOW/kabala.txt</idno>
+          <availability>
+            <licence>
+              <ab>CC BY-SA 3.0</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
+            </licence>
+          </availability>
+          <bibl type="originalSource">
+            <title>Собрание сочинений в десяти томах. Том 6. М., "Голос", 1999.</title>
+            <date type="print" when="1962">"В 1932 г. в Берлине вышел перевод Кабалы святош на
+              немецкий В. Грёгера. Впервые опубликована: Булгаков М. Пьесы. М.: Искусство, 1962."
+              (fantlab.ru)</date>
+            <date type="premiere" when="1936">"В марте 1932 года режиссёр Николай Горчаков приступил
+              к репетициям, но только в начале 1936 года работа над спектаклем была завершена.
+              Премьера состоялась 16 февраля 1936 года, но уже 11 февраля газета «Советское
+              искусство» поместила разносную рецензию критика О. Литовского о пьесе. "
+              (Wikipedia)</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="moler" sex="MALE">
+            <persName>Мольер</persName>
+            <persName xml:lang="de">Molʹer</persName>
+          </person>
+          <person xml:id="buton" sex="MALE">
+            <persName>Бутон</persName>
+            <persName xml:lang="de">Buton</persName>
+          </person>
+          <person xml:id="dju_kruazi" sex="MALE">
+            <persName>Дю Круази</persName>
+            <persName xml:lang="de">Dû Kruazi</persName>
+          </person>
+          <person xml:id="sufler" sex="MALE">
+            <persName>Суфлер</persName>
+            <persName xml:lang="de">Souffleur</persName>
+          </person>
+          <person xml:id="madlena" sex="FEMALE">
+            <persName>Мадлена</persName>
+            <persName xml:lang="de">Madlena</persName>
+          </person>
+          <person xml:id="sharlatan" sex="MALE">
+            <persName>Шарлатан</persName>
+            <persName xml:lang="de">Scharlatan</persName>
+          </person>
+          <person xml:id="ljudovik" sex="MALE">
+            <persName>Людовик</persName>
+            <persName xml:lang="de">Lûdovik</persName>
+          </person>
+          <person xml:id="rival" sex="FEMALE">
+            <persName>Риваль</persName>
+            <persName xml:lang="de">Rivalʹ</persName>
+          </person>
+          <person xml:id="lagranzh" sex="MALE">
+            <persName>Лагранж</persName>
+            <persName xml:lang="de">Lagranž</persName>
+          </person>
+          <person xml:id="armanda" sex="FEMALE">
+            <persName>Арманда</persName>
+            <persName xml:lang="de">Armanda</persName>
+          </person>
+          <person xml:id="odnoglazyj" sex="MALE">
+            <persName>Одноглазый</persName>
+            <persName xml:lang="de">Einäugiger</persName>
+          </person>
+          <person xml:id="muarron" sex="MALE">
+            <persName>Муаррон</persName>
+            <persName xml:lang="de">Muarron</persName>
+          </person>
+          <person xml:id="de_lessak" sex="MALE">
+            <persName>Де Лессак</persName>
+            <persName xml:lang="de">De Lessak</persName>
+          </person>
+          <person xml:id="pridvornye" sex="MALE">
+            <persName>Придворные</persName>
+            <persName xml:lang="de">Höflinge</persName>
+          </person>
+          <person xml:id="spravedlivyj_sapozhnik" sex="MALE">
+            <persName>Справедливый сапожник</persName>
+            <persName xml:lang="de">Gerechter Schuster</persName>
+          </person>
+          <person xml:id="sharron" sex="MALE">
+            <persName>Шаррон</persName>
+            <persName xml:lang="de">Šarron</persName>
+          </person>
+          <person xml:id="varfolomej" sex="MALE">
+            <persName>Варфоломей</persName>
+            <persName xml:lang="de">Varfolomej</persName>
+          </person>
+          <person xml:id="brat_vernost" sex="MALE">
+            <persName>Брат Верность</persName>
+            <persName xml:lang="de">Bruder Treue</persName>
+          </person>
+          <person xml:id="brat_sila" sex="MALE">
+            <persName>Брат Сила</persName>
+            <persName xml:lang="de">Bruder Kraft</persName>
+          </person>
+          <person xml:id="neznakomka_v_maske" sex="FEMALE">
+            <persName>Незнакомка в маске</persName>
+            <persName xml:lang="de">Maskierte Unbekannte</persName>
+          </person>
+          <person xml:id="chleny_kabaly" sex="UNKNOWN">
+            <persName>Члены Кабалы</persName>
+            <persName xml:lang="de">Mitglieder der Kabele</persName>
+          </person>
+          <person xml:id="rene" sex="FEMALE">
+            <persName>Ренэ</persName>
+            <persName xml:lang="de">Renè</persName>
+          </person>
+          <person xml:id="hor_vrachej" sex="MALE">
+            <persName>Хор врачей</persName>
+            <persName xml:lang="de">Chor der Ärzte</persName>
+          </person>
+          <person xml:id="monashka" sex="FEMALE">
+            <persName>Монашка</persName>
+            <persName xml:lang="de">Nonne</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Драма в четырех действиях</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="#ff" when="2018-04-09">convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Кабала святош (Мольер)</titlePart>
+        <titlePart type="sub">Драма в четырех действиях</titlePart>
+      </docTitle>
+      <epigraph>
+        <quote>
+          <lg>
+            <l>Rien ne manque à sa gloire,</l>
+            <l>II manquait à la nôtre.</l>
+          </lg>
+        </quote>
+      </epigraph>
+      <castList>
+        <head>Действующие:</head>
+        <castItem>Жан-Батист Поклен де Мольер – знаменитый драматург и актер.</castItem>
+        <castGroup>
+          <castItem>Мадлена Бежар</castItem>
+          <castItem>Арманда Бежар</castItem>
+          <castItem>Мариэтта Риваль</castItem>
+          <roleDesc>актрисы де Мольера</roleDesc>
+        </castGroup>
+        <castItem>Шарль-Варле де Лагранж – актер, по прозвищу "Регистр".</castItem>
+        <castItem>Захария Муаррон – знаменитый актер-любовник.</castItem>
+        <castItem>Филибер дю Круази – актер.</castItem>
+        <castItem>Жан-Жак Бутон – тушильщик свечей и слуга Мольера.</castItem>
+        <castItem>Людовик Великий – король Франции.</castItem>
+        <castItem>Маркиз д'Орсиньи – дуэлянт, по кличке "Одноглазый, помолись!".</castItem>
+        <castItem>Маркиз де Шаррон – архиепископ города Парижа.</castItem>
+        <castItem>Маркиз де Лессак – игрок.</castItem>
+        <castItem>Справедливый сапожник – королевский шут.</castItem>
+        <castItem>Шарлатан с клавесином.</castItem>
+        <castItem>Незнакомка в маске.</castItem>
+        <castItem>Отец Варфоломей – бродячий проповедник.</castItem>
+        <castGroup>
+          <castItem>Брат Сила</castItem>
+          <castItem>Брат Верность</castItem>
+          <roleDesc>члены Кабалы Священного писания</roleDesc>
+        </castGroup>
+        <castItem>Ренэ – дряхлая нянька Мольера.</castItem>
+        <castItem>Суфлер.</castItem>
+        <castItem>Монашка.</castItem>
+        <castItem>Члены Кабалы Священного писания в масках и черных плащах.</castItem>
+        <castItem>Придворные Мушкетеры и другие.</castItem>
+      </castList>
+      <set>
+        <p>Действие в Париже в век Людовика XIV.</p>
+      </set>
+    </front>
+    <body>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+        <stage>За занавесом слышен очень глухой раскат смеха стекламитысячи людей. Занавес
+          раскрывается – сцена представляет театр Пале-Рояль. Тяжелые занавесы. Зеленая афиша с
+          гербами и орнаментом. На ней крупно: "КОМЕДИАНТЫ ГОСПОДИНА..." и мелкие слова. Зеркало.
+          Кресла. Костюмы. На стыке двух уборных, у занавеса, которым они разделены, громадных
+          размеров клавесин. Во второй уборной – довольно больших размеров распятие, перед которым
+          горит лампада. В первой уборной налево дверь, множество сальных свечей (свету,
+          по-видимому, не пожалели). А во второй уборной на столе только фонарь с цветными
+          стеклами.</stage>
+        <stage>На всем решительно – и на вещах и на людях (кроме Лагранжа) – печать необыкновенного
+          события, тревоги и волнения. Лагранж, не занятый в спектакле, сидит в уборной, погруженный
+          в думу. Он в темном плаще. Он молод, красив и важен. Фонарь на его лицо бросает
+          таинственный свет.</stage>
+        <stage>В первой уборной Бутон, спиною к нам, припал к щели в занавесе. И даже по спине его
+          видно, что зрелище вызывает в нем чувство жадного любопытства. Рожа Шарлатана торчит в
+          дверях. Шарлатан приложил руку к уху – слушает.</stage>
+        <stage>Слышны взрывы смеха, затем финальный раскат хохота. Бутон схватывается за какие-то
+          веревки, и звуки исчезают. Через мгновение из разреза занавеса показывается Мольер и по
+          ступенькам сбегает вниз в уборную. Шарлатан скромно исчезает.</stage>
+        <stage>На Мольере преувеличенный парик и карикатурный шлем. В руках палаш. Мольер
+          загримирован Сганарелем – нос лиловый с бородавкой. Смешон. Левой рукой Мольер держится за
+          грудь, как человек, у которого неладно с сердцем. Грим плывет с его лица.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(сбрасывая шлем, переводя дух).</stage>
+          <p>Воды!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Сейчас. <stage>(Подает стакан.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Фу! <stage>(Пьет, прислушивается с испуганными глазами.)</stage></p>
+        </sp>
+        <stage>Дверь распахивается, вбегает загримированный Полишинелем дю Круази, глаза
+          опрокинуты.</stage>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази.</speaker>
+          <p>Король аплодирует! <stage>(Исчезает.)</stage></p>
+        </sp>
+        <sp who="#sufler">
+          <speaker>Суфлер</speaker>
+          <stage>(в разрезе занавеса).</stage>
+          <p>Король аплодирует!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(Бутону).</stage>
+          <p>Полотенце мне! <stage>(Вытирает лоб, волнуется.)</stage></p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(в гриме появляется в разрезе занавеса).</stage>
+          <p>Скорее! Король аплодирует!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(волнуясь).</stage>
+          <p>Да, да, слышу. Сейчас <stage>(У занавеса крестится.)</stage> Пречистая Дева, Пречистая
+            Дева! <stage>(Бутону.)</stage> Раскрывай всю сцену!</p>
+        </sp>
+        <stage>Бутон опускает сначала занавес, отделяющий от нас сцену, а затем громадный главный,
+          отделяющий сцену от зрительного зала. И вот она одна видна нам в профиль. Она приподнята
+          над уборными, пуста. Ярко сияют восковые свечи в люстрах. Зала не видна, видна лишь
+          крайняя золоченая ложа, но она пуста. Чувствуется только таинственная, насторожившаяся
+          синь чуть затемненного зала. Шарлатанское лицо моментально появляется в дверях. Мольер
+          поднимается на сцену так, что мы видим его в профиль. Он идет кошачьей походкой к рампе,
+          как будто подкрадывается, сгибает шею, перьями шляпы метет пол. При его появлении один
+          невидимый человек в зрительном зале начинает аплодировать, а за этим из зала громовые
+          рукоплескания. Потом тишина.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ваше... величество... ваше величество... Светлейший государь... <stage>(Первые слова он
+              произносит чуть-чуть заикаясь – в жизни он немного заикается, – но потом его речь
+              выравнивается, и с первых же слов становится понятно, что он на сцене первоклассен.
+              Богатство его интонаций, гримас и движений неисчерпаемо. Улыбка его легко
+              заражает.)</stage> Актеры труппы Господина, всевернейшие и всеподданнейшие слуги ваши,
+            поручили мне благодарить вас за ту неслыханную честь, которую вы оказали нам, посетив
+            наш театр... И вот, сир... я вам ничего не могу сказать.</p>
+          <stage>В зале порхнул легкий смешок и пропал.</stage>
+          <lg>
+            <l>Муза, муза моя, о лукавая Талия!</l>
+            <l>Всякий вечер, услышав твой крик,</l>
+            <l>При свечах в Пале-Рояле я...</l>
+            <l>Надеваю Сганареля парик.</l>
+            <l>Поклонившись по чину, пониже,</l>
+            <l>Надо! Платит партнер тридцать су! –</l>
+            <l>Я, о сир, для забавы Парижа <stage>(пауза)</stage></l>
+            <l>Околесину часто несу.</l>
+            <stage>В зале прошел смех.</stage>
+            <l>Но сегодня, о муза комедии,</l>
+            <l>Ты на помощь ко мне спеши.</l>
+            <l>Ах, легко ли, легко ль в интермедии</l>
+            <l>Солнце Франции мне смешить?..</l>
+          </lg>
+        </sp>
+        <stage>В зале грянул аплодисмент.</stage>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Ах, голова! Солнце придумал.</p>
+        </sp>
+        <sp who="#sharlatan">
+          <speaker>Шарлатан</speaker>
+          <stage>(с завистью).</stage>
+          <p>Когда он это сочинил?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(высокомерно).</stage>
+          <p>Никогда. Экспромт.</p>
+        </sp>
+        <sp who="#sharlatan">
+          <speaker>Шарлатан.</speaker>
+          <p>Мыслимо ли это?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Ты не сделаешь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(резко меняет интонацию).</stage>
+          <lg>
+            <l>Вы несете для нас королевское бремя.</l>
+            <l>Я, комедиант, ничтожная роль.</l>
+            <l>Но я славен уж тем, что играл в твое время,</l>
+            <l>Людовик!.. Великий!!.</l>
+            <l><stage>(Повышает голос.)</stage> Французский!!!</l>
+            <l><stage>(Кричит.)</stage> Король!!!</l>
+          </lg>
+          <stage>(Бросает шляпу в воздух.)</stage>
+        </sp>
+        <stage>В зале начинается что-то невообразимое. Рев: "Да здравствует король!" Пламя свечей
+          ложится. Бутон и Шарлатан машут шляпами, кричат, но слов их не слышно; В реве прорываются
+          ломаные сигналы гвардейских труб. Лагранж стоит неподвижно у своего огня, сняв шляпу.
+          Овация кончается, и настает тишина.</stage>
+        <sp who="#ljudovik">
+          <speaker>Голос Людовика</speaker>
+          <stage>(из тени).</stage>
+          <p>Благодарю вас, господин де Мольер!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Всепослушнейшие слуги ваши просят вас посмотреть еще одну смешную интермедию, если
+            только мы вам не надоели.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Голос Людовика.</speaker>
+          <p>О, с удовольствием, господин де Мольер!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(кричит).</stage>
+          <p>Занавес!</p>
+        </sp>
+        <stage>Главный занавес закрывает зрительный зал, и за занавесом тотчас начинается музыка.
+          Бутон закрывает и тот занавес, который отделяет сцену от нас, и она исчезает. Шарлатанское
+          лицо скрывается.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(появившись в уборной, бормочет).</stage>
+          <p>Купил!.. Убью его и зарежу!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Кого бы он хотел зарезать в час триумфа?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(схватывает Бутона за глотку).</stage>
+          <p>Тебя!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(кричит).</stage>
+          <p>Меня душат на королевском спектакле!</p>
+        </sp>
+        <stage>Лагранж шевельнулся у огня, но опять застыл. На крик вбегают Мадлена и Риваль, почти
+          совершенно голая, – она переодевалась. Обе актрисы схватывают Мольера за штаны, оттаскивая
+          от Бутона, причем Мольер лягает их ногами. Наконец Мольера отрывают с куском Бутонова
+          кафтана. Мольера удается повалить в кресло.</stage>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Вы с ума сошли! В зале слышно.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Пустите!</p>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <p>Господин Мольер! <stage>(Зажимает рот Мольеру.)</stage></p>
+        </sp>
+        <stage>Потрясенный Шарлатан заглядывает в дверь.</stage>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(глядя в зеркало, ощупывает разорванный кафтан).</stage>
+          <p>Превосходно сделано и проворно. <stage>(Мольеру.)</stage> В чем дело?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Этот негодяй... Я не понимаю, зачем я держу при себе мучителя? Сорок раз играли, все
+            было в порядке, а при короле свеча повалилась в люстре, воском каплет на паркет.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Мэтр, вы сами выделывали смешные коленца и палашом повалили свечку.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Врешь, бездельник!</p>
+        </sp>
+        <stage>Лагранж кладет голову на руки и тихо плачет.</stage>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <p>Он прав. Вы задели свечку шпагой.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>В зале смеются. Король удивлен...</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Король – самый воспитанный человек во Франции и не заметил никакой свечки.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Так я повалил? Я? Гм... Почему же в таком случае я на тебя кричал?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Затрудняюсь ответить, государь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Я, кажется, разорвал твой кафтан.</p>
+        </sp>
+        <stage>Бутон судорожно смеется.</stage>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <p>Боже, в каком я виде! <stage>(Схватывает кафтан и, закрывшись им, улетает.)</stage></p>
+        </sp>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази</speaker>
+          <stage>(появился в разрезе занавеса с фонарем).</stage>
+          <p>Госпожа Бежар, выход, выход, выход... <stage>(Исчез.)</stage></p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Бегу! <stage>(Убегает.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(Бутону).</stage>
+          <p>Возьми этот кафтан.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Благодарю вас. <stage>(Снимает кафтан и штаны, проворно надевает одни из штанов
+              Мольера, с кружевными канонами.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Э... э... э... А штаны почему?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Мэтр, согласитесь сами, что верхом безвкусицы было бы соединить такой чудный кафтан с
+            этими гнусными штанами. Извольте глянуть: ведь это срам – штаны. <stage>(Надевает и
+              кафтан.)</stage> Мэтр, в кармане обнаружены мною две серебряные монеты незначительного
+            достоинства. Как прикажете с ними поступить?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>В самом деле. Я полагаю, мошенник, что лучше всего их сдать в музей. <stage>(Поправляет
+              грим.)</stage></p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Я – тоже. Я сдам. <stage>(Прячет деньги.)</stage> Ну, я пошел снимать нагар.
+              <stage>(Вооружается свечными щипцами.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Попрошу со сцены не пялить глаз на короля.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Кому вы это говорите, мэтр? Я тоже воспитан, потому что француз по происхождению.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты француз по происхождению и болван по профессии.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Вы по профессии – великий артист и грубиян по характеру.
+            <stage>(Скрывается.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Совершил я какой-то грех, и послал мне его Господь в Лиможе.</p>
+        </sp>
+        <sp who="#sharlatan">
+          <speaker>Шарлатан.</speaker>
+          <p>Господин директор! Господин директор!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ах да, с вами еще. Вот что, сударь. Это... вы простите меня за откровенность – фокус
+            второго разряда. Но партерной публике он понравится. Я выпущу вас в антракте в течение
+            недели. Но все-таки как вы это делаете?</p>
+        </sp>
+        <sp who="#sharlatan">
+          <speaker>Шарлатан.</speaker>
+          <p>Секрет, господин директор.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ну, я узнаю. Возьмите несколько аккордов, только тихонько.</p>
+          <stage>Шарлатан, загадочно улыбаясь, подходит к клавесину, садится на табуретку в
+            некотором расстоянии от клавесина, делает такие движения в воздухе, как будто играет, и
+            клавиши в клавесине вжимаются, клавесин играет нежно.</stage>
+          <p>Черт! <stage>(Бросается к клавесину, стараясь поймать невидимые нити.)</stage></p>
+          <stage>Шарлатан загадочно улыбается.</stage>
+          <p>Ну хорошо! Получайте задаток. Где-то пружина, не правда ли?</p>
+        </sp>
+        <sp who="#sharlatan">
+          <speaker>Шарлатан.</speaker>
+          <p>Клавесин останется на ночь в театре?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ну конечно. Не тащить же его вам домой.</p>
+        </sp>
+        <stage>Шарлатан кланяется и уходит.</stage>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази</speaker>
+          <stage>(выглянул с фонарем и книгой).</stage>
+          <p>Господин де Мольер! <stage>(Скрывается.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Да. <stage>(Скрывается, и немедленно за его исчезновением доносится гул
+            смеха.)</stage></p>
+        </sp>
+        <stage>Портьера, ведущая в уборную с зеленым фонарем, отодвигается, и возникает Арманда.
+          Черты лица ее прелестны и напоминают Маддену. Ей лет семнадцать. Хочет проскользнуть мимо
+          Лагранжа.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Стоп!</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ах, это вы, милый Регистр! Почему вы, притаились здесь, как мышь? А я глядела на
+            короля. Но я спешу.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Успеете. Он на сцене. Почему вы называете меня Регистр? Быть может, прозвище мне
+            неприятно.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Милый господин Лагранж! Вся труппа очень уважает вас и вашу летопись. Но, если угодно,
+            я перестану вас так называть.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Я жду вас.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>А зачем?</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Сегодня семнадцатое, и вот, я поставил черный крестик в регистре.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Разве случилось что-нибудь или кто-нибудь в труппе умер?</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Нехороший, черный вечер отмечен мною. Откажитесь от него.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Господин де Лагранж, у кого вы получили право вмешиваться в мои дела?</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Злые языки. Я умоляю вас, не выходите за него!</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ах, вы влюблены в меня?</p>
+        </sp>
+        <stage>За занавесами глухо слышна музыка.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Нет. Вы мне не нравитесь.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Пропустите, сударь.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Нет. Вы не имеете права выйти за него. Вы так молоды! Взываю к лучшим вашим
+            чувствам!</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>У всех в труппе помутился ум, честное слово. Какое вам дело до этого?</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Сказать вам не могу, но большой грех.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>А, сплетня о сестре? Слышала. Вздор! Да если бы у них и был роман, что мне до этого!
+              <stage>(Делает. попытку отстранить Лагранжа и пройти.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Стоп! Откажитесь от него. Нет? Ну так я вас заколю! <stage>(Вынимает
+            шпагу.)</stage></p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Вы сумасшедший убийца! Я...</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Что гонит вас к несчастью? Вы ведь не любите его. Вы – девочка, а он...</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Нет, я люблю.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Откажитесь.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Регистр, я не могу. Я с ним в связи и... <stage>(Шепчет Лагранжу на ухо.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(вкладывает шпагу).</stage>
+          <p>Идите, больше не держу вас.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(пройдя).</stage>
+          <p>Вы – насильник. За то, что вы угрожали мне, вы будете противны мне.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(волнуясь).</stage>
+          <p>Простите меня, я хотел вас спасти. Простите. <stage>(Закутывается в плащ и уходит, взяв
+              свой фонарь.)</stage></p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(в уборной Мольера).</stage>
+          <p>Чудовищно, чудовищно...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(появляется).</stage>
+          <p>А!..</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Мэтр, весь мир ополчился на меня!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(обнимает ее, и в то же мгновение появляется Бутон).</stage>
+          <p>А, черт возьми! <stage>(Бутону.)</stage> Вот что: пойди осмотри свечи в партере.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Я только что оттуда.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Тогда вот что: пойди к буфетчице и принеси мне графин вина.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Я принес уже. Вот оно.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(тихо).</stage>
+          <p>Тогда вот что: пойди отсюда просто ко всем чертям, куда-нибудь.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>С этого прямо и нужно было начинать. <stage>(Идет.)</stage> Э-хе-хе... <stage>(От
+              двери.)</stage> Мэтр, скажите, пожалуйста, сколько вам лет?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Что это значит?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Конные гвардейцы меня спрашивали.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Пошел вон!</p>
+          <stage>Бутон уходит.</stage>
+          <p><stage>(Закрыв за ним двери на ключ.)</stage> Целуй меня.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(повисает у него на шее).</stage>
+          <p>Вот нос, так уж нос. Под него не подлезешь.</p>
+          <stage>Мольер снимает нос и парик, целует Арманду.</stage>
+          <p><stage>(Шепчет ему.)</stage> Ты знаешь, я... <stage>(Шепчет ему что-то на ухо.)</stage>
+            –</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Моя девочка... <stage>(Думает.)</stage> Теперь это не страшно. Я решился.
+              <stage>(Подводит ее к распятию.)</stage> Поклянись, что любишь меня.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Люблю, люблю, люблю...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты не обманываешь меня? Видишь ли, у меня уже появились морщины, я начинаю седеть. Я
+            окружен врагами, и позор убьет меня...</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Нет, нет! Как можно это сделать!..</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Я хочу жить еще один век! С тобой! Но не беспокойся, я за это заплачу, заплачу. Я тебя
+            создам! Ты станешь первой, будешь великой актрисой! Это мое мечтанье, и, стало быть, это
+            так и будет. Но помни: если ты не сдержишь клятву, ты отнимешь у меня все.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Я не вижу морщин на твоем лице. Ты так смел и так велик, что у тебя не может быть
+            морщин. Ты – Жан...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Я – Батист...</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ты – Мольер! <stage>(Целует его.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(смеется, потом говорит торжественно).</stage>
+          <p>Завтра мы с тобой обвенчаемся. Правда, мне много придется перенести из-за этого...</p>
+          <stage>Послышался далекий гул рукоплесканий. В двери стучат.</stage>
+          <p>Ах, что за жизнь!</p>
+          <stage>Стук повторяется.</stage>
+          <p>Дома, у Мадлены, нам сегодня нельзя будет встретиться. Поэтому сделаем вот как: когда
+            театр погаснет, приходи к боковой двери, в саду, и жди меня, я проведу тебя сюда. Луны
+            нет.</p>
+        </sp>
+        <stage>Стук превращается в грохот.</stage>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(вопит за дверью).</stage>
+          <p>Мэтр... Мэтр...</p>
+        </sp>
+        <stage>Мольер открывает, и входят Бутон, Лагранж и Одноглазый, в костюме Компании Черных
+          Мушкетеров и с косой черной повязкой на лице.</stage>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Господин де Мольер?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ваш покорнейший слуга.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Король приказал мне вручить вам его плату за место в театре – тридцать су.
+              <stage>(Подает монеты на подушке.)</stage></p>
+          <stage>Мольер целует монеты.</stage>
+          <p>Но ввиду того, что вы трудились для короля сверх программы, он приказал мне передать
+            вам и доплату к биле ту за то стихотворение, которое вы сочинили и прочитали королю, –
+            здесь пять тысяч ливров. <stage>(Подает мешок.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>О король! <stage>(Лагранжу.)</stage> Мне пятьсот ливров, а остальное раздели поровну
+            между актерами театра и раздай на руки.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Благодарю вас от имени актеров. <stage>(Берет мешок и уходит.)</stage></p>
+        </sp>
+        <stage>Вдали полетел победоносный гвардейский марш.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Простите, сударь, король уезжает. <stage>(Убегает.)</stage></p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(Арманде).</stage>
+          <p>Сударыня, я очень счастлив, что случай... кх... кх... дал мне возможность... Капитан
+            Компании Черных Мушкетеров, д'0рсиньи.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(приседая).</stage>
+          <p>Арманда Бежар. Вы – знаменитый фехтовальщик, который может каждого заколоть?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Кх... кх... Вы, сударыня, без сомнения, играете в этой труппе?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Началось. О мой легкомысленный мэтр.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(с удивлением глядя на кружева на штанах Бутона).</stage>
+          <p>Вы мне что-то сказали, почтеннейший?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Нет, сударь.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Стало быть, у вас привычка разговаривать с самим собой?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Именно так, сударь. Вы знаете, одно время я разговаривал во сне.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Что вы говорите?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Ей-богу. И – какой курьез, вообразите...</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Что за черт такой! Помолись... <stage>(Арманде.)</stage> Ваше лицо, сударыня...</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(втираясь).</stage>
+          <p>...дико кричал во сне. Восемь лучших врачей в Лиможе лечили меня...</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>И они помогли вам, надеюсь?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Нет, сударь. В три дня они сделали мне восемь кровопусканий, после чего я лег и остался
+            неподвижен, ежеминутно приобщаясь святых тайн.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(тоскливо).</stage>
+          <p>Вы оригинал, любезнейший. Помолись. <stage>(Арманде.)</stage> Я льщу себя, сударыня...
+            Кто это такой?</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ах, сударь, это тушилыцик свечей – Жан-Жак Бутон.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(с укором).</stage>
+          <p>Милейший, в другой раз как-нибудь я с наслаждением прослушаю о том, как вы орали во
+            сне.</p>
+          <stage>Мольер входит.</stage>
+          <p>Честь имею кланяться. Бегу догонять короля.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Всего лучшего.</p>
+        </sp>
+        <stage>Одноглазый уходит.</stage>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>До свидания, мэтр.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(провожая ее).</stage>
+          <p>Луны нет, я буду ждать. <stage>(Бутону.)</stage> Попроси ко мне госпожу Мадлену Бежар.
+            Гаси огни. Ступай домой.</p>
+          <stage>Бутон уходит. Мольер переодевается. Мадлена, разгримированная, входит.</stage>
+          <p>Мадлена, есть очень важное дело.</p>
+          <stage>Мадлена берется за сердце, садится.</stage>
+          <p>Я хочу жениться.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(мертвым голосом).</stage>
+          <p>На ком?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>На твоей сестре.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Умоляю, скажи, что ты шутишь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Бог с тобой.</p>
+        </sp>
+        <stage>Огни в театре начинают гаснуть.</stage>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>А я?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Что же, Мадлена, мы связаны прочнейшей дружбой, ты верный товарищ, но ведь любви между
+            нами давно нет.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Ты помнишь, как двадцать лет назад ты сидел в тюрьме. Кто приносил тебе пищу?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>А кто ухаживал за тобой в течение двадцати лет?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты, ты.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Собаку, которая всю жизнь стерегла дом, никто не выгонит. Ну, а ты, Мольер, можешь
+            выгнать. Страшный ты человек, Мольер, я тебя боюсь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Не терзай меня. Страсть охватила меня.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(вдруг становится на колени, подползает к Мольеру).</stage>
+          <p>А? А все же... измени свое решение, Мольер. Сделаем так, как будто этого разговора не
+            было. А? Пойдем домой, ты зажжешь свечи, я приду к тебе... Ты почитаешь мне третий акт
+            "Тартюфа". А? <stage>(Заискивающе.)</stage> По-моему, это вещь гениальная. А если тебе
+            понадобится посоветоваться, с кем посоветуешься, Мольер? Ведь она девчонка... Ты, знаешь
+            ли, постарел, Жан-Батист, вон у тебя висок седой... Ты любишь грелку. Я тебе все
+            устрою... Вообрази, свеча горит... Камин зажжем, и все будет славно. А если... если уж
+            ты не можешь... о я знаю тебя... Посмотри на Риваль... Разве она плоха? Какое тело!.. А?
+            Я ни слова не скажу...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Одумайся. Что ты говоришь? Какую роль на себя берешь? <stage>(Вытирает тоскливо
+              пот.)</stage></p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(поднимаясь, в исступлении).</stage>
+          <p>На ком угодно, только не на Арманде! О проклятый день, когда я привезла ее в Париж!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Тише, Мадлена, тише, прошу тебя. <stage>(Шепотом.)</stage> Я должен жениться на ней...
+            Поздно. Обязан. Поняла?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Ах вот что. Мой Бог, Бог! <stage>(Пауза.)</stage> Больше не борюсь, сил нет. Я отпускаю
+            тебя. <stage>(Пауза.)</stage> Мольер, мне тебя жаль.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты не лишишь меня дружбы?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Не подходи ко мне, умоляю! <stage>(Пауза.)</stage> Ну, так – из труппы я ухожу.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты мстишь?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Бог видит, нет. Сегодня был мой последний спектакль. Я устала...
+              <stage>(Улыбается.)</stage> Я буду ходить в церковь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты непреклонна. Театр даст тебе пенсию, Ты заслужила.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Да...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Когда твое горе уляжется, я верю, что ты вернешь мне расположение и будешь видеться со
+            мной.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты и Арманду не хочешь видеть?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Арманду буду видеть. Арманда ничего не должна знать. Понял? Ничего.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Да...</p>
+          <stage>Огни всюду погасли.</stage>
+          <p><stage>(Зажигает фонарь.)</stage> Поздно, пойдем, я доведу тебя до твоего дома.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Нет, благодарю, не надо. Позволь мне несколько минут посидеть у тебя...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Но ты...</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Скоро уйду, не беспокойся. Уйди.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(закутывается в плащ).</stage>
+          <p>Прощай. <stage>(Уходит.)</stage></p>
+        </sp>
+        <stage>Мадлена сидит у лампады, думает, бормочет. Сквозь занавес показывается свет фонаря,
+          идет Лагранж.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(важным голосом).</stage>
+          <p>Кто остался в театре после спектакля? Кто здесь? Это вы, госпожа Бежар? Случилось, да?
+            Я знаю.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Я думаю, Регистр.</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>А у вас не хватило сил сознаться ему?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Поздно. Теперь уже нельзя сказать. Пусть буду несчастна одна я, а не трое.
+              <stage>(Пауза.)</stage> Вы – рыцарь, Варле, и вам одному я сказала тайну.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Госпожа Бежар, я горжусь вашим доверием. Я пытался остановить ее, но мне это не
+            удалось. Никто никогда не узнает. Пойдемте, я провожу вас.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Нет, благодарю, я хочу думать одна. <stage>(Поднимается.)</stage> Варле
+              <stage>(улыбается)</stage>, я покинула сегодня сцену. Прощайте.
+            <stage>(Идет.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>А все же я провожу?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Нет. Продолжайте ваш обход. <stage>(Скрывается.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(приходит к тому месту, где сидел вначале, ставит на стол фонарь, освещается
+            зеленым светом, раскрывает книги, говорит и пишет).</stage>
+          <p>"Семнадцатое февраля. Был королевский спектакль. В знак чести рисую лилию. После
+            спектакля во тьме я застал госпожу Мадлену Бежар в мучениях. Она сцену покинула..."
+              <stage>(Кладет перо.)</stage> Причина? В театре ужасное событие: Жан-Батист Поклен де
+            Мольер, не зная, что Арманда не сестра, а дочь госпожи Мадлены Бежар, женился на ней...
+            Этого писать нельзя, но в знак ужаса ставлю черный крест. И никто из потомков никогда не
+            догадается. Семнадцатому – конец. <stage>(Берет фонарь и уходит, как темный
+              рыцарь.)</stage></p>
+        </sp>
+        <stage>Некоторое время мрак и тишина, затем в щелях клавесина появляется свет, слышен
+          музыкальный звон в замках. Крышка приподымается, и из клавесина выходит, воровски
+          оглядываясь, Муаррон. Это мальчишка лет пятнадцати, с необыкновенно красивым, порочным и
+          измученным лицом. Оборван, грязен.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Ушли. Ушли. Чтоб вас черти унесли, дьяволы, черти... <stage>(Хнычет.)</stage> Я
+            несчастный мальчик, грязный... не спал два дня... Я никогда не сплю...
+              <stage>(Всхлипывает, ставит фонарь, падает, засыпает.)</stage></p>
+        </sp>
+        <stage>Пауза. Потом плывет свет фонарика, и, крадучись, Мольер ведет Арманду. Она в темном
+          плаще. Арманда взвизгивает. Муаррон мгновенно просыпается, на лице у него ужас,
+          трясется.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(грозно).</stage>
+          <p>Сознавайся, кто ты такой?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Господин директор, не колите меня, я не вор, я Захария, несчастный Муаррон...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(расхохотавшись).</stage>
+          <p>Понял! Ах, шарлатан окаянный!..</p>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
+        <stage>Приемная короля. Множество огней повсюду. Белая лестница, уходящая неизвестно куда.
+          За карточным столом маркиз де Лессак играет в карты с Людовиком. Толпа придворных, одетых
+          с необыкновенной пышностью, следит за де Лессаком. Перед тем груда золота, золотые монеты
+          валяются и на ковре. Пот течет с лица у де Лессака. Сидит один Людовик, все остальные
+          стоят. Все без шляп. На Людовике костюм белого мушкетера, лихо заломленная шляпа с пером,
+          на груди орденский крест, золотые шпоры, меч. За креслом стоит Одноглазый, ведет игру
+          короля. Тут же неподвижно стоит Мушкетер с мушкетом, не спуская с Людовика глаз.</stage>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак.</speaker>
+          <p>Три валета, три короля.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Скажите пожалуйста.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(внезапно).</stage>
+          <p>Виноват, сир. Крапленые карты, помолись!</p>
+        </sp>
+        <stage>Придворные оцепенели. Пауза.</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Вы пришли ко мне играть краплеными картами?</p>
+        </sp>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак.</speaker>
+          <p>Так точно, ваше величество. Обнищание моего имения...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(Одноглазому).</stage>
+          <p>Скажите, маркиз, как я должен поступить по карточным правилам в таком странном
+            случае?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Сир, вам надлежит ударить его по физиономии подсвечником. Это во-первых...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Какое неприятное правило! <stage>(Берясь за канделябр.)</stage> В этом подсвечнике
+            фунтов пятнадцать... Я полагаю, легкие бы надо ставить.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Разрешите мне.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Нет, не затрудняйтесь. А во-вторых, вы говорите...</p>
+        </sp>
+        <sp who="#pridvornye">
+          <speaker>Придворные</speaker>
+          <stage>(хором, их взорвало).</stage>
+          <p>Обругать его, как собаку.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>А, отлично. Будьте любезны, пошлите за ним, где он?</p>
+          <stage>Придворные бросаются в разные стороны. Голоса: "Сапожника! Справедливого сапожника
+            требует король!"</stage>
+          <p><stage>(Де Лессаку.)</stage> А скажите, как это делается?</p>
+        </sp>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак.</speaker>
+          <p>Ногтем, ваше величество. На дамах, например, я нулики поставил.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(с любопытством).</stage>
+          <p>А на валетах?</p>
+        </sp>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак.</speaker>
+          <p>Косые крестики, сир.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Чрезвычайно любопытно. А как закон смотрит на эти действия?</p>
+        </sp>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак</speaker>
+          <stage>(подумав).</stage>
+          <p>Отрицательно, ваше величество.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(участливо).</stage>
+          <p>И что же вам могут сделать за это?</p>
+        </sp>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак</speaker>
+          <stage>(подумав).</stage>
+          <p>В тюрьму могут посадить.</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник</speaker>
+          <stage>(входит с шумом).</stage>
+          <p>Иду, бегу, лечу, вошел. Вот я. Ваше величество, здравствуйте. Великий монарх, что
+            произошло? Кого надо обругать?</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Справедливый сапожник, вот маркиз сел играть со мной краплеными картами.</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник</speaker>
+          <stage>(подавлен, де Лессаку).</stage>
+          <p>Да ты... Да ты что?.. Да ты... спятил, что ли?.. Да за это, при игре в три листика, на
+            рынке морду бьют. Хорошо я его отделал, государь?</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Спасибо.</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Я яблочко возьму?</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Пожалуйста, возьми. Маркиз де Лессак, берите ваш выигрыш.</p>
+        </sp>
+        <stage>Де Лессак набивает золотом карманы.</stage>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник</speaker>
+          <stage>(расстроен).</stage>
+          <p>Ваше величество, да что же это... Да вы смеетесь?!</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(в пространство).</stage>
+          <p>Герцог, если вам не трудно, посадите маркиза де Лессака на один месяц в тюрьму. Дать
+            ему туда свечку и колоду карт – пусть рисует на ней крестики и нулики. Затем отправить
+            его в имение – вместе с деньгами. <stage>(Де Лессаку.)</stage> Приведите его в порядок.
+            И еще в карты больше не садитесь играть, у меня предчувствие, что вам не повезет в
+            следующий раз.</p>
+        </sp>
+        <sp who="#de_lessak">
+          <speaker>Де Лессак.</speaker>
+          <p>О сир...</p>
+        </sp>
+        <stage>Голос: "Стража!" Де Лессака уводят.</stage>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Вылетай из дворца.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>К-каналья!</p>
+        </sp>
+        <stage>Камердинеры засуетились, и перед Людовиком, словно из-под земли, появился стол с
+          одним прибором.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(возник у камина).</stage>
+          <p>Ваше величество, разрешите мне представить вам бродячего проповедника, отца
+            Варфоломея.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(начиная есть).</stage>
+          <p>Люблю всех моих подданных, в том числе и бродячих. Представьте мне его,
+            архиепископ.</p>
+        </sp>
+        <stage>Еще за дверью слышится странное пение. Дверь открывается, и появляется отец
+          Варфоломей. Во-первых, он босой, во-вторых, лохмат, подпоясан веревкой, глаза
+          безумные.</stage>
+        <sp who="#varfolomej">
+          <speaker>Варфоломей</speaker>
+          <stage>(приплясывая, поет).</stage>
+          <p>Мы полоумны во Христе.</p>
+        </sp>
+        <stage>Удивлены все, кроме Людовика.</stage>
+        <stage>Брат Верность – постная физиономия с длинным носом, в темном кафтане – выделяется из
+          толпы придворных и прокрадывается к Шаррону.</stage>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(глядя на Варфоломея, тихо).</stage>
+          <p>Жуткий мальчик, помолись.</p>
+        </sp>
+        <sp who="#varfolomej">
+          <speaker>Варфоломей.</speaker>
+          <p>Славнейший царь мира. Я пришел к тебе, чтобы сообщить, что у тебя в государстве
+            появился антихрист.</p>
+          <stage>У придворных на лицах отупение.</stage>
+          <p>Безбожник, ядовитый червь, грызущий подножие твоего трона, носит имя Жан-Батист Мольер.
+            Сожги его вместе с его богомерзким творением "Тартюф" на площади. Весь мир верных сынов
+            церкви требует этого.</p>
+        </sp>
+        <stage>Брат Верность при слове "требует" схватился за голову. Шаррон изменился в
+          лице.</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Требует? У кого же он требует?</p>
+        </sp>
+        <sp who="#varfolomej">
+          <speaker>Варфоломей.</speaker>
+          <p>У тебя, государь.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>У меня? Архиепископ, у меня тут что-то, требуют.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Простите, государь. Он, очевидно, помешался сегодня. А я не знал. Это моя вина.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(в пространство).</stage>
+          <p>Герцог, если не трудно, посадите отца Варфоломея на три месяца в тюрьму.</p>
+        </sp>
+        <sp who="#varfolomej">
+          <speaker>Варфоломей</speaker>
+          <stage>(кричит).</stage>
+          <p>Из-за антихриста страдаю!</p>
+        </sp>
+        <stage>Движение – и отец Варфоломей исчезает так, что его как будто и не было. Людовик
+          ест.</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Архиепископ, подойдите ко мне. Я хочу с вами говорить интимно.</p>
+          <stage>Придворные всей толпой отступают на лестницу. Отступает мушкетер, и Людовик –
+            наедине с Шарроном.</stage>
+          <p>Он – полоумный?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(твердо).</stage>
+          <p>Да, государь, он – полоумный, но у него сердце истинного служителя Бога.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Архиепископ, вы находите этого Мольера опасным?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(твердо).</stage>
+          <p>Государь, это сатана.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Гм. Вы, значит, разделяете мнение Варфоломея?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Да, государь, разделяю. Сир, выслушайте меня. Безоблачное и победоносное царствование
+            ваше не омрачено и ничем не будет омрачено, пока вы будете любить...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Кого?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Бога.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(сняв шляпу).</stage>
+          <p>Я люблю его.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(подняв руку).</stage>
+          <p>Он – там, вы – на земле, и больше нет никого.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Да.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Государь, нет пределов твоей мощи и никогда не будет, пока свет религии почиет над
+            твоим государством.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Люблю религию.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Так, государь, я вместе с блаженным Варфоломеем прошу тебя – заступись за нее.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Вы находите, что он оскорбил религию?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Так, государь.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Дерзкий актер талантлив. Хорошо, архиепископ, я заступлюсь... Но... <stage>(понизив
+              голос)</stage> я попробую исправить его, он может служить к славе царствования. Но
+            если он совершит еще одну дерзость, я накажу. <stage>(Пауза.)</stage> Этот – блаженный
+            ваш, – он любит короля?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Да, государь.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Архиепископ, выпустите монаха через три дня, но внушите ему, что, разговаривая с
+            королем Франции, нельзя произносить слово "требует".</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Да благословит тебя Бог, государь, и да опустит он свою карающую руку на
+            безбожника.</p>
+        </sp>
+        <stage>Голос: "Слуга вашего величества господин де Мольер".</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Пригласить.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(входит, издали кланяется Людовику, проходит при величайшем внимании придворных. Он
+            очень постарел, лицо больное, серое).</stage>
+          <p>Сир!</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Господин де Мольер, я ужинаю, вы не в претензии?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>О сир!</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>А вы со мной? <stage>(В пространство.)</stage> Стул, прибор.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(бледнея).</stage>
+          <p>Ваше величество, этой чести я принять не могу. Увольте.</p>
+        </sp>
+        <stage>Стул появляется, и Мольер садится на краешек его.</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Как относитесь к цыпленку?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Любимое мое блюдо, государь. <stage>(Умоляюще.)</stage> Разрешите встать.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Кушайте. Как поживает мой крестник?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>К великому горю моему, государь, ребенок умер.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Как, и второй?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Не живут мои дети, государь.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Не следует унывать.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ваше величество, во Франции не было случая, чтобы кто-нибудь ужинал с вами. Я
+            беспокоюсь.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Франция, господин де Мольер, перед вами в кресле. Она ест цыпленка и не
+            беспокоится.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>О сир, только вы один в мире можете сказать так.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Скажите, чем подарит короля в ближайшее время ваше талантливое перо?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Государь... то, что может... послужить... <stage>(Волнуется.)</stage></p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Остро пишете. Но следует знать, что есть темы, которых надо касаться с осторожностью. А
+            в вашем "Тартюфе" вы были, согласитесь, неосторожны. Духовных лиц надлежит уважать. Я
+            надеюсь, что мой писатель не может быть безбожником?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(испуганно).</stage>
+          <p>Помилуйте... ваше величество...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Твердо веря в то, что в дальнейшем ваше творчество пойдет по правильному пути, я вам
+            разрешаю играть в Пале-Рояле вашу пьесу "Тартюф".</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(приходит в, странное состояние).</stage>
+          <p>Люблю тебя, король! <stage>(В волнении.)</stage> Где архиепископ де Шаррон? Вы слышите?
+            Вы слышите?</p>
+        </sp>
+        <stage>Людовик встает. Голос: "Королевский ужин окончен!"</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(Мольеру).</stage>
+          <p>Сегодня вы будете стелить мне постель.</p>
+        </sp>
+        <stage>Мольер схватывает со стола два канделябра и идет впереди. За ним пошел Людовик, и –
+          как будто ветер подул – все перед ними расступаются.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(кричит монотонно).</stage>
+          <p>Дорогу королю! Дорогу королю! <stage>(Поднявшись на лестницу, кричит в
+              пустоту.)</stage> Смотрите, архиепископ, вы меня не тронете! Дорогу королю!</p>
+          <stage>Наверху загремели трубы.</stage>
+          <p>Разрешен "Тартюф"! <stage>(Скрывается с Людовиком.)</stage></p>
+        </sp>
+        <stage>Исчезают все придворные, и на сцене остаются только Шаррон и Брат Верность, оба
+          черны.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(у лестницы).</stage>
+          <p>Нет. Не исправит тебя король. Всемогущий Бог, вооружи меня и поведи по стопам
+            безбожника, чтобы я его настиг! <stage>(Пауза.)</stage> И упадет с этой лестницы!
+              <stage>(Пауза.)</stage> Подойдите ко мне, Брат Верность.</p>
+          <stage>Брат Верность подходит к Шаррону.</stage>
+          <p>Брат Верность, вы что же это? Полоумного прислали? Я вам поверил, что он произведет
+            впечатление на государя.</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Кто же знал, что он произнесет слово "требует"?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Требует!</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Требует!!</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Вы нашли женщину?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Да, архиепископ, все готово. Она послала записку и привезет его.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Поедет ли он?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>За женщиной? О, будьте уверены!</p>
+        </sp>
+        <stage>На верху лестницы показывается Одноглазый, Шаррон и Брат Верность исчезают.</stage>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(веселится в одиночестве).</stage>
+          <p>Ловил поп антихриста, поймал... три месяца тюрьмы! Истинный Бог, помо...</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник</speaker>
+          <stage>(появившись из-под лестницы).</stage>
+          <p>Ты, Помолись?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Ну, скажем, я. Ты можешь называть меня просто маркиз д'Орсиньи. Что тебе надо?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Тебе записка.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>От кого?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Кто ж ее знает, я ее в парке встретил, а сама она в маске.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(читая записку).</stage>
+          <p>Гм... какая же это женщина?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник</speaker>
+          <stage>(изучая записку).</stage>
+          <p>Я думаю, легкого поведения.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Почему?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Потому, что записки пишет.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Дурак.</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Чего ж ты лаешься?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Сложена хорошо?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Ну, это ты сам узнаешь.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Ты прав. <stage>(Уходит задумчиво.)</stage></p>
+        </sp>
+        <stage>Огни начинают гаснуть, и у дверей, как видения, появляются темные мушкетеры. Голос в
+          верху лестницы, протяжно: "Король спит!" Другой голос, в отдалении: "Король спит!" Третий
+          голос в подземелье, таинственно: "Король спит!"</stage>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Усну и я. <stage>(Ложится на карточный стол, закутывается в портьеру с гербами так, что
+              торчат только его чудовищные башмаки.)</stage></p>
+        </sp>
+        <stage>Дворец расплывается в темноте и исчезает... и возникает квартира Мольера. День.
+          Клавесин открыт. Муаррон, пышно разодетый, очень красивый человек лет двадцати двух,
+          играет нежно. Арманда в кресле слушает, не спуская с него глаз. Муаррон кончил
+          играть.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Что вы, маменька, скажете по поводу моей игры?</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Господин Муаррон, я просила уже вас не называть меня маменькой.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Во-первых, сударыня, я не Муаррон, а господин де Муаррон. Вон как! Хе-хе. Хо-хо.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Уж не в клавесине ли сидя, вы получили титул?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Забудем клавесин. Он покрылся пылью забвения. Это было давно. Ныне же я знаменитый
+            актер, коему рукоплещет Париж. Хе-хе. Хо-хо.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>И я вам советую не забывать, что этим вы обязаны моему мужу. Он вытащил вас за грязное
+            ухо из клавесина.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Не за ухо, а за не менее грязные ноги. Отец – пристойная личность, нет слов, но ревнив,
+            как сатана, и характера ужасного.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Могу поздравить моего мужа. Изумительного наглеца он усыновил.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Нагловат я, верно, это правильно... Такой характер у меня... Но актер! Нет равного
+            актера в Париже. <stage>(Излишне веселится, как человек, накликающий на себя
+              беду.)</stage></p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ах нахал! А Мольер?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Ну чего же говорить... Трое и есть: мэтр да я.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>А третий кто?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Вы, мама. Вы, моя знаменитая актриса. Вы. Психея. <stage>(Тихо аккомпанирует себе,
+              декламирует.)</stage> Весной в лесах... летает Бог...</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(глухо).</stage>
+          <p>Отодвинься от меня.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(левой рукой обнимает Арманду, правой аккомпанирует).</stage>
+          <p>Так строен стан... Амур-герой.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Несет колчан... Грозит стрелой... <stage>(Тревожно.)</stage> Где Бутон?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Не бойся, верный слуга на рынке.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(декламирует).</stage>
+          <p>Богиня Венера послала любовь. Прильни, мой любовник, вспени мою кровь.</p>
+          <stage>Муаррон поднимает край ее платья, целует ногу.</stage>
+          <p><stage>(Вздрагивает, закрывает глаза.)</stage> Негодяй! <stage>(Тревожно.)</stage> Где
+            Ренэ?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Старуха в кухне. <stage>(Целует другое колено.)</stage> Мама, пойдем ко мне в
+            комнату.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ни за что, Девой Пречистой клянусь!</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Пройдем ко мне.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Ты самый опасный человек в Париже. Будь неладен час, когда тебя откопали в
+            клавесине.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Мама, идем...</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Девой клянусь, нет... <stage>(Встает.)</stage> Не пойду. <stage>(Идет, скрывается с
+              Муарроном за дверью.)</stage></p>
+          <stage>Муаррон закрывает дверь на ключ.</stage>
+          <p>Зачем, зачем ты закрываешь дверь? <stage>(Глухо.)</stage> Ты меня погубишь!..</p>
+        </sp>
+        <stage>Пауза. Входит Бутон с корзиной овощей, торчат хвосты моркови.</stage>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(прислушивается, ставит корзину на пол).</stage>
+          <p>Странно. <stage>(Снимает башмаки, крадется к двери, слушает.)</stage> Ах, разбойник!..
+            Но, господа, я здесь ни при чем... ничего не видел, не слышал и не знаю... Царь
+            небесный, он идет! <stage>(Скрывается, вставив на полу корзину и башмаки.)</stage></p>
+        </sp>
+        <stage>Входит Мольер, кладет трость и шляпу, недоуменно смотрит на башмаки.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Арманда!</p>
+        </sp>
+        <stage>Ключ в замке мгновенно поворачивается. Мольер устремляется в дверь. Арманда
+          вскрикивает за дверью, шум за дверью, затем выбегает Муаррон, держит свой парик в
+          руке.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Да как вы смеете?!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(выбегает за ним).</stage>
+          <p>Мерзавец! <stage>(Задыхаясь.)</stage> Не верю, не верю глазам!.. <stage>(Опускается в
+              кресло. Ключ в замке поворачивается.)</stage></p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(за дверью).</stage>
+          <p>Жан-Батист, опомнись!</p>
+        </sp>
+        <stage>Бутон заглянул в дверь и пропал.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(погрозил кулаком двери).</stage>
+          <p>Так ты, значит, ел мой хлеб и за это меня обесчестил?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Вы смели меня ударить! Берегитесь! <stage>(Берется за рукоятку шпаги.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Брось сейчас же рукоятку, гадина!</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Вызываю вас!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Меня? <stage>(Пауза.)</stage> Вон из моего дома!</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Вы безумный, вот что, отец. Прямо Сганарель.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Бесчестный бродяга! Я тебя отогрел, но я же тебя и ввергну в пучину. Будешь ты играть
+            на ярмарках. Захария Муаррон, с сегодняшнего числа ты в труппе Пале-Рояля не служишь.
+            Иди.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Как, вы гоните меня из труппы?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Уходи, усыновленный вор.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(за дверью отчаянно).</stage>
+          <p>Мольер!</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(теряясь).</stage>
+          <p>Отец, вам померещилось, мы репетировали Психею... своего текста не знаете... Что же это
+            вы разбиваете мою жизнь?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Уходи, или я действительно ткну тебя шпагой.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Так. <stage>(Пауза.)</stage> В высокой мере интересно знать, кто же это будет играть
+            Дон Жуана? Уж не Лагранж ли? Хо-хо. <stage>(Пауза.)</stage> Но смотрите, господин де
+            Мольер, не раскайтесь в вашем безумии. <stage>(Пауза.)</stage> Я, господин Мольер,
+            владею вашей тайной.</p>
+          <stage>Мольер рассмеялся.</stage>
+          <p>Госпожу Мадлену Бежар вы забыли? Да? Она при смерти... все молится... А между тем,
+            сударь, во Франции есть король.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Презренный желторотый лгун, что ты несешь?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Несешь? Прямо отсюда отправляюсь я к архиепископу.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(рассмеялся).</stage>
+          <p>Ну, спасибо измене. Узнал я тебя. Но имей в виду, что если до этих твоих слов мое
+            сердце еще могло смягчиться, после них – никогда. Ступай, жалкий дурак!</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(из двери).</stage>
+          <p>Сганарель проклятый!</p>
+        </sp>
+        <stage>Мольер хватает со стены пистолет, и Муаррон исчезает.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(трясет дверь, потом говорит в замочную скважину).</stage>
+          <p>Уличная женщина.</p>
+          <stage>Арманда громко зарыдала за дверью.</stage>
+          <p>Бутон!</p>
+        </sp>
+        <stage>Входит Бутон в чулках.</stage>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Я, сударь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Сводник.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Сударь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Почему здесь башмаки?!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Это, сударь...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Лжешь, по глазам вижу, что лжешь!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Сударь, чтобы налгать, нужно хоть что-нибудь сказать. А я еще ничего не произнес.
+            Башмаки я снял, ибо... Гвозди, изволите видеть? Подкованные башмаки, будь они
+            прокляты... так я, изволите ли видеть, громыхал ногами, а они репетировали и от меня
+            двери на ключ заперли.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(за дверью).</stage>
+          <p>Да!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Овощи при чем?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>А овощи вообще не участвуют. Ни при чем. Я их с базара принес. <stage>(Надевает
+              башмаки.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Арманда!</p>
+          <stage>Молчание.</stage>
+          <p><stage>(Говорит в скважину.)</stage> Ты что же, хочешь, чтобы я умер? У меня больное
+            сердце.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(в скважину).</stage>
+          <p>Вы что, хотите, чтобы он умер? У него больное сердце...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Пошел вон. <stage>(Ударяет ногой по корзине.)</stage></p>
+          <stage>Бутон исчезает.</stage>
+          <p>Арманда... <stage>(Садится у двери на скамеечку.)</stage> Потерпи еще немного, я скоро
+            освобожу тебя. Я не хочу умирать в одиночестве...</p>
+          <stage>Арманда выходит заплаканная.</stage>
+          <p>А ты можешь поклясться?</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Клянусь.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Скажи мне что-нибудь.</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(шмыгая носом).</stage>
+          <p>Такой драматург, а дома... дома... Я не понимаю, как в тебе это может уживаться. Как?
+            Что ты наделал? Скандал на весь Париж. Зачем ты выгнал Муаррона?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Да, верно. Ужасный срам. Но ведь он, ты знаешь, негодяй, змееныш... ох, порочный,
+            порочный мальчик, и я боюсь за него. Действительно, от отчаяния он начнет шляться по
+            Парижу, а я его ударил... Ох, как неприятно!..</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда.</speaker>
+          <p>Верни Муаррона, верни.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Пусть один день походит, а потом я его верну.</p>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+        <stage>Каменный подвал, освещенный трехсвечной люстрой. Стол, покрытый красным сукном, на
+          нем книга и какие-то рукописи. За столом сидят члены Кабалы Священного писания в масках; в
+          кресле отдельно, без маски, сидит</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Дверь открывается, и двое в черном – люди жуткого вида – вводят Муаррона со связанными
+            руками и с повязкой на глазах. Руки ему развязывают, повязку снимают.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Куда меня привели?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Это все равно, сын мой. Ну, повторяй при собрании этих честных братьев свой донос.</p>
+        </sp>
+        <stage>Муаррон молчит.</stage>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Ты – немой?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Кх... я... святой архиепископ... неясно тогда расслышал и... Я, пожалуй, лучше ничего
+            не буду говорить.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Похоже, сын мой, что ты мне сегодня утром наклеветал на господина Мольера.</p>
+        </sp>
+        <stage>Муаррон молчит.</stage>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Отвечай, грациозная дрянь, архиепископу.</p>
+        </sp>
+        <stage>Молчание.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>С прискорбием вижу я, сын мой, что ты наклеветал.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Врать вредно, дорогой актер. Придется тебе сесть в тюрьму, красавчик, где ты долго
+            будешь кормить клопов. А делу мы все равно ход дадим.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(хрипло).</stage>
+          <p>Я не клеветал.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Не тяни из меня жилы, рассказывай.</p>
+          <stage>Муаррон молчит.</stage>
+          <p>Эй!</p>
+          <stage>Из двери выходят двое еще более неприятного вида, чем те, которые Муаррона
+            привели.</stage>
+          <p><stage>(Глядя на башмаки Муаррона.)</stage> А у тебя красивые башмаки, но бывают и еще
+            красивее. <stage>(Заплечным мастерам.)</stage> Принесите сюда испанский сапожок.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Не надо. Несколько лет тому назад я, мальчишкой, сидел в клавесине у шарлатана.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Зачем же тебя туда занесло?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Я играл на внутренней клавиатуре. Это такой фокус, будто бы самоиграющий клавесин.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Ну-с?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>В клавесине... Нет, не могу, святой отец! Я был пьян сегодня утром, я забыл, что я
+            сказал вам...</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>В последний раз прошу тебя не останавливаться!</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>И... ночью слышал, как голос сказал, что господин де Мольер... женился не на сестре...
+            Мадлены Бежар... а на ее дочери...</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Так чей же это был голос?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Я полагаю, что он мне пригрезился.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Ну вот, чей пригрезился тебе?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Актера Лагранжа.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Ну, довольно, спасибо тебе, другу. Ты честно исполнил свой долг. Не терзайся. Всякий
+            верный подданный короля и сын церкви за честь должен считать донести о преступлении,
+            которое ему известно.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Он ничего себе малый. Первоначально он мне не понравился, но теперь я вижу, что он
+            добрый католик.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(Муаррону).</stage>
+          <p>Ты, друг, проведешь день или два в помещении, где к тебе будут хорошо относиться и
+            кормить, а потом ты поедешь со мной к королю.</p>
+          <stage>Муаррону завязывают глаза, связывают руки и уводят его.</stage>
+          <p>Так вот, братья, сейчас здесь будет посторонний, и разговаривать с ним я попрошу Брата
+            Верность, потому что мой голос он знает.</p>
+        </sp>
+        <stage>В дверь стучат. Шаррон надвигает капюшон на лицо и скрывается в полутьме. Брат
+          Верность идет открывать дверь. Появляется Незнакомка в маске и ведет за руку Одноглазого.
+          Глаза у того завязаны платком.</stage>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Очаровательница, когда же вы наконец разрешите снять повязку? Вы могли бы положиться и
+            на мое слово. Помолись, в вашей квартире пахнет сыростью.</p>
+        </sp>
+        <sp who="#neznakomka_v_maske">
+          <speaker>Незнакомка в маске.</speaker>
+          <p>Еще одна ступенька, маркиз. Так... Снимайте. <stage>(Прячется.)</stage></p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(снимает повязку, оглядывается).</stage>
+          <p>А! Помолись! <stage>(Мгновенно правой рукой выхватывает шпагу, а левой пистолет и
+              становится спиной к стене, обнаруживает большой жизненный опыт. Пауза.)</stage> У
+            некоторых под плащами торчат кончики шпаг. В большой компании меня можно убить, но
+            предупреждаю, что трех из вас вынесут из этой ямы ногами вперед. Я – "Помолись". Ни с
+            места! Где дрянь, заманившая меня в ловушку?</p>
+        </sp>
+        <sp who="#neznakomka_v_maske">
+          <speaker>Незнакомка в маске</speaker>
+          <stage>(из тьмы).</stage>
+          <p>Я здесь, маркиз, но я вовсе не дрянь.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Фи, маркиз, даме...</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Мы просим вас успокоиться, никто не хочет нападать на вас.</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Маркиз, спрячьте ваш пистолет, он смотрит, как дырявый глаз, и портит беседу.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Где я нахожусь?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>В подвале церкви.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Требую выпустить меня отсюда!</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Дверь в любую минуту откроют для вас.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>В таком случае зачем же заманивать меня сюда, помолись! Прежде всего, это не заговор на
+            жизнь короля?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Бог вас простит, маркиз. Здесь пламенные обожатели короля. Вы находитесь на тайном
+            заседании Кабалы Священного писания.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Ба! Кабала! Я не верил в то, что она существует. Зачем же я понадобился ей?
+              <stage>(Прячет пистолет.)</stage></p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Присаживайтесь, маркиз, прошу вас.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Спасибо. <stage>(Садится.)</stage></p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Мы скорбим о вас, маркиз.</p>
+        </sp>
+        <sp who="#chleny_kabaly">
+          <speaker>Члены Кабалы</speaker>
+          <stage>(хором).</stage>
+          <p>Мы скорбим.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>А я не люблю, когда скорбят. Изложите дело.</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Маркиз, мы хотели вас предупредить о том, что над вами смеются при дворе.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Это ошибка. Меня зовут "Помолись".</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Кому же во Франции неизвестно ваше несравненное искусство? Поэтому и шепчутся за вашей
+            спиной.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(хлопнув шпагой по столу).</stage>
+          <p>Фамилию!</p>
+        </sp>
+        <stage>Члены Кабалы перекрестились.</stage>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>К чему этот шум, маркиз?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Шепчет весь двор.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Говорите, а не то я потеряю терпение!</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Вы изволите знать гнуснейшую пьесу некоего Жана-Батиста Мольера под названием
+            "Тартюф"?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Я в театр Пале-Рояль не хожу, но слышал о ней.</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>В этой пьесе комедиант-безбожник насмеялся над религией и над ее служителями.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Какой негодник!</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Но не одну религию оскорбил Мольер. Ненавидя высшее общество, он и над ним надругался.
+            Пьесу "Дон Жуан", может быть, изволите знать?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Тоже слышал. Но какое отношение к д'0рсиньи имеет балаган в Пале-Рояле?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>У нас совершенно точные сведения о том, что борзописец вас, маркиз, вывел в качества
+            своего героя Дон Жуана.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(спрятав шпагу).</stage>
+          <p>Что же это за Дон Жуан?</p>
+        </sp>
+        <sp who="#brat_sila">
+          <speaker>Брат Сила.</speaker>
+          <p>Безбожник, негодяй, убийца и, простите, маркиз, растлитель женщин.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(изменившись в лице).</stage>
+          <p>Так. Благодарю вас.</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность</speaker>
+          <stage>(взяв со стола рукопись).</stage>
+          <p>Может быть, вам угодно ознакомиться с материалом?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Нет, благодарю, неинтересно. Скажите, среди присутствующих, может быть, есть
+            кто-нибудь, кто считает, что были основания вывести д'Орсиньи в пакостном виде?</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Братья, нет ли такого?</p>
+          <stage>Среди членов Кабалы полное отрицание.</stage>
+          <p>Такого не имеется. Итак, вы изволите видеть, какими побуждениями мы руководствовались,
+            пригласив вас столь странным способом на тайное заседание. Здесь, маркиз, лица вашего
+            круга, и вы сами понимаете, как нам неприятно...</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Вполне. Благодарю вас.</p>
+        </sp>
+        <sp who="#brat_vernost">
+          <speaker>Брат Верность.</speaker>
+          <p>Многоуважаемый маркиз, мы полагаемся на то, что сказанное сегодня останется между нами,
+            равно как и никому не будет известно, что мы тревожили вас.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Не беспокойтесь, сударь. Где дама, которая привезла меня?</p>
+        </sp>
+        <sp who="#neznakomka_v_maske">
+          <speaker>Незнакомка в маске</speaker>
+          <stage>(входит).</stage>
+          <p>Я здесь.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(хмуро).</stage>
+          <p>Приношу вам свои извинения, сударыня.</p>
+        </sp>
+        <sp who="#neznakomka_v_maske">
+          <speaker>Незнакомка в маске.</speaker>
+          <p>Бог вас простит, маркиз, прощаю и я. Пожалуйста со мной, я отвезу вас к тому месту, где
+            мы встретились. Вы дозволите вам опять завязать глаза, потому что почтенное общество не
+            хочет, чтобы кто-нибудь видел дорогу к месту их заседаний.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Если уж это так необходимо...</p>
+        </sp>
+        <stage>Одноглазому завязывают глаза, и Незнакомка уводит его. Дверь закрывается.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(снимая капюшон и выходя из тьмы).</stage>
+          <p>Заседание Кабалы Священного писания объявляю закрытым. Помолимся, братья.</p>
+        </sp>
+        <sp who="#chleny_kabaly">
+          <speaker>Члены Кабалы</speaker>
+          <stage>встают и тихо поют.</stage>
+          <p>Laudamus, tibi. Domine, rex aetemae gloriae..</p>
+        </sp>
+        <stage>...Необъятный собор полон ладаном, туманом и тьмой. Бродят огоньки. Маленькая
+          исповедальня архиепископа, в ней свечи. Проходят две темные фигуры, послышался хриплый
+          шепот: "Вы видели "Тартюфа"?.. Вы видели "Тартюфа"?.." – и пропал. Появляются Арманда и
+          Лагранж, ведут под руки Мадлену. Та – седая, больная.</stage>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Спасибо, Арманда. Спасибо и вам, Варле, мой преданный друг.</p>
+        </sp>
+        <stage>Орган зазвучал в высоте.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Мы подождем вас здесь. Вот дверь архиепископа.</p>
+        </sp>
+        <stage>Мадлена крестится и, тихо постучав, входит в исповедальню. Арманда и Лагранж
+          закутываются в черные плащи, садятся на скамью, и тьма их поглощает.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(возникает в исповедальне).</stage>
+          <p>Подойдите, дочь моя. Вы – Мадлена Бежар?</p>
+          <stage>Орган умолк.</stage>
+          <p>Узнал я, что вы одна из самых набожных дочерей собора, и сердцу моему вы милы. Я сам
+            решил исповедовать вас.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Какая честь мне, грешнице. <stage>(Целует руки Шаррону.)</stage></p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(благословляя Мадлену. накрывает ее голову покрывалом).</stage>
+          <p>Вы больны, бедная?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Больна, мой архиепископ.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(страдальчески).</stage>
+          <p>Что же, хочешь оставит мир?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Хочу оставить мир.</p>
+        </sp>
+        <stage>Орган в высоте.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Чем больна?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Врачи сказали, что сгнила моя кровь, и вижу дьявола, и боюсь его.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Бедная женщина! Чем спасаешься от дьявола?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Молюсь.</p>
+        </sp>
+        <stage>Орган умолкает.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Господь за это вознесет тебя и полюбит.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>А он не забудет меня?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Нет. Чем грешна, говори.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Всю жизнь грешила, мой отец. Была великой блудницей, лгала, много лет была актрисой и
+            всех прельщала.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Какой-нибудь особенно тяжкий грех за собой помнишь?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Не помню, архиепископ.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(печально).</stage>
+          <p>Безумны люди. И придешь ты с раскаленным гвоздем в сердце, и там уже никто не вынет.
+            Никогда! Значение слова "никогда" понимаешь ли?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(подумала).</stage>
+          <p>Поняла. <stage>(Испугалась.)</stage> Ах, боюсь!</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(превращаясь в дьявола).</stage>
+          <p>И увидишь костры, а между ними...</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>...ходит, ходит часовой...</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>...и шепчет... зачем же ты не оставила свой грех, а принесла его с собой?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>А я заломлю руки. Богу закричу.</p>
+        </sp>
+        <stage>Орган зазвучал.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>И тогда уже не услышит Господь. И обвиснешь ты на цепях, и ноги погрузишь в костер... И
+            так всегда. Слово "всегда" понимаешь?</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Боюсь понять. Если я пойму, я сейчас же умру. <stage>(Вскрикивает слабо.)</stage>
+            Поняла. А если оставить здесь?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Будешь слушать вечную службу.</p>
+        </sp>
+        <stage>В высоте, со свечами прошла процессия и спели детские голоса. Потом это все
+          исчезло.</stage>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(шарит руками, как во тьме).</stage>
+          <p>Где вы, святой отец?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(глухо).</stage>
+          <p>Я здесь... Я здесь... Я здесь...</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Хочу слушать вечную службу. <stage>(Шепчет страстно.)</stage> Давно, давно я жила с
+            двумя и прижила дочь Арманду и всю жизнь терзалась, не зная, чья она...</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Ах, бедная...</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>Я родила ее в провинции. Когда же она выросла, я привезла ее в Париж и выдала ее за
+            свою сестру. Он же, обуреваемый страстью, сошелся с ней, и я уже ничего не сказала ему,
+            чтобы не сделать несчастным и его. Из-за меня, быть может, он совершил смертный грех, а
+            меня поверг в ад. Хочу лететь в вечную службу.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>И я, архиепископ, властью мне данною, тебя развязываю и отпускаю.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(плача от восторга).</stage>
+          <p>Теперь могу лететь!</p>
+        </sp>
+        <stage>Орган запел мощно.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(плача счастливыми слезами).</stage>
+          <p>Лети, лети.</p>
+          <stage>Орган замолк.</stage>
+          <p>Ваша дочь здесь? Позовите ее сюда, я прощу и ей невольный грех.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена</speaker>
+          <stage>(выходя из исповедальни).</stage>
+          <p>Арманда, Арманда, сестра моя, пойди, архиепископ и тебя благословит. Я счастлива!.. Я
+            счастлива!..</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Я посажу вас в карету.</p>
+        </sp>
+        <sp who="#madlena">
+          <speaker>Мадлена.</speaker>
+          <p>А Арманда?</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Вернусь за ней. <stage>(Уводит Мадлену во мрак.)</stage></p>
+        </sp>
+        <stage>Арманда входит в исповедальню. Шаррон возникает страшен, в рогатой митре, крестит
+          обратным дьявольским крестом Арманду несколько раз быстро. Орган загудел мощно.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Скажи, ты знаешь, кто был сейчас у меня?</p>
+        </sp>
+        <sp who="#armanda">
+          <speaker>Арманда</speaker>
+          <stage>(ужасается, вдруг все понимает).</stage>
+          <p>Нет, нет... Она сестра моя, сестра...</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Она твоя мать. Тебе я прощаю. Но сегодня же беги от него, беги.</p>
+        </sp>
+        <stage>Арманда, слабо вскрикнув, падает навзничь и остается неподвижной на пороге
+          исповедальни. Шаррон исчезает. Орган гудит успокоительно.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(возвращается в полумраке, как темный рыцарь).</stage>
+          <p>Арманда, вам дурно?</p>
+        </sp>
+        <stage>Тьма.</stage>
+        <stage>...День. Приемная короля. Людовик, в темном кафтане с золотом, – у стола. Перед ним –
+          темный и измученный Шаррон. На полу сидит Справедливый сапожник – чинит башмак.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>На предсмертной исповеди она мне это подтвердила, и тогда я не счел даже нужным, ваше
+            величество, допрашивать актера Лагранжа, чтобы не раздувать это гнусное дело. И
+            следствие я прекратил. Ваше величество, Мольер запятнал себя преступлением. Впрочем, как
+            будет угодно судить вашему величеству.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Благодарю вас, мой архиепископ. Вы поступили правильно. Я считаю дело выясненным.
+              <stage>(Звонит, говорит в пространство.)</stage> Вызовите сейчас же директора
+            Пале-Рояль господина де Мольера. Снимите караулы из этих комнат, я буду говорить
+            наедине. <stage>(Шаррону.)</stage> Архиепископ, пришлите ко мне этого Муаррона.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Сейчас, сир. <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Великий монарх, видимо, королевство без доносов существовать не может?</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Помалкивай, шут, чини башмак. А ты не любишь доносчиков?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Ну чего же в них любить? Такая сволочь, ваше величество!</p>
+        </sp>
+        <stage>Входит Муаррон. Глаза у него затравленные, запуган и имеет такой вид, точно он спал
+          не раздеваясь. Людовик, которого он видит так близко – впервые, очевидно, – производит на
+          него большое впечатление.</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик</speaker>
+          <stage>(вежливо).</stage>
+          <p>Захария Муаррон?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Так, ваше величество.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Вы в клавесине сидели?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Я, сир.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Господин де Мольер вас усыновил?</p>
+          <stage>Муаррон молчит.</stage>
+          <p>Я вам задал вопрос.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Да.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Актерскому искусству он вас учил?</p>
+          <stage>Муаррон заплакал.</stage>
+          <p>Я вам задал вопрос.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Он.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Каким побуждением руководствовались, когда писали донос на имя короля? Здесь написано:
+            "желая помочь правосудию".</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(механически).</stage>
+          <p>Так, желая...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Верно ли, что он вас ударил по лицу?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Верно.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>За что?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Его жена изменяла ему со мной.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Так. Это не обязательно сообщать на допросе. Можно сказать так: по интимным причинам.
+            Сколько вам лет?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Двадцать три года.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Объявляю вам благоприятное известие. Донос ваш подтвержден следствием. Какое
+            вознаграждение хотите получить от короля? Денег хотите?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(вздрогнул. Пауза).</stage>
+          <p>Ваше величество, позвольте мне поступить в королевский бургонский театр.</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Нет. О вас сведения, что вы слабый актер. Нельзя.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Я – слабый?.. <stage>(Наивно.)</stage> А в Театр дю Марэ?</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Тоже нет.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>А что же делать мне?..</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Зачем вам эта сомнительная профессия актера? Вы – ничем не запятнанный человек. Если
+            желаете, вас примут на королевскую службу, в сыскную полицию. Подайте на имя короля
+            заявление. Оно будет удовлетворено. Можете идти.</p>
+        </sp>
+        <stage>Муаррон пошел.</stage>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>На осину, на осину...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Шут. <stage>(Звонит.)</stage> Господина де Мольера!</p>
+        </sp>
+        <stage>Лишь только Муаррон скрылся за дверью, в других дверях появляется Лагранж, вводит
+          Мольера и тотчас же скрывается. Мольер в странном виде: воротник надет криво, парик в
+          беспорядке, лицо свинцовое, руки трясутся, шпага висит криво.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Сир...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Почему и с каким спутником вы явились, в то время как пригласили вас одного?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(испуганно улыбаясь).</stage>
+          <p>Верный ученик мой, актер де Лагранж... проводил. У меня, извольте ли видеть, случился
+            сердечный припадок, и я один дойти не мог... Надеюсь, я ничем не прогневил ваше
+            величество? <stage>(Пауза.)</stage> У меня, изволите ли... несчастье случилось...
+            извините за беспорядок в туалете. Мадлена Бежар скончалась вчера, а жена моя, Арманда, в
+            тот же час бежала из дому... Все бросила... Платья, вообразите... комод... кольца... и
+            безумную записку оставила... <stage>(Вынимает из кармана какой-то лоскут, заискивающе
+              улыбается.)</stage></p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Святой архиепископ оказался прав. Вы не только грязный хулитель религии в ваших
+            произведениях, но вы и преступник, вы – безбожник.</p>
+          <stage>Мольер замер.</stage>
+          <p>Объявляю вам решение по делу о вашей женитьбе: запрещаю вам появляться при дворе,
+            запрещаю играть "Тартюфа". Только с тем, чтобы ваша труппа не умерла с голоду, разрешаю
+            играть в Пале-Рояле ваши смешные комедии, но ничего более... И с этого дня бойтесь
+            напомнить мне о себе! Лишаю вас покровительства короля.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ваше величество, ведь это же бедствие... хуже плахи... <stage>(Пауза.)</stage> За
+            что?</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>За тень скандальной свадьбы, брошенную на королевское имя.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(опускаясь в кресло).</stage>
+          <p>Извините... я не могу подняться...</p>
+        </sp>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Уезжайте. Прием окончен. <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(заглянув в дверь).</stage>
+          <p>Что?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Карету... Отвези... Позови...</p>
+          <stage>Лагранж скрывается.</stage>
+          <p>Мадлену бы, посоветоваться, но она умерла. Что же это такое?</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник</speaker>
+          <stage>(сочувственно).</stage>
+          <p>Ты что же это? В Бога не веришь, да? Э... как тебя скрутило... На яблоко.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(машинально берет яблоко).</stage>
+          <p>Благодарю.</p>
+          <stage>Шаррон входит и останавливается, долго смотрит на Мольера. У Шаррона удовлетворенно
+            мерцают глаза.</stage>
+          <p><stage>(При виде Шаррона начинает оживать – до этого он лежал грудью на столе.
+              Приподнимается, глаза заблестели.)</stage> А, святой отец! Довольны? Это за "Тартюфа"?
+            Понятно мне, почему вы так ополчились за религию. Догадливы вы, мой преподобный. Нет
+            спору. Говорят мне как-то приятели: "Описали бы вы какую-нибудь стерву – монаха". Я вас
+            и изобразил. Потому что где же взять лучшую стерву, чем вы?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Я скорблю о вас, потому что кто по этому пути пошел, тот уж наверное будет на виселице,
+            сын мой.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Да вы меня не называйте вашим сыном, потому что я не чертов сын. <stage>(Вынимает
+              шпагу.)</stage></p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>Что ж ты лаешься?</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(мерцая).</stage>
+          <p>Впрочем, вы до виселицы не дойдете. <stage>(Зловеще оглядывается.)</stage></p>
+        </sp>
+        <stage>Из-за двери выходит Одноглазый с тростью.</stage>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый</speaker>
+          <stage>(молча подходит к Мольеру, наступает ему на ногу).</stage>
+          <p>Господин, вы толкнули меня и не извинились. Вы – невежа!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(машинально).</stage>
+          <p>Извините... <stage>(Напряженно.)</stage> Вы толкнули меня.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Вы – лгун!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Как смеете вы! Что вам угодно от меня?!</p>
+        </sp>
+        <stage>Лагранж вошел в это мгновение.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(изменился в лице).</stage>
+          <p>Мэтр, сию минуту уходите, уходите! <stage>(Волнуясь.)</stage> Маркиз, господин де
+            Мольер нездоров.</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Я застал его со шпагой в руке. Он здоров. <stage>(Мольеру.)</stage> Моя фамилия –
+            д'Орсиньи. Вы, милостивый государь, прохвост!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Я вызываю вас!</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(в ужасе).</stage>
+          <p>Уходите. Это – "Помолись"!</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Господа, что вы делаете, в королевской приемной, ах...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Я вызываю!</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Готово дело. Больше я вас не оскорбляю. <stage>(Зловеще-весело.)</stage> Суди меня Бог,
+            великий король! Принимай, сырая Бастилия! <stage>(Лагранжу.)</stage> Вы, сударь, будете
+            свидетелем. <stage>(Мольеру.)</stage> Отдайте ему распоряжение насчет имущества.
+              <stage>(Вынимает шпагу, пробует конец.)</stage> Нет распоряжений? <stage>(Кричит
+              негромко и протяжно.)</stage> Помолись! <stage>(Крестит воздух шпагой.)</stage></p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Господа, опомнитесь!.. Господа!.. <stage>(Легко взлетает на лестницу и оттуда смотрит
+              на поединок.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Прямое убийство.</p>
+        </sp>
+        <sp who="#spravedlivyj_sapozhnik">
+          <speaker>Справедливый сапожник.</speaker>
+          <p>В королевской приемной режутся!</p>
+        </sp>
+        <stage>Одноглазый схватывает Справедливого сапожника за шиворот, и тот умолкает. Одноглазый
+          бросается на Мольера. Мольер, отмахиваясь шпагой, прячется за стол. Одноглазый вскакивает
+          на стол.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Бросайте шпагу, учитель!</p>
+        </sp>
+        <stage>Мольер бросает шпагу, опускается на пол.</stage>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Берите шпагу!</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(Одноглазому).</stage>
+          <p>Вы не можете колоть человека, у которого нет шпаги в руке!</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Я и не колю. <stage>(Мольеру.)</stage> Берите шпагу, подлый трус!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Не оскорбляйте меня и не бейте. Я как-то чего-то не понимаю. У меня, изволите ли
+            видеть, больное сердце... и моя жена бросила меня... Бриллиантовые кольца на полу
+            валяются... даже белья не взяла... беда...</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Ничего не понимаю!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Я не постигаю, за что вы бросились на меня? Я вас и видел-то только два раза в жизни.
+            Вы деньги приносили?.. Но ведь это было давно. Я болен... уж вы, пожалуйста, меня не
+            трогайте...</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Я вас убью после первого вашего спектакля! <stage>(Вкладывает шпагу в
+            ножны.)</stage></p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Хорошо... хорошо... все равно...</p>
+        </sp>
+        <stage>Справедливый сапожник вдруг срывается с места и исчезает. Лагранж поднимает Мольера с
+          полу, схватывает шпагу и увлекает Мольера вон. Одноглазый смотрит им вслед.</stage>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(сходит с лестницы с горящими глазами. Пауза).</stage>
+          <p>Почему вы его не кололи?</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Какое вам дело? Он бросил шпагу, помолись.</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон.</speaker>
+          <p>Болван!</p>
+        </sp>
+        <sp who="#odnoglazyj">
+          <speaker>Одноглазый.</speaker>
+          <p>Что?! Чертов поп!</p>
+        </sp>
+        <sp who="#sharron">
+          <speaker>Шаррон</speaker>
+          <stage>(вдруг плюнул в Одноглазого).</stage>
+          <p>Тьфу!</p>
+        </sp>
+        <stage>Одноглазый до того оторопел, что в ответ плюнул в Шаррона. Дверь открылась, и влетел
+          взволнованный Справедливый сапожник, за ним вошел Людовик. Ссорящиеся до того увлеклись,
+          что не сразу перестали плевать. Четверо долго и тупо смотрели друг на друга.</stage>
+        <sp who="#ljudovik">
+          <speaker>Людовик.</speaker>
+          <p>Извините, что помешал <stage>(Скрывается, закрыв за собой дверь.)</stage></p>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</head>
+        <stage>Квартира Мольера. Вечер. Свечи в канделябрах, таинственные тени на стенах.
+          Беспорядок. Разбросаны рукописи. Мольер, в колпаке, в белье, в халате, сидит в громадном
+          кресле. Бутон – в другом. На столе две шпаги и пистолет. На другом столе ужин и вино, к
+          которому Бутон время от времени прикладывается. Лагранж в темном плаще ходит взад и вперед
+          и не то ноет, не то что-то напевает, за ним по стене ходит темная рыцарская тень.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>У... клавесин... клавесин...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Перестань, Лагранж. Ты тут ни при чем. Это судьба пришла в мой дом и похитила у меня
+            все.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Истинная правда. У меня у самого трагическая судьба. Торговал я, например, в Лиможе
+            пирожками... Никто этих пирожков не покупает, конечно... Хотел стать актером, к вам
+            попал...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Помолчи, Бутон.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Молчу.</p>
+        </sp>
+        <stage>Горькая пауза. Затем слышен скрип лестницы. Дверь открывается, и входит Муаррон. Он
+          не в кафтане, а в какой-то грязной куртке. Потерт, небрит и полупьян, в руке фонарь.
+          Сидящие прикладывают руки козырьком к глазам. Когда Муаррона узнали, Лагранж схватывает со
+          стола пистолет, Мольер бьет Лагранжа по руке, Лагранж стреляет и попадает в потолок.
+          Муаррон, ничуть не удивившись, вяло посмотрел в то место, куда попала пуля. Лагранж,
+          хватаясь за что попало, разбивает кувшин, бросается на Муаррона, валит его на землю и
+          начинает душить.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Казни меня, король, казни... <stage>(Рыча.)</stage> Иуда!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(страдальчески).</stage>
+          <p>Бутон... Бутон... <stage>(Вдвоем с Бутоном оттаскивают Лагранжа от Муаррона.
+              Лагранжу.)</stage> А ведь уморишь меня ты, ты... стрельбой и шумом... Ты что ж еще?
+            Убийство у меня в квартире учинить хочешь?</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Тварь Захария Муаррон, ты меня знаешь?</p>
+          <stage>Муаррон утвердительно кивает.</stage>
+          <p>Куда бы ты ночью ни пошел – жди смерти. Утра ты уже не увидишь. <stage>(Закутывается в
+              плащ и умолкает.)</stage></p>
+        </sp>
+        <stage>Муаррон утвердительно кивает головой Лагранжу, становится перед Мольером на колени и
+          кланяется в землю.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>С чем пожаловал, сынок? Преступление раскрыто, стало быть, что можешь ты еще выудить в
+            моем доме? О чем напишешь королю? Или ты подозреваешь, что я еще и фальшивомонетчик?
+            Осмотри шкафы и комоды, я тебе разрешаю.</p>
+          <stage>Муаррон вторично кланяется.</stage>
+          <p>Без поклонов говори, что тебе требуется.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Уважаемый и предрагоценный мой учитель, вы думаете, что я пришел просить прощения. Нет.
+            Я явился, чтобы успокоить вас: не позже полуночи я повешусь у вас под окнами вследствие
+            того, что жизнь моя продолжаться не может. Вот веревка. <stage>(Вынимает из кармана
+              веревку.)</stage> И вот записка: "Я ухожу в ад".</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(горько).</stage>
+          <p>Вот успокоил.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(глотнув вина).</stage>
+          <p>Да, это труднейший случай. Один философ сказал...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Молчи, Бутон.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Молчу.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Я пришел побыть возле вас. А на госпожу Мольер, если бы я остался жить, я не взгляну ни
+            одного раза.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Тебе и не придется взглянуть на нее, мой сын, потому что она ушла, и навеки я один. У
+            меня необузданный характер, потому я и могу сперва совершить что-нибудь, а потом уже
+            думать об этом. И вот, подумав и умудрившись после того, что случилось, я тебя прощаю и
+            возвращаю в мой дом. Входи.</p>
+        </sp>
+        <stage>Муаррон заплакал.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(раскрыв свой плащ).</stage>
+          <p>Вы, учитель, не человек, не человек. Вы – тряпка, которой моют полы!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(ему).</stage>
+          <p>Дерзкий щенок! Не рассуждай о том, чего не понимаешь. <stage>(Пауза. Муаррону.)</stage>
+            Вставай, не протирай штаны.</p>
+          <stage>Пауза. Муаррон поднялся. Пауза.</stage>
+          <p>Где кафтан?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>В кабаке заложил.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>За сколько?</p>
+          <stage>Муаррон махнул рукой.</stage>
+          <p><stage>(Ворчит.)</stage> Это свинство – атласные кафтаны в кабаках оставлять.
+              <stage>(Бутону.)</stage> Выкупить кафтан... <stage>(Муаррону.)</stage> Ты, говорят,
+            бродил, бродил и к королю даже забрел?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(бия себя в грудь).</stage>
+          <p>И сказал мне король: в сыщики, в сыщики... Вы, говорит, плохой актер...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ах, сердце человеческое! Ах, куманек мой, ах, король! Король ошибся: ты актер первого
+            ранга, а в сыщики ты не годишься – у тебя сердце неподходящее. Об одном я сожалею – что
+            играть мне с тобой не придется долго. Спустили на меня, мой друг, одноглазую собаку –
+            мушкетера. Лишил меня король покровительства, и, стало быть, зарежут меня. Бежать
+            придется.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Учитель, пока я жив, не удастся ему вас зарезать, верьте мне! Вы знаете, как я владею
+            шпагой.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(высунув ухо из плаща).</stage>
+          <p>Ты поразительно владеешь шпагой, это верно. Но, гнусная гадина, прежде чем ты подойдешь
+            к "Помолись", купи себе панихиду в соборе.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Сзади заколю.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Это по тебе.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(Мольеру).</stage>
+          <p>Буду неотлучно ходить рядом с вами, дома и на улице, ночью и днем, с чем и явился.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Как сыщик.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(Лагранжу).</stage>
+          <p>Заткни себе рот кружевом.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Милый Регистр, не оскорбляй меня, зачем же оскорблять того, кто не может тебе ответить.
+            Меня не следует трогать – я человек с пятном. И не бросайся на меня этой ночью. Ты
+            убьешь меня, тебя повесят, а Кабала беззащитного мэтра заколет.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ты значительно поумнел с тех пор, как исчез из дому.</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(Лагранжу).</stage>
+          <p>Имей в виду, что мэтра признали безбожником за "Тартюфа". Я был в подвале у Кабалы...
+            Закона для него нету – значит, жди всего. Мольер. Знаю. <stage>(Вздрагивает.)</stage>
+            Постучали? Муаррон. Нет. <stage>(Лагранжу.)</stage> Бери пистолет и фонарь, идем
+            караулить.</p>
+        </sp>
+        <stage>Лагранж и Муаррон берут оружие и фонарь и уходят. Пауза.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Тиран, тиран...</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Про кого вы это говорите, мэтр?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Про короля Франции...</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Молчите!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Про Людовика Великого! Тиран!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Все кончено. Повешены оба.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ох, Бутон, я сегодня чуть не умер от страху. Золотой идол, а глаза, веришь ли,
+            изумрудные. Руки у меня покрылись холодным потом. Поплыло все косяком, все боком, и
+            соображаю только одно – что он меня давит! Идол!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Повешены оба, и я в том числе. Рядышком на площади. Так вот вы висите, а наискосок – я.
+            Безвинно погибший Жан-Жак Бутон. Где я? В царстве небесном. Не узнаю местности.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Всю жизнь я ему лизал шпоры и думал только одно: не раздави. И вот все-таки – раздавил.
+            Тиран!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>И бьет барабан на площади. Кто высунул не вовремя язык? Будет он висеть до самого
+            пояса.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>За что? Понимаешь, я сегодня утром спрашиваю его – за что? Не понимаю... Я ему говорю:
+            я, ваше величество, ненавижу такие поступки, я протестую, я оскорблен, ваше величество,
+            извольте объяснить... Извольте... я, быть может, вам мало льстил? Я, быть может, мало
+            ползал?.. Ваше величество, где же вы найдете такого другого блюдолиза, как Мольер?.. Но
+            ведь из-за чего, Бутон? Из-за "Тартюфа". Из-за этого унижался. Думал найти союзника.
+            Нашел! Не унижайся. Бутон! Ненавижу королевскую тиранию!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Мэтр, вам памятник поставят. Девушка у фонтана, а изо рта у нее бьет струя. Вы
+            выдающаяся личность, но только замолчите... Чтобы у вас язык отсох... За что меня вы
+            губите?..</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Что еще я должен сделать, чтобы доказать, что я червь? Но, ваше величество, я писатель,
+            я мыслю, знаете ли, я протестую... она не дочь моя! <stage>(Бутону.)</stage> Попросите
+            ко мне Мадлену Бежар, я хочу посоветоваться.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Что вы, мэтр?!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>А... умерла... Зачем, моя старуха, ты не сказала мне всей правды? Или нет, зачем, зачем
+            ты не учила меня, зачем не била ты меня?.. Понимаешь ли, свечи, говорит, зажжем... я
+            приду к тебе... <stage>(Тоскует.)</stage> Свечи-то горят, а ее нет... Я еще кафтан на
+            тебе разорвал... На тебе луидор за кафтан.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(плаксиво).</stage>
+          <p>Я кликну кого-нибудь... Это было десять лет назад, что вы...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Укладывай все. Сыграю завтра в последний раз, и побежим в Англию. Как глупо! На море
+            дует ветер, язык чужой, и вообще дело не в Англии, а в том, что...</p>
+        </sp>
+        <stage>Дверь открывается, и в ней появляется голова старухи Ренэ.</stage>
+        <sp who="#rene">
+          <speaker>Ренэ.</speaker>
+          <p>Там за вами монашка пришла.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(испуганно).</stage>
+          <p>Что такое?!. Какая монашка?</p>
+        </sp>
+        <sp who="#rene">
+          <speaker>Ренэ.</speaker>
+          <p>Вы же сами хотели ей дать стирать театральные костюмы.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Фу, старая дура Ренэ, как напугала! Э! Костюмы! Скажи ей, чтобы завтра пришла к концу
+            спектакля в Пале-Рояль. Дура!</p>
+        </sp>
+        <sp who="#rene">
+          <speaker>Ренэ.</speaker>
+          <p>Мне что. Вы сами велели.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Ничего я не велел.</p>
+          <stage>Ренэ скрывается. Пауза.</stage>
+          <p>Да, какие еще дела? Ах да, кафтан... Покажи-ка, где я paзорвал?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Мэтр, ложитесь, ради Бога! Какой кафтан?</p>
+          <stage>Мольер вдруг забирается под одеяло и скрывается под ним с головой.</stage>
+          <p>Всемогущий Господи, сделай так, чтобы никто не слышал того, что он говорил. Применим
+            хитрость. <stage>(Неестественно громко и фальшиво, как бы продолжая беседу.)</stage> Так
+            вы что говорите, милостивый государь? Что наш король есть самый лучший, самый блестящий
+            король во всем мире? С моей стороны возражений нет. Присоединяюсь к вашему мнению.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <p>Бездарность.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Молчите! <stage>(Фальшивым голосом)</stage> Да, я кричал, кричу и буду кричать: да
+            здравствует король!</p>
+        </sp>
+        <stage>В окно стучат. Мольер тревожно высовывает голову из-под одеяла. Бутон осторожно
+          открывает окно, и в окне появляется встревоженный Муаррон с фонарем.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <p>Кто крикнул? Что случилось?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Ничего не случилось. Почему непременно что-нибудь должно случиться? Я беседовал с
+            господином де Мольером и крикнул: да здравствует король! Имеет Бутон право хоть
+            что-нибудь кричать? Он и кричит. Да здравствует король!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Боже, какой бездарный дурак!</p>
+        </sp>
+        <stage>...Уборная актеров в Пале-Рояле. И так же по-прежнему висит, старая зеленая афиша, и
+          так же у распятия горит лампадка и зеленый фонарь у Лагранжа. Но за занавесами слышны гул
+          и свистки. В кресле сидит Мольер, в халате и колпаке, в гриме с карикатурным носом. Мольер
+          возбужден, в странном состоянии, как будто пьян. Возле него – в черных костюмах врачей, но
+          без грима Лагранж и дю Круази. Валяются карикатурные маски врачей.</stage>
+        <stage>Дверь открывается, и вбегает Бутон; Муаррон в начале сцены стоит неподвижно в
+          отдалении, в черном плаще.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <stage>(под одеялом).</stage>
+          <p>Ну! Умер?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(Лагранжу).</stage>
+          <p>Шпагой...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Попрошу обращаться к директору Пале-Рояля, а не к актерам. Я еще хозяин на последнем
+            спектакле!</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(ему).</stage>
+          <p>Ну, умер. Шпагой ударили в сердце.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Царство небесное. Ну что же сделаешь...</p>
+        </sp>
+        <sp who="#sufler">
+          <speaker>Суфлер</speaker>
+          <stage>(заглянув в дверь).</stage>
+          <p>Что происходит?</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(подчеркнуто громко).</stage>
+          <p>Что происходит? Мушкетеры ворвались в театр и убили привратника.</p>
+        </sp>
+        <sp who="#sufler">
+          <speaker>Суфлер.</speaker>
+          <p>Э!.. <stage>(Скрывается.)</stage></p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Я, секретарь театра, заявляю. Театр полон безбилетными мушкетерами и неизвестными мне
+            личностями. Я бессилен сдерживать их и запрещаю продолжать спектакль.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Но... но... но!.. Он запрещает! Не забывай, кто ты такой! Ты в сравнении со мной
+            мальчуган, а я седой, вот что.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(шепотом Бутону).</stage>
+          <p>Он пил?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Ни капли.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Что я еще хотел сказать?..</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Золотой господин де Мольер...</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Бутон!..</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>...пошел вон!.. Я знаю, двадцать лет я с вами и слышу только эту фразу или – молчи,
+            Бутон! И я привык. Вы меня любите, мэтр, и во имя этой любви умоляю коленопреклоненно –
+            не доигрывайте спектакль, а бегите – карета готова.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>С чего ты взял, что я тебя люблю? Ты болтун. Меня никто не любит. Меня раздражают, за
+            мной гоняются! И вышло распоряжение архиепископа не хоронить меня на кладбище. Стало
+            быть, все будут в ограде, а я околею за оградой. Так знайте, что я не нуждаюсь в их
+            кладбище, плюю на это! Всю жизнь вы меня травите, вы все враги мне.</p>
+        </sp>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази.</speaker>
+          <p>Побойтесь Бога, мэтр, мы...</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(Бутону).</stage>
+          <p>Как играть в таком состоянии, как играть?</p>
+          <stage>Свист и грохот за занавесами.</stage>
+          <p>Вот!</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Масленица! В Пале-Рояле били люстры не раз. Партер веселится.</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(зловеще).</stage>
+          <p>В театре Одноглазый.</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(утихнув).</stage>
+          <p>А... <stage>(Испуганно.)</stage> Где Муаррон? <stage>(Бросается к Муаррону и прячется у
+              него в плаще.)</stage></p>
+        </sp>
+        <stage>Муаррон, оскалив зубы, молчит, обняв Мольера.</stage>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази</speaker>
+          <stage>(шепотом).</stage>
+          <p>Врача звать надо.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(выглянув из плаща, робко).</stage>
+          <p>На сцене он меня не может тронуть, а?..</p>
+        </sp>
+        <stage>Молчание. Дверь открывается, и вбегает Риваль. Она в оригинальном костюме, по
+          обыкновению полуобнажена, на голове шляпа врача, очки колесами.</stage>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <p>Больше нельзя затягивать антракт. Или играть...</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Хочет играть, что делать?</p>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль</speaker>
+          <stage>(долго смотрит на Мольера).</stage>
+          <p>Играть.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(вылезая из плаща).</stage>
+          <p>Молодец! Храбрая моя старуха, иди, я тебя поцелую. Разве можно начать последний
+            спектакль и не доиграть. Она понимает. Двенадцать лет ты со мной играешь, и, веришь ли,
+            ни одного раза я тебя не видел одетой, всегда ты голая.</p>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль</speaker>
+          <stage>(целует его).</stage>
+          <p>Э, Жан-Батист, король вас простит.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(мутно).</stage>
+          <p>Он... да...</p>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <p>Вы меня будете слушать?</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(подумав).</stage>
+          <p>Буду. А их не буду. <stage>(Как-то нелепо двинул ногой.)</stage> Они дураки.
+              <stage>(Вдруг вздрогнул и резко изменился.)</stage> Простите меня, господа, я позволил
+            себе грубость. Я и сам не понимаю, как у меня это вырвалось. Я взволнован. Войдите в мое
+            положение, господин дю Круази...</p>
+        </sp>
+        <sp who="#dju_kruazi #lagranzh #buton">
+          <speaker>Дю Круази, Лагранж, Бутон</speaker>
+          <stage>(хором).</stage>
+          <p>Мы не сердимся!</p>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <p>Сейчас же после вашей последней фразы мы спустим вас в люк, спрячем у меня в уборной до
+            утра, а на рассвете вы покинете Париж. Согласны? Тогда начинаем.</p>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <p>Согласен. Давайте последнюю картину.</p>
+        </sp>
+        <stage>Дю Круази, Лагранж и Муаррон схватывают маски и скрываются. Мольер обнимает Риваль, и
+          та исчезает. Мольер снимает халат. Бутон открывает занавес, отделяющий нас от сцены. На
+          сцене громадная кровать, белая статуя, темный портрет на стене, столик с колокольчиком.
+          Люстры загорожены зелеными экранами, и от этого на сцене ночной уютный свет. В будке
+          загораются свечи, в ней появляется Суфлер. За главным занавесом шумит зрительный зал,
+          изредка взмывают зловещие свистки. Мольер, резко изменившись, с необыкновенной легкостью
+          взлетает на кровать, укладывается, накрывается одеялом.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(Суфлеру, шепотом).</stage>
+          <p>Давай!</p>
+        </sp>
+        <stage>Раздается удар гонга, за занавесом стихает зал. Начинается веселая таинственная
+          музыка. Мольер под нее захрапел. С шорохом упал громадный занавес. Чувствуется, что театр
+          переполнен. В крайней золоченой ложе громоздятся какие-то смутные лица. В музыке громовой
+          Удар литавр, и из полу вырастает Лагранж с невероятным носом, в черном колпаке,
+          заглядывает Мольеру в лицо.</stage>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(в ужасе).</stage>
+          <p>Что за дьявол?.. Ночью в спальне? Потрудитесь выйти вон!</p>
+        </sp>
+        <stage>Музыка.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <lg>
+            <l>Не кричите так нахально.</l>
+            <l>Терапевт я, ваш Пургон!</l>
+          </lg>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(садится в ужасе на кровати).</stage>
+          <l>Виноват. Кто там за пологом?!</l>
+          <stage>Портрет на стене разрывается, и из него высовывается дю Круази пьяная харя с
+            красным носом, в докторских очках и колпаке.</stage>
+          <l>Вот еще один. <stage>(Портрету.)</stage> Я рад...</l>
+        </sp>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази</speaker>
+          <stage>(пьяным басом).</stage>
+          <lg>
+            <l>От коллегии венерологов</l>
+            <l>К вам явился депутат.</l>
+          </lg>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <lg>
+            <l>Не мерещится ль мне это?</l>
+            <stage>Статуя разваливается, и из нее вылетает Риваль.</stage>
+            <l>Что за дикий инцидент?</l>
+          </lg>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <lg>
+            <l>Медицинских факультетов</l>
+            <l>Я бессменный президент.</l>
+          </lg>
+        </sp>
+        <stage>В зале "Га-га-га!" Из полу вырастает чудовище – врач неимоверного роста.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <lg>
+            <l>Врач длиной под самый ярус.</l>
+            <l>Слуги! <stage>(Звонит.)</stage> Я сошел с ума!</l>
+          </lg>
+        </sp>
+        <stage>Подушки на кровати взрываются, и в изголовье вырастает Муаррон.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <lg>
+            <l>Вот и я – Диафуарус,</l>
+            <l>Незабвенный врач Фома!</l>
+          </lg>
+        </sp>
+        <stage>Падает третий, дальний занавес, и за ним вырастает хор врачей и аптекарей в смешных и
+          странных масках.</stage>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <lg>
+            <l>Но чему обязан честью?..</l>
+            <l>Ведь столь поздняя пора...</l>
+          </lg>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <l>Мы приехали с известьем!</l>
+        </sp>
+        <sp who="#hor_vrachej">
+          <speaker>Хор врачей</speaker>
+          <stage>(грянул).</stage>
+          <l>Вас возводят в доктора!!</l>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <l>Кто спасает свой желудок?</l>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <l>Кто ревень пригоршней ест!</l>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <l>Бене, бене, бене, бене!</l>
+        </sp>
+        <sp who="#hor_vrachej">
+          <speaker>Хор врачей.</speaker>
+          <l>Новус доктор дигнус эст!</l>
+        </sp>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази.</speaker>
+          <l>Например, вот скажем, – луэс?</l>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер.</speaker>
+          <l>Схватишь – лечишь восемь лет!</l>
+        </sp>
+        <stage>В зале: "Га-га-га!.."</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <lg>
+            <l>Браво, браво, браво, браво,</l>
+            <l>Замечательный ответ!</l>
+          </lg>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль.</speaker>
+          <l>У него большие знанья...</l>
+        </sp>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази.</speaker>
+          <l>Так и рубит он сплеча!</l>
+        </sp>
+        <stage>Из ложи внезапно показывается Одноглазый, садится на борт ее и застывает в позе
+          ожиданья.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон.</speaker>
+          <l>И в раю получит званье...</l>
+        </sp>
+        <sp who="#hor_vrachej">
+          <speaker>Хор врачей</speaker>
+          <stage>(грянул).</stage>
+          <l>Бакалавра и врача!</l>
+        </sp>
+        <sp who="#moler">
+          <speaker>Мольер</speaker>
+          <stage>(внезапно падает смешно).</stage>
+          <p>Мадлену мне! Посоветоваться... Помогите!..</p>
+          <stage>В зале: "Га-га-га!.."</stage>
+          <p>Партер, не смейся, сейчас, сейчас... <stage>(Затихает.)</stage></p>
+        </sp>
+        <stage>Музыка играет еще несколько моментов, потом разваливается. В ответ на удар литавр в
+          уборной Мольера вырастает страшная Монашка.</stage>
+        <sp who="#monashka">
+          <speaker>Монашка</speaker>
+          <stage>(гнусаво).</stage>
+          <p>Где его костюмы? <stage>(Быстро собирает все костюмы Мольера и исчезает с
+              ними.)</stage></p>
+        </sp>
+        <stage>На сцене смятение.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(сняв маску, у рампы).</stage>
+          <p>Господа, господин де Мольер, исполняющий роль Аргана, упал...
+              <stage>(Волнуется.)</stage> Спектакль не может быть окончен.</p>
+        </sp>
+        <stage>Тишина. Потом крик из ложи: "Деньги обратно!" Свист и гул.</stage>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(сняв маску).</stage>
+          <p>Кто крикнул про деньги? <stage>(Вынимает шпагу, пробует ее конец.)</stage></p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон</speaker>
+          <stage>(на сцене, задушенно).</stage>
+          <p>Кто мог крикнуть это?</p>
+        </sp>
+        <sp who="#muarron">
+          <speaker>Муаррон</speaker>
+          <stage>(указывая на ложу).</stage>
+          <p>Вы или вы?</p>
+          <stage>Тишина.</stage>
+          <p><stage>(Одноглазому.)</stage> Грязный зверь!</p>
+          <stage>Одноглазый, вынув шпагу, поднимается на сцену.</stage>
+          <p><stage>(Идет, как кошка, ему навстречу.)</stage> Иди, иди. Подойди сюда!
+              <stage>(Поравнявшись с Мольером, глядит на него, втыкает шпагу в пол, поворачивается и
+              уходит со сцены.)</stage></p>
+        </sp>
+        <stage>Суфлер внезапно в будке заплакал. Одноглазый глядит на Мольера, вкладывает шпагу в
+          ножны и уходит со сцены.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(Бутону).</stage>
+          <p>Да дайте же занавес!</p>
+          <stage>Хор вышел из оцепенения, врачи и аптекари бросаются к Мольеру, окружают его
+            страшной толпой, и он исчезает. Бутон закрыл наконец занавес, и за ним заревел зал.
+            Бутон выбежал вслед за группой, унесшей Мольера.</stage>
+          <p>Господа, помогите мне! <stage>(Говорит в разрез занавеса.)</stage> Господа, прошу...
+            разъезд... У нас несчастье.</p>
+        </sp>
+        <sp who="#rival">
+          <speaker>Риваль</speaker>
+          <stage>(в другом разрезе).</stage>
+          <p>Господа, прошу вас... Господа... Господа...</p>
+        </sp>
+        <stage>Занавес вздувается, любопытные пытаются лезть на сцену.</stage>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази</speaker>
+          <stage>(в третьем разрезе).</stage>
+          <p>Господа... Господа...</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Гасите огни!</p>
+        </sp>
+        <stage>Дю Круази тушит люстры, шпагой сбивая свечи. Гул в зале несколько стихает.</stage>
+        <sp who="#rival">
+          <speaker>Риваль</speaker>
+          <stage>(в разрезе).</stage>
+          <p>Войдите в положение, господа!.. Разъезд, господа... Спектакль окончен...</p>
+        </sp>
+        <stage>Последняя свеча гаснет, и сцена погружается во тьму. Все исчезает. Выступает свет у
+          распятия. Сцена открыта, темна и пуста. Невдалеке от зеркала Мольера сидит скорчившись
+          темная фигура. На сцене выплывает фонарь, идет темный Лагранж.</stage>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(важным и суровым голосом).</stage>
+          <p>Кто остался здесь? Кто здесь?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Это я. Бутон.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж.</speaker>
+          <p>Почему вы не идете к нему?</p>
+        </sp>
+        <sp who="#buton">
+          <speaker>Бутон.</speaker>
+          <p>Не хочу.</p>
+        </sp>
+        <sp who="#lagranzh">
+          <speaker>Лагранж</speaker>
+          <stage>(проходит к себе, садится, освещается зеленым светом, разворачивает книгу, говорит
+            и пишет).</stage>
+          <p>"Семнадцатое февраля. Было четвертое представление пьесы "Мнимый больной", сочиненной
+            господином де Мольером. В десять часов вечера господин де Мольер, исполняя роль Аргана,
+            упал на сцене и тут же был похищен без покаяния неумолимой смертью".
+              <stage>(Пауза.)</stage> В знак этого рисую самый большой черный крест.
+              <stage>(Думает.)</stage> Что же явилось причиной этого? Что? Как записать?.. Причиной
+            этого явилась немилость короля и черная Кабала!.. Так я и запишу! <stage>(Пишет и
+              угасает во тьме.)</stage></p>
+        </sp>
+        <stage>Конец</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
