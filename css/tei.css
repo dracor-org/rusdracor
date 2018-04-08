@@ -1041,10 +1041,10 @@ title{
 title:empty{
   display: none;
 }
-title[lang="en"]:before{
+title[xml|lang="en"]:before{
   content: " (";
 }
-title[lang="en"]:after{
+title[xml|lang="en"]:after{
   content: ")\a";
 }
 
@@ -1255,7 +1255,7 @@ personGrp{
 }
 person:before{
   background-color: black;
-  content: "id:" attr(id) " ";
+  content: "id:" attr(xml|id) " ";
 }
 person:after{
   background-color: brown;
@@ -1263,7 +1263,7 @@ person:after{
 }
 personGrp:before{
   background-color: darkblue;
-  content: "id:" attr(id) " ";
+  content: "id:" attr(xml|id) " ";
 }
 personGrp:after{
   background-color: brown;
