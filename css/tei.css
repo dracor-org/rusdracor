@@ -979,7 +979,7 @@ div > stage{
   text-align: center;
   margin: 2.5em;
 }
-sp > stage:not([type]){
+p + stage:not([type]){
   display: block;
   text-align: center;
   margin: 0.5em;
@@ -1041,10 +1041,10 @@ title{
 title:empty{
   display: none;
 }
-title[xml|lang="en"]:before{
+title[lang="en"]:before{
   content: " (";
 }
-title[xml|lang="en"]:after{
+title[lang="en"]:after{
   content: ")\a";
 }
 
@@ -1255,7 +1255,7 @@ personGrp{
 }
 person:before{
   background-color: black;
-  content: "id:" attr(xml|id) " ";
+  content: "id:" attr(id) " ";
 }
 person:after{
   background-color: brown;
@@ -1263,7 +1263,7 @@ person:after{
 }
 personGrp:before{
   background-color: darkblue;
-  content: "id:" attr(xml|id) " ";
+  content: "id:" attr(id) " ";
 }
 personGrp:after{
   background-color: brown;
