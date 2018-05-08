@@ -1,10 +1,10 @@
 # RusDraCor
 
 We are building a Russian Drama Corpus with files encoded in
-[TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises **89 plays**
-so far (April 2018), stemming from [ilibrary](http://ilibrary.ru/),
+[TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises **90 plays**
+so far (May 2018), stemming from [ilibrary](http://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/), [РВБ](http://rvb.ru/) and
-[lib.ru](http://lib.ru/), converted into TEI and corrected by us. There will be
+[lib.ru](http://lib.ru/), converted to TEI and corrected by us. There will be
 more.
 
 If you just want to download the corpus in its current state, do this:
@@ -22,13 +22,11 @@ Shinyapp](https://shiny.dracor.org/).
 ## API
 
 An easy way to download the network data (instead of the actual TEI files) is
-to use our API, like so:
+to use our API. If you have [jq](http://blog.librato.com/posts/jq-json)
+installed, it would work like this:
 
 ```
-for file in tei/*.xml; do
-    fn=`basename $file | cut -d'.' -f1`
-    wget -O csv/"$fn".csv https://dracor.org/api/corpus/rus/play/"$fn"/networkdata/csv
+for play in `curl 'https://dracor.org/api/corpus/rus' | jq -r ".dramas[] .id"`; do
+    wget -O "$play".csv https://dracor.org/api/corpus/rus/play/"$play"/networkdata/csv
 done
 ```
-In this example, the script has to be executed in the directory under ```tei/```
-(which has to be checked out, of course) – CSV data will be written to ```csv/```.
