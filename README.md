@@ -1,11 +1,11 @@
 # RusDraCor
-
+## Corpus Description
 We are building a Russian Drama Corpus with files encoded in
-[TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises **90 plays**
-so far (May 2018), stemming from [ilibrary](http://ilibrary.ru/),
+[TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises
+**90 plays** to date, stemming from [ilibrary](http://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/), [РВБ](http://rvb.ru/) and
-[lib.ru](http://lib.ru/), converted to TEI and corrected by us. There will be
-more.
+[lib.ru](http://lib.ru/), converted to TEI and corrected by us. There
+will be more.
 
 If you just want to download the corpus in its current state, do this:
 
@@ -30,3 +30,23 @@ for play in `curl 'https://dracor.org/api/corpus/rus' | jq -r ".dramas[] .id"`; 
     wget -O "$play".csv https://dracor.org/api/corpus/rus/play/"$play"/networkdata/csv
 done
 ```
+
+The API info page is at `https://dracor.org/api/corpus/rus/metadata.csv`.
+
+## Simple Visualisation with R
+
+To have a first look at the distribution of the number of speakers per play over
+time, you could use R and respective libraries:
+
+```
+library(data.table)
+library(ggplot2)
+rusdracor <- fread("https://dracor.org/api/corpus/rus/metadata.csv")
+ggplot(rusdracor[], aes(x = year, y = numOfSpeakers)) + geom_point()
+```
+
+Result:
+
+![number of speakers per play over time](numOfSpeakers.png)
+
+(README last updated on May 27, 2018.)
