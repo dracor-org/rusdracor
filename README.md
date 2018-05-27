@@ -31,12 +31,12 @@ for play in `curl 'https://dracor.org/api/corpus/rus' | jq -r ".dramas[] .id"`; 
 done
 ```
 
-The API info page is at `https://dracor.org/api/corpus/rus/metadata.csv`.
+The API info page is at `https://dracor.org/api/info`.
 
 ## Simple Visualisation with R
 
 To have a first look at the distribution of the number of speakers per play over
-time, you could use R and respective libraries:
+time, you could feed the metadata table into R:
 
 ```
 library(data.table)
