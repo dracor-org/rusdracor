@@ -80,10 +80,6 @@
             <persName>Свистунов</persName>
             <persName xml:lang="de">Swistunow</persName>
           </person>
-          <person xml:id="kvartalnyj" sex="MALE">
-            <persName>Квартальный</persName>
-            <persName xml:lang="de">Polizist</persName>
-          </person>
           <person xml:id="chastnyj_pristav" sex="MALE">
             <persName>Частный пристав</persName>
             <persName xml:lang="de">Polizeiaufseher</persName>
@@ -677,7 +673,7 @@
             <p>Неожиданное известие!</p>
           </sp>
           <sp
-            who="#gorodnichij #ammos_fedorovich_ljapkin_tjapkin #pochtmejster #luka_lukich #artemij_filippovich_zemljanika #chastnyj_pristav #lekar #kvartalnyj">
+            who="#gorodnichij #ammos_fedorovich_ljapkin_tjapkin #pochtmejster #luka_lukich #artemij_filippovich_zemljanika #chastnyj_pristav #lekar">
             <speaker>Все.</speaker>
             <p>Что, что такое?</p>
           </sp>
@@ -907,7 +903,7 @@
             <speaker>Городничий.</speaker>
             <p>Что, дрожки там стоят?</p>
           </sp>
-          <sp who="#kvartalnyj">
+          <sp who="#svistunov">
             <speaker>Квартальный.</speaker>
             <p>Стоят.</p>
           </sp>
@@ -916,7 +912,7 @@
             <p>Ступай на улицу... или нет, постой! Ступай принеси... Да другие-то где? неужели ты
               только один? Ведь я приказывал, чтобы и Прохоров был здесь. Где Прохоров?</p>
           </sp>
-          <sp who="#kvartalnyj">
+          <sp who="#svistunov">
             <speaker>Квартальный.</speaker>
             <p>Прохоров в частном доме, да только к делу не может быть употреблен.</p>
           </sp>
@@ -924,7 +920,7 @@
             <speaker>Городничий.</speaker>
             <p>Как так?</p>
           </sp>
-          <sp who="#kvartalnyj">
+          <sp who="#svistunov">
             <speaker>Квартальный.</speaker>
             <p>Да так: привезли его поутру мертвецки. Вот уже два ушата воды вылили, до сих пор не
               протрезвился.</p>
