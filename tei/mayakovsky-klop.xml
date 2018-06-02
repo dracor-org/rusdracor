@@ -103,10 +103,6 @@
             <persName>Разносчик игрушек</persName>
             <persName xml:lang="de">Fliegender Spielzeughändler</persName>
           </person>
-          <person xml:id="raznoschik_pugovic" sex="MALE">
-            <persName>Разносчик пуговиц</persName>
-            <persName xml:lang="de">Knopfhändler</persName>
-          </person>
           <person xml:id="prodavec_seldej" sex="MALE">
             <persName>Продавец сельдей</persName>
             <persName xml:lang="de">Heringshändler</persName>
@@ -139,17 +135,9 @@
             <persName>Изобретатель</persName>
             <persName xml:lang="de">Der Erfinder</persName>
           </person>
-          <personGrp xml:id="vse_2" sex="UNKNOWN">
-            <name>Все (II)</name>
-            <name xml:lang="de">Alle (II)</name>
-          </personGrp>
           <person xml:id="paren_s_knigoj" sex="MALE">
             <persName>Парень с книгой</persName>
             <persName xml:lang="de">Der Bursche mit dem Buch</persName>
-          </person>
-          <person xml:id="paren_s_metloj" sex="MALE">
-            <persName>Парень с метлой</persName>
-            <persName xml:lang="de">Der Bursche mit dem Besen</persName>
           </person>
           <person xml:id="slesar" sex="MALE">
             <persName>Слесарь</persName>
@@ -682,7 +670,7 @@
           <stage>(схватывая сверточки)</stage>
           <p>Не извольте беспокоиться, за те же деньги.</p>
         </sp>
-        <sp who="#raznoschik_pugovic">
+        <sp who="#pugovichnyj_raznoschik">
           <speaker>Разносчик пуговиц</speaker>
           <l>Из-за пуговицы не стоит жениться!</l>
           <l>Из-за пуговицы не стоит разводиться!</l>
@@ -935,7 +923,7 @@
               Нагибается собрать, подносит к свету, заливается хохотом, еле созывая рукой
               товарищей.)</stage></p>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#uborschik #bosoj_paren #molodoj_rabochij #devushka_2 #izobretatel #paren_s_knigoj">
           <speaker>Все</speaker>
           <stage>(перечитывают, повторяют)</stage>
           <p>Пьер Скрипкин. Пьер Скрипкин!</p>
@@ -977,7 +965,7 @@
             них прав — не знаю. Печатать его больше не печатают, а знаменитый он теперь очень —
             молодежь обучает. Кого стихам, кого пению, кого танцам, кого так... деньги занимать.</p>
         </sp>
-        <sp who="#paren_s_metloj">
+        <sp who="#molodoj_rabochij">
           <speaker>Парень с метлой.</speaker>
           <p>Не рабочее это дело — мозоль лаком нагонять.</p>
         </sp>
