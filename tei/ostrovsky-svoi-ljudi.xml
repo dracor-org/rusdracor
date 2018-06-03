@@ -25,11 +25,8 @@
         <bibl type="digitalSource">
           <name>Интернет-библиотека Алексея Комарова</name>
           <idno type="URL">http://ilibrary.ru/text/2399/index.html</idno>
-          <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+          <availability status="free">
+            <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
             <title>А. Н. Островский. Полное собрание сочинений. Том 1.</title>

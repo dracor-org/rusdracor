@@ -25,11 +25,8 @@
         <bibl type="digitalSource">
           <name>Интернет-библиотека Алексея Комарова</name>
           <idno type="URL">http://ilibrary.ru/text/1553/index.html</idno>
-          <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+          <availability status="free">
+            <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
             <title>Н. В. Гоголь. Собрание сочинений в 9 т. Т. 4 Повести. М.: Русская книга,
