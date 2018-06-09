@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Противогазы</title>
+        <title type="main" xml:lang="en">Gas Masks</title>
+        <title type="sub" xml:lang="ru">Мелодрама в 3-х действиях</title>
+        <title type="sub" xml:lang="en">A Melodrama in Three Acts</title>
+        <author key="Wikidata:Q722164">Третьяков, Сергей Михайлович</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/tretyakov-protivogazy</idno>
+        <idno type="RusDraCor">92</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>СовЛит (ruthenia.ru)</name>
+          <idno type="URL">http://www.ruthenia.ru/sovlit/j/2917.html</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>С. Третьяков: Противогазы: Мелодрама в 3-х действиях. ЛЕФ: Журнал Левого фронта
+              искусств. – Москва; Петроград: Государственное издательство, 1923. – № 4. – С.
+              89–108.</title>
+            <date type="print" when="1923"/>
+            <date type="premiere" when="1924">"Премьера пьесы «Противогазы» — 29 февраля 1924 года."
+              (agitclub.ru)</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="sekretarsha" sex="FEMALE">
+            <persName>Секретарша</persName>
+          </person>
+          <person xml:id="direktor" sex="MALE">
+            <persName>Директор</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Мелодрама в 3-х действиях</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="#ff" when="2018-06-09">converted from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Противогазы</titlePart>
+        <titlePart type="sub">Мелодрама в 3-х действиях</titlePart>
+      </docTitle>
+      <castList>
+        <head>Действуют:</head>
+        <castItem>Директор завода.</castItem>
+        <castItem>Сын его - Петя.</castItem>
+        <castItem>Секретарша.</castItem>
+        <castItem>Егорыч - предзавком.</castItem>
+        <castItem>Дудин - рабкор.</castItem>
+        <castItem>Инженер.</castItem>
+        <castGroup>
+          <castItem>Васька Длинный</castItem>
+          <castItem>Лукач</castItem>
+          <roleDesc>рабочие.</roleDesc>
+        </castGroup>
+        <castItem>Старуха-работница.</castItem>
+        <castItem>Фома-рабочий.</castItem>
+        <castItem>Жена Фомы.</castItem>
+        <castItem>Рабочий на носилках.</castItem>
+        <castItem>Подросток.</castItem>
+        <castItem>Комсомольцы.</castItem>
+        <castItem>Рабочие.</castItem>
+        <castItem>Жены - работницы.</castItem>
+        <castItem>Курьер.</castItem>
+      </castList>
+      <set>
+        <p>Место действия - внутренность завода. Машины, станки, люк к газопроводной магистрали. В
+          стороне контора: стол, электр. звонок, телефон.</p>
+      </set>
+      <p>В городах - Москва, Петроград, Тула, Саратов, Иваново-Вознесенск, Рыбинск, Тверь,
+        Екатеринбург, Екатеринослав, Харьков, Тифлис, на срок по 16 октября 1924 г., право
+        постановки "ПРОТИВОГАЗОВ" закреплено исключительно за Пролеткультом и постановка этой пьесы
+        в перечисленных городах какой-либо иной организацией (за исключением рабочих клубов) может
+        делаться только с разрешения Ц. К. Всероссийского Пролеткульта (Москва, Воздвиженка,
+        16).</p>
+    </front>
+    <body>
+      <pb n="90"/>
+      <div type="act">
+        <head>1-е действие.</head>
+        <stage>(Директор входит ажитированно веселый и торопливый. Нажим звонка. Входит
+          секретарша.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Наконец-то. Едут?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Некогда. Скорее. Зовите предзавкома.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <stage>(в телефон)</stage>
+          <p>Егор Егорыч здесь? В контору к директору. Да. Срочно.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Берите дела. <stage>(передавая лист за листом из портфеля)</stage> Входящие. Входящие.
+            В бухгалтерию. Инженеру. Подшейте к делам. А где же заказ? Фу, чорт, куда завалился.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <stage>(заглянув в портфель)</stage>
+          <p>Это?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Это? Дядюшка заказа - ресторанный счет. Куда он делся? Ах ты Господи, дай карман
+            вспомнить. В ресторане все время в руках вертел. <stage>(мечется по
+            карманам)</stage></p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <stage>(рассматривая счет)</stage>
+          <p>Ого-го. Сумма недурненькая. А за это по головке не гладят.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А как иначе? Эх вы, святая простота. Что, я это для своего удовольствия что ли? Точно я
+            один это изобрел. Да без этого дяденьки я не то что набойки - ноги до колена сносил бы
+            по нашим учрежденским лестницам.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>И все-таки, попадись это нашему рабкору...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Дудину? Во-первых будьте любезны этот частный документ немедленно четвертовать. Во
+            избежание соблазна. А во-вторых, чтобы Дудин... Поняли? Я отнюдь не против рабочих
+            корреспондентов, но чувство меры, чувство такта и, наконец, самого примитивного
+            заводского патриотизма. Ему на все наплевать: дел не знает, а в колокол бухает. А у кого
+            в голове звенит - у директора. А кто расхлебывай - директор. А сколько голов у
+            директора? Сколько голов? Сколько?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Ну одна - чего горячитесь.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Горячитесь, горячитесь! А где заказ? Я спрашиваю где заказ?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <stage>(доставая еще бумагу)</stage>
+          <p>Постойте. Что такое? Наша просьба отпустить противогазы.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(смущенно)</stage>
+          <p>Ну.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Опять забыли. Ведь только ордер получить.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Почему думаете, что забыл.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Получили?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>С каких это пор вы стали противогазами заведывать. В чем дело. В чем дело я спрашиваю.
+            Вам нужны противогазы? Да? Сейчас? Атмосфера тяжелая? Да?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Да не легкая. Подшить? <stage>(хочет взять бумагу)</stage></p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Цыц! Оставьте здесь - в дачном расписании.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Так вы их получили или нет? Сами не можете, другим поручите.</p>
+        </sp>
+        <pb n="91"/>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Откуда эта спешка? Что вам здесь - драмстудия? Спокойствие. Выдержка...</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Но...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Некогда разговаривать. Будьте спокойны. Противогазы будут на месте, когда понадобится.
+              <stage>(секретарша выходит)</stage> Раньше послезавтра в них нужды нет. Пристали. Где
+            же заказ? <stage>(Егорыч входит)</stage> А, Егорыч!</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Едут?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Постойте. По порядку. Заказище получил на полмиллиона золотом.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Ну?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Зубами вырвал. На заседаниях и комиссиях штаны просидел. Ночь не спал.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Доклады писали?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Н-да доклады.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Это ладно. Наши ребяты уже носы повесили, думали сокращать начнут, а то и завод
+            закроют. Взглянуть можно?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Конечно. Сейчас найду. Запропастился. Теперь второе, на сладкое: гости будут
+            завтра.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Трестовцы?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Подымайте выше. Член ВСНХ, а может быть и сам староста пожалует.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Как же так завтра? Значит, скорее надо прибраться.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Идемте. Какие прорехи? <stage>(идут по заводу)</stage></p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Противогазов нет. Рабочие бунтуются. Собрание было. Слесаря обижаются, когда трубы
+            перевинчивать или вот заклепку намедни ставили...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Заклепку? С трубами неладно?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Сами знаете <stage>(стучит по трубе)</stage>. Слышите на честном слове держатся, а
+            ребята травятся. Вы уже три недели обещаете. Дудин корреспонденцию написал для
+            "Правды".</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Опять Дудин. А и хочется же ему на ваше место в фабзавком сесть. Не поддавайтесь. А
+            рабочим скажите, что директор обещал, то и сделает.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Так ведь он сегодня в "Правду" отошлет. <stage>(появляется курьер с ящиком)</stage></p>
+        </sp>
+        <sp who="#kurer">
+          <speaker>Курьер.</speaker>
+          <p>Куда поставить?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ага, привезли! <stage>(Егорычу)</stage> Скажите - противогазы есть.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Вот ладно. Давайте.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нет пусть химик проверит. <stage>(курьеру)</stage> Ко мне, в контору.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Ну и перекрою же я Дудина. Больно он коварный. Интриган.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Здесь вымести и подмыть. Стекла протереть. Не забудьте повесить плакат. - "Гигиена
+            первое дело на заводе". Да. Немедленно распорядитесь прибрать клуб. Портреты вождей на
+            местах?</p>
+        </sp>
+        <pb n="92"/>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Маркс дюже измялся. Троцкого нет.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Купите новых. Кумачу купите. Я думаю убрать кумачом - каймой вдоль потолка. По потолку
+            флажки и зелень. Из электрических лампочек вензель СССР. Отрядите за хвоей. Вашим
+            комсомольцам делать нечего, пусть займутся. У входа - арка из зелени. Оркестр
+            пригласите. Обязательно прорепетируйте интернационал. Вы сами понимаете: момент смычки
+            масс со своими вождями... в этом... а Дудин не подгадит?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Нет, он в больнице.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что такое?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Темное дело. Он написал о наших выпивалах - Ваське Длинном, Косине, Лукаче, ну и...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Взгрели.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Доищись кто. Ночью шел из клуба. У печей его взяли сзади, повалили, били...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Кто?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Он говорит, Ваську по голосу узнал. Но Васькины показывают, что дома сидели.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <stage>(проходя с Лукачем и прислушиваясь к разговору)</stage>
+          <p>Кляузит?</p>
+        </sp>
+        <sp who="#lukach">
+          <speaker>Лукач.</speaker>
+          <p>Не. Очки втирает.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <stage>(из-за спины показывает кулак Егорычу)</stage>
+          <p>Смотри у меня, посплетничай...</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>И подумаешь грех - выпил человек. Важно же, чтобы человек по-божески вино
+            употреблял.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Конечно по-божески. Мы же не святые. Что такое? Иконы? Не сняты? Скорее лестницу.
+            Кликните подмогу.</p>
+          <stage>(Егорыч добывает лестницу с парой рабочих. Директор лезет по ней в угол.)</stage>
+          <p>Какая неосмотрительность. И как это вы сами пролетарии не кончили с этим
+            безобразием.</p>
+        </sp>
+        <sp who="#rabochij_1">
+          <speaker>Рабочий.</speaker>
+          <p>Бабы бунтуются.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Какие могут быть разговоры. Снять по всей фабрике.</p>
+        </sp>
+        <stage>(Идут снимать. Через минуту вбегает Васька, у него вырывает икону группа баб со
+          старухой во главе.)</stage>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Оголтела. Пусти.</p>
+        </sp>
+        <sp who="#baba">
+          <speaker>Баба.</speaker>
+          <p>Не дам богов снимать. Отдай икону.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Ой, щекотушки боюсь.</p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>Отдай икону. Богохульник. Пьянчуга. Гром тебя разразит. Поганец.</p>
+        </sp>
+        <stage>(Старуха вырывает икону и в сердцах хлопает Ваську по макушке. Икона
+          пополам.)</stage>
+        <sp who="#rabochij_1">
+          <speaker>Рабочий.</speaker>
+          <p>О поганца икону испоганила.</p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>Об его башку что хочешь испоганишь.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>А громом-то кого разразило, меня или бога?</p>
+        </sp>
+        <sp who="#rabochij_1">
+          <speaker>Рабочий.</speaker>
+          <p>Ну бери, бери; склей да покланяйся.</p>
+        </sp>
+        <pb n="93"/>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Женщины, работницы, революционерки. Долг сознательного пролетариата кончить с
+            предрассудками...</p>
+        </sp>
+        <sp who="#baby">
+          <speaker>Бабы.</speaker>
+          <p>Чего богов забижают? Кому они мешают?</p>
+        </sp>
+        <sp who="#rabochij_1">
+          <speaker>Рабочий.</speaker>
+          <p>Без крестной гимнастики жить трудно. Ась?</p>
+        </sp>
+        <stage>(Старуха мрачно отступает, смотря на расколотую доску, и наконец, неожиданно швыряет
+          на кучу других икон. Бабий галдеж осекся.)</stage>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Браво, браво, старуха.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Она этак, в раже, и дома всех богов покидает.</p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>И покидаю. Вас не спрошусь. Чего душу пальцами ковыряете. Мое дело. Знаю, что
+            делаю.</p>
+        </sp>
+        <sp who="#baba">
+          <speaker>Баба.</speaker>
+          <p>Бабка! Ты как же икону-то?</p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>Щепку? Сама щепке молись. <stage>(Круто поворачивается и уходит, за ней
+            бабы.)</stage></p>
+        </sp>
+        <sp who="#pervyj_rabochij_1">
+          <speaker>1-й рабочий.</speaker>
+          <stage>(На директора.)</stage>
+          <p>Чего его разобрало? За чистку взялся. Ревизия что ли?</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_1">
+          <speaker>2-й рабочий.</speaker>
+          <p>Такие дела с заводом - хоть святых вон выноси.</p>
+        </sp>
+        <sp who="#pervyj_rabochij_1">
+          <speaker>1-й рабочий.</speaker>
+          <p>Носи не носи, без заказов сидим.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>А вот и не без заказов.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Заказ на пятьсот тысяч золотом. С послезавтра завод полным ходом в работу.</p>
+        </sp>
+        <sp who="#pervyj_rabochij_1">
+          <speaker>1-й рабочий.</speaker>
+          <p>Ого!</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_1">
+          <speaker>2-й рабочий.</speaker>
+          <p>Давно пора.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Я думаю рабочие нашего завода покажут себя, кто они такие.</p>
+        </sp>
+        <sp who="#pervyj_rabochij_1">
+          <speaker>1-й рабочий.</speaker>
+          <p>Да нам что. От работы не отказываемся.</p>
+        </sp>
+        <stage>(Звонок.)</stage>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>К обеду.</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_1">
+          <speaker>2-й рабочий.</speaker>
+          <p>Ребята вали шамать.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Иконы все сняли?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Иконы что. Вот свалка меня беспокоит. Сквер хотели разбить.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Какие тут скверы при скверных делах. Бросьте мрачнеть.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Вам хорошо. У вас в тресте рука. А меня дудинцы того и гляди свалят.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Веселей, товарищ. Улыбнитесь, Егорыч. Вот проведем встречу. Послезавтра сынишкино
+            рождение справим. Заходите. Ром у меня - ах!</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Соблазнитель вы. Все равно - змий райский. Сколько сыну?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Семнадцать.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Женить пора...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Еще чего?.. А вот здесь снимемся с гостями. А снимок в Красную Ниву. Реклама.</p>
+        </sp>
+        <stage>(Появляются три комсомольца, проделывающие на станках гимнастические вольты.)</stage>
+        <pb n="94"/>
+        <sp who="#pervyj_komsomolec">
+          <speaker>1-й комсомолец.</speaker>
+          <stage>(тихо)</stage>
+          <p>Директор.</p>
+        </sp>
+        <sp who="#vtoroj_komsomolec">
+          <speaker>2-й комсомолец.</speaker>
+          <p>Петька, вали к отцу гимнастику добывать.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <stage>(набрасываясь на комсомольцев)</stage>
+          <p>Чего станки портишь? Шленду валандаешь? Казенного добра не жалко! Собери ребят, в лес
+            за зеленью для клуба.</p>
+        </sp>
+        <sp who="#pervyj_komsomolec">
+          <speaker>1-й комсомолец.</speaker>
+          <stage>(тихо)</stage>
+          <p>Хрюкало. <stage>(оба уходят)</stage></p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А, товарищ первенец.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Папа. Нашему комсомолу нужны гимнастические снаряды и футбол.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Куда тебе хиляку гимнастика. Сам знаешь, что порок сердца. Доктор же запретил.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Не мне, а комсомолу.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Подождет он, твой комсомол. К рожденью подарок получишь и будет с тебя.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Ну подарок-то я уже получил.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Какой?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Комсомольский билет.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Хм. И ничего не сказав...</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>А что говорить? Пустое.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Сурпризец папаше.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нет, что вы. Я только приветствую. Самодеятельность молодежи, коммунистическое
+            воспитание... Но наш комсомол... Кто председатель?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Дудин.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Да вредноватое влияние.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Что? Вредное?</p>
+        </sp>
+        <stage>(За сценой хор комсомольцев.)</stage>
+        <sp who="#chor">
+          <l>"Ай, да ребята, ай, да комсомольцы,</l>
+          <l>Дай завкому по шеям".</l>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Слыхали?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>А что? Неверно?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ну, стоп! Не твоего ума дело. Дома за обедом разберемся. Я-то ничего, а вот как мать
+            поговорит с тобой, не знаю.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <p>Что мать?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А вот то самое.</p>
+        </sp>
+        <sp who="#podrostok">
+          <speaker>Подросток.</speaker>
+          <stage>(входя)</stage>
+          <p>Егор Егорыч, на заседание завкома.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Сейчас. <stage>(директору)</stage> А заказец взглянуть можно.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Да. Эй ты, комсомол, посмотри ка у меня в пальто, в боковом кармане, нет ли заказа.
+              <stage>(Петя уходит)</stage> Я что. А вот мать - сами понимаете, женские предрассудки.
+            Слыхать не может слова комсомол. Что я с ней сделаю? Не разводиться же?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Конечно, убеждения разные.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А главное дудинские влияния. И так отцов в грош не ставят, а там и совсем на шею
+            сядут.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <stage>(входя)</stage>
+          <p>Там кроме этого петушка ничего нет <stage>(подбрасывает)</stage>.</p>
+        </sp>
+        <pb n="95"/>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Петушка! Давай сюда! Осторожней! Не порви!</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Петя.</speaker>
+          <stage>(недоуменно)</stage>
+          <p>Пожалуйста. В чем дело?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(расправляя петушка скрытно от Егорыча, сыну)</stage>
+          <p>Иди домой. Обедать пора. Сейчас буду. Вспомнил где заказ. <stage>(Идет к портфелю и
+              втискивает в него расправленного петушка, одновременно останавливая входящего
+              сына)</stage> Постой. Ты декламируешь? Надо бы тебе завтра выступить. Что-нибудь
+            революционное. Попомни. Ну иди. <stage>(вскриком)</stage> Ах, вот он где мучитель, за
+            подкладку забился.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Что-то измят больно.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Видите банковская гарантия. Но срок - только месяц.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Ай-яй-яй. Неустойка-то какая. Если не справимся, в трубу вылетим. <stage>(секретарша
+              входит)</stage></p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Должны справиться. Требуйте ударной работы. Гнать полным ходом. Зато если
+            управимся...</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Так уж на втором конкурсе Правды в первые директора выйдете.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Тщеславие и суета.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Если опять Дудин не подгадит.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Опять Дудин. Дудка фальшивая. Кстати он ни черта не стоит как работник. Ему вообще пора
+            с завода. Дело и графоманское строчение - вещи несовместимые, вот что.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Что вы на меня накинулись, я просто констатирую.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А вы поменьше констатируйте. Кругом констатируют. Подвох на подвохе. Но попадись они
+            мне под ноготь - только брызнет. Я без боя не сдамся.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Не мучайтесь.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Успокойтесь. Обедать звали.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Ну иду. <stage>(бормоча).</stage> Кумачу. Оркестр. Лампочки...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Возьмите заказ.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Что с ним? Точно из него лодочку делали.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>В этой лодочке далеко уедем.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Лодочку или петушка.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А как вы-вот, представительница прекрасного пола, думаете, что больше нравится дамам:
+            лодочка или петух? Петушок-с. Когда его на стол поставишь, да на хвостик подавишь, так
+            он прыгает, а дама смеется: хи-хи-хи. А у спутника дамы настроение делается
+            небесно-голубое, без пятнышка. А если этот спутник - крупный заказчик, то петушок
+            обрастает цифрами, номерком исходящим, подписями и называется он уже не "петушок", а
+            "заказ", а "отношение" - хорошее-с отношение к... индустрии. Фу! Голова не работает. Все
+            ли взял? <stage>(оглядывается)</stage></p>
+        </sp>
+        <pb n="96"/>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Ящик не забудьте.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Какой? Ах да.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>К гостям готовитесь?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Это ящик-то? Ничего подобного.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Ну сыну подарок.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Сыну? Нет, не сыну, а заводу.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Заводу? Что же такое.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что такое? Противогазы.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Противогазы? Прислали?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Прислали... Великолепные противогазы. Великолепные люди и еще более великолепные
+            противогазы.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Отправить на завод? Сейчас?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нет, не на завод, а ко мне на квартиру. И не сейчас, а завтра.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Противогазы на квартиру. Не понимаю.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>И понимать не надо. Исполнять надо.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Ну знаете, с такими взглядами так нарваться можно...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А вот и не нарвемся. Всего хорошего. <stage>(насвистывая интернационал, уходит. В
+              дверях)</stage> Идите, последите за украшением клуба.</p>
+          <stage>(Секретарша идет мимо ящика.)</stage>
+          <p>Не толкните ногой противогазы - они хрупкие.</p>
+        </sp>
+        <stage>Конец 1-го действия.</stage>
+      </div>
+      <div type="act">
+        <head>2-е действие.</head>
+        <sp who="#golos_iz_podpolya">
+          <speaker>Голос из подполья.</speaker>
+          <p>- О-ой! Скорей сюда!</p>
+        </sp>
+        <stage>(Двое рабочих вбегают.)</stage>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Слышал? Или ошибся? <stage>(Прислушиваются.)</stage></p>
+        </sp>
+        <sp who="#golos_iz_podpolya">
+          <speaker>Голос.</speaker>
+          <p>- Скорей - скоре-е-й, скорей - скоре-е-ей!</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <p>В машинном что-ль?</p>
+        </sp>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Не у труб ли? Петька трубы осматривать пошел. Сдвигай люк!
+            <stage>(Сдвигают.)</stage></p>
+        </sp>
+        <sp who="#golos_iz_podpolya">
+          <speaker>Голос.</speaker>
+          <p>- Това... това... товарищи... Дохнуть...</p>
+        </sp>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Здесь, Петь! Что такое?</p>
+        </sp>
+        <sp who="#golos_iz_podpolya">
+          <speaker>Голос.</speaker>
+          <p>- Газ...</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <p>Труба, что-ли?</p>
+        </sp>
+        <sp who="#golos_iz_podpolya">
+          <speaker>Голос.</speaker>
+          <p>- Газ... труба... дохнуть... скорей...</p>
+        </sp>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Трубу разворотило. Слышишь - сладким несет. Давай веревку к поясу. Звони тревогу!
+              <stage>(Спускается. 2-й звонит тревогу. Сбегаются рабочие.)</stage></p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Чего такое?</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <stage>(над люком)</stage>
+          <p>Давай его. Задохнулся? Клади на пол.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Ногу свихнул?</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Какую ногу? Закружило. Чего там такое?</p>
+        </sp>
+        <pb n="97"/>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Чем воняет? Ребята, газ пошел.</p>
+        </sp>
+        <sp who="#golosa_2a">
+          <speaker>Голоса.</speaker>
+          <p>- Бросай папиросы, бросай курево!</p>
+        </sp>
+        <stage>(Перекатывающимся гулом по заводу: "Туши огонь, туши огонь".)</stage>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Магистральную трубу разворотило. Дырища - кулак влезет. Не заклепать. Муфту разве
+            надеть. Новое колено вставить.</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Что качаешься?</p>
+        </sp>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Г.а.з.у - его тащил - хлебнул - отрава.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Несите Петра-то в лазарет! Бери его!</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Инженера сюда скорей, да директора!</p>
+        </sp>
+        <sp who="#podrostok">
+          <speaker>Подросток.</speaker>
+          <p>Сейчас слетаю.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Нешто можно без противогаза к трубам соваться. Грудь огнем выест в секунду.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Гришка от газу и подох. Помнишь, зимой?</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Сколько раз о противогазах толковали. Чего Егорыч смотрит?</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Пузо ростит.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Фабзавком называется.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Товарищи, труба?</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Сам труба. Противогазы надо - трубу заклепывать. Полчаса газ идет, чучело.</p>
+        </sp>
+        <sp who="#podrostok">
+          <speaker>Подросток из клуба.</speaker>
+          <p>Егор Егорыч, вождей кумачом обводить в складочку или гладко?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Пошел к чертям! К матери кумач!</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Где противогазы? Давай сюда, да поворачивайся живей-ка!</p>
+        </sp>
+        <sp who="#podrostok">
+          <speaker>Подросток.</speaker>
+          <p>Дилехтора нет, а сиклетаря привел.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Противогазы в ящике в конторе, идем скорей!</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <stage>(вбегая)</stage>
+          <p>Что такое? Манометр падает, газом пахнет.</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <p>Трубу разворотило.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Где?</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <p>На магистрали.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Сильно?</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <p>Кулак, говорят, пролезет.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Свет есть?</p>
+        </sp>
+        <sp who="#vtoroj_rabochij_2">
+          <speaker>2-й рабочий.</speaker>
+          <p>Провода к чорту. Стена осыпалась. Ощупью пробрался.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Жертвы?</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Мало. Один. Петр Данилов.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Скорее включить переносные провода. Муфты можно поставить?</p>
+        </sp>
+        <sp who="#pervyj_rabochij_2">
+          <speaker>1-й рабочий.</speaker>
+          <p>Вряд-ли. Все колено менять.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Магистральные клапаны?</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Не действуют.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Сами, небось, знаете.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Запасное колено сюда. Только, как же без противогазов. Нет ведь их.</p>
+        </sp>
+        <pb n="98"/>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Есть, есть противогазы. Есть.</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Вон несут.</p>
+        </sp>
+        <stage>(Бегом вносят ящик.)</stage>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>В этом ящике? Странная упаковка.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Режь веревки, скорей.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <stage>(залезая в ящик)</stage>
+          <p>Что за чертовщина!?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(врываясь)</stage>
+          <p>Что такое? Не сметь трогать!</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Чего не сметь?</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <stage>(извлекая бутылку)</stage>
+          <p>Вот так противогазы. Ого-го!</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Кто позволил? Кто дал?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Вы сами сказали...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что сказал? Чего вы не в свое дело суетесь?</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Этот противогаз - на Васькину морду.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Мне идет. Добротный пивогаз.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Скорее! Скорее! Минуты дороги. Что за путаница?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Где же противогазы?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Противогазы. А что?</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Проснулся. Газ уходит.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Завод станет.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Ну да противогазы. Вы же говорили...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ошибка.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Какая ошибка.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Скорее. Где противогазы?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ящик... тово... не тот. Перепутали.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Вместо противогазов - вино? Ого!</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Так что же: нет противогазов?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Нет, так нечего и говорить.</p>
+        </sp>
+        <sp who="#golosa_2b">
+          <speaker>Голоса.</speaker>
+          <p>- Каюк магистрали.</p>
+          <p>- Чего без противогаза сделаешь?</p>
+          <p>- Одно остается - открыть газгольдер, выпустить газ на ветер.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Газ выпустить? Ни за что.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Это же на неделю остановка работы. А заказ?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Необходимо во что бы то ни стало починить сейчас же.</p>
+        </sp>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Чини сам, коли хочешь.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>И неустойка.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Тогда с заводом кончено.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Вы же все с ребятами и женами на улицу пойдете.</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Выходные заплатите.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Никаких выходных не будет. Не дети - сами знаете - касса пуста.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>А кто велел не держать противогазов?</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>С противогазами враз бы управились.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что делать? <stage>(инженеру.)</stage> Только скорее - газ уходит.</p>
+        </sp>
+        <pb n="99"/>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Есть способ. Я только что говорил по телефону с врачом. <stage>(Шепчет на ухо
+              директору.)</stage> Но, если не согласятся?...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Должны согласиться. <stage>(Егорычу)</stage> Давай тревожный гудок. Всех сюда.</p>
+        </sp>
+        <stage>(Рабочие вбегают.)</stage>
+        <sp who="#golosa_2c">
+          <speaker>Голоса.</speaker>
+          <p>- Пожар, что-ли?</p>
+          <p>- Чорт, соснуть не дадут.</p>
+          <p>- Обед бросил. Щей ложки три не дохлебал.</p>
+          <p>- Аль, спектакель?</p>
+          <p>- Тише, шпанка!</p>
+          <p>- Чичас. Ананасы раздавать будут. Пра! ВЦИК, говорят, прислал.</p>
+          <p>- Чего газом воняет? Головы мутит.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Все здесь?</p>
+        </sp>
+        <sp who="#golosa_2d">
+          <speaker>Голоса.</speaker>
+          <p>- Все.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А комсомольцы?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>За ветками и зеленью ушли.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Мой Петька с ними?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Кажется.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(тихо).</stage>
+          <p>Слава Богу. <stage>(к рабочим)</stage> Товарищи. Внимание. Положение отчаянное. Лопнула
+            труба, уходит газ. С газом уходит наша возможность выполнить полученный вчера заказ. Вы
+            о нем знаете. Противогазов по недосмотру... по несчастной... по непредвиденной
+            случайности...</p>
+        </sp>
+        <sp who="#golos_2a">
+          <speaker>Голос.</speaker>
+          <p>- Эге...</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>...нет. Единственный способ, на который должен пойти ваш пролетарский героизм, - способ
+            тяжелый: заменить колено без противогазов.</p>
+        </sp>
+        <sp who="#golosa_2e">
+          <speaker>Голоса.</speaker>
+          <p>- Ого-го?!</p>
+          <p>- Нашел дураков.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Да, без противогазов. 70 наших рабочих, работая по три минуты... Я говорил с
+            врачом.</p>
+        </sp>
+        <sp who="#golosa_2f">
+          <speaker>Голоса.</speaker>
+          <p>- А потом в лазарет?</p>
+          <p>- Три минуты, а месяц квелый ходи?</p>
+          <p>- Сам напрокудил, сам и чини.</p>
+          <p>- Иван Ушастых с двух минут помер.</p>
+          <p>- Хоронить, небось, с оркестром будешь?</p>
+          <p>- За казенный счет.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Товарищи. Нельзя так. Ежели пролетарский, к примеру, коллектив возьмется, так ему
+            никаких трудностей нет. Товарищи...</p>
+        </sp>
+        <sp who="#golosa_2g">
+          <speaker>Голоса.</speaker>
+          <p>- Чего подпеваешь?</p>
+          <p>- Сам чего спал?</p>
+          <p>- Туда же - разговаривать.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Товарищи. Заказ пропадет.</p>
+        </sp>
+        <sp who="#pyatyj_rabochij_2">
+          <speaker>5-й рабочий.</speaker>
+          <p>Лучше пусть брат рабочий пропадет по-твоему?</p>
+        </sp>
+        <pb n="100"/>
+        <sp who="#tretij_rabochij_2">
+          <speaker>3-й рабочий.</speaker>
+          <p>Петь-то ты мастер.</p>
+        </sp>
+        <sp who="#golos_2b">
+          <speaker>Голос.</speaker>
+          <p>- Пузо отращивать на печи.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Чего разговаривать, ребята. Не по нас работа. Айда домой.</p>
+        </sp>
+        <stage>(За время пререканий накапливаются женщины)</stage>
+        <sp who="#golosa_2h">
+          <speaker>Голоса.</speaker>
+          <p>- А как же с выходными?</p>
+          <p>- Оттягаем.</p>
+          <p>- Профсоюзом потребуем.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Товарищи. Вы, как герои труда, примерно, на красную доску. Завтра к вам вожди
+            пролетарской революции... С каким вы лицом?..</p>
+        </sp>
+        <sp who="#golosa_2i">
+          <speaker>Голоса.</speaker>
+          <p>- Не беспокойся.</p>
+          <p>- Вот про ваши штуки вождям и расскажем.</p>
+          <p>- Накладут вам по шеям.</p>
+          <p>- Полетишь в трубу.</p>
+          <p>- Легким газом!</p>
+          <p>- Баста! Вали, ребята!</p>
+          <p>- Открыть газгольдер и дело в шляпе.</p>
+          <p>- За три дня починим.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нельзя газгольдер открывать.</p>
+        </sp>
+        <stage>(Дудин пришел во время перебранки. Голова замотана).</stage>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>- Нельзя газгольдер открывать.</p>
+        </sp>
+        <sp who="#golosa_2j">
+          <speaker>Голоса.</speaker>
+          <p>- Дудка пришел.</p>
+          <p>- Слушай Дудку.</p>
+          <p>- Приплелся - мало шею набили?</p>
+          <p>- Из лазарета, Дудочка?</p>
+        </sp>
+        <stage>(Рабочие готовы уйти).</stage>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Товарищи, не уходите! Два слова.</p>
+        </sp>
+        <sp who="#golosa_2k">
+          <speaker>Голоса.</speaker>
+          <p>- Чего разговаривать?</p>
+          <p>- Не полезем на убой.</p>
+          <p>- В барскую дудочку заиграл?</p>
+          <p>- К хозяевам примазываешься.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Очумели! Хозяевам? Каким хозяевам? Кто говорит? Смеетесь?! Забыли, кто хозяева? Вы -
+            хозяева! Это не хозяева. Приказчики они и мерзкие приказчики...</p>
+        </sp>
+        <sp who="#golosa_2l">
+          <speaker>Голоса.</speaker>
+          <p>- Правильно, Дудка. Крой!</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Без шуток. Дело страшно. Тянуть нельзя. О них забудьте. Они дадут ответ за
+            разгильдяйство своим чередом.</p>
+        </sp>
+        <sp who="#golosa_2m">
+          <speaker>Голоса.</speaker>
+          <p>- Доберись до них - гладки больно.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Сейчас наше дело действовать. Кто делал Октябрь? Вы и миллионы таких же рабочих. Кто
+            отгрызался на фронтах? Вы. Кто голодал? Вы. Кто сейчас за уши вытаскивает нашу
+            промышленность? Вы. Кто хозяева завода? Вы. Так будьте хозяевами! Ни пылинки на ветер.
+            Для кого? Для своих ребят. Для ребят всего мира. Газ прорвался - взять его за глотку.
+            Зажать обратно. Чей он? Рабоче-крестьянской республики. Развалить завод - пустяки. <pb
+              n="101"/> Поди, прибери его к рукам. Чего испугались? Койки лазаретной? Смерти? Я вас
+            знаю. Степан! Семен! Сергей! Никита! Были вы на фронте?</p>
+        </sp>
+        <sp who="#golosa_2n">
+          <speaker>Голоса.</speaker>
+          <p>- Были.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Дрались голые, беспатронные, холодные, скрипели зубами? А ты, Петр, не бился в Питере?
+            А не ты в Октябре Кремль брал? А у деревенских кулаков хлеб надо было отвоевывать под
+            пулеметами? А от сыпняка на Волге дохли? Трусили? Нет, не трусили. И сейчас не трусите.
+            Завтра вы ответите гостям: мы отстояли наш кусок фронта - производственного. Если вы
+            рабочие и революционеры, нет вам выхода отсюда иначе, как через газ. По три минуты на
+            брата. В работу. Сейчас же. Поняли?</p>
+        </sp>
+        <sp who="#golosa_2o">
+          <speaker>Голоса.</speaker>
+          <p>- Поняли.</p>
+          <p>- Правильно.</p>
+        </sp>
+        <sp who="#zhenschiny">
+          <speaker>Женщины.</speaker>
+          <p>- Ваня, не пущу.</p>
+          <p>- Ребята, ребята останутся.</p>
+          <p>- Не смей ходить!</p>
+          <p>- Не пущу!</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>С ума сошли. Время дорого. Вы не дамы, истерику вам нечего устраивать.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Женщины, работницы, революционерки!...</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <stage>(директору.)</stage>
+          <p>Тебе что? На место!</p>
+        </sp>
+        <sp who="#xxx">
+          <speaker>Ж е н с к и й г о л о с.</speaker>
+          <p>- Нечего на рожон переть.</p>
+          <p>- Петра жена в лазарете убивается, никак он отойти не может.</p>
+          <p>- Не помрут, так изболеются.</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена Фомы.</speaker>
+          <p>- Идем домой! Идем домой! Петька малый болен. Ну, идем!</p>
+        </sp>
+        <sp who="#xxx">
+          <speaker>Ж е н с к и й г о л о с.</speaker>
+          <p>- Не пущу! Убей - не пущу!</p>
+        </sp>
+        <sp who="#chetvertyj_rabochij_2">
+          <speaker>4-й рабочий.</speaker>
+          <p>Шли бы домой, бабы. Мокроту развели.</p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>- Бабы, стыдно. Слышали, о чем речь? А если Троцкий на фронт прикажет? Тоже на печку
+            потащите? И не покраснеете? Время мало. Здесь не мешать.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Инструменты сюда! Блоки! Веревки! Лампы на головы! Веревку за пояс. Три минуты - тащи.
+              <stage>(Инженеру)</stage> Командуйте.</p>
+        </sp>
+        <sp who="#golosa_2p">
+          <speaker>Голоса.</speaker>
+          <p>- Кому итти?</p>
+          <p>- Жребий бросить.</p>
+          <p>- По списку.</p>
+          <p>- Какой список? Водопроводных вперед.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Тише. Какой список? Как встали, так и пойдем. Я - первый.</p>
+        </sp>
+        <sp who="#zhena_dudina">
+          <speaker>Жена Дудина.</speaker>
+          <p>- Иди, иди, голубок. Рот завяжи. На платок.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Не надо. Пока, всего хорошего. Прицепляй лампу.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <stage>(отодвигая его локтем)</stage>
+          <p>- Не лезь вперед.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Опять драться? Здесь тебе не задворки.</p>
+        </sp>
+        <pb n="102"/>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Не лезь, говорю, вперед. У тебя - баба, у меня - нет. Давай лампу, крюк давай.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Вон ты какой?</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Какой - такой? Никакой. Подождешь своего череду.</p>
+        </sp>
+        <sp who="#golosa_2q">
+          <speaker>Голоса.</speaker>
+          <p>- А и молодец.</p>
+          <p>- Васька-то, самогонщик.</p>
+        </sp>
+        <sp who="#vaska">
+          <speaker>Васька.</speaker>
+          <p>Ну, живо. <stage>(его спускают.)</stage></p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <stage>(3-му рабочему)</stage>
+          <p>Ты куда, Фома?</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена Фомы.</speaker>
+          <p>- Идем, скорей идем.</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <stage>(жене)</stage>
+          <p>Нельзя! Товарищи.</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена.</speaker>
+          <p>Что они тебе за товарищи сдались. Вылетишь с завода, вспомнят тебя товарищи.</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>Не тяни душу.</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена.</speaker>
+          <p>- Петька зовет, махонький. Жар у него, трясет, папку кличет.</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>- И то - идем.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>- Ты куда?</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>- Тебя не спросился.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>- Следующий.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>- Нельзя уходить.</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>- Чего нельзя - ребенок помирает. Идем, баба.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>- А товарищам, как в глаза поглядишь?</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>- И глядеть нечего. Донимать станут - с завода уйду. Я не каторжный, не подряжался; зря
+            болтают.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>- Уходи! Да поскорей! Сына подальше увези. Закажи ему мимо этого завода ходить, а то
+            расскажут ему, как отец его с заводского фронта сбежал. Свои три минуты газа на
+            товарищей сложил. Зайцем в нору, а? Ты, скажут ему, не Фомкин сын, ты су.....</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена.</speaker>
+          <stage>(Дудину)</stage>
+          <p>Молчи, слышишь, молчи!</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>- Идем. Зря со сволотой говорить.</p>
+        </sp>
+        <sp who="#golos_2c">
+          <speaker>Голос.</speaker>
+          <p>- Теперь не уйдет.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Нельзя уйти.</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена.</speaker>
+          <p>Фома, уйти нельзя.</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <p>Что?</p>
+        </sp>
+        <sp who="#zhena_fomy">
+          <speaker>Жена.</speaker>
+          <p>Становись в черед. Становись сейчас же. Не станешь - я за тебя стану.</p>
+        </sp>
+        <sp who="#foma">
+          <speaker>Фома.</speaker>
+          <stage>(Дудину)</stage>
+          <p>Давай лампу. В случае чего - пригляди за бабой.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Ладно. Иди уж.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Пустите.</p>
+        </sp>
+        <sp who="#golosa_2r">
+          <speaker>Голоса.</speaker>
+          <p>Стой, Дудин.</p>
+          <p>- Я вперед.</p>
+          <stage>(Проносят носилки с Василием)</stage>
+          <p>- Стань в очередь, не суйся.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Опять вышибли.</p>
+        </sp>
+        <sp who="#golos_2d">
+          <speaker>Голос.</speaker>
+          <p>Вынь бумажку, да заметку писни в "Правду" про сейчас. Пальцев тебе, чай, у забора не
+            обломали.</p>
+        </sp>
+        <pb n="103"/>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Скаль зубы.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#zhena_rabochego">
+          <speaker>Жена рабочего.</speaker>
+          <stage>(истошно)</stage>
+          <p>Кузя, родненький! <stage>(Падает на вытащенного рабочего.)</stage></p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>Тише. В лазарет скорей. Клади на носилки. Берись. Кто там - подсобите.</p>
+        </sp>
+        <sp who="#zhena_rabochego">
+          <speaker>Жена рабочего.</speaker>
+          <stage>(спокойно неся носилки с мужем)</stage>
+          <p>Голову осторожней, не тряхни!</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Работницы, в черед к носилкам.</p>
+        </sp>
+        <sp who="#rabochij_na_nosilkah">
+          <speaker>Рабочий на носилках.</speaker>
+          <p>Ой, ой, тяжко! Стой! Стой, говорю!</p>
+        </sp>
+        <sp who="#xxx">
+          <speaker>Н о с и л ь щ и к.</speaker>
+          <p>Не дергайся.</p>
+        </sp>
+        <sp who="#golosa_2s">
+          <speaker>Голоса.</speaker>
+          <p>Вот, чорт, живучий.</p>
+          <p>- И газ не берет.</p>
+        </sp>
+        <sp who="#rabochij_na_nosilkah">
+          <speaker>Рабочий на носилках.</speaker>
+          <p>Ой, тошно! Стой, говорю! <stage>(Вываливается из носилок.)</stage></p>
+        </sp>
+        <sp who="#xxx">
+          <speaker>Н о с и л ь щ и к.</speaker>
+          <p>Чего тебе?</p>
+        </sp>
+        <sp who="#rabochij_na_nosilkah">
+          <speaker>Рабочий.</speaker>
+          <p>К директору неси!</p>
+        </sp>
+        <sp who="#xxx">
+          <speaker>Н о с и л ь щ и к.</speaker>
+          <p>Чего надо у директора?</p>
+        </sp>
+        <sp who="#rabochij_na_nosilkah">
+          <speaker>Рабочий.</speaker>
+          <p>Сказать надо. Неси! Велю.</p>
+        </sp>
+        <stage>(Его несут; он вываливается и, качаясь, идет.)</stage>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <stage>(директору)</stage>
+          <p>Вам чего-то сказать хотят.</p>
+        </sp>
+        <sp who="#rabochij_na_nosilkah">
+          <speaker>Рабочий с носилок.</speaker>
+          <stage>(директору сквозь кашель)</stage>
+          <p>Господин... господин директор... Вот... <stage>(дает ему пощечину)</stage> За
+            противогазы. <stage>(Падает. К носильщикам)</stage> Неси теперь, легче стало.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Зачем это?</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#golosa_2t">
+          <speaker>Голоса.</speaker>
+          <p>- Здоров же.</p>
+          <p>- Бык - одно слово.</p>
+          <p>- Чего его бить, и так одна коровья лепешка.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <stage>(директору)</stage>
+          <p>Ушли бы вы.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Мое место здесь.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Без вас справятся.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Не в этом дело.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Чего же вам еще нужно?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нужно! Не ваше дело.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер:</speaker>
+          <p>Следующий...</p>
+        </sp>
+        <stage>Конец II действия.</stage>
+      </div>
+      <div type="act">
+        <head>3-е действие.</head>
+        <stage>(У люка лежат вынутые рабочие, их относят. Очередь к люку исчерпывается 10 - 15
+          человеками.)</stage>
+        <stage>(За сценой песня)</stage>
+        <sp who="#za_scenoj_pesnya">
+          <p>- Ай да ребята, ай-да, комсомольцы. Браво, браво, молодцы.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <stage>(Пение ближе. Смолкло. Вбегают комсомольцы с хвоей и зеленью).</stage>
+        <pb n="104"/>
+        <sp who="#golosa_komsomolcev">
+          <speaker>Голоса комсомольцев.</speaker>
+          <p>- Что такое?</p>
+          <p>- Несчастье?</p>
+          <p>- Носилки?</p>
+          <p>- Обвал?</p>
+          <p>- Взрыв?</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Вы с чем?</p>
+        </sp>
+        <sp who="#golosa_komsomolcev">
+          <speaker>Голоса комсомольцев.</speaker>
+          <p>- К завтрашнему празднику.</p>
+          <p>- Во щи укроп с петрушкою.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Стряпай носилки. Своих не хватает. Берите лежащих в лазарет.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын директора.</speaker>
+          <p>В чем дело?</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Лопнула магистраль. Чиним без противогазов. По три минуты на человека. Отсюда в
+            лазарет. Комсомол станет в очередь за мной. Поняли?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын директора.</speaker>
+          <p>- Без противогазов? <stage>(Идет к отцу)</stage></p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Пришел?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Как это случилось?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что? Труба?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Нет. Что без противогазов? <stage>(Директор молчит)</stage> Да разве это можно? Это
+            ведь преступление.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Полегче, мальчик.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Нет, я просто не могу представить... <stage>(Качнулся).</stage></p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что такое?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Воздух тяжелый. Голова.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Сердце как?</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Ах, оставь. Нашел тоже.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ты куда?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Туда.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ты с ума сошел!</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ты с ума сошел! Тебе нельзя! Порок сердца. Этим шутить невозможно. Стой!</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>В чем дело?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Дойди до квартиры. Мать звонила. Беспокоится.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>У меня другая мать есть. Она тоже зовет.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Красивые словечки. Декламация.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Декламация. А кто просил завтра декламировать?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Это другое дело. Стой! Прошу! Умоляю!</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Стыдно, папа.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что стыдно? Что стыдно? Тебя уже здесь качает. Ты не можешь, ты не смеешь.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>С работой справиться? Сколько угодно. Не держи меня за рукав, пусти!</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Нет, не пущу. Ты должен слушаться, если отец...</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Я уже тебе сказал.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Комсомол, в очередь!</p>
+        </sp>
+        <pb n="105"/>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Иду! Пусти!</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Родной, дорогой, голубчик. Ну, услугу. Ну, добеги до мамы. Передай эту записку. Пусть
+            сейчас же пришлет записную книжку с моего стола. Совершенно необходимо.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Некогда.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Твоя очередь не скоро. Дойти - минута. Кстати возьмешь из дому башлык вместо...</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Противогаза?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Да. Важно ведь, чтоб сделать работу. Ты - коммунист. Не поза же тебе нужна? Пойми - они
+            там здоровее. Ну, скорее, беги.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Хорошо. Скорей записку. <stage>(Дудину).</stage> Дудин - я сейчас.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(Секретарше)</stage>
+          <p>Скорей к телефону! Скажите, чтоб его задержали. Мне нельзя уйти - он может вернуться.
+            Пусть свяжут... что угодно... только, чтоб ему не работать в газе - он не выдержит.
+            Пусть запрут на пол-часа, только на пол-часа. Звоните!</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что такое?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Я неслужебных распоряжений выполнять не обязана.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Вы хотите, чтоб он умер?</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <stage>(Возвращаясь)</stage>
+          <p>Я не успею. Бери записку. <stage>(Отец хватает его за руку).</stage></p>
+        </sp>
+        <sp who="#xxx">
+          <speaker>К о м с о м о л е ц.</speaker>
+          <stage>(напевая)</stage>
+          <p>- Мы молодая гвардия рабочих и крестьян.</p>
+        </sp>
+        <sp who="#golos_v_ton">
+          <speaker>Голос в тон.</speaker>
+          <p>- За маменькиным хвостиком удобно поживать.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Иди к ним. Скорее. Зовут.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Иду.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Будь здоров. Родной.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Это что такое?</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Ребята. Пустите вперед. Что хотите, только пустите.</p>
+        </sp>
+        <sp who="#golosa_komsomolcev">
+          <speaker>Голоса комсомольцев.</speaker>
+          <p>- Ну, черт с тобой, иди.</p>
+          <p>- Становись за Дудиным.</p>
+        </sp>
+        <sp who="#petya">
+          <speaker>Сын.</speaker>
+          <p>Дудин, уступи очередь.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Опять из череда вышибают. Ну, иди. Крепи лампу.</p>
+        </sp>
+        <sp who="#staryj_rabochij">
+          <speaker>Старый рабочий.</speaker>
+          <p>- Счастливо тебе, правильный парень. Не в отца.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>- Воздуха глотни, как следует да не разговаривай - легким тяжело.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Иди! Иди, мальчик!</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что такое? Мало того, что вы погнали его в очередь, вы еще хотите ускорить его... Какое
+            право вы имеете? Что за тон?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Обыкновенный.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Тон приказа. Что он вам - товарищ?</p>
+        </sp>
+        <pb n="106"/>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Больше.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Как больше?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Муж.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что? Вы с ума сошли. Развратница! Сволочь! Я тебя завтра же выгоню.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Знаю.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Несут. Его. Господи, какой белый! Осторожней, осторожней. Господи! Господи! Домой его
+            снесите. И врача...</p>
+        </sp>
+        <sp who="#rabochij_3">
+          <speaker>Рабочий.</speaker>
+          <p>Рук свободных нет. Женщины носят. Врачу нельзя уйти из лазарета.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Несите в лазарет, как всех.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Господи. Скорей бы узнать. <stage>(В телефон)</stage> Доктора. Занят? Директор говорит.
+            Как сыну? Что? Жив? Слава тебе, Господи! Слава тебе Господи! <stage>(Садится в
+              изнеможении на груду рассыпающихся под ним досок)</stage> Что такое?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Иконы. Снятые.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что? Сняты? Нет. <stage>(в телефон)</stage> Доктора! Кто там? Доктор где? Директор
+            говорит. Что никого не дозовешься? Почему трубку бросили?.. Важно, что жив. Важно, что
+            жив.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Следующий. <stage>(Вылезшему из шахты рабочему)</stage> Как дела?</p>
+        </sp>
+        <sp who="#rabochij_3">
+          <speaker>Рабочий.</speaker>
+          <stage>(качаясь)</stage>
+          <p>Газ прекратился. Муфты довинтить. Тем только старый газ. Теперь минут пять и все
+            ладно.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <stage>(директору)</stage>
+          <p>Кончаем. Сейчас последние.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Слава Богу. Кончаете? Черт, какая дрожь. Вина бы. <stage>(Достает из противогазовой
+              корзины бутылку. Отбивает горлышко. Пьет)</stage> Все устроится.
+              <stage>(Инженеру)</stage> За здоровье завода. За здоровье Пети, Петушка.</p>
+        </sp>
+        <sp who="#odin_rabochij">
+          <speaker>Один рабочий.</speaker>
+          <p>Пригодились противогазы?</p>
+        </sp>
+        <sp who="#drugoj_rabochij">
+          <speaker>Другой рабочий.</speaker>
+          <p>Чего глядишь. Пускай лакает. Невидаль. Держи колено. <stage>(Подает трубу).</stage></p>
+        </sp>
+        <sp who="#rabochie">
+          <speaker>Рабочие.</speaker>
+          <p>Стерва. Ишь, дырища. Чуть в эту дыру весь завод не вылетел.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <stage>(директору)</stage>
+          <p>Ну, что? Как? Скверно все-таки с противогазами. В лазарете о суде говорят.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Ерунда. Выкрутимся. Не так просто. Устали? Глотните.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Что вы?</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Скорей мне лазаретную справку: сколько рук свободных? <stage>(Секретарше)</stage>
+            Пишите. Телефонограмма. Срочная. Правлению Треста. Сегодня в 5 часов вечера от ветхости
+            на заводе лопнула газопроводная магистраль. Несмотря на труднейшие условия ремонта,
+            красные герои труда завода совместно с администрацией, развив революционную энергию,
+            оказались... Написали?</p>
+        </sp>
+        <pb n="107"/>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Не стану.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>В чем дело? Почему?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Ложь.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Не хотите, не надо - другой напишет.</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <stage>(входит и сдержанно кашляет)</stage>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Из лазарета? Справка?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <stage>(упавшим голосом)</stage>
+          <p>Какая справка!</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Что? В чем дело? Говорите скорей!</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Да что уж тут говорить!</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Сын?</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>Сердце.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(бормочет)</stage>
+          <p>Вот как... Вот как.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>А... еще... что писать?..</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>Сын... Да... Один... Вот... пишите... <stage>(диктует глухим голосом)</stage> Окружному
+            прокурору... При ремонте... лопнувшей... газовой... магистрали... преступная...
+            небрежность... директора... завода... вынудила... рабочих... работать... без
+            противогазов... в результате чего... из 70-ти работавших отравлены......</p>
+        </sp>
+        <sp who="#egorych">
+          <speaker>Егорыч.</speaker>
+          <p>64.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>...и есть... смертные случаи. Прошу... возбудить... против директора... уголовное...
+            обвинение. До прибытия следственных властей преступник находится под домашним арестом.
+              <stage>(Секретарше)</stage> Отправьте немедленно. <stage>(В выходе)</stage> Муж,
+            говорите? Ребенок будет?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Будет.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <p>А как назовете? Хорошо бы по отцу: Петя, Петушок.</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>Секретарша.</speaker>
+          <p>Нет. Противогаз.</p>
+        </sp>
+        <sp who="#direktor">
+          <speaker>Директор.</speaker>
+          <stage>(оседая)</stage>
+          <p>А!..</p>
+        </sp>
+        <stage>(Входит Дудин).</stage>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Дудин. Вы из лазарета?</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Я легче других. Там мест нет. Шестеро только на ногах из 70 и те ревут.</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Чего?</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>О Петьке, директорском сыне... Любили. Сейчас кончаю корреспонденцию. Работа вся?</p>
+        </sp>
+        <sp who="#inzhener">
+          <speaker>Инженер.</speaker>
+          <p>Вся.</p>
+        </sp>
+        <sp who="#lukach">
+          <speaker>Лукач.</speaker>
+          <stage>(из лазарета)</stage>
+          <p>- Как дело? Кончили? Отстояли завод? Ребята из лазарета послали спросить.
+            Волнуются.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Скажи - завод спасен. <stage>(Пишет, перечитывает)</stage> Сплошною очередью рабочие
+            шли в ядовитый газ и в три часа окончили починку, потеряв выбывшими.....</p>
+        </sp>
+        <sp who="#lukach">
+          <speaker>Лукач.</speaker>
+          <p>Дудка.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Чего тебе? <stage>(Продолжая читать):</stage> Из 70-ти......</p>
+        </sp>
+        <sp who="#lukach">
+          <speaker>Лукач.</speaker>
+          <p>Слушай. Намедни ночью били тебя у забора за корреспонденцию. Сапогом в ребра.
+            Помнишь?</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Ну?</p>
+        </sp>
+        <pb n="108"/>
+        <sp who="#lukach">
+          <speaker>Лукач.</speaker>
+          <p>Так это я. Прости товарищ, тошно.</p>
+        </sp>
+        <sp who="#dudin">
+          <speaker>Дудин.</speaker>
+          <p>Ты? Эх, ты и сволочь же.</p>
+          <stage>(Отравленный Лукач валится).</stage>
+          <p>Что? Свалился...... Ну, и гадюка же этот газ. Эх, товарищ... <stage>(оглядывая)</stage>
+            Ни одного черта... Ну, держись; донесем <stage>(С трудом подымает и несет, качаясь, на
+              полдороге садится)</stage>. Ой, бок захватило. Ух! Вот, товарищ, сам и виноват.
+            Сапогом в ребро, а теперь тебя и не донесешь. Чучело! <stage>(Тужась встать)</stage> А
+            ну-ка, Дудка, натужься. Раз-два и... три! Пошли! полным ходом! Айда! Хо-хо!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
