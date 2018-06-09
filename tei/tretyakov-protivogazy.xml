@@ -49,6 +49,18 @@
           <person xml:id="direktor" sex="MALE">
             <persName>Директор</persName>
           </person>
+          <person xml:id="egorych" sex="MALE">
+            <persName>Егорыч</persName>
+          </person>
+          <person xml:id="kurer" sex="MALE">
+            <persName>Курьер</persName>
+          </person>
+          <person xml:id="vaska" sex="MALE">
+            <persName>Васька</persName>
+          </person>
+          <person xml:id="lukach" sex="MALE">
+            <persName>Лукач</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1478,8 +1490,8 @@
           <stage>(директору.)</stage>
           <p>Тебе что? На место!</p>
         </sp>
-        <sp who="#xxx">
-          <speaker>Ж е н с к и й г о л о с.</speaker>
+        <sp who="#zhenskij_golos">
+          <speaker>Женский голос.</speaker>
           <p>- Нечего на рожон переть.</p>
           <p>- Петра жена в лазарете убивается, никак он отойти не может.</p>
           <p>- Не помрут, так изболеются.</p>
@@ -1488,8 +1500,8 @@
           <speaker>Жена Фомы.</speaker>
           <p>- Идем домой! Идем домой! Петька малый болен. Ну, идем!</p>
         </sp>
-        <sp who="#xxx">
-          <speaker>Ж е н с к и й г о л о с.</speaker>
+        <sp who="#zhenskij_golos">
+          <speaker>Женский голос.</speaker>
           <p>- Не пущу! Убей - не пущу!</p>
         </sp>
         <sp who="#chetvertyj_rabochij_2">
@@ -1718,8 +1730,8 @@
           <speaker>Рабочий на носилках.</speaker>
           <p>Ой, ой, тяжко! Стой! Стой, говорю!</p>
         </sp>
-        <sp who="#xxx">
-          <speaker>Н о с и л ь щ и к.</speaker>
+        <sp who="#nosilschik">
+          <speaker>Носильщик.</speaker>
           <p>Не дергайся.</p>
         </sp>
         <sp who="#golosa_2s">
@@ -1731,16 +1743,16 @@
           <speaker>Рабочий на носилках.</speaker>
           <p>Ой, тошно! Стой, говорю! <stage>(Вываливается из носилок.)</stage></p>
         </sp>
-        <sp who="#xxx">
-          <speaker>Н о с и л ь щ и к.</speaker>
+        <sp who="#nosilschik">
+          <speaker>Носильщик.</speaker>
           <p>Чего тебе?</p>
         </sp>
         <sp who="#rabochij_na_nosilkah">
           <speaker>Рабочий.</speaker>
           <p>К директору неси!</p>
         </sp>
-        <sp who="#xxx">
-          <speaker>Н о с и л ь щ и к.</speaker>
+        <sp who="#nosilschik">
+          <speaker>Носильщик.</speaker>
           <p>Чего надо у директора?</p>
         </sp>
         <sp who="#rabochij_na_nosilkah">
@@ -2036,8 +2048,8 @@
           <stage>(Возвращаясь)</stage>
           <p>Я не успею. Бери записку. <stage>(Отец хватает его за руку).</stage></p>
         </sp>
-        <sp who="#xxx">
-          <speaker>К о м с о м о л е ц.</speaker>
+        <sp who="#komsomolec">
+          <speaker>Комсомолец.</speaker>
           <stage>(напевая)</stage>
           <p>- Мы молодая гвардия рабочих и крестьян.</p>
         </sp>
