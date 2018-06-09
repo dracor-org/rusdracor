@@ -61,6 +61,186 @@
           <person xml:id="lukach" sex="MALE">
             <persName>Лукач</persName>
           </person>
+          <person xml:id="rabochij_1" sex="MALE">
+            <persName>Рабочий (I)</persName>
+          </person>
+          <person xml:id="baba" sex="FEMALE">
+            <persName>Баба</persName>
+          </person>
+          <person xml:id="staruha" sex="FEMALE">
+            <persName>Старуха</persName>
+          </person>
+          <personGrp xml:id="baby" sex="FEMALE">
+            <name>Бабы</name>
+          </personGrp>
+          <person xml:id="pervyj_rabochij_1" sex="MALE">
+            <persName>1-й рабочий (I)</persName>
+          </person>
+          <person xml:id="vtoroj_rabochij_1" sex="MALE">
+            <persName>2-й рабочий (I)</persName>
+          </person>
+          <person xml:id="pervyj_komsomolec" sex="MALE">
+            <persName>1-й комсомолец</persName>
+          </person>
+          <person xml:id="vtoroj_komsomolec" sex="MALE">
+            <persName>2-й комсомолец</persName>
+          </person>
+          <person xml:id="petya" sex="MALE">
+            <persName>Петя</persName>
+          </person>
+          <personGrp xml:id="hor_komsomolcev" sex="UNKNOWN">
+            <name>Хор комсомольцев</name>
+          </personGrp>
+          <person xml:id="podrostok" sex="MALE">
+            <persName>Подросток</persName>
+          </person>
+          <person xml:id="golos_iz_podpolya" sex="UNKNOWN">
+            <persName>Голос из подполья</persName>
+          </person>
+          <person xml:id="pervyj_rabochij_2" sex="MALE">
+            <persName>1-й рабочий (II)</persName>
+          </person>
+          <person xml:id="vtoroj_rabochij_2" sex="MALE">
+            <persName>2-й рабочий (II)</persName>
+          </person>
+          <person xml:id="tretij_rabochij" sex="MALE">
+            <persName>3-й рабочий</persName>
+          </person>
+          <person xml:id="chetvertyj_rabochij" sex="MALE">
+            <persName>4-й рабочий</persName>
+          </person>
+          <person xml:id="pyatyj_rabochij" sex="MALE">
+            <persName>5-й рабочий</persName>
+          </person>
+          <personGrp xml:id="golosa_2a" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="inzhener" sex="MALE">
+            <persName>Инженер</persName>
+          </person>
+          <personGrp xml:id="golosa_2b" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2c" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2d" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="golos_2a" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <personGrp xml:id="golosa_2e" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2f" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2g" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="golos_2b" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <personGrp xml:id="golosa_2h" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2i" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="dudin" sex="MALE">
+            <persName>Дудин</persName>
+          </person>
+          <personGrp xml:id="golosa_2j" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2k" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2l" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2m" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2n" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2o" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="zhenschiny" sex="FEMALE">
+            <name>Женщины</name>
+          </personGrp>
+          <person xml:id="zhenskij_golos" sex="FEMALE">
+            <persName>Женский голос</persName>
+          </person>
+          <person xml:id="zhena_fomy" sex="FEMALE">
+            <persName>Жена Фомы</persName>
+          </person>
+          <personGrp xml:id="golosa_2p" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="zhena_dudina" sex="FEMALE">
+            <persName>Жена Дудина</persName>
+          </person>
+          <personGrp xml:id="golosa_2q" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="foma" sex="MALE">
+            <persName>Фома</persName>
+          </person>
+          <person xml:id="golos_2c" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <personGrp xml:id="golosa_2r" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="golos_2d" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <person xml:id="zhena_rabochego" sex="FEMALE">
+            <persName>Жена рабочего</persName>
+          </person>
+          <person xml:id="rabochij_na_nosilkah" sex="MALE">
+            <persName>Рабочий на носилках</persName>
+          </person>
+          <person xml:id="nosilschik" sex="MALE">
+            <persName>Носильщик</persName>
+          </person>
+          <personGrp xml:id="golosa_2s" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2t" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <personGrp xml:id="za_scenoj_pesnya" sex="UNKNOWN">
+            <name>За сценой песня</name>
+          </personGrp>
+          <personGrp xml:id="golosa_komsomolcev" sex="UNKNOWN">
+            <name>Голоса комсомольцев</name>
+          </personGrp>
+          <person xml:id="komsomolec" sex="MALE">
+            <persName>Комсомолец</persName>
+          </person>
+          <person xml:id="golos_v_ton" sex="UNKNOWN">
+            <persName>Голос в тон</persName>
+          </person>
+          <person xml:id="staryj_rabochij" sex="MALE">
+            <persName>Старый рабочий</persName>
+          </person>
+          <person xml:id="rabochij_3" sex="MALE">
+            <persName>Рабочий (III)</persName>
+          </person>
+          <person xml:id="odin_rabochij" sex="MALE">
+            <persName>Один рабочий</persName>
+          </person>
+          <person xml:id="drugoj_rabochij" sex="MALE">
+            <persName>Другой рабочий</persName>
+          </person>
+          <personGrp xml:id="rabochie" sex="UNKNOWN">
+            <name>Рабочие</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -653,7 +833,7 @@
           <p>Что? Вредное?</p>
         </sp>
         <stage>(За сценой хор комсомольцев.)</stage>
-        <sp who="#chor">
+        <sp who="#hor_komsomolcev">
           <l>"Ай, да ребята, ай, да комсомольцы,</l>
           <l>Дай завкому по шеям".</l>
         </sp>
@@ -928,7 +1108,7 @@
           <p>Трубу разворотило. Слышишь - сладким несет. Давай веревку к поясу. Звони тревогу!
               <stage>(Спускается. 2-й звонит тревогу. Сбегаются рабочие.)</stage></p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Чего такое?</p>
         </sp>
@@ -937,16 +1117,16 @@
           <stage>(над люком)</stage>
           <p>Давай его. Задохнулся? Клади на пол.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Ногу свихнул?</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Какую ногу? Закружило. Чего там такое?</p>
         </sp>
         <pb n="97"/>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Чем воняет? Ребята, газ пошел.</p>
         </sp>
@@ -960,7 +1140,7 @@
           <p>Магистральную трубу разворотило. Дырища - кулак влезет. Не заклепать. Муфту разве
             надеть. Новое колено вставить.</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Что качаешься?</p>
         </sp>
@@ -968,11 +1148,11 @@
           <speaker>1-й рабочий.</speaker>
           <p>Г.а.з.у - его тащил - хлебнул - отрава.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Несите Петра-то в лазарет! Бери его!</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Инженера сюда скорей, да директора!</p>
         </sp>
@@ -980,23 +1160,23 @@
           <speaker>Подросток.</speaker>
           <p>Сейчас слетаю.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Нешто можно без противогаза к трубам соваться. Грудь огнем выест в секунду.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Гришка от газу и подох. Помнишь, зимой?</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Сколько раз о противогазах толковали. Чего Егорыч смотрит?</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Пузо ростит.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Фабзавком называется.</p>
         </sp>
@@ -1004,7 +1184,7 @@
           <speaker>Егорыч.</speaker>
           <p>Товарищи, труба?</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Сам труба. Противогазы надо - трубу заклепывать. Полчаса газ идет, чучело.</p>
         </sp>
@@ -1016,7 +1196,7 @@
           <speaker>Егорыч.</speaker>
           <p>Пошел к чертям! К матери кумач!</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Где противогазы? Давай сюда, да поворачивайся живей-ка!</p>
         </sp>
@@ -1065,7 +1245,7 @@
           <speaker>Инженер.</speaker>
           <p>Жертвы?</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Мало. Один. Петр Данилов.</p>
         </sp>
@@ -1081,11 +1261,11 @@
           <speaker>Инженер.</speaker>
           <p>Магистральные клапаны?</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Не действуют.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Сами, небось, знаете.</p>
         </sp>
@@ -1098,7 +1278,7 @@
           <speaker>Егорыч.</speaker>
           <p>Есть, есть противогазы. Есть.</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Вон несут.</p>
         </sp>
@@ -1107,11 +1287,11 @@
           <speaker>Инженер.</speaker>
           <p>В этом ящике? Странная упаковка.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Режь веревки, скорей.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <stage>(залезая в ящик)</stage>
           <p>Что за чертовщина!?</p>
@@ -1121,11 +1301,11 @@
           <stage>(врываясь)</stage>
           <p>Что такое? Не сметь трогать!</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Чего не сметь?</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <stage>(извлекая бутылку)</stage>
           <p>Вот так противогазы. Ого-го!</p>
@@ -1142,7 +1322,7 @@
           <speaker>Директор.</speaker>
           <p>Что сказал? Чего вы не в свое дело суетесь?</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Этот противогаз - на Васькину морду.</p>
         </sp>
@@ -1162,11 +1342,11 @@
           <speaker>Директор.</speaker>
           <p>Противогазы. А что?</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Проснулся. Газ уходит.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Завод станет.</p>
         </sp>
@@ -1190,7 +1370,7 @@
           <speaker>Директор.</speaker>
           <p>Ящик... тово... не тот. Перепутали.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Вместо противогазов - вино? Ого!</p>
         </sp>
@@ -1202,7 +1382,7 @@
           <speaker>Директор.</speaker>
           <p>Нет.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Нет, так нечего и говорить.</p>
         </sp>
@@ -1224,7 +1404,7 @@
           <speaker>Директор.</speaker>
           <p>Необходимо во что бы то ни стало починить сейчас же.</p>
         </sp>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Чини сам, коли хочешь.</p>
         </sp>
@@ -1240,7 +1420,7 @@
           <speaker>Егорыч.</speaker>
           <p>Вы же все с ребятами и женами на улицу пойдете.</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Выходные заплатите.</p>
         </sp>
@@ -1248,11 +1428,11 @@
           <speaker>Директор.</speaker>
           <p>Никаких выходных не будет. Не дети - сами знаете - касса пуста.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>А кто велел не держать противогазов?</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>С противогазами враз бы управились.</p>
         </sp>
@@ -1356,12 +1536,12 @@
           <speaker>Егорыч.</speaker>
           <p>Товарищи. Заказ пропадет.</p>
         </sp>
-        <sp who="#pyatyj_rabochij_2">
+        <sp who="#pyatyj_rabochij">
           <speaker>5-й рабочий.</speaker>
           <p>Лучше пусть брат рабочий пропадет по-твоему?</p>
         </sp>
         <pb n="100"/>
-        <sp who="#tretij_rabochij_2">
+        <sp who="#tretij_rabochij">
           <speaker>3-й рабочий.</speaker>
           <p>Петь-то ты мастер.</p>
         </sp>
@@ -1504,7 +1684,7 @@
           <speaker>Женский голос.</speaker>
           <p>- Не пущу! Убей - не пущу!</p>
         </sp>
-        <sp who="#chetvertyj_rabochij_2">
+        <sp who="#chetvertyj_rabochij">
           <speaker>4-й рабочий.</speaker>
           <p>Шли бы домой, бабы. Мокроту развели.</p>
         </sp>
