@@ -46,28 +46,28 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Veldjuzeva" sex="FEMALE">
+          <person xml:id="veldjuzeva" sex="FEMALE">
             <persName>Вельдюзева</persName>
           </person>
-          <person xml:id="Fekla" sex="FEMALE">
+          <person xml:id="fekla" sex="FEMALE">
             <persName>Фекла</persName>
           </person>
-          <person xml:id="Raisa" sex="FEMALE">
+          <person xml:id="raisa" sex="FEMALE">
             <persName>Раиса</persName>
           </person>
-          <person xml:id="Zvonkina" sex="FEMALE">
+          <person xml:id="zvonkina" sex="FEMALE">
             <persName>Звонкина</persName>
           </person>
-          <person xml:id="Major" sex="MALE">
+          <person xml:id="major" sex="MALE">
             <persName>Майор</persName>
           </person>
-          <person xml:id="Maksim" sex="MALE">
+          <person xml:id="maksim" sex="MALE">
             <persName>Максим</persName>
           </person>
-          <person xml:id="Ljubim" sex="MALE">
+          <person xml:id="ljubim" sex="MALE">
             <persName>Любим</persName>
           </person>
-          <person xml:id="Natasha" sex="FEMALE">
+          <person xml:id="natasha" sex="FEMALE">
             <persName>Наташа</persName>
           </person>
         </listPerson>
@@ -82,13 +82,14 @@
       <listChange>
         <change who="#ds" when="2017-11-19">convert from source</change>
         <change who="#ff" when="2017-12-10">formalities</change>
+        <change who="#ff" when="2018-06-10">lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
       <docTitle>
-        <titlePart type="main"> Своя семья, или замужняя невеста</titlePart>
+        <titlePart type="main">Своя семья, или замужняя невеста</titlePart>
         <titlePart type="sub">Комедия в трех действиях, в стихах</titlePart>
       </docTitle>
       <castList>
@@ -111,27 +112,27 @@
           <stage>Вельдюзева сидит посредине, прочие около ее полукружием; Звонкина мотает бель;
             Фекла Саввишна вяжет чулок; Раиса плетет венок; секунд-майор и Бирюлькин сидят по концам
             полукружия.</stage>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Сестрицы, тетушка и братец! я просила</l>
             <l>Вас с зятюшкой к себе затем, что получила</l>
             <l>Письмо от нашего Любима...</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Что ж, сестра,</l>
             <l>Он пишет нового?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Давно б ему пора</l>
             <l>Отдать душевный долг родства священной связи.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Подумать о родных.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да где, ему, проказе,</l>
             <l>Я чай, не до родни; досуга часу нет.</l>
@@ -139,29 +140,29 @@
             <l>В Москве-голубушке как в масле сыр катался,</l>
             <l>Проказил да гулял.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>И чуть не догулялся</l>
             <l>До сущей нищеты.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нам деньги трин-трава;</l>
             <l>Всё наживешь, была б на плечах голова;</l>
             <l>И если б турки мне не прострелили ногу,</l>
             <l>Не в Чухломе б теперь я с вами был.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Ей-богу,</l>
             <l>Ты, братец, в свет рожден совсем без сердца!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Как?</l>
             <l>Пощупай, вот оно, и бьется.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Да не так,</l>
             <l>Как в пламенной груди. Ах! сын родного брата,</l>
@@ -169,23 +170,23 @@
             <l>Откуда нежность чувств изгнанна навсегда,</l>
             <l>К нам пишет в первый раз...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да что же за беда</l>
             <l>Что в Петербурге наш племянник веселится?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Ах! в Петербурге он с природой не сдружится!</l>
             <l>Но, братец, ты меня не можешь понимать.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Максим Меркурьевич, прошу растолковать,</l>
             <l>Ты, брат, с учителем уездным породнился</l>
             <l>И сам же говоришь, что многому учился.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Так, я с ребячества учился кой-чему;</l>
             <l>А нынче, живучи почти в одном дому</l>
@@ -196,68 +197,68 @@
             <l>Описывала нам столиц развратны нравы,</l>
             <l>Которые везде описаны.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Вы правы.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Да не пора ли нам прочесть письмо?</l>
           </sp>
-          <sp who="#Raisa #Major #Fekla #Maksim #Zvonkina">
+          <sp who="#raisa #major #fekla #maksim #zvonkina">
             <speaker>Все</speaker>
             <l>Прочтем!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Посмотрим, что Любим нам отпускает в нем.</l>
             <stage>(Максиму.)</stage>
             <l>Прочтешь ли ты?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Когда собранию угодно.</l>
             <l>Ребенком быв, читал я в школах всенародно.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(передавая письмо)</stage>
             <l>Начни ж, племянничек!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, надевай очки.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Я сроду не видал нечеткой так руки.</l>
             <l>Санкт-Петербург... число... Нет, почерк слишком связан,</l>
             <l>И так, что, искренно признаться вам обязан,</l>
             <l>Едва ли разберу.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Совсем не мудрено,</l>
             <l>И я прочла тотчас.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>К вам писано оно,</l>
             <l>Так сообщить его вы сами потрудитесь.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Охотно.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Слушайте!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Все ближе пододвиньтесь.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(читает письмо)</stage>
             <p>"Милостивая государыня тетушка, Варвара Саввишна! вы, верно, гневаетесь на меня за
@@ -276,16 +277,16 @@
               Раисе Саввишне, дядюшкам храброму секунд-майору Карпу Саввичу и просветителю Чухломы
               Максиму Меркурьевичу; просить их за меня..." И прочее. Вас всех прошу я за него.</p>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Как можно, милая, просить?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>А для чего,</l>
             <l>Когда ему жена по сердцу и по нраву!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Позвольте доложить: по данному мне праву</l>
             <l>От брата женина, а от его отца,</l>
@@ -294,7 +295,7 @@
             <l>Ума, способности, а более познаний</l>
             <l>Невесты.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, Максим, ты не туда попал.</l>
             <l>На что невесте ум? И кто из вас не знал</l>
@@ -309,21 +310,21 @@
             <l>Сроднился с умником - и счету нет затеям,</l>
             <l>Все знанья проглотил!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Позвольте...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Всё пустяк,</l>
             <l>Чтоб был Любим женат, не соглашусь никак.</l>
             <l>Служи, пока есть мочь, жена ж помеха службе</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>И, братец, согласись!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Сестра! к тебе по дружбе</l>
             <l>Я соглашусь; но с тем, чтобы его жена</l>
@@ -331,7 +332,7 @@
             <l>Да черта простоты надеяться тут можно:</l>
             <l>Она воспитана графиней.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>И не должно</l>
             <l>От воспитания такого ждать пути:</l>
@@ -365,7 +366,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Те же, кроме Феклы Саввишны.</stage>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Прости,</l>
             <l>Трехмужняя вдова! - Откуда спесь такая?</l>
@@ -374,7 +375,7 @@
             <l>И право б, я назло женить его желал...</l>
             <l>Да нет, боюсь ума.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Оставьте, братец, шутки.</l>
             <l>Что Фекла Саввишна имеет предрассудки,</l>
@@ -385,39 +386,39 @@
             <l>Шум, вихорь городской не говорят душе</l>
             <l>И что скрывается невинность в шалаше!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да ты, как помнится, в столице не бывала.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Но я, сударь, о всем в журналах прочитала</l>
             <l>И знаю свет.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Из книг?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Из книг, таки из книг, -</l>
             <l>В них только истину узнаешь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Черт ли в них?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Я за тебя стыжусь!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Стыдися сколько хочешь,</l>
             <l>Да говори простей. Ведь ты о том хлопочешь,</l>
             <l>Чтоб не женился наш Любим?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>И потому,</l>
             <l>Что счастия никак нельзя найти ему,</l>
@@ -426,19 +427,19 @@
             <l>Не симпатирует, которой свет большой</l>
             <l>Мешает дух питать природы красотой!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Которая, как ты, тоски не нагоняет</l>
             <l>И, в потолок глаза уставя, не вздыхает</l>
             <l>Иль, тетку при смерти оставивши одну,</l>
             <l>Не побежит глазеть на бледную луну.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, слышишь ли, сестра, старушка наша права</l>
             <l>Ведь ты...</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Ох! боже мой! всегда твоя забава</l>
             <l>Бесить меня; но я игрушкою твоей</l>
@@ -448,7 +449,7 @@
             <stage>(Вельдюзевой.)</stage>
             <l>А свадьбе не бывать.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Я честью вам клянуся,</l>
             <l>Что без экзамента никак не соглашуся</l>
@@ -458,7 +459,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же, кроме Раисы и Максима.</stage>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Черт с тобой!</l>
             <l>Он прежде, кажется, был малый препростой,</l>
@@ -467,7 +468,7 @@
             <l>Решите, нам женить Любима или нет?</l>
             <l>Согласен я на всё.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Боюся я, мой свет,</l>
             <l>Чтобы Любимушку жена не загубила.</l>
@@ -487,70 +488,70 @@
             <l>И сляжет с оханья... А муж ходи за ней:</l>
             <l>Ни ночь, ни день не спи, покой ее лелей.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Но если на сестру Наташа не похожа?..</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>У этих грамотниц всегда одно и то же:</l>
             <l>Тоска да слезы.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так, и я порукой в том,</l>
             <l>Что из ученых всех нет толку ни в одном.</l>
             <l>Не может умников терпеть моя натура.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>И, батька! ум хорош. Я и сама не дура;</l>
             <l>А худо то, когда за разум ум зайдет.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Но должно ль обвинять Наташу наперед?</l>
             <l>Кто знает, может быть, над ней других примеры</l>
             <l>Совсем не действуют.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Неймется что-то веры,</l>
             <l>Не тот уж слой людей; ах! нынче слишком свет</l>
             <l>На слезы падок стал.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Когда ж в Наташе нет</l>
             <l>Охоты тосковать, то может ли жениться</l>
             <l>На ней племянник?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да, я рада согласиться,</l>
             <l>Лишь не была б она манерщица.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(майору)</stage>
             <l>А ты?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>И я, как тетушка, держуся простоты</l>
             <l>И не люблю насмерть вздыхательного бреда.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Уж час двенадцатый, недолго до обеда.</l>
             <l>Прощай!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Я тетушку до дома провожу,</l>
             <l>Да тотчас ворочусь и кое-что скажу.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Пойдем.</l>
             <stage>(Вельдюзевой.)</stage>
@@ -562,14 +563,14 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Вельдюзева, потом Любим</stage>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(идя к кабинету)</stage>
             <l>Уж все ушли, Любим!</l>
           </sp>
           <stage>Он входит.</stage>
           <stage>Ну, что ты скажешь мне?</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Что я, их слушая, горел как на огне.</l>
             <l>Ну пусть бы тетушки и бабушки - бог с ними! -</l>
@@ -580,11 +581,11 @@
             <l>Я уважаю всех и тетушек и дядей,</l>
             <l>Но...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Дело не о том; Наташа где?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Она</l>
             <l>Сидит в той комнате, и так огорчена,</l>
@@ -598,12 +599,12 @@
             <l>И позволения письмом у вас просить</l>
             <l>Из этой комнаты.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Я выдумке дивлюся,</l>
             <l>А лучше б до венца...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ну, честью вам клянуся,</l>
             <l>Что я не виноват. К несчастью моему,</l>
@@ -614,12 +615,12 @@
             <l>Неделю праздновал, неделю отдыхал,</l>
             <l>И думал к вам писать, да передумал.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Дело</l>
             <l>Да цело ли у вас приданое?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Всё цело:</l>
             <l>И платье и белье; а деньги как вода,</l>
@@ -627,35 +628,35 @@
             <l>Наташа уж меня за них сто раз бранила,</l>
             <l>И ехать к вам она ж меня уговорила.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Так прожилися вы?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Покуда не совсем;</l>
             <l>Но скоро, кажется, останемся ни с чем,</l>
             <l>Когда опекуны лишат меня наследства.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Да ты всё слышал сам.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Мы без Наташи средства,</l>
             <l>Конечно, не найдем.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Поди ж, ее зови.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(бежа в кабинет)</stage>
             <l>Наташа!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Он совсем рехнулся от любви;</l>
             <l>Да и она мила.</l>
@@ -664,7 +665,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Вельдюзева, Любим и Наташа.</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ну, тетушка, смотрите,</l>
             <l>Любуйтесь, вот она! И как же вы хотите,</l>
@@ -672,47 +673,47 @@
             <l>И этакой души в Камчатке даже нет,</l>
             <l>Чтоб устоять могла...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да ты забыл, конечно,</l>
             <l>Что я жена твоя!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Так что ж? чистосердечно</l>
             <l>Муж разве говорить не волен о жене?</l>
             <l>Пускай милей тебя они покажут мне.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ей-богу, ты смешон!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(Вельдюэевой)</stage>
             <l>Смешон ли я?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нимало.</l>
             <l>Ты правду говоришь.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ну, слышишь ли? так, стало,</l>
             <l>Не я, а ты смешна.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>С чего ты вздумал вдруг</l>
             <l>Хвалить меня?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(Вельдюзевой)</stage>
             <l>С чего?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Я признаюсь, мой друг,</l>
             <l>Что мой племянник прав; но нам о деле нужно</l>
@@ -723,17 +724,17 @@
             <l>Раиса же во всем Бирюлькину послушна,</l>
             <l>А он...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Я слышал всё: он страшный грубиян,</l>
             <l>И до обеда глуп, после обеда пьян;</l>
             <l>Но что бы ни был он, а с ним тотчас я слажу</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Проказы новые!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да что же я прокажу?</l>
             <l>Как на тебе, мой друг, женился я, с тех пор</l>
@@ -742,43 +743,43 @@
             <l>Но обошлось, и ты простила уж за это.</l>
             <l>Дай ручку!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>На, возьми; да замолчи!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Молчу.</l>
             <l>Ну, что же?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Предложить я средство вам хочу,</l>
             <l>Да не удастся, нет.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Посмотрим, что такое?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Скажите, тетушка!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нет, кажется, пустое.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Однако...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Если б им Наташу показать,</l>
             <l>Но так, чтоб не могли они того узнать,</l>
             <l>Что ты женат на ней, то, может быть...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Прекрасно!</l>
             <l>Она их всех прельстит; тут нечего напрасно</l>
@@ -786,7 +787,7 @@
             <l>Сперва ты с бабушки и теток начинай,</l>
             <l>А там и дядюшек...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Тебе, мой друг, всё шутки:</l>
             <l>У них у всех свои причуды, предрассудки,</l>
@@ -794,7 +795,7 @@
             <l>Что, может быть, другим в них кажется смешно;</l>
             <l>Так к ним подладиться ей должно непременно.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Она комедии играет совершенно;</l>
             <l>Вам это скажут все: театр на даче был,</l>
@@ -803,16 +804,16 @@
             <l>Княгиня с этих пор играть ей запретила,</l>
             <l>А я с тех пор влюблен.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Любовь свою оставь.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да, не любить себя попробуй-ка заставь;</l>
             <l>Ан не удастся, нет!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Так, тетушка, вы правы,</l>
             <l>Что наших всех родных немножко чудны нравы,</l>
@@ -833,51 +834,51 @@
             <l>В нем крадут, грабят все, крича на беспорядки,</l>
             <l>И даже карлица берет с дворецких взятки.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ба! это, кажется, мой брат идет сюда.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Секунд-майор; так что ж? нам это не беда.</l>
             <stage>(Наташе.)</stage>
             <l>Не правда ль, ты его заворожишь?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Не знаю.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Послушай, милая, к себе я ожидаю</l>
             <l>Из Вятки мужнину племянницу, так ты</l>
             <l>Представь ее. Смотри ж, побольше простоты.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Как можно будь глупей!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах, друг мой! я не смею.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Чего? ну что за вздор!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет, право, я робею.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Тебе не в первый раз комедию играть.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Уж он в сенях.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Прощай!</l>
           </sp>
@@ -885,132 +886,132 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Секунд-майор и Наташа.</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! что ему сказать?</l>
             <l>Он входит... я дрожу!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну вот и я, сестрица.</l>
             <l>Да где же ты? Сестра!.. Что это за девица?</l>
             <l>Откудова взялась?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Подходит... силы нет!</l>
             <stage>(Берется за стул.)</stage>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Кто ты, сударыня?</l>
           </sp>
           <stage>Наташа приседает.</stage>
           <stage>Да это не ответ. Как вас зовут?</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Меня?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Тебя!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Меня-с?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Кого же?</l>
             <l>Мы только двое здесь.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Так, двое-с.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну так что же?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да ничего.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Кой черт! вот беглый разговор.</l>
             <l>Да как зовут тебя? и здесь с которых пор?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я здесь... у тетушки.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Давно бы и сказала.</l>
             <l>А ты племянница?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Племянница.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так, стало,</l>
             <l>Ты по сестре и мне доводишься родня?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет, право-с, тетушка не тетушка моя,</l>
             <l>Покойник дядюшка мне дядюшка.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Всё знаю;</l>
             <l>Мы в сватовстве с тобой.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Вот что-с!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Я примечаю,</l>
             <l>Что вряд ли чем она покойницы умней.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Доволен, кажется, он глупостью моей.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Как мы теперь свои, то нам с тобою надо</l>
             <l>Знакомство ближе свесть. Не правда ли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я рада.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Прошу нас полюбить.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я всех родных люблю.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(обнимая ее)</stage>
             <l>Так здравствуй, сватьюшка! - Вот так: я не терплю</l>
             <l>Жеманства да чинов. - Да как ты миловидна,</l>
             <l>Совсем красавица!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Как это вам не стыдно,</l>
             <l>Девиц в глаза хвалить! - Мне бабушка твердит,</l>
@@ -1020,25 +1021,25 @@
             <l>Наш лекарь городской меня так сглазил раз,</l>
             <l>Что я в постель слегла.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да мой не черен глаз,</l>
             <l>И для меня ничто чужое не завидно.</l>
             <l>Я добрый человек...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>О! это-с очень видно.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Право-с, так.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да ты, ей-ей, мила!</l>
             <l>Покойница моя вот такова ж была:</l>
@@ -1046,32 +1047,32 @@
             <l>Да иногда уж так от простоты вавакнет,</l>
             <l>Что срежет голову.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А кто-с была она?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Я, кажется, сказал: покойница жена.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Так умерла она? Ах! боже мой, как жалко!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да, умерла, как быть - житье людское валко.</l>
             <l>Сегодня на земле, а завтра в землю слег;</l>
             <l>Да делать нечего - никто таков, как Бог!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Вестимо так, а всё, кажись бы, лучше было,</l>
             <l>Когда б не умирать. Ох! станет всё постыло,</l>
             <l>Когда подумаешь, что час придет, умрешь,</l>
             <l>А хуже и того - друзей переживешь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Точь-в-точь покойница! Ну те же поговорки!</l>
@@ -1083,11 +1084,11 @@
           </sp>
           <stage>Садятся.</stage>
           <stage>Вот так. Послушай-ка... Эх, что бишь?</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я не знаю.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Кой черт! с чего начать?</l>
@@ -1095,58 +1096,58 @@
             <l>Я очень знать желаю,</l>
             <l>По нраву ли тебе наш брат военный?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я не лгу-с.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Я чаю, иногда</l>
             <l>Случалося, что ты о женихе смекала.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Что это?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Не стыдись.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Об этом не пристало</l>
             <l>Девицам говорить.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да ты не говори,</l>
             <l>А только отвечай, - и правду же, смотри!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А! только отвечать? Извольте, я готова.</l>
             <stage>(В сторону.)</stage>
             <l>Что будет от него?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Ну, онемел я снова!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да что ж мне отвечать?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А вот что: например,</l>
             <l>По нраву ли тебе гусарский офицер,</l>
@@ -1154,64 +1155,64 @@
             <l>Имеет кое-что, хотя попромотался,</l>
             <l>Да жил уж весело?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(вскакивая)</stage>
             <l>Ах, Боже мой!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Чего</l>
             <l>Ты испугалась?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! вы знаете его?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Кого?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Его-с.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Кой черт! скажи, по крайней мере,</l>
             <l>О ком ты говоришь?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>О ком-с? Об офицере,</l>
             <l>Что промотался.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Как! я знаю ль сам себя?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да не об вас шла речь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Не будь Карп Саввин я,</l>
             <l>Когда не обо мне.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>И! полноте смеяться.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Пусть черт меня возьмет!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Не грех ли вам чертаться.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нет, и покойницы она еще простей!</l>
             <l>Та б догадалась вмиг.</l>
@@ -1219,72 +1220,72 @@
             <l>Ну, я скажу ясней:</l>
             <l>По сердцу ль я тебе? я? - Что ж? не догадалась?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А я так думала - и очень испугалась.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да что ж ты думала?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я думала о нем.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>О ком? да скажешь ли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Об офицере том,</l>
             <l>Который храбр и добр, в сраженьях славно дрался,</l>
             <l>Имеет кое-что, хотя попромотался...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да это я!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>О нет! тот молод и пригож.</l>
             <l>Ах, боже мой! да он...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Что он?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>На вас похож.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Только есть в вас разность небольшая.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А что?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>У вас усы и голова седая...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Был этот ус как смоль десяток лет назад!</l>
             <l>Да есть ли у него такой гусарский взгляд,</l>
             <l>И молодечество, и сила, и дородство?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет, он потоньше вас, а есть большое сходство</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так, по пословице, далёко* кулику</l>
             <l>До Петрова дня. Нет, давай мне, старику,</l>
@@ -1293,109 +1294,109 @@
             <l>Как были в старину? Пить, драться и любить!</l>
             <l>Давай бери, - всё мы.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! с вами говорить</l>
             <l>Мне очень весело.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли? Отчего же?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да так.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Потешь, скажи.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Он говорит всё то же.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так, по словам твоим, он малый хоть куда.</l>
             <l>А как его зовут?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! то-то и беда,</l>
             <l>Что мне сказать нельзя, он запретил.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Вот дело.</l>
             <l>Послушай-ко, ты мне открыться можешь смело,</l>
             <l>Я, право, не скажу ни тетке, никому.</l>
             <l>Ты о любви своей призналась ли ему?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Не признавалась я, да сам он догадался.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>И что ж?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Стал свататься.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А после?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Обвенчался.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так ты уж замужем?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Молчите-с!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да к чему ж</l>
             <l>Скрываться, кажется, когда тебе он муж?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Чтобы женился он, родня его не хочет.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>О вздоре, кажется, родня его хлопочет.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я то же думаю.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Как быть! а, право, жаль,</l>
             <l>Что вышла замуж ты.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ох! это не печаль,</l>
             <l>Что вышла замуж я, а вот чего боюся:</l>
             <l>Как мужниным родным я чем не полюблюся,</l>
             <l>И сгонят с глаз меня!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да есть ли где пример,</l>
             <l>Чтобы позволить мог гусарский офицер</l>
             <l>Так трактовать жену? - Нет, это мне уж больно,</l>
             <l>Я сам за вас вступлюсь!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Как буду я довольна!</l>
           </sp>
@@ -1403,64 +1404,64 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Те же и Вельдюзева.</stage>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ах, братец! ты уж здесь?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Давно.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ты не слыхал,</l>
             <l>Что, говорят, Любим сегодня прискакал?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>И к тебе стремглав сейчас пустился.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, вот те раз! А я вот с ней заговорился.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(тихо майору)</stage>
             <l>Как показалася?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А такова она,</l>
             <l>Что счастье, у кого такая есть жена.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ах! что греха таить, я очень бы желала</l>
             <l>Женить племянника на ней...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да опоздала.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Так, правда, наш Любим...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да не Любим... Прощай,</l>
             <l>А то с тобой болтнешь.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Да кто?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Никто. - Я чай,</l>
             <l>Племянник ждет меня. Секрет я славный знаю,</l>
@@ -1470,12 +1471,12 @@
             <l>Надейся на меня.</l>
             <stage>(Уходит.)</stage>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Надеюсь я теперь,</l>
             <l>И опыт удался, мне кажется?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Поверь,</l>
             <l>Что неудач тебе не надобно бояться.</l>
@@ -1490,7 +1491,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Вельдюзева, Любим и Наташа.</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да! я обегал всю почтенную родню</l>
             <l>И счастья своего покаместь не виню:</l>
@@ -1513,18 +1514,18 @@
             <l>Наташа, как я глуп! зачем, не понимаю,</l>
             <l>Привез тебя сюда?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Вот так-то! поздравляю!</l>
             <l>Все виноваты мы...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ах, нет! всегда жене</l>
             <l>Твердил я, что у нас порядочных в родне</l>
             <l>Есть двое: вы да я.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Поверь мне, помаленьку</l>
             <l>На свой поставишь лад ты всю свою родненьку.</l>
@@ -1532,26 +1533,26 @@
             <l>Полюбят также все они твою жену,</l>
             <l>Дай срок.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! дядюшке понравиться нетрудно:</l>
             <l>Он весел, добр и мил, - и, право, даже чудно,</l>
             <l>Как он напоминал Любима мне.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>А чем?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да, кроме лет, лица и воспитанья, всем:</l>
             <l>Ты точный дядюшка, мой друг, под старость будешь.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Вот на!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ты никогда гусарить не забудешь,</l>
             <l>Всё станешь вспоминать с восторгом старину,</l>
@@ -1564,49 +1565,49 @@
             <l>Повесам будущим себя примером ставишь</l>
             <l>И сердишься за то, что рано устарел</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>А ты в углу ворчишь: "Он всё еще пострел;</l>
             <l>Когда ты, батюшка, дурачиться уймешься?"</l>
             <l>И вслух меня бранишь, а внутренне смеешься.</l>
             <l>Не правда ли, мой друг?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да, может быть легко,</l>
             <l>Но, к счастью, до того еще нам далеко.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Сестра сюда идет.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах, боже мой! какая?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ох! Фекла Саввишна.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Крикуша и скупая.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да где бы платьица найти мне попростей?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>У Груньки ты возьми передник поскорей.</l>
             <l>Уйдите же, она уж подошла к порогу.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(уходя)</stage>
             <l>Любим!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Я за тобой.</l>
           </sp>
@@ -1615,7 +1616,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Фекла Саввишна и Вельдюзева.</stage>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Скажи-ка "слава Богу"!</l>
             <l>Ведь наш Любим сюда изволил прикатить.</l>
@@ -1625,11 +1626,11 @@
             <l>Я чай, разведывал, когда-де побывать?</l>
             <l>Когда потрафить так, чтоб дома не застать?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ну можно ли...</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Чего? он разве путных правил?</l>
             <l>Дивись еще, мой свет, тому, что не оставил</l>
@@ -1654,34 +1655,34 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же и Наташа.</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах, вы здесь не одни! простите!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ничего.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Кто это? здешняя?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нет, мужа моего</l>
             <l>Покойного родня, приехала недавно.</l>
             <l>Знакома вам была Федосья Николавна?</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Твоя золовка?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Да, ее в живых уж нет.</l>
             <l>Вот дочь ее.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Она? - Прошу, каких уж лет!</l>
             <l>Невеста хоть куда! - Мы вместе вырастали</l>
@@ -1691,12 +1692,12 @@
             <l>Ах! на сем свете я куды давно таскаюсь!</l>
             <l>Ты с нами долго ли пробудешь? а?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Не знаю-с;</l>
             <l>Как будет тетушке угодно...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Мне, друг мой?</l>
             <l>Весь век радехонька я вместе жить с тобой.</l>
@@ -1705,12 +1706,12 @@
             <l>И угодительна, ловка и бережлива.</l>
             <l>Желаю всякому такую дочь иметь.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Угодно, тетушка, вам будет посмотреть,</l>
             <l>Там приготовила для вас одно я блюдо?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>А! знаю, хорошо. Останься здесь покуда.</l>
             <l>Сестрица! кажется, не гостьи вы у нас.</l>
@@ -1721,70 +1722,70 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Фекла и Наташа.</stage>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Что это, матушка? неслыханное дело!</l>
             <l>Кто стряпает теперь?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>К обеду не поспело,</l>
             <l>Хватились поздно мы. Так, как-то не пришлось</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Какое ж кушанье?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Пирожное одно-с,</l>
             <l>И выдумки моей.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Твоей? Оно б не худо;</l>
             <l>Да ведь пирожное затейливое блюдо.</l>
             <l>Насущный хлеб теперь один составит счет,</l>
             <l>Так лакомство, ей-ей! на ум уж не пойдет.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да-с; у меня зато всё снадобье простое:</l>
             <l>Морковка, яицы и кое-что другое,</l>
             <l>Да соку положить лимонного чуть-чуть.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Ну, сахар входит же?</l>
           </sp>
           <stage>Наташа качает головой.</stage>
           <stage>Хоть крошечка?</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Отнюдь!</l>
             <l>Как! сахар? шутка ли? что вы? побойтесь бога!</l>
             <l>Нет! и без сахару расходов очень много.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Да, согрешили мы! крутые времена!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я как-то с малых лет к тому приучена,</l>
             <l>Что дорогой кусок мне видеть даже грустно.</l>
             <l>Я так люблю поесть, чтоб дешево и вкусно.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Как судишь ты умно! не по летам, мой свет;</l>
             <l>В иной и в пожилой такого смысла нет.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Помилуйте...</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Чего помиловать? Смотри-ка,</l>
             <l>Житье-то сестрино не явная ль улика,</l>
@@ -1792,58 +1793,58 @@
             <l>Расчету ни на грош, увидишь ты сама;</l>
             <l>Всегда столы у ней, - зачем? кому на диво?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А будто трудно жить как надо, бережливо?</l>
             <l>Я вот и не в нужде воспитана была,</l>
             <l>Хоть матушка моя покойная жила</l>
             <l>Куда не роскошно, я чай, и вам известно?</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Умна была. - Дай бог ей царствие небесно!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Однако странность вам одну я расскажу.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Как, друг мой? что? - Садись.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Вот что...</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Да сядь.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(севши на краешке стула)</stage>
             <l>Сижу</l>
             <l>Вот что... Спросить у вас позвольте: вы давно ли</l>
             <l>Расстались с матушкой?</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Лет двадцать пять, поболе, -</l>
             <l>Мы молоды тогда, невесты были с ней.</l>
             <stage>(Со вздохом.)</stage>
             <l>И схоронила я с тех пор уж трех мужей!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Так, может, никогда вам слышать не случалось</l>
             <l>Об том, что к Ладовой графине я попалась</l>
             <l>На воспитание?</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Нет, не слыхала я.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Уж странность подлинно! - Она и мать моя</l>
             <l>Век были по всему противных свойств и правил</l>
@@ -1859,12 +1860,12 @@
             <l>Вы можете судить, что в эдаком дому</l>
             <l>До бережливости нет дела никому.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Зараза! истинно зараза! жаль, родная,</l>
             <l>Смерть, жалко! хоть кого испортит жизнь такая</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Позвольте досказать. Мне скоро щегольство</l>
             <l>И весь графинин быт, шум, пышность, мотовство,</l>
@@ -1875,14 +1876,14 @@
             <l>Я ела черный хлеб, в серпянке бы ходила,</l>
             <l>Да лишь бы суетно так время не губила.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Ужли, голубушка! да как же это ты?</l>
             <l>Я, я свертелась бы от этой суеты!</l>
             <l>Вот ум не девичий! - К чему ты наклонилась?</l>
             <l>Что потеряла?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Здесь булавочка светилась,</l>
             <l>Сейчас я видела. Вот тут она была,</l>
@@ -1890,7 +1891,7 @@
             <stage>(Поднявши, прикалывает к косынке.)</stage>
             <l>Ведь и булавочка нам может пригодиться.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Как, из булавки ты изволила трудиться?</l>
             <l>Чем больше думаю, и на тебя гляжу,</l>
@@ -1898,7 +1899,7 @@
             <l>Диковина, мой свет! ты, кажется, водилась</l>
             <l>С большими барами, а всё с пути не сбилась!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Напротив, многим я обязана тому,</l>
             <l>Что столько времени жила в большом дому.</l>
@@ -1914,12 +1915,12 @@
             <l>Вот ни наэстолько.</l>
             <stage>(Показывает на кончик шемизетки или фартука?,</stage>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Помилуй, друг мой, что ты?</l>
             <l>Клад сущий, и тебе подобной не сыскать!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я шелком, золотом умею вышивать.</l>
             <l>Бывало, прочие лишь заняты весельем,</l>
@@ -1927,7 +1928,7 @@
             <l>Что вышью, продаю; работою своей</l>
             <l>Скопила наконец до тысячи рублей!</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Теперь на свете нет вещей невероятных.</l>
             <l>Скопила! чем? трудом! воспитана у знатных!</l>
@@ -1940,19 +1941,19 @@
             бы разуму его ты научала, Любила бы его, мотать бы не давала; А то бог знает где он
             сватанье завел! Там русскую мамзель какую-то нашел! Преаккуратная головушка, я
             чаю.</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А почему же знать?</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Как почему? - Я знаю.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Конечно, это вам известнее, чем мне.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Вот то-то, видишь ли, что всей его родне</l>
             <l>Она не по нутру. Не может, чай, дождаться,</l>
@@ -1973,11 +1974,11 @@
             <l>А франтов нынешних немудрено прельстить.</l>
             <l>Ты по-французскому умеешь говорить?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Умею несколько.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>А! верно мастерица.</l>
             <l>Им только надобно...</l>
@@ -1986,17 +1987,17 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же и Вельдюзева.</stage>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Послушай-ка, сестрица,</l>
             <l>Вот толк об чем у нас: не правда ли, она</l>
             <l>Любиму нашему ведь, по всему, жена?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Я то же говорю.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Ты говоришь... я знаю,</l>
             <l>Что это быть должно, я этого желаю,</l>
@@ -2028,7 +2029,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Любим, Вельдюзева и Наташа.</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(выбегая)</stage>
             <l>Прелестно, ангел мой! прелестно, беспримерно!</l>
@@ -2044,26 +2045,26 @@
             <l>За славу, за любовь, за наш удалый полк</l>
             <l>Бутылка зашипит - и пробка в потолок!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах, друг мой! у тебя всегда одно и то же,</l>
             <l>И вечно вздор.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Как вздор? Да есть ли что дороже</l>
             <l>Любви и славы? а?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(возвращаясь)</stage>
             <l>Тобой довольна я.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>А я с ума схожу!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Да ты ворожея</l>
             <l>И Феклу Саввишну совсем заколдовала.</l>
@@ -2072,78 +2073,78 @@
             <l>Раиса ж Саввишна прислала мне сказать,</l>
             <l>Что будет к нам сейчас.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Раиса нам безделка,</l>
             <l>С скупою тетушкой трудна была разделка,</l>
             <l>А этой отпускай все вздоры целиком</l>
             <l>Из милых авторов.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ты прав, да дело в том,</l>
             <l>Что я не помню их. Теперь не очень в моде</l>
             <l>Посланья слезные: к цветкам, к лужкам, к природе</l>
             <l>И к ночи, и к луне...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да как-нибудь. - Постой,</l>
             <l>Вот книжка!</l>
             <stage>(Подает книжку Наташе.)</stage>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Календарь!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Уж если нет другой,</l>
             <l>То хоть ее возьми. - Оно ловчее, знаешь,</l>
             <l>Как тетушка придет, то будто ты читаешь.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да, с книжкой я скорей оправиться могу.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Конечно, а меж тем я к дяде побегу.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Через калитку, здесь поближе.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Так прощайте.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нам лучше розно сесть.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(перебегая через театр)</stage>
             <l>Ну, плакать начинайте!</l>
             <l>Раиса в цветнике, скорей садитесь вы.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(садясь в угол)</stage>
             <l>Как быть, начну читать о вскрытии Невы.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(садясь к столу)</stage>
             <l>Вот, кстати, здесь шитье.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах, тетушка, боюся,</l>
             <l>Как в календарь она заглянет?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Я беруся</l>
             <l>Ее не допустить... Идет.</l>
@@ -2152,7 +2153,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Те же и Раиса.</stage>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <stage>(вынося пучок цветов)</stage>
             <l>Смотри, я нарвала</l>
@@ -2161,25 +2162,25 @@
             <l>Вот незабудочка, вот скромная фиалка,</l>
             <l>Вот стройный василек! Ты любишь ли цветы0</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Люблю.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>И не сравнить их сельской простоты</l>
             <l>С брильянтом, с жемчугом?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нет, я их не равняю</l>
             <l>И на один брильянт весь сад мой променяю-</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Не стыдно ль, милая?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Хоть стыдно, только я</l>
             <l>Так думаю. А вот племянница моя</l>
@@ -2189,39 +2190,39 @@
             <l>Успеешь начитаться</l>
             <l>И после. Вот сестра...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Простите. Боже мой!</l>
             <l>Я не приметила...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Что сделалось с тобой?</l>
             <l>Ты так расстроена... От книжки уж конечно?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Божусь, не от нее.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ох! вы крушитесь вечно</l>
             <l>От всяких пустяков.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>А что за книжка?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Вздор</l>
             <l>Какой-нибудь.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Роман? дай мне...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(не давая книги, Наташе)</stage>
             <l>Нет, с этих пор</l>
@@ -2229,12 +2230,12 @@
             <l>И с книжкою своей изволь навек проститься,</l>
             <l>Я в шкаф ее запру.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <stage>(ловя книгу)</stage>
             <l>Хотя взглянуть дозволь.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(все не давая книжки, Наташе)</stage>
             <l>Твой дядя много книг оставил; только моль</l>
@@ -2243,11 +2244,11 @@
             <l>Чтобы из мужниных племянниц хоть одна</l>
             <l>Ко мне приехала?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Да, помню.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Вот она,</l>
             <l>Прошу ее любить.</l>
@@ -2255,19 +2256,19 @@
             <l>Она хотя тосклива,</l>
             <l>Да уж чувствительна!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Как буду я счастлива,</l>
             <l>Когда найду родных, оставшись сиротой!</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Вы в мире сирота? что слышу! Боже мой!</l>
             <l>Мы обе сироты!</l>
             <stage>(Обнимает Наташу.)</stage>
             <l>Сестрица! я уж плачу.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Покуда плачешь ты, я эту книжку спрячу</l>
             <stage>(Уходит.)</stage>
@@ -2276,7 +2277,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Раиса и Наташа.</stage>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Ах, милая моя! мне вас душевно жаль.</l>
             <l>Варвара Саввишна не много видит вдаль</l>
@@ -2286,68 +2287,68 @@
             <l>Мы вместе б плакали - и вместе б на заре</l>
             <l>Ходили на курган рассветом наслаждаться!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! можем часто мы у вас и здесь видаться</l>
             <l>Вздыхать и слезы лить!</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Так точно, жизнь моя!</l>
             <l>Ах! с вами ни на час не разлучуся я,</l>
             <l>И симпатии к вам уж чувствую влеченья, -</l>
             <l>А солнца вы восход видали ль?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Без сомненья!</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>И песнью соловья пленялись?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Сколько раз!</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Так в вас душа чиста, и сердце есть у вас,</l>
             <l>Как! вы вздыхаете?.. Вам нечего скрываться,</l>
             <l>Я понимаю вас...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Боюся засмеяться.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Ах! вы смущаетесь, стыдитесь! Боже мой!</l>
             <l>Несчастная! скажи, или Эраст другой,</l>
             <l>Как с бедной Лизою...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Не так, я вам клянуся;</l>
             <l>Но быть несчастною на целый век страшуся.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Несчастною! кто? вы? или развратный свет</l>
             <l>Противен вам, как мне?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Узнайте всё: с трех лет</l>
             <l>У знатной госпожи я в доме воспиталась.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>С трех лет ты в сей хаос, невинная, попалась,</l>
             <l>Как роза юная на бесприютный брег!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет! как фиалка, я скрывалась ото всех</l>
             <l>Зефиров ветреных и мотыльков сребристых;</l>
@@ -2364,39 +2365,39 @@
             <l>Кристального ручья, - и тут... Ах! не могу</l>
             <l>Окончить.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Говори, не мучь меня томленьем.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Он вдруг явился мне - и, ах! одним мгновеньем</l>
             <l>Решила всё судьба! Но то крушит меня,</l>
             <l>Что счастья моего не хочет вся родня.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Природы изверги!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Напрасно их вините.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Я проклинаю их!.. Тираны!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Замолчите!</l>
             <l>Вот тетушка идет.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Ее уговорю:</l>
             <l>Начну издалека...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я вас благодарю.</l>
             <l>Вы можете одни...</l>
@@ -2405,47 +2406,47 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 9</head>
           <stage>Те же и Вельдюзева, потом майор и Любим.</stage>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Тс-с! тетка примечает.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ба! вы уж шепчетесь?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Нередко составляет</l>
             <l>Гармонию сердец один волшебный миг.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Так, стало быть, я, вас оставивши одних,</l>
             <l>Недурно сделала, и вы уж подружились.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Мне кажется.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Мы с ней сердцами съединились,</l>
             <l>Она открылась мне. Но ты, сестрица, ты</l>
             <l>Проникла ль в тайности несчастной сироты?</l>
             <l>Прочла ль в душе ее?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Как! в тайности? в какие?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Сестрица! знаешь ли, что в жизни симпатия?</l>
             <l>Что миг решительный? что жребий роковой?</l>
             <l>Что отголосок чувств? что разговор немой?</l>
             <l>Что взгляд убийственный?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(входя, Любиму)</stage>
             <l>Войди, войди, проказник.</l>
@@ -2455,25 +2456,25 @@
             <l>Что же ты? ну, благо случай есть,</l>
             <l>Скорее в обморок.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Оставь!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Имел я честь</l>
             <l>Уж быть у тетушки.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>И без меня: досадно!</l>
             <l>А чай, комедия.</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Уймешься ль ты?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, ладно.</l>
             <l>Пусть он расскажет вам... Да нет, еще постой.</l>
@@ -2486,40 +2487,40 @@
             <stage>(Наташе.)</stage>
             <l>Что, молодец каков?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(тихо)</stage>
             <l>Не знаю-с, как сказать...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(Наташе)</stage>
             <l>Вот тут не стало слов,</l>
             <l>А с тем, я чай, не так...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(тихо)</stage>
             <l>Мне стыдно-с.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Не стыдися!</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Карп Саввич!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Что, сестра?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Дурачиться уймися,</l>
             <l>И нежность чувств ее не оскорбляй.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Вот на!</l>
             <l>Какая нежность чувств? Нет, матушка, она</l>
@@ -2527,37 +2528,37 @@
             <stage>(Наташе.)</stage>
             <l>Не правда ль?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Правда-с.</l>
             <stage>(Раисе.)</stage>
             <l>Ах!</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Мне стыдно, что имею</l>
             <l>Такого братца я. Уйдем скорей.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Куда?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Где нет тебя, сударь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так я мешаю?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <l>Да.</l>
             <stage>(Наташе.)</stage>
             <l>Как он привяжется, то долго не отстанет.</l>
             <l>Пойдем.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(майору)</stage>
             <l>Прощайте-с.</l>
@@ -2566,14 +2567,14 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 10</head>
           <stage>Те же, кроме Раисы и Наташи.</stage>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, уж мила! что взглянет,</l>
             <l>То подарит рублем. Вот девушка, Любим!</l>
             <l>Когда б ты завладел сокровищем таким,</l>
             <l>То был бы молодец!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Кто с вами спорит в этом.</l>
             <l>Она сокровище, - и я хоть с целым светом</l>
@@ -2581,121 +2582,121 @@
             <l>Ни в чем, ни перед кем не будет стыдно ей,</l>
             <l>Хотя б вы собрали и всех красавиц вместе.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ай, ай, племянничек! да ты и о невесте,</l>
             <l>Мне кажется, забыл... Да жаль, что опоздал.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(смеючись)</stage>
             <l>Кто? Он?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Поверь же мне, что он впросак попал.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>А если не попал?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Не говори ж пустого.</l>
             <stage>(Отведя его в сторону.)</stage>
             <l>Она уж замужем, да никому ни слова.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ах! это, дядюшка, я знаю лучше всех.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нет, шутишь?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>У меня в уме теперь не смех.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Кой черт! да неужли ты как в нее влюбился?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ах! это б ничего.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да что же?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Я женился.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Женился!</l>
             <stage>(Вельдюзевой.)</stage>
             <l>Слышишь ли?.. На ком же ты женат?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>На ком? - на ней.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>На ней!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Я очень виноват,</l>
             <l>Да дело сделано, - и только ожидаю</l>
             <l>Прощения от вас.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Сестра!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Что?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Я не знаю,</l>
             <l>Сердиться мне иль нет?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нет, лучше не сердись.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да я ведь в дураках.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>И! братец, согласись,</l>
             <l>Что и не нам чета бывали...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так, однако.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Я одурачена с тобою одинако.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли ты?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>И я, и старшая сестра.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Как! Фекла Саввишна? Ну, брат Любим, ура!</l>
             <l>Прощаю я тебе, ты удружил мне славно:</l>
@@ -2704,39 +2705,39 @@
             <l>И я знакомил их!.. Ну! признаюся, брат,</l>
             <l>Жена твоя умна, так с ней плошать не должно</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Поверь, что с умною скорее сладить можно</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Пусть так. А что ж Максим?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>В резерве он пока.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ах, если б этого провесть нам чудака!</l>
             <l>Над ним позволь и мне путем повеселиться.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Не стоит он того, чтоб перед ним таиться.</l>
             <l>Я всё ему скажу - и пусть экзамент свой</l>
             <l>Наташе делает.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Согласна я с тобой:</l>
             <l>Он любит важничать и ничего не знает.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Так, стало быть, его Наташа загоняет.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Сомненья в этом нет, что станет он в тупик.</l>
             <l>Пойдем теперь ко мне и дело справим в миг.</l>
@@ -2744,7 +2745,7 @@
             <l>Есть славный ром у нас... Но только я не знаю,</l>
             <l>Как это сделалось, что я попал и сам...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Вы всё узнаете, скорей пойдемте к вам.</l>
           </sp>
@@ -2755,35 +2756,35 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Наташа, потом Вельдюзева.</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(входя и почти падая на стул)</stage>
             <l>Ах! в жизнь мою... еще... я так не уставала.</l>
             <l>В Раисе Саввишне... нет жалости нимало...</l>
             <l>Я вся измучена... кружится голова!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Наташа, ты уж здесь?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах, здесь... и чуть жива</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Что сделалось с тобой, мой друг?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! ради бога,</l>
             <l>Собраться с духом мне позвольте хоть немного</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ну, отдохни.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Легко ль бог знает сколько верст</l>
             <l>Обегать в два часа? - Отсюда на погост</l>
@@ -2796,22 +2797,22 @@
             <l>Под горкой, встретившись с старушкою одной,</l>
             <l>Дарили, бедную, горячею слезой.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Не разорило ж вас такое подаянье.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Но тут от беготни ни вздохов, ни дыханья</l>
             <l>Не стало у меня - и кое-как сюда</l>
             <l>Дошла полмертвая. - Недаром никогда</l>
             <l>Сантиментальных я вояжей не любила.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>А что ж Раиса?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>В ней нечеловечья сила,</l>
             <l>Она еще пошла догуливать.</l>
@@ -2822,55 +2823,55 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Те же и Любим.</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>С экзаментом своим,</l>
             <l>Как лист перед травой, перед тебя предстанет</l>
             <l>Максим Меркурьич.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(испугавшись)</stage>
             <l>Как?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Небось в тупик он станет,</l>
             <l>Лишь только не жалей ученых всяких слов.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я не готовилась...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>А он совсем готов.</l>
             <l>К природной глупости мы пуншевого чада</l>
             <l>Прибавили в него, - и он таков, как надо.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да ты с ума сошел!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Нет, мы его сведем...</l>
             <l>Да, правда, не с чего.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Ну как с твоим умом</l>
             <l>Бояться...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>И кого? Максима! что он значит?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да как он ни Максим, а если одурачит...</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Не скромничай, мой друг! ты всякий день сама</l>
             <l>Твердила мне, что те, в ком капли нет ума</l>
@@ -2882,190 +2883,190 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же, Максим и майор.</stage>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(за кулисами)</stage>
             <l>Экзамент ей сейчас.</l>
             <stage>(Входя вполпьяна.)</stage>
             <l>Экзамент, слышите ль?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(Максиму)</stage>
             <l>Просить позвольте вас</l>
             <l>Принять мою жену...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Экзамент непременно!</l>
             <l>И сей же час!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(Наташе)</stage>
             <l>Да он рехнулся совершенно.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Экзамент, говорю, и больше ничего.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Поверьте мне, сударь, мы выдержим его,</l>
             <l>Она всё знает.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Да, я докажу формально.</l>
             <l>Что женщине нельзя всё знать фондаментально.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Наташа может вам формальней доказать,</l>
             <l>Что знает лучше тех...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Прошу не забывать,</l>
             <l>Что я ваш опекун и что со мной опасно</l>
             <l>Вам слишком умничать.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Не горячись напрасно.</l>
             <l>Вот стол и стул, садись!</l>
             <stage>(Сажает его.)</stage>
             <l>И начинай скорей.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Вы можете во всем экзамент сделать ей.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Так многому она училася, как видно?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Всему, сударь, всему.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(в сторону)</stage>
             <l>Вот это преобидно,</l>
             <l>А то бы я...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, что ж?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Ты, братец, слишком скор.</l>
             <l>Экзамент, кажется, не ваш военный сбор.</l>
             <l>Ведь тут не в караул, и вдруг не соберешься.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нет, ты уж от меня никак не увернешься.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Да этак я попасть рискую в дураки.</l>
             <l>Без книг и без ландкарт, без грифельной доски...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>За ними послано.</l>
             <stage>(Любиму.)</stage>
             <l>Ну, представляй Наташу.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Вот налицо она.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(Максиму)</stage>
             <l>Я благосклонность вашу</l>
             <l>Заслуживать почту себе за первый долг.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, что, брат, нравится ль?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Желательно, чтоб мог</l>
             <l>При сей оказии...</l>
             <stage>(Любиму.)</stage>
             <l>Ей-ей! она прекрасна!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>И страшно учена!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Так, стало быть, напрасно</l>
             <l>Экзамент делать.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нет, садись.</l>
           </sp>
           <stage>Вносят книги.</stage>
           <stage>Вот твой запас.</stage>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Но после бы...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Не трусь и начинай свой класс.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Я трушу? я?.. Клади все книги так, как должно.</l>
             <l>Да где грамматика? а без нее не можно...</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Вот, кажется, она.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Ах! нет, совсем не та, -</l>
             <l>Та больше, тут же нет заглавного листа.</l>
             <l>Никак не разберешь, черт знает, что за книжка!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, видишь ли, Максим, что значит выпить слишком.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Не ваше дело: сесть вы можете вдали.</l>
             <stage>(Наташе.)</stage>
             <l>Подвиньтеся... еще... нет, слишком подошли.</l>
             <l>Вот этак, хорошо.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <stage>(Вельдюзевой)</stage>
             <l>Да он ее измучит.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(надевая очки, читает)</stage>
             <l>Что есть грамматика?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Грамматика нас учит,</l>
             <l>Как чисто говорить и правильно писать.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(глядя в книгу)</stage>
             <l>Так точно, и умней не можно отвечать.</l>
@@ -3074,7 +3075,7 @@
             <l>Вопрос: кто более привел себя в известность</l>
             <l>У нас твореньями?.. Прошу тотчас ответ.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да многих имена ученый знает свет.</l>
             <l>У нас есть славные поэты, прозаисты,</l>
@@ -3084,134 +3085,134 @@
             <l>То я вам объясню тотчас его творенья.</l>
             <l>Ведь вы всех знаете?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Всех знаю, без сомненья.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Так назовите мне.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Кого бы мне назвать?..</l>
             <l>Да нет, уж лучше нам историю начать.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Я в ней сильна.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(ища в книге)</stage>
             <l>Итак, скажите мне... какое</l>
             <l>Число чудес?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Их семь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А наш Максим осьмое.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(глядя в тетрадь)</stage>
             <l>Так точно.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(подходя к столу)</stage>
             <l>Знаю я всех древних мудрецов,</l>
             <l>Поэтов, воинов, оракулов, богов...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Чур не заглядывать!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Все славные деянья,</l>
             <l>Все царства, всех царей, войны, завоеванья,</l>
             <l>Все храмы, города, и Дельфы, и Пафос,</l>
             <l>Афины, и Коринф, и Спарту, и Родос...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Довольно.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(продолжая)</stage>
             <l>Вавилон, развалины Палмиры,</l>
             <l>Самос, Персеполис, мемфисские кумиры,</l>
             <l>Сибиллу Кумскую...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Довольно! Боже мой!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Но я желала б знать, согласны ль вы со мной?..</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Согласен я во всем!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Откуда что берется!</l>
             <stage>(Максиму.)</stage>
             <l>Что, загоняла, брат?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Еще нам остается</l>
             <l>Кой-что пройти.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А что?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Эх, братец, не сбивай!</l>
             <l>Не знаешь ничего, так делу не мешай.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Кто больше знает нас, тому и книги в руки,</l>
             <l>А вряд ли, брат Максим, тебе дались науки.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Пожалуйста, молчи, не говорят с тобой.</l>
             <stage>(Наташе.)</stage>
             <l>Вы географии учились ли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Какой?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(в сторону)</stage>
             <l>А! запинается...</l>
             <stage>(Наташе.)</stage>
             <l>Ну как какой? известной!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Математической, физической, небесной</l>
             <l>Или земной?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Да, да! куда нам до небес?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А в географии небесной тьма чудес!</l>
             <l>Известны, верно, вам открытия Невтона,</l>
@@ -3221,17 +3222,17 @@
             <l>Иракла, Близнецов, Центавра, Мухи, Змея,</l>
             <l>Павлина, Ворона, Лисицы, Водолея...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Всё знаю, но всегда до звезд и до зверей</l>
             <l>Я не охотник был.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А пуще Водолей</l>
             <l>Ему не по нутру: он смерть воды не любит.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(в сторону)</stage>
             <l>Своей ученостью она меня погубит,</l>
@@ -3239,17 +3240,17 @@
             <stage>(Наташе.)</stage>
             <l>О философии зачнем теперь мы речь.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>О философии? Как этому я рада!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Вы рады?..</l>
             <stage>(В сторону.)</stage>
             <l>Вот те раз!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Но прежде знать мне надо,</l>
             <l>Вы стоик, эпикур, деист или атей,</l>
@@ -3258,114 +3259,114 @@
             <l>Жан-Жак Руссо, Вольтер, Сенека иль Гельвеции?</l>
             <l>Да не забыла ли еще я кой-кого?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Нет, нет, сударыня, тут все до одного.</l>
             <stage>(Вставая.)</stage>
             <l>Экзамент кончился.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <stage>(Максиму)</stage>
             <l>Что, учена ль, скажите?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <stage>(отведя ее)</stage>
             <l>Она познания имеет, коль хотите,</l>
             <l>Но всё ученою назвать еще нельзя,</l>
             <l>Тут нужно многое!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(подходя к Максиму)</stage>
             <l>Вас спрашивала я,</l>
             <l>Которой секты вы?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Эх, мне не до вопросов!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Хотя могу ль узнать, который вам философ</l>
             <l>Всех больше нравится?</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да растолкуйте ей!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Что ж, зятюшка, скажи?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, братец, поскорей!</l>
             <l>Решай!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Что вы ко мне пристали, как с ножами?</l>
             <stage>(В сторону.)</stage>
             <l>Да этак пропадешь с руками и ногами!</l>
             <l>Который час?.. Ай-ай! уж около восьми.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Но кто ж философ тот?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Да черт его возьми!</l>
             <l>Я вашим знанием разодолжен отменно,</l>
             <l>Чего ж еще?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нет, брат, признайся откровенно,</l>
             <l>Что перед ней ты пас.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Ну пас так пас. Прощай!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Нет, не прощай...</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>А что?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>К Раисе ты ступай.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Зачем?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ее умом как пешкой ты играешь,</l>
             <l>Так помири ее с племянником как знаешь.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Ох! это нелегко.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ах, дядюшка! на вас,</l>
             <l>На вашу власть над ней надежда вся у нас.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Вы так, сударь, добры, умны, красноречивы,</l>
             <l>Что стоит вам сказать - и будем мы счастливы-</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Так будьте ж счастливы, за всё беруся я.</l>
             <stage>(Отходя.)</stage>
@@ -3377,35 +3378,35 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Вельдюзева, майор, Любим и Наташа.</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Ну, нам теперь одна, мне кажется, осталась</l>
             <l>Матрена Карповна.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Старушка обещалась</l>
             <l>Сегодня к вечеру прийти ко мне на чай.</l>
             <l>Ты ж к Фекле Саввишне, смотри, не опоздай</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Нельзя ли не ходить?</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Нет, должно непременно</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Поди, мой друг.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да я с старухами отменно</l>
             <l>Неловок, признаюсь.</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>Так я с тобой схожу,</l>
             <l>И как подладить ей - дорогой расскажу.</l>
@@ -3413,11 +3414,11 @@
             <l>А если я еще вернуться не успею,</l>
             <l>Матрену Карповну ты примешь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Разумею.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Прощайте, дядюшка! желайте счастья нам.</l>
           </sp>
@@ -3425,7 +3426,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Майор и Наташа.</stage>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да хоть желай, хоть нет, а будет гонка вам.</l>
             <l>Нет, Фекла не в меня и шутки худо смыслит,</l>
@@ -3437,12 +3438,12 @@
             <l>И в целой Чухломе с ней сговорит одна</l>
             <l>Старушка тетушка.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! ежели она</l>
             <l>Придет сюда теперь...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так что ж? пускай приходит.</l>
             <l>Хоть ей под семьдесят, а скуки не наводит,</l>
@@ -3450,20 +3451,20 @@
             <l>Разумница, добра, а под веселый час</l>
             <l>Утешит хоть кого; то уж на всё удача.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да должно ль ей сказать, кто я?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, вот задача,</l>
             <l>Сказать... иль лучше нет?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да как же быть?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Бог весть!</l>
             <l>Ахти! никак она.</l>
@@ -3472,122 +3473,122 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же и Звонкина.</stage>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>А, Карпушка, ты здесь!</l>
             <l>Где ж Варенька?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(с смятением)</stage>
             <l>Она в минуту будет дома.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(увидя Наташу)</stage>
             <l>А это кто, мой друг? мне что-то незнакома,</l>
             <l>Уж не приезжая ль?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Приезжая...</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Отколь?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Спросите у нее.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Спросить себя дозволь,</l>
             <l>Я имя вашего и отчества не знаю,</l>
             <l>Вы к нам приехали издалека, я чаю.</l>
             <l>Давно ли? и к кому?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(тихо Наташе)</stage>
             <l>Ну, отвечай живей!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Сюда приехала я к тетушке моей</l>
             <l>Варваре Саввишне.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Ах, жизнь моя! конечно.</l>
             <l>Ты из Вельдюзевых? Так рада я сердечно</l>
             <l>С тобою, сватьюшка, скорей знакомство свесть.</l>
             <stage>(Обнимает Наташу.)</stage>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Попалась тетушка.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(подает стул)</stage>
             <l>Вам не угодно ль сесть?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Спасибо, ангел мой! Вот это нынче диво,</l>
             <l>Чтоб обходилися с старушками учтиво.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Людей почтенных я привыкла уважать.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Какая умница!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Смелей! пошла писать.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(майору)</stage>
             <l>Не правда ль, сватьюшка у нас предорогая?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Девица славная, веселая такая!</l>
             <l>Ну не расстался б с ней.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(Наташе)</stage>
             <l>Так, стало, ты, мой свет</l>
             <l>Еще не замужем?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Кто? я?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(перебивая)</stage>
             <l>Покуда нет.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(поглядывая на майора)</stage>
             <l>Вот что!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Я лихо лгу.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да что и торопиться?</l>
             <l>Покаместь молода, так надо веселиться.</l>
@@ -3599,35 +3600,35 @@
             <l>А нет веселого лица ни одного, -</l>
             <l>И тем, мой свет, они тоскливей, чем моложе.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>И в Петербурге я видала часто то же.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Так в Петербурге ты поэтому жила?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да как же? там она у знатных бар росла.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Неужли?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да ее житье большого света</l>
             <l>Не раскручинило.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(в сторону)</stage>
             <l>Я понимаю это.</l>
             <stage>(Наташе.)</stage>
           </sp>
           <stage>Какую ж жизнь ведут большие господа?</stage>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(улыбаясь)</stage>
             <l>Чуть все не мрут с тоски, хоть, правда, иногда</l>
@@ -3635,19 +3636,19 @@
             <l>И рады б кое-что затеять, да боятся,</l>
             <l>Что скажут...</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да по мне что хочешь говори, -</l>
             <l>Что до меня кому? всяк за собой смотри.</l>
             <l>И кто же скажет?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(весело)</stage>
             <l>Те, которые не рады,</l>
             <l>Что весело не им.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Пусть треснут их с досады,</l>
             <l>А я бы, злым назло, век целый пировал.</l>
@@ -3655,11 +3656,11 @@
             <l>Никто мне не указ: хочу - и веселюся,</l>
             <l>Толкуй, кому досуг, я толков не боюся.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Ай да племянничек! ты весь пошел в меня.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Знакомым госпожам твердила часто я:</l>
             <l>Что вы скучаете, так сами ж виноваты,</l>
@@ -3669,7 +3670,7 @@
             <l>Да пересуды так их, бедных, запугали,</l>
             <l>Что в моду уж вошло крушиться без печали.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Та ж мода и в Москве, я там зимой была,</l>
             <l>У мужниной родни, - с ума было сошла!</l>
@@ -3707,7 +3708,7 @@
             <l>Такая беготня, что задрожит весь дом.</l>
             <l>Чай, этого у вас нет нынче и в помине?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Есть, только изредка. Я иногда к княгине,</l>
             <l>Которою была воспитана как дочь,</l>
@@ -3715,61 +3716,61 @@
             <l>С княжнами напролет во все игры играем,</l>
             <l>Хороним золото, танцуем и гадаем.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>А как гадали вы?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да мы пололи снег,</l>
             <l>Смотрелись в зеркало, и, признаюсь, хоть грех,</l>
             <l>А лила олово.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Эх, мать моя, напрасно!</l>
             <l>Да вышло ль что-нибудь?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет, вылилось неясно.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Неужли ни венца, ни церкви, ни сердец?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет, право.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Что таить, ей вылился венец.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(смеючись)</stage>
             <l>Венец!.. как ты узнал? ведь к нам она недавно</l>
             <l>Приехала...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да, с час...</l>
             <stage>(В сторону.)</stage>
             <l>Я отпускаю славно!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Ай, ай!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <stage>(Наташе)</stage>
             <l>Ходили ли вы слушать у ворот</l>
             <l>И спрашивать, кого прохожий назовет?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Что это за вопрос?</l>
@@ -3780,44 +3781,44 @@
             <l>Как в комнате хожу, и норовлю того,</l>
             <l>Чтоб выбежать спросить.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Кого же называли?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Прохожие всегда на смех мне отвечали.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да вышло ль что-нибудь, мой свет, на твой вопрос?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Не помню, - кажется, Исай или Аммос.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>А неужли никто не называл Любима?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Любима?.. нет.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>А что, попал бы он не мимо?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(в сторону)</stage>
             <l>Она всё знает!..</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Ась!.. А ты что скажешь, плут?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(в сторону)</stage>
             <l>Да, жди, скажу тебе!</l>
@@ -3825,113 +3826,113 @@
             <l>С чего Любима тут</l>
             <l>Вы приплетаете? Ей нужда в нем большая!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да все-таки Любим приятнее Исая,</l>
             <l>Признайся, жизнь моя!</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(значительно)</stage>
             <l>Приятней, если вам</l>
             <l>Угодно это.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>И вы простите нам?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Не только что прощу, я вас благословляю!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ба! это что? да вы всё знаете?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Всё знаю,</l>
             <l>И завтра же сыграть готова свадьбу их.</l>
             <l>Ну, право, парочка невеста и жених!</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(с насмешкой)</stage>
             <l>А он жених?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Нет, муж.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли догадалась!</l>
             <l>Да нет, не может быть.</l>
             <stage>(Наташе.)</stage>
             <l>Ты разве проболталась?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Нет, дядюшка, не я.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(Звонкиной)</stage>
             <l>Да кто же вам сказал?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Ты сам, племянничек.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Я рта не разевал,</l>
             <l>Хоть на нее пошлюсь.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>И, батька! глупый свистнет, -</l>
             <l>Пословица у нас, - а умный-де и смыслит.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Неужли я еще попался в дураки?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>А ты хотел поднять старушку на зубки.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да как я оплошал? ну, право, это чудно!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Нет, ты перехитрил, и отгадать не трудно</l>
             <l>Мне было по всему, что ты, племянник, лжешь.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, вот она не в нас, ее не проведешь.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Ах! виновата я.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Ну, старое забудем</l>
             <l>И только об одном веселье думать будем.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Как вы добры!..</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>И! нет; я в землю уж гляжу, -</l>
             <l>Так каждым, ангел мой, денечком дорожу</l>
@@ -3941,13 +3942,13 @@
             <l>Веди порядком дом, живи в ладу с родней,</l>
             <l>А пуще не крушись печалью новомодной.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Дай Бог, чтоб я могла всегда вам быть угодной</l>
             <l>А с вами, с дядюшкой и с мужем, я клянусь,</l>
             <l>Ни разу не вздохну.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А я за то берусь,</l>
             <l>Что будет здесь что день, то новое веселье!</l>
@@ -3956,18 +3957,18 @@
             <stage>(Наташе.)</stage>
             <l>А ты охотница, я чаю, танцевать?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Люблю без памяти; и не бывало бала,</l>
             <l>Где б я без отдыха всю ночь не танцевала.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Я такова ж была, мой свет, в твоей поре:</l>
             <l>Бывало, так скачу ларон и лабуре,</l>
             <l>Что вступит колотье.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>И я с полком в Вольмаре</l>
             <l>На зимних с год стоял, и как-то в первой паре</l>
@@ -3975,61 +3976,61 @@
             <l>Выпрыгивал себе, что любовались мной.</l>
             <l>Ведь в танцах, тетушка, и вы меня видали?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>А как же, помнишь, мы хлопушку танцевали</l>
             <l>У Феклы Саввишны на третьей свадьбе?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да.</l>
             <stage>(Наташе.)</stage>
             <l>Танцуют ли у вас хлопушку?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Никогда.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Эх, жаль; а то бы мы...</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Да мне фигуру надо</l>
             <l>Лишь только показать, а танцевать я рада.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Фигура, ангел мой, совсем не мудрена.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Я мигом покажу: тут пара стать должна,</l>
             <l>Другая рядом с ней, а там попарно дале</l>
             <l>Хоть целый взвод поставь, лишь было б место в зале</l>
             <l>Сначала так... Кой черт! начало я забыл.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Не стыдно ль, батька мой! еще в Вольмаре был,</l>
             <l>А память коротка.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Так сами покажите.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Изволь, мой свет, изволь... Ну, станьте ж...</l>
             <l>Погодите...</l>
             <l>Ты знаешь голос?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Да.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Так напевай! начнем.</l>
             <l>Дай руку правую, вертись со мной кругом...</l>
@@ -4040,87 +4041,87 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Те же и Максим.</stage>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Давай сюда Максима.</l>
             <l>Ну, становися, брат.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Что это?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Становись!</l>
             <l>И хлопай раз, два, три! Племянница, вертись.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(вертя Максима)</stage>
             <l>Нельзя ли, дядюшка, немного поскорее.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Теперь нам променаж.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(танцуя)</stage>
             <l>Ну, тетушка, живее.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Что здесь за чудеса!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Задохлась, бог с тобой!</l>
             <stage>(Садится в кресла.)</stage>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Вот я без дамы стал...</l>
             <stage>(Максиму.)</stage>
             <l>Что не привел с собой</l>
             <l>Раисы Саввишны?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Я дело всё исправил</l>
             <l>И с просьбою ее к большой сестре отправил.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ай да Максим! умно... А танцы продолжай.</l>
             <l>Ну, с нею променаж! - Эх, что ж стоишь? качай!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Да что я за танцор?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А помнишь ли пирушку</l>
             <l>У стряпчего, где ты отхватывал хлопушку?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>А разве речь о ней?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>О чем же?</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Я готов.</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Угодно ль, мы начнем.</l>
             <stage>(Танцует с Максимом.)</stage>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <stage>(Звонкиной)</stage>
             <l>Вот наш Максим каков!</l>
@@ -4129,68 +4130,68 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Те же, Любим и потом все.</stage>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Все тетушки идут.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Любим! ты будешь дамой.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Как дамой?</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, вертись!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Да как...</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Какой упрямый;</l>
             <l>Вертись!</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Не так, не так! ты с ней, а ты со мной.</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Мне с вами, дядюшка?</l>
             <stage>(Вертит Максима.)</stage>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Постой, шалун, постой!</l>
           </sp>
           <stage>Тетки входят.</stage>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>А! вот и унтер-штаб! - Сестрицы, становитесь.</l>
             <stage>(Фекле.)</stage>
             <l>Ты за мужчину здесь.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Что вы, перекреститесь!</l>
             <l>И что за радости?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Да радостей каких</l>
             <l>Нам больше ждать? Бог дал нам встретить молодых.</l>
             <l>Поди, Любимушка, поди, мой друг сердечный,</l>
             <l>Даруй тебе господь совет с женою вечный!</l>
           </sp>
-          <sp who="#Ljubim">
+          <sp who="#ljubim">
             <speaker>Любим</speaker>
             <l>Так, бабушка, на нас не гневаетесь вы?</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Нет, батька! для твоей залетной головы</l>
             <l>Нужна жена, чтоб ум и добрый нрав имела,</l>
@@ -4198,41 +4199,41 @@
             <l>Чтоб ты, мой милый друг, женился на другой.</l>
             <l>Ну что, племянницы, согласны ль вы со мной?</l>
           </sp>
-          <sp who="#Raisa">
+          <sp who="#raisa">
             <speaker>Раиса</speaker>
             <stage>(обнимая Наташу)</stage>
             <l>Вот мой ответ.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>И мой!</l>
           </sp>
-          <sp who="#Veldjuzeva">
+          <sp who="#veldjuzeva">
             <speaker>Вельдюзева</speaker>
             <l>И мой.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>И мой!</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Так, стало,</l>
             <l>Согласны все.</l>
             <stage>(Фекле.)</stage>
             <l>А ты?</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Я знаю, пользы мало</l>
             <l>Вам дело говорить, однако же скажу,</l>
             <l>Что свадьбу эту я безумной нахожу.</l>
           </sp>
-          <sp who="#Maksim">
+          <sp who="#maksim">
             <speaker>Максим</speaker>
             <l>Но должно доказать.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Я докажу вам ясно:</l>
             <l>Она комедию играет так прекрасно,</l>
@@ -4241,15 +4242,15 @@
             <l>А кто порука мне, чтоб завтра шутку ту же</l>
             <l>От скуки повторить не вздумала на муже?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>Но к шутке этой вы ж принудили меня.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Чем это, матушка?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>А тем, что, всех браня.</l>
             <l>Кто воспитанием обязан людям знатным,</l>
@@ -4259,12 +4260,12 @@
             <l>Но и тогда, как всем угодной быть старалась,</l>
             <l>Клянуся вам, почти ни в чем не притворялась.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Не притворялася? Ах, боже мой! да что ж</l>
             <l>Ты насказала мне?</l>
           </sp>
-          <sp who="#Natasha">
+          <sp who="#natasha">
             <speaker>Наташа</speaker>
             <l>И это всё не ложь.</l>
             <l>По воле тетушки, кто я, от вас скрывала,</l>
@@ -4290,21 +4291,21 @@
             <l>Люблю ли резвости, так в этом нет сомненья,</l>
             <l>И я должна за них просить у вас прощенья.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>Нет, чуть ли уж не нам прощения просить,</l>
             <l>Что торопились мы, не знав тебя, винить.</l>
           </sp>
-          <sp who="#Major">
+          <sp who="#major">
             <speaker>Майор</speaker>
             <l>Ну, слышишь ли? теперь отказ твой не у места.</l>
           </sp>
-          <sp who="#Fekla">
+          <sp who="#fekla">
             <speaker>Фекла</speaker>
             <l>Ин так, прости меня, замужняя невеста,</l>
             <l>Что одурачила всех нас.</l>
           </sp>
-          <sp who="#Zvonkina">
+          <sp who="#zvonkina">
             <speaker>Звонкина</speaker>
             <l>И, жизнь моя!</l>
             <l>Есть хлопотать о чем; мы все своя семья.</l>
