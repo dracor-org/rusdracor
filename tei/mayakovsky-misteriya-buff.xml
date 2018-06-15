@@ -79,18 +79,20 @@
             <persName xml:lang="de">Die Australierin</persName>
           </person>
           <person xml:id="anglichanin" sex="MALE">
-            <persName>Англичанин</persName>
+            <persName>Англичанин (Ллойд-Джордж)</persName>
             <persName type="variant">Первый голос</persName>
-            <persName xml:lang="de">Der Engländer</persName>
+            <persName type="variant">Ллойд-Джордж</persName>
+            <persName xml:lang="de">Der Engländer (David Lloyd George)</persName>
           </person>
           <person xml:id="francuz" sex="MALE">
-            <persName>Француз</persName>
+            <persName>Француз (Клемансо)</persName>
             <persName type="variant">Второй голос</persName>
-            <persName xml:lang="de">Der Franzose</persName>
+            <persName type="variant">Клемансо</persName>
+            <persName xml:lang="de">Der Franzose (Georges Clemenceau)</persName>
           </person>
           <person xml:id="kupec" sex="MALE">
             <persName>Купец</persName>
-            <persName>Купчина</persName>
+            <persName type="variant">Купчина</persName>
             <persName xml:lang="de">Der Kaufherr</persName>
           </person>
           <person xml:id="negus" sex="MALE">
@@ -99,6 +101,7 @@
           </person>
           <person xml:id="kitaec" sex="MALE">
             <persName>Китаец</persName>
+            <persName type="variant">Голос китайца</persName>
             <persName xml:lang="de">Der Mandarin</persName>
           </person>
           <person xml:id="pers" sex="MALE">
@@ -125,16 +128,16 @@
             <persName>Соглашатель</persName>
             <persName xml:lang="de">Der Versöhnler</persName>
           </person>
-          <person xml:id="nechistye" sex="UNKNOWN">
-            <persName>Нечистые</persName>
-            <persName type="variant">Голоса нечистых</persName>
-            <persName type="variant">Некоторые нечистые</persName>
-            <persName xml:lang="de">Die Unreinen</persName>
-          </person>
-          <person xml:id="chistye" sex="UNKNOWN">
-            <persName>Чистые</persName>
-            <persName xml:lang="de">Die Reinen</persName>
-          </person>
+          <personGrp xml:id="nechistye" sex="UNKNOWN">
+            <name>Нечистые</name>
+            <name type="variant">Голоса нечистых</name>
+            <name type="variant">Некоторые нечистые</name>
+            <name xml:lang="de">Die Unreinen</name>
+          </personGrp>
+          <personGrp xml:id="chistye" sex="UNKNOWN">
+            <name>Чистые</name>
+            <name xml:lang="de">Die Reinen</name>
+          </personGrp>
           <person xml:id="kuznec" sex="MALE">
             <persName>Кузнец</persName>
             <persName type="variant">Незлобивый кузнец</persName>
@@ -160,18 +163,6 @@
             <persName>Интеллигенция</persName>
             <persName type="variant">Интеллигент</persName>
             <persName xml:lang="de">Der Intelligenzler</persName>
-          </person>
-          <person xml:id="golosa_1" sex="UNKNOWN">
-            <persName>Голоса (I)</persName>
-            <persName xml:lang="de">Stimmen (I)</persName>
-          </person>
-          <person xml:id="golos_kitajca" sex="MALE">
-            <persName>Голос китайца</persName>
-            <persName xml:lang="de">Stimme des Mandarin</persName>
-          </person>
-          <person xml:id="obschij_gul_1" sex="UNKNOWN">
-            <persName>Общий гул (I)</persName>
-            <persName xml:lang="de">Allgemeines Stimmengewirr (I)</persName>
           </person>
           <person xml:id="plotnik" sex="MALE">
             <persName>Плотник</persName>
@@ -211,29 +202,9 @@
             <persName type="variant">Рудокоп</persName>
             <persName xml:lang="de">Der Bergmann</persName>
           </person>
-          <person xml:id="llojd-dzhordzh" sex="MALE">
-            <persName>Ллойд-Джордж</persName>
-            <persName xml:lang="de">Lloyd-George</persName>
-          </person>
-          <person xml:id="klemanso" sex="MALE">
-            <persName>Клемансо</persName>
-            <persName xml:lang="de">Clémenceau</persName>
-          </person>
-          <person xml:id="golosa_2" sex="UNKNOWN">
-            <persName>Голоса (II)</persName>
-            <persName xml:lang="de">Stimmen (II)</persName>
-          </person>
-          <person xml:id="neskolko_golosov_2" sex="UNKNOWN">
-            <persName>Несколько голосов (II)</persName>
-            <persName xml:lang="de">Einige Stimmen (II)</persName>
-          </person>
-          <person xml:id="golos_2" sex="UNKNOWN">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>Голос (II)</persName>
             <persName xml:lang="de">Stimme (II)</persName>
-          </person>
-          <person xml:id="obschij_gul_2" sex="UNKNOWN">
-            <persName>Общий гул (II)</persName>
-            <persName xml:lang="de">Allgemeines Stimmengewirr (II)</persName>
           </person>
           <person xml:id="trubochist" sex="MALE">
             <persName>Трубочист</persName>
@@ -247,10 +218,10 @@
             <persName>Человек</persName>
             <persName xml:lang="de">Der Mensch</persName>
           </person>
-          <person xml:id="hor" sex="UNKNOWN">
-            <persName>Хор</persName>
-            <persName xml:lang="de">Chor</persName>
-          </person>
+          <personGrp xml:id="cherti" sex="UNKNOWN">
+            <name>Черти</name>
+            <name xml:lang="de">Die Teufel</name>
+          </personGrp>
           <person xml:id="pervyj_vestovoj" sex="UNKNOWN">
             <persName>1-й вестовой</persName>
             <persName xml:lang="de">Der erste Meldeteufel</persName>
@@ -267,19 +238,27 @@
             <persName>Вельзевул</persName>
             <persName xml:lang="de">Beelzebub</persName>
           </person>
-          <person xml:id="cherti" sex="UNKNOWN">
-            <persName>Черти</persName>
-            <persName xml:lang="de">Die Teufel</persName>
+          <person xml:id="golos_iz_tolpy_chertej_3a" sex="UNKNOWN">
+            <persName>Голос (из толпы чертей)</persName>
+            <persName xml:lang="de">Eine Stimme (aus der Menge der Teufel)</persName>
+          </person>
+          <person xml:id="golos_iz_tolpy_chertej_3b" sex="UNKNOWN">
+            <persName>Голос (из толпы чертей)</persName>
+            <persName xml:lang="de">Eine Stimme (aus der Menge der Teufel)</persName>
+          </person>
+          <person xml:id="golos_iz_tolpy_chertej_3c" sex="UNKNOWN">
+            <persName>Голос (из толпы чертей)</persName>
+            <persName xml:lang="de">Eine Stimme (aus der Menge der Teufel)</persName>
           </person>
           <person xml:id="mafusail" sex="MALE">
             <persName>Мафусаил</persName>
             <persName xml:lang="de">Methusalem</persName>
           </person>
-          <person xml:id="svyatye" sex="UNKNOWN">
-            <persName>Святые</persName>
-            <persName type="variant">Райские</persName>
-            <persName xml:lang="de">Die Seligen</persName>
-          </person>
+          <personGrp xml:id="svyatye" sex="UNKNOWN">
+            <name>Святые</name>
+            <name type="variant">Райские</name>
+            <name xml:lang="de">Die Seligen</name>
+          </personGrp>
           <person xml:id="angel" sex="UNKNOWN">
             <persName>Ангел</persName>
             <persName xml:lang="de">Der Engel</persName>
@@ -288,10 +267,10 @@
             <persName>Ангельский голос</persName>
             <persName xml:lang="de">Eine Engelstimme</persName>
           </person>
-          <person xml:id="angely" sex="UNKNOWN">
-            <persName>Ангелы</persName>
-            <persName xml:lang="de">Die Engel</persName>
-          </person>
+          <personGrp xml:id="angely" sex="UNKNOWN">
+            <name>Ангелы</name>
+            <name xml:lang="de">Die Engel</name>
+          </personGrp>
           <person xml:id="odin_iz_angelov" sex="UNKNOWN">
             <persName>Один из ангелов</persName>
             <persName xml:lang="de">Einer der Engel</persName>
@@ -308,10 +287,6 @@
             <persName>Машинист</persName>
             <persName xml:lang="de">Der Maschinist</persName>
           </person>
-          <person xml:id="esche_golosa" sex="UNKNOWN">
-            <persName>Еще голоса</persName>
-            <persName xml:lang="de">Weitere Stimmen</persName>
-          </person>
           <person xml:id="parovoz" sex="UNKNOWN">
             <persName>Паровоз</persName>
             <persName xml:lang="de">Die Lokomotive</persName>
@@ -324,22 +299,22 @@
             <persName>Разруха</persName>
             <persName xml:lang="de">Der Ruin</persName>
           </person>
-          <person xml:id="veschi" sex="UNKNOWN">
-            <persName>Вещи</persName>
-            <persName xml:lang="de">Die Sachen</persName>
-          </person>
-          <person xml:id="mashiny" sex="UNKNOWN">
-            <persName>Машины</persName>
-            <persName xml:lang="de">Die Maschinen</persName>
-          </person>
-          <person xml:id="edy" sex="UNKNOWN">
-            <persName>Еды</persName>
-            <persName xml:lang="de">Die Speisen</persName>
-          </person>
-          <person xml:id="neskolko_golosov_6" sex="UNKNOWN">
-            <persName>Несколько голосов (VI)</persName>
-            <persName xml:lang="de">Einige Stimmen (IV)</persName>
-          </person>
+          <personGrp xml:id="vojsko" sex="UNKNOWN">
+            <name>Войско</name>
+            <name xml:lang="de">Chor der Spekulanten</name>
+          </personGrp>
+          <personGrp xml:id="veschi" sex="UNKNOWN">
+            <name>Вещи</name>
+            <name xml:lang="de">Die Sachen</name>
+          </personGrp>
+          <personGrp xml:id="mashiny" sex="UNKNOWN">
+            <name>Машины</name>
+            <name xml:lang="de">Die Maschinen</name>
+          </personGrp>
+          <personGrp xml:id="edy" sex="UNKNOWN">
+            <name>Еды</name>
+            <name xml:lang="de">Die Speisen</name>
+          </personGrp>
           <person xml:id="pila" sex="UNKNOWN">
             <persName>Пила</persName>
             <persName xml:lang="de">Die Säge</persName>
@@ -891,7 +866,9 @@
           <speaker>Француз</speaker>
           <l>Слышите?</l>
           <l>Слышите топот?</l>
-          <stage>Множество приближающихся голосов.</stage>
+        </sp>
+        <stage>Множество приближающихся голосов.</stage>
+        <sp who="#nechistye #chistye">
           <l>Потоп! потопом! потопу! о потопе! потопа!</l>
         </sp>
         <sp who="#anglichanin">
@@ -1197,7 +1174,7 @@
           <l>Война — метафизическое!</l>
           <l>Начали с Адама!</l>
         </sp>
-        <sp who="#golosa_1">
+        <sp who="#nechistye #chistye">
           <speaker>Голоса</speaker>
           <l>По очереди!</l>
           <l>По очереди!</l>
@@ -1235,7 +1212,7 @@
           <l>в доменных печах революций расплавленный,</l>
           <l>льется сплошным водопадом.</l>
         </sp>
-        <sp who="#golos_kitajca">
+        <sp who="#kitaec">
           <speaker>Голос китайца</speaker>
           <l>Господа! Внимание!</l>
           <l>Сюда моросят!</l>
@@ -1264,12 +1241,16 @@
             эскимоса)</stage>
           <l>Эй, ты!</l>
           <l>Пошел к моржам!</l>
-          <stage>Охотник-эскимос отлетает, и из открытой дыры забила в присутствующих струя. Веером
-            рассыпались чистые, нечленораздельно оря.</stage>
+        </sp>
+        <stage>Охотник-эскимос отлетает, и из открытой дыры забила в присутствующих струя. Веером
+          рассыпались чистые, нечленораздельно оря.</stage>
+        <sp who="#chistye">
           <l>И-и-и-и-и!</l>
           <l>У-у-у-у-у!</l>
           <l>А-а-а-а-а!</l>
-          <stage>Через минуту все бросаются к струе.</stage>
+        </sp>
+        <stage>Через минуту все бросаются к струе.</stage>
+        <sp who="#nechistye #chistye">
           <l>Забить!</l>
           <l>Заткнуть!</l>
           <l>Зажать!</l>
@@ -1309,7 +1290,7 @@
           <l>Это глупости —</l>
           <l>и история, и прецедент, и воопче...</l>
         </sp>
-        <sp who="#golosa_1">
+        <sp who="#nechistye #chistye">
           <speaker>Голоса</speaker>
           <l>Ближе к делу!</l>
         </sp>
@@ -1337,7 +1318,7 @@
           <l>Весь капитал вложу!</l>
           <l>Те спаслись, а мы умнее тех, никак.</l>
         </sp>
-        <sp who="#obschij_gul_1">
+        <sp who="#nechistye #chistye">
           <speaker>Общий гул</speaker>
           <l>Да здравствует,</l>
           <l>да здравствует техника!</l>
@@ -1347,7 +1328,7 @@
           <l>Подымите руки —</l>
           <l>кто за.</l>
         </sp>
-        <sp who="#obschij_gul_1">
+        <sp who="#nechistye #chistye">
           <speaker>Общий гул</speaker>
           <l>И рук не надо,</l>
           <l>видно за глаза.</l>
@@ -1505,7 +1486,9 @@
           <speaker>Батрак</speaker>
           <l>Что волки твои,</l>
           <l>волнищами ляскают.</l>
-          <stage>Оба эскимоса, шофер и австралийцы сразу.</stage>
+        </sp>
+        <stage>Оба эскимоса, шофер и австралийцы сразу.</stage>
+        <sp who="#ohotnik #rybak #shofer #avstraliec #avstralijka">
           <l>Глядите,</l>
           <l>что это?</l>
           <l>Что с Аляскою?</l>
@@ -1527,7 +1510,7 @@
           <speaker>Рыбак</speaker>
           <l>Нет!</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#nechistye #chistye">
           <speaker>Все</speaker>
           <l>Прощай! Прощай! Прощай!</l>
         </sp>
@@ -1573,7 +1556,9 @@
           <speaker>Слуга</speaker>
           <l>Ничего не поджарый,</l>
           <l>славно поджарили.</l>
-          <stage>Чистые одни. Нечистые спускаются в трюм, подпевая.</stage>
+        </sp>
+        <stage>Чистые одни. Нечистые спускаются в трюм, подпевая.</stage>
+        <sp who="#nechistye">
           <l>Что терять нам? Испугаться нам потопа ли?</l>
           <l>Разустали ножки — по свету потопали!</l>
           <l>Эх, и отдых в пароходах.</l>
@@ -1696,7 +1681,7 @@
           <l>До чего доросли:</l>
           <l>первой гильдии — и жрут водоросли.</l>
         </sp>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <stage>(к Клемансо)</stage>
           <l>Эврика!</l>
@@ -1708,20 +1693,20 @@
           <speaker>Соглашатель</speaker>
           <l>И у меня... пузо.</l>
         </sp>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Как это грустно:</l>
           <l>с таким прекрасным господином —</l>
           <l>и я не задрался чуть.</l>
         </sp>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Теперь нам не до драк:</l>
           <l>у нас с вами общий враг.</l>
           <l>Вот что я вам сказать хочу...</l>
         </sp>
         <stage>Берет Клемансо под руку и отводит. Пошептавшись, возвращаются.</stage>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Господа!</l>
           <l>Мы все такие чистые.</l>
@@ -1736,7 +1721,7 @@
           <l>А из них любой — косая в плечах.</l>
         </sp>
         <pb n="275"/>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Боже сохрани драться!</l>
           <l>Не драться,</l>
@@ -1745,7 +1730,7 @@
           <l>пия и оря,</l>
           <l>возьмем и подложим им свинью...</l>
         </sp>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Выберем им царя!</l>
         </sp>
@@ -1754,7 +1739,7 @@
           <l>Зачем царя?</l>
           <l>Лучше городового.</l>
         </sp>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>А затем, что царь издаст манифест —</l>
           <l>все кушанья мне, мол, должны быть отданы.</l>
@@ -1762,7 +1747,7 @@
           <l>и мы едим —</l>
           <l>его верноподданные.</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#chistye #soglashatel #intelligenciya #dama">
           <speaker>Все</speaker>
           <l>Здорово!</l>
         </sp>
@@ -1780,7 +1765,7 @@
           <speaker>Австралийцы</speaker>
           <l>Выбираем скорей!</l>
         </sp>
-        <sp who="#neskolko_golosov_2">
+        <sp who="#chistye">
           <speaker>Несколько голосов</speaker>
           <l>Но кого?</l>
           <l>Кого же?</l>
@@ -1815,7 +1800,7 @@
           <l>это будет настоящий царь</l>
           <l>или только притворный?</l>
         </sp>
-        <sp who="#golosa_2">
+        <sp who="#chistye">
           <speaker>Голоса</speaker>
           <l>Настоящий, настоящий!</l>
         </sp>
@@ -1824,7 +1809,7 @@
           <l>Ах!</l>
           <l>Я буду дамой придворной!</l>
         </sp>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Скорей, скорей</l>
           <l>строчите манифест:</l>
@@ -1955,11 +1940,11 @@
         </sp>
         <stage>Гонят нечистых в трюм, и пока возятся с ними, негус съедает все принесенное. Чистые
           возвращаются.</stage>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Идешь, Ллойд-Джордж?</l>
         </sp>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Иду, иду!</l>
         </sp>
@@ -2090,7 +2075,9 @@
           <speaker>Соглашатель</speaker>
           <l>Ура!</l>
           <l>Ура Учредительному собранию!</l>
-          <stage>(Отваливают люк.)</stage>
+        </sp>
+        <stage>(Отваливают люк.)</stage>
+        <sp who="#chistye">
           <l>Ура! Ур-а-а!</l>
           <stage>(Друг другу.)</stage>
           <l>Наяривайте!</l>
@@ -2138,7 +2125,7 @@
           <l>Граждане!</l>
           <l>У этого царищи невозможный рот!</l>
         </sp>
-        <sp who="#golosa_2">
+        <sp who="#nechistye #chistye">
           <speaker>Голоса</speaker>
           <l>Правильно!</l>
           <l>Правильно, гражданин оратор!</l>
@@ -2147,7 +2134,7 @@
           <speaker>Интеллигент</speaker>
           <l>Все, проклятый, как есть, сожрет!</l>
         </sp>
-        <sp who="#golos_2">
+        <sp who="#golos">
           <speaker>Голос</speaker>
           <l>Правильно!</l>
         </sp>
@@ -2156,7 +2143,7 @@
           <l>И никто</l>
           <l>никогда не доползет до Арарата.</l>
         </sp>
-        <sp who="#golosa_2">
+        <sp who="#nechistye #chistye">
           <speaker>Голоса</speaker>
           <l>Правильно!</l>
           <l>Правильно!</l>
@@ -2166,7 +2153,7 @@
           <l>Довольно!</l>
           <l>Рвите цепи ржавые!</l>
         </sp>
-        <sp who="#obschij_gul_2">
+        <sp who="#nechistye #chistye">
           <speaker>Общий гул</speaker>
           <l>Долой!</l>
           <l>Долой самодержавие!</l>
@@ -2196,7 +2183,7 @@
           <speaker>Немец</speaker>
           <l>Я тебе соглашусь!</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#nechistye #chistye">
           <speaker>Все</speaker>
           <stage>(хором)</stage>
           <l>Мы тебя согласим!</l>
@@ -2273,7 +2260,7 @@
         </sp>
         <stage>(Бежит к картонкам.)</stage>
         <pb n="286"/>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <stage>(на рубке)</stage>
           <l>Ну, граждане, довольно.</l>
@@ -2293,7 +2280,7 @@
           <l>Ладно!</l>
           <l>Было бы недалеко до воды.</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#nechistye #chistye">
           <speaker>Хором</speaker>
           <l>Да здравствует, да здравствует демократическая республика!</l>
         </sp>
@@ -2313,13 +2300,13 @@
           съестное, вписывают во входящие и по уходе с аппетитом съедают. Булочник, пришедший во
           второй раз, пытается заглянуть под бумаги.</stage>
         <pb n="287"/>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Чего глазеешь?</l>
           <l>Отойди от бумаг!</l>
           <l>Это, брат, дело не твоего ума.</l>
         </sp>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Вы же в управлении государством</l>
           <l>ничего не понимаете ровно.</l>
@@ -2382,7 +2369,7 @@
           <l>К делу!</l>
           <l>Нам не до чаек!</l>
         </sp>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Смотрите, смотрите!</l>
           <l>По морю —</l>
@@ -2392,7 +2379,9 @@
           <speaker>Красноармеец</speaker>
           <l>К черту кита!</l>
           <l>Сам ты кит!</l>
-          <stage>Хором, опрокидывая стол.</stage>
+        </sp>
+        <stage>Хором, опрокидывая стол.</stage>
+        <sp who="#nechistye">
           <l>Вы нам здесь не устраивайте канцелярских волокит!</l>
         </sp>
         <stage>На палубу грохаются пустые тарелки.</stage>
@@ -2407,7 +2396,7 @@
           <l>Товарищи!</l>
           <l>Это нож в спину!</l>
         </sp>
-        <sp who="#golosa_2">
+        <sp who="#nechistye">
           <speaker>Голоса</speaker>
           <l>И вилка!</l>
         </sp>
@@ -2459,7 +2448,7 @@
           <l>опытного меньшевика!</l>
         </sp>
         <pb n="290"/>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Согласиться?</l>
           <l>Да я же капитала лишусь.</l>
@@ -2570,7 +2559,7 @@
           <speaker>Шофер</speaker>
           <l>Компаса нету.</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <l>Разруха!</l>
         </sp>
@@ -2727,7 +2716,7 @@
           <l>сам идет на абордаж.</l>
         </sp>
         <stage>Вбегают, шатаясь, вооруженные чем попало. Рассвело. Пауза.</stage>
-        <sp who="#vse_2">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <l>Что ж, иди!</l>
           <l>Никого...</l>
@@ -2875,7 +2864,7 @@
           <l>на корнях укропа</l>
           <l>шесть раз в году росли ананасы б.</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <stage>(хором)</stage>
           <l>Мы все пойдем!</l>
@@ -2908,7 +2897,7 @@
           <l>царствие мое</l>
           <l>земное — не небесное.</l>
         </sp>
-        <sp who="#vse_2">
+        <sp who="#nechistye">
           <speaker>Хором</speaker>
           <l>Не смеется ли этот над нищими?</l>
           <l>Где они?</l>
@@ -2919,7 +2908,7 @@
           <l>Длинна дорога.</l>
           <l>Надо сквозь тучи нам.</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Каждую тучу сразим поштучно!</l>
         </sp>
@@ -2927,7 +2916,7 @@
           <speaker>Человек</speaker>
           <l>А если ад взгромоздится за адом?</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Пойдем и туда.</l>
           <l>Не попятимся задом.</l>
@@ -2986,7 +2975,7 @@
           <l>По-моему, влезть удалось и в меня ему.</l>
         </sp>
         <pb n="301"/>
-        <sp who="#golosa_2">
+        <sp who="#nechistye">
           <speaker>Голоса</speaker>
           <l>Кто он?</l>
           <l>Кто этот дух невменяемый?</l>
@@ -3005,7 +2994,7 @@
           <l>Значит, рай все-таки есть.</l>
           <l>Значит, не глупо к счастью лезть.</l>
         </sp>
-        <sp who="#golosa_2">
+        <sp who="#nechistye">
           <speaker>Голоса</speaker>
           <l>Чтоб раньше дойти до этой поры,</l>
           <l>вздымайте молоты,</l>
@@ -3022,7 +3011,9 @@
           <l>Дорога одна —</l>
           <l>сквозь тучи!</l>
           <l>Вперед!</l>
-          <stage>Бросаются к мачте. Хором.</stage>
+        </sp>
+        <stage>Бросаются к мачте. Хором.</stage>
+        <sp who="#nechistye">
           <l>Сквозь небо — вперед!</l>
           <stage>На реях развертывается боевая песня.</stage>
           <l>Эй, на реи!</l>
@@ -3030,7 +3021,7 @@
           <l>По реям вперед, комиссары морей!</l>
         </sp>
         <pb n="302"/>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Вперед, комиссары морей!</l>
         </sp>
@@ -3039,7 +3030,7 @@
           <l>Там всем победителям отдых за боем.</l>
           <l>Пусть ноги устали, их в небо обуем!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Обуем!</l>
           <l>Кровавые в небо обуем!</l>
@@ -3051,7 +3042,7 @@
           <l>По солнечным трапам,</l>
           <l>по лестницам радуг!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>По солнечным сходням</l>
           <l>качелями радуг!</l>
@@ -3063,7 +3054,7 @@
           <l>Скользите на мачты,</l>
           <l>хватайтесь за реи!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>На мачты!</l>
           <l>На мачты!</l>
@@ -3116,7 +3107,7 @@
         <stage>Ад. Сцена с огромной дверью. На двери: «Без доклада не входить». По бокам караульные
           черти. Два вестовых черта перекликаются через весь театр. Тихое пение на сцене за
           дверью.</stage>
-        <sp who="#hor">
+        <sp who="#cherti">
           <speaker>Хор</speaker>
           <l>Мы черти, мы черти, мы черти, мы черти!</l>
           <l>На вертеле грешников вертим.</l>
@@ -3135,7 +3126,7 @@
           <l>Одно слово —</l>
           <l>третья категория!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#cherti">
           <speaker>Хор</speaker>
           <l>Попов разогнали, мешочников в ризе.</l>
           <l>Теперь и у нас продовольственный кризис.</l>
@@ -3154,7 +3145,7 @@
           <l>Морда черная.</l>
           <l>Аппетит свинский.</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#cherti">
           <speaker>Хор</speaker>
           <l>О горе, о горе, о горе, о горе,</l>
           <l>без пищи мы все передо́хнем здесь вскоре!</l>
@@ -3204,7 +3195,7 @@
         <stage>Караульные расспрашивают вестовых и, сделав небольшой доклад, распахивают
           двери.</stage>
         <pb n="306"/>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Ах, вы, дьяволы!</l>
           <l>Ах, вы, чертовы дети!</l>
@@ -3222,7 +3213,7 @@
           <l>Взяли бы по виле,</l>
           <l>сами бы ловили.</l>
         </sp>
-        <sp who="#klemanso">
+        <sp who="#francuz">
           <speaker>Клемансо</speaker>
           <l>Молчать!</l>
           <l>Вы эти привычки бросьте.</l>
@@ -3281,7 +3272,7 @@
           <l>Эх, и нажрусь!</l>
           <l>Аж будет чертям тошно!</l>
         </sp>
-        <sp who="#llojd-dzhordzh">
+        <sp who="#anglichanin">
           <speaker>Ллойд-Джордж</speaker>
           <l>Уж и наточу я рога!</l>
           <l>Будут знать, как меня свергать!</l>
@@ -3690,7 +3681,7 @@
           <l>Чистилище — в клочья!</l>
           <l>Вперед! Не робейте!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Чистилище вдребезги!</l>
           <l>Так!</l>
@@ -3704,7 +3695,7 @@
           <l>Выше!</l>
           <l>Шагайте по тучам!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Шагайте по ярусам!</l>
           <l>Выше!</l>
@@ -3776,7 +3767,7 @@
           <speaker>Мафусаил</speaker>
           <l>Да я не умею...</l>
         </sp>
-        <sp who="#vse_4">
+        <sp who="#rajskie">
           <speaker>Все</speaker>
           <l>Ладно, ладно!</l>
         </sp>
@@ -3819,7 +3810,9 @@
           <pb n="320"/>
           <l>Вымоем.</l>
           <l>М-да, святые-то, оказывается, бывают разные.</l>
-          <stage>Снизу доносится:</stage>
+        </sp>
+        <stage>Снизу доносится:</stage>
+        <sp who="#nechistye">
           <l>Орите в ружья!</l>
           <l>В пушки басите!</l>
           <l>Мы сами себе и Христос и спаситель!</l>
@@ -4102,7 +4095,7 @@
           <l>Рай шажищами взроем!</l>
         </sp>
         <pb n="326"/>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Найдем!</l>
           <l>Хоть всю вселенную взроем!</l>
@@ -4207,7 +4200,7 @@
           <l>Скоро ли, скоро ли маями</l>
           <l>тело усталое вымоем?</l>
         </sp>
-        <sp who="#esche_golosa">
+        <sp who="#nechistye">
           <speaker>Еще голоса</speaker>
           <l>Куда?</l>
           <l>Не очутимся в новом аду ли?</l>
@@ -4358,7 +4351,7 @@
           <l>Наляжем лопатой!</l>
           <l>Взмахнем киркой!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <stage>(разгребает обломки)</stage>
           <l>А ну,</l>
@@ -4447,7 +4440,7 @@
           <l>За нефтью!</l>
           <l>Не уйти нефтеносной жиле!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Взвей кирку-пушок!</l>
           <l>Ударником встань, брав!</l>
@@ -4485,7 +4478,7 @@
           <l>Ко мне, спекулянтов верное войско!</l>
         </sp>
         <stage>Разруху окружает «войско».</stage>
-        <sp who="#hor">
+        <sp who="#vojsko">
           <speaker>Хор</speaker>
           <l>Назад!</l>
           <l>Чего молотищами ухают?</l>
@@ -4744,7 +4737,7 @@
           <l>Взмах за взмахом!</l>
           <l>За шагом шаг!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <stage>(повторяет)</stage>
           <l>Вперед!</l>
@@ -4812,7 +4805,7 @@
           <l>опять очутились на земле,</l>
           <l>опять у того же угла.</l>
         </sp>
-        <sp who="#vse_6">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <l>Кругла земля, проклятая,</l>
           <l>ох, и кругла!</l>
@@ -4880,7 +4873,7 @@
           <l>На мостах</l>
           <l>поездов ускользающие хвосты!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Хвосты?</l>
         </sp>
@@ -4896,7 +4889,7 @@
           <l>льют!</l>
           <l>Земля блестит и светит!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Светит?</l>
         </sp>
@@ -4929,7 +4922,7 @@
           <l>Это —</l>
           <l>электрификация!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Электрификация?</l>
         </sp>
@@ -4954,7 +4947,7 @@
           <l>хлеба</l>
           <l>уже печеные.</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Печеные?</l>
         </sp>
@@ -4985,7 +4978,7 @@
           <l>Я карточки перед потопом не успела прикрепить.</l>
         </sp>
         <pb n="346"/>
-        <sp who="#hor">
+        <sp who="#nechistye">
           <speaker>Хор</speaker>
           <l>Да говори хоть подробнее немножко!</l>
         </sp>
@@ -5022,7 +5015,7 @@
           <stage>(скатываясь)</stage>
           <l>Идут!</l>
         </sp>
-        <sp who="#vse_6">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <l>Кто?</l>
         </sp>
@@ -5257,7 +5250,7 @@
           <l>Она!</l>
           <l>Родимая землица!</l>
         </sp>
-        <sp who="#vse_6">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <l>Запеть бы теперь!</l>
           <l>Закричать!</l>
@@ -5278,7 +5271,7 @@
           <speaker>Булочник</speaker>
           <l>Сладок, просто сладок.</l>
         </sp>
-        <sp who="#neskolko_golosov_6">
+        <sp who="#nechistye">
           <speaker>Несколько голосов</speaker>
           <l>Теперь с весельем не будет слада!</l>
         </sp>
@@ -5293,7 +5286,7 @@
           <l>А хозяин навяжется — не выпустим живьем!</l>
           <l>Заживем?</l>
         </sp>
-        <sp who="#vse_6">
+        <sp who="#nechistye">
           <speaker>Все</speaker>
           <l>Заживем!</l>
           <l>Заживем!</l>
@@ -5393,7 +5386,7 @@
           <l>Режиссер!</l>
         </sp>
         <stage>Подымаются на сцену все зрители.</stage>
-        <sp who="#vse_6">
+        <sp who="#nechistye">
           <speaker>Все хором</speaker>
           <l>Солнцепоклонники у мира в храме —</l>
           <l>покажем, как петь умеем мы.</l>
