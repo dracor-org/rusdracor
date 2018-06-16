@@ -1,0 +1,2068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Фантазия</title>
+        <title type="main" xml:lang="en">Fantasy</title>
+        <title type="sub" xml:lang="ru">Комедия в одном действии, соч. Y и Z</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act</title>
+        <author key="Wikidata:Q1784989">Прутков, Козьма</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/prutkov-fantaziya</idno>
+        <idno type="RusDraCor">94</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Wikisource</name>
+          <idno type="URL">https://ru.wikisource.org/wiki/Фантазия_(Прутков)</idno>
+          <availability>
+            <licence>
+              <ab>CC BY-SA 3.0</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
+            </licence>
+          </availability>
+          <bibl type="originalSource">
+            <title>Сочинения Козьмы Пруткова. — М.: Художественная литература, 1976.</title>
+            <date type="print"/>
+            <date type="premiere" when="1851">"Была исполнена на Императорском Александрийском
+              театре, 8 января 1851 г." (az.lib.ru)</date>
+            <date type="written" when="1850">"Дата создания: 1850." (Wikisource</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="kutilo-zavaldajskij" sex="MALE">
+            <persName>Кутило-Завалдайский</persName>
+            <persName xml:lang="en">Kutilo-Zavaldaisky</persName>
+          </person>
+          <person xml:id="razorvaki" sex="MALE">
+            <persName>Разорваки</persName>
+            <persName xml:lang="en">Razorvaki</persName>
+          </person>
+          <person xml:id="libental" sex="MALE">
+            <persName>Либенталь</persName>
+            <persName xml:lang="en">Liebenthal</persName>
+          </person>
+          <person xml:id="bespardonnyj" sex="MALE">
+            <persName>Беспардонный</persName>
+            <persName xml:lang="en">Bespardonny</persName>
+          </person>
+          <person xml:id="milovidov" sex="MALE">
+            <persName>Миловидов</persName>
+            <persName xml:lang="en">Milovidov</persName>
+          </person>
+          <person xml:id="knyaz_batog-batyev" sex="MALE">
+            <persName>Кн. Батог-Батыев</persName>
+            <persName xml:lang="en">Prince Batog-Batyev</persName>
+          </person>
+          <person xml:id="chupurlina" sex="FEMALE">
+            <persName>Чупурлина</persName>
+            <persName xml:lang="en">Chupurlina</persName>
+          </person>
+          <person xml:id="lizaveta_platonovna" sex="FEMALE">
+            <persName>Лизавета Платоновна</persName>
+            <persName xml:lang="en">Lizaveta Platonovna</persName>
+          </person>
+          <person xml:id="lakej" sex="MALE">
+            <persName>Лакей</persName>
+            <persName xml:lang="en">A Footman</persName>
+          </person>
+          <person xml:id="gornichnaya" sex="FEMALE">
+            <persName>Горничная</persName>
+            <persName xml:lang="en">A Parlor-Maid</persName>
+          </person>
+          <person xml:id="akulina" sex="FEMALE">
+            <persName>Акулина</persName>
+            <persName xml:lang="en">Akulina</persName>
+          </person>
+          <person xml:id="povar" sex="MALE">
+            <persName>Повар</persName>
+            <persName xml:lang="en">Cook</persName>
+          </person>
+          <person xml:id="vsya_prisluga" sex="UNKNOWN">
+            <persName>Вся прислуга</persName>
+            <persName xml:lang="en">All the Servants</persName>
+          </person>
+          <person xml:id="dvornya" sex="UNKNOWN">
+            <persName>Дворня</persName>
+            <persName xml:lang="en">Servants</persName>
+          </person>
+          <person xml:id="vse_zhenihi" sex="MALE">
+            <persName>Все женихи</persName>
+            <persName xml:lang="en">All the Suitors</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle" subtype="comedy">Комедия в одном действии</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="#ff" when="2018-06-16">convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Фантазия</titlePart>
+        <titlePart type="sub">Комедия в одном действии, соч. Y и Z</titlePart>
+      </docTitle>
+      <castList>
+        <head>Действующие лица</head>
+        <castItem><role>Аграфена Панкратьевна Чупурлина, богатая, но самолюбивая
+            старуха.</role><actor>Г-жа Громова.</actor></castItem>
+        <castItem><role>Лизавета Платоновна, ее воспитанница</role><actor>Г-жа
+          Левкеева.</actor></castItem>
+        <castItem><role>Адам Карлович Либенталь, молодой немец<note place="foot">Слово «немец» было
+              заменено в афише словом «человек».</note>, не без резвости.</role><actor>Г.
+            Марковецкий.</actor></castItem>
+        <castItem><role>Фемистокл Мильтиадович Разорваки, человек отчасти лукавый и
+            вероломный</role><actor>Г. Каратыгин 2.</actor></castItem>
+        <castItem><role>Князь Касьян Родионович Батог-Батыев, человек, торгующий мылом<note
+              place="foot">Титул «князь» был исключен цензором в перечне действующих лиц и повсюду в
+              тексте.</note></role><actor>Г. Прусаков.</actor></castItem>
+        <castItem><role>Мартын Мартынович Кутило-Завалдайский, человек приличный</role><actor>Г.
+            Мартынов.</actor></castItem>
+        <castItem><role>Георгий Александрович Беспардонный, человек застенчивый</role><actor>Г.
+            Смирнов 2.</actor></castItem>
+        <castItem><role>Фирс Евгеньевич Миловидов, человек прямой</role><actor>Г. Толченов
+            1.</actor></castItem>
+        <castItem><role>Акулина, нянька</role><actor>Г-жа ***.</actor></castItem>
+        <castGroup rend="braced">
+          <roleDesc>Без речей<note place="foot">Эти действующие лица «без речей» не были одобрены
+              цензором в перечне действующих лиц на афише.</note>:</roleDesc>
+          <castItem>Фантазия, моська</castItem>
+          <castItem>Пудель</castItem>
+          <castItem>Собачка, малого размера</castItem>
+          <castItem>Собака датская</castItem>
+          <castItem>Моська, похожая на Фантазию</castItem>
+          <castItem>Незнакомый бульдог</castItem>
+        </castGroup>
+        <castItem>Кучера, повара, ключницы и казачки.</castItem>
+      </castList>
+      <set>
+        <p>Действие происходит на даче Чупурлиной. Сад. Направо от зрителей домик с крыльцом.
+          Посреди сада (в глубине) беседка, очень узенькая, в виде будки, обвитая плющом. На беседке
+          флаг с надписью: ''«Что наша жизнь?»'' Перед беседкой цветник и очень маленький
+          фонтан.</p>
+      </set>
+    </front>
+    <body>
+      <div type="scene">
+        <head>Явление I</head>
+        <stage>По поднятии занавеса: Разорваки, князь Батог-Батыев, Миловидов, Кутило-Завалдайский,
+          Беспардонный и Либенталь ходят молча взад и вперед по разным направлениям.</stage>
+        <stage>Они в сюртуках или во фраках.</stage>
+        <stage>Довольно продолжительное молчание.</stage>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(вдруг останавливается и обращается к прочим).</stage>
+          <p>Тс! тс! тс!..</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(остановившись).</stage>
+          <p>Что такое?! что такое?!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Ах, тише! тише!.. Молчите!.. Стойте на одном месте!.. <stage>(Прислушивается.)</stage>
+            Слышите?.. часы бьют.</p>
+        </sp>
+        <stage>Все подходят к Кутиле-Завалдайскому, кроме Беспардонного, который стоит задумчиво,
+          вдали от прочих.</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(смотрит на свои часы).</stage>
+          <p>Семь часов.</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(тоже смотрит на свои часы).</stage>
+          <p>Должно быть, семь; у меня половина третьего. Такой странный корпус у них, — никак не
+            могу сладить.</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(кроме Либенталя, смотря на часы).</stage>
+          <p>Семь часов.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Я не взял с собою часов, ибо <stage>(в сторону)</stage> счастливые часов не
+            наблюдают!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Давно желанный и многожданный час!.. Вот мы все здесь собрались; но кто же из нас,
+            здесь присутствующих женихов, кто получит руку Лизаветы Платоновны? Вот вопрос!</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(задумавшись).</stage>
+          <p>Вот вопрос!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(в сторону).</stage>
+          <p>Лизавета Платоновна, Лизавета Платоновна!.. Кому ты достанешься? Ах!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Пока еще не пришла старушка, в руке которой наша невеста, мы…</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Мы тщательно осмотрим друг друга: всё ли прилично и всё ли на своем месте? Женихи ведь
+            должны… Господин Миловидов! <stage>(Указывает на его жилет.)</stage> У вас несколько
+            нижних пуговиц не застегнуто.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(не застегивая).</stage>
+          <p>Я знаю.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Господа! я предлагаю, пока старушка еще не пришла, сочинить ей приятный комплимент в
+            форме красивого куплета и спеть, как обыкновенно в водевиле каком-нибудь поют на сцене
+            актеры и актрисы.</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все.</speaker>
+          <p>Пожалуй… пожалуй… сочиним! сочиним!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Для этого сядем по местам. Садитесь все по местам!</p>
+        </sp>
+        <stage>Разорваки садится на скамейку; Беспардонный — на другую; князь Батог-Батыев и
+          Кутило-Завалдайский — на траву; Миловидов уходит в беседку; Либенталь вынимает из кармана
+          бумажник и карандаш и взлезает на дерево.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Здесь поближе к небесам.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Уселись? Начнем… <stage>(Подумав.)</stage> «Вот куплеты…» — Господа, рифму!</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(с дерева).</stage>
+          <p>Разогреты!</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(из беседки).</stage>
+          <p>Почему же разогреты?!</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Неподдельными нашими чувствами разогреты!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Я лучше вас всех понимаю поэзию: я человек южный, из Нежина.</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Я из Казани.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Не перебивать!.. Слушайте: «Вот куплеты — Мы, поэты, — В вашу честь, — Написали
+            вместе»…</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>«Написали вместе — В этом лесе».</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Это не рифма!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Это сад.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Ну — «В этом саде!».</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Не перебивать!.. — «Написали вместе, — На своем всяк месте, — Нас здесь шесть». — Вот
+            это так!.. Далее: «Мы вас знаем»… Ах! идет!.. Аграфена Панкратьевна идет!.. Ну, нечего
+            делать!.. Так как есть, каждый на своем месте, давайте петь. Я начинаю!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление II</head>
+        <stage>Те же и Чупурлина с Лизаветой. Чупурлина с Лизаветой сходят с крыльца в сад.
+          Чупурлина ведет на ленточке моську. Женихи сидят на местах и поют на голос «Frère
+          Jacques». Разорваки начинает.</stage>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(поют)</stage>
+          <l>Вот куплеты,</l>
+          <l>Мы, поэты,</l>
+          <l>В вашу честь (bis)</l>
+          <l>Написали вместе</l>
+          <l>На своем всяк месте.</l>
+          <l>Здесь нас шесть!</l>
+          <l>Нас здесь шесть!</l>
+        </sp>
+        <stage>Аграфена Панкратьевна и Лизавета Платоновна смотрят с удивлением во все
+          стороны.</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Господа, второй куплет экспромтом; каждый давай свою рифму. Я начинаю!</p>
+        </sp>
+        <stage>Поют, каждый отдельно, по одному стиху, в следующем порядке:</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Мы вас знаем —</l>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <l>Ублажаем —</l>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <l>Услаждаем —</l>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <l>Занимаем —</l>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <l>Сохраняем —</l>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <l>Забавляем!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Довольно… довольно!..</l>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(хором)</stage>
+          <l>Всякий час!</l>
+          <l>Всякий час!..</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(продолжая петь один)</stage>
+          <l>Вы на нас взгляните!</l>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(тоже)</stage>
+          <l>И нас обнимите!</l>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(хором)</stage>
+          <l>А мы вас!</l>
+          <l>А мы вас!</l>
+        </sp>
+        <stage>При последнем все идут к Аграфене Панкратьевне с распростертыми объятиями.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Благодарю вас, благодарю вас!</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(бежит вперед других).</stage>
+          <p>Милостивая государыня, почтенная Аграфена Панкратьевна! лестная для меня маменька!</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Почтеннейшая Аграфена Панкратьевна!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Благодетельница!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Такая благодетельница, что просто… ух!.. целовал бы, да и только!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Какие у этого грека всё сильные выражения; совсем не умеет себя удерживать.</p>
+        </sp>
+        <stage>Беспардонный подходит, отворяет рот, но от внутреннего волнения не может сказать
+          ничего.</stage>
+
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(перебивая выразительные знаки Беспардонного).</stage>
+          <p>Ну, что же, матушка!.. надумались? Вот мы все налицо. Кто же из нас лучше? говорите!..
+            Да ну же, говорите!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Тише, мой батюшка, тише! Вишь, какой вострый, как приступает!.. Моя Лизанька не
+            какая-нибудь такая, чтоб я ее вот так взяла да и отдала первому встречному! Я своей
+            Лизанькой дорожу! <stage>(Гладит моську.)</stage> Она мне лучше дочери… Я не отдам ее
+            какому-нибудь фанфарону! <stage>(Окидывает Миловидова глазами с ног до головы.)</stage>
+            Небось ты, батюшка, все на балах разные антраша выкидывал да какие-нибудь труфели жевал
+            под сахаром; а теперь — спустил денежки, да и востришь зубы на Лизанькино приданое? Нет,
+            батюшка, тпрру!! Пусть-ка прежде каждый из вас скажет: какие у него есть средства, чтобы
+            составить ее счастье? <stage>(Гладит моську.)</stage> А без этого не видать вам
+            Лизаньки, как своей поясницы.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(в сторону).</stage>
+          <p>Вишь, баба! Вишь, какая баба!</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(к моське).</stage>
+          <p>Усиньки, усиньки, тю, тю, тю…</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(к Чупурлиной).</stage>
+          <p>Средства будут!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Какие, мой батюшка?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>А приданое-то? Как получу его, так будут и средства! И чем больше приданое, тем больше
+            средства!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ну вот! я так и знала. Фанфарон, просто фанфарон; что его слушать! <stage>(К
+              Кутиле-Завалдайскому.)</stage> Ну, а ты, батюшка?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(к Чупурлиной).</stage>
+          <p>Маменька, позвольте: кажется, моська заступила за ленточку левою ножкой? клянусь
+            вам!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Спасибо, батюшка… <stage>(Снова обращается к Кутиле-Завалдайскому.)</stage> Ну, а ты,
+            Мартын Мартынович?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Сударыня, позвольте вас уверить, что, вступив в брак с Лизаветой Платоновной, я всегда
+            буду соблюдать пристойность…</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Нет, я не о том… Какие у тебя надежды? Есть ли у тебя фабрика?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Нет-с, фабрики не имею.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ну, так как же?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>У меня, сударыня, более нравственный капитал! Вы на это не смотрите, что мое такое имя:
+            Кутило-Завалдайский. Иной подумает и бог знает что; а я совсем не то! Это мой батюшка
+            был такой, и вот дядя есть еще; а я нет! Я человек целомудренный и стыдливый<note
+              place="foot">Здесь цензор вычеркнул слово «целомудренный» и написал
+              «нравственный».</note>. Меня даже хотели сделать брандмейстером<note place="foot">Эти
+              слова: «Меня даже хотели сделать брандмейстером» — вычеркнуты цензором.</note>.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Фу-ты, фанфарон! право, фанфарон! фанфарон, фанфарон, да и только!.. <stage>(Обращается
+              к кн. Батог-Батыеву.)</stage> Авось ты, батюшка, посолиднее. Посмотрим, чем ты
+            составишь счастье Лизаньки?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Большею частью мылом! <stage>(Вынимает из кармана куски мыла.)</stage> У меня здесь для
+            всех. <stage>(Раздает.)</stage> Вам, сударыня, для рук; а этим господам бритвенное.
+              <stage>(К Миловидову.)</stage> Вам, кроме бритвенного, особенный кусок — для рук.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(принимает с благодарностью, но смотрит на свои руки пристально).</stage>
+          <p>Благодарю!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Благодарствуйте, князь. <stage>(Обращается к Разорваки.)</stage> Ну, тебя, Фемистокл
+            Мильтиадович, я не cпрашиваю. Ведь ты не в самом же деле вздумал жениться на Лизаньке!
+            Где тебе!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Нет-с, я не шучу. Серьезно прошу руки Лизаветы Платоновны! Я происхождения восточного,
+            человек южный, у меня есть страсти.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Неужто?.. Но какие же у тебя средства?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Сударыня, Аграфена Панкратьевна! Я человек южный, положительный. У меня нет несбыточных
+            мечтаний. Мои средства ближе к действительности… Я полагаю: занять капитал… в триста
+            тысяч рублей серебром… и сделать одно из двух: или пустить в рост, или… основать
+            мозольную лечебницу… на большой ноге!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Мозольную лечебницу?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>На большой ноге!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что ж это? На какие ж это деньги?.. Нешто на Лиэанькино приданое?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Я сказал: занять капитал в триста тысяч рублей серебром!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Да у кого же занять, батюшка?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Подумайте: триста тысяч рублей серебром! Это миллион на ассигнации!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Да кто тебе их даст? Ведь это, выходит, ты говоришь пустяки?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Миллион пятьдесят тысяч на ассигнации!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Пустяки, пустяки; и слышать не хочу! Господин Беспардонный, вы что?</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(встрепенувшись).</stage>
+          <p>Сударыня… извините… я надеюсь… не щадя живота своего… не щадя живота своегоживота
+              своего…<note place="foot">Цензор изменил: вместо славянского «живота своего» поставил
+              «жизни своей». Однако ведь о «животе» говорят не только в молитвах, но даже тогда,
+              когда «кладут его на алтарь отечества». Почему же неприлично говорить о нем в
+              театре?</note> для Лизаветы Платоновны… до последней капли крови!..</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(перебивая).</stage>
+          <p>Маменька, послушайте, — лучшее средство есть: трудолюбие, почтение к старшим и
+            бережливость! Почтение к старшим, трудолюбие… <stage>(Нагибается к моське.)</stage></p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что ты, батюшка, на ней увидел?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Маменька, ушко завернулось у Фантазии.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(полугромко).</stage>
+          <p>В этом молодом человеке есть прок.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(продолжает ласкать моську).</stage>
+          <p>Усиньки, тю, тю, тю, фить, фить, фить!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(по-прежнему).</stage>
+          <p>Он хорошо изъясняется.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(к моське).</stage>
+          <p>Фить, фить, фить, тю, тю, тю!..</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(Либенталю).</stage>
+          <p>Спасибо тебе за то, что ты такой внимательный.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Ну что же, матушка; довольно наговорились про всякий вздор!.. Пора, братец, сказать:
+            кто из нас лучше?</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Тише, тише, мой батюшка!.. Вишь, как опять приступает! Так и видно, что целый век играл
+            на гитаре.</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Миловидов действует неприлично.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Да пора же кончить!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Миллион пятьдесят тысяч на ассигнации!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Да, нечего говорить: всех-то вас толковее Адам Карлыч.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(берет Чупурлину в сторону).</stage>
+          <p>Сударыня, принимая в вас живейшее участие, я должен вам сказать, что однажды Адам
+            Карлыч на Крестовском… <stage>(Шепчет ей на ухо.)</stage></p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Как? Возможно ли?! Какие гадости!.. Адам Карлыч, Адам Карлыч! поди-ка сюда!.. Правда,
+            что ты однажды на Крестовском… <stage>(Шепчет ему на ухо.)</stage></p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(с ужасом).</stage>
+          <p>Помилуйте, маменька; никогда на свете!..</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ну, то-то; я так и думала!.. Видишь, Фемистокл Мильтиадович, это был не Адам Карлыч.
+            Это кто-нибудь другой.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(ей).</stage>
+          <p>Действительно: это, кажется, был Миловидов.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(к Либенталю).</stage>
+          <p>Ну, Адам Карлыч, коли ты понравишься Лизаньке, то бери ее, и дело с концом. Поди,
+            объяснись с ней. Она здесь где-то, в саду. Прощайте, родимые. Спасибо вам за честь.
+              <stage>(Особо к кн. Батог-Батыеву.)</stage> Прощайте, князь; благодарствуйте за
+            мыло.</p>
+        </sp>
+        <stage>Женихи уходят. Чупурлина останавливает Разорваки.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ты, батюшка, погоди немного. Я не совсем поняла, что ты мне сказал насчет мозольной
+            фабрики?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Мозольной лечебницы!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Да бишь лечебницы!.. Как же это ты полагаешь?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Очень просто!.. Во-первых, я занимаю капитал в триста тысяч рублей серебром…</p>
+        </sp>
+        <stage>Уходят, разговаривая.</stage>
+      </div>
+      <div type="scene">
+        <head>Явление III</head>
+        <stage>Либенталь скачет несколько времени молча на одной ноге.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Ах, вот она!.. вот она!.. идет и несет цветы!.. Начну!</p>
+        </sp>
+        <stage>Лизавета Платоновна проходит с цветами, не замечая Либенталя.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Лизавета Платоновна! Я говорю: Лизавета Платоновна!</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Ах, здравствуйте, Адам Карлыч.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Лизавета Платоновна, где вы покупаете ваши косметики?</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Какие это?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Под этим словом я разумею: духи, помаду, мыло, о-де-лаван и бергамотовое масло.</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>В гостином дворе, выключая казанское мыло, которое с некоторых пор поставляет мне
+            большею частью князь Батог-Батыев. Но зачем вы это спрашиваете?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(подойдя к ней близко).</stage>
+          <p>Затем, что от вас гораздо приятнее пахнет, нежели от этих самых цветов! <stage>(В
+              сторону.)</stage> Она засмеялась!.. <stage>(Ей.)</stage> Лизавета Платоновна! я сейчас
+            объяснил дражайшей Аграфене Панкратьевне цель моей жизни и средства моего существования…
+            Я обнажил перед ней — клянусь вам! — всю душу мою и все изгибы моего чувствительного и
+            стремящегося к известному предмету сердца… Я ей сказал о себе и упомянул о вас… Она
+            выгнала всех вон… а мне приказала идти к вам… Я иду… вы сами идете!.. Без сомнения,
+            несравненная Лизавета Платоновна, я не смею даже думать об этом; но Аграфена
+            Панкратьевна мне приказала…</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Но что же такое, Адам Карлыч?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <p>О! я обязан исполнить приказание этой преклонной особы! И потому, собравшись с духом,
+            говорю <stage>(падает на колени)</stage>: Лизавета Платоновна! реши, душка, судьбу мою:
+            или восхитительным ответом, или ударом!.. <stage>(Поет, не вставая с колен, на голос
+              «d'un pensiero» из «Сомнамбулы».)</stage></p>
+          <l>Елизавета, мой друг!</l>
+          <l>Сладкий и странный недуг</l>
+          <l>Переполняет мой дух!</l>
+          <l>О тебе все твердит</l>
+          <l>И к тебе все манит!</l>
+          <l>Е…</l>
+        </sp>
+        <sp who="#lakej">
+          <speaker>Лакей</speaker>
+          <stage>(вбегая).</stage>
+          <p>М-с!.. М-с!.. Фантазия!.. Фантазия!.. Барышня, не видали барыниной моськи?</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Не видала.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(вставая с колен).</stage>
+          <p>И я не видал.</p>
+        </sp>
+        <sp who="#lakej">
+          <speaker>Лакей</speaker>
+          <stage>(уходя).</stage>
+          <p>Фантазия!.. Фантазия!.. <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <p>Я продолжаю. <stage>(Становится снова на колени и поет.)</stage></p>
+          <l>Елизавета, мой друг!</l>
+          <l>Ну, порази же мой слух,</l>
+          <l>Будто нечаянно, вдруг,</l>
+          <l>Словом приятным — супруг!</l>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <stage>(тоже поет, продолжая мотив).</stage>
+          <l>Ах, нет, нет...</l>
+        </sp>
+        <sp who="#gornichnaya">
+          <speaker>Горничная</speaker>
+          <stage>(вбегая).</stage>
+          <p>Фантазия!.. Фантазия!.. Барышня, барыниной моськи не видали?</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Не видала.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(вставая с колен).</stage>
+          <p>И я не видал.</p>
+        </sp>
+        <sp who="#gornichnaya">
+          <speaker>Горничная</speaker>
+          <stage>(уходя).</stage>
+          <p>Фантазия!.. Фантазия!.. <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Вы, кажется, начали отнекиваться, Лизавета Платоновна?</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <p>Да, я хотела сказать вам <stage>(поет)</stage>:</p>
+          <l>Ах, нет, нет!.. я боюсь,</l>
+          <l>Ни за что не решусь!</l>
+          <l>Я от страха трясусь!..</l>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(поет в сторону)</stage>
+          <l>Ах! какой она трус!</l>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <l>Я боюсь, (bis)</l>
+          <l>Я страшусь, (bis)</l>
+          <l>Не решусь! (ter)</l>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(поет в сторону)</stage>
+          <l>Ах, какой она трус!</l>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <l>Я боюсь,</l>
+          <l>Я страшусь!..</l>
+        </sp>
+        <sp who="#libental #lizaveta_platonovna">
+          <speaker>Оба вместе</speaker>
+          <l>Она трус! (ter)</l>
+          <l>Не решусь! (ter)</l>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>опять падая на колени, начинает петь</stage>
+          <l>Е…</l>
+        </sp>
+        <sp who="#akulina">
+          <speaker>Акулина</speaker>
+          <stage>(вбегая).</stage>
+          <p>Хвантазия!.. Хвантазия!.. Барышня, ведь у барыни моська пропала! Вы не видали?</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Нет, не видала.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(вставая с колен).</stage>
+          <p>И я не видал.</p>
+        </sp>
+        <sp who="#akulina">
+          <speaker>Акулина.</speaker>
+          <p>Что ты будешь делать?! Барыня изволит плакать, изволит сердиться, из себя выходит;
+            изволит орать во всю глотку<note place="foot">Цензор вычеркнул «глотку» и написал
+              «горло».</note>: «Дайте мне мою моську! где моя Хвантазия?» <stage>(Уходя,
+              кричит.)</stage> Хвантазия!.. А, Хвантазия!.. <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(опять становясь на колени)</stage>
+          <p>Я продолжаю <stage>(поет)</stage>:</p>
+          <l>Елизавета, мой друг!</l>
+          <l>Твои неприличный испуг</l>
+          <l>Напоминает старух!</l>
+          <l>Между тем как любовь</l>
+          <l>Всё волнует мне кровь!</l>
+          <l>Е…</l>
+        </sp>
+        <sp who="#povar">
+          <speaker>Повар</speaker>
+          <stage>(вбегает в колпаке, с засученными рукавами, с кастрюлей в одной руке и с пуком репы
+            в другой).</stage>
+          <p>Конефузия!.. Конефузия!.. Барышня, Конефузия не с вами?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(вставая с колен).</stage>
+          <p>Ах, пошел вон!.. Прервал на решительном месте!</p>
+        </sp>
+        <sp who="#povar">
+          <speaker>Повар.</speaker>
+          <p>Да чем же я виноват, что меня послали собаку искать?</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Я не видала.</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>И я не видал.</p>
+        </sp>
+        <sp who="#povar">
+          <speaker>Повар</speaker>
+          <stage>(уходя).</stage>
+          <p>Конефузия!.. Конефузия!.. <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(поет стоя)</stage>
+          <l>Елизавета, мой друг!</l>
+          <l>Ну, порази же мой слух,</l>
+          <l>Будто нечаянно, вдруг,</l>
+          <l>Словом приятным —</l>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <stage>(робко)</stage>
+          <l>Супруг!</l>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(падает на колени).</stage>
+          <p>Небесная Лизавета! <stage>(Целует ее руку.)</stage> Эфирное созданье!..</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление IV</head>
+        <stage>Те же и вся дворня; а затем Чупурлина. Лакеи, горничные, казачок, Акулина, повар и
+          кучер вбегают с разных сторон, крича: «Фантазия!.. Конефузия!.. Хвантазия!..» Лизавета
+          Платоновна и Либенталь, не замечая никого, смотрят друг другу в глаза с любовью и
+          нежностью. Через несколько времени вбегает Чупурлина и кричит громче всех.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Фантазия!.. Фантазия!.. Не нашли?! Дайте мне мою собачку, собачонку, собачоночку!..
+              <stage>(Наталкивается на повара.)</stage> Собака!.. Не видишь, куда бежишь? Да что это
+            вы все толчетесь на одном месте? а?! В разные стороны бегите! и непременно отыщите мне
+            мою собачку!</p>
+        </sp>
+        <sp who="#vsya_prisluga">
+          <speaker>Вся прислуга</speaker>
+          <stage>(расходясь во все стороны, кричит в один голос).</stage>
+          <p>Фантазия!.. Фантазия!..</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление V</head>
+        <stage>Чупурлина, Лизавета и Либенталь.</stage>
+        <sp who="#lizaveta_platonovna #libental">
+          <speaker>Лизавета Платоновна и Либенталь</speaker>
+          <stage>(подходят с обеих сторон к Чупурлиной и робко говорят вместе).</stage>
+          <p>Маменька!.. маменька!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что вам надобно?! Чего вы хотите от меня?!</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Они согласны.</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <stage>(Чупурлиной).</stage>
+          <p>Если вы согласны, я согласна.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Как?! Все люди ищут мою собаку и, как угорелые кошки, бегают по разным направлениям; а
+            вы?! Что вы здесь делали?! <stage>(К Лизавете Платоновне.)</stage> Вот твоя
+            благодарность ко мне за все мои попечения!.. Негодная!.. Выбрала время говорить мне про
+            разные гадости<note place="foot">Цензор заменил слово «гадости» словом
+              «глупости».</note>, когда я не в духе, когда я плачу, терзаюсь…
+              <stage>(Плачет.)</stage> Боже мой, до чего я дожила!.. На старости лет не иметь и
+            Фантазии!.. Какое горестное, какое ужасное положение!.. <stage>(Обращается к ним
+              обоим.)</stage> Вон!..</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление VI</head>
+        <stage>Те же и прочие женихи. Беспардонный, Миловидов, князь Батог-Батыев,
+          Кутило-Завалдайский и Разорваки вбегают поспешно.</stage>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(с беспокойством).</stage>
+          <p>С кем случилось?!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Кого постигло?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Отчего этот шум?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>С чего такая возня?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Какое бедствие?</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Вам что нужно?! Зачем пришли?! Что вы здесь забыли?!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Мы слышали крик.</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Беготню!</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Визготню!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Суетню!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Темные рассуждения о фантазии.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Это моя собака — Фантазия, и вовсе не темная, а светло-желтая!.. Она пропала, она
+            убежала, ее похитили!</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Аграфена Панкратьевна, да я сию же минуту брошусь искать вашу Фантазию! Могу вас
+            уверить!.. Я употреблю все мои силы, характер и способности, чтоб отыскать вашу моську!
+            Клянусь вам!.. <stage>(Обращается к Лизавете Платоновне.)</stage> До свиданья, Лизавета
+            Платоновна. <stage>(Убегает.)</stage></p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(кричит ему вслед).</stage>
+          <p>И знай же наперед, Адам ты этакой! что пока не сыщешь Фантазии, не получишь ее руки!..
+              <stage>(Обращается ко всем женихам.)</stage> Кто принесет мне мою Фантазию, тот в
+            награду получит и приданое и Лизавету! Слышите? Я в своем слове тверда. <stage>(К
+              Лизавете Платоновне.)</stage> Пошла вперед!.. Да ну же, поворачивайся! <stage>(Уходят
+              обе в дом.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление VI<note place="foot">Это явление здесь немного сокращено противу
+            рукопиcи.</note></head>
+        <stage>Все женихи, кроме Либенталя.</stage>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Какое страшное событие!</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Просто черт знает что!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Неслыханные обстоятельства!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(сам с собою).</stage>
+          <p>Как иногда судьба!.. Кто знает?.. Может быть, теперь именно мне?! Лизавета
+            Платоновна!.. Боже, если б это было возможно!</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Что ж думать? Пойдем искать моську.</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Искать моську... Легко сказать! а где ее найти? Разве объявить в полиции? Ну, да бог
+            знает, найдут ли?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Он сомневается в полиции!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>А если и найдет какой-нибудь городовой, то Аграфена Панкратьевна тут же за него и
+            выдаст воспитанницу!</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(с испугом).</stage>
+          <p>Нет, нет!.. нельзя объявлять!..</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(сам с собою).</stage>
+          <p>Счастливая мысль!</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(тоже).</stage>
+          <p>Ура, придумал!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(тоже).</stage>
+          <p>Кажется, как будто придумал?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(тоже).</stage>
+          <p>Обдумал!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Что бы могли придумать такие развратники?! Заранее краснею! <stage>(Старается
+              подслушивать.)</stage></p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(сам с собою).</stage>
+          <p>Положим, моська не найдется... Я для Аграфены Панкратьевны достану другую собаку,
+            гораздо лучше. Мне известен один пудель… Человек служащий… То есть господин этого пуделя
+            служащий человек, чиновник серьезный<note place="foot">Цензор вычеркнул слова: «чиновник
+              серьезный»</note>, мой искренний друг; он на все согласится… Я ему обрею… На что ему?
+            Он пустяками не занимается; с подчиненными такой строгий<note place="foot">Цензор
+              вычеркнул слова: «с подчиненными такой строгий»</note>… Оставлю только два бакенбарда,
+            в виде полумесяцев…</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Вот оно, вот оно!.. Заслуженному чиновнику, может быть, отцу семейства: «оставлю только
+            два бакенбарда»!</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(сам с собою вполголоса).</stage>
+          <p>У моей старой тетки, девицы Непрочной<note place="foot">Вычеркнув слова: «У моей старой
+              тетки, девицы Непрочной», цензор написал: «У моей тетки, старой девицы».</note>, есть
+            собачонка не больше этой; называется Утешительный… Его бы взять как-нибудь, да и
+            принести Аграфене Панкратьевне!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Это, выходит, он хочет обокрасть свою родную тетку?</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(сам с собою вполголоса).</stage>
+          <p>Если не найду Фантазии, я думаю, можно… Я видел одну моську: чрезвычайно похожа на
+            Фантазию!.. Просили очень дорого; но у меня есть порядочная бритвенница, и еще есть
+            портрет одного знаменитого незнакомца: очень похож<note place="foot">Слова «очень похож»
+              — цензор вычеркнул.</note>… Все это, все это… продам… для Лизаветы Платоновны!..</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(сам с собою).</stage>
+          <p>Я не, стану таскаться по улицам за всякой дрянью!.. Пойду, поймаю что попадется, да и
+            принесу старухе.</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(сам с собою).</stage>
+          <p>Почему бы и мне не попробовать? В этом нет ничего предосудительного.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(отводит Миловидова особо).</stage>
+          <p>Знаете что? Чем вам понапрасну искать, так лучше… <stage>(Шепчет ему на
+            ухо.)</stage></p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Оно бы недурно! Я даже знаю одну няньку, от которой можно достать… Только боюсь,
+            заметят!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Никто не заметит, решительно никто не заметит! Я готов присягнуть… К тому же я вас
+            поддержу. Уж положитесь на меня.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Благодарю. Можно попробовать. Только поддержите!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Уж положитесь на меня! Подходят к остальным..</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(поют хором на голос: «Citto, citto, piano, piano»; а потом каждый поет свою
+            партию)</stage>
+          <l>Тише, тише, осторожно</l>
+          <l>Мы отселе побредем.</l>
+          <l>Если что найти возможно,</l>
+          <l>Всеконечно мы найдем!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(в сторону)</stage>
+          <l>Совершенно я обрею</l>
+          <l>Эти пуделю места.</l>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(тоже)</stage>
+          <l>Я заранее краснею:</l>
+          <l>Будет всюду нагота!</l>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(в сторону)</stage>
+          <l>К тетке сбегаю нарочно<note place="foot">Цензор вычеркнул слово «нарочно» и написал
+              «скорей».</note>,</l>
+          <l>Буду тетку целовать;</l>
+          <l>Лишь бы только от Непрочной<note place="foot">Цензор вычеркнул слова: «от Непрочной» —
+              и написал: сначала «у ней», а потом — «поверней».</note></l>
+          <l>Утешительного взять!</l>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(тоже)</stage>
+          <l>Я попробую: авось-ка</l>
+          <l>Ей понравится моя?</l>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(тоже)</stage>
+          <l>Небо! дай, чтобы та моська</l>
+          <l>Походила на ея!</l>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(к Разорваки)</stage>
+          <l>Опасаюсь я немного,</l>
+          <l>Чтобы с помощью огня</l>
+          <l>Не заметили подлога?</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(Миловидову)</stage>
+          <l>Положитесь на меня!</l>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(хором, уходя со сцены и постепенно удаляясь)</stage>
+          <l>Тише, тише, осторожно</l>
+          <l>Мы отселе побредем.</l>
+          <l>Если что найти возможно,</l>
+          <l>Всеконечно мы найдем!</l>
+          <l>Всеконечно мы найдем!</l>
+        </sp>
+      </div>
+      <div type="interlude">
+        <head>Маленький антракт</head>
+        <stage>Сцена несколько времени пуста. Набегают тучи. Темнеет. Гроза. Дождь, ветер, молния и
+          гром. Оркестр играет ту же симфонию, как и в «Севильском цирюльнике» в подобном же случае.
+          Через сцену пробегает моська. Несколько секунд спустя пробегает незнакомый бульдог,
+          тщательно обнюхивая ее следы. Буря утихает. Полумрак продолжается.</stage>
+      </div>
+      <div type="scene">
+        <head>Явление VIII</head>
+        <stage>Входят один за другим Разорваки, Беспардонный, князь Батог-Батыев, Миловидов,
+          Кутило-Завалдайский. Они завернуты в плащи, с надвинутыми на глаза шляпами, и не видят
+          друг друга.</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(таинственно).</stage>
+          <p>Здесь кто-то есть!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(тоже).</stage>
+          <p>Кто здесь?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(тоже).</stage>
+          <p>Я!..</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(тоже).</stage>
+          <p>Они здесь!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(тоже).</stage>
+          <p>Мы здесь!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(тоже).</stage>
+          <p>С моськой?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(тоже).</stage>
+          <p>Без моськи!</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(таинственно).</stage>
+          <p>Без моськи!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(тоже).</stage>
+          <p>Без моськи!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(в сторону).</stage>
+          <p>Благодарю тебя, природа: они без мосек!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(тоже).</stage>
+          <p>Они без мосек!</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(громко).</stage>
+          <p>Господа! чего секретничать?! Моськи не нашли, так уж, верно, что-нибудь другое
+            принесли?</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(таинственно, поочередно).</stage>
+          <p>Принес!.. Принес!.. Принес!.. Принес!..</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(ко всем).</stage>
+          <p>Покажем при Аграфене Панкратьевне.</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Меня беспокоит одна мысль… Вот это какая мысль!.. Как бы это выразить точнее? Мы все…
+            без Фантазии; ну, а если Адам Карлыч… с Фантазией?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Да, оно немножко страшно. Он человек бойкий; пожалуй, найдет!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Да, он человек вот какой! <stage>(Свистит.)</stage></p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Дрянь, а все-таки страшно.</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <p>Ничуть не страшно. Главное — не унывать. Чем он страшнее нас? Вы думаете, потому что он
+            вот этак вертит, так уж и бог знает что? Вздор, вздор! Он такой же человек, как и мы. Я
+            его давно знаю. Могу совершенно опиcать его характер; слушайте!
+            <stage>(Поет.)</stage></p>
+          <l>Либенталь неспесив,</l>
+          <l>Аккуратен, учтив,</l>
+          <l>Точен;</l>
+          <l>Но охотник солгать,</l>
+          <l>Да и любит болтать</l>
+          <l>Очень!</l>
+        </sp>
+        <sp who="#hor">
+          <speaker>Хор</speaker>
+          <stage>(повторяет)</stage>
+          <l>Очень!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Он молчать не привык</l>
+          <l>И свой держит язык</l>
+          <l>Слабо!</l>
+          <l>Скоро так говорит,</l>
+          <l>Как на рынке пищит!</l>
+          <l>Баба!</l>
+        </sp>
+        <sp who="#hor">
+          <speaker>Хор</speaker>
+          <stage>(повторяет)</stage>
+          <l>Баба!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Судит он, в простоте,</l>
+          <l>О своей красоте</l>
+          <l>Гордо!</l>
+          <l>И вполне убежден,</l>
+          <l>Что пред ним Аполлон</l>
+          <l>Морда!</l>
+        </sp>
+        <sp who="#hor">
+          <speaker>Хор</speaker>
+          <stage>(повторяет)</stage>
+          <l>Морда!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Он искусен во всем,</l>
+          <l>И ему нипочем</l>
+          <l>Полька;</l>
+          <l>А до дела дойдет,</l>
+          <l>Лишь коленки согнет,</l>
+          <l>Только!</l>
+        </sp>
+        <sp who="#hor">
+          <speaker>Хор</speaker>
+          <stage>(повторяет)</stage>
+          <l>Только!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление IX</head>
+        <stage>Те же и вся дворня, входящая с разных сторон с фонарями. Сцена освещается от огня
+          этих фонарей.</stage>
+        <sp who="#dvornya">
+          <speaker>Дворня</speaker>
+          <stage>(каждый спрашивает другого).</stage>
+          <p>Нашел Фантазию? Нашел Хвантазию? Где Конефузия? Не нашел Фантазии! Хвантазии не видал!
+            Конефузии нет!</p>
+        </sp>
+        <stage>Увидя женихов, вся дворня отходит на задний план сцены, где останавливается и
+          остается там все время, освещая сцену фонарями.</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(к остальным женихам).</stage>
+          <p>Слышите, господа? Фантазии не нашли! Стало быть, мы можем надеяться, — победа за
+            нами!</p>
+        </sp>
+        <sp who="#vse_zhenihi">
+          <speaker>Все женихи</speaker>
+          <p>Победа! победа! Моськи не нашли!.. <stage>(Поют хором, на голос: «La trompette
+              querriere».)</stage></p>
+          <l>Триумф, триумф, триумф, триумф!..</l>
+          <l>Гоп, гоп, гоп, ай, люли!..</l>
+          <l>Собаки, собаки, собаки не нашли!</l>
+          <l>Собаки, собаки, собаки не нашли!</l>
+          <l>Не нашли!</l>
+          <l>Не нашли!</l>
+          <l>Не нашли, не нашли, не нашли, не нашли!..</l>
+          <l>Ай, люли!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление Х</head>
+        <stage>Те же и Чупурлина с Лизаветой, выбегающие из крыльца дома.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что это? что это?! Нашли Фантазию? Где она? где она?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Не нашли моськи.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ах, варвары!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Кое-что принес получше моськи.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Лучше Фантазии? Варвары!</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Будет гораздо приятнее.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Какую-нибудь дрянь?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(в сторону).</stage>
+          <p>Она не знает, что говорит, и легкомысленно порочит Утешительного.</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Право, будет почти так же хорошо.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Будет почище!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(к Разорваки).</stage>
+          <p>Покажи, батюшка, что у тебя?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(скидывая с себя шинель, показывает пуделя).</stage>
+          <p>Вот что!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что это, батюшка? скорее на барана похоже!.. Ну видано ли, слыхано ли, чтобы этакое
+            могло стоить Фантазии?! Фу! Право, сказала бы неприличное слово, да в пятницу<note
+              place="foot">Цензор вычеркнул слово: «в пятницу».</note> как-то совестно!.. А как его
+            зовут, батюшка?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Космополит, сударыня!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Чем палит?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Ничем; просто: Космополит.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>А штуки делает?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Делает разные штуки: хотите, сударыня, он вам вскочит на шею и стащит с вас чепчик?</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Нет, не хочу… Вот выдумал что! На какую пакость вышколил своего… Как, бишь, его?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Космополит, сударыня!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Своего… пуделя! <stage>(Обращается к кн. Батог-Батыеву.)</stage> Ну, а у тебя что?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <stage>(скидывая с себя шинель, показывает весьма маленькую собачонку).</stage>
+          <p>А у меня — вот что! Известный Утешительный, принадлежащий родной моей тетушке, девице
+              Непрочной<note place="foot">Слова: «девице Непрочной» вычеркнуты цензором.</note>.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Постой, батюшка: дай очки одеть… Экой мелкий!.. Как зовут?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Утешительный.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.<note place="foot">Этого вопроса Чупурлиной и ответа на него кн.
+              Батог-Батыева не оказывается в театральной рукописи.</note></speaker>
+          <p>А какой породы?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Мужеской, сударыня.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Штуки делает?</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Бывает-с… большею частию на креслах<note place="foot">Слов: «Большею частию на креслах»
+              недостает в театральной рукописи.</note>.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Немножко маловат. Вот хоть бы настолько был побольше. <stage>(Обращается к
+              Кутиле-Завалдайскому.)</stage> Ну, а у тебя что?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(скидывая с себя шинель, показывает датскую собаку с намордником).</stage>
+          <p>Самая чистейшая моська!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что это за урод?! Да как ты смел с этим приступать ко мне?! Разве бывают этакие
+            моськи?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Сударыня, смею вас уверить, что это самая наичистейшая моська. Вам, может быть,
+            странно, что она такая большая? Но на это я вам доложу, что между моськами бывают
+            большие и маленькие, как между людьми… Вот, например: князь Батог-Батыев мал, а господин
+            Миловидов и господин Разорваки велики; между тем они все трое люди; так точно и
+            моськи!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Дичь, дичь! Ты говоришь дичь, батюшка! Князь и Миловидов совсем другое!.. А как зовут
+            твою уродину?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Фифи, сударыня.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Штуки делает?</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>В пять минут съедает десять фунтов говядины, давит волков, снимает шляпы и поливает
+              цветы<note place="foot">Цензор вычеркнул слова: «поливает цветы».</note>.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Дичь, дичь!.. На что мне этакая собака? У меня есть садовник<note place="foot">Слова:
+              «у меня есть садовник» тоже вычеркнуты цензором.</note>. <stage>(Обращается к
+              Миловидову.)</stage> Ну, а ты, батюшка?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <stage>(скидывая с себя шинель, показывает большую игрушечную собаку, в шерсти, с
+            механикой).</stage>
+          <p>Вот мое! Смотрите только издали!</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все.</speaker>
+          <p>Что это?! что это?!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что это?! Никак, игрушка?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Подберите фалды!.. Смотрите издали!..</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Что ты, с ума сошел?</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Говорю вам: подберите фалды!.. Он зол до чрезвычайности!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Фуй, какие гадости<note place="foot">Цензор вычеркнул слово «гадости», написал:
+              «глупости».</note>! Фуй!.. Игрушка!..</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Нет, не игрушка, а моська!.. И имя не игрушечье, а собачье: называется Венер!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ах ты, бесстыдник!<note place="foot">Слова: «Ах ты, бесстыдник» вычеркнуты
+              цензором</note> Да как у тебя язык поворотился говорить этакое!<note place="foot"
+              >Вместо слова «этакое» цензор написал: «этакой вздор».</note></p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Что?! Небось на попятный двор! Как получила моську, так Лизаветы жаль стало?! Нет,
+            брат, атанде! Вот тебе Фантазия, давай Лизавету! <stage>(Потихоньку к
+              Разорваки.)</stage> Да ну же, поддерживайте!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(громко).</stage>
+          <p>Игрушка! просто игрушка!</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(кроме Миловидова).</stage>
+          <p>Просто игрушка!.. Какая Фантазия!.. Какая Фантазия!.. Просто игрушка!</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Ну, положим, игрушка. Эка беда?.. Разве я какой взяточник, чтоб на живых собак деньги
+            тратить? <stage>(Отводит Разорваки в сторону.)</stage> А ведь это подло: вы же
+            присоветовали!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Прочь, прочь!.. <stage>(К Беспардонному.)</stage> Ну, батюшка, вы что?</p>
+        </sp>
+        <stage>Беспардонный молча из-под шинели показывает ей моську.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ах, боже мой!.. Да это уже не она ли?! Она!.. Она!.. Фантазия!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Нет, не она… но… <stage>(С чувством подавая ей моську.)</stage> Аграфена
+            Панкратьевна!..</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Не она?! Врешь!.. Да как же она похожа на нее!.. две капли воды моя Фантазия!..
+            Благодетель мой, ты согласен мне отдать ее?</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(дрожа).</stage>
+          <p>С у… с у… с удовольствием! <stage>(Отдает ей моську.)</stage></p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Родной ты мой!.. <stage>(Целует моську и плачет.)</stage> Так вот же, возьми: вот тебе
+            Лизанька моя!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(задыхаясь от радости).</stage>
+          <p>Что… что… что… что я слышу?</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ты, верно, дружок, на ухо туг? <stage>(Кричит ему в ухо.)</stage> Говорю: ты подарил
+            мне собаку, а я дарю тебе Лизаньку, с приданым!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Аграфена… Лизавета… Агра… Агравета!.. Лизафена!</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Маменька!.. вы шутите?</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Я шучу?.. с чего ты это взяла?! Что ты, ослепла, что ли?! Али в рассудке помешалась?!
+            Ты видишь это или нет? <stage>(Показывает ей моську.)</stage> Взявши собаку, мой первый
+            и священный долг<note place="foot">Цензор вычеркнул слово: «священный».</note> — отдать
+            тебя.</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Маменька, это безрассудно!..</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ты еще ругаешься?!</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <stage>(становясь перед нею на колени).</stage>
+          <p>Маменька!..</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <stage>(подходит к Лизавете Платоновне и тоже становится возле нее на колени).</stage>
+          <p>Лизавета Платоновна!..</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(к Лизавете Платоновне).</stage>
+          <p>Оставь меня! <stage>(Указывает ей на Беспардонного.)</stage> Слушай, что он тебе
+            говорит.</p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна</speaker>
+          <p>Послушайте!.. все зависит от вас; откажитесь от меня!.. Вы человек благородный!.. Я вас
+            знаю!.. Откажитесь от меня!.. Умоляю, заклинаю вас!</p>
+        </sp>
+        <stage>(говорят друг другу одновременно, стоя на коленях)</stage>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный</speaker>
+          <p>Послушайте!.. все зависит от вас; не отказывайтесь от меня!.. Вы добры, как ангел!.. Я
+            вас знаю!.. Не отказывайтесь от меня!.. Умоляю, заклинаю вас!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ну, перестань, Лизанька! Ты и меня растрогала… Я сама плачу!</p>
+        </sp>
+        <stage>Становится сзади их на колени и плачет. Все прочие тоже преклоняют колени и вынимают
+          носовые платки.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(благословляя Лизаньку и Беспардонного).</stage>
+          <p>Будьте счастливы… благословляю вас!.. <stage>(Обращается к моське.)</stage> Мосинька
+            моя!.. Мосинька!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Явление XI</head>
+        <stage>Те же и Либенталь.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(за сценой кричит, приближаясь).</stage>
+          <p>Нашел! Нашел! Нашел!</p>
+        </sp>
+        <stage>Все, оставаясь на коленях, перестают плакать и слушают внимательно.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь</speaker>
+          <stage>(вбегает, держа моську обеими руками).</stage>
+          <p>Нашел!.. Нашел!.. <stage>(Падает, споткнувшись; встает, плюет на то место, где упал, и
+              затем выбегает на авансцену, показывая всем моську.)</stage> Нашел!.. Нашел!</p>
+        </sp>
+        <stage>Общее изумление. Разорваки, Миловидов, князь Батог-Батыев и Кутило-Завалдайский
+          встают и подходят к Либенталю с любопытством.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Аграфена Панкратьевна… моська!.. Лизавета Платоновна… моська!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Ах! <stage>(Бросает моську Беспардонного и падает в сбморок.)</stage></p>
+        </sp>
+        <sp who="#lizaveta_platonovna">
+          <speaker>Лизавета Платоновна.</speaker>
+          <p>Ах! <stage>(Падает в обморок возле Чупурлиной, но в другую сторону.)</stage></p>
+        </sp>
+        <stage>Беспардонный, испуганный, неподвижный, остается на коленях. Либенталь кладет Фантазию
+          в объятия Чупурлиной, а сам бросается к Лизавете Платоновне, дабы привести ее в
+          чувство.</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(к остальным).</stage>
+          <p>Старуху-то и бросили совсем.</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(показывая на людей, стоящих с фонарями).</stage>
+          <p>Они все заняты… Человеколюбие требует, чтоб мы оказали ей помощь.</p>
+        </sp>
+        <stage>Разорваки, Миловидов, кн. Батог-Батыев и Кутило-Завалдайский подходят к фонтану,
+          черпают воду в шляпы и фуражки и выливают ее на Чупурлину.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(приподымаясь, но еще не вставая на ноги).</stage>
+          <p>Кто это?.. Зачем я здесь?.. Отчего я мокра?! Что со мною хотели сделать?!<note
+              place="foot">Цензор вычеркнул слова: «Что со мною хотели сделать?»</note>
+            <stage>(Увидя моську в своих руках.)</stage> Собачка моя! моська моя!.. Это не
+            обман?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Нет, это Фантазия.</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Кто же принес?</p>
+        </sp>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Это я, маменька!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(вставая).</stage>
+          <p>Ты прав, Адам! Я твоя мать… а ты мой отец и благодетель! <stage>(Показывает на
+              Лизавету.)</stage> Вот твоя жена!.. Дай бог, чтоб у вас были сыновья и дочери.
+            Вставай, Лизанька; да ну же, вставай!.. Господа, помочите и ее! Что она так долго
+              кобенится!<note place="foot">Цензор вычеркнул слово «кобенится» и вместо него написал
+              «церемонится».</note></p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(в сторону).</stage>
+          <p>Я говорил, что эта старуха не по летам жестокого характера!</p>
+        </sp>
+        <stage>Миловидов, Разорваки, кн. Батог-Батыев и Кутило-Завалдайекий черпают опять из фонтана
+          воду и подходят с нею к Лизавете Платоновне, чтобы вылить на нее.</stage>
+        <sp who="#libental">
+          <speaker>Либенталь.</speaker>
+          <p>Не надо!.. не надо!.. Она опомнилась! она очнулась! <stage>(Лизавета Платоновна встает;
+              Либенталь ее поддерживает.)</stage></p>
+        </sp>
+        <stage>Миловидов, кн. Батог-Батыев, Разорваки и Кутило-Завалдайский выливают из своих шляп и
+          фуражек воду на Беспардонного, который все это время стоял на коленях. Беспардонный
+          вскакивает.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(Беспардонному).</stage>
+          <p>Ну, батюшка! твоя собачка только похожа на мою; а эта моя, настоящая Фантазия! Прощай!
+            Ты более не нужен ни мне, ни Лизе! Пошел вон! <stage>(Обращается к Лизе и
+              Либенталю.)</stage> А вас, милые дети, я благословляю. Будьте счастливы и
+            благополучны; размножайтесь и любите как себя взаимно, так и своих будущих
+            многочисленных детей, — точно так же, как я люблю свою Фантазию. <stage>(Целует
+              моську.)</stage> Теперь пойдем домой. <stage>(Уходит с Либенталем и
+            Лизой.)</stage></p>
+        </sp>
+        <stage>Разорваки, Миловидов, Беспардонный, кн. Батог-Батыев и Кутило-Завалдайский следуют за
+          ними, гуськом.</stage>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(оборачивается).</stage>
+          <p>А вам что нужно?</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(ей).</stage>
+          <p>Не кричите!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина.</speaker>
+          <p>Стыдись, старик.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Старуха, не школьничай!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Поправьте чепец!..</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>Не получишь более<note place="foot">Здесь цензор прибавил слова: «в подарок».</note>
+            мыла от меня ни вот столько!<note place="foot">А тут цензор вычеркнул слова: «ни вот
+              столько».</note></p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Бог с вами!</p>
+        </sp>
+        <sp who="#chupurlina">
+          <speaker>Чупурлина</speaker>
+          <stage>(обращаясь к прислуге, стоящей с фонарями).</stage>
+          <p>Эй! пошлите за полицией!.. Жандармов приведите сюда, побольше и посильнее!<note
+              place="foot">Слова: «Жандармов приведите сюда, побольше и посильнее» — цензор
+              вычеркнул.</note></p>
+        </sp>
+        <stage>Прислуга поспешно уходит.</stage>
+        <sp who="#razorvaki">
+          <speaker>Разорваки.</speaker>
+          <p>Мы сами не намерены здесь оставаться.</p>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов.</speaker>
+          <p>Я только не хочу рук марать.</p>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев.</speaker>
+          <p>И старое-то мыло назад отыму!</p>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский.</speaker>
+          <p>Прикройте шею!</p>
+        </sp>
+        <sp who="#bespardonnyj">
+          <speaker>Беспардонный.</speaker>
+          <p>Бог с вами, вы изменили мне!</p>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <stage>(прочим женихам).</stage>
+          <p>Провожая эту старуху, споемте ей, господа, куплеты, подобные тем, которыми давеча ее
+            встречали, да только в обратном смысле.</p>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(кроме Беспардонного, поют хором, на тот же голос, как вначале. Разорваки
+            начинает.)</stage>
+          <l>Аграфена!</l>
+          <l>Нам измена</l>
+          <l>Не страшна; (bis)</l>
+          <l>Хоть и пред тобою</l>
+          <l>Не черней душою</l>
+          <l>Сатана!</l>
+          <l>Сатана!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Мы вас знаем!</l>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <l>Обижаем!</l>
+        </sp>
+        <sp who="#knyaz_batog-batyev">
+          <speaker>Кн. Батог-Батыев</speaker>
+          <l>Презираем!</l>
+        </sp>
+        <sp who="#milovidov">
+          <speaker>Миловидов</speaker>
+          <l>И пугаем!</l>
+        </sp>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <l>И ругаем!</l>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(кроме Беспардонного, хором)</stage>
+          <l>Каждый час!</l>
+          <l>Каждый час!</l>
+        </sp>
+        <sp who="#razorvaki">
+          <speaker>Разорваки</speaker>
+          <l>Вы на нас кричите</l>
+          <l>И всех нас браните;</l>
+        </sp>
+        <sp who="#vse">
+          <speaker>Все</speaker>
+          <stage>(кроме Беспардонного, хором)</stage>
+          <l>А мы вас!</l>
+          <l>А мы вас!</l>
+        </sp>
+        <stage>При последних словах Чупурлина, Лиза и Либенталь входят в дом; а Разорваки,
+          Миловидов, Кутило-Завалдайский и кн. Батог-Батыев оканчивают куплет без них, плюют вслед
+          Чупурлиной и сами уходят, как и Беспардонный, в противоположную сторону, но
+          Кутило-Завалдайский остается, осторожно отойдя на задний план.</stage>
+      </div>
+      <div type="scene">
+        <head>Явление XII</head>
+        <sp who="#kutilo-zavaldajskij">
+          <speaker>Кутило-Завалдайский</speaker>
+          <stage>(осматривается и, видя, что никого уже нет на сцене, подходит к рампе и обращается
+            в оркестр).</stage>
+          <p>Господин контр-бас!.. Пст!.. пст!.. Господин контр-бас! одолжите афишку!
+              <stage>(Принимает афишку, поданную ему из оркестра.)</stage> Весьма любопытно видеть:
+            кто автор этой пьесы? <stage>(Смотрит в афишку.)</stage> Нет!.. имени не выставлено!..
+            Это значит осторожность! Это значит совесть не чиста… А должен быть человек самый
+            безнравственный!.. Я, право, не понимаю даже, как дирекция могла допустить такую
+              пьесу?<note place="foot">Цензор вычеркнул слова: «как дирекция могла допустить» и
+              написал: «как можно было выбрать»</note> Это очевидная пасквиль!..<note place="foot"
+              >Слова: «Это очевидная пасквиль» — вычеркнуты цензором.</note> Я, по крайней мере, тем
+            доволен, что, с своей стороны, не позволил себе никакой неприличности, несмотря на все
+            старания автора! Уж чего мне суфлер ни подсказывал?.. То есть, если б я хоть раз
+            повторил громко, что он мне говорил, все бы из театра вышли вон! Но я, назло ему,
+            говорил все противное. Он мне шепчет одно, а я говорю другое. И прочие актеры тоже
+            совсем другое говорили; от этого и пьеса вышла немного лучше. А то нельзя было б играть!
+            Такой, право, нехороший сюжет!.. Уж будто нельзя было выбрать другого?<note place="foot"
+              >Вместо слов: «выбрать другого» — цензор написал «придумать что-либо получше».</note>
+            Например: что вот там один молодой человек любит одну девицу… их родители соглашаются на
+            брак; и в то время, как молодые идут по коридору, из чулана выходит тень прабабушки и
+            мимоходом их благословляет! Или вот что намедни случилось, после венгерской войны<note
+              place="foot">Слова: «после венгерской войны» — цензор вычеркнул.</note>: что один
+            офицер, будучи обручен с одною девицей, отправился с отрядом одного очень хорошего
+            генерала и был ранен пулею в нос; потом пуля заросла; и, когда кончилась война, он
+            возвратился в Вышний Волочок<note place="foot">Название города: «Вышний Волочок» —
+              вычеркнуто цензором.</note> и обвенчался со своей невестой… Только уже ночью, когда
+            они остались вдвоем, он, по известному обычаю, хотел подойти к ручке жены своей…
+            неожиданно чихнул… пуля вылетела у него из носу и убила жену наповал!.. Вот это
+            называется сюжет!.. Оно и нравственно и назидательно; и есть драматический эффект!
+              <stage>(Занавес начинает опускаться.)</stage></p>
+          <p>Или там еще: что один золотопромышленник, будучи чрезвычайно строптивого характера…
+              <stage>(Занавес опустился; Кутило-Завалдайский, не замечая, остался впереди.)</stage>…
+            поехал в Новый год с поздравлением вместо того, чтобы к одному, к другому…</p>
+        </sp>
+        <stage>Оркестр прерывает слова Кутилы-Завалдайского. Он конфузится, заметив, что занавес
+          опущен; раскланивается с публикою и уходит.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
