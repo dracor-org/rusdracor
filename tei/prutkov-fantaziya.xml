@@ -52,21 +52,21 @@
             <persName>Разорваки</persName>
             <persName xml:lang="en">Razorvaki</persName>
           </person>
-          <person xml:id="libental" sex="MALE">
-            <persName>Либенталь</persName>
-            <persName xml:lang="en">Liebenthal</persName>
-          </person>
-          <person xml:id="bespardonnyj" sex="MALE">
-            <persName>Беспардонный</persName>
-            <persName xml:lang="en">Bespardonny</persName>
+          <person xml:id="knyaz_batog-batyev" sex="MALE">
+            <persName>Кн. Батог-Батыев</persName>
+            <persName xml:lang="en">Prince Batog-Batyev</persName>
           </person>
           <person xml:id="milovidov" sex="MALE">
             <persName>Миловидов</persName>
             <persName xml:lang="en">Milovidov</persName>
           </person>
-          <person xml:id="knyaz_batog-batyev" sex="MALE">
-            <persName>Кн. Батог-Батыев</persName>
-            <persName xml:lang="en">Prince Batog-Batyev</persName>
+          <person xml:id="bespardonnyj" sex="MALE">
+            <persName>Беспардонный</persName>
+            <persName xml:lang="en">Bespardonny</persName>
+          </person>
+          <person xml:id="libental" sex="MALE">
+            <persName>Либенталь</persName>
+            <persName xml:lang="en">Liebenthal</persName>
           </person>
           <person xml:id="chupurlina" sex="FEMALE">
             <persName>Чупурлина</persName>
@@ -92,18 +92,11 @@
             <persName>Повар</persName>
             <persName xml:lang="en">Cook</persName>
           </person>
-          <person xml:id="vsya_prisluga" sex="UNKNOWN">
-            <persName>Вся прислуга</persName>
-            <persName xml:lang="en">All the Servants</persName>
-          </person>
-          <person xml:id="dvornya" sex="UNKNOWN">
-            <persName>Дворня</persName>
-            <persName xml:lang="en">Servants</persName>
-          </person>
-          <person xml:id="vse_zhenihi" sex="MALE">
-            <persName>Все женихи</persName>
-            <persName xml:lang="en">All the Suitors</persName>
-          </person>
+          <personGrp xml:id="dvornya" sex="UNKNOWN">
+            <name>Дворня</name>
+            <name type="variant">Вся прислуга</name>
+            <name xml:lang="en">All the Servants</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -176,7 +169,7 @@
           <stage>(вдруг останавливается и обращается к прочим).</stage>
           <p>Тс! тс! тс!..</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(остановившись).</stage>
           <p>Что такое?! что такое?!</p>
@@ -199,7 +192,7 @@
           <p>Должно быть, семь; у меня половина третьего. Такой странный корпус у них, — никак не
             могу сладить.</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#razorvaki #knyaz_batog-batyev #milovidov">
           <speaker>Все</speaker>
           <stage>(кроме Либенталя, смотря на часы).</stage>
           <p>Семь часов.</p>
@@ -214,7 +207,7 @@
           <p>Давно желанный и многожданный час!.. Вот мы все здесь собрались; но кто же из нас,
             здесь присутствующих женихов, кто получит руку Лизаветы Платоновны? Вот вопрос!</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #libental">
           <speaker>Все</speaker>
           <stage>(задумавшись).</stage>
           <p>Вот вопрос!</p>
@@ -245,7 +238,7 @@
             форме красивого куплета и спеть, как обыкновенно в водевиле каком-нибудь поют на сцене
             актеры и актрисы.</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все.</speaker>
           <p>Пожалуй… пожалуй… сочиним! сочиним!</p>
         </sp>
@@ -319,7 +312,8 @@
         <stage>Те же и Чупурлина с Лизаветой. Чупурлина с Лизаветой сходят с крыльца в сад.
           Чупурлина ведет на ленточке моську. Женихи сидят на местах и поют на голос «Frère
           Jacques». Разорваки начинает.</stage>
-        <sp who="#vse">
+        <sp
+          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(поют)</stage>
           <l>Вот куплеты,</l>
@@ -365,7 +359,8 @@
           <speaker>Разорваки</speaker>
           <l>Довольно… довольно!..</l>
         </sp>
-        <sp who="#vse">
+        <sp
+          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(хором)</stage>
           <l>Всякий час!</l>
@@ -381,7 +376,8 @@
           <stage>(тоже)</stage>
           <l>И нас обнимите!</l>
         </sp>
-        <sp who="#vse">
+        <sp
+          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(хором)</stage>
           <l>А мы вас!</l>
@@ -416,7 +412,6 @@
         </sp>
         <stage>Беспардонный подходит, отворяет рот, но от внутреннего волнения не может сказать
           ничего.</stage>
-
         <sp who="#milovidov">
           <speaker>Миловидов</speaker>
           <stage>(перебивая выразительные знаки Беспардонного).</stage>
@@ -952,7 +947,7 @@
             вы все толчетесь на одном месте? а?! В разные стороны бегите! и непременно отыщите мне
             мою собачку!</p>
         </sp>
-        <sp who="#vsya_prisluga">
+        <sp who="#dvornya">
           <speaker>Вся прислуга</speaker>
           <stage>(расходясь во все стороны, кричит в один голос).</stage>
           <p>Фантазия!.. Фантазия!..</p>
@@ -1063,7 +1058,7 @@
         </sp>
       </div>
       <div type="scene">
-        <head>Явление VI<note place="foot">Это явление здесь немного сокращено противу
+        <head>Явление VII<note place="foot">Это явление здесь немного сокращено противу
             рукопиcи.</note></head>
         <stage>Все женихи, кроме Либенталя.</stage>
         <sp who="#knyaz_batog-batyev">
@@ -1103,7 +1098,7 @@
           <p>А если и найдет какой-нибудь городовой, то Аграфена Панкратьевна тут же за него и
             выдаст воспитанницу!</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Все</speaker>
           <stage>(с испугом).</stage>
           <p>Нет, нет!.. нельзя объявлять!..</p>
@@ -1207,7 +1202,7 @@
           <speaker>Разорваки.</speaker>
           <p>Уж положитесь на меня! Подходят к остальным..</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Все</speaker>
           <stage>(поют хором на голос: «Citto, citto, piano, piano»; а потом каждый поет свою
             партию)</stage>
@@ -1262,7 +1257,7 @@
           <stage>(Миловидову)</stage>
           <l>Положитесь на меня!</l>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Все</speaker>
           <stage>(хором, уходя со сцены и постепенно удаляясь)</stage>
           <l>Тише, тише, осторожно</l>
@@ -1345,7 +1340,7 @@
           <p>Господа! чего секретничать?! Моськи не нашли, так уж, верно, что-нибудь другое
             принесли?</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Все</speaker>
           <stage>(таинственно, поочередно).</stage>
           <p>Принес!.. Принес!.. Принес!.. Принес!..</p>
@@ -1385,7 +1380,7 @@
           <l>Да и любит болтать</l>
           <l>Очень!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Хор</speaker>
           <stage>(повторяет)</stage>
           <l>Очень!</l>
@@ -1399,7 +1394,7 @@
           <l>Как на рынке пищит!</l>
           <l>Баба!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Хор</speaker>
           <stage>(повторяет)</stage>
           <l>Баба!</l>
@@ -1413,7 +1408,7 @@
           <l>Что пред ним Аполлон</l>
           <l>Морда!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Хор</speaker>
           <stage>(повторяет)</stage>
           <l>Морда!</l>
@@ -1427,7 +1422,7 @@
           <l>Лишь коленки согнет,</l>
           <l>Только!</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Хор</speaker>
           <stage>(повторяет)</stage>
           <l>Только!</l>
@@ -1451,7 +1446,7 @@
           <p>Слышите, господа? Фантазии не нашли! Стало быть, мы можем надеяться, — победа за
             нами!</p>
         </sp>
-        <sp who="#vse_zhenihi">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #milovidov #bespardonnyj">
           <speaker>Все женихи</speaker>
           <p>Победа! победа! Моськи не нашли!.. <stage>(Поют хором, на голос: «La trompette
               querriere».)</stage></p>
@@ -1643,7 +1638,8 @@
             механикой).</stage>
           <p>Вот мое! Смотрите только издали!</p>
         </sp>
-        <sp who="#vse">
+        <sp
+          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #bespardonnyj #chupurlina #lizaveta_platonovna">
           <speaker>Все.</speaker>
           <p>Что это?! что это?!</p>
         </sp>
@@ -1689,7 +1685,8 @@
           <stage>(громко).</stage>
           <p>Игрушка! просто игрушка!</p>
         </sp>
-        <sp who="#vse">
+        <sp
+          who="#kutilo-zavaldajskij #knyaz_batog-batyev #bespardonnyj #chupurlina #lizaveta_platonovna">
           <speaker>Все</speaker>
           <stage>(кроме Миловидова).</stage>
           <p>Просто игрушка!.. Какая Фантазия!.. Какая Фантазия!.. Просто игрушка!</p>
@@ -1969,7 +1966,7 @@
           <p>Провожая эту старуху, споемте ей, господа, куплеты, подобные тем, которыми давеча ее
             встречали, да только в обратном смысле.</p>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov">
           <speaker>Все</speaker>
           <stage>(кроме Беспардонного, поют хором, на тот же голос, как вначале. Разорваки
             начинает.)</stage>
@@ -2001,7 +1998,7 @@
           <speaker>Кутило-Завалдайский</speaker>
           <l>И ругаем!</l>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov">
           <speaker>Все</speaker>
           <stage>(кроме Беспардонного, хором)</stage>
           <l>Каждый час!</l>
@@ -2012,7 +2009,7 @@
           <l>Вы на нас кричите</l>
           <l>И всех нас браните;</l>
         </sp>
-        <sp who="#vse">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov">
           <speaker>Все</speaker>
           <stage>(кроме Беспардонного, хором)</stage>
           <l>А мы вас!</l>
