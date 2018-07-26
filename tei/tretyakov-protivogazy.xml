@@ -45,201 +45,195 @@
         <listPerson>
           <person xml:id="sekretarsha" sex="FEMALE">
             <persName>Секретарша</persName>
+            <persName xml:lang="de">Sekretärin</persName>
           </person>
           <person xml:id="direktor" sex="MALE">
             <persName>Директор</persName>
+            <persName xml:lang="de">Direktor</persName>
           </person>
           <person xml:id="egorych" sex="MALE">
             <persName>Егорыч</persName>
+            <persName xml:lang="de">Jegorytsch</persName>
           </person>
           <person xml:id="kurer" sex="MALE">
             <persName>Курьер</persName>
+            <persName xml:lang="de">Bote</persName>
           </person>
           <person xml:id="vaska" sex="MALE">
             <persName>Васька</persName>
+            <persName xml:lang="de">Waska</persName>
           </person>
           <person xml:id="lukach" sex="MALE">
             <persName>Лукач</persName>
+            <persName xml:lang="de">Lukatsch</persName>
           </person>
           <person xml:id="rabochij_1" sex="MALE">
             <persName>Рабочий (I)</persName>
+            <persName xml:lang="de">Arbeiter (I)</persName>
           </person>
           <person xml:id="baba" sex="FEMALE">
             <persName>Баба</persName>
+            <persName xml:lang="de">Weib</persName>
           </person>
           <person xml:id="staruha" sex="FEMALE">
             <persName>Старуха</persName>
+            <persName xml:lang="de">Alte</persName>
           </person>
           <personGrp xml:id="baby" sex="FEMALE">
             <name>Бабы</name>
+            <persName xml:lang="de">Weiber</persName>
           </personGrp>
           <person xml:id="pervyj_rabochij_1" sex="MALE">
             <persName>1-й рабочий (I)</persName>
+            <persName xml:lang="de">Erster Arbeiter (I)</persName>
           </person>
           <person xml:id="vtoroj_rabochij_1" sex="MALE">
             <persName>2-й рабочий (I)</persName>
+            <persName xml:lang="de">Zweiter Arbeiter (I)</persName>
           </person>
           <person xml:id="pervyj_komsomolec" sex="MALE">
             <persName>1-й комсомолец</persName>
+            <persName xml:lang="de">Erster Komsomolze (I)</persName>
           </person>
           <person xml:id="vtoroj_komsomolec" sex="MALE">
             <persName>2-й комсомолец</persName>
+            <persName xml:lang="de">Zweiter Komsomolze (I)</persName>
           </person>
           <person xml:id="petya" sex="MALE">
             <persName>Петя</persName>
+            <persName xml:lang="de">Petja</persName>
           </person>
           <personGrp xml:id="hor_komsomolcev" sex="UNKNOWN">
             <name>Хор комсомольцев</name>
+            <persName xml:lang="de">Chor der Komsomolzen</persName>
           </personGrp>
           <person xml:id="podrostok" sex="MALE">
             <persName>Подросток</persName>
+            <persName xml:lang="de">Halbwüchsiger</persName>
           </person>
-          <person xml:id="golos_iz_podpolya" sex="UNKNOWN">
+          <person xml:id="golos_iz_podpolya" sex="MALE">
             <persName>Голос из подполья</persName>
+            <persName xml:lang="de">Stimme aus dem Keller</persName>
           </person>
           <person xml:id="pervyj_rabochij_2" sex="MALE">
             <persName>1-й рабочий (II)</persName>
+            <persName xml:lang="de">Erster Arbeiter (II)</persName>
           </person>
           <person xml:id="vtoroj_rabochij_2" sex="MALE">
             <persName>2-й рабочий (II)</persName>
+            <persName xml:lang="de">Zweiter Arbeiter (II)</persName>
           </person>
           <person xml:id="tretij_rabochij" sex="MALE">
             <persName>3-й рабочий</persName>
+            <persName xml:lang="de">Dritter Arbeiter</persName>
           </person>
           <person xml:id="chetvertyj_rabochij" sex="MALE">
             <persName>4-й рабочий</persName>
+            <persName xml:lang="de">Vierter Arbeiter</persName>
           </person>
           <person xml:id="pyatyj_rabochij" sex="MALE">
             <persName>5-й рабочий</persName>
+            <persName xml:lang="de">Fünfter Arbeiter</persName>
           </person>
-          <personGrp xml:id="golosa_2a" sex="UNKNOWN">
+          <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса</name>
+            <persName xml:lang="de">Stimmen</persName>
           </personGrp>
           <person xml:id="inzhener" sex="MALE">
             <persName>Инженер</persName>
+            <persName xml:lang="de">Ingenieur</persName>
           </person>
-          <personGrp xml:id="golosa_2b" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2c" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2d" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <person xml:id="golos_2a" sex="UNKNOWN">
+          <person xml:id="golos_2a" sex="MALE">
             <persName>Голос</persName>
+            <persName xml:lang="de">Stimme</persName>
           </person>
-          <personGrp xml:id="golosa_2e" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2f" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2g" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <person xml:id="golos_2b" sex="UNKNOWN">
+          <person xml:id="golos_2b" sex="MALE">
             <persName>Голос</persName>
+            <persName xml:lang="de">Stimme</persName>
           </person>
-          <personGrp xml:id="golosa_2h" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2i" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
           <person xml:id="dudin" sex="MALE">
             <persName>Дудин</persName>
+            <persName xml:lang="de">Dudin</persName>
           </person>
-          <personGrp xml:id="golosa_2j" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2k" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2l" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2m" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2n" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2o" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
           <personGrp xml:id="zhenschiny" sex="FEMALE">
             <name>Женщины</name>
+            <persName xml:lang="de">Frauen</persName>
           </personGrp>
-          <person xml:id="zhenskij_golos" sex="FEMALE">
-            <persName>Женский голос</persName>
-          </person>
           <person xml:id="zhena_fomy" sex="FEMALE">
             <persName>Жена Фомы</persName>
+            <persName xml:lang="de">Fomas Frau</persName>
           </person>
-          <personGrp xml:id="golosa_2p" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
+          <person xml:id="zhenskij_golos" sex="FEMALE">
+            <persName>Женский голос</persName>
+            <persName xml:lang="de">Frauenstimme</persName>
+          </person>
           <person xml:id="zhena_dudina" sex="FEMALE">
             <persName>Жена Дудина</persName>
+            <persName xml:lang="de">Dudins Frau</persName>
           </person>
-          <personGrp xml:id="golosa_2q" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
           <person xml:id="foma" sex="MALE">
             <persName>Фома</persName>
+            <persName xml:lang="de">Foma</persName>
           </person>
           <person xml:id="golos_2c" sex="UNKNOWN">
             <persName>Голос</persName>
+            <persName xml:lang="de">Stimme</persName>
           </person>
-          <personGrp xml:id="golosa_2r" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
           <person xml:id="golos_2d" sex="UNKNOWN">
             <persName>Голос</persName>
+            <persName xml:lang="de">Stimme</persName>
           </person>
           <person xml:id="zhena_rabochego" sex="FEMALE">
             <persName>Жена рабочего</persName>
+            <persName xml:lang="de">Frau eines Arbeiters</persName>
           </person>
           <person xml:id="rabochij_na_nosilkah" sex="MALE">
             <persName>Рабочий на носилках</persName>
+            <persName xml:lang="de">Arbeiter auf der Bahre</persName>
           </person>
           <person xml:id="nosilschik" sex="MALE">
             <persName>Носильщик</persName>
+            <persName xml:lang="de">Bahrenträger</persName>
           </person>
-          <personGrp xml:id="golosa_2s" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
-          <personGrp xml:id="golosa_2t" sex="UNKNOWN">
-            <name>Голоса</name>
-          </personGrp>
           <personGrp xml:id="za_scenoj_pesnya" sex="UNKNOWN">
             <name>За сценой песня</name>
+            <persName xml:lang="de">Lied hinter der Bühne</persName>
           </personGrp>
           <personGrp xml:id="golosa_komsomolcev" sex="UNKNOWN">
             <name>Голоса комсомольцев</name>
+            <persName xml:lang="de">Stimmen der Komsomolzen</persName>
           </personGrp>
           <person xml:id="komsomolec" sex="MALE">
             <persName>Комсомолец</persName>
+            <persName xml:lang="de">Komsomolze</persName>
           </person>
           <person xml:id="golos_v_ton" sex="UNKNOWN">
             <persName>Голос в тон</persName>
+            <persName xml:lang="de">Stimme (gleicher Tonfall)</persName>
           </person>
           <person xml:id="staryj_rabochij" sex="MALE">
             <persName>Старый рабочий</persName>
+            <persName xml:lang="de">Alter Arbeiter</persName>
           </person>
-          <person xml:id="rabochij_3" sex="MALE">
+          <person xml:id="rabochij_3a" sex="MALE">
             <persName>Рабочий (III)</persName>
+            <persName xml:lang="de">Arbeiter (III)</persName>
+          </person>
+          <person xml:id="rabochij_3b" sex="MALE">
+            <persName>Рабочий (III)</persName>
+            <persName xml:lang="de">Arbeiter (III)</persName>
           </person>
           <person xml:id="odin_rabochij" sex="MALE">
             <persName>Один рабочий</persName>
+            <persName xml:lang="de">Ein Arbeiter</persName>
           </person>
           <person xml:id="drugoj_rabochij" sex="MALE">
             <persName>Другой рабочий</persName>
+            <persName xml:lang="de">Anderer Arbeiter</persName>
           </person>
           <personGrp xml:id="rabochie" sex="UNKNOWN">
             <name>Рабочие</name>
+            <persName xml:lang="de">Arbeiter</persName>
           </personGrp>
         </listPerson>
       </particDesc>
@@ -251,7 +245,8 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ff" when="2018-06-09">converted from source</change>
+        <change who="#ff" when="2018-06-09">convert from source</change>
+        <change who="#ff" when="2018-07-26">work on IDs; add DE translations to persons</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -1132,7 +1127,7 @@
           <speaker>5-й рабочий.</speaker>
           <p>Чем воняет? Ребята, газ пошел.</p>
         </sp>
-        <sp who="#golosa_2a">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Бросай папиросы, бросай курево!</p>
         </sp>
@@ -1388,7 +1383,7 @@
           <speaker>5-й рабочий.</speaker>
           <p>Нет, так нечего и говорить.</p>
         </sp>
-        <sp who="#golosa_2b">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Каюк магистрали.</p>
           <p>– Чего без противогаза сделаешь?</p>
@@ -1453,7 +1448,7 @@
           <p>Должны согласиться. <stage>(Егорычу)</stage> Давай тревожный гудок. Всех сюда.</p>
         </sp>
         <stage>(Рабочие вбегают.)</stage>
-        <sp who="#golosa_2c">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Пожар, что-ли?</p>
           <p>– Чорт, соснуть не дадут.</p>
@@ -1467,7 +1462,7 @@
           <speaker>Егорыч.</speaker>
           <p>Все здесь?</p>
         </sp>
-        <sp who="#golosa_2d">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Все.</p>
         </sp>
@@ -1504,7 +1499,7 @@
           <p>...нет. Единственный способ, на который должен пойти ваш пролетарский героизм, – способ
             тяжелый: заменить колено без противогазов.</p>
         </sp>
-        <sp who="#golosa_2e">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Ого-го?!</p>
           <p>– Нашел дураков.</p>
@@ -1514,7 +1509,7 @@
           <p>Да, без противогазов. 70 наших рабочих, работая по три минуты... Я говорил с
             врачом.</p>
         </sp>
-        <sp who="#golosa_2f">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– А потом в лазарет?</p>
           <p>– Три минуты, а месяц квелый ходи?</p>
@@ -1528,7 +1523,7 @@
           <p>Товарищи. Нельзя так. Ежели пролетарский, к примеру, коллектив возьмется, так ему
             никаких трудностей нет. Товарищи...</p>
         </sp>
-        <sp who="#golosa_2g">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Чего подпеваешь?</p>
           <p>– Сам чего спал?</p>
@@ -1556,7 +1551,7 @@
           <p>Чего разговаривать, ребята. Не по нас работа. Айда домой.</p>
         </sp>
         <stage>(За время пререканий накапливаются женщины)</stage>
-        <sp who="#golosa_2h">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– А как же с выходными?</p>
           <p>– Оттягаем.</p>
@@ -1567,7 +1562,7 @@
           <p>Товарищи. Вы, как герои труда, примерно, на красную доску. Завтра к вам вожди
             пролетарской революции... С каким вы лицом?..</p>
         </sp>
-        <sp who="#golosa_2i">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Не беспокойся.</p>
           <p>– Вот про ваши штуки вождям и расскажем.</p>
@@ -1587,7 +1582,7 @@
           <speaker>Дудин.</speaker>
           <p>– Нельзя газгольдер открывать.</p>
         </sp>
-        <sp who="#golosa_2j">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Дудка пришел.</p>
           <p>– Слушай Дудку.</p>
@@ -1599,7 +1594,7 @@
           <speaker>Дудин.</speaker>
           <p>Товарищи, не уходите! Два слова.</p>
         </sp>
-        <sp who="#golosa_2k">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Чего разговаривать?</p>
           <p>– Не полезем на убой.</p>
@@ -1611,7 +1606,7 @@
           <p>Очумели! Хозяевам? Каким хозяевам? Кто говорит? Смеетесь?! Забыли, кто хозяева? Вы –
             хозяева! Это не хозяева. Приказчики они и мерзкие приказчики...</p>
         </sp>
-        <sp who="#golosa_2l">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Правильно, Дудка. Крой!</p>
         </sp>
@@ -1620,7 +1615,7 @@
           <p>Без шуток. Дело страшно. Тянуть нельзя. О них забудьте. Они дадут ответ за
             разгильдяйство своим чередом.</p>
         </sp>
-        <sp who="#golosa_2m">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Доберись до них – гладки больно.</p>
         </sp>
@@ -1634,7 +1629,7 @@
               n="101"/> Поди, прибери его к рукам. Чего испугались? Койки лазаретной? Смерти? Я вас
             знаю. Степан! Семен! Сергей! Никита! Были вы на фронте?</p>
         </sp>
-        <sp who="#golosa_2n">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Были.</p>
         </sp>
@@ -1647,7 +1642,7 @@
             рабочие и революционеры, нет вам выхода отсюда иначе, как через газ. По три минуты на
             брата. В работу. Сейчас же. Поняли?</p>
         </sp>
-        <sp who="#golosa_2o">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Поняли.</p>
           <p>– Правильно.</p>
@@ -1672,7 +1667,7 @@
           <stage>(директору.)</stage>
           <p>Тебе что? На место!</p>
         </sp>
-        <sp who="#zhenskij_golos">
+        <sp who="#zhenschiny">
           <speaker>Женский голос.</speaker>
           <p>– Нечего на рожон переть.</p>
           <p>– Петра жена в лазарете убивается, никак он отойти не может.</p>
@@ -1700,7 +1695,7 @@
           <p>Инструменты сюда! Блоки! Веревки! Лампы на головы! Веревку за пояс. Три минуты – тащи.
               <stage>(Инженеру)</stage> Командуйте.</p>
         </sp>
-        <sp who="#golosa_2p">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Кому итти?</p>
           <p>– Жребий бросить.</p>
@@ -1741,7 +1736,7 @@
           <speaker>Васька.</speaker>
           <p>Какой – такой? Никакой. Подождешь своего череду.</p>
         </sp>
-        <sp who="#golosa_2q">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– А и молодец.</p>
           <p>– Васька-то, самогонщик.</p>
@@ -1861,7 +1856,7 @@
           <speaker>Дудин.</speaker>
           <p>Пустите.</p>
         </sp>
-        <sp who="#golosa_2r">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>Стой, Дудин.</p>
           <p>– Я вперед.</p>
@@ -1916,7 +1911,7 @@
           <speaker>Носильщик.</speaker>
           <p>Не дергайся.</p>
         </sp>
-        <sp who="#golosa_2s">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>Вот, чорт, живучий.</p>
           <p>– И газ не берет.</p>
@@ -1965,7 +1960,7 @@
           <speaker>Инженер.</speaker>
           <p>Следующий.</p>
         </sp>
-        <sp who="#golosa_2t">
+        <sp who="#golosa">
           <speaker>Голоса.</speaker>
           <p>– Здоров же.</p>
           <p>– Бык – одно слово.</p>
@@ -2331,7 +2326,7 @@
           <p>Несут. Его. Господи, какой белый! Осторожней, осторожней. Господи! Господи! Домой его
             снесите. И врача...</p>
         </sp>
-        <sp who="#rabochij_3">
+        <sp who="#rabochij_3a">
           <speaker>Рабочий.</speaker>
           <p>Рук свободных нет. Женщины носят. Врачу нельзя уйти из лазарета.</p>
         </sp>
@@ -2359,7 +2354,7 @@
           <speaker>Инженер.</speaker>
           <p>Следующий. <stage>(Вылезшему из шахты рабочему)</stage> Как дела?</p>
         </sp>
-        <sp who="#rabochij_3">
+        <sp who="#rabochij_3b">
           <speaker>Рабочий.</speaker>
           <stage>(качаясь)</stage>
           <p>Газ прекратился. Муфты довинтить. Тем только старый газ. Теперь минут пять и все
