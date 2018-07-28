@@ -2,7 +2,7 @@
 ## Corpus Description
 We are building a Russian Drama Corpus with files encoded in
 [TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises
-**95 plays** to date, stemming from [ilibrary](http://ilibrary.ru/),
+**100 plays** to date, stemming from [ilibrary](http://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/), [РВБ](http://rvb.ru/) and
 [lib.ru](http://lib.ru/), converted to TEI and corrected by us. There
 will be more.
@@ -49,4 +49,4 @@ Result:
 
 ![number of speakers per play over time](numOfSpeakers.png)
 
-(README last updated on June 17, 2018.)
+(README last updated on July 28, 2018.)
