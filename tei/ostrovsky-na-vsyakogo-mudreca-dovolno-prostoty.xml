@@ -53,7 +53,7 @@
             <persName>Глумов</persName>
             <persName xml:lang="de">Glumow</persName>
           </person>
-          <person xml:id="glumova" sex="MALE">
+          <person xml:id="glumova" sex="FEMALE">
             <persName>Глумова</persName>
             <persName xml:lang="de">Glumowa</persName>
           </person>
@@ -63,7 +63,7 @@
           </person>
           <person xml:id="golutvin" sex="MALE">
             <persName>Голутвин</persName>
-            <persName xml:lang="de">Golutowin</persName>
+            <persName xml:lang="de">Golutwin</persName>
           </person>
           <person xml:id="chelovek" sex="MALE">
             <persName>Человек</persName>
@@ -73,15 +73,15 @@
             <persName>Мамаев</persName>
             <persName xml:lang="de">Mamajew</persName>
           </person>
-          <person xml:id="manefa" sex="MALE">
+          <person xml:id="manefa" sex="FEMALE">
             <persName>Манефа</persName>
             <persName xml:lang="de">Manefa</persName>
           </person>
           <person xml:id="krutickij" sex="MALE">
             <persName>Крутицкий</persName>
-            <persName xml:lang="de">oo</persName>
+            <persName xml:lang="de">Krutizkij</persName>
           </person>
-          <person xml:id="mamaeva" sex="MALE">
+          <person xml:id="mamaeva" sex="FEMALE">
             <persName>Мамаева</persName>
             <persName xml:lang="de">Mamajewa</persName>
           </person>
@@ -93,7 +93,7 @@
             <persName>Машенька</persName>
             <persName xml:lang="de">Maschenka</persName>
           </person>
-          <person xml:id="turusina" sex="MALE">
+          <person xml:id="turusina" sex="FEMALE">
             <persName>Турусина</persName>
             <persName xml:lang="de">Turussina</persName>
           </person>
@@ -101,11 +101,11 @@
             <persName>Григорий</persName>
             <persName xml:lang="de">Grigorij</persName>
           </person>
-          <person xml:id="pervaja_prizhivalka" sex="MALE">
+          <person xml:id="pervaja_prizhivalka" sex="FEMALE">
             <persName>1-я приживалка</persName>
             <persName xml:lang="de">Erste Alte</persName>
           </person>
-          <person xml:id="vtoraja_prizhivalka" sex="MALE">
+          <person xml:id="vtoraja_prizhivalka" sex="FEMALE">
             <persName>2-я приживалка</persName>
             <persName xml:lang="de">Zweite Alte</persName>
           </person>
