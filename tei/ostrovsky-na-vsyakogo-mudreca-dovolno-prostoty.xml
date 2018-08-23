@@ -65,9 +65,9 @@
             <persName>Голутвин</persName>
             <persName xml:lang="de">Golutwin</persName>
           </person>
-          <person xml:id="chelovek" sex="MALE">
-            <persName>Человек</persName>
-            <persName xml:lang="de">Diener</persName>
+          <person xml:id="chelovek_mamaeva" sex="MALE">
+            <persName>Человек Мамаева</persName>
+            <persName xml:lang="de">Diener bei Mamajews</persName>
           </person>
           <person xml:id="mamaev" sex="MALE">
             <persName>Мамаев</persName>
@@ -109,6 +109,10 @@
             <persName>2-я приживалка</persName>
             <persName xml:lang="de">Zweite Alte</persName>
           </person>
+          <person xml:id="chelovek_krutickogo" sex="MALE">
+            <persName>Человек Крутицкого</persName>
+            <persName xml:lang="de">Krutizkijs Diener</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -120,6 +124,7 @@
     <revisionDesc>
       <listChange>
         <change who="#ff" when="2018-08-18">convert from source</change>
+        <change who="#ff" when="2018-08-23">different IDs for all servants</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -567,7 +572,7 @@
               квартиры, вот на эту удочку мы его и поймали.</p>
           </sp>
           <stage>Входит человек Мамаева.</stage>
-          <sp who="#chelovek">
+          <sp who="#chelovek_mamaeva">
             <speaker>Человек.</speaker>
             <p>Я привез Нила Федосеича.</p>
           </sp>
@@ -575,7 +580,7 @@
             <speaker>Глумов.</speaker>
             <p>И прекрасно. Получай! <stage>(Дает ему ассигнацию.)</stage> Веди его сюда.</p>
           </sp>
-          <sp who="#chelovek">
+          <sp who="#chelovek_mamaeva">
             <speaker>Человек.</speaker>
             <p>Да, пожалуй, они рассердятся: я сказал, что квартира хорошая.</p>
           </sp>
@@ -615,7 +620,7 @@
             <stage>(садится).</stage>
             <p>Благодарю. Куда ты меня завел? я тебя спрашиваю!</p>
           </sp>
-          <sp who="#chelovek">
+          <sp who="#chelovek_mamaeva">
             <speaker>Человек.</speaker>
             <p>Виноват-с!</p>
           </sp>
@@ -625,7 +630,7 @@
               статский советник, что жена моя, а твоя барыня, любит жить открыто. Нужна гостиная, да
               не одна. Где гостиная? я тебя спрашиваю.</p>
           </sp>
-          <sp who="#chelovek">
+          <sp who="#chelovek_mamaeva">
             <speaker>Человек.</speaker>
             <p>Виноват-с!</p>
           </sp>
@@ -1978,7 +1983,7 @@
             <p>И к чему же бы это повело? Только лишние страдания.</p>
           </sp>
           <stage>Входит человек.</stage>
-          <sp who="#chelovek">
+          <sp who="#chelovek_mamaeva">
             <speaker>Человек.</speaker>
             <p>Иван Иваныч Городулин-с.</p>
           </sp>
@@ -3831,7 +3836,7 @@
               <speaker>Глумов.</speaker>
               <p>Доложи!</p>
             </sp>
-            <sp who="#chelovek">
+            <sp who="#chelovek_krutickogo">
               <speaker>Человек</speaker>
               <stage>(заглядывая в дверь кабинета).</stage>
               <p>Сейчас выдут-с!</p>
@@ -4289,7 +4294,7 @@
                 грубость.</p>
             </sp>
             <stage>Входит человек.</stage>
-            <sp who="#chelovek">
+            <sp who="#chelovek_krutickogo">
               <speaker>Человек.</speaker>
               <p>Госпожа Мамаева! Они в гостиной-с. Я докладывал, что ее превосходительства дома
                 нет-с.</p>
