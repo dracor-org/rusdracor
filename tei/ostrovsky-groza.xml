@@ -43,72 +43,119 @@
         <listPerson>
           <person xml:id="kuligin" sex="MALE">
             <persName>Кулигин</persName>
+            <persName xml:lang="de">Kuligin</persName>
           </person>
           <person xml:id="kudrjash" sex="MALE">
             <persName>Кудряш</persName>
+            <persName xml:lang="de">Kudrjasch</persName>
           </person>
           <person xml:id="shapkin" sex="MALE">
             <persName>Шапкин</persName>
+            <persName xml:lang="de">Schapkin</persName>
           </person>
           <person xml:id="dikoj" sex="MALE">
             <persName>Дикой</persName>
+            <persName xml:lang="de">Dikoi</persName>
           </person>
           <person xml:id="boris" sex="MALE">
             <persName>Борис</persName>
+            <persName xml:lang="de">Boris</persName>
           </person>
           <person xml:id="feklusha" sex="FEMALE">
             <persName>Феклуша</persName>
+            <persName xml:lang="de">Fekluscha</persName>
           </person>
           <person xml:id="kabanova" sex="FEMALE">
             <persName>Кабанова</persName>
+            <persName xml:lang="de">Kabanowa</persName>
           </person>
           <person xml:id="kabanov" sex="MALE">
             <persName>Кабанов</persName>
+            <persName xml:lang="de">Kabanow</persName>
           </person>
           <person xml:id="varvara" sex="FEMALE">
             <persName>Варвара</persName>
+            <persName xml:lang="de">Warwara</persName>
           </person>
           <person xml:id="katerina" sex="FEMALE">
             <persName>Катерина</persName>
+            <persName xml:lang="de">Katerina</persName>
           </person>
           <person xml:id="barynja" sex="FEMALE">
             <persName>Барыня</persName>
+            <persName xml:lang="de">Die Dame</persName>
           </person>
           <person xml:id="glasha" sex="FEMALE">
             <persName>Глаша</persName>
+            <persName xml:lang="de">Glascha</persName>
           </person>
-          <person xml:id="pervyj_dejstvije_4" sex="MALE">
-            <persName>1-й (IV)</persName>
+          <person xml:id="pervyj_dejstvije_4a" sex="MALE">
+            <persName>1-й (IV/1–2)</persName>
+            <persName xml:lang="de">Der Erste (IV/1–2)</persName>
           </person>
-          <person xml:id="vtoroj_dejstvije_4" sex="MALE">
-            <persName>2-й (IV)</persName>
+          <person xml:id="vtoroj_dejstvije_4a" sex="MALE">
+            <persName>2-й (IV/1)</persName>
+            <persName xml:lang="de">Der Zweite (IV/1)</persName>
           </person>
-          <person xml:id="zhenschina" sex="FEMALE">
-            <persName>Женщина (IV)</persName>
+          <person xml:id="zhenschina_4a" sex="FEMALE">
+            <persName>Женщина (IV/1)</persName>
+            <persName xml:lang="de">Eine Frau (IV/1)</persName>
           </person>
-          <person xml:id="odin_iz_naroda" sex="MALE">
-            <persName>Один из народа (V)</persName>
+          <person xml:id="pervyj_dejstvije_4b" sex="MALE">
+            <persName>1-й (IV/4)</persName>
+            <persName xml:lang="de">Der Erste (IV/4)</persName>
+          </person>
+          <person xml:id="zhenschina_4b" sex="FEMALE">
+            <persName>Женщина (IV/4)</persName>
+            <persName xml:lang="de">Eine Frau (IV/4)</persName>
+          </person>
+          <person xml:id="zhenschina_4c" sex="FEMALE">
+            <persName>Женщина (IV/5)</persName>
+            <persName xml:lang="de">Eine Frau (IV/5)</persName>
+          </person>
+          <person xml:id="pervyj_dejstvije_4c" sex="MALE">
+            <persName>1-й (IV/5)</persName>
+            <persName xml:lang="de">Der Erste (IV/5)</persName>
+          </person>
+          <person xml:id="vtoroj_dejstvije_4b" sex="MALE">
+            <persName>2-й (IV/5)</persName>
+            <persName xml:lang="de">Der Zweite (IV/5)</persName>
+          </person>
+          <person xml:id="odin_iz_naroda_5a" sex="MALE">
+            <persName>Один из народа (V/5)</persName>
+            <persName xml:lang="de">Einer (V/5)</persName>
           </person>
           <personGrp xml:id="neskolko_golosov" sex="UNKNOWN">
-            <name>Несколько голосов (V)</name>
+            <name>Несколько голосов</name>
+            <persName xml:lang="de">Einige Stimmen</persName>
           </personGrp>
+          <person xml:id="odin_iz_naroda_5b" sex="MALE">
+            <persName>Один из народа (V/5)</persName>
+            <persName xml:lang="de">Einer (V/5)</persName>
+          </person>
           <person xml:id="drugoj" sex="MALE">
-            <persName>Другой из народа (V)</persName>
+            <persName>Другой из народа (V/5)</persName>
+            <persName xml:lang="de">Ein Anderer (V/5)</persName>
           </person>
           <person xml:id="tretij" sex="MALE">
-            <persName>Третий (V)</persName>
+            <persName>Третий (V/5)</persName>
+            <persName xml:lang="de">Ein Dritter (V/5)</persName>
           </person>
           <person xml:id="pervyj_dejstvije_5" sex="MALE">
-            <persName>1-й</persName>
+            <persName>1-й (V/6)</persName>
+            <persName xml:lang="de">Einer (V/6)</persName>
           </person>
           <person xml:id="vtoroj_dejstvije_5" sex="MALE">
-            <persName>2-й</persName>
+            <persName>2-й (V/6)</persName>
+            <persName xml:lang="de">Ein Anderer (V/6)</persName>
           </person>
           <person xml:id="odin_iz_vozvrativshihsja" sex="MALE">
-            <persName>Один из возвратившихся (V)</persName>
+            <persName>Один из возвратившихся (V/6)</persName>
+            <persName xml:lang="de">Einer der Zurückkehrenden (V/6)</persName>
           </person>
           <person xml:id="drugoj_iz_vozvrativshihsja" sex="MALE">
-            <persName>Другой из возвратившихся (V)</persName>
+            <persName>Другой из возвратившихся (V/6)</persName>
+            <persName xml:lang="de">Ein Anderer (V/6)</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -130,6 +177,8 @@
           formalities</change>
         <change who="#zh" when="2018-04-07">group tag</change>
         <change who="#ff" when="2018-06-10">lowercase IDs</change>
+        <change who="#ff" when="2018-08-25">work on IDs (telling apart different voices in acts 4
+          and 5)</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -1925,7 +1974,7 @@
             <stage>(поднимая ее).</stage>
             <p>Что ты! Что ты! Какой грех-то! Я и слушать не хочу!</p>
           </sp>
-          <stage>Голос Кабановой : «Пора, Тихон!» Входят Кабанова, Варвара и Глаша.</stage>
+          <stage>Голос Кабановой: «Пора, Тихон!» Входят Кабанова, Варвара и Глаша.</stage>
         </div>
         <div type="scene">
           <head>Явление пятое</head>
@@ -3140,103 +3189,103 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Несколько гуляющих обоего пола проходят за арками.</stage>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Дождь накрапывает, как бы гроза не собралась?</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>Гляди, сберется.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Еще хорошо, что есть где схорониться.</p>
           </sp>
           <stage>Входят все под своды.</stage>
-          <sp who="#zhenschina">
+          <sp who="#zhenschina_4a">
             <speaker>Женщина.</speaker>
             <p>А что народу-то гуляет на бульваре! День праздничный, все повышли. Купчихи такие
               разряженные.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Попрячутся куда-нибудь.</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>Гляди, что теперь народу сюда набьется!</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й</speaker>
             <stage>(осматривая стены).</stage>
             <p>А ведь тут, братец ты мой, когда-нибудь, значит, расписано было. И теперь еще местами
               означает.</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>Ну да, как же! Само собой, что расписано было. Теперь, ишь ты, все впусте оставлено,
               развалилось, заросло. После пожару так и не поправляли. Да ты и пожару-то этого не
               помнишь, этому лет сорок будет.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Что бы это такое, братец ты мой, тут нарисовано было; довольно затруднительно это
               понимать.</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>Это геенна огненная.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Так, братец ты мой!</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>И едут туда всякого звания люди.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Так, так, понял теперь.</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>И всякого чину.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>И арапы?</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>И арапы.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>А это, братец ты мой, что такое?</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>А это Литовское разорение. Битва! видишь? Как наши с Литвой бились.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Что ж это такое Литва?</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>Так она Литва и есть.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>А говорят, братец ты мой, она на нас с неба упала.</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4a">
             <speaker>2-й.</speaker>
             <p>Не умею тебе сказать. С неба так с неба. Женщина. Толкуй еще! Все знают, что с неба;
               и где был какой бой с ней, там для памяти курганы насыпаны.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>А что, братец ты мой! Ведь это так точно.</p>
           </sp>
@@ -3409,7 +3458,7 @@
             <stage>(Сердито.)</stage>
             <p>Перестал, что ль, дождик-то?</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p>Кажется, перестал.</p>
           </sp>
@@ -3417,7 +3466,7 @@
             <speaker>Дикой.</speaker>
             <p>Кажется! А ты, дурак, сходи да посмотри. А то: кажется!</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4a">
             <speaker>1-й.</speaker>
             <p/>
             <stage>(выйдя из-под сводов).</stage>
@@ -3527,11 +3576,11 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Разные лица и потом Кабанова, Кабанов, Катерина и Кулигин.</stage>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4b">
             <speaker>1-й.</speaker>
             <p>Должно быть, бабочка-то очень боится, что так торопится спрятаться.</p>
           </sp>
-          <sp who="#zhenschina">
+          <sp who="#zhenschina_4b">
             <speaker>Женщина.</speaker>
             <p>Да уж как ни прячься! Коли кому на роду написано, так никуда не уйдешь.</p>
           </sp>
@@ -3649,16 +3698,16 @@
               какие-то учители появились. Коли старик так рассуждает, чего уж от молодых-то
               требовать!</p>
           </sp>
-          <sp who="#zhenschina">
+          <sp who="#zhenschina_4c">
             <speaker>Женщина.</speaker>
             <p>Ну, все небо обложило. Ровно шапкой, так и накрыло.</p>
           </sp>
-          <sp who="#pervyj_dejstvije_4">
+          <sp who="#pervyj_dejstvije_4c">
             <speaker>1-й.</speaker>
             <p>Эко, братец ты мой, точно клубком туча-то вьется, ровно что в ней там живое
               ворочается. А так на нас и ползет, так и ползет, как живая!</p>
           </sp>
-          <sp who="#vtoroj_dejstvije_4">
+          <sp who="#vtoroj_dejstvije_4b">
             <speaker>2-й.</speaker>
             <p>Уж ты помяни мое слово, что эта гроза даром не пройдет. Верно тебе говорю: потому
               знаю. Либо уж убьет кого-нибудь, либо дом сгорит; вот увидишь: потому, смотри! какой
@@ -4246,7 +4295,7 @@
             </p>
           </sp>
           <stage>С разных сторон собирается народ с фонарями.</stage>
-          <sp who="#odin_iz_naroda">
+          <sp who="#odin_iz_naroda_5a">
             <speaker>Один из народа.</speaker>
             <p>Что, нашли?</p>
           </sp>
@@ -4258,7 +4307,7 @@
             <speaker>Несколько голосов.</speaker>
             <p>Эка притча! Вот оказия-то! И куда б ей деться!</p>
           </sp>
-          <sp who="#odin_iz_naroda">
+          <sp who="#odin_iz_naroda_5b">
             <speaker>Один из народа.</speaker>
             <p>Да найдется!</p>
           </sp>
@@ -4276,7 +4325,7 @@
             <stage>(с берега).</stage>
             <p>Кто кричит? Что там?</p>
           </sp>
-          <stage>Голос : «Женщина в воду бросилась!» Кулигин и за ним несколько человек
+          <stage>Голос: «Женщина в воду бросилась!» Кулигин и за ним несколько человек
             убегают.</stage>
         </div>
         <div type="scene">
