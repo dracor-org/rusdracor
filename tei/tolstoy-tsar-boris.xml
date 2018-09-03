@@ -20,6 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
+      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q7849392</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1448,7 +1449,7 @@
           </sp>
           <sp who="#boris_godunov">
             <speaker>Борис</speaker>
-            <l>>Входите, Божьи люди! Вы ж, бояре,</l>
+            <l>&gt;Входите, Божьи люди! Вы ж, бояре,</l>
             <l>Ведите всех к почестному столу!</l>
             <stage>Сходя с престола.</stage>
             <l>Царица и царевна,— ты, Феодор,—</l>
