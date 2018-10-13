@@ -24,8 +24,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Wikisource</name>
-          <idno type="URL">https://ru.wikisource.org/wiki/Балаганчик_(Блок)</idno>
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/b/blok_a_a/text_0100.shtml</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>
@@ -33,7 +33,8 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title/>
+            <title>Александр Блок. Собрание сочинений в шести томах. Том четвертый. Драматические
+              произведения. М., "Правда", 1971</title>
             <date type="print" when="1906">апрель 1906, альманах "Факелы" (Библиотека всемирной
               литературы. Т. 138. М., 1968) </date>
             <date type="premiere" when="1906">30 декабря 1906, Драматический театр В. Ф.
@@ -47,67 +48,67 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="PervyjMistik" sex="MALE">
+          <person xml:id="pervyj_mistik" sex="MALE">
             <persName>Первый мистик</persName>
             <persName xml:lang="de">Erster Mystiker</persName>
           </person>
-          <person xml:id="VtorojMistik" sex="MALE">
+          <person xml:id="vtoroj_mistik" sex="MALE">
             <persName>Второй мистик</persName>
             <persName xml:lang="de">Zweiter Mystiker</persName>
           </person>
-          <person xml:id="TretijMistik" sex="MALE">
+          <person xml:id="tretij_mistik" sex="MALE">
             <persName>Третий мистик</persName>
             <persName xml:lang="de">Dritter Mystiker</persName>
           </person>
-          <person xml:id="Pero" sex="MALE">
+          <person xml:id="pero" sex="MALE">
             <persName>Пьеро</persName>
             <persName xml:lang="de">Pierrot</persName>
           </person>
-          <person xml:id="Avtor" sex="MALE">
+          <person xml:id="avtor" sex="MALE">
             <persName>Автор</persName>
             <persName xml:lang="de">Autor</persName>
           </person>
-          <person xml:id="Predsedatel" sex="MALE">
+          <person xml:id="predsedatel" sex="MALE">
             <persName>Председатель</persName>
             <persName xml:lang="de">Vorsitzender</persName>
           </person>
-          <person xml:id="Kolombina" sex="FEMALE">
+          <person xml:id="kolombina" sex="FEMALE">
             <persName>Коломбина</persName>
             <persName xml:lang="de">Columbine</persName>
           </person>
-          <person xml:id="Arlekin" sex="MALE">
+          <person xml:id="arlekin" sex="MALE">
             <persName>Арлекин</persName>
             <persName xml:lang="de">Harlekin</persName>
           </person>
-          <person xml:id="Ona_1" sex="FEMALE">
+          <person xml:id="ona_1" sex="FEMALE">
             <persName>Она</persName>
             <persName xml:lang="de">Sie</persName>
           </person>
-          <person xml:id="On_1" sex="MALE">
+          <person xml:id="on_1" sex="MALE">
             <persName>Он</persName>
             <persName xml:lang="de">Er</persName>
           </person>
-          <person xml:id="On_2" sex="MALE">
+          <person xml:id="on_2" sex="MALE">
             <persName>Он</persName>
             <persName xml:lang="de">Er</persName>
           </person>
-          <person xml:id="Ona_2" sex="FEMALE">
+          <person xml:id="ona_2" sex="FEMALE">
             <persName>Она</persName>
             <persName xml:lang="de">Sie</persName>
           </person>
-          <person xml:id="On_3" sex="MALE">
+          <person xml:id="on_3" sex="MALE">
             <persName>Он</persName>
             <persName xml:lang="de">Er</persName>
           </person>
-          <person xml:id="Ona_3" sex="FEMALE">
+          <person xml:id="ona_3" sex="FEMALE">
             <persName>Она</persName>
             <persName xml:lang="de">Sie</persName>
           </person>
-          <person xml:id="Pajats" sex="MALE">
+          <person xml:id="pajats" sex="MALE">
             <persName>Паяц</persName>
             <persName xml:lang="de">Bajazzo</persName>
           </person>
-          <personGrp xml:id="Hor" sex="UNKNOWN">
+          <personGrp xml:id="hor" sex="UNKNOWN">
             <name>Хор</name>
             <name xml:lang="de">Chor</name>
           </personGrp>
@@ -132,6 +133,8 @@
           sorted 'particDesc'; less strict segmentation (only three segments now: 1. conversation
           with the mystics; 2. the ball; 3. the end)</change>
         <change who="#zh" when="2018-04-07">group tag</change>
+        <change who="#ff" when="2018-10-14">lowercase IDs; verify with primary source
+          lib.ru</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -163,36 +166,36 @@
           модных платьях. Несколько поодаль, у окна сидит Пьеро в белом балахоне, мечтательный,
           расстроенный, бледный, безусый и безбровый, как все Пьеро.</stage>
         <stage>Мистики некоторое время молчат.</stage>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="I">Ты слушаешь?</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="M">Да.</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l part="F">Наступит событие.</l>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <l>О, вечный ужас, вечный мрак!</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="I">Ты ждешь?</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="M">Я жду.</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l part="F">Уж близко прибытие:</l>
           <l>За окном нам ветер подал знак.</l>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <l>Неверная! Где ты? Сквозь улицы сонные</l>
           <l>Протянулась длинная цепь фонарей,</l>
@@ -209,113 +212,113 @@
           <stage>Пьеро размечтался и оживился. Но из-за занавеса сбоку вылезает обеспокоенный
             автор.</stage>
         </sp>
-        <sp who="#Avtor">
+        <sp who="#avtor">
           <speaker>Автор</speaker>
           <p>Что он говорит? Почтеннейшая публика! Спешу уверить, что этот актер жестоко насмеялся
             над моими авторскими правами. Действие происходит зимой в Петербурге. Откуда же он взял
-            окно и гитару? Я писал мою драму не для балагана… Уверяю вас…</p>
+            окно и гитару? Я писал мою драму не для балагана... Уверяю вас...</p>
           <stage>Внезапно застыдившись своего неожиданного появления, прячется обратно за
             занавес.</stage>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <stage>(Он не обратил внимания на автора. Сидит и мечтательно вздыхает)</stage>
           <l part="I">Коломбина!</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="M">Ты слушаешь?</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="F">Да.</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l>Приближается дева из дальней страны.</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="I">О, как мрамор — черты!</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="F">О, в очах — пустота!</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l>О, какой чистоты и какой белизны!</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l>Подойдет — и мгновенно замрут голоса.</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="I">Да. Молчанье наступит.</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l part="M">Надолго ли?</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="F">Да.</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="I">Вся бела, как снега.</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l part="F">За плечами — коса.</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="I">Кто ж она?</l>
           <stage>Второй наклоняется и что-то шепчет на ухо первому.</stage>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="M">Ты не выдашь меня?</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <stage>(в неподдельном ужасе)</stage>
           <l part="F">Никогда!</l>
           <stage>Автор опять испуганно высовывается, но быстро исчезает, как будто его оттянул
             кто-то за фалды.</stage>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <stage>(по-прежнему, мечтательно)</stage>
           <l part="I">Коломбина! Приди!</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="F">Тише! Слышишь шаги!</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="I">Слышу шелест и вздохи.</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l part="F">О, кто среди нас?</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l part="I">Кто в окне?</l>
         </sp>
-        <sp who="#VtorojMistik">
+        <sp who="#vtoroj_mistik">
           <speaker>Второй мистик</speaker>
           <l part="M">Кто за дверью?</l>
         </sp>
-        <sp who="#TretijMistik">
+        <sp who="#tretij_mistik">
           <speaker>Третий мистик</speaker>
           <l part="F">Не видно ни зги.</l>
         </sp>
-        <sp who="#PervyjMistik">
+        <sp who="#pervyj_mistik">
           <speaker>Первый мистик</speaker>
           <l>Посвети. Не она ли пришла в этот час?</l>
         </sp>
@@ -326,7 +329,7 @@
           его. Все для него — неизреченно. Мистики в ужасе откинулись на спинки стульев. У одного
           беспомощно болтается нога. Другой производит странные движения рукой. Третий выкатил
           глаза. Через некоторое время очнувшись, громко шепчут:</stage>
-        <sp who="#PervyjMistik #VtorojMistik #TretijMistik">
+        <sp who="#pervyj_mistik #vtoroj_mistik #tretij_mistik">
           <l>— Прибыла!</l>
           <l>— Как бела ее одежда!</l>
           <l>— Пустота в глазах ее!</l>
@@ -337,24 +340,24 @@
         <stage>Пьеро услыхал. Медленно поднявшись, он подходит к девушке, берет ее за руку и выводит
           на средину сцены. Он говорит голосом звонким и радостным, как первый удар
           колокола.</stage>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <p>Господа! Вы ошибаетесь! Это — Коломбина! Это — моя невеста!</p>
           <stage>Общий ужас. Руки всплеснулись. Фалды сюртуков раскачиваются. Председатель собрания
             торжественно подходит к Пьеро.</stage>
         </sp>
-        <sp who="#Predsedatel">
+        <sp who="#predsedatel">
           <speaker>Председатель</speaker>
           <p>Вы с ума сошли. Весь вечер мы ждали событий. Мы дождались. Она пришла к нам — тихая
             избавительница. Нас посетила смерть.</p>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
-          <stage>звонким, детским голосом</stage>
+          <stage>(звонким, детским голосом)</stage>
           <p>Я не слушаю сказок. Я — простой человек. Вы не обманете меня. Это — Коломбина. Это —
             моя невеста.</p>
         </sp>
-        <sp who="#Predsedatel">
+        <sp who="#predsedatel">
           <speaker>Председатель</speaker>
           <p>Господа! Наш бедный друг сошел с ума от страха. Он никогда не думал о том, к чему мы
             готовились всю жизнь. Он не измерил глубин и не приготовился встретить покорно Бледную
@@ -364,25 +367,25 @@
             бела, как снега на вершинах! Очи ее отражают зеркальную пустоту. Неужели ты не видишь
             косы за плечами? Ты не узнаешь смерти?</p>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
-          <stage>по бледному лицу бродит растерянная улыбка</stage>
+          <stage>(по бледному лицу бродит растерянная улыбка)</stage>
           <p>Я ухожу. Или вы правы, и я — несчастный сумасшедший. Или вы сошли с ума — и я одинокий,
             непонятый вздыхатель. Носи меня, вьюга, по улицам! О, вечный ужас! Вечный мрак!</p>
         </sp>
-        <sp who="#Kolombina">
+        <sp who="#kolombina">
           <speaker>Коломбина</speaker>
-          <stage>идет к выходу вслед за Пьеро</stage>
+          <stage>(идет к выходу вслед за Пьеро)</stage>
           <p>Я не оставлю тебя.</p>
           <stage>Пьеро остановился, растерян. Председатель умоляюще складывает руки.</stage>
         </sp>
-        <sp who="#Predsedatel">
+        <sp who="#predsedatel">
           <speaker>Председатель</speaker>
           <p>Легкий призрак! Мы всю жизнь ждали тебя! Не покидай нас!</p>
           <stage>Появляется стройный юноша в платье Арлекина. На нем серебристыми голосами поют
             бубенцы.</stage>
         </sp>
-        <sp who="#Arlekin">
+        <sp who="#arlekin">
           <speaker>Арлекин</speaker>
           <stage>(подходит к Коломбине)</stage>
           <l>Жду тебя на распятьях, подруга,</l>
@@ -396,7 +399,7 @@
             пустые сюртуки. Вдруг Пьеро вскочил и убежал. Занавес сдвигается. В ту же минуту на
             подмостки перед занавесом выскакивает взъерошенный и взволнованный автор.</stage>
         </sp>
-        <sp who="#Avtor">
+        <sp who="#avtor">
           <speaker>Автор</speaker>
           <p>Милостивые государи и государыни! Я глубоко извиняюсь перед вами, но снимаю с себя
             всякую ответственность! Надо мной издеваются! Я писал реальнейшую пьесу, сущность
@@ -406,7 +409,7 @@
             Они без моего ведома разыгрывают какую-то старую легенду! Я не признаю никаких легенд,
             никаких мифов и прочих пошлостей! Тем более — аллегорической игры словами: неприлично
             называть косой смерти женскую косу! Это порочит дамское сословие! Милостивые
-            государи…</p>
+            государи...</p>
           <stage>Высунувшаяся из-за занавеса рука хватает автора за шиворот. Он с криком исчезает за
             кулисой. Занавес быстро раздергивается.</stage>
         </sp>
@@ -415,7 +418,7 @@
         <stage>Бал. Маски кружатся под тихие звуки танца. Среди них прогуливаются другие маски,
           рыцари, дамы, паяцы. Грустный Пьеро сидит среди сцены на той скамье, где обыкновенно
           целуются Венера и Тангейзер.</stage>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <lg>
             <l>Я стоял меж двумя фонарями</l>
@@ -461,13 +464,13 @@
           </lg>
           <lg>
             <l>И всю ночь по улицам снежным</l>
-            <l>Мы брели — Арлекин и Пьеро…</l>
+            <l>Мы брели — Арлекин и Пьеро...</l>
             <l>Он прижался ко мне так нежно,</l>
             <l>Щекотало мне нос перо!</l>
           </lg>
           <lg>
             <l>Он шептал мне: «Брат мой, мы вместе,</l>
-            <l>Неразлучны на много дней…</l>
+            <l>Неразлучны на много дней...</l>
             <l>Погрустим с тобой о невесте,</l>
             <l>О картонной невесте твоей!»</l>
           </lg>
@@ -475,41 +478,41 @@
         <stage>Пьеро грустно удаляется. Через некоторое время на той же скамье обнаруживается пара
           влюбленных. Он в голубом, она в розовом, маски — цвета одежд. Они вообразили себя в церкви
           и смотрят вверх, в купола.</stage>
-        <sp who="#Ona_1">
+        <sp who="#ona_1">
           <speaker>Она</speaker>
-          <l>Милый, ты шепчешь — «склонись…»</l>
+          <l>Милый, ты шепчешь — «склонись...»</l>
           <l>Я, лицом опрокинута, в купол смотрю.</l>
         </sp>
-        <sp who="#On_1">
+        <sp who="#on_1">
           <speaker>Он</speaker>
           <l>Я смотрю в непомерную высь —</l>
           <l>Там, где купол вечернюю принял зарю.</l>
         </sp>
-        <sp who="#Ona_1">
+        <sp who="#ona_1">
           <speaker>Она</speaker>
           <l>Как вверху позолота ветха.</l>
           <l>Как мерцают вверху образа.</l>
         </sp>
-        <sp who="#On_1">
+        <sp who="#on_1">
           <speaker>Он</speaker>
           <l>Наша сонная повесть тиха.</l>
           <l>Ты безгрешно закрыла глаза.</l>
           <stage>Поцелуй.</stage>
         </sp>
-        <sp who="#Ona_1">
+        <sp who="#ona_1">
           <speaker>Она</speaker>
-          <l>…Кто-то темный стоит у колонны</l>
+          <l>...Кто-то темный стоит у колонны</l>
           <l>И мигает лукавым зрачком!</l>
           <l>Я боюсь тебя, влюбленный!</l>
           <l>Дай закрыться твоим плащом!</l>
           <stage>Молчание.</stage>
         </sp>
-        <sp who="#On_1">
+        <sp who="#on_1">
           <speaker>Он</speaker>
           <l>Посмотри, как тихи свечи,</l>
           <l>Как заря в куполах занялась.</l>
         </sp>
-        <sp who="#Ona_1">
+        <sp who="#ona_1">
           <speaker>Она</speaker>
           <l>Да. С тобою сладки нам встречи.</l>
           <l>Пусть я сама тебе предалась.</l>
@@ -519,49 +522,49 @@
             Движения стремительны. Он гонится за ней, то настигая, то обгоняя ее. Вихрь
             плащей.</stage>
         </sp>
-        <sp who="#On_2">
+        <sp who="#on_2">
           <speaker>Он</speaker>
           <l>Оставь меня! Не мучь, не преследуй!</l>
           <l>Участи темной мне не пророчь!</l>
           <l>Ты торжествуешь свою победу!</l>
           <l>Снимешь ли маску? Канешь ли в ночь?</l>
         </sp>
-        <sp who="#Ona_2">
+        <sp who="#ona_2">
           <speaker>Она</speaker>
           <l>Иди за мной! Настигни меня!</l>
           <l>Я страстней и грустней невесты твоей!</l>
           <l>Гибкой рукой обними меня!</l>
           <l>Кубок мой темный до дна испей!</l>
         </sp>
-        <sp who="#On_2">
+        <sp who="#on_2">
           <speaker>Он</speaker>
           <l>Я клялся в страстной любви — другой!</l>
           <l>Ты мне сверкнула огненным взглядом,</l>
           <l>Ты завела в переулок глухой,</l>
           <l>Ты отравила смертельным ядом!</l>
         </sp>
-        <sp who="#Ona_2">
+        <sp who="#ona_2">
           <speaker>Она</speaker>
           <l>Не я манила,- плащ мой летел</l>
           <l>Вихрем за мной — мой огненный друг!</l>
           <l>Ты сам вступить захотел</l>
           <l>В мой очарованный круг!</l>
         </sp>
-        <sp who="#On_2">
+        <sp who="#on_2">
           <speaker>Он</speaker>
           <l>Смотри, колдунья! Я маску сниму!</l>
           <l>И ты узнаешь, что я безлик!</l>
           <l>Ты смела мне черты, завела во тьму,</l>
           <l>Где кивал, кивал мне — черный двойник!</l>
         </sp>
-        <sp who="#Ona_2">
+        <sp who="#ona_2">
           <speaker>Она</speaker>
           <l>Я — вольная дева! Путь мой — к победам!</l>
           <l>Иди за мной, куда я веду!</l>
           <l>О, ты пойдешь за огненным следом</l>
           <l>И будешь со мной в бреду!</l>
         </sp>
-        <sp who="#On_2">
+        <sp who="#on_2">
           <speaker>Он</speaker>
           <l>Иду, покорен участи строгой,</l>
           <l>О, вейся, плащ, огневой проводник!</l>
@@ -574,62 +577,62 @@
             большой и задумчивый, в картонном шлеме,- чертит перед ней на полу круг огромным
             деревянным мечом.</stage>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
           <p>Вы понимаете пьесу, в которой мы играем не последнюю роль?</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
-          <stage>как тихое и внятное эхо</stage>
+          <stage>(как тихое и внятное эхо)</stage>
           <p>Роль.</p>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
           <p>Вы знаете, что маски сделали нашу сегодняшнюю встречу чудесной?</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
           <p>Чудесной.</p>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
           <p>Так вы верите мне? О, сегодня вы прекрасней, чем всегда.</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
           <p>Всегда.</p>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
           <p>Вы знаете все, что было и что будет. Вы поняли значение начертанного здесь круга.</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
           <p>Круга.</p>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
           <p>О, как пленительны ваши речи! Разгадчица души моей! Как много ваши слова говорят моему
             сердцу!</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
           <p>Сердцу.</p>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
           <p>О, Вечное Счастье! Вечное Счастье!</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
           <p>Счастье.</p>
         </sp>
-        <sp who="#On_3">
+        <sp who="#on_3">
           <speaker>Он</speaker>
-          <stage>со вздохом облегчения и торжества</stage>
+          <stage>(со вздохом облегчения и торжества)</stage>
           <p>Близок день. На исходе — эта зловещая ночь.</p>
         </sp>
-        <sp who="#Ona_3">
+        <sp who="#ona_3">
           <speaker>Она</speaker>
           <p>Ночь.</p>
           <stage>В эту минуту одному из паяцов пришло в голову выкинуть штуку Он подбегает к
@@ -637,14 +640,14 @@
             тяжким деревянным мечом. Паяц перегнулся через рампу и повис. Из головы его брыжжет
             струя клюквенного сока.</stage>
         </sp>
-        <sp who="#Pajats">
+        <sp who="#pajats">
           <speaker>Паяц</speaker>
-          <stage>пронзительно кричит</stage>
+          <stage>(пронзительно кричит)</stage>
           <p>Помогите! Истекаю клюквенным соком!</p>
           <stage>Поболтавшись, удаляется. Шум. Суматоха. Веселые крики: «Факелы! Факелы! Факельное
             шествие!» Появляется хор с факелами. Маски толпятся, смеются прыгают.</stage>
         </sp>
-        <sp who="#Hor">
+        <sp who="#hor">
           <speaker>Хор</speaker>
           <l>В сумрак — за каплей капля смолы</l>
           <l>Падает с легким треском!</l>
@@ -656,7 +659,7 @@
           <l>Пламенный вождь!</l>
           <stage>Арлекин выступает из хора, как корифей.</stage>
         </sp>
-        <sp who="#Arlekin">
+        <sp who="#arlekin">
           <speaker>Арлекин</speaker>
           <l>По улицам сонным и снежным</l>
           <l>Я таскал глупца за собой!</l>
@@ -692,7 +695,7 @@
           зари, в нише окна, стоит с тихой улыбкой на спокойном лице красивая девушка — Коломбина. В
           ту минуту, как Пьеро подходит и хочет коснуться ее руки своей рукой,- между ним и
           Коломбиной просовывается торжествующая голова автора.</stage>
-        <sp who="#Avtor">
+        <sp who="#avtor">
           <speaker>Автор</speaker>
           <p>Почтеннейшая публика! Дело мое не проиграно! Права мои восстановлены! Вы видите, что
             преграды рухнули! Этот господин провалился в окошко! Вам остается быть свидетелями
@@ -703,7 +706,7 @@
             который беспомощно лежит на пустой сцене в белом балахоне своем с красными пуговицами.
             Заметив свое положение, автор убегает стремительно.</stage>
         </sp>
-        <sp who="#Pero">
+        <sp who="#pero">
           <speaker>Пьеро</speaker>
           <stage>(приподнимается и говорит жалобно и мечтательно)</stage>
           <l>Куда ты завел? Как угадать?</l>
@@ -721,7 +724,7 @@
           <l>Она картонной невестой была.</l>
           <l>И вот, стою я, бледен лицом,</l>
           <l>Но вам надо мной смеяться грешно.</l>
-          <l>Что делать! Она упала ничком…</l>
+          <l>Что делать! Она упала ничком...</l>
           <l>Мне очень грустно. А вам смешно?</l>
           <stage>Пьеро задумчиво вынул из кармана дудочку и заиграл песню о своем бледном лице, о
             тяжелой жизни и о невесте своей Коломбине.</stage>
