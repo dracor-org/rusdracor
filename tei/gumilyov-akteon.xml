@@ -6,7 +6,8 @@
       <titleStmt>
         <title type="main" xml:lang="ru">Актеон</title>
         <title type="main" xml:lang="en">Akteon</title>
-        <title type="sub"/>
+        <title type="sub" xml:lang="ru">–</title>
+        <title type="sub" xml:lang="en">–</title>
         <author key="Wikidata:Q311033">Гумилёв, Николай Степанович</author>
       </titleStmt>
       <publicationStmt>
@@ -19,7 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19127855</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19127855</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

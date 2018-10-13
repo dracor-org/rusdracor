@@ -6,7 +6,8 @@
       <titleStmt>
         <title xml:lang="ru">Моцарт и Сальери</title>
         <title xml:lang="en">Mozart and Salieri</title>
-        <title type="sub"/>
+        <title type="sub" xml:lang="ru">–</title>
+        <title type="sub" xml:lang="en">–</title>
         <author key="Wikidata:Q7200">Пушкин, Александр Сергеевич</author>
       </titleStmt>
       <publicationStmt>
@@ -19,7 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4305148</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4305148</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

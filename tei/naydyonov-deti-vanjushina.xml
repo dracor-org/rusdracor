@@ -20,7 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19153209</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19153209</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1925,7 +1925,8 @@
           <speaker>Алексей.</speaker>
           <p>Папаша, меня выгнали из гимназии.</p>
         </sp>
-        <sp who="#arina_ivanovna #lena #konstantin #schetkin #vanjushin #katja #klavdija #anja #ljudmila">
+        <sp
+          who="#arina_ivanovna #lena #konstantin #schetkin #vanjushin #katja #klavdija #anja #ljudmila">
           <speaker>Все.</speaker>
           <p>Что?</p>
         </sp>

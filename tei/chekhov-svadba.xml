@@ -20,7 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4409901</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4409901</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -620,7 +620,8 @@
             <speaker>Мозговой.</speaker>
             <p>Харлампий Спиридоныч, ваша очередь читать речь! Господа, пусть говорит речь!</p>
           </sp>
-          <sp who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Zmejukina">
+          <sp
+            who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Zmejukina">
             <speaker>Все</speaker>
             <stage>(Дымбе).</stage>
             <p>Речь! речь! Ваша очередь!</p>
@@ -803,7 +804,8 @@
             <p>А? Да, да... так... Это верно. Да-с... Но позвольте, что же это, однако? Селедка
               горькая... и хлеб горький. Невозможно есть!</p>
           </sp>
-          <sp who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Dymba #Zmejukina #Njunin">
+          <sp
+            who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Dymba #Zmejukina #Njunin">
             <speaker>Все.</speaker>
             <p>Горько! Горько!</p>
           </sp>

@@ -20,12 +20,13 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19215006</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19215006</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Wikisource</name>
-          <idno type="URL">https://ru.wikisource.org/wiki/Разговор_на_большой_дороге_(Тургенев)</idno>
+          <idno type="URL"
+            >https://ru.wikisource.org/wiki/Разговор_на_большой_дороге_(Тургенев)</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>

@@ -6,7 +6,8 @@
       <titleStmt>
         <title type="main" xml:lang="ru">Тамира и Селим</title>
         <title type="main" xml:lang="en">Tamira and Selim</title>
-        <title type="sub"/>
+        <title type="sub" xml:lang="ru">–</title>
+        <title type="sub" xml:lang="en">–</title>
         <author key="Wikidata:Q58720">Ломоносов, Михаил Васильевич</author>
       </titleStmt>
       <publicationStmt>
@@ -19,7 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q51375374</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q51375374</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

@@ -6,7 +6,8 @@
       <titleStmt>
         <title type="main" xml:lang="ru">Король на площади</title>
         <title type="main" xml:lang="en">The King in the Square</title>
-        <title type="sub"/>
+        <title type="sub" xml:lang="ru">–</title>
+        <title type="sub" xml:lang="en">–</title>
         <author key="Wikidata:Q164765">Блок, Александр Александрович</author>
       </titleStmt>
       <publicationStmt>
@@ -19,7 +20,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19177465</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19177465</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -32,7 +33,8 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title/>
+            <title>Александр Блок. Собрание сочинений в шести томах. Том четвертый. Драматические
+              произведения. М., "Правда", 1971</title>
             <date type="print" when="1907">в апреле 1907 напечатана в №4 московского журнала
               "Золотое Руно" (teatr-lib.ru/Library/Volkov/Blok/)</date>
             <date type="premiere"/>
