@@ -79,12 +79,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#sveta" when="2017-04-13">corrected IDs</change>
-        <change who="#GG" when="2017-06-05">gender info</change>
-        <change who="#ff" when="2017-07-04">formalities; added some missing stage
-          directions</change>
-        <change who="#ff" when="2018-04-02">lowercase IDs; formalities; add some missing stage
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-04-13">(sl) correct IDs</change>
+        <change when="2017-06-05">(gg) gender info</change>
+        <change when="2017-07-04">(ff) formalities; add some missing stage directions</change>
+        <change when="2018-04-02">(ff) lowercase IDs; formalities; add some missing stage
           directions</change>
       </listChange>
     </revisionDesc>

@@ -122,19 +122,16 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
-        <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#sveta" when="2017-04-14">corrected IDs, added print and premiere
-          dates</change>
-        <change who="#sveta" when="2017-05-25">added segmentation, added sources for the
-          dates</change>
-        <change who="#ff" when="2017-06-17">no genre info "Драма" in original play</change>
-        <change who="#ff" when="2017-07-08">connected lines via 'part' attribute; alphabetically
-          sorted 'particDesc'; less strict segmentation (only three segments now: 1. conversation
-          with the mystics; 2. the ball; 3. the end)</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
-        <change who="#ff" when="2018-10-14">lowercase IDs; verify with primary source
-          lib.ru</change>
+        <change when="2017-04-13">(ip) convert from source</change>
+        <change when="2017-04-14">(ff) establish well-formedness</change>
+        <change when="2017-04-14">(sl) correct IDs, added print and premiere dates</change>
+        <change when="2017-05-25">(sl) add segmentation, added sources for the dates</change>
+        <change when="2017-06-17">(ff) no genre info "Драма" in original play</change>
+        <change when="2017-07-08">(ff) connect lines via 'part' attribute; alphabetically sorted
+          'particDesc'; less strict segmentation (only three segments now: 1. conversation with the
+          mystics; 2. the ball; 3. the end)</change>
+        <change when="2018-04-07">(zh) group tag</change>
+        <change when="2018-10-14">(ff) lowercase IDs; verify with primary source lib.ru</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

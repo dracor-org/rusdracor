@@ -141,14 +141,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to" when="2017-03-31">changed id</change>
-        <change who="#zhenya" when="2017-05-31">added dates</change>
-        <change who="#to" when="2017-06-04">gender info</change>
-        <change who="#ff" when="2017-07-08">formalities</change>
-        <change who="#ff" when="2017-07-21">added some missing text parts</change>
-        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-03-31">(to) change id</change>
+        <change when="2017-05-31">(zh) add dates</change>
+        <change when="2017-06-04">(to) gender info</change>
+        <change when="2017-07-08">(ff) formalities</change>
+        <change when="2017-07-21">(ff) add some missing text parts</change>
+        <change when="2017-11-27">(ff) de+en transl. of character names in ISO 9</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

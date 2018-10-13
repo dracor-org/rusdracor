@@ -463,10 +463,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-11-27">convert from source</change>
-        <change who="#ff" when="2018-01-27">formalities; work on IDs; character names in DE/ISO 9;
-          add gender info</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-11-27">(mk) convert from source</change>
+        <change when="2018-01-27">(ff) formalities; work on IDs; character names in DE/ISO 9; add
+          gender info</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

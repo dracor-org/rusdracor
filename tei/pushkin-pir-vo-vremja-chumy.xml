@@ -74,14 +74,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-05-08">initial upload</change>
-        <change who="#zhenya" when="2017-05-25">changed ids, added date</change>
-        <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2017-06-05">connected continued verses with part attribute;
-          formatted front page; configuration changes</change>
-        <change who="#ff" when="2017-06-26">connected continued verses with part attribute;
-          formatted front page; configuration changes</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-05-08">(ds) initial upload</change>
+        <change when="2017-05-25">(zh) change ids, add date</change>
+        <change when="2017-06-03">(gg) gender info</change>
+        <change when="2017-06-05">(ff) connect continued verses with part attribute; format front
+          page; configuration changes</change>
+        <change when="2017-06-26">(ff) connected continued verses with part attribute; formatted
+          front page; configuration changes</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

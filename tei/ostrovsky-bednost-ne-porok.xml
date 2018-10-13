@@ -127,10 +127,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">converted from source</change>
-        <change who="#sveta" when="2017-04-12">correct IDs</change>
-        <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#FF" when="2017-12-17">add a fair amount of missing text; formalities</change>
+        <change>(ds) convert from source</change>
+        <change when="2017-04-12">(sl) correct IDs</change>
+        <change when="2017-06-03">(gg) gender info</change>
+        <change when="2017-12-17">(ff) add a fair amount of missing text; formalities</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

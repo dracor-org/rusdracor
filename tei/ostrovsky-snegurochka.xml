@@ -220,15 +220,15 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#ds" when="2017-05-23">removed 'unknown speaker'</change>
-        <change who="#GG" when="2017-06-05">gender info</change>
-        <change who="#ff" when="2017-06-08">formalities; added dramatis personae at the beginning of
-          each act</change>
-        <change who="#GG" when="2017-06-09">corrected ids</change>
-        <change who="#GG" when="2017-06-09">gender info</change>
-        <change who="#ff" when="2017-07-08">thorough check of all IDs</change>
-        <change who="#ff" when="2018-04-05">added some missing text; lowercase IDs</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-23">(ds) remove 'unknown speaker'</change>
+        <change when="2017-06-05">(gg) gender info</change>
+        <change when="2017-06-08">(ff) formalities; add dramatis personae at the beginning of each
+          act</change>
+        <change when="2017-06-09">(gg) correct ids</change>
+        <change when="2017-06-09">(gg) gender info</change>
+        <change when="2017-07-08">(ff) thorough check of all IDs</change>
+        <change when="2018-04-05">(ff) add some missing text; lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

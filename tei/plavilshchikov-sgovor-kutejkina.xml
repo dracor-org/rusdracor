@@ -82,11 +82,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-05-20">Converted from Source</change>
-        <change who="#to" when="2017-05-31">added premiere date</change>
-        <change who="#ff" when="2017-06-01">moved full stops from speech acts to speakers; added
-          English title; added gender info</change>
-        <change who="#ff" when="2017-06-26">corrected IDs</change>
+        <change when="2017-05-20">(mk) convert from source</change>
+        <change when="2017-05-31">(to) add premiere date</change>
+        <change when="2017-06-01">(ff) move full stops from speech acts to speakers; add English
+          title; add gender info</change>
+        <change when="2017-06-26">(ff) correct IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -120,13 +120,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#nf" when="2017-05-29">corrected IDs</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-06">formalities</change>
-        <change who="#ff" when="2017-07-07">segmentation of all 3 acts</change>
-        <change who="#ff" when="2018-04-01">lowercase IDs; add deleted dots to speaker
-          strings</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-29">(nf) correct IDs</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-06">(ff) formalities</change>
+        <change when="2017-07-07">(ff) segmentation of all 3 acts</change>
+        <change when="2018-04-01">(ff) lowercase IDs; add deleted dots to speaker strings</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

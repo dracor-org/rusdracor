@@ -460,12 +460,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#GG #FF" when="2017-05-19">started segmentation</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-05">double-checked segmentation; particDesc in order of
-          appearance; added German translations to character names in particDesc</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-19">(gg) (ff) start segmentation</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-05">(ff) double-check segmentation; particDesc in order of appearance;
+          add German translations to character names in particDesc</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

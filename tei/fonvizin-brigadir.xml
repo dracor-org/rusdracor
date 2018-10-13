@@ -79,11 +79,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">converted from source</change>
-        <change who="#sveta">checked IDs, added dates</change>
-        <change who="#ff" when="2017-06-01">some formatting; deleted footnotes from editors</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2018-03-21">small corrections</change>
+        <change>(ds) convert from source</change>
+        <change>(sl) check IDs, add dates</change>
+        <change when="2017-06-01">(ff) some formatting; delete footnotes from editors</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2018-03-21">(ff) small corrections</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

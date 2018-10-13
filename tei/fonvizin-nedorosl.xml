@@ -102,10 +102,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">convert from source</change>
-        <change who="#sveta">check IDs, add dates</change>
-        <change who="#to">add gender info</change>
-        <change who="#ff" when="2018-03-21">formalities; add some missing text</change>
+        <change>(ds) convert from source</change>
+        <change>(sl) check IDs, add dates</change>
+        <change>(to) add gender info</change>
+        <change when="2018-03-21">(ff) formalities; add some missing text</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

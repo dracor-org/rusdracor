@@ -371,10 +371,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-12-17">convert from source</change>
-        <change who="#ff" when="2018-01-05">formalities; (a lot of) work on IDs</change>
-        <change who="#ff" when="2018-01-07">some ID corrections; add gender info</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-12-17">(mk) convert from source</change>
+        <change when="2018-01-05">(ff) formalities; (a lot of) work on IDs</change>
+        <change when="2018-01-07">(ff) some ID corrections; add gender info</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

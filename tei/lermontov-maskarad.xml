@@ -245,11 +245,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-11-21">convert from source</change>
-        <change who="#ff" when="2017-11-26">rectify IDs</change>
-        <change who="#ff" when="2017-11-27">correct another ID</change>
-        <change who="#ff" when="2018-03-21">add some missing text</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-11-21">(ds) convert from source</change>
+        <change when="2017-11-26">(ff) rectify IDs</change>
+        <change when="2017-11-27">(ff) correct another ID</change>
+        <change when="2018-03-21">(ff) add some missing text</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

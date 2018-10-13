@@ -155,11 +155,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="km" when="2017-06-30">convert from source</change>
-        <change who="GG" when="2017-07-04">correct IDs, added gender</change>
-        <change who="km" when="2017-10-06">add epigraph</change>
-        <change who="ff" when="2018-02-19">add DE translation for -persName-; retagged 'variant' in
-          4th act</change>
+        <change when="2017-06-30">(km) convert from source</change>
+        <change when="2017-07-04">(gg) correct IDs, added gender</change>
+        <change when="2017-10-06">(km) add epigraph</change>
+        <change when="2018-02-19">(ff) add DE translation for -persName-; retag 'variant' in 4th
+          act</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

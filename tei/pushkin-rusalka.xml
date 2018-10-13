@@ -108,13 +108,13 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-05-15">initial commit</change>
-        <change who="#zhenya" when="2017-05-16">corrected IDs and added dates</change>
-        <change who="#ds" when="2017-05-23">removed 'unknown speaker'</change>
-        <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2017-06-26">marked-up shared verses with part attribute; shifted
-          some stage directions to their right place</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-05-15">(ds) initial commit</change>
+        <change when="2017-05-16">(zh) correct IDs and add dates</change>
+        <change when="2017-05-23">(ds) remove 'unknown speaker'</change>
+        <change when="2017-06-03">(gg) gender info</change>
+        <change when="2017-06-26">(ff) markup shared verses with part attribute; shift some stage
+          directions to their right place</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

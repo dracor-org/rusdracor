@@ -92,9 +92,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2018-03-04">convert from source</change>
-        <change who="#ff" when="2018-03-15">add some missing text; lower case IDs</change>
-        <change who="#ff" when="2018-03-23">change some falsely attributed stage directions into
+        <change when="2018-03-04">(ds) convert from source</change>
+        <change when="2018-03-15">(ff) add some missing text; lowercase IDs</change>
+        <change when="2018-03-23">(ff) change some falsely attributed stage directions into
           paragraphs</change>
       </listChange>
     </revisionDesc>

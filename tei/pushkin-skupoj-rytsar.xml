@@ -71,11 +71,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">converted from source</change>
-        <change who="#ds" when="2017-05-23">removed 'unknown speaker'</change>
-        <change who="#ff" when="2017-06-06">marked-up shared verses with part attribute; added scene
+        <change>(ds) convert from source</change>
+        <change when="2017-05-23">(ds) remove 'unknown speaker'</change>
+        <change when="2017-06-06">(ff) markup shared verses with part attribute; add scene
           segmentation and some missing stage directions</change>
-        <change who="#gg" when="2017-06-06">gender info</change>
+        <change when="2017-06-06">(gg) gender info</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

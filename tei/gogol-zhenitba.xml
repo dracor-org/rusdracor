@@ -90,13 +90,13 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#GG" when="2017-03-31">corrected vsetroya = #Fekla #Kochkarev #AgafjaTihonovna,
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-03-31">(gg) correct vsetroya = #Fekla #Kochkarev #AgafjaTihonovna,
           Golosizvozchika = izvozchik, golosKochkareva = Kochkarev, golosPodkolesina =
           Podkolesin</change>
-        <change who="#to #ff" when="2017-05-17">changed ID to GolosIzvozchika</change>
-        <change who="#ff" when="2017-07-22">formalities; merged IDs for IvanPavlovich and
-          Jaichnitsa; Devchonka and Dunjashka</change>
+        <change when="2017-05-17">(to) (ff) change ID to GolosIzvozchika</change>
+        <change when="2017-07-22">(ff) formalities; merge IDs for IvanPavlovich and Jaichnitsa;
+          Devchonka and Dunjashka</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -92,14 +92,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
-        <change who="#ff" when="2017-04-19">establish well-formedness (to do: dotted lines +
-          "Вместе" parts, see source document)</change>
-        <change who="#zhenya" when="2017-05-16">changed IDs</change>
-        <change who="#ff" when="2017-06-07">correct one ID; front matter</change>
-        <change who="#GG" when="2017-09-07">correct IDs ("vse")</change>
-        <change who="#ff" when="2018-02-16">add missing stage directions</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-04-13">(ip) convert from source</change>
+        <change when="2017-04-19">(ff) establish well-formedness (to do: dotted lines + "Вместе"
+          parts, see source document)</change>
+        <change when="2017-05-16">(zh) change IDs</change>
+        <change when="2017-06-07">(ff) correct one ID; front matter</change>
+        <change when="2017-09-07">(gg) correct IDs ("vse")</change>
+        <change when="2018-02-16">(ff) add missing stage directions</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

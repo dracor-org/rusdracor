@@ -146,14 +146,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to" when="2017-03-31">eliminated id Nikolaj</change>
-        <change who="#zhenya" when="2017-05-31">added dates</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-06-05">formatted front page</change>
-        <change who="#IP" when="2017-06-11">merged some 'sp'</change>
-        <change who="#ff" when="2017-07-08">formalities</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-03-31">(to) eliminate id Nikolaj</change>
+        <change when="2017-05-31">(zh) add dates</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-06-05">(ff) format front page</change>
+        <change when="2017-06-11">(ip) merge some 'sp'</change>
+        <change when="2017-07-08">(ff) formalities</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

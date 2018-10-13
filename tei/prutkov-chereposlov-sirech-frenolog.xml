@@ -83,12 +83,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
-        <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#sveta" when="2017-05-01">corrected IDs, added dates</change>
-        <change who="#to" when="2017-06-03">added gender info</change>
-        <change who="#ff" when="2017-06-16">added English title</change>
-        <change who="#zhenya" when="2018-03-04">add configuration for first kartina</change>
+        <change when="2017-04-13">(ip) convert from source</change>
+        <change when="2017-04-14">(ff) establish well-formedness</change>
+        <change when="2017-05-01">(sl) correct IDs, add dates</change>
+        <change when="2017-06-03">(to) add gender info</change>
+        <change when="2017-06-16">(ff) add English title</change>
+        <change when="2018-03-04">(zh) add configuration for first kartina</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

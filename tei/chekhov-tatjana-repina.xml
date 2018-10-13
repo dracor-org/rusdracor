@@ -194,17 +194,17 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">convert from source</change>
-        <change who="#ff #to" when="2017-05-17">camel case, checked IDs</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-21">formalities; still lacks segmentation</change>
-        <change who="#ff" when="2017-07-29">no meaningful segmentation possible for this play, a
-          sequel to Suvorin's play of the same name (the whole scene is in a church and everybody is
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-17">(ff) (to) camel case, checked IDs</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-21">(ff) formalities; still lacks segmentation</change>
+        <change when="2017-07-29">(ff) no meaningful segmentation possible for this play, a sequel
+          to Suvorin's play of the same name (the whole scene is in a church and everybody is
           talking/singing to everbody during the ceremony, and the speech acts in "v tolpe" are
           collecting differenct voices, etc.)</change>
-        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
-        <change who="#ff" when="2018-04-02">markup stage direction</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-11-27">(ff) de+en transl. of character names in ISO 9</change>
+        <change when="2018-04-02">(ff) markup stage direction</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

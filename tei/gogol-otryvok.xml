@@ -64,9 +64,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-05">revised</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-05">(ff) revision</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

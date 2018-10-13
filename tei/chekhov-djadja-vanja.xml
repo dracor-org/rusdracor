@@ -104,14 +104,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to">replaced id "#Golosstorozha" with id "#Efim", which is the name of this
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change>(to) replace id "#Golosstorozha" with id "#Efim", which is the name of this
           storozh</change>
-        <change who="#to #ff">reverted id to "#GolosStorozha"</change>
-        <change who="#zhenya" when="2017-05-31">added dates</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-06-08">scene segmentation for all four acts</change>
-        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
+        <change>(to) (ff) revert id to "#GolosStorozha"</change>
+        <change when="2017-05-31">(zh) add dates</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-06-08">(ff) scene segmentation for all four acts</change>
+        <change when="2017-11-27">(ff) de+en transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

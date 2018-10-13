@@ -336,12 +336,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-11-15">convert from source</change>
-        <change who="#ff" when="2017-12-05">formalities; had to add II/1 to II/4 from lib.ru (scenes
-          were missing in Wikisource)</change>
-        <change who="#ff" when="2017-12-07">check and correct all IDs</change>
-        <change who="#ff" when="2018-02-09">add gender info</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-11-15">(mk) convert from source</change>
+        <change when="2017-12-05">(ff) formalities; had to add II/1 to II/4 from lib.ru (scenes were
+          missing in Wikisource)</change>
+        <change when="2017-12-07">(ff) check and correct all IDs</change>
+        <change when="2018-02-09">(ff) add gender info</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -125,13 +125,13 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to" when="2017-05-22">checked IDs</change>
-        <change who="#zhenya" when="2017-05-31">added dates</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff #to" when="2017-07-21">formalities; segmentation of first act</change>
-        <change who="#ff" when="2017-07-22">finished segmentation</change>
-        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-22">(to) check IDs</change>
+        <change when="2017-05-31">(zh) add dates</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-21">(ff) (to) formalities; segmentation of first act</change>
+        <change when="2017-07-22">(ff) finish segmentation</change>
+        <change when="2017-11-27">(ff) de+en transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

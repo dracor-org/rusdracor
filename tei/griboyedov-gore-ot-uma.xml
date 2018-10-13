@@ -178,10 +178,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-10-16">convert from source</change>
-        <change who="#ff" when="2017-10-17">correct and unify some IDs</change>
-        <change who="#ds" when="2017-10-17">restore missing bits (last scenes of each act)</change>
-        <change who="#ff" when="2017-10-29">more work on IDs and other corrections</change>
+        <change when="2017-10-16">(ds) convert from source</change>
+        <change when="2017-10-17">(ff) correct and unify some IDs</change>
+        <change when="2017-10-17">(ds) restore missing bits (last scenes of each act)</change>
+        <change when="2017-10-29">(ff) more work on IDs and other corrections</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

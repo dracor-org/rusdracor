@@ -105,9 +105,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-07-22">convert from source</change>
-        <change who="#ff" when="2017-07-22">metadata; some formalisations</change>
-        <change who="#ff" when="2018-04-06">formalities</change>
+        <change when="2017-07-22">(mk) convert from source</change>
+        <change when="2017-07-22">(ff) metadata; some formalisations</change>
+        <change when="2018-04-06">(ff) formalities</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

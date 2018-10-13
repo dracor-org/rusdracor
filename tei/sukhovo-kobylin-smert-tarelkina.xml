@@ -177,11 +177,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-11-04">convert from source</change>
-        <change who="#FF" when="2017-11-05">clean IDs; formalities</change>
-        <change who="#FF" when="2017-11-06">add some missing text; add (DE|EN) translations of
-          character names in ISO 9</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-11-04">(mk) convert from source</change>
+        <change when="2017-11-05">(ff) clean IDs; formalities</change>
+        <change when="2017-11-06">(ff) add some missing text; add (DE|EN) translations of character
+          names in ISO 9</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

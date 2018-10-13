@@ -374,21 +374,20 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
-        <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#to" when="2017-05-31"> add dates</change>
-        <change who="#zhenya" when="2017-05-31">change ID's, add dates</change>
-        <change who="#ff" when="2017-06-01">connect enjambements via part attribute; replace some
-          false stage directions with emph element</change>
-        <change who="#to" when="2017-06-03">add gender info</change>
-        <change who="#ff" when="2017-06-09">dissolve some more characters</change>
-        <change who="#ff" when="2017-11-09">correct one ID; sort characters in particDesc in order
-          of appearance</change>
-        <change who="#ff" when="2017-11-10">add (DE) translations of character names in ISO
-          9</change>
-        <change who="#ff" when="2018-04-02">lowercase IDs; text update according to upstream
+        <change when="2017-04-13">(ip) convert from source</change>
+        <change when="2017-04-14">(ff) establish well-formedness</change>
+        <change when="2017-05-31">(to) add dates</change>
+        <change when="2017-05-31">(zh) change ID's, add dates</change>
+        <change when="2017-06-01">(ff) connect enjambements via part attribute; replace some false
+          stage directions with emph element</change>
+        <change when="2017-06-03">(to) add gender info</change>
+        <change when="2017-06-09">(ff) dissolve some more characters</change>
+        <change when="2017-11-09">(ff) correct one ID; sort characters in particDesc in order of
+          appearance</change>
+        <change when="2017-11-10">(ff) add (DE) translations of character names in ISO 9</change>
+        <change when="2018-04-02">(ff) lowercase IDs; text update according to upstream
           source</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

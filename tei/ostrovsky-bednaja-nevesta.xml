@@ -172,9 +172,8 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2018-06-25">convert from source</change>
-        <change who="#ff" when="2018-07-26">add missing text; add EN translations to
-          persons</change>
+        <change when="2018-06-25">(ds) convert from source</change>
+        <change when="2018-07-26">(ff) add missing text; add EN translations to persons</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

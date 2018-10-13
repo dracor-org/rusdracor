@@ -68,11 +68,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">convert from source</change>
-        <change who="#nf" when="2017-05-29">insert dates</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-06">add missing stage directions</change>
-        <change who="#ff" when="2018-04-02">formalities; lowercase IDs</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-29">(nf) insert dates</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-06">(ff) add missing stage directions</change>
+        <change when="2018-04-02">(ff) formalities; lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

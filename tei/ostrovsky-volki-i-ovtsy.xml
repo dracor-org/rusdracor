@@ -108,11 +108,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">convert from source</change>
-        <change who="#sveta" when="2017-04-13">corrected IDs</change>
-        <change who="#ff" when="2017-05-17">established well-formedness; added dates</change>
-        <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2018-04-02">formalities; add some missing stage directions</change>
+        <change>(ds) convert from source</change>
+        <change when="2017-04-13">(sl) corrected IDs</change>
+        <change when="2017-05-17">(ff) establish well-formedness; add dates</change>
+        <change when="2017-06-03">(gg) gender info</change>
+        <change when="2018-04-02">(ff) formalities; add some missing stage directions</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

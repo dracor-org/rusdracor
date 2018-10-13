@@ -101,9 +101,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-06-22">convert from source</change>
-        <change who="#ff" when="2017-06-22">formalities, IDs</change>
-        <change who="#ff" when="2018-06-10">deleted false ID; lowercase IDs</change>
+        <change when="2017-06-22">(mk) convert from source</change>
+        <change when="2017-06-22">(ff) formalities, IDs</change>
+        <change when="2018-06-10">(ff) delete false ID; lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

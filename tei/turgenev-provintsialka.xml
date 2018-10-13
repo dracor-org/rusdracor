@@ -76,9 +76,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-05-20">converted from source</change>
-        <change who="#to" when="2017-06-03">gender info, correct IDs</change>
-        <change who="#ff" when="2018-04-06">formalities</change>
+        <change when="2017-05-20">(mk) convert from source</change>
+        <change when="2017-06-03">(to) gender info, correct IDs</change>
+        <change when="2018-04-06">(ff) formalities</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

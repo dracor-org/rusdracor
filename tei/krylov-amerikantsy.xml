@@ -86,11 +86,11 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-05-20">convert from source</change>
-        <change who="#FF" when="2017-06-01">deleted brackets in stage directions according to
-          original; added English title; correctly formatted epigraph</change>
-        <change who="#GG" when="2017-07-01">changed a lot of IDs and added gender</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-05-20">(mk) convert from source</change>
+        <change when="2017-06-01">(ff) delete brackets in stage directions according to original;
+          add English title; correctly format epigraph</change>
+        <change when="2017-07-01">(gg) change a lot of IDs and add gender</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

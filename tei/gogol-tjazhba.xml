@@ -61,10 +61,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">convert from source</change>
-        <change who="#GG">checked</change>
-        <change who="#to">gender</change>
-        <change who="#ff" when="2018-04-02">formalities; add two missing stage directions</change>
+        <change>(ds) convert from source</change>
+        <change>(gg) checked</change>
+        <change>(to) gender</change>
+        <change when="2018-04-02">(ff) formalities; add two missing stage directions</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

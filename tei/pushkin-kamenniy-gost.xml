@@ -86,14 +86,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#zhenya" when="2017-05-16">changed IDs and date</change>
-        <change who="#ds" when="2017-05-23">removed 'unknown speaker'</change>
-        <change who="#to" when="2017-05-31">Corrected IDs, CamelCase, added some dates and
-          info</change>
-        <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2017-06-25">segmented character constellations in all 4 scenes;
-          shifted some stage directions to their right place; marked-up shared verses with part
-          attribute</change>
+        <change when="2017-05-16">(zh) change IDs and date</change>
+        <change when="2017-05-23">(ds) remove 'unknown speaker'</change>
+        <change when="2017-05-31">(to) correct IDs, CamelCase, add some dates and info</change>
+        <change when="2017-06-03">(gg) gender info</change>
+        <change when="2017-06-25">(ff) segment character constellations in all 4 scenes; shift some
+          stage directions to their right place; markup shared verses with part attribute</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

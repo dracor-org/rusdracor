@@ -89,9 +89,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-11-19">convert from source</change>
-        <change who="#ff" when="2017-12-10">formalities</change>
-        <change who="#ff" when="2018-06-10">lowercase IDs</change>
+        <change when="2017-11-19">(ds) convert from source</change>
+        <change when="2017-12-10">(ff) formalities</change>
+        <change when="2018-06-10">(ff) lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

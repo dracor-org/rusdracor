@@ -86,12 +86,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-05-20">convert from source</change>
-        <change who="#to">add premiere date, correct IDs</change>
-        <change who="#to" when="2017-06-03">add gender info</change>
-        <change who="#ff" when="2017-07-06">scene segmentation of entire play; corrected French
-          phrases and names</change>
-        <change who="#ff" when="2018-04-01">lowercase IDs; revisions according to source</change>
+        <change when="2017-05-20">(mk) convert from source</change>
+        <change>(to) add premiere date, correct IDs</change>
+        <change when="2017-06-03">(to) add gender info</change>
+        <change when="2017-07-06">(ff) scene segmentation of entire play; correct French phrases and
+          names</change>
+        <change when="2018-04-01">(ff) lowercase IDs; revisions according to source</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -79,9 +79,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
-        <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#to" when="2017-05-02">correct IDs</change>
+        <change when="2017-04-13">(ip) convert from source</change>
+        <change when="2017-04-14">(ff) establish well-formedness</change>
+        <change when="2017-05-02">(to) correct IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

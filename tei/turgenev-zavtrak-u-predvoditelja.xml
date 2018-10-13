@@ -90,10 +90,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-05-20">convert from source</change>
-        <change who="#ff" when="2017-06-05">formatted text; added genre info</change>
-        <change who="#GG" when="2017-07-03">gender info, corrected ids</change>
-        <change who="#ff" when="2018-04-02">resolve one ID; lowercase IDs; delete translations from
+        <change when="2017-05-20">(mk) convert from source</change>
+        <change when="2017-06-05">(ff) format text; add genre info</change>
+        <change when="2017-07-03">(gg) gender info, correct ids</change>
+        <change when="2018-04-02">(ff) resolve one ID; lowercase IDs; delete translations from
           French</change>
       </listChange>
     </revisionDesc>

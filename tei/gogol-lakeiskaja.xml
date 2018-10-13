@@ -98,9 +98,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">converted from source</change>
-        <change who="#to">gender</change>
-        <change who="#ff" when="2017-11-07">unify some IDs; formalities</change>
+        <change>(ds) convert from source</change>
+        <change>(to) gender</change>
+        <change when="2017-11-07">(ff) unify some IDs; formalities</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

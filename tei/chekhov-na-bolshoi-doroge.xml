@@ -110,16 +110,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to" when="2017-03-31">replaced id "Goloszadverju" with the id
-          "Kucher"</change>
-        <change who="#ff" when="2017-05-24">added 2 missing characters to castList; shifted dots
-          into speaker tags for better readability</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-08">revised</change>
-        <change who="#ff" when="2017-11-21">add (DE) translations of character names in ISO
-          9</change>
-        <change who="#ff" when="2018-04-02">lowercase IDs; formalities</change>
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-03-31">(to) replace id "Goloszadverju" with id "Kucher"</change>
+        <change when="2017-05-24">(ff) add 2 missing characters to castList; shift dots into speaker
+          tags for better readability</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-08">(ff) revision</change>
+        <change when="2017-11-21">(ff) add (DE) translations of character names in ISO 9</change>
+        <change when="2018-04-02">(ff) lowercase IDs; formalities</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

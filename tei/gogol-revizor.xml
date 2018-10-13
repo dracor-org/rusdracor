@@ -176,17 +176,17 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#GG" when="2017-03-31">changed Zemljanika and ArtemijFilippovich to
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-03-31">(gg) change Zemljanika and ArtemijFilippovich to
           artemij_filippovich_zemljanika, Ljapkin-Tjapkin and AmmosFedorovich to
           ammos_fedorovich_ljapkin_tjapkin</change>
-        <change who="#ff" when="2017-05-30">added missing castGroups to castList; normalised
+        <change when="2017-05-30">(ff) add missing castGroups to castList; normalise
           punctuation</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-10">formalities</change>
-        <change who="#ff" when="2018-02-16">correct speaker tags in monologues</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
-        <change who="#ff" when="2018-06-01">lowercase IDs</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-10">(ff) formalities</change>
+        <change when="2018-02-16">(ff) correct speaker tags in monologues</change>
+        <change when="2018-04-07">(zh) group tag</change>
+        <change when="2018-06-01">(ff) lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

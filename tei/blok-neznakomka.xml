@@ -195,14 +195,14 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">Converted from Source</change>
-        <change who="#ff" when="2017-04-19">establish well-formedness</change>
-        <change who="#sveta" when="2017-04-24">corrected IDs, added the dates</change>
-        <change who="#ff" when="2017-07-08">some corrections</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
-        <change who="#ff" when="2018-09-27">lowercase IDs; disentangle Мужчина and Рыжий господин as
-          well as Девушка and Дама (avoid interpretation at markup level); verify with primary
-          source lib.ru</change>
+        <change when="2017-04-13">(ip) converted from source</change>
+        <change when="2017-04-19">(ff) establish well-formedness</change>
+        <change when="2017-04-24">(sl) correct IDs, added the dates</change>
+        <change when="2017-07-08">(ff) some corrections</change>
+        <change when="2018-04-07">(zh) group tag</change>
+        <change when="2018-09-27">(ff) lowercase IDs; disentangle Мужчина and Рыжий господин as well
+          as Девушка and Дама (avoid interpretation at markup level); verify with primary source
+          lib.ru</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

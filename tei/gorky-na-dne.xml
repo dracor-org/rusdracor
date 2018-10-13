@@ -107,15 +107,15 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#sveta" when="2017-05-26">checked IDs, added dates</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-06">formalities; noticed that larger parts between stage
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-05-26">(sl) check IDs, add dates</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-06">(ff) formalities; noticed that larger parts between stage
           directions are missing in acts 1 and 2</change>
-        <change who="#ds" when="2017-08-27">restore missing parts in acts 1, 2 and 3</change>
-        <change who="#ff" when="2017-10-03">add missing verse lines; formalities</change>
-        <change who="#ff" when="2017-10-05">corrections</change>
-        <change who="#ff" when="2018-04-02">formalities; add some missing text</change>
+        <change when="2017-08-27">(ds) restore missing parts in acts 1, 2 and 3</change>
+        <change when="2017-10-03">(ff) add missing verse lines; formalities</change>
+        <change when="2017-10-05">(ff) corrections</change>
+        <change when="2018-04-02">(ff) formalities; add some missing text</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

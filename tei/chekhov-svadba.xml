@@ -124,12 +124,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#to" when="2017-03-31">looked through, sb has already corrected it
+        <change when="2017-03-31">(ds) convert from source</change>
+        <change when="2017-03-31">(to) looked through, sb has already corrected it
           anonymously</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-08">scene segmentation</change>
-        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
+        <change when="2017-06-04">(to) gender</change>
+        <change when="2017-07-08">(ff) scene segmentation</change>
+        <change when="2017-11-27">(ff) de+en transl. of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

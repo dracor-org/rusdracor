@@ -72,13 +72,13 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds">converted from source</change>
-        <change who="#GG">checked</change>
-        <change who="#zhenya">added dates</change>
-        <change who="#to">gender info</change>
-        <change who="#ff" when="2017-07-08">revised</change>
-        <change who="#ff" when="2017-11-27">(DE|EN) transl. of character names in ISO 9</change>
-        <change who="#ff" when="2018-04-02">formalities; add missing stage directions</change>
+        <change>(ds) convert from source</change>
+        <change>(gg) checked</change>
+        <change>(zh) add dates</change>
+        <change>(to) gender info</change>
+        <change when="2017-07-08">(ff) revision</change>
+        <change when="2017-11-27">(ff) de+en transl. of character names in ISO 9</change>
+        <change when="2018-04-02">(ff) formalities; add missing stage directions</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

@@ -156,10 +156,9 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#MatveyKolbasov" when="2017-10-05">Converted from Source</change>
-        <change who="#ff" when="2017-10-06">formalities</change>
-        <change who="#ff" when="2017-10-29">add (DE|EN) translations of character names in ISO
-          9</change>
+        <change when="2017-10-05">(mk) convert from source</change>
+        <change when="2017-10-06">(ff) formalities</change>
+        <change when="2017-10-29">(ff) add de+en translations of character names in ISO 9</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

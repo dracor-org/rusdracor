@@ -122,13 +122,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-05-23">converted from source</change>
-        <change who="#ff" when="2017-05-23">added metadata, inserted configuration changes</change>
-        <change who="#zhenya" when="2017-06-01">added dates, ids</change>
-        <change who="#GG" when="2017-06-03">gender info</change>
-        <change who="#ff" when="2017-12-03">formalities; delete duplicate of poem; work on
-          IDs</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-05-23">(ds) convert from source</change>
+        <change when="2017-05-23">(ff) add metadata, insert configuration changes</change>
+        <change when="2017-06-01">(zh) add dates, ids</change>
+        <change when="2017-06-03">(gg) gender info</change>
+        <change when="2017-12-03">(ff) formalities; delete duplicate of poem; work on IDs</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>

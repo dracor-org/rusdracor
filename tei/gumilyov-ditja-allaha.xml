@@ -117,10 +117,10 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#IrinaPavlova" when="2017-04-13">convert from source</change>
-        <change who="#ff" when="2017-04-14">establish well-formedness</change>
-        <change who="#ff" when="2017-07-07">connect lines via 'part' attribute</change>
-        <change who="#zh" when="2018-04-07">group tag</change>
+        <change when="2017-04-13">(ip) convert from source</change>
+        <change when="2017-04-14">(ff) establish well-formedness</change>
+        <change when="2017-07-07">(ff) connect lines via 'part' attribute</change>
+        <change when="2018-04-07">(zh) group tag</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
