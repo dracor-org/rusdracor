@@ -134,11 +134,11 @@
           </person>
           <personGrp xml:id="passazhiry" sex="UNKNOWN">
             <name>Пассажиры</name>
-            <persName xml:lang="de">Fahrgäste</persName>
+            <name xml:lang="de">Fahrgäste</name>
           </personGrp>
           <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса</name>
-            <persName xml:lang="de">Stimmen</persName>
+            <name xml:lang="de">Stimmen</name>
           </personGrp>
           <person xml:id="militsioner" sex="MALE">
             <persName>Милиционер</persName>

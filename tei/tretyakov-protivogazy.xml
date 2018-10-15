@@ -82,7 +82,7 @@
           </person>
           <personGrp xml:id="baby" sex="FEMALE">
             <name>Бабы</name>
-            <persName xml:lang="de">Weiber</persName>
+            <name xml:lang="de">Weiber</name>
           </personGrp>
           <person xml:id="pervyj_rabochij_1" sex="MALE">
             <persName>1-й рабочий (I)</persName>
@@ -106,7 +106,7 @@
           </person>
           <personGrp xml:id="hor_komsomolcev" sex="UNKNOWN">
             <name>Хор комсомольцев</name>
-            <persName xml:lang="de">Chor der Komsomolzen</persName>
+            <name xml:lang="de">Chor der Komsomolzen</name>
           </personGrp>
           <person xml:id="podrostok" sex="MALE">
             <persName>Подросток</persName>
@@ -138,7 +138,7 @@
           </person>
           <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса</name>
-            <persName xml:lang="de">Stimmen</persName>
+            <name xml:lang="de">Stimmen</name>
           </personGrp>
           <person xml:id="inzhener" sex="MALE">
             <persName>Инженер</persName>
@@ -158,7 +158,7 @@
           </person>
           <personGrp xml:id="zhenschiny" sex="FEMALE">
             <name>Женщины</name>
-            <persName xml:lang="de">Frauen</persName>
+            <name xml:lang="de">Frauen</name>
           </personGrp>
           <person xml:id="zhena_fomy" sex="FEMALE">
             <persName>Жена Фомы</persName>
@@ -198,11 +198,11 @@
           </person>
           <personGrp xml:id="za_scenoj_pesnya" sex="UNKNOWN">
             <name>За сценой песня</name>
-            <persName xml:lang="de">Lied hinter der Bühne</persName>
+            <name xml:lang="de">Lied hinter der Bühne</name>
           </personGrp>
           <personGrp xml:id="golosa_komsomolcev" sex="UNKNOWN">
             <name>Голоса комсомольцев</name>
-            <persName xml:lang="de">Stimmen der Komsomolzen</persName>
+            <name xml:lang="de">Stimmen der Komsomolzen</name>
           </personGrp>
           <person xml:id="komsomolec" sex="MALE">
             <persName>Комсомолец</persName>
@@ -234,7 +234,7 @@
           </person>
           <personGrp xml:id="rabochie" sex="UNKNOWN">
             <name>Рабочие</name>
-            <persName xml:lang="de">Arbeiter</persName>
+            <name xml:lang="de">Arbeiter</name>
           </personGrp>
         </listPerson>
       </particDesc>

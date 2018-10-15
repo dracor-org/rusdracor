@@ -112,7 +112,7 @@
           </person>
           <personGrp xml:id="kuptsy" sex="MALE">
             <name>Купцы</name>
-            <persName xml:lang="de">Kaufleute</persName>
+            <name xml:lang="de">Kaufleute</name>
           </personGrp>
           <person xml:id="odin_iz_kuptsov" sex="MALE">
             <persName>Один из купцов</persName>
@@ -152,7 +152,7 @@
           </person>
           <personGrp xml:id="mnogie_iz_gostej" sex="UNKNOWN">
             <name>Многие из гостей</name>
-            <persName xml:lang="de">Viele der Gäste</persName>
+            <name xml:lang="de">Viele der Gäste</name>
           </personGrp>
           <person xml:id="gostja" sex="FEMALE">
             <persName>Гостья</persName>

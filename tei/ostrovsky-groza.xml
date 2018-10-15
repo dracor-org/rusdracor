@@ -128,7 +128,7 @@
           </person>
           <personGrp xml:id="neskolko_golosov" sex="UNKNOWN">
             <name>Несколько голосов</name>
-            <persName xml:lang="de">Einige Stimmen</persName>
+            <name xml:lang="de">Einige Stimmen</name>
           </personGrp>
           <person xml:id="odin_iz_naroda_5b" sex="MALE">
             <persName>Один из народа (V/5)</persName>
