@@ -24,16 +24,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Русская виртуальная библиотека</name>
+          <name>Русская виртуальная библиотека (rvb.ru)</name>
           <idno type="URL">http://rvb.ru/18vek/lomonosov/01text/01text/08tragedies/112.htm</idno>
-          <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+          <availability status="free">
+            <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title/>
+            <title>М.В. Ломоносов. Избранные произведения. Л.: Советский писатель, 1986. С. 364—414.
+              (Библиотека поэта; Большая серия).</title>
             <date type="print" when="1752"/>
             <date type="premiere"/>
             <date type="written" when="1751">"Между декабрем 1750 и ноябрем 1751" (rvb.ru)</date>
