@@ -57,9 +57,9 @@
           <person sex="MALE" xml:id="#voin">Воин</person>
           <person sex="MALE" xml:id="#drugoj_voin">Другой воин</person>
           <person sex="MALE" xml:id="#voenachalnik_polskij">Военачальник польский</person>
-          <person sex="FEMALE" xml:id="#velmozha">Вельможа</person>
+          <person sex="MALE" xml:id="#velmozha">Вельможа</person>
           <person sex="MALE" xml:id="#velmozhi">Вельможи</person>
-          <person sex="MALE" xml:id="#devitsy">Девицы</person>
+          <person sex="FEMALE" xml:id="#devitsy">Девицы</person>
           <person sex="MALE" xml:id="#narod">Народ</person>
         </listPerson>
       </particDesc>
