@@ -45,74 +45,74 @@
       <particDesc>
         <listPerson>
           <person xml:id="knjaz_ruksalon" sex="MALE">
-            <name>Князь Руксалон</name>
+            <persName>Князь Руксалон</persName>
           </person>
           <person xml:id="knjaz_feodor" sex="MALE">
-            <name>Князь Феодор</name>
+            <persName>Князь Феодор</persName>
           </person>
           <person xml:id="knjaz_dimitrij" sex="MALE">
-            <name>Князь Димитрий</name>
+            <persName>Князь Димитрий</persName>
           </person>
           <person xml:id="bojarin_ioann" sex="MALE">
-            <name>Боярин Иоанн</name>
+            <persName>Боярин Иоанн</persName>
           </person>
           <person xml:id="leon" sex="MALE">
-            <name>Леон</name>
+            <persName>Леон</persName>
           </person>
           <person xml:id="knjaz_pozharskij" sex="MALE">
-            <name>Князь Пожарский</name>
+            <persName>Князь Пожарский</persName>
           </person>
           <person xml:id="minin" sex="MALE">
-            <name>Минин</name>
+            <persName>Минин</persName>
           </person>
           <person xml:id="hotkeev" sex="MALE">
-            <name>Хоткеев</name>
+            <persName>Хоткеев</persName>
           </person>
           <person xml:id="sofija" sex="FEMALE">
-            <name>София</name>
+            <persName>София</persName>
           </person>
           <person xml:id="vjanko" sex="MALE">
-            <name>Вьянко</name>
+            <persName>Вьянко</persName>
           </person>
           <person xml:id="parfenija" sex="FEMALE">
-            <name>Парфения</name>
+            <persName>Парфения</persName>
           </person>
           <person xml:id="nachalnik" sex="MALE">
-            <name>Начальник</name>
+            <persName>Начальник</persName>
           </person>
           <person xml:id="ruksalon" sex="MALE">
-            <name>Руксалон</name>
+            <persName>Руксалон</persName>
           </person>
           <person xml:id="odin_iz_voinov" sex="MALE">
-            <name>Один из воинов</name>
+            <persName>Один из воинов</persName>
           </person>
           <person xml:id="getman_zhelkovskij" sex="MALE">
-            <name>Гетман Желковский</name>
+            <persName>Гетман Желковский</persName>
           </person>
           <person xml:id="vestnik" sex="MALE">
-            <name>Вестник</name>
+            <persName>Вестник</persName>
           </person>
           <person xml:id="voin" sex="MALE">
-            <name>Воин</name>
+            <persName>Воин</persName>
           </person>
           <person xml:id="drugoj_voin" sex="MALE">
-            <name>Другой воин</name>
+            <persName>Другой воин</persName>
           </person>
           <person xml:id="voenachalnik_polskij" sex="MALE">
-            <name>Военачальник польский</name>
+            <persName>Военачальник польский</persName>
           </person>
-          <person xml:id="velmozha">
-            <name>Вельможа</name>
+          <person xml:id="velmozha" sex="MALE">
+            <persName>Вельможа</persName>
           </person>
-          <person xml:id="velmozhi" sex="MALE">
+          <personGrp xml:id="velmozhi" sex="MALE">
             <name>Вельможи</name>
-          </person>
-          <person xml:id="devitsy" sex="FEMALE">
+          </personGrp>
+          <personGrp xml:id="devitsy" sex="FEMALE">
             <name>Девицы</name>
-          </person>
-          <person xml:id="narod" sex="MALE">
+          </personGrp>
+          <personGrp xml:id="narod" sex="UNKNOWN">
             <name>Народ</name>
-          </person>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
