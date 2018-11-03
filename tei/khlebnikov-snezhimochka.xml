@@ -1,0 +1,1083 @@
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Снежимочка</title>
+        <title type="main" xml:lang="en">Snowhite</title>
+        <title type="sub" xml:lang="ru">Рождественская сказка</title>
+        <title type="sub" xml:lang="en">A Christmas Story</title>
+        <author key="Wikidata:Q35733">Хлебников, Велимир</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/khlebnikov-snezhimochka</idno>
+        <idno type="RusDraCor"/>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q58183681</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Русская виртуальная библиотека (rvb.ru)</name>
+          <idno type="URL">https://rvb.ru/hlebnikov/tekst/05drama/221.htm</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Хлебников В. Снежимочка: Рождественская сказка. – Хлебников В. Творения. – М.:
+              Сов. писатель, 1987. – С. 381–390.</title>
+            <date type="print" when="1915">"Впервые: Весеннее контрагентство муз, 1915"
+              (ruslit.traumlibrary.net)</date>
+            <date type="premiere"/>
+            <date type="written" when="1908">"«Снежимочка» написана во второй половине 1908 г. в
+              Петербурге; […]" (ruslit.traumlibrary.net)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp xml:id="snezini" sex="MALE">
+            <name>Снезини</name>
+            <name xml:lang="en">Snowleens</name>
+          </personGrp>
+          <personGrp xml:id="smehini" sex="FEMALE">
+            <name>Смехини</name>
+            <name xml:lang="en">Laffones</name>
+          </personGrp>
+          <personGrp xml:id="nemini" sex="MALE">
+            <name>Немини</name>
+            <name xml:lang="en">Dumbettes</name>
+          </personGrp>
+          <personGrp xml:id="slepini" sex="FEMALE">
+            <name>Слепини</name>
+            <name xml:lang="en">Blindettes</name>
+          </personGrp>
+          <person xml:id="berezomir" sex="MALE">
+            <persName>Березомир</persName>
+            <persName xml:lang="en">Birchpeace</persName>
+          </person>
+          <person xml:id="skazchich-morochich" sex="MALE">
+            <persName>Сказчич-Морочич</persName>
+            <persName xml:lang="en">Trickytale</persName>
+          </person>
+          <personGrp xml:id="molchaschie_sestry" sex="FEMALE">
+            <name>Молчащие сестры</name>
+            <name xml:lang="en">Silent Sisters</name>
+          </personGrp>
+          <person xml:id="njanja-leshij" sex="FEMALE">
+            <persName>Няня-леший</persName>
+            <persName xml:lang="en">Woodnurse</persName>
+          </person>
+          <personGrp xml:id="dukhi" sex="UNKNOWN">
+            <name>Духи</name>
+            <name xml:lang="en">Spirits</name>
+          </personGrp>
+          <person xml:id="molodoj_rabochij" sex="MALE">
+            <persName>Молодой рабочий</persName>
+            <persName xml:lang="en">Young Worker</persName>
+          </person>
+          <person xml:id="vtoroj_chelovek" sex="MALE">
+            <persName>2-й человек</persName>
+            <persName xml:lang="en">Second Individual</persName>
+          </person>
+          <person xml:id="nekij_glas" sex="UNKNOWN">
+            <persName>Некий глас</persName>
+            <persName xml:lang="en">Voice</persName>
+          </person>
+          <person xml:id="veschezhonka" sex="FEMALE">
+            <persName>Вещежонка</persName>
+            <persName xml:lang="en">Prophesizing Lady</persName>
+          </person>
+          <person xml:id="starushka-dokladchitsa" sex="FEMALE">
+            <persName>Старушка-докладчица</persName>
+            <persName xml:lang="en">Old Lady Lecturer</persName>
+          </person>
+          <person xml:id="bes" sex="MALE">
+            <persName>Бес</persName>
+            <persName xml:lang="en">Devil</persName>
+          </person>
+          <person xml:id="besenysh-besok" sex="MALE">
+            <persName>Бесеныш/Бесок</persName>
+            <persName xml:lang="en">Diavolino</persName>
+          </person>
+          <person xml:id="lipjanoe_byvmo" sex="UNKNOWN">
+            <persName>Липяное бывьмо</persName>
+            <persName xml:lang="en">A Linden Legend</persName>
+          </person>
+          <personGrp xml:id="vselennichi" sex="UNKNOWN">
+            <name>Вселенничи</name>
+            <name xml:lang="en">Universirunes</name>
+          </personGrp>
+          <personGrp xml:id="vse_1" sex="UNKNOWN">
+            <name>Все (1-е деймо)</name>
+            <name xml:lang="en">Everyone (Doon One)</name>
+          </personGrp>
+          <person xml:id="moroznyj_tjatka" sex="MALE">
+            <persName>Морозный тятька</persName>
+            <persName xml:lang="en">Wise Old Man of the Woods</persName>
+          </person>
+          <person xml:id="snezhak" sex="MALE">
+            <persName>Снежак</persName>
+            <persName xml:lang="en">Snowbilly/Snowman</persName>
+          </person>
+          <person xml:id="drevoljud" sex="MALE">
+            <persName>Древолюд</persName>
+            <persName xml:lang="en">Treeman</persName>
+          </person>
+          <person xml:id="snezhachiha" sex="FEMALE">
+            <persName>Снежачиха</persName>
+            <persName xml:lang="en">Snowbella/Snowwoman</persName>
+          </person>
+          <person xml:id="lipovyj_paren" sex="MALE">
+            <persName>Липовый парень</persName>
+            <persName xml:lang="en">Lyndenboy</persName>
+          </person>
+          <personGrp xml:id="snegchie" sex="MALE">
+            <name>Снегчие</name>
+            <name xml:lang="en">Snowloons</name>
+          </personGrp>
+          <person xml:id="belyj_muzhik" sex="MALE">
+            <persName>Белый мужик</persName>
+            <persName xml:lang="en">White Peasant</persName>
+          </person>
+          <person xml:id="belyj_bojarin" sex="MALE">
+            <persName>Белый боярин</persName>
+            <persName xml:lang="en">White Hunter</persName>
+          </person>
+          <personGrp xml:id="snezhnye_mamki" sex="FEMALE">
+            <name>Снежные мамки</name>
+            <name type="variant">Мамки</name>
+            <name xml:lang="en">Snowmamas</name>
+          </personGrp>
+          <personGrp xml:id="snegomuzhe" sex="MALE">
+            <name>Снегомужье</name>
+            <name xml:lang="en">Snowmen</name>
+          </personGrp>
+          <person xml:id="zajats" sex="UNKNOWN">
+            <persName>Заяц</persName>
+            <persName xml:lang="en">Rabbit</persName>
+          </person>
+          <person xml:id="snegun" sex="MALE">
+            <persName>Снегун</persName>
+            <persName xml:lang="en">Snowgun</persName>
+          </person>
+          <person xml:id="voron" sex="UNKNOWN">
+            <persName>Ворон</persName>
+            <persName xml:lang="en">Crow</persName>
+          </person>
+          <person xml:id="rynda" sex="MALE">
+            <persName>Рында</persName>
+            <persName xml:lang="en">Palace Guard</persName>
+          </person>
+          <person xml:id="hovun" sex="MALE">
+            <persName>Ховун</persName>
+            <persName xml:lang="en">Hooder</persName>
+          </person>
+          <person xml:id="pervyj_sobesednik" sex="MALE">
+            <persName>1-й собеседник</persName>
+            <persName xml:lang="en">First Interlocutor</persName>
+          </person>
+          <person xml:id="vtoroj_sobesednik" sex="MALE">
+            <persName>2-й собеседник</persName>
+            <persName xml:lang="en">Second Interlocutor</persName>
+          </person>
+          <person xml:id="snezhimochka" sex="FEMALE">
+            <persName>Снежимочка</persName>
+            <persName xml:lang="en">Snowhite</persName>
+          </person>
+          <person xml:id="slavodej" sex="MALE">
+            <persName>Славодей</persName>
+            <persName xml:lang="en">Glorysinger</persName>
+          </person>
+          <person xml:id="zhenschina_s_vedrami" sex="FEMALE">
+            <persName>Женщина с ведрами</persName>
+            <persName xml:lang="en">Woman Carrying Pails</persName>
+          </person>
+          <person xml:id="pjanitsa" sex="MALE">
+            <persName>Пьяница</persName>
+            <persName xml:lang="en">Drunk</persName>
+          </person>
+          <person xml:id="zimnij_golos" sex="UNKNOWN">
+            <persName>Зимний голос</persName>
+            <persName xml:lang="en">Voice of Winter</persName>
+          </person>
+          <person xml:id="snegej" sex="MALE">
+            <persName>Снегей</persName>
+            <persName xml:lang="en">Snowsucker</persName>
+          </person>
+          <personGrp xml:id="prohozhie" sex="UNKNOWN">
+            <name>Прохожие</name>
+            <name xml:lang="en">Passerby</name>
+          </personGrp>
+          <person xml:id="nischij" sex="MALE">
+            <persName>Нищий</persName>
+            <persName xml:lang="en">Beggar</persName>
+          </person>
+          <person xml:id="malchiki" sex="MALE">
+            <persName>Мальчики</persName>
+            <persName xml:lang="en">Boys in the Street</persName>
+          </person>
+          <person xml:id="uchenyj" sex="MALE">
+            <persName>Ученый</persName>
+            <persName xml:lang="en">Scientist</persName>
+          </person>
+          <person xml:id="nekto_2a" sex="UNKNOWN">
+            <persName>Некто</persName>
+            <persName xml:lang="en">Voice</persName>
+          </person>
+          <person xml:id="gorodovoj" sex="MALE">
+            <persName>Городовой</persName>
+            <persName xml:lang="en">Policeman</persName>
+          </person>
+          <person xml:id="staruha" sex="FEMALE">
+            <persName>Старуха</persName>
+            <persName xml:lang="en">Old Lady</persName>
+          </person>
+          <person xml:id="pristav" sex="MALE">
+            <persName>Пристав</persName>
+            <persName xml:lang="en">Another Policeman</persName>
+          </person>
+          <person xml:id="otstavshij_sputnik" sex="UNKNOWN">
+            <persName>Отставший спутник</persName>
+            <persName xml:lang="en">Someone Pushed Aside</persName>
+          </person>
+          <personGrp xml:id="deti" sex="UNKNOWN">
+            <name>Дети</name>
+            <name xml:lang="en">Children</name>
+          </personGrp>
+          <person xml:id="nekto_2b" sex="UNKNOWN">
+            <persName>Некто</persName>
+            <persName xml:lang="en">Someone in the Crowd</persName>
+          </person>
+          <person xml:id="pechalnyj_leshij-leshachonok" sex="MALE">
+            <persName>Печальный леший/Лешачонок</persName>
+            <persName xml:lang="en">Sad Woodwilly</persName>
+          </person>
+          <personGrp xml:id="snegiri" sex="UNKNOWN">
+            <name>Снегири</name>
+            <name xml:lang="en">Snowbirds</name>
+          </personGrp>
+          <person xml:id="leshachiha" sex="FEMALE">
+            <persName>Лешачиха</persName>
+            <persName xml:lang="en">Woodwitch</persName>
+          </person>
+          <person xml:id="starets" sex="MALE">
+            <persName>Старец</persName>
+            <persName xml:lang="en">Old Man</persName>
+          </person>
+          <person xml:id="rukovoditel_prazdnestva" sex="MALE">
+            <persName>Руководитель празднества</persName>
+            <persName xml:lang="en">Director of the Holiday Parade</persName>
+          </person>
+          <personGrp xml:id="vse_3" sex="UNKNOWN">
+            <name>Все (3-е деймо)</name>
+            <name xml:lang="en">Everyone (Doon Three)</name>
+          </personGrp>
+          <person xml:id="kto-to_iz_prisutstvujuschih" sex="UNKNOWN">
+            <persName>Кто-то из присутствующих</persName>
+            <persName xml:lang="en">One of the Crowd</persName>
+          </person>
+          <person xml:id="kto-to" sex="UNKNOWN">
+            <persName>Кто-то</persName>
+            <persName xml:lang="en">Voice</persName>
+          </person>
+          <personGrp xml:id="rokot" sex="UNKNOWN">
+            <name>Рокот</name>
+            <name xml:lang="en">Clamor of Voices</name>
+          </personGrp>
+          <person xml:id="rukovoditel_igry" sex="MALE">
+            <persName>Руководитель игры</persName>
+            <persName xml:lang="en">Games Director</persName>
+          </person>
+          <personGrp xml:id="golosa_mnogih" sex="UNKNOWN">
+            <name>Голоса многих</name>
+            <name xml:lang="en">Chorus of Voices</name>
+          </personGrp>
+          <person xml:id="golos_udaljajuschihsja" sex="UNKNOWN">
+            <persName>Голос удаляющихся</persName>
+            <persName xml:lang="en">Voice (as they move away)</persName>
+          </person>
+          <personGrp xml:id="golosa_udaljajuschihsja" sex="UNKNOWN">
+            <name>Голоса удаляющихся</name>
+            <name xml:lang="en">First Chorus (as they exit)</name>
+          </personGrp>
+          <personGrp xml:id="novye_golosa_udaljajuschihsja" sex="UNKNOWN">
+            <name>Новые голоса удаляющихся</name>
+            <name xml:lang="en">Second Chorus</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Рождественская сказка</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2018-10-31">(eu) convert from source</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Снежимочка</titlePart>
+        <titlePart type="sub">Рождественская сказка</titlePart>
+      </docTitle>
+    </front>
+    <body>
+      <div type="act">
+        <head>1-е деймо<note place="foot">Деймо — действие пьесы.</note></head>
+        <stage>Лес зимой — серебряной парчой одетый.</stage>
+        <sp who="#snezini">
+          <speaker>Снезини.</speaker>
+          <p>А мы любоча хороним... хороним... А мы беличи-незабудчичи роняем... роняем...
+              <stage>(Веют снежинками и кружатся над лежащим неподвижно
+            Снегичем-Маревичем.)</stage></p>
+        </sp>
+        <sp who="#smehini">
+          <speaker>Смехини.</speaker>
+          <p>А мы, твои посестры, тебе на помощь... на помощь... Из подолов незенных смехом уста
+            засыпем — серебром сыпучим...</p>
+        </sp>
+        <sp who="#nemini">
+          <speaker>Немини.</speaker>
+          <p>А мы тебе повязку снимем... немину...</p>
+        </sp>
+        <sp who="#slepini">
+          <speaker>Слепини.</speaker>
+          <p>А мы тебе личину снимем... слепину... А мы, твои посестры, тебе на помощь... на
+            помощь...</p>
+        </sp>
+        <sp who="#snezini">
+          <speaker>Снезини.</speaker>
+          <p>Глянь-ка... глянь-ка: приотверз уста... призасмеялся — приоткрыл глаза — прилукавился.
+            Ой, девоньки, жаруй! <stage>(С смехом разбегаются. Их преследует Снегич-Маревич,
+              продолжая игру и оставляя неподвижными тех, когокоснулся.)</stage></p>
+        </sp>
+        <sp who="#berezomir">
+          <speaker>Березомир.</speaker>
+          <p>Сколько игр видел! .. Сколько игр... <stage>(поникает в сон)</stage> сколько игр...</p>
+        </sp>
+        <sp who="#skazchich-morochich">
+          <speaker>Сказчич-Морочич</speaker>
+          <stage>(поет,пользуясь как струнами ветвями березы).</stage>
+          <l>Дрожит струной</l>
+          <l>Влажное черное руно,</l>
+          <l>И мучоба</l>
+          <l>Входит в звучобу,</l>
+          <l>Как <stage> (смеясь, окружающим) </stage> — я не знаю.</l>
+          <l>Я пьян собой...</l>
+        </sp>
+        <stage>Береза, подобная белоцветным гуслям, звучит. Воздушный, палешницей играющий, остается
+          невидим. С разных концов, зыбля жалами и телами, приползают слухчие змеи и, угрожающе
+          шипя, подымаются по стволу.</stage>
+        <sp who="#skazchich-morochich">
+          <speaker>Сказчич-Морочич.</speaker>
+          <p>Ай! <stage>(Падает, роняяструны, умерщвленный кольцами слепоглазых
+            слухатаев.)</stage></p>
+        </sp>
+        <stage>Сделав свое дело, змеи расползаются, распуская кольца.</stage>
+        <sp who="#molchaschie_sestry">
+          <speaker>Молчащие сестры.</speaker>
+          <p>Плачемте, сестры. Он шел развязать поясы с юных станов. Плачемте, сестры. Омоем лица и
+            немвянные омоем волосы в озере грустин, где растут грустняки над грустиновой водой.
+            Плачемте, печальные.</p>
+        </sp>
+        <sp who="#berezomir">
+          <speaker>Березомир.</speaker>
+          <p>Нет у гуслей гусельщика. Умолкли гусли. Нет и слухчих змеев...</p>
+        </sp>
+        <pb n="381"/>
+        <sp who="#njanja-leshij">
+          <speaker>Няня-леший.</speaker>
+          <p>Тише! Тише, люди! Мальчики, тише! <stage>(Взлетает на воздух и, пройдясь по вершинам
+              деревьев колесом, чертит рукой,полной светлячков, знак и исчезает.)</stage></p>
+        </sp>
+        <stage>Немини торопливо повязывают повязки.</stage>
+        <sp who="#berezomir">
+          <speaker>Березомир</speaker>
+          <stage>(глухо завывает).</stage>
+          <p>О, стар я!.. И я только растение... И мне не страшны никто.</p>
+        </sp>
+        <stage>Навстречу вылетают духи с повязками слепоты и глухоты и старательно повязывают ими
+          людям глаза и морду.</stage>
+        <sp who="dukhi">
+          <p>Пусть не видят! Пусть не слышат!</p>
+        </sp>
+        <stage>Люди, разговаривая между собой, проходят.</stage>
+        <sp who="#molodoj_rabochij">
+          <speaker>Молодой рабочий</speaker>
+          <stage>(радостно, вдохновенно).</stage>
+          <p>Так! И никаких, значит, леших нет. И все это нужно, чтобы затемнить ум необразованному
+            человеку... Темному.</p>
+        </sp>
+        <stage>Снегич-Маревич подлетает и бросает в рот снег. Бросает за меховой воротник, где
+          холодно, бросает в рот и в лицо говорящему. Снезини прилетают и опрокидывают над
+          говорящими подолы снега.</stage>
+        <sp who="#vtoroj_chelovek">
+          <speaker>2-й человек</speaker>
+          <stage>(спокойно).</stage>
+          <p>Вообще ничего нет, кроме орудий производства...</p>
+          <stage>Снегич-Маревич бросает в рот снег.</stage>
+          <p>Однако, холодновато. Идем. Итак, вообще ничего нет. <stage> (Уходит.)</stage>
+          </p>
+        </sp>
+        <stage>Играющие снова появляются и играют.</stage>
+        <sp who="#nekij_glas">
+          <speaker>Некий глас.</speaker>
+          <p>Отвергшие — отвергнуты!</p>
+        </sp>
+        <stage>И Снезини, и Березомир, и Снегич-Маревич — все вздрагивает и с ужасом прислушивается
+          к новому голосу.</stage>
+        <sp who="#nekij_glas">
+          <speaker>Некий глас</speaker>
+          <stage>(с новой силой, точно ударгрома).</stage>
+          <p>Отвергнуты отвергшие!</p>
+        </sp>
+        <sp who="#veschezhonka">
+          <speaker>Вещежонка</speaker>
+          <stage>(помавая снегообразной седой головой).</stage>
+          <p>Это о них... о ушедших... о них... <stage>(Склоняется все ниже и ниже к земле
+              головой.)</stage></p>
+        </sp>
+        <sp who="#berezomir">
+          <speaker>Березомир.</speaker>
+          <p>А... стар я.</p>
+          <stage>Снезини и Любоч с новой силой отдаются старым русалиям.</stage>
+          <p>О них — о чужаках...</p>
+        </sp>
+        <sp who="#starushka-dokladchitsa">
+          <speaker>Старушка-докладчица.</speaker>
+          <p>Чужаков нетути... да! ушли из лесу. В поле пошли.</p>
+        </sp>
+        <sp who="#bes">
+          <speaker>Бес.</speaker>
+          <p>Кто холит корову? бес. Кто отвечает за нее? бес. А ты что делал? Ставил сети? Ловил
+            снегирей? пухляков?</p>
+        </sp>
+        <sp who="#besenysh-besok">
+          <speaker>Бесеныш</speaker>
+          <stage>(сквозь слезы).</stage>
+          <p>Колоколец худо звучит — пастушонок не находит — волк поел.</p>
+        </sp>
+        <sp who="#bes">
+          <speaker>Бес.</speaker>
+          <p>Вот тебе, голубчик... зачем волк поел. <stage>(Наламывает березовые
+            прутья.)</stage></p>
+        </sp>
+        <sp who="#berezomir">
+          <speaker>Березомир.</speaker>
+          <p>На доброе дело и себя не жаль.</p>
+        </sp>
+        <sp who="#besenysh-besok">
+          <speaker>Бесок</speaker>
+          <stage>(плача).</stage>
+          <p>Не буду, дедушка! Ой, больше не буду! Миленький, дорогой!</p>
+        </sp>
+        <pb n="382"/>
+        <sp who="#berezomir">
+          <speaker>Березомир</speaker>
+          <stage>(глядя).</stage>
+          <p>Ничего, не повредит... Малец еще...</p>
+        </sp>
+        <stage>Отдыхая, Снегич-Маревич и Снезини прилегли на стволах деревьев.</stage>
+        <sp who="#lipjanoe_byvmo">
+          <speaker>Липяное бывьмо.</speaker>
+          <p>Сладка нега белых тел.</p>
+        </sp>
+        <stage>Пробегает заяц — плутоватый комок зимы. Снезини окружают его и играют с ним.</stage>
+        <sp who="#snezini">
+          <speaker>Снезини.</speaker>
+          <p>Ай, воришка! А у кого ты украл свою шубку? У Зимы!</p>
+        </sp>
+        <stage>Заяц встает на задние лапы и, играя, ударяет лапами.</stage>
+        <sp who="#vselennichi">
+          <speaker>Вселенничи</speaker>
+          <stage>(играя)</stage>
+          <l>Крылом вселенновым овеяла</l>
+          <l>И в тихую мгляность растаяла.</l>
+          <l>Вселенничей-слезичей сеяла</l>
+          <l>И душу прекрасным измаяла.</l>
+        </sp>
+        <stage>Слепини, играя, повязывают зайцу глаза. Пробегает, оставляя красный след,
+          волк.</stage>
+        <sp who="#vse_1">
+          <speaker>Все.</speaker>
+          <p>Волченька... милый... волченька... бедун ты наш... горюн ты наш... извечный.</p>
+        </sp>
+        <sp who="#moroznyj_tjatka">
+          <speaker>Морозный тятька.</speaker>
+          <p>Этого так нельзя оставить... Здесь нужна лечоба.</p>
+        </sp>
+        <stage>Волк садится и жарко облизывается языком. Вокруг него хлопочут над врачеванием его
+          ран. С диким воем проносятся гончие. Березомир хлешет их ветвями. Снезини садятся им на
+          шеи и уносятся вдаль. Показывается усталый охотник с ружьем в руке. Он в белом кафтане и
+          черном поясе.</stage>
+        <sp who="#snezhak">
+          <speaker>Снежак.</speaker>
+          <p>За дело, белые друзья. <stage>(Разводит упругие прутья, и они звонко хлещут по
+              разгоряченному красному лицу и выпученным глазам усатого сивоглазого
+              охотника.)</stage></p>
+        </sp>
+        <sp who="#drevoljud">
+          <speaker>Древолюд.</speaker>
+          <p>Ха-ха-ха! <stage>(Размахивает от радости белыми пестрыми руками.)</stage></p>
+        </sp>
+        <sp who="#snezhachiha">
+          <speaker>Снежачиха.</speaker>
+          <p>А эта хворостиночка тебе люба? <stage>(Подкладывает под ноги ветку, и охотник,
+              задыхаясь и делая безумные глаза, падает в снег, ружье дает выстрел.)</stage></p>
+        </sp>
+        <sp who="#lipovyj_paren">
+          <speaker>Липовый парень.</speaker>
+          <p>Ай, больно, больно! .. <stage>(Дрожит и долго качается.)</stage></p>
+        </sp>
+        <stage>Барин уходит назад, без шапки, без пояса, дикий и простоволосый.</stage>
+        <sp who="#drevoljud #snegchie">
+          <speaker>Древолюд и Снегчие.</speaker>
+          <p>Ха-ха-ха! Ну, и потешен же честной народ!</p>
+        </sp>
+        <sp who="#belyj_muzhik">
+          <speaker>Белый мужик.</speaker>
+          <p>Но что это? Пробежали морозные рынды. Стучат снегавицами, секирами; ищут. Осматривают.
+            Провыл бирючий<note place="foot">Бирючий — от «бирюч»: глашатай.</note>. Вышел снежный
+            барин. Чешет голову.</p>
+        </sp>
+        <sp who="#belyj_bojarin">
+          <speaker>Белый боярин.</speaker>
+          <p>Честной народ! Ушла она! Как дым в небо. Как снег в весну. Ушла. Истаяла.</p>
+        </sp>
+        <sp who="#vse_1">
+          <speaker>Все.</speaker>
+          <p>Кто? Кто?</p>
+        </sp>
+        <sp who="#snezhnye_mamki">
+          <speaker>Снежные мамки.</speaker>
+          <p>Да Снежимочка! Снежимочка! Снежимочка же!</p>
+        </sp>
+        <sp who="#belyj_bojarin">
+          <speaker>Белый боярин</speaker>
+          <stage>(понурив голову).</stage>
+          <p>Снежимочка...</p>
+        </sp>
+        <sp who="#vse_1">
+          <speaker>Все.</speaker>
+          <p>Куда?</p>
+        </sp>
+        <sp who="#snezhnye_mamki">
+          <speaker>Снежные мамки.</speaker>
+          <p>Да в город же! В город. В город ушла.</p>
+        </sp>
+        <sp who="#vse_1">
+          <speaker>Все.</speaker>
+          <p>В город...</p>
+        </sp>
+        <pb n="384"/>
+        <sp who="#berezomir">
+          <speaker>Березомир</speaker>
+          <stage>(опуская голову).</stage>
+          <p>В город... Снежимочка... в город.. <stage>(В раздумье глубоко поникает
+              головой.)</stage> Лесная душа... В город...</p>
+        </sp>
+        <sp who="#vse_1">
+          <speaker>Все.</speaker>
+          <p>В город...</p>
+        </sp>
+        <stage>Глубокое раздумье.</stage>
+        <sp who="#snegomuzhe">
+          <speaker>Снегомужье.</speaker>
+          <p>Ушла...</p>
+        </sp>
+        <sp who="#berezomir">
+          <speaker>Березомир</speaker>
+          <stage>(грустно).</stage>
+          <p>Ушла...</p>
+        </sp>
+        <sp who="#zajats">
+          <speaker>Заяц.</speaker>
+          <p>Я проскакал сейчас до балки Снегоубийц, здесь к ее следамприсоединяются большие
+            мужские.</p>
+        </sp>
+        <sp who="#snegun">
+          <speaker>Снегун.</speaker>
+          <p>Проскакал? Мужские?</p>
+        </sp>
+        <sp who="#vse_1">
+          <speaker>Все.</speaker>
+          <p>Ах! ах!</p>
+        </sp>
+        <stage>Боярышни падают в обморок.</stage>
+        <stage>У Снегуна, этого скорбно величавого старика, на больших глазах навертываются слезы, и
+          он подымает с просьбой о помощи белые глаза к небу.</stage>
+        <sp who="#voron">
+          <speaker>Ворон.</speaker>
+          <p>Снимите с меня немину.</p>
+          <stage>Немини снимают.</stage>
+          <p>Врешь, мелкий врунишка, вырезатель липовых карманов, обкрадыватель полушубков у всех
+            липовых парней.</p>
+        </sp>
+        <sp who="#rynda">
+          <speaker>Рында.</speaker>
+          <p>К делу!</p>
+        </sp>
+        <sp who="#zajats">
+          <speaker>Заяц.</speaker>
+          <p>Сам врунишка! Ишь какой ушатый!</p>
+        </sp>
+        <sp who="#voron">
+          <speaker>Ворон.</speaker>
+          <p>Молчи, заяц!</p>
+        </sp>
+        <sp who="#zajats">
+          <speaker>Заяц.</speaker>
+          <p>А кто зайчиху Милюту на смерть заклевал? да!</p>
+        </sp>
+        <sp who="#snezhnye_mamki">
+          <speaker>Мамки.</speaker>
+          <p>Да что они, издеваются, что ли? Охальники!</p>
+        </sp>
+        <sp who="#voron">
+          <speaker>Ворон.</speaker>
+          <p>Это не были следы другого человека, это были лапти, которые висели у куста «Ясные
+            зайцы» еще с тех пор.</p>
+        </sp>
+        <sp who="#rynda">
+          <speaker>Рында.</speaker>
+          <p>К делу!</p>
+        </sp>
+        <sp who="#voron">
+          <speaker>Ворон.</speaker>
+          <p>Она сняла их и нарочно делала следы, чтобы запутать свой след.</p>
+        </sp>
+        <sp who="#snegun">
+          <speaker>Снегун</speaker>
+          <stage>(плача).</stage>
+          <p>Бедная ты моя девочка...</p>
+        </sp>
+        <sp who="#snezhnye_mamki">
+          <speaker>Снежные мамки.</speaker>
+          <p>Горе век будет мыкать? Век грущун будет горевать!Сердечная моя!</p>
+        </sp>
+        <stage>Снегун машет рукой, все удаляются.</stage>
+        <sp who="#voron">
+          <speaker>Ворон</speaker>
+          <stage>(взмахивая крыльями).</stage>
+          <p>Она пошла к ховуну... <stage>(Улетает.)</stage></p>
+        </sp>
+      </div>
+      <div type="act">
+        <head>2-е деймо</head>
+        <sp who="#hovun">
+          <speaker>&#60;Ховун.&#62;</speaker>
+          <p>Нонче норовят все из нас книги... Старых разбойников нет. Те, что свистнут в два
+            пальца, и откуда ни возьмись сивка-бурка пышет ноздрями.</p>
+        </sp>
+        <sp who="#pervyj_sobesednik">
+          <speaker>&#60;1-й собеседник.&#62;</speaker>
+          <p>Складно сказано, дед. Читал ты, дедушка, Каутского?</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>&#60;Ховун.&#62;</speaker>
+          <p>Мы, барин, темные люди черной сотни. Живем в лесу, а и в гостях у нас либо ворон, либо
+            вор. Не научены мы.</p>
+        </sp>
+        <sp who="#pervyj_sobesednik">
+          <speaker>&#60;1-й собеседник.&#62;</speaker>
+          <p>А, вот он, мракобес, где!</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>А ты, парень, ворона оставь. Ворон — гордая птица. А не то видишь? а?
+              <stage>(Показывает батог.)</stage></p>
+        </sp>
+        <pb n="385"/>
+        <sp who="#pervyj_sobesednik">
+          <speaker>1-й собеседник.</speaker>
+          <p>Ныне отпущаеши раба твоего, черного гордея, гордого ворона, заступничеством же лесного
+            истинолюба.</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>А и шуточки свои оставь, парень. Не к месту они.</p>
+        </sp>
+        <sp who="#vtoroj_sobesednik">
+          <speaker>2-й собеседник.</speaker>
+          <p>Ну, дедка, успокойся, не злись, говорю. Сослужил службу немалую. Пришла осень — золотые
+            вкушай плоды. Слушаешь. Вот. Мало? Бормочешь?</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>Я те бормочу, баринок, ворон молвит. <stage>(Бросает ворону бумажки, тот раздирает их,
+              старый плут, поглядывая на Ховуна ипомогая клюву лапой.)</stage></p>
+        </sp>
+        <sp who="#vtoroj_sobesednik">
+          <speaker>2-й собеседник</speaker>
+          <stage>(возмущенно вскакивает с места).</stage>
+          <p>Каков? а? Каков? Ну, и умник же ты, дедушка! Но твое дело.</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>Ховун</speaker>
+          <stage>(сощурив от злостиглаза).</stage>
+          <p>А про батог забыл, барин? а? Разошлись не в своей избе.</p>
+        </sp>
+        <stage>Три размеренных удара в двери: «Отвори!»</stage>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>Войдет, кто может.</p>
+        </sp>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка.</speaker>
+          <p>Вхожу, дедушка. Здравствуй!</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>Морозный обычай, детка.</p>
+        </sp>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка.</speaker>
+          <p>Людской обычай, дедушка. Здравствуй, ворон!</p>
+        </sp>
+        <sp who="#pervyj_sobesednik">
+          <speaker>1-й собеседник</speaker>
+          <stage>(недоверчиво).</stage>
+          <p>Что это, из «Снегурочки» Римского-Корсакова? Ведь мы, товарищи, не спим?</p>
+          <stage>Ворон налетает и клюет собеседника в глаз, сине-черный умник.</stage>
+          <p>Ай, мошенник, чуть не выклевал глаза! Многоуважаемый товарищ Борис, не обсудить ли нам
+            по-товарищески создавшееся положение вещей?</p>
+        </sp>
+        <sp who="#vtoroj_sobesednik">
+          <speaker>2-й собеседник</speaker>
+          <stage>(картавя и сюсюкая).</stage>
+          <p>Очень и очень даже кстати.</p>
+          <stage>(Пришепетывая, удаляются в другую светелку.)</stage>
+        </sp>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка.</speaker>
+          <p>Кто это, дедушка?</p>
+        </sp>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>А... руковерхники... Качались бы, как спелые вишни... Сидели бы скромненько... Так нет
+            же... невежничают. Изобидели тебя, ворон, черняга?</p>
+        </sp>
+        <stage>Ворон, растопырив шею и крылья, слетает с места и, усевшись на плече Ховуна, подымая
+          голову, жалобно каркает.</stage>
+        <sp who="#hovun">
+          <speaker>Ховун.</speaker>
+          <p>Что? злое почуял, вещун?</p>
+        </sp>
+        <stage>Из двери стремительно выбегает 2-й собеседник с бумагой и оружием. Он с рыжей
+          темноогненной бородой и зелено-голубыми холодными глазами. Вытянув вперед руку, он читает
+          неестественно громким голосом: »В виду того, что вызывающий образ действий так называемого
+          Ховуна заставляет нас принять меры немедленной предосторожности и даже самообороны, [в
+          виду того, что некоторые обстоятельства], ясные даже для не знающих известного
+          произведения Римского-Корсакова, заставляют признать существование [готовящегося
+          предательства], в виду всего этого... батожок... Ах, черт, он дерется батожком!..— вот!»
+          Делает несколько выстрелов, и Ховун падает с простреленным черепом. Слышен топот
+          удаляющихся ног.</stage>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка.</speaker>
+          <p>Что это? Город? Или весна? Прощай, дед, мне жалко тебя. <stage>(Целует в целый глаз,
+              который блестит и жив.)</stage> Вот я и среди людей. Садись мне на плечо, ворон, мы
+            пойдем вместе. <stage>(Идет по дороге.)</stage></p>
+        </sp>
+        <sp who="#slavodej">
+          <speaker>Славодей</speaker>
+          <l>Люд стал лед,</l>
+          <l>И хохот правит свой полет.</l>
+          <l>О, город — из улиц каменный лишай,</l>
+          <l>Меня меня ты не лишай.</l>
+          <stage>(останавливаясь)</stage>
+          <pb n="386"/>
+          <l>Но что это? Иль пашня я безумья борон?</l>
+          <l>Но нет: видение и на плече виденья ворон!</l>
+          <l>Но что ж! Встречаясь с женщиной, не худо поклониться.</l>
+          <l>Ах, ее глаза блестят, как днем зарницы!</l>
+        </sp>
+        <sp who="#zhenschina_s_vedrami">
+          <speaker>Женщина с ведрами.</speaker>
+          <p>Ишь какая белавая барышня! <stage>(Останавливается и смотрит.)</stage></p>
+        </sp>
+        <sp who="#pjanitsa">
+          <speaker>Пьяница.</speaker>
+          <p>Я пью или не пью?</p>
+        </sp>
+        <sp who="#zimnij_golos">
+          <speaker>Зимний голос.</speaker>
+          <p>О, дщерь! Блюди белый закон.</p>
+        </sp>
+        <stage>Идут по дороге в город. Прохожие попадаются все чаще и чаще.</stage>
+        <sp who="#snegej">
+          <speaker>Снегей.</speaker>
+          <p>О, не ходи!</p>
+        </sp>
+        <sp who="#slavodej">
+          <speaker>Славодей.</speaker>
+          <p>Вот и город...</p>
+          <l>«И дымнолиственных бор труб</l>
+          <l>Избы закатной застит сруб».</l>
+        </sp>
+        <sp who="#prohozhie">
+          <speaker>Прохожие.</speaker>
+          <p>Мы забыли два слова: гайдамак и басурман — Запорожскую Сечь.</p>
+        </sp>
+        <sp who="#nischij">
+          <speaker>Нищий.</speaker>
+          <p>Я есть хочу... я голоден... есть охота... дайте мне.</p>
+        </sp>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка.</speaker>
+          <p>Это лешачонок? А это что? Это лосиха везет, взявши зубами ветку, на которой сидит
+            несколько людей? Мы любили так забавляться у себя в лесу.</p>
+        </sp>
+        <sp who="#malchiki">
+          <speaker>Мальчики.</speaker>
+          <p>Снегурочка! Снегурочка! Помнишь, видели в Народном доме?</p>
+        </sp>
+        <stage>В толпе, которая окружает Снежимочку, проходит одобрительный ропот: «Снегурочка,
+          Снегурочка... помню». Некоторые снимают шляпы. Прохожие останавливаются, опираясь на палки
+          и седые бороды опуская на палки.</stage>
+        <sp who="#uchenyj">
+          <speaker>Ученый.</speaker>
+          <p>Всю науку придется перестроить.</p>
+        </sp>
+        <sp who="#nekto_2a">
+          <speaker>Некто.</speaker>
+          <p>Ай, какие черносотенные глаза!</p>
+        </sp>
+        <stage>Городовой перерезает шествие.</stage>
+        <sp who="#gorodovoj">
+          <speaker>Городовой.</speaker>
+          <p>Барышня... а барышня! .. Никак нельзя...</p>
+        </sp>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка</speaker>
+          <stage>(останавливаясь).</stage>
+          <p>Кто ты?</p>
+        </sp>
+        <sp who="#slavodej">
+          <speaker>Славодей.</speaker>
+          <p>Городовой... о, мой милый городовой... вот я, и вот мой вид на жительство... веди меня,
+            куда хочешь, но ее оставь: не разрушай видения. Молю тебя! <stage>(Становится на
+              колени.)</stage></p>
+        </sp>
+        <sp who="#staruha">
+          <speaker>Старуха.</speaker>
+          <p>Миленочек, миленочек, пожалей ее: видишь, она с дороги.</p>
+        </sp>
+        <stage>Городовой с суровым видом дает свисток.</stage>
+        <sp who="#pristav">
+          <speaker>Пристав.</speaker>
+          <p>Что здесь такое? А! нарушение пристойного!</p>
+        </sp>
+        <sp who="#snezhimochka">
+          <speaker>Снежимочка.</speaker>
+          <p>Кто этот высокий в рядне цвета осины?</p>
+        </sp>
+        <sp who="#pristav">
+          <speaker>Пристав</speaker>
+          <stage>(резко).</stage>
+          <p>Я сказал, что не могу и не могу! Ведите в участок!</p>
+        </sp>
+        <stage>Все отправляются в участок.</stage>
+        <sp who="#otstavshij_sputnik">
+          <speaker>Отставший спутник.</speaker>
+          <p>О! я пью или не пью?</p>
+        </sp>
+        <sp who="#deti">
+          <speaker>Дети</speaker>
+          <stage>(кричат).</stage>
+          <p>Снегурочка! Снегурочка! Мы помним ее. Мы видели!</p>
+        </sp>
+        <stage>Матери выносят детей и просят благословить.</stage>
+        <sp who="#nekto_2b">
+          <speaker>Некто.</speaker>
+          <p>Ужас... где я ее видел? В какой грезе? каком безумстве! Она! она! она! <stage>(Бежит,
+              отслоняясь от нее рукой.)</stage></p>
+        </sp>
+      </div>
+      <pb n="387"/>
+      <div type="act">
+        <head>Вводьмо в 3-е деймо</head>
+        <stage>Снежак и Снежачиха плачут.</stage>
+        <sp who="#snezhak">
+          <speaker>Снежак.</speaker>
+          <p>Ушла Снегляночка, нет ее.</p>
+        </sp>
+        <stage>Ручьини ходят с ледочашами и собирают их слезы, проливая затем в ручьи.</stage>
+        <sp who="#pechalnyj_leshij-leshachonok">
+          <speaker>Печальный леший</speaker>
+          <stage>(с свирелью).</stage>
+          <l>Нега</l>
+          <l>Снега,</l>
+          <l>О, не у тех!</l>
+          <l>В опашне клеста,</l>
+          <l>В рядне снегиря</l>
+          <l>Тайна утех.</l>
+        </sp>
+        <sp who="#snezhak">
+          <speaker>Снежак</speaker>
+          <stage>(утирая слезы, поет).</stage>
+          <p>Вы, пухляки, порхучие по лозам и лесам, позовите — приманите густосвистых снегирей,
+            молвите: зовет их Снежак.</p>
+        </sp>
+        <stage>Пухляки перепархивают и, посвистывая, улетают.</stage>
+        <sp who="#snegiri">
+          <speaker>Снегири.</speaker>
+          <p>Мы здесь, Снегей.</p>
+        </sp>
+        <sp who="#snezhak">
+          <speaker>Снежак.</speaker>
+          <p>Вы полетите к птицеловам, их расставлены мелкие сети, тамрассыпано золотое зерно. Вы
+            попадете в сети, вы увидите Снежимочку, вы расскажете о мне.</p>
+        </sp>
+        <sp who="#snegiri">
+          <speaker>Снегири.</speaker>
+          <p>Мы исполним твою волю, Снегей. <stage>(Рассыпаются, исчезая, по кустам.)</stage></p>
+        </sp>
+        <stage>Снежак и Снежачиха плачут. Ледини собирают слезы в чаши.</stage>
+        <sp who="#pechalnyj_leshij-leshachonok">
+          <speaker>Лешачонок</speaker>
+          <stage>(передразнивая кого-то, играет).</stage>
+          <l>Зареву</l>
+          <l>Снегиря.</l>
+          <l>Нет негиря.</l>
+          <l>Я зареву.</l>
+        </sp>
+        <stage>(Заливается смехом и, бросив дуду в сторону, убегает.)</stage>
+        <stage>Березомир ловит его и сечет.</stage>
+        <sp who="#leshachiha">
+          <speaker>Лешачиха</speaker>
+          <stage>(трясется крючковатым носом).</stage>
+          <p>Вот я тебя прутом... прутом...</p>
+        </sp>
+      </div>
+      <div type="act">
+        <head>3-е деймо</head>
+        <stage>Песнь</stage>
+        <l>Я тело чистое несу</l>
+        <l>И вам, о улицы, отдам.</l>
+        <l>Его безгрешным донесу</l>
+        <l>И плахам города предам.</l>
+        <l>Я жертва чистая расколам,</l>
+        <l>И, отдаваясь всем распятьям,</l>
+        <l>Сожгу вас огненным глаголом,</l>
+        <l>Завяну огненным заклятьем.</l>
+        <sp who="#starets">
+          <speaker>Старец.</speaker>
+          <p>Звучали вселенновые струны, и вещалось: под милым <pb n="388"/> славянским небом
+            поклонились иным богам и отвернулись свои и надсмеялись чужие. <stage>(Выходит на
+              площадь, окруженный свитой славянской дружины.)</stage></p>
+        </sp>
+        <stage>Качаются стяги с надписью — «Славийская весна», «Веничие и величие славян»,
+          «Дедославль», «Веселые детинушки» и др. Мелькают одежды русского рода. Мелькают тяжелые
+          золотые косы. Блестят глаза юношей.</stage>
+        <sp who="#rukovoditel_prazdnestva">
+          <speaker>Руководитель празднества</speaker>
+          <stage>(с помоста).</stage>
+          <p>Сегодня праздник Очищения — Чистый день. Клянемся ли мы носить только славянские
+            одежды?</p>
+        </sp>
+        <sp who="#vse_3">
+          <speaker>Все.</speaker>
+          <p>Клянемся — единым будущим славян!</p>
+        </sp>
+        <sp who="#rukovoditel_prazdnestva">
+          <speaker>Руководитель празднества.</speaker>
+          <p>Клянемся ли мы не употреблять иностранных слов<note place="foot">Не употреблять
+              иностранных слов — основной постулат раннего Хл. (см. также 274), в пьесе использованы
+              лишь «славянские» словоформы и «славянообразные» неологизмы (имена действующих лиц и
+              др.).</note>?</p>
+        </sp>
+        <sp who="#vse_3">
+          <speaker>Все.</speaker>
+          <p>Клянемся!</p>
+        </sp>
+        <sp who="#rukovoditel_prazdnestva">
+          <speaker>Руководитель празднества.</speaker>
+          <p>Клянемся ли мы утвердить и прославить русский обычай?</p>
+        </sp>
+        <sp who="#vse_3">
+          <speaker>Все.</speaker>
+          <p>Да!</p>
+        </sp>
+        <sp who="#rukovoditel_prazdnestva">
+          <speaker>Руководитель празднества.</speaker>
+          <p>Клянемся ли вернуть старым славянским богам их вотчины — верующие души славян?</p>
+        </sp>
+        <sp who="#vse_3">
+          <speaker>Все.</speaker>
+          <p>Клянемся!</p>
+        </sp>
+        <stage>Некоторые из присутствующих надевают славянские одежды. Здесь же предлагается
+          несколько иностранных слов заменить русскими.</stage>
+        <sp who="#kto-to_iz_prisutstvujuschih">
+          <speaker>Кто-то из присутствующих.</speaker>
+          <p>Вы пришли позже. Здесь разрушали царства, там созидали новые.</p>
+          <p>Вы молоды. Вы превосходите численностью наших угнетателей. Вы превосходите их красотой
+            души и простором занятой земли. Смелее! смелее, славяне!</p>
+        </sp>
+        <stage>Присутствующие бурно выражают свой восторг. Начинаются состязания русских в беге,
+          борьбе, звучобе и славобе. Русские скачут, прыгают, бегают. Играют на свирелях.
+          Поют.</stage>
+        <sp who="#kto-to">
+          <speaker>Кто-то.</speaker>
+          <p>Но где же Снежимочка? Снежимочка где?</p>
+        </sp>
+        <sp who="#rokot">
+          <speaker>Рокот.</speaker>
+          <p>Снежимочка где? Где Снежимочка? ..</p>
+        </sp>
+        <stage>Смятение.</stage>
+        <sp who="#rukovoditel_igry">
+          <speaker>Руководитель игры</speaker>
+          <stage>(после некоторого промежутка, всходя на помост).</stage>
+          <p>Снежимочки нет. Она таинственно исчезла, но то место, где она была, покрыто весенними
+            цветами. Унесите же в руках, как негасимые свечи, разнесите по домам знаки таинственного
+            чуда и, может быть...</p>
+        </sp>
+        <sp who="#golosa_mnogih">
+          <speaker>Голоса многих.</speaker>
+          <p>Чудо! Чудо! Снежимочка растаяла цветами.</p>
+        </sp>
+        <sp who="#golos_udaljajuschihsja">
+          <speaker>Голос удаляющихся.</speaker>
+          <p>Мы будем помнить ее заветы...</p>
+        </sp>
+        <stage>Проходят, наклоняясь, тела благообразных стариц, юношей, детей и срывают благоговейно
+          длинные голубые цветы. Они горят, как свечи.</stage>
+        <sp who="#golosa_udaljajuschihsja">
+          <speaker>Голоса удаляющихся</speaker>
+          <l>Забыли мы, что искони<note place="foot">Забыли мы, что искони и сл. — ср. стих.
+              18.</note></l>
+          <l>Проржали вещие кони.</l>
+          <l>Благословляй или роси яд,</l>
+          <l>Но ты останешься одна —</l>
+          <l>Завет морского дна —</l>
+          <l>Россия.</l>
+        </sp>
+        <pb n="389"/>
+        <sp who="#novye_golosa_udaljajuschihsja">
+          <speaker>Новые голоса удаляющихся</speaker>
+          <l>Ушедшая семья морей</l>
+          <l>Закон предвечный начертала,</l>
+          <l>Но новою веков зарей</l>
+          <l>Пора текущая сметала.</l>
+          <l>Но нами вспомнится, чем были,</l>
+          <l>Восставим гордость старой были.</l>
+          <l>И цветень<note place="foot">Цветень — май.</note> сменит сечень<note place="foot"
+              >Сечень — январь.</note>,</l>
+          <l>И близки, близки сечи.</l>
+        </sp>
+        <stage>Конец 1908</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
