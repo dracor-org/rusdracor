@@ -1,76 +1,134 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xml:lang="ru" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Освобожденная Москва</title>
-        <title type="sub">трагедия</title>
-        <author key="Wikidata:Q1930316">Херасков М.М.</author>
+        <title type="main" xml:lang="ru">Освобожденная Москва</title>
+        <title type="main" xml:lang="en">Liberated Moscow</title>
+        <title type="sub" xml:lang="ru">–</title>
+        <title type="sub" xml:lang="en">–</title>
+        <author key="Wikidata:Q1930316">Херасков, Михаил Матвеевич</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/kheraskov-moskva</idno>
-        <idno type="RusDraCor">100</idno>
+        <idno type="URL">https://dracor.org/rus/kheraskov-osvobozhdennaja-moskva</idno>
+        <idno type="RusDraCor">111</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q58191810</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Русская виртуальная библиотека (rvb.ru)</name>
           <idno type="URL">https://rvb.ru/18vek/heraskov/01text/03tragedies/64.htm</idno>
-          <availability>
-            <licence>
-              <ab>CC BY 4.0</ab>
-              <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
-            </licence>
+          <availability status="free">
+            <p>In the public domain.</p>
           </availability>
-        </bibl>
-        <bibl type="originalSource">
-          <title>Херасков М.М. Освобожденная Москва // М.М. Херасков. Избранные произведения. М.;
-            Л.: Советский писатель, 1961. С. 297(?) 299—372. (Библиотека поэта; Большая
-            серия).</title>
-          <date type="written" when="1798">1798</date>
+          <bibl type="originalSource">
+            <title>Херасков М.М. Освобожденная Москва // М.М. Херасков. Избранные произведения. М.;
+              Л.: Советский писатель, 1961. С. 297(?) 299—372. (Библиотека поэта; Большая
+              серия).</title>
+            <date type="print" when="1798">"Впервые — отдельным изданием (М., 1798)."
+              (rvb.ru)</date>
+            <date type="premiere" when="1798">"Представлена в Москве на Петровском театре 18 января
+              1798 г." (rvb.ru)</date>
+            <date type="written"/>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="#knjaz_ruksalon">Князь Руксалон</person>
-          <person sex="MALE" xml:id="#knjaz_feodor">Князь Феодор</person>
-          <person sex="MALE" xml:id="#knjaz_dimitrij">Князь Димитрий</person>
-          <person sex="MALE" xml:id="#bojarin_ioann">Боярин Иоанн</person>
-          <person sex="MALE" xml:id="#leon">Леон</person>
-          <person sex="MALE" xml:id="#knjaz_pozharskij">Князь Пожарский</person>
-          <person sex="MALE" xml:id="#minin">Минин</person>
-          <person sex="MALE" xml:id="#hotkeev">Хоткеев</person>
-          <person sex="FEMALE" xml:id="#sofija">София</person>
-          <person sex="MALE" xml:id="#vjanko">Вьянко</person>
-          <person sex="FEMALE" xml:id="#parfenija">Парфения</person>
-          <person sex="MALE" xml:id="#nachalnik">Начальник</person>
-          <person sex="MALE" xml:id="#ruksalon">Руксалон</person>
-          <person sex="MALE" xml:id="#odin_iz_voinov">Один из воинов</person>
-          <person sex="MALE" xml:id="#getman_zhelkovskij">Гетман Желковский</person>
-          <person sex="MALE" xml:id="#vestnik">Вестник</person>
-          <person sex="MALE" xml:id="#voin">Воин</person>
-          <person sex="MALE" xml:id="#drugoj_voin">Другой воин</person>
-          <person sex="MALE" xml:id="#voenachalnik_polskij">Военачальник польский</person>
-          <person sex="MALE" xml:id="#velmozha">Вельможа</person>
-          <person sex="MALE" xml:id="#velmozhi">Вельможи</person>
-          <person sex="FEMALE" xml:id="#devitsy">Девицы</person>
-          <person sex="MALE" xml:id="#narod">Народ</person>
+          <person xml:id="knjaz_ruksalon" sex="MALE">
+            <name>Князь Руксалон</name>
+          </person>
+          <person xml:id="knjaz_feodor" sex="MALE">
+            <name>Князь Феодор</name>
+          </person>
+          <person xml:id="knjaz_dimitrij" sex="MALE">
+            <name>Князь Димитрий</name>
+          </person>
+          <person xml:id="bojarin_ioann" sex="MALE">
+            <name>Боярин Иоанн</name>
+          </person>
+          <person xml:id="leon" sex="MALE">
+            <name>Леон</name>
+          </person>
+          <person xml:id="knjaz_pozharskij" sex="MALE">
+            <name>Князь Пожарский</name>
+          </person>
+          <person xml:id="minin" sex="MALE">
+            <name>Минин</name>
+          </person>
+          <person xml:id="hotkeev" sex="MALE">
+            <name>Хоткеев</name>
+          </person>
+          <person xml:id="sofija" sex="FEMALE">
+            <name>София</name>
+          </person>
+          <person xml:id="vjanko" sex="MALE">
+            <name>Вьянко</name>
+          </person>
+          <person xml:id="parfenija" sex="FEMALE">
+            <name>Парфения</name>
+          </person>
+          <person xml:id="nachalnik" sex="MALE">
+            <name>Начальник</name>
+          </person>
+          <person xml:id="ruksalon" sex="MALE">
+            <name>Руксалон</name>
+          </person>
+          <person xml:id="odin_iz_voinov" sex="MALE">
+            <name>Один из воинов</name>
+          </person>
+          <person xml:id="getman_zhelkovskij" sex="MALE">
+            <name>Гетман Желковский</name>
+          </person>
+          <person xml:id="vestnik" sex="MALE">
+            <name>Вестник</name>
+          </person>
+          <person xml:id="voin" sex="MALE">
+            <name>Воин</name>
+          </person>
+          <person xml:id="drugoj_voin" sex="MALE">
+            <name>Другой воин</name>
+          </person>
+          <person xml:id="voenachalnik_polskij" sex="MALE">
+            <name>Военачальник польский</name>
+          </person>
+          <person xml:id="velmozha">
+            <name>Вельможа</name>
+          </person>
+          <person xml:id="velmozhi" sex="MALE">
+            <name>Вельможи</name>
+          </person>
+          <person xml:id="devitsy" sex="FEMALE">
+            <name>Девицы</name>
+          </person>
+          <person xml:id="narod" sex="MALE">
+            <name>Народ</name>
+          </person>
         </listPerson>
       </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle" subtype="tragedy"/>
+        </keywords>
+      </textClass>
     </profileDesc>
+    <revisionDesc>
+      <change when="2018-11-01">(ay) convert from source</change>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front>
       <docTitle>
-        <titlePart type="main">трагедия</titlePart>
+        <titlePart type="main">Освобожденная Москва</titlePart>
       </docTitle>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
