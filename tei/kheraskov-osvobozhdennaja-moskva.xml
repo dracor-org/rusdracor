@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
@@ -29,13 +30,10 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Херасков М.М. Освобожденная Москва // М.М. Херасков. Избранные произведения. М.;
-              Л.: Советский писатель, 1961. С. 297(?) 299—372. (Библиотека поэта; Большая
-              серия).</title>
-            <date type="print" when="1798">"Впервые — отдельным изданием (М., 1798)."
-              (rvb.ru)</date>
-            <date type="premiere" when="1798">"Представлена в Москве на Петровском театре 18 января
-              1798 г." (rvb.ru)</date>
+            <title>Херасков М.М. Освобожденная Москва // М.М. Херасков. Избранные произведения. М.; Л.: Советский писатель, 1961. С. 297(?) 299—372. (Библиотека поэта; Большая серия).</title>
+            <date type="print" when="1798">«Впервые — отдельным изданием (М., 1798).» (rvb.ru)</date>
+            <date type="premiere" when="1798">«Представлена в Москве на Петровском театре 18 января
+              1798 г.» (rvb.ru)</date>
             <date type="written"/>
           </bibl>
         </bibl>
@@ -79,9 +77,6 @@
           </person>
           <person xml:id="nachalnik" sex="MALE">
             <persName>Начальник</persName>
-          </person>
-          <person xml:id="ruksalon" sex="MALE">
-            <persName>Руксалон</persName>
           </person>
           <person xml:id="odin_iz_voinov" sex="MALE">
             <persName>Один из воинов</persName>
@@ -1266,7 +1261,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ СЕДЬМОЕ</head>
           <stage>Те же, Руксалон и Минин.</stage>
-          <sp who="#ruksalon">
+          <sp who="#knjaz_ruksalon">
             <speaker>Руксалон</speaker>
             <l>С врученным воинством, с жезлом как будто царским</l>
             <l>Пойдем к сражению, врученным нам Пожарским.</l>
@@ -1289,7 +1284,7 @@
             <l>Коль не Пожарскому, кому осталось верить?</l>
           </sp>
           <pb n="323"/>
-          <sp who="#ruksalon">
+          <sp who="#knjaz_ruksalon">
             <speaker>Руксалон</speaker>
             <l>Россию целую я вверил бы ему,</l>
             <l>А вход его сестры на свой ответ приму.</l>
@@ -1314,7 +1309,7 @@
             <l part="I">Пойдем!</l>
           </sp>
           <stage>Удаляются.</stage>
-          <sp who="#ruksalon">
+          <sp who="#knjaz_ruksalon">
             <speaker>Руксалон</speaker>
             <l part="F">Пойдем и мы на подвиги геройски!</l>
             <stage>(Вслед Леону)</stage>
@@ -1326,7 +1321,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ ВОСЬМОЕ</head>
           <stage>Князь Руксалон и Минин.</stage>
-          <sp who="#ruksalon">
+          <sp who="#knjaz_ruksalon">
             <speaker>Руксалон</speaker>
             <l>Приляжем с воинством мы к сей стране московской,</l>
             <l>Где всё опустошил наш враг, гетман Желковский.</l>
@@ -1793,7 +1788,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ ПЯТОЕ</head>
           <stage>Те же, Руксалон и Минин.</stage>
-          <sp who="#ruksalon">
+          <sp who="#knjaz_ruksalon">
             <speaker>Руксалон</speaker>
             <stage>(вонзая копье)</stage>
             <l>Никак нельзя служить!.. Вот меч, мое копье,</l>
