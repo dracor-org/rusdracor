@@ -1,0 +1,3000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Мария</title>
+        <title type="main" xml:lang="en">Maria</title>
+        <title type="sub" xml:lang="ru">Пьеса в 8 картинах</title>
+        <title type="sub" xml:lang="en">A Play in Eight Acts</title>
+        <author key="Wikidata:Q49080">Бабель Исаак Эммануилович</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL"/>
+        <idno type="RusDraCor">119</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q6760975</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Wikilivres/Bibliowiki</name>
+          <idno type="URL">https://wikilivres.org/wiki/Мария_(Бабель)</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Бабель И. Избранное. Фрунзе, Адабият, 1989. С.450-486.</title>
+            <date type="print" when="1935">Пьеса «Мария» была впервые опубликована в журнале «Театр
+              и драматургия», 1935, № 3, февраль, с.45-59. (Wikilivres)</date>
+            <date type="premiere" when="1964">"in 1964, an at the time completely unknown play,
+              Maria, received its first ever production in Italy" (web.stanford.edu)</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="evstigneich" sex="MALE">
+            <persName>Евстигнеич</persName>
+            <persName xml:lang="en">Evstignevich</persName>
+          </person>
+          <person xml:id="bishonkov" sex="MALE">
+            <persName>Бишонков</persName>
+            <persName xml:lang="en">Bishonkov</persName>
+          </person>
+          <person xml:id="dymshits" sex="MALE">
+            <persName>Дымшиц Исаак Маркович</persName>
+            <persName xml:lang="en">Dimshits</persName>
+          </person>
+          <person xml:id="viskovskiy" sex="MALE">
+            <persName>Висковский</persName>
+            <persName xml:lang="en">Viskovsky</persName>
+          </person>
+          <person xml:id="filipp" sex="MALE">
+            <persName>Филипп</persName>
+            <persName xml:lang="en">Filip</persName>
+          </person>
+          <person xml:id="lyudmila" sex="FEMALE">
+            <persName>Людмила</persName>
+            <persName xml:lang="en">Ludmila</persName>
+          </person>
+          <person xml:id="katya" sex="FEMALE">
+            <persName>Фельзен Катерина Вячеславовна</persName>
+            <persName xml:lang="en">Katya</persName>
+          </person>
+          <person xml:id="mukovnin" sex="MALE">
+            <persName>Муковнин Николай Васильевич</persName>
+            <persName xml:lang="en">Mukovnin</persName>
+          </person>
+          <person xml:id="golitsyn" sex="MALE">
+            <persName>Голицын Сергей Илларионович</persName>
+            <persName xml:lang="en">Golitsyn</persName>
+          </person>
+          <person xml:id="kravchenko" sex="MALE">
+            <persName>Кравченко</persName>
+            <persName xml:lang="en">Kravchenko</persName>
+          </person>
+          <person xml:id="dora" sex="FEMALE">
+            <persName>Мадам Дора</persName>
+            <persName xml:lang="en">Madame Dora</persName>
+          </person>
+          <person xml:id="nadziratel" sex="MALE">
+            <persName>Надзиратель</persName>
+            <persName xml:lang="en">A Police Inspector</persName>
+          </person>
+          <person xml:id="kalmykova" sex="FEMALE">
+            <persName>Калмыкова</persName>
+            <persName xml:lang="en">Kalmikova</persName>
+          </person>
+          <person xml:id="nefyodovna" sex="FEMALE">
+            <persName>Нефедовна</persName>
+            <persName xml:lang="en">Nefedovna</persName>
+          </person>
+          <person xml:id="krasnoarmeets" sex="MALE">
+            <persName>Красноармеец</persName>
+            <persName xml:lang="en">A Red Army Fighter</persName>
+          </person>
+          <person xml:id="agasha" sex="FEMALE">
+            <persName>Агаша</persName>
+            <persName xml:lang="en">Agasha</persName>
+          </person>
+          <person xml:id="tikhon" sex="MALE">
+            <persName>Тихон</persName>
+            <persName xml:lang="en">Tikhon</persName>
+          </person>
+          <person xml:id="andrei" sex="MALE">
+            <persName>Андрей</persName>
+            <persName xml:lang="en">Andrei</persName>
+          </person>
+          <person xml:id="sushkin" sex="MALE">
+            <persName>Сушкин</persName>
+            <persName xml:lang="en">Sushkin</persName>
+          </person>
+          <person xml:id="kuzma" sex="MALE">
+            <persName>Кузьма</persName>
+            <persName xml:lang="en">Kuzma</persName>
+          </person>
+          <person xml:id="elena" sex="FEMALE">
+            <persName>Елена</persName>
+            <persName xml:lang="en">Elena</persName>
+          </person>
+          <person xml:id="nyusha" sex="FEMALE">
+            <persName>Нюша</persName>
+            <persName xml:lang="en">Nyusha</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Пьеса в 8 картинах</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-15">(im) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Мария</titlePart>
+        <titlePart type="sub">Пьеса в 8 картинах</titlePart>
+      </docTitle>
+      <castList>
+        <head>Действующие лица</head>
+        <castItem>Муковнин Николай Васильевич.</castItem>
+        <castItem>Людмила — его дочь.</castItem>
+        <castItem>Фельзен Катерина Вячеславовна.</castItem>
+        <castItem>Дымшиц Исаак Маркович.</castItem>
+        <castItem>Голицын Сергей Илларионович — бывший князь.</castItem>
+        <castItem>Нефедовна — нянька в доме Муковнина.</castItem>
+        <castGroup>
+          <castItem>Евстигнеич,</castItem>
+          <castItem>Бишонков,</castItem>
+          <castItem>Филипп</castItem>
+          <roleDesc>инвалиды.</roleDesc>
+        </castGroup>
+        <castItem>Висковский — бывший ротмистр гвардии.</castItem>
+        <castItem>Кравченко.</castItem>
+        <castItem>Мадам Дора.</castItem>
+        <castItem>Надзиратель — в милиции.</castItem>
+        <castItem>Калмыкова — горничная в номерах на Невском, 86.</castItem>
+        <castItem>Агаша — дворничиха.</castItem>
+        <castGroup>
+          <castItem>Андрей,</castItem>
+          <castItem>Кузьма,</castItem>
+          <castItem>Сушкин</castItem>
+          <roleDesc>полотёры.</roleDesc>
+        </castGroup>
+        <castItem>Сафонов — рабочий.</castItem>
+        <castItem>Елена — его жена.</castItem>
+        <castItem>Нюшка.</castItem>
+        <castItem>Милиционер.</castItem>
+        <castItem>Пьяный — в милиции.</castItem>
+        <castItem>Красноармеец — с фронта.</castItem>
+      </castList>
+      <set>
+        <stage>Действие происходит в Петрограде, в первые годы революции.</stage>
+      </set>
+    </front>
+    <body>
+      <div type="scene">
+        <head>Картина первая</head>
+        <stage>Номера на Невском. Комната Дымшица — грязно, нагромождение мешков, ящиков, мебели.
+          Два инвалида, Бишонков и Евстигнеич, раскладывают привезённые продукты. У Евстигнеича —
+          тучного человека с большим красным лицом — выше колен отняты ноги. У Бишонкова зашпилен
+          пустой рукав. На груди у инвалидов — медали, георгиевские кресты. Дымшиц бросает на
+          счетах.</stage>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Дорогу всю расшлёпали... Зандберг был на Вырице, людям жить давал, — убрали.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Слишком тиранят, Исаак Маркович.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>А Королёв есть?</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Зачем «есть», — коцнули. Дорогу как есть расшлёпали, все заградиловки новые.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Слишком стало затруднительно с продуктовым делом, Исаак Маркович. К одной заградиловке
+            привыкнешь, а её уже нет. Хоть бы отбирали, а то ведь смерть к глазам приставляют.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Ума не дашь... Каждый день изобретение делают... Подъезжаем нонче к Царскосельскому —
+            стрельба. Что такое?.. Думаем — власть отошла, а они это моду такую взяли — допрежде
+            всякого разбору бахать.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Большое богатство продуктов нонешний день отобрали. Деткам, говорят, пойдёт... В
+            Царском Селе в настоящее время одни дети — колония считается.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Деткам, да с бородой.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>А если я голодный, неужели ж я себе не возьму? Обязательно я себе возьму, если я
+            голодный.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Где Филипп? Я о Филиппе думаю... Зачем вы человека бросили?</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Мы его, Исаак Маркович, не бросали: он чувства свои потерял.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Водит его кто-нибудь...</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Одно слово — тиранство, Исаак Маркович.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Того же Филиппа взять: мужчина рослый, заметный, а внутренности нет, внутренность
+            слабая... Подъезжаем к вокзалу — стрельба, народ плачет, падает... Я ему говорю:
+            «Филипп, говорю, мы форткой на Загородный пройдём, там вся цепочка своя». А уж он не
+            тот, потерялся. «Я, говорит, опасываюсь идти«. — «Ну, говорю, опасываешься, — сиди...
+            Спиртонос — божий человек, только в морду дадут, чего тебе бояться? На тебе один пояс с
+            вином...» А его уж к полу привалило. Мужчина сильный, лошадиная сила, а внутренность не
+            та.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Мы так надеемся, Исаак Маркович, — отыщется. За ним следу большого нет.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Почём колбасу брали?</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Колбасу, Исаак Маркович, по восемнадцать тысяч брали, да и похужело. В настоящее время,
+            что Витебск, что Петроград — один завод.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич</speaker>
+          <stage>(открывает в стенке потайное место, переносит туда продукты).</stage>
+          <p>Подравняли Расею.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Крупа почём?</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Крупа, Исаак Маркович, девять тысяч, а слово напротив скажешь — не бери. Торговлей
+            никак не интересуются. Он того только и ждёт, чтобы тебе не понравилось. Такой кураж у
+            этих купцов пошёл — не передать!</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич</speaker>
+          <stage>(прячет в стену хлебы).</stage>
+          <p>Супруги сами хлебы пекли, свои труды клали... Кланяться велели.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Дети как — живы, здоровы?</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Дети живы, здоровы, очень благополучны. Одёваны в шубки, богатые детки... Супруга
+            приехать просят.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Больше делать нечего... <stage>(Бросает на счетах.)</stage> Бишонков!</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Я.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Не вижу пользы, Бишонков.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Слишком затруднительно стало, Исаак Маркович.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Расчёту не вижу, Бишонков.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Расчёту, Исаак Маркович, никак не видать... У нас с Евстигнеичем такая думка, что надо
+            на другой товар перекидаться. Продукт — он вещество громоздкое: мука — она громоздкая,
+            крупа — громоздкая, ножка телячья — тоже громоздкая. Надо, Исаак Маркович, на другое
+            перекидаться — на сахарин или, там, на камешки... Бриллиант — это прелестное вещество:
+            за щёку положил — и нету.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Филиппа нет... Я об Филиппе думаю.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Пожалуй, покалечили.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>И то сказать, — инвалид по восемнадцатому году фирма была, а в настоящий момент...</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Куда тебе, — образовались! Раньше у народа перед инвалидами совести не хватало, а
+            теперь — ноль внимания. «Ты зачем инвалид?» — спрашивают. «У меня, говорю, бризантный
+            снаряд обе ноги отобрал». — «А в этом, говорят, ничего такого особенного нет, у тебя,
+            говорят, без страдания оторвало, сразу... Ты, говорят, страдания не принимал». — «Как
+            это, говорю, страдания не принимал?» — «А так, говорят, известная вещь: тебе ноги под
+            хлороформом подравняли, ты ничего и не слыхал. У тебя только с пальцами недоразумение,
+            пальцы у тебя вроде стремят, чешутся, хотя они и отобраны, и больше ничего такого с
+            тобой нет». — «Как ты, говорю, можешь это знать?» — «А так, — говорит, — народ, слава те
+            филькиной сучке, образовался». — «Видно, образовался, если инвалида с поезда скидает...
+            Зачем ты, говорю, меня на путь скидаешь? Я калека...» — «А потому и скидаем, что нам в
+            Расее, говорит, на калек глядеть обрыдло». И скидает, как поленницу... Я, Исаак
+            Маркович, очень на наш народ обижаюсь.</p>
+        </sp>
+        <stage>Входит Висковский — в бриджах, в пиджаке. Рубаха расстёгнута.</stage>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Это вы?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Это я.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>А где здравствуйте?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Людмила Муковнина приходила к вам, Дымшиц?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Здравствуйте собака съела?.. А если приходила, так что?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Кольцо Муковниных у вас, я знаю, Мария Николаевна передать его вам не могла...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Передали мне люди, не обезьяны.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Как попало к вам это кольцо, Дымшиц?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Люди дали, чтоб продать.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Продайте мне.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Почему вам?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Пытались вы когда-нибудь быть джентльменом, Дымшиц?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Я всегда джентльмен.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Джентльмены не задают вопросов.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Люди хотят валюту за кольцо.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Вы должны мне пятьдесят фунтов.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>За какие такие дела?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>За дело с нитками.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Которые вы просыпали...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>В конной гвардии нас не учили торговать нитками.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Вы просыпали потому, что вы горячий.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Дайте срок, маэстро, я научусь.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Что за учение, когда вы не слушаетесь? Вам говорят одно, вы делаете другое... На войне
+            вы там ротмистр или граф — я не знаю, кто вы там, — может быть, на войне нужно, чтобы вы
+            были горячий, но в деле купец должен видеть, куда он садится.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Слушаю-с.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Я серчаю на вас, Висковский, я ещё за другое на вас серчаю. Что это был за номер с
+            княжной?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Задумано, как побогаче.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Вы знали, что она девушка?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Самый цимис...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Так вот, этого цимиса мне не надо. Я маленький человек, господин ротмистр, и не хочу,
+            чтобы эта княжна приходила ко мне, как божья матерь с картины, и смотрела на меня
+            глазами, как серебряные ложки... О чём шёл разговор? — спрашиваю я вас. Пусть это будет
+            женщина под тридцать, мы говорили, под тридцать пять, домашняя женщина, которая знает,
+            почём пуд лиха, которая взяла бы мою крупу и печёный хлеб и четыреста граммов какао для
+            детей — и не сказала бы мне потом: «Паршивый мешочник, ты меня запачкал, ты мною
+            воспользовался».</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Про запас остаётся младшая Муковнина.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Она врунья. Я не люблю женщину, когда она врунья... Почему вы меня со старшей не
+            познакомили?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Мария Николаевна уехала в армию.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Вот это был человек — Мария Николаевна, вот тут было на что посмотреть, с кем
+            поговорить... Вы дождались того, что она уехала.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Со старшей это сложно, Дымшиц. Это очень сложно.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>«Тебя, говорит, без страху убило, ты, говорит, отмучился», — вон ведь как он меня
+            обеспечил...</p>
+          <stage>Отдалённый выстрел, потом ближе; выстрелы учащаются. Дымшиц гасит свет, запирает
+            двери на ключ. Свет из окна, зелёные стёкла, мороз.</stage>
+          <stage>(Шёпотом.)</stage>
+          <p>Житуха...</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Окаянство!</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Всё матросня орудует...</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Никак жизни нет, Исаак Маркович!</p>
+          <stage>Стук в дверь. Молчание. Висковский вынимает револьвер из кармана, открывает
+            предохранитель. Снова стук.</stage>
+          <p>Кто там?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(за дверью).</stage>
+          <p>Я.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Голос дай. Кто это я?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Откройте.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Это Филипп.</p>
+          <stage>Бишонков открывает дверь. В комнату проникает бесформенное огромное существо.
+            Вошедший приваливается к стене, молчит. Вспыхивает свет. Половина Филиппова лица заросла
+            диким мясом.</stage>
+          <stage>Голова его упала на грудь, глаза закрыты.</stage>
+          <p>В тебя стреляли?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Не.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Наморился, Филипп?</p>
+          <stage>Евстигнеич с Бишонковым снимают с Филиппа тулуп, верхнюю одежду, вытаскивают из-под
+            неё резиновый костюм, бросают его на пол. Безрукий резиновый человек — второй Филипп —
+            распростёрт на полу. Пальцы Филиппа изрезаны, кровоточат.</stage>
+          <p>Оборудовали как следует быть... Человеки зовёмся...</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(голова его всё свалена на грудь).</stage>
+          <p>По следу... по следу шёл...</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Он шёл?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Он.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>В крагах?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Он.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Таперича взялись...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>До дому довёл?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(с трудом выговаривая слова).</stage>
+          <p>До дому не довёл... Стрельба перехватила, на стрельбу пошёл...</p>
+        </sp>
+        <stage>Бишонков с Евстигнеичем подхватывают раненого, укладывают его.</stage>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Я тебе сказывал — воротами пройдём...</p>
+          <stage>Филипп стонет, охает. Вдалеке выстрелы, пулемётная очередь, потом тишина.</stage>
+          <p>Житуха...</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Окаянство!..</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Где кольцо, маэстро?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Приспичило с кольцом, горит под вами...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Картина вторая</head>
+        <stage>Комната в доме Муковнина, служащая одновременно спальней, столовой, кабинетом —
+          комната 20-го года. Стильная старинная мебель; тут же «буржуйка», трубы протянуты через
+          всю комнату; под печкой сложены мелко наколотые дрова. За ширмой одевается, перед тем как
+          ехать в театр, Людмила Николаевна. На лампе греются щипцы для завивки волос. Катерина
+          Вячеславовна гладит платье.</stage>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Сударыня, ты отстала... В Мариинке теперь очень нарядная публика. Сёстры Крымовы, Варя
+            Мейендорф — все одеваются по журналу и живут превосходно, уверяю тебя.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Да кто теперь хорошо живёт? Нет таких.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Очень есть. Ты отстала, Катюша... Господа пролетарии входят во вкус: они хотят, чтобы
+            женщина была изящна. Ты думаешь, твоему Редько нравится, когда ты ходишь замарашкой?
+            Ничуть не нравится... Господа пролетарии входят во вкус, Катюша.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>На твоём месте я бы ресниц не делала, и это платье без рукавов...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Сударыня, вы забываете — я с кавалером.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Кавалер, пожалуй, не разберёт.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Не скажи. У него свой вкус, темперамент...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Рыжие горячи — это известно.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Какой же он рыжий, мой Дымшиц? Он шоколадный.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>И правда — у него так много денег?.. Висковский, по-моему, бредит.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>У Дымшица шесть тысяч фунтов стерлингов.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Всё на калеках нажил?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ничего не на калеках... Вольно же было другим додуматься. У них артель, складчина.
+            Инвалидов до сих пор не обыскивали, легче было провезти.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Нужно быть евреем, чтобы додуматься...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ах, Катюша, лучше быть евреем, чем кокаинистом, как наши мужчины... Один, смотришь,
+            кокаинист, другой дал себя расстрелять, третий в извозчики пошёл, стоит у «Европейской»,
+            седоков поджидает... Par le temps qui court<note place="foot">В наше время
+              (франц.).</note> евреи вернее всего.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Да уж вернее Дымшица не найти.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>И потом, мы бабы... Katy, мы простые бабы, вот как дворникова Агаша говорит, «трепаться
+            надоело». Мы не умеем быть неприкаянными, правда же, не умеем...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>И детей родишь?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Рожу двух рыженьких.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Значит — законный брак?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>С евреями иначе нельзя, Катюша. Они страшно семейственны, жена у них советчица, над
+            детьми они трясутся... И потом — еврей всегда благодарен женщине, которая ему
+            принадлежала. Поэтому — эта благородная черта — уважение к женщине.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Да ты откуда евреев так знаешь?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ну вот — «откуда». Папа в Вильне корпусом командовал, там все евреи... У папы приятель
+            раввин был... Они все философы — их раввины.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя</speaker>
+          <stage>(подаёт через ширму разглаженное платье).</stage>
+          <p>После театра — ужин?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Не исключено.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Конечно, вы выпьете, Людмила Николаевна, порыв страсти, всё потонуло в тумане...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Пальцем в небо, сударыня!.. Манеж будет продолжаться месяц, два месяца — с евреями так
+            надо. Ещё даже не решено, будут ли поцелуи...</p>
+        </sp>
+        <stage>Входит генерал в валенках; шинель на красной подкладке переделана в халат; две пары
+          очков.</stage>
+        <sp who="#mukovnin">
+          <speaker>Муковнин</speaker>
+          <stage>(читает).</stage>
+          <p>«...Октября шестнадцатого дня тысяча восемьсот двадцатого года, в царствование
+            благословенного императора Александра, рота лейб-гвардии Семёновского полка, забыв долг
+            присяги и воинского повиновения начальству, дерзнула самовольно собраться в позднее
+            вечернее время...» <stage>(Подымает голову.)</stage> В чём же оно выразилось — забвение
+            присяги? Выразилось оно в том, что люди вышли в коридор после переклички и решили
+            просить у командира роты отмены очередного смотра по десяткам на дому... у командира
+            полка бывали и такие смотры. За это, за так называемый бунт, было определено
+            наказание... какое? <stage>(Читает.)</stage> «...Нижних чинов, признанных зачинщиками,
+            лишить живота, людей первой и второй рот, подавших пример беспорядка, наказать
+            виселицей, рядовых, помянутых в параграфе третьем, в пример другим, прогнать
+            шпицрутенами сквозь батальон по шести раз...»</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Разве это не ужасно?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Кто же спорит, что прежде было много жестокого?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>По-моему, большевики должны ухватиться за папину книгу. Им же выгодно, чтобы бранили
+            старую армию.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Они всё требуют к текущему моменту.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Я разбираю семёновскую трагедию на две главы. Первая — исследование причин мятежа,
+            вторая — описание бунта, истязаний, отсылки в рудники... История моя будет история
+            казармы, — не перечень народов, а судьба всех этих Сидоровых и Прошек, отданных
+            Аракчееву, сосланных на двадцатилетнюю военную каторгу.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Папа, ты должен прочитать Кате главу об императоре Павле. Если бы жил Толстой, он
+            оценил бы, я уверена.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>В газетах всё требуют к настоящему моменту.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Без познания прошлого — нет пути к будущему. Большевики исполняют работу Ивана Калиты —
+            собирают русскую землю. Мы, кадровые офицеры, нужны им хотя бы для того, чтобы
+            рассказать о наших ошибках...</p>
+        </sp>
+        <stage>Звонок. Возня в прихожей. Входит Дымшиц с пакетами, в шубе.</stage>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Здравия желаю, Николай Васильевич! Здравия желаю, Катерина Вячеславна! Людмила
+            Николаевна в доме?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Ждёт вас.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(из-за ширмы).</stage>
+          <p>Я одеваюсь...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Здравия желаю, Людмила Николаевна! На улице такая погода, что хороший хозяин собаку не
+            выпустит... Меня привёз Ипполит, наговорил полную голову, всё шиворот-навыворот, —
+            такого типа поискать надо... Мы не опоздаем, Людмила Николаевна?</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>На улице белый день, а они в театр.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Николай Васильевич, театры теперь начинают в пять часов дня.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Электричество экономят?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Во-первых, электричество. Потом, если поздно возвращаться, — разденут.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц</speaker>
+          <stage>(раскладывая пакеты).</stage>
+          <p>Маленький окорочек, Николай Васильевич. Я в этом не специалист, но мне его продали, как
+            хлебный... Хлебом его кормили или чем другим — при этом мы не были...</p>
+        </sp>
+        <stage>Катя отошла в угол, курит.</stage>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Право, Исаак Маркович, вы слишком добры к нам.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Немножко шкварок...</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин</speaker>
+          <stage>(не понял).</stage>
+          <p>Виноват!</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>У вашего папы вы этого не кушали, но в Минске, в Вилюйске, в Чернобыле их уважают. Это
+            кусочки от гусятины. Вы отведаете и скажите мне ваше мнение... Как поживает книжка,
+            Николай Васильевич?</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Книжка подвигается. Я подошёл к царствованию Александра Павловича.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Читается, как роман, Исаак Маркович. Я считаю, что это напоминает «Войну и мир», — там,
+            где Толстой о солдатах говорит...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Очень приятно слушать... На улице пусть стреляют, Николай Васильевич, на улице пусть
+            бьются головой об стенку, — вы должны делать своё. Кончите книжку — магарыч мой, и на
+            первые сто экземпляров — я покупатель... Кусочек сальтисона, Николай Васильевич:
+            сальтисон домашний, от одного немца...</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Исаак Маркович, право, я рассержусь...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Это для меня честь, чтобы генерал Муковнин на меня сердился... Сальтисон дивный! Этот
+            немец был довольно видный профессор, теперь занимается колбасами... Людмила Николаевна,
+            я сильно подозреваю, что мы опоздаем.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(из-за ширмы).</stage>
+          <p>Я готова.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Сколько я вам должен, Исаак Маркович?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Вы мне должны подкову от лошади, которая издохла сегодня на Невском проспекте.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Нет, серьёзно...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Хотите серьёзно — две подковы от двух лошадей.</p>
+        </sp>
+        <stage>Из-за ширмы выходит Людмила Николаевна. Она ослепительна, стройна, румяна. В мочках
+          ушей бриллианты. На ней чёрное бархатное платье без рукавов.</stage>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Хороша у меня дочка, Исаак Маркович?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Не скажу — нет.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вот это она и есть, Исаак Маркович, — русская красота.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Не специалист в этом, но вижу, что хорошо.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Я вас ещё со старшей моей познакомлю — с Машей.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Предупреждаю: Мария Николаевна у нас любимица, — и вот, пожалуйте, любимица в солдаты
+            ушла.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Какие же это солдаты, Люка?.. В политотдел.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Ваше превосходительство, про политотдел спросите меня. Это те же солдаты.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя</speaker>
+          <stage>(отводит Людмилу в сторону).</stage>
+          <p>Право, серёг не надо.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ты думаешь?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Конечно, не надо. И потом — этот ужин...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Сударыня, спите спокойно. Учёного учить... <stage>(Целует Катю.)</stage> Катюша, ты
+            глупая, милая... <stage>(Дымшицу.)</stage> Мои ботики... <stage>(Отвернувшись, снимает
+              серьги.)</stage></p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц</speaker>
+          <stage>(кидается).</stage>
+          <p>Момент!</p>
+        </sp>
+        <stage>Одевание: ботинки, шуба, оренбургский платок. Дымшиц услуживает, мечется.</stage>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Надеваю и сама удивляюсь — ещё не продано... Папа, изволь без меня принять лекарство. И
+            не давай ему работать, Катя.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Мы домовничать будем с Катей.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(целует отца в лоб).</stage>
+          <p>Вам нравится мой папка, Исаак Маркович? Правда, он у нас не такой, как у всех...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Николай Васильевич роскошь, а не человек!</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Его никто не знает — одни мы... Где вы оставили князя Ипполита?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Оставил у ворот. Приказ — ждать, дисциплина. Момент — и будем там... Всего хорошего,
+            Николай Васильевич!</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Очень не кутите.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Очень не будем, теперь это обеспечено.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Папочка, до свидания!</p>
+        </sp>
+        <stage>Муковнин провожает дочь и Дымшица в переднюю. Голоса и смех за дверью. Генерал
+          возвращается.</stage>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Очень милый и достойный еврей.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя</speaker>
+          <stage>(забилась в угол дивана, курит).</stage>
+          <p>Мне кажется — им всем не хватает такта.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Катя, голубчик, откуда взяться такту?.. Людям позволяли жить на одной стороне улицы и
+            городовыми гнали с другой. Так было в Киеве, на Бибиковском бульваре. Откуда такту
+            взяться? Тут другому надо удивляться — энергии, жизненной силе, сопротивляемости...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Энергия эта вошла теперь в русскую жизнь, но мы ведь другие, всё это чуждо нам.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Фатализм — вот это нам не чуждо. Распутин и немка Алиса, погубившая династию, — это нам
+            не чуждо. Ничего, кроме пользы, от чудесного этого народа, давшего Гейне, Спинозу,
+            Христа...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вы и японцев хвалили, Николай Васильевич.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Что ж японцы... Японцы — великий народ, у них учиться и учиться.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вот и видно, что Марье Николаевне есть в кого пойти... Вы большевик, Николай
+            Васильевич.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Я русский офицер, Катя, и спрашиваю: как это так, господа, с каких пор, спрашиваю я,
+            правила военной игры стали чуждыми для нас?.. Мы мучили и унижали этих людей, они
+            защищались, они перешли в наступление и дерутся с находчивостью, с обдуманностью, с
+            отчаянием, скажу я, — дерутся во имя идеала, Катя.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Идеал?.. Не знаю. Мы несчастны и счастливы не будем. Нами пожертвовали, Николай
+            Васильевич.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Пусть растрясут Ванюху и Петруху, превосходно будет. И времени больше нет, Катя...
+            Единственный русский император, Пётр, сказал: «Промедление времени смерти подобно». Вот
+            заповедь! И если это так, то должно же у вас, господа офицеры, хватить мужества
+            посмотреть на карту, узнать, с какого фланга вы обойдены, где и почему нанесено вам
+            поражение... Держать глаза открытыми — моё право, и я не отказываюсь от него.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Николай Васильевич, вам надо лекарство принять.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Соратникам моим, людям, с которыми я дрался бок о бок, я говорю: господа, tirez vos
+              conclusions<note place="foot">Делайте выводы (франц.).</note>, промедление времени —
+            смерти подобно. <stage>(Уходит).</stage></p>
+        </sp>
+        <stage>За стеной на виолончели холодно и чисто играют фугу Баха. Катя слушает, потом встаёт,
+          подходит к телефону.</stage>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Дайте штаб округа... Дайте Редько... Это ты, Редько?.. Я хотела сказать... Надо думать,
+            кроме тебя, ещё есть люди, которые делают революцию, но вот ты один никак не найдёшь
+            времени, чтобы повидаться с человеком... С человеком, у которого ты ночуешь, когда тебе
+            это надо...</p>
+          <stage>Пауза.</stage>
+          <p>Редько, прокати меня. Приезжай за мной на машине... Ну да, если ты занят... Нет, я не
+            сержусь. За что же сердиться?.. <stage>(Вешает трубку.)</stage></p>
+        </sp>
+        <stage>Музыка прекращается. Входит Голицын, длинный человек в солдатской куртке и обмотках,
+          с виолончелью в руках.</stage>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Князь, как это вам сказали в трактире — «не играй плачевное»?</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>«Не играй плачевное, не тяни жилы».</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Им весёлое нужно, Сергей Илларионович. Люди забыться хотят, отдыха...</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Не все. Другие требуют чувствительного.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя</speaker>
+          <stage>(садится за рояль).</stage>
+          <p>Ваша публика — кто она?</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Грузчики с Обводного.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Пожалуй, в профсоюз пройдёте... Вы и ужин там получаете?</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Получаю.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя</speaker>
+          <stage>(играет «Яблочко», поёт вполголоса).</stage>
+          <lg>
+            <l>Пароход идёт, вода кольцами,</l>
+            <l>Будем рыбу мы кормить добровольцами.</l>
+          </lg>
+          <p>Подбирайте за мной. Вы им лучше «Яблочко» в трактире сыграйте.</p>
+          <stage>Голицын подбирает, фальшивит, потом поправляется.</stage>
+          <p>Сергей Илларионович, стоит мне заняться стенографией?</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Стенографией? Не знаю.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <lg>
+            <l>Я на бочке сидю, слёзы капают,</l>
+            <l>Никто замуж не берёт, только лапают...</l>
+          </lg>
+          <p>В стенографистках нужда теперь.</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Не умею вам сказать <stage>(подбирает «Яблочко»).</stage></p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Из всех нас настоящая женщина — Маша. У неё сила, смелость, она женщина. Мы вздыхаем
+            здесь, а она счастлива в своём политотделе... Кроме счастья — какой другой закон
+            выдумали люди?.. Его, верно, и нет, другого закона.</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Мария Николаевна руль всегда поворачивала круто. Этим она и отличается.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Она права...</p>
+          <lg>
+            <l>Ах, ты, яблочко, куда котишься.</l>
+          </lg>
+          <p>И потом, у неё роман с этим Аким Иванычем...</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын</speaker>
+          <stage>(перестаёт играть).</stage>
+          <p>Кто это Аким Иваныч?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Их командир дивизии, бывший кузнец... Она о нём в каждом письме упоминает.</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Почему же роман?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Там между строк есть, я знаю... Или уехать мне в Борисоглебск, к родным? Всё-таки
+            гнездо... Вот вы в лавру к монаху этому ходите... как зовут его?</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Сионий.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>К Сионию. Чему он учит вас?</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Вы говорили о счастье... Он учит меня видеть его не в чувстве власти над людьми и не в
+            этой беспрестанной жадности — жадности, которую мы утолить не можем.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Давайте, Сергей Илларионович.</p>
+          <lg>
+            <l>Я на бочке сидю, бочка катится,</l>
+            <l>Хоть в кармане ни гроша.</l>
+            <l>Выпить хочется...</l>
+          </lg>
+          <p>Сионий — красивое имя.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Картина третья</head>
+        <stage>Людмила и Дымшиц в его номере. На столе остатки ужина, бутылки. Видна часть соседней
+          комнаты. Бишонков, Филипп и Евстигнеич играют там в карты. Евстигнеича с отрубленными
+          ногами поставили на стул.</stage>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Феликс Юсупов был бог по красоте, теннисист, чемпион России. Его красоте недоставало
+            мужественности, в нём была кукольность... С Владимиром Баглеем мы встретились у Феликса.
+            Император так до конца и не понял рыцарскую натуру этого человека. Его называли у нас
+            «тевтонский рыцарь»... Фредерике был дружен с князем Сергеем... Вы знаете князя Сергея,
+            который играет на виолончели?.. На вечере был ещё номер hors programme<note place="foot"
+              >Сверх программы (франц.).</note>, архиепископ Амвросий. Старик ухаживал за мною, —
+            можете себе представить! — подливал крюшону и делал такую постную, лукавую мину. Вначале
+            я не произвела на Владимира впечатления, он признался мне в этом: «Вы были курносая, si
+            démesurément russe<note place="foot">Такая бесконечно русская (франц.).</note>, с
+            пылающим румянцем...» На рассвете мы поехали в Царское, оставили машину в парке и взяли
+            лошадь. Он сам правил. «Людмила Николаевна, нужно ли вам сказать, что я весь вечер не
+            сводил с вас глаз?..» — «Это учтено Ниной Бутурлиной, mon prince». Я знала, что у них
+            роман, вернее — флирт. «Бутурлина — c'est le passé, Людмила Николаевна...» — «On revient
+            toujours, ses premiers amours, mon prince»<note place="foot">Первые увлечения обычно
+              возвращаются, князь (франц.).</note>, Владимир не носил великокняжеского титула, он
+            был от морганатического брака, их семья не встречалась с императрицей... Владимир
+            называл эту женщину гением зла. И потом — он был поэт, мальчик, ничего не понимал в
+            политике... Мы приехали в Царское. Рассвет. Над прудом где-то, совсем понизу, запел
+            соловей... Мой спутник повторяет: «Mademuaselle Boutourline c'est le passé»<note
+              place="foot">Мадемуазель Бутурлина — это прошлое (франц.).</note> — «Mon prince,
+            прошлое возвращается иногда, и возвращения эти ужасны...»</p>
+        </sp>
+        <stage>Дымшиц гасит свет, накидывается на Муковнину, валит её на диван, борьба. Она
+          вырывается, поправляет волосы, платье.</stage>
+        <sp who="#bishonkov">
+          <speaker>Бишонков</speaker>
+          <stage>(подкидывает карту).</stage>
+          <p>Подсекай...</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Подсечёшь у тебя, как же!</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Ну, повели к забору, руки связаны... «Ну, говорят, поворачивайся, друг». А он: «Не надо
+            поворачиваться, я военный человек, коцайте так...» А заборы у них вроде плетня, полроста
+            человеческого... Ночь, конец села, за селом степь, на краю степи — яр...</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков</speaker>
+          <stage>(убивая карту).</stage>
+          <p>Вот ты и козёл!</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Отвечаю на всё!</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>...Привели, берут на изготовку. Он стоит у плетня, да как снимется от земли, с
+            завязанными руками, ровно господь бог его от земли отнял. Перелетел через плетень — и
+            наискосок... Они — стрелять... да ночь, темнота, он кружит, петляет — ушёл.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(сдаёт карты).</stage>
+          <p>Это герой!</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Это герой вечный. Джигит считался. Я его, как тебя знал... Полгода гулял, потом
+            прикрыли.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Неужто доделали?</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Доделали. Я считаю — неправильно. Человек из могилы вылез, человек тот свет видал, —
+            значит, не судьба его убивать.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Ноль внимания в настоящее время.</p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Я считаю — неправильно. Во всех странах такой закон: не добили — твоё счастье, живи
+            дальше.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>У нас давай только... Доделают.</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>У нас давай...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Зажгите свет.</p>
+          <stage>Дымшиц открывает выключатель.</stage>
+          <p>Я ухожу. <stage>(Оборачивается, смотрит на Дымшица, разражается смехом).</stage> Не
+            надувайте губ, идите ко мне... Скажите, друг мой, как вы всё это себе представляете?
+            Должна же я привыкнуть к вам сначала...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Я не штиблет, чтобы ко мне привыкать.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я не скрываю — какое-то чувство симпатии вы мне внушаете, но надо этому чувству
+            укрепиться... Из армии приедет Маша, вы познакомитесь: в нашей семье без неё ничего не
+            делается... Папа — тот хорошо относится к вам, но он беспомощный — вы видели... И потом,
+            много ещё не решено; ваша жена?..</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>При чём здесь жена?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я знаю — евреи привязаны к своим детям.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Не о чем говорить, ей-богу, не о чем говорить.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Поэтому до поры до времени надо тихонько сидеть рядом со мной, вооружиться
+            терпением...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>С тех пор как евреи ждут мессию — они вооружены терпением. Выпейте ещё бокальчик.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я много выпила.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Это вино мне принесли с броненосца. У великого князя был сундучок на броненосце...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Как это вы всё достаёте?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Где я достану — там другой не достанет... выпейте этот бокальчик.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>С условием, что вы будете сидеть тихо.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Тихо сидят в синагоге.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Вот вы и сюртук надели, — верно, для синагоги. Сюртук, Исачок, носили директора
+            гимназии на выпускных актах и купцы на поминальных обедах.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Я не буду носить сюртука.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>И потом — билеты. Никогда, мой друг, не покупайте билеты в первом ряду, — это делают
+            выскочки, парвеню...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Я же выскочка и есть.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>У вас внутреннее благородство — это совсем другое. Вам даже имя ваше не идёт... Теперь
+            можно дать объявление в газете, в «Известиях»... Я бы переменила на Алексей... Вам
+            нравится — Алексей?</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Нравится. <stage>(Он снова гасит свет и накидывается на Муковнину.)</stage></p>
+        </sp>
+        <sp who="#evstigneich">
+          <speaker>Евстигнеич.</speaker>
+          <p>Взвозились...</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(прислушивается).</stage>
+          <p>Вроде наша...</p>
+        </sp>
+        <sp who="#bishonkov">
+          <speaker>Бишонков.</speaker>
+          <p>Мне Людмила Николаевна больше всех по сердцу — она человека привечает... А то ходят
+            дикие, трёпаные... Меня по отечеству привечает...</p>
+        </sp>
+        <stage>В комнату инвалидов входит Висковский, становится за спиной Евстигнеича, смотрит, как
+          падают карты.</stage>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(вырывается)</stage>
+          <p>Позовите мне извозчика...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Моментально!.. Больше мне делать нечего.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Позовите сию минуту!</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>На улице тридцать градусов мороза, сумасшедшую собаку выпустить жалко.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>На мне всё порвано... Как я домой покажусь?..</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Где пьют — там и льют.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Пошло... Исаак Маркович, вы ошиблись адресом.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Такое моё счастье.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я же вам говорю — у меня болят зубы, болят невыносимо.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Где именье, где вода... При чём тут зубы?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Достаньте мне зубных капель... Я страдаю.</p>
+        </sp>
+        <stage>Дымшиц выходит, в соседней комнате сталкивается с Висковским.</stage>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>С лёгким паром, учитель.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>У неё зубы болят.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Бывает...</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Бывает, что и не болят.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Липа, Исаак Маркович, обязательно липа.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Это изобретение её, Исаак Маркович, а не зубы болят...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(поправила волосы перед зеркалом. Статная, весёлая, раскрасневшаяся, она ходит по
+            комнате и напевает).</stage>
+          <lg>
+            <l>Милый мой строен и высок,</l>
+            <l>Милый мой ласков и жесток,</l>
+            <l>Больно хлещет шёлковый шнурок...</l>
+          </lg>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Я не мальчик, Евгений Александрович, — уже оно давно прошло, то время, когда я был
+            мальчиком.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Слушаю-с.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(снимает телефонную трубку).</stage>
+          <p>3-75-02. Папочка, ты?.. Мне очень хорошо... В театре была Надя Иогансон с мужем. Мы
+            ужинаем у Исаака Марковича... Ты обязательно посмотри Спесивцеву, она заменит Павлову...
+            Лекарство ты принял? Тебе надо лечь... Твоя дочь умница, папа, ужасная выдумщица...
+            Катюша, ты?.. Ваше приказание, сударыня, исполнено. Le menège continue, j'ai mal aux
+            dents se soir<note place="foot">Манеж продолжается, нынешний вечером у меня болят зубы
+              (франц.).</note>.</p>
+          <stage>(Ходит по комнате, поёт, взбивает волосы!)</stage>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>И она может дождаться того, что в следующий раз меня для неё не будет дома...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Дело хозяйское.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Потому что о моих детях и моей жене пусть меня спрашивают другие, а не она.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Слушаю-с.</p>
+        </sp>
+        <sp who="#dymshits">
+          <speaker>Дымшиц.</speaker>
+          <p>Люди недостойны завязать башмак у моей жены, если вы хотите знать, — шнурок от
+            башмака.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Картина четвёртая</head>
+        <stage>У Висковского. Он в галифе, в сапогах, без куртки, ворот рубахи расстёгнут. На столе
+          бутылки, выпито много. На тахте, привалившись, румяный, короткий Кравченко в военной форма
+          и мадам Дора — тощая женщина в чёрном, с испанским гребнем в волосах и качающимися
+          большими серьгами.</stage>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Один удар, Яшка...</p>
+          <lg>
+            <l>Я знал одной лишь силы власть.</l>
+            <l>Одну, но пламенную страсть...</l>
+          </lg>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Сколько же тебе надо?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Десять тысяч фунтов. Один удар... Ты видел когда-нибудь фунт стерлингов, Яшка?</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>И всё на нитках?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Нитки побоку!.. Бриллианты. Трёхкаратники, голубая вода, чистые, без песку. Других в
+            Париже не берут.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Да их небость уже нету.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>В каждом доме есть бриллианты, надо уметь их взять... У Римских-Корсаковых есть, у
+            Шаховских... Есть ещё алмазы в императорском Санкт-Петербурге.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Не выйдет из тебя красный купец, Евгений Александрович.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Выйдет!.. У меня отец торговал — выменивал усадьбы на жеребцов... Гвардия сдаётся,
+            товарищ Кравченко, но не умирает.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Ты бы Муковнину позвал... Мается женщина в коридоре...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>В Париж, Яшка, я приеду барином.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Дымшиц этот — куда он запропастился?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Отсиживается в уборной или в «шестьдесят шесть» играет с курляндчиком и Шапирой...
+              <stage>(Открывает дверь.)</stage> Мисс, к нашему огоньку... <stage>(Выходит в
+              коридор.)</stage></p>
+        </sp>
+        <sp who="#dora">
+          <speaker>Дора</speaker>
+          <stage>(целует у Кравченко руки).</stage>
+          <p>Ты солнце! Ты божество!</p>
+        </sp>
+        <stage>Входит Людмила в шубке и Висковский.</stage>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Это непостижимо! Был уговор...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Который дороже денег.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Был уговор, что я приду в восемь. Теперь три четверти десятого... и ключа не оставил...
+            Куда же он делся?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Поспекулирует и придёт.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Всё-таки они не джентльмены — эти люди...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Выпейте водки, девочка.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Правда, я выпью, озябла... Непостижимо всё-таки!</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Разрешите вам представить, Людмила Николаевна, мадам Дору, гражданку Французской
+            республики — Liberté, Egalité, Fraternité<note place="foot">Свобода, Равенство, Братство
+              (франц.).</note>. Между прочими достоинствами обладает заграничным паспортом.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(подаёт руку).</stage>
+          <p>Муковнина.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Яшку Кравченко вы знаете: прапорщик военного времени, ныне красный артиллерист. Стоит у
+            десятидюймовых орудий Крондштадской крепостной артиллерии и может их повернуть в любом
+            направлении.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Евгений Александрович нынче в ударе.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>В любом направлении. Всё можно представить себе, Яшка. Тебе прикажут разрушить улицу,
+            на которой ты родился, — ты разрушишь её, обстрелять детский приют, — ты скажешь:
+            «Трубка два ноль восемь» — и обстреляешь детский приют. Ты сделаешь это, Яшка, только бы
+            тебе позволили существовать, бренчать на гитаре, спать с худыми женщинами: ты толст и
+            любишь худых... Ты на всё пойдёшь, и если тебе скажут: трижды отрекись от своей
+            матери, — ты отречёшься от неё. Но дело не в том, Яшка, — дело в том, что они пойдут
+            дальше: тебе не позволят пить водку в той компании, которая тебе нравится, книги тебя
+            заставят читать скучные, и песни, которым тебя станут обучать, тоже будут скучные...
+            Тогда ты рассердишься, красный артиллерист, ты взбесишься, забегаешь глазками... Два
+            гражданина придут к тебе в гости: «Пойдём, товарищ Кравченко...» — «Вещи, — спросишь
+            ты, — брать с собой или не брать?» — «Вещи можно не брать, товарищ Кравченко, дело
+            минутное, допрос, пустяки...» И тебе поставят точку, красный артиллерист, — это будет
+            стоить четыре копейки денег. Высчитано, что пуля от кольта стоит четыре копейки, и ни
+            сантима больше.</p>
+        </sp>
+        <sp who="#dora">
+          <speaker>Дора.</speaker>
+          <p>Жак, берите меня домой...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Твое здоровье, Яков!.. За победоносную Францию, мадам Дора!</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(ей всё время подливают).</stage>
+          <p>Я схожу посмотрю, не вернулся ли он...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Поспекулирует и придёт... Маркиза, липу с зубами сами придумали?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Сама... Здорово?.. <stage>(Смеётся.)</stage> Право же, теперь иначе нельзя. Евреи
+            должны уважать женщину, с которой они хотят быть близки.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Я смотрю на вас, Люка, — вы похожи на синичку... Выпьем, синичка!</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Теперь за меня примется. Вы чего-то намешали в это пойло, Висковский.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Синичка... Все силы Муковниных ушли на Марию, вам остался только ряд мелких зубов.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Дёшево, Висковский.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>И маленькую твою грудь я не люблю... Грудь женщины должна быть красива, велика,
+            беспомощна, как у овцы...</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Мы пошли, Евгений Александрович.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Никуда вы не пойдёте... Синичка, выходи за меня замуж.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Нет, уж я лучше за Дымшица... Знаем, как за вас выходить, нынче вы напились, завтра у
+            вас похмелье, потом вы уезжаете неведомо куда, потом вы стреляетесь... Нет, уж мы за
+            Дымшица.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Отпусти нас, Евгений Александрович, сделай милость!</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Никуда вы не пойдёте... Тост! Тост за женщину. <stage>(Доре.)</stage> Это Люка...
+            Сестру её зовут Мария.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Мария Николаевна в армии, кажется?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Она на границе теперь.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>На фронте, на фронте.</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Дивизией у них командует шестёрка.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Висковский, это неправда. Он — металлист.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Шестёрку зовут Аким... Выпьем за женщин, мадам Дора! Женщины любят прапорщиков,
+            половых, акцизных чиновников, китайцев... Их дело любить, — в участке разберутся.
+              <stage>(Поднимает бокал.)</stage> «За милых женщин, прелестных женщин, любивших нас
+            хотя бы час...» Впрочем, и часу не было. Паутина. Потом паутина порвалась... Её сестру
+            зовут Мария... Представь себе, Яшка, что ты полюбил царицу. «Вы гадки, — говорит она
+            тебе, — уходите...»</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила</speaker>
+          <stage>(смеётся).</stage>
+          <p>Узнаю Машу...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>«Вы гадки, уходите...» Конную гвардию отвергли, тогда решено было пойти на
+            Фурштадтскую, шестнадцать, квартира четыре...</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Висковский, не смейте!</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>За кронштадскую артиллерию, Яша!.. Было решено пойти на Фурштадтскую. Мария Николаевна
+            вышла из дому в сером костюме tailleur. Она купила фиалки у Троицкого моста и приколола
+            их к петлице своего жакета... Князь, — он играет на виолончели, — князь убрал свою
+            холостую квартиру, запихал под шкаф грязное бельё, немытые тарелки снёс на антресоли...
+            Был приготовлен кофе на Фурштадтской и petits tours<note place="foot">Печенье
+              (франц.).</note>. Кофе выпили. Она принесла с собой весну, фиалки и забралась с ногами
+            на диван. Он покрыл шалью её сильные нежные ноги, навстречу ему сияла улыбка,
+            ободряющая, покорная, печальная ободряющая улыбка... Она обняла его седеющую голову...
+            «Князь! Что же вы, князь?». Но голос у князя оказался как у папского певчего. Passé,
+            rien ne va plus<note place="foot">Всё в прошлом (франц.).</note>.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Боже, какая злюка!</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Вообрази, Яша, царица снимает перед тобой лиф, чулки, панталоны... Может, и ты оробел
+            бы, Яшка...</p>
+          <stage>Людмила Николаевна опрокидывается, хохочет.</stage>
+          <p>Она ушла с Фурштадтской, шестнадцать... Где след её ноги, чтобы я мог поцеловать его?..
+            Где след её ноги?.. Но у Акима, будем надеяться, голос звучит погрубее... Ваше мнение,
+            Людмила Николаевна?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Висковский, вы намешали что-то в эту водку... У меня голова кружится...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Иди сюда, мелочь! <stage>(С силой берёт её за плечи и приближает к себе.)</stage>
+            Дымшиц — сколько заплатил он тебе за кольцо?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Что вы говорите такое?</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Кольцо не твоё, сестры. Ты продала чужое кольцо.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Оставьте меня!</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский</speaker>
+          <stage>(отталкивает её в боковую дверь).</stage>
+          <p>Иди со мною, мелочь!..</p>
+        </sp>
+        <stage>В комнате остаются Дора и Кравченко. В окне медленный луч прожектора. Дора,
+          взъерошенная, выпученная, тянется к Кравченко, целует у него руки, стонет, лепечет. Входит
+          на цыпочках босой Филипп с обваренным лицом, не торопясь, бесшумно берёт со стола вино,
+          колбасу, хлеб.</stage>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(негромко, склонив голову набок).</stage>
+          <p>Не обидно будет, Яков Иванович?</p>
+        </sp>
+        <stage>Кравченко кивает головой, инвалид, осторожно ступая босыми ногами, уходит.</stage>
+        <sp who="#dora">
+          <speaker>Дора.</speaker>
+          <p>Ты солнце! Ты бог! Ты всё!</p>
+        </sp>
+        <stage>Кравченко молчит, прислушивается. Входит Висковский, закуривает, руки его дрожат.
+          Дверь в соседнюю комнату открыта. Брошенная на диван, плачет Муковнина.</stage>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Спокойствие, Людмила Николаевна, до свадьбы заживёт...</p>
+        </sp>
+        <sp who="#dora">
+          <speaker>Дора.</speaker>
+          <p>Жак, я хочу нашу комнату... Берите меня домой, Жак...</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Погоди, Дора.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>По разгонной, граждане?</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Погоди, Дора.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>По разгонной — за дам...</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Нехорошо, ротмистр.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>За дам, Яков Иванович!</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Нехорошо, ротмистр!</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Что именно нехорошо?</p>
+        </sp>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Трипперитики не спят с женщинами, господин Висковский.</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский</speaker>
+          <stage>(офицерским голосом).</stage>
+          <p>Как вы сказали?</p>
+        </sp>
+        <stage>Пауза. Плач смолкает.</stage>
+        <sp who="#kravchenko">
+          <speaker>Кравченко.</speaker>
+          <p>Я сказал — больные гонореей...</p>
+        </sp>
+        <sp who="#viskovskiy">
+          <speaker>Висковский.</speaker>
+          <p>Снимите очки, Кравченко. Я буду бить вам морду!..</p>
+          <stage>Кравченко вынимает револьвер.</stage>
+          <p>Очень хорошо.</p>
+        </sp>
+        <stage>Кравченко стреляет. Занавес. За спущенным занавесом — выстрелы, падение тел, женский
+          крик.</stage>
+      </div>
+      <div type="scene">
+        <head>Картина пятая</head>
+        <stage>У Муковниных. В углу на сундуке свернулась старуха нянька. Спит. На столе пятно света
+          от лампы. Катя читает Муковнину письмо.</stage>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>«...На рассвете меня будит рожок штабного эскадрона. К восьми надо быть в политотделе,
+            я там за всё... Правлю статьи в дивизионную газету, веду школу ликбеза. Пополнение у
+            нас — украинцы, языком и выразительностью они напоминают мне итальянцев. Казённая Россия
+            в течение столетий подавляла и унижала их культуру... На нашей Миллионной в Петербурге,
+            в доме против Эрмитажа и Зимнего дворца, мы жили, как в Полинезии, — не зная нашего
+            народа, не догадываясь о нём... Вчера на уроке я прочитала из папиной книги главу об
+            убийстве Павла. Наказание своё император заслужил так очевидно, что никто об этом не
+            задумался: спрашивали меня — здесь сказался точный ум простолюдина — о расположении
+            полка, комнат во дворце, о том, какая рота гвардии была в карауле, среди кого были
+            набраны заговорщики, чем обидел их Павел... Я всё мечтаю о том, что папа приедет к нам
+            летом, если только поляки не зашевелятся... Ты увидишь, дружок мой папа, новую армию,
+            новую казарму — в противовес той, о которой ты рассказываешь. К тому времени наш парк
+            расцветёт и зазеленеет, лошади поправятся на подножном корму, сёдла приготовлены... Я
+            говорила Аким Иванычу — он согласен, только бы у вас всё было благополучно, милые мои...
+            Теперь ночь. Я освободилась поздно и поднялась к себе по истоптанным четырёхсотлетним
+            ступеням. Я живу на вышке, в сводчатой зале, служившей когда-то оружейной графам
+            Красницким. Замок построен на крутизне, у подножья его синяя река, пространство лугов
+            необозримо, с туманной стеной леса вдали... В каждом этаже замка выбита ниша для
+            дозорного: отсюда они следили приближение татар и русских и лили кипящее масло на головы
+            осаждающих. Старушка Гедвига, экономка последнего Красницкого, приготовила мне ужин и
+            растопила камин, глубокий и чёрный, как подземелье... В парке внизу переминаются,
+            задрёмывают лошади. Кубанцы ужинают вокруг костра и заводят песню. Снег налёг на
+            деревья, ветви дубов и каштанов переплелись, неровная серебряная крыша накрыла
+            занесённые дорожки, статуи. Они ещё сохранились — юноши, бросающие копьё, и обнажённые
+            закоченевшие богини с согнутыми руками, с волнистой линией волос и слепыми глазами...
+            Гедвига дремлет и трясёт головой, поленья в камине вспыхивают и распадаются. Столетия
+            сделали кирпичи звонкими, как стекло — они озарены золотом в ту минуту, когда я пишу
+            вам... Карточка Алёши у меня на столе... Здесь те самые люди, которые не задумались
+            убить его. Я ушла только что от них и помогла их освобождению... Правильно ли я сделала,
+            Алексей, исполнила ли я твоё завещание жить мужественно?.. И тем, что в нём есть
+            неумирающего, он не отвергает меня... Поздно, не могу заснуть — от необъяснимой тревоги
+            за вас, от боязни снов. Во сне я вижу погоню, мучительство, смерть. Я живу странной
+            смесью — близостью к природе, беспокойством о вас. Почему Люка пишет так редко?
+            Несколько дней тому назад я послала ей бумажку, подписанную Аким Ивановичем, о том, что
+            у меня, как у военнослужащей, не имеют права реквизировать комнату. Кроме того, у папы
+            должна быть охранная грамота на библиотеку. Если срок её прошёл, надо возобновить в
+            Наркомпросе, у Чернышева моста, комната сорок. Я буду счастлива, если Люке удастся
+            основать свою семью, но надо, чтобы этот человек бывал у нас в доме, познакомился бы с
+            папой — тут сердце не обманет. И пусть нянька увидит его... Катюша всё жалуется на
+            старуху, что та не работает. Катюша, нянька стара, она вырастила два поколения
+            Муковниных, у неё свои мысли и чувства, она не простой человек... Мне всегда казалось,
+            что в ней мало крестьянского, — а впрочем, что знали мы в нашей Полинезии о
+            крестьянах?.. В Петербурге, говорят, стало ещё труднее с продовольствием; у тех, кто не
+            служит, забирают комнаты и бельё... Мне стыдно за то, что мы живём хорошо. Два раза Аким
+            Иванович брал меня с собой на охоту, у меня верховая лошадь, донец...» <stage>(Катя
+              поднимает голову.)</stage> Вот видите, Николай Васильевич, как хорошо.</p>
+          <stage>Муковнин закрывает глаза ладонью.</stage>
+          <p>Не надо плакать.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Я спрашиваю у бога — у каждого из нас есть бог его души, — за что ты дал мне, дурному,
+            себялюбивому человеку, таких детей — Машу, Люку?..</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Но это же хорошо, Николай Васильевич. Зачем плакать?</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Картина шестая</head>
+        <stage>Участок милиции ночью. Под лавкой скрючился пьяный. Он двигает пальцами перед самым
+          своим лицом, внушает себе что-то. На лавке дремлет грузный старый человек, хорошо одетый,
+          в енотовой шубе и высокой шапке. Шуба распахнулась, под ней голая серая грудь. Надзиратель
+          допрашивает Муковнину. Кротовая шапочка её сбита набок, волосы растрёпаны, шубка стащена с
+          плеча.</stage>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Имя?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Отпустите меня.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Имя?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Варвара.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Отчество?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ивановна.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Где работаете?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>У Лаферма, на табачной фабрике.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Профбилет?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я не ношу с собой.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Зачем липу гоните?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я замужем... Отпустите меня.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Почему вам интересно липу гнать, скажите? Брылёва давно знаете?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>О ком вы говорите?.. Я не знаю.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Ордера на нитки Брылёв подписывал, через вас шло к Гутману, где вы склад сделали?..</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Что вы говорите? Какой склад?..</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Сейчас узнаете — какой... <stage>(Милиционеру.)</stage> Позовите Калмыкову.</p>
+        </sp>
+        <stage>Милиционер вводит Шуру Калмыкову, горничную в номерах на Невском, 86.</stage>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Вы коридорная?</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Я подменяю.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Признаёте гражданку?</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Очень отлично признаю.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Что можете показать?</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Могу отвечать по вопросам... Отец их — генерал.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Работает она?</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Пару поддаёт — это у ней работа.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Муж есть?</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Под кустом венчались... У ней мужьёв много. Один от её зубов весь вечер в отхожем
+            хоронился.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Какие зубы? Чего плетёшь?..</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Людмила Николаевна знает, какие зубы.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель</speaker>
+          <stage>(Муковниной).</stage>
+          <p>Приводы были? Сколько?</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Меня заразили... Я больна.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель</speaker>
+          <stage>(Калмыковой).</stage>
+          <p>Нам удостоверить надо, сколько у ней приводов.</p>
+        </sp>
+        <sp who="#kalmykova">
+          <speaker>Калмыкова.</speaker>
+          <p>Это не знаю, не скажу... Я то не скажу, чего не знаю.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я измучена... Отпустите меня.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>Не волноваться! На меня смотрите.</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>У меня голова кружится... Я упаду...</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель.</speaker>
+          <p>На меня смотреть!</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Боже мой, зачем мне смотреть на вас?..</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель</speaker>
+          <stage>(в бешенстве).</stage>
+          <p>Затем, что я пятые сутки не спавши... Можете вы это понять?..</p>
+        </sp>
+        <sp who="#lyudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я могу понять.</p>
+        </sp>
+        <sp who="#nadziratel">
+          <speaker>Надзиратель</speaker>
+          <stage>(подступает к ней ближе, берёт за плечи и смотрит ей в глаза).</stage>
+          <p>Приводов сколько — говори...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Картина седьмая</head>
+        <stage>У Муковниных. Горят коптилки. Тени на стенах и потолке. Перед зажжённой лампадой
+          молится Голицын. На сундуке спит нянька.</stage>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>...Истинно, истинно говорю вам: если пшеничное зерно, падая в землю, не умрёт, то
+            останется одно, а если умрёт, то принесёт много плода. Любящий душу свою погубит её, а
+            ненавидящий душу свою сохранит её в жизнь вечную. Кто мне служит, мне да последует, и
+            где я, там и слуга мой будет, и кто мне служит — того почтит отец мой. Душа моя теперь
+            возмутилась, и что мне сказать? Отче, избавь меня от часа сего, но на сей час я и
+            пришёл...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя</speaker>
+          <stage>(подходит неслышно, становится рядом с Голицыным, кладёт голову на его
+            плечо).</stage>
+          <p>Свидания мои с Редько происходят в штабе, Сергей Илларионович, в бывшей прихожей, там
+            клеенчатый диван есть... Я прихожу, Редько запирает дверь, потом дверь отмыкается...</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Да.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Я уезжаю в Борисоглебск, князь.</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Уезжайте.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Редько всё учит меня, всё учит, — кого любить, кого ненавидеть... Он говорит — закон
+            больших чисел. Но я-то сама малое число — или это не считается?..</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Должно считаться.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вот видите — должно считаться... Вот я и свободна, нянька... Проснись. Пожалуйста,
+            проснись. Ты царствие небесное проспишь...</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна</speaker>
+          <stage>(поднимает голову).</stage>
+          <p>Люка-то где?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Люка скоро придёт, нянька, а я уезжаю, некому будет тебя бранить.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Зачем меня бранить, какие мои дела... Я нянька рождённая, для детей взята, детей
+            растить, а их тут нету... Баб полон дом, а ребёнков нету. Одна воевать пошла, без неё
+            некому, другая шатается без пути... Какой это может быть дом — без ребёнков?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вот родим тебе от святого духа.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Вы треплетесь, разве я не вижу, треплетесь, да толку нет.</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Уезжайте в Борисоглебск, вы нужны там... В Борисоглебске пустыня, Катерина Вячеславна,
+            в этой пустыне звери пожирают друг друга...</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Вон Молостовы — скверные совсем купчишки, выхлопотали своей няньке пенсион, пятьдесят
+            рублёв в месяц... Похлопочи за меня, князь, почему мне пенсион не дают?..</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын</speaker>
+          <stage>(растапливает «буржуйку»).</stage>
+          <p>Меня не послушают, Нефедовна, у меня теперь силы нет.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Вон ведь простые совсем купчики.</p>
+        </sp>
+        <stage>Открывается дверь. Муковнин отступает перед Филиппом, закутанным в тряпьё и башлык,
+          громадным и бесформенным. Половина Филиппова лица заросла диким мясом, он в
+          валенках.</stage>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Кто вы?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(продвигается ближе).</stage>
+          <p>Я Людмиле Николаевне знакомый.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Что вам угодно?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Там заварушка получилась, ваше превосходительство.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вы от Исаака Марковича?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Так точно, от Исаака Марковича... Вроде как ни с чего и получилось.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Людмила Николаевна?..</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Там же, при них они и были, в компании... Маленько, ваше превосходительство,
+            перехорошили. Евгений Александрович — одно, Яков Иваныч им вроде как напротив, стали
+            цапаться, оба с мухой...</p>
+        </sp>
+        <sp who="#golitsyn">
+          <speaker>Голицын.</speaker>
+          <p>Николай Васильевич, я поговорю с этим товарищем.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Особого такого ничего не случилось, а только недоразумение... Оба с мухой, оружия при
+            себе...</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Где моя дочь?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Ваше превосходительство, неизвестно.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Где моя дочь, скажите? Мне всё можно сказать.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(чуть слышно).</stage>
+          <p>Законвертовали.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Я смотрел смерти в глаза. Я солдат.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(громче).</stage>
+          <p>Законвертовали, ваше превосходительство.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Арестовали — за что?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Вроде как из-за болезни сыр-бор получился. Яков Иванович говорят: «Вы болезнью
+            наделили», — Евгений Александрович — стрелять. Оружия при себе, оружия — тут она...</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Это Чека?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Люди взяли, а кто их разберёт?.. Люди сейчас неформенные, ваше превосходительство, себя
+            не доказывают.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Надо ехать в Смольный, Катя.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Никуда вы, Николай Васильевич, не поедете.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Надо ехать в Смольный, сейчас же.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Николай Васильевич, дорогой мой...</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Дело в том, Катя, что моя дочь должна быть возвращена мне. <stage>(Подходит к
+              телефону).</stage> Прошу штаб военного округа...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Не надо, Николай Васильевич!</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Прошу к телефону товарища Редько.. Говорит Муковнин... Я не могу объяснить вам лучше,
+            товарищ, кто говорит, — в прошлом я генерал-квартирмейстер Шестой армии... Товарищ
+            Редько, вы?.. Здравствуйте, Фёдор Никитич. У аппарата Муковнин, Здравия желаю... Если
+            оторвал от дела — сожалею очень... Сегодня, Фёдор Никитич, в доме восемьдесят шесть по
+            Невскому, вечером, вооружёнными людьми взята моя дочь Людмила. Я не ходатайствую перед
+            вами, Фёдор Никитич, — знаю, что в организации вашей это не принято, — но только хотел
+            доложить, что мне нужно увидеться со старшей моей дочерью, Марией Николаевной. Дело в
+            том, что я недомогаю в последнее время, Фёдор Никитич, и чувствую необходимость
+            посоветоваться с Марией Николаевной. Мы посылали телеграммы и срочные письма, Катерина
+            Вячеславна, знаю, и вас затрудняла — ответа нет... Просьба связать по прямому проводу,
+            Фёдор Никитич... Могу добавить, что я вызван генералом Брусиловым в Москву для
+            переговоров о службе... Вы говорите — доставлено?.. Доставлено восьмого?.. Покорно
+            благодарю, желаю успеха, Фёдор Никитич. <stage>(Вешает трубку.)</stage> Всё хорошо, Машу
+            разыскали, телеграмма вручена восьмого. Она будет в Петербурге завтра, послезавтра,
+            самое позднее. Надо убрать Машину комнату, Нефедовна, — подняться завтра чуть свет и
+            убрать... Катюша права — квартира запущена. Мы ужасно всё запустили в последнее время,
+            везде пыль. Надо чехлы надеть. У нас есть чехлы, Катюша?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Не на всю мебель, но есть.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин</speaker>
+          <stage>(мечется по комнате).</stage>
+          <p>Непременно надеть надо чехлы... Маше приятно будет застать всё в том виде, как она
+            оставила. Почему не создать уют, когда это можно сделать... И вот Катя у нас не
+            амюзируется, — ты совсем не амюзируешься<note place="note">От французского глагола
+              sàmuser — приятно проводить время, развлекаться.</note>, Катюша, не ходишь в театр,
+            так можно отстать.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Маша вернётся — я пойду.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин</speaker>
+          <stage>(инвалиду).</stage>
+          <p>Простите, ваше имя-отчество?..</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Филипп Андреевич.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Почему вы не садитесь, Филипп Андреевич?.. Мы вас даже за хлопоты не поблагодарили...
+            Надо угостить Филиппа Андреевича... Нянька, найдётся у нас, чем угостить? Дом наш
+            открыт, Филипп Андреевич, милости просим по-простому, будем рады. Мы вас непременно с
+            Марией Николаевной познакомим...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вам надо отдохнуть, Николай Васильевич, лечь надо.</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>И если хотите, я за Люку ни одного мгновения не беспокоюсь. Это урок — урок за
+            ребячество, за отсутствие опыта... Если хотите — я доволен... <stage>(Вздрагивает,
+              останавливается, падает на стул. К нему подбегает Катя)</stage> Спокойствие, Катя,
+            спокойствие...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Что с вами?</p>
+        </sp>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Ничего, — сердце...</p>
+        </sp>
+        <stage>Катя и Голицын берут его под руки, уводят.</stage>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Расстроился.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна</speaker>
+          <stage>(ставит на стол прибор).</stage>
+          <p>Барышню нашу при тебе брали?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>При мне.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Билась?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Сперва билась, потом пошла ничего.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Я тебе картошку дам, кисель есть...</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Поверишь, бабушка, дома пельменей целый ушат навалили, заварушка эта поднялась, —
+            глядь, и упёрли.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна</speaker>
+          <stage>(ставит перед Филиппом картошку).</stage>
+          <p>Лицо-то у тебя на войне обварило?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Лицо у меня гражданским порядком обварило, давно дело было.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>А война будет? Чего у вас говорят?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп</speaker>
+          <stage>(ест).</stage>
+          <p>Война, бабушка, будет в августе месяце.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>С поляками, что ли?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>С поляками.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Не всё им отдали?</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Они, бабушка, желают иметь своё государство от одного моря и до самого другого моря.
+            Как в старину было, так они и в настоящий момент желают.</p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна.</speaker>
+          <p>Ишь дураки какие!</p>
+        </sp>
+        <stage>Входит Катя.</stage>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Очень худо Николаю Васильевичу. Нужно доктора.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Доктор, барышня, сейчас не пойдёт.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Он умирает, нянька, у него нос синий... Уже видно, какой он будет мёртвый...</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Доктора, барышня, сейчас на запоре, в ночное время не пойдут, хоть стреляй в него.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>В аптеку надо за кислородом...</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Они союзные — их превосходительство?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Не знаю... Мы ничего здесь не знаем.</p>
+        </sp>
+        <sp who="#filipp">
+          <speaker>Филипп.</speaker>
+          <p>Если не союзные — не дадут.</p>
+        </sp>
+        <stage>Входит Катя.</stage>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Маша?!</p>
+        </sp>
+        <stage>Катя идёт вперёд, протягивает руки, плачет, останавливается, закрывает лицо руками,
+          потом отнимает их. Перед ней красноармеец, лет девятнадцати, мальчик на длинных ногах, он
+          тащит за собой мешок. Входит Голицын, останавливается у двери.</stage>
+        <sp who="#krasnoarmeets">
+          <speaker>Красноармеец.</speaker>
+          <p>Здравствуйте!</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Боже мой, Маша!..</p>
+        </sp>
+        <sp who="#krasnoarmeets">
+          <speaker>Красноармеец.</speaker>
+          <p>Тут Мария Николаевна из продуктов кое-что прислали.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Где же она?.. Она с вами?</p>
+        </sp>
+        <sp who="#krasnoarmeets">
+          <speaker>Красноармеец.</speaker>
+          <p>Мария Николаевна в дивизии, сейчас все на местах... Из вещей тут кое-что есть —
+            сапоги...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Она не приехала с вами?</p>
+        </sp>
+        <sp who="#krasnoarmeets">
+          <speaker>Красноармеец.</speaker>
+          <p>Там бои, товарищи, идут, — как можно?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Мы телеграммы послали, письма...</p>
+        </sp>
+        <sp who="#krasnoarmeets">
+          <speaker>Красноармеец.</speaker>
+          <p>Что ни посылайте — всё равно... Части день и ночь в движении.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вы увидите её?</p>
+        </sp>
+        <sp who="#krasnoarmeets">
+          <speaker>Красноармеец.</speaker>
+          <p>Как же не увидеть?.. Если передать что-нибудь...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Да, передайте ей, пожалуйста.. Передайте, что отец её умирает и мы не надеемся его
+            спасти. Передайте, что, умирая, он звал её... Сестра её Люка не живёт с нами больше —
+            она арестована. Скажите, что мы желаем счастья Марии Николаевне, желаем, чтобы она не
+            думала о тех днях и часах, когда её не было с нами...</p>
+        </sp>
+        <stage>Красноармеец озирается, отступает. Шатаясь, выходит из своей комнаты Муковнин. Глаза
+          его блуждают, волосы поднялись, он улыбается.</stage>
+        <sp who="#mukovnin">
+          <speaker>Муковнин.</speaker>
+          <p>Вот, Маша, тебя не было, и я не хворал, всё время был молодцом, Маша... <stage>(Видит
+              красноармейца.)</stage> Кто это? <stage>(Повторяет громче!)</stage> Кто это?.. Кто
+            это?.. <stage>(Падает.)</stage></p>
+        </sp>
+        <sp who="#nefyodovna">
+          <speaker>Нефедовна</speaker>
+          <stage>(опускается на колени рядом с Муковниным).</stage>
+          <p>Ну что, Коля, уходишь?.. Не ждёшь няньку...</p>
+        </sp>
+        <stage>Старик хрипит. Агония.</stage>
+      </div>
+      <div type="scene">
+        <head>Картина восьмая</head>
+        <stage>Полдень. Ослепительный свет. В окне облитые солнцем колонны Эрмитажа, угол Зимнего
+          дворца. Пустая зала Муковниных. В глубине натирают паркет Андрей и подмастерье Кузьма,
+          толстомордый парень. Агаша кричит в окно.</stage>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Нюшка, проклятущая, не давай дитю об стенку мазаться!.. Куда глаза подевала? Сидишь,
+            что ли, на глазах?.. Выросла — небо прободаешь, а толку всё то же... Тихон, слышь,
+            Тихон, зачем у тебя сарай растворённый? Замкни сарай-то... Егоровна, здравствуй! Я у
+            тебя сольцы до первого не достану?.. Первого разживусь по купону — отдам. Девка моя
+            зайдёт, насыпь ей в пузырёк, до первого... Тихон, слышь, Тихон, у Новосельцевых был?
+            Когда они съезжают?</p>
+        </sp>
+        <sp who="#tikhon">
+          <speaker>Голос Тихона.</speaker>
+          <p>Съезжать, говорят, некуда.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Жить умели — умейте и съезжать... До воскресенья дай им срок, а после воскресенья у нас
+            с ними серьёз будет, так и скажи... Нюшка, проклятущая, гляди, дитё себе в нос землю
+            пихает!.. Бери дитё наверх, марш домой, окна мыть!.. <stage>(Полотёру.)</stage> Ну как,
+            мастер, действуешь?</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Прикладываем труды.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Не больно прикладываешь... Углы все пооставляли.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Это какие углы?</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Да все четыре — и пол у тебя рыжий. Разве он должен быть рыжий?.. Не тот колер
+            совсем.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Материал теперь не тот, хозяйка.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Сам хитришь и малого учишь... За деньгами небось аккуратно придёшь.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>А я тебе, Аграфена, то отвечу, что ты врагу своему закажешь впервой после революции
+            полы чистить... Тут за революцию грязи на три вершка наросло, рубанком не отстругаешь.
+            Мне за это медаль нацепить, за то, что я после революции полы чищу, а ты лаешься...</p>
+        </sp>
+        <stage>В глубине проходят Сушкин и Катя в трауре.</stage>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Единственно как фанатик мебельной отрасли покупаю, единственно по охоте моей, что не
+            могу мимо античной вещи пройти, — я за античную вещь болею. Громоздкую вещь в настоящий
+            момент покупать — это камень на шею, с ним тонуть, Катерина Вячеславна... Вот сделаешь
+            сегодняшний день покупку — мечтаешь, а завтра ты страдалец куда бы рассовать.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Вы забываете, Аристарх Петрович, что здесь ни одной простой вещи нет. Мебель эту сто
+            лет назад Строгановы из Парижа выписывали.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Оттого миллиард двести и даю.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Что значит теперь этот миллиард, если на хлеб перевести?</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>А вы не на хлеб, а на мою ненормальность переведите, что я как охотник покупаю. С
+            громоздкой вещью в настоящий момент остаться — ведь это я у них первый кандидат буду...
+              <stage>(Меняя тон.)</stage> Тут у меня и молодёжь приготовлена... <stage>(Кричит
+              вниз.)</stage> Ребятёжь, подхватывайте, верёвки с собой тащи!..</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша</speaker>
+          <stage>(выступает вперёд).</stage>
+          <p>Это куда подхватываться?</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>С кем имею честь-удовольствие?</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Это наша смотрительница двора, Аристарх Петрович.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Ну, хоть дворничиха.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Очень приятно. Теперь, значит, такой разговор: вы нам, как говорится, поможете мебель
+            снести, мы обоюдно вам поможем.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Не получится у вас, гражданин.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Что именно у вас не получится?</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Тут переселённые люди будут, из подвала...</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Это нам, конечно, интересно знать, что переселённые...</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Мебель-то где они возьмут?</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>А вот это нам, гражданка, совершенно не интересно знать.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Агаша, Мария Николаевна поручила мне продать...</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Прошу прощения, гражданка, мебель-то ваша?</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Мебель не моя, да и не твоя тоже.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>На это первично отвечу, что мы с вами над одной ямкой не сидели, а вторично я вам
+            скажу, что вы в настоящий момент, гражданка, неприятность себе наживаете.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Ордер принесёшь — я мебель выпущу.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Агаша, мебель принадлежит Марии Николаевне, ты же знаешь...</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Я что знала, барышня, то забыла, переучиваюсь теперь.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Гляди, баба, нарвёшься!</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Не ругайся, выгоню...</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Уйдемте, Аристарх Петрович.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Превышение власти, баба, делаешь.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Ордер принеси — выпущу.</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>В другом месте поговорим.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Хочь на Гороховой.</p>
+        </sp>
+        <sp who="#katya">
+          <speaker>Катя.</speaker>
+          <p>Уйдёмте, Аристарх Петрович...</p>
+        </sp>
+        <sp who="#sushkin">
+          <speaker>Сушкин.</speaker>
+          <p>Я уйду, да вернусь — не один вернусь, с людями.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Нехорошо делаете, барышня.</p>
+        </sp>
+        <stage>Уходят. Андрей и Кузьма кончают натирать, собирают свой снаряд.</stage>
+        <sp who="#kuzma">
+          <speaker>Кузьма.</speaker>
+          <p>Умыла как следует.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Колкая дамочка.</p>
+        </sp>
+        <sp who="#kuzma">
+          <speaker>Кузьма.</speaker>
+          <p>Она и при генерале была?</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>При генерале она низко ходила, головы не высовывала.</p>
+        </sp>
+        <sp who="#kuzma">
+          <speaker>Кузьма.</speaker>
+          <p>Генерал-то дрался небось?</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Зачем дрался? Совершенно он не дрался. Ты к нему придёшь — он с тобой за ручку
+            возьмётся, поздоровкается... Его и народ любил.</p>
+        </sp>
+        <sp who="#kuzma">
+          <speaker>Кузьма.</speaker>
+          <p>Как это так — народ генерала любил?</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>По дурости нашей — любили... Он вреда больше положенного не делал. Сам себе дрова
+            колол.</p>
+        </sp>
+        <sp who="#kuzma">
+          <speaker>Кузьма.</speaker>
+          <p>Старый был?</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Особо старый не был.</p>
+        </sp>
+        <sp who="#kuzma">
+          <speaker>Кузьма.</speaker>
+          <p>А помер...</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Помирает, брат Кузьма, не зрелый, а поспелый. Значит, поспел.</p>
+          <stage>Входят Агаша, рабочий Сафонов, костлявый молчаливый парень, и беременная жена его
+            Елена, длинная, с маленьким светлым лицом, молодая женщина лет двадцати, не более, она в
+            последних днях. Все нагружены домашним скарбом, тащут с собой табуретки, матрацы,
+            примус.</stage>
+          <p>Погоди, погоди, дай подстелю...</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Входи, Сафонов, не бойся. Тут тебе и помещаться.</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>Нам бы другого чего-нибудь, похуже...</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Привыкай к хорошему.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Плёвое дело — к хорошему привыкнуть.</p>
+        </sp>
+        <sp who="#agasha">
+          <speaker>Агаша.</speaker>
+          <p>Налево кухня, там ванная — мыться... Пойдём, хозяин, остальное притащим... Ты сиди,
+            Елена, не ходи — выкинешь, пожалуй.</p>
+        </sp>
+        <stage>Агаша и Сафонов уходят, Андрей собирает свои пожитки — щётки, вёдра, Елена садится на
+          табуретку.</stage>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>С новосельем, значит?</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>Вроде неудобно помещение, велико...</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Когда рассыпаться тебе?</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>Завтра пойду.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Очень просто. На Мойку, что ли, во дворец?</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>На Мойку.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Дворец этот — нонче называется матери и ребёнка, — его в прежнее время царица для
+            пастуха построила, теперь там бабы опрастываются. Всё по порядку, очень просто.</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>Завтра идти. То боюсь, дядя Андрей, а то ничего.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Бояться тут нечего: родишь — не чихнёшь. Проработает тебе все жилы, разделаешься,
+            опосля этого себя не узнаешь.</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>У меня, дядя Андрей, кость узкая...</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Попросят её, твою кость, она подвинется... Другой раз посмотришь на бабочку, кое-как
+            слеплена, волосьев копна, да ножки, да ручки, а выпечатает такого мужичищу, он водки
+            ведро выпьет да вола кулаком убьёт... На всё специальность... <stage>(Взваливает на
+              плечи мешок.)</stage> Мальчика желаешь или девочку?</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>Мне всё равно, дядя Андрей.</p>
+        </sp>
+        <sp who="#andrei">
+          <speaker>Андрей.</speaker>
+          <p>Это верно, что всё равно... Я так располагаю, которые дети теперь изготовляются, должны
+            к хорошей жизни поспеть. Иначе-то как же?.. <stage>(Собирает свой инструмент!)</stage>
+            Пошли, Кузьма... <stage>(Елене.)</stage> Родишь — не чихнёшь, на всё специальность...
+            Поехали, казак.</p>
+        </sp>
+        <stage>Полотёры уходят. Елена раскрывает окна, в комнату входят солнце и шум улицы. Выставив
+          живот, женщина осторожно идёт вдоль стен, трогает их, заглядывает в соседние комнаты,
+          зажигает люстру, гасит её. Входит Нюша, непомерная багровая девка, с ведром и тряпкой —
+          мыть окна. Она становится на подоконник, затыкает подол выше колен, лучи солнца льются на
+          неё. Подобно статуе, поддерживающей своды, стоит она на фоне весеннего неба.</stage>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>На новоселье придёшь ко мне, Нюша?</p>
+        </sp>
+        <sp who="#nyusha">
+          <speaker>Нюша</speaker>
+          <stage>(басом).</stage>
+          <p>Позовёшь — приду, а чего поднесёшь?..</p>
+        </sp>
+        <sp who="#elena">
+          <speaker>Елена.</speaker>
+          <p>Много не поднесу, что найдётся...</p>
+        </sp>
+        <sp who="#nyusha">
+          <speaker>Нюша.</speaker>
+          <p>Мне сладенького поднеси, красного. <stage>(Пронзительно и неожиданно она
+              запевает.)</stage></p>
+          <lg>
+            <l>Скакал казак через долину,</l>
+            <l>Через маньчжурские края,</l>
+            <l>Скакал он садиком зелёным.</l>
+            <l>Кольцо блестело на руке.</l>
+            <l>Кольцо казачка подарила,</l>
+            <l>Когда казак пошёл в поход.</l>
+            <l>Она дарила — говорила, что</l>
+            <l>Через год буду твоя.</l>
+            <l>Вот год прошёл...</l>
+          </lg>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
