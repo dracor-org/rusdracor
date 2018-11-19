@@ -1,0 +1,3350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Закат</title>
+        <title type="main" xml:lang="en">Sunset</title>
+        <title type="sub" xml:lang="ru">Пьеса в 8 сценах</title>
+        <title type="sub" xml:lang="en">A Play in Eight Scenes</title>
+        <author key="Wikidata:Q49080">Бабель, Исаак Эммануилович</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/babel-zakat</idno>
+        <idno type="RusDraCor">118</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q7641201</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Wikilivres/Bibliowiki</name>
+          <idno type="URL">https://wikilivres.org/wiki/Закат_(Бабель)</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Бабель И. Избранное. Фрунзе, Адабият, 1989. С.415-450.</title>
+            <date type="print" when="1928">"Пьеса «Закат» была впервые опубликована в журнале «Новый
+              мир», 1928, № 2, февраль, с.5-35." (Wikilivres)</date>
+            <date type="premiere" when="1927">"В 1927 году «Закат» был поставлен двумя театрами в
+              Одессе — русским и украинским,[…]" (Wikipedia)</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="arie_leib" sex="MALE">
+            <persName>Арье-Лейб</persName>
+            <persName xml:lang="en">Arye-Leib</persName>
+          </person>
+          <person xml:id="lyovka" sex="MALE">
+            <persName>Лёвка</persName>
+            <persName xml:lang="en">Lyovka</persName>
+          </person>
+          <person xml:id="dvoyra" sex="FEMALE">
+            <persName>Двойра</persName>
+            <persName xml:lang="en">Dvoira</persName>
+          </person>
+          <person xml:id="nekhama" sex="FEMALE">
+            <persName>Нехама</persName>
+            <persName xml:lang="en">Nekhama</persName>
+          </person>
+          <person xml:id="benya" sex="MALE">
+            <persName>Беня</persName>
+            <persName xml:lang="en">Benya</persName>
+          </person>
+          <person xml:id="boyarskiy" sex="MALE">
+            <persName>Мосье Боярский</persName>
+            <persName xml:lang="en">Monsieur Lazar Boyarsky</persName>
+          </person>
+          <person xml:id="mendel" sex="MALE">
+            <persName>Мендель Крик</persName>
+            <persName xml:lang="en">Mendel Krik</persName>
+          </person>
+          <person xml:id="nikifor" sex="MALE">
+            <persName>Никифор</persName>
+            <persName xml:lang="en">Nikifor</persName>
+          </person>
+          <person xml:id="mitya" sex="MALE">
+            <persName>Митя</persName>
+            <persName xml:lang="en">Mitya</persName>
+          </person>
+          <person xml:id="ryabtsov" sex="MALE">
+            <persName>Рябцов</persName>
+            <persName xml:lang="en">Ryabtsov</persName>
+          </person>
+          <person xml:id="urusov" sex="MALE">
+            <persName>Урусов</persName>
+            <persName xml:lang="en">Urusov</persName>
+          </person>
+          <person xml:id="potapovna" sex="FEMALE">
+            <persName>Евдокия Потаповна Холоденко</persName>
+            <persName xml:lang="en">Evdokiya Potapovna Kholodenko</persName>
+          </person>
+          <person xml:id="golos_iz_traktira" sex="UNKNOWN">
+            <persName>Голос из трактира</persName>
+            <persName xml:lang="en">A Voice from the Tavern</persName>
+          </person>
+          <person xml:id="pyatirubel" sex="MALE">
+            <persName>Иван Пятирубель</persName>
+            <persName xml:lang="en">Ivan Pyatirubel</persName>
+          </person>
+          <person xml:id="slepoi_zapevala" sex="MALE">
+            <persName>Слепой</persName>
+            <persName type="variant">Запевала</persName>
+            <persName xml:lang="en">The Blind Man</persName>
+          </person>
+          <personGrp xml:id="drugie_sleptsy" sex="MALE">
+            <name>Другие слепцы</name>
+            <name xml:lang="en">The Blind Men</name>
+          </personGrp>
+          <personGrp xml:id="golosa_iz_traktira" sex="UNKNOWN">
+            <name>Голоса из трактира</name>
+            <name xml:lang="en">Voices from the Tavern</name>
+          </personGrp>
+          <person xml:id="fomin" sex="MALE">
+            <persName>Фомин</persName>
+            <persName xml:lang="en">Fomin</persName>
+          </person>
+          <person xml:id="golos_sosedki" sex="FEMALE">
+            <persName>Голос соседки</persName>
+            <persName xml:lang="en">Neighbor's Voice</persName>
+          </person>
+          <person xml:id="marusya" sex="FEMALE">
+            <persName>Маруся</persName>
+            <persName xml:lang="en">Marusia</persName>
+          </person>
+          <person xml:id="kantor" sex="MALE">
+            <persName>Кантор Цвибак</persName>
+            <persName xml:lang="en">Cantor Zwieback</persName>
+          </person>
+          <person xml:id="pervyy_evrey" sex="MALE">
+            <persName>Первый еврей</persName>
+            <persName xml:lang="en">First Jew</persName>
+          </person>
+          <person xml:id="vtoroy_evrey" sex="MALE">
+            <persName>Второй еврей</persName>
+            <persName xml:lang="en">Second Jew</persName>
+          </person>
+          <person xml:id="senka" sex="MALE">
+            <persName>Сенька Топун</persName>
+            <persName xml:lang="en">Senka Topun</persName>
+          </person>
+          <person xml:id="tolstyak" sex="MALE">
+            <persName>Толстяк с пушистыми щёками</persName>
+            <persName xml:lang="en">The Fat Man with the Flushed Cheeks</persName>
+          </person>
+          <person xml:id="malchik" sex="MALE">
+            <persName>Мальчик</persName>
+            <persName xml:lang="en">The Boy</persName>
+          </person>
+          <person xml:id="bobrinets" sex="MALE">
+            <persName>Бобринец</persName>
+            <persName xml:lang="en">Bobrinets</persName>
+          </person>
+          <person xml:id="semyon" sex="MALE">
+            <persName>Семён</persName>
+            <persName xml:lang="en">Semyon</persName>
+          </person>
+          <person xml:id="madam_popyatnik" sex="FEMALE">
+            <persName>Мадам Попятник</persName>
+            <persName xml:lang="en">Madame Popyatnik</persName>
+          </person>
+          <person xml:id="mayor" sex="MALE">
+            <persName>Мирон Попятник (Майор)</persName>
+            <persName xml:lang="en">Miron Popyatnik (Major)</persName>
+          </person>
+          <person xml:id="klasha" sex="FEMALE">
+            <persName>Клаша Зубарева</persName>
+            <persName xml:lang="en">Klasha Zubaryeva</persName>
+          </person>
+          <person xml:id="paren_s_tolstymi_nogami" sex="MALE">
+            <persName>Парень с толстыми ногами</persName>
+            <persName xml:lang="en">Thick-Legged Young Man</persName>
+          </person>
+          <person xml:id="prasol" sex="MALE">
+            <persName>Прасол</persName>
+            <persName xml:lang="en">Cattle Dealer</persName>
+          </person>
+          <person xml:id="madam_vayner" sex="FEMALE">
+            <persName>Мадам Вайнер</persName>
+            <persName xml:lang="en">Madame Weiner</persName>
+          </person>
+          <person xml:id="zharia" sex="MALE">
+            <persName>Бен Зхарья</persName>
+            <persName xml:lang="en">Ben Zkharia</persName>
+          </person>
+          <person xml:id="vayner" sex="MALE">
+            <persName>Вайнер</persName>
+            <persName xml:lang="en">Weiner</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle"/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-15">(im) converted from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Закат</titlePart>
+        <titlePart type="sub">Пьеса в 8 сценах</titlePart>
+      </docTitle>
+      <castList>
+        <head>Действующие лица</head>
+        <castItem>Мендель Крик — владелец извозопромышленного заведения, 62 года.</castItem>
+        <castItem>Нехама — его жена, 60 лет.</castItem>
+        <castGroup>
+          <roleDesc>Их дети:</roleDesc>
+          <castItem>Беня — щеголеватый молодой человек, 26 лет.</castItem>
+          <castItem>Лёвка — гусар в отпуску, 22 года.</castItem>
+          <castItem>Двойра — перезрелая девица, 30 лет.</castItem>
+        </castGroup>
+        <castItem>Арье-Лейб — служка в синагоге извозопромышленников, 65 лет.</castItem>
+        <castItem>Никифор — старший кучер у Криков, 50 лет.</castItem>
+        <castItem>Иван Пятирубель — кузнец, друг Менделя, 60 лет.</castItem>
+        <castItem>Бен Зхарья — раввин на Молдаванке, 70 лет.</castItem>
+        <castItem>Фомин — подрядчик, 40 лет.</castItem>
+        <castItem>Евдокия Потаповна Холоденко — торгует живой и битой птицей на рынке, тучная
+          старуха с вывороченным боком. Пьяница, 50 лет.</castItem>
+        <castItem>Маруся — её дочь, 20 лет.</castItem>
+        <castItem>Рябцов — хозяин трактира.</castItem>
+        <castItem>Митя — официант в трактире.</castItem>
+        <castItem>Мирон Попятник — флейтист в трактире Рябцова.</castItem>
+        <castItem>Мадам Попятник — его жена.</castItem>
+        <castItem>Урусов — подпольный ходатай по делам. Картавит.</castItem>
+        <castItem>Семён — лысый мужик.</castItem>
+        <castItem>Бобринец — шумный еврей. Шумит оттого, что богат.</castItem>
+        <castItem>Вайнер — гундосый богач.</castItem>
+        <castItem>Мадам Вайнер — богачиха.</castItem>
+        <castItem>Клаша Зубарева — беременная бабёнка.</castItem>
+        <castItem>Мосье Боярский — владелец конфексиона готовых платьев под фирмой
+          «Шедевр».</castItem>
+        <castItem>(Сенька Топун).</castItem>
+        <castItem>(Кантор Цвибак).<note place="foot">В круглые скобки заключены персонажи,
+            пропущенные автором в списке действующих лиц.</note></castItem>
+      </castList>
+      <set>
+        <stage>Действие происходит в Одессе в 1913 г.</stage>
+      </set>
+    </front>
+    <body>
+      <div type="scene">
+        <head>Первая сцена</head>
+        <stage>Столовая в доме Криков. Низкая обжитая мещанская комната. Бумажные цветы, комоды,
+          граммофон, портреты раввинов и рядом с раввинами семейные фотография Криков — окаменелых,
+          чёрных, с выкатившимися глазами, с плечами широкими, как шкафы.</stage>
+        <stage>В столовой приготовлено к приёму гостей. На столе, покрытом красной скатертью,
+          расставлены вина, варенье, пироги. Старуха Крик заваривает чай. Сбоку, на маленьком
+          столике — кипящий самовар.</stage>
+        <stage>В комнате старуха Нехама, Арье-Лейб, Лёвка в парадной гусарской форме. Жёлтая
+          бескозырка косо посажена на его кирпичное лицо, длиннополая шинель брошена на плечи. За
+          Лёвкой волочится кривая сабля. Беня Крик, разукрашенный, как испанец на деревенском
+          празднике, вывязывает перед зеркалом галстук.</stage>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot"
+              >Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
+            Сначала рубят лозу, потом рубят человека... Матери в нашей жизни роли не играют... Но
+            объясни мне, Лёвка, почему такому гусару, как ты, нельзя опоздать из отпуска на неделю,
+            пока твоя сестра не сделает своего счастья?</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(хохочет. В грубом его голосе движутся громы).</stage>
+          <p>На неделю!.. Вы набитый дурак, Арье-Лейб!.. Опоздать на неделю!.. Кавалерия — это вам
+            не пехота. Кавалерия плевала на вашу пехоту... Опоздал я на один час, и вахмистр берёт
+            меня к себе в помещение, пускает мне из души юшку, и из носу пускает мне юшку, и ещё под
+            суд меня отдаёт. Три генерала судят каждого конника, три генерала с медалями за Турецкую
+            войну.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Это со всеми так делают или только с евреями?</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Еврей, который сел на лошадь, перестал быть евреем и стал русским. Вы какой-то болван,
+            Арье-Лейб!.. Причём тут евреи?</p>
+        </sp>
+        <stage>Сквозь полуоткрытую дверь просвывается лицо Двойры.</stage>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>Мама, пока у вас что-нибудь найдёшь, можно мозги себе сломать. Куда вы подевали моё
+            зелёное платье?</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама</speaker>
+          <stage>(ни на кого не глядя, бурчит себе под нос).</stage>
+          <p>Посмотри в комоде.</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>Я смотрела в комоде — нету.</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>В шкафу.</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>В шкафе нету.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Какое платье?</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>Зелёное с блесткой.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Кажется, папаша подхватил.</p>
+        </sp>
+        <stage>Полуодетая, нарумяненная, завитая Двойра входит в комнату. Она высока ростом,
+          дебела.</stage>
+        <sp who="#dvoyra">
+          <speaker>Двойра</speaker>
+          <stage>(деревянным голосом).</stage>
+          <p>Ох, я умру!</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(матери).</stage>
+          <p>Вы небось признались ему, старая хулиганка, что Боярский придёт сегодня смотреть
+            Двойру?.. Она призналась. Готово дело!.. Я его ещё с утра заметил. Он запряг в биндюг
+            Соломона Мудрого и Муську, поснедал, нажрался водки, как кабан, бросил в козлы что-то
+            зелёное и подался со двора.</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>Ох, я умру! <stage>(Она разражается громким плачем, сдирает с окна занавеску, топчет её
+              и бросает старухе).</stage> Нате вам!..</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Издохни! Сегодня издохни...</p>
+        </sp>
+        <stage>Рыча и рыдая, Двойра убегает. Старуха прячет занавеску в комод.</stage>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(вывязывает галстук).</stage>
+          <p>Папаша, понимаете ли вы меня, жалеет приданое.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Зарезать такого старика ко всем свиньям!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Ты это про отца, Лёвка?</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Пусть не будет босяком.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Отец старше тебя на субботу.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Пусть не будет грубияном.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(закалывает в галстук жемчужную булавку).</stage>
+          <p>В прошлом году Сёмка Мунш хотел Двойру, но папаша, понимаете ли вы меня, жалеет
+            приданое. Он сделал из Сёмкиной вывески кашу с подливкой и выбросил его со всех
+            лестниц.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Зарезать такого старика ко всем свиньям!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Про такого свата, как я, сказано у Ибн-Эзра: «Если ты вздумаешь, человек, заняться
+            изготовлением свечей, то солнце станет посреди неба, как тумба, и никогда не
+            закатится...»</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(матери).</stage>
+          <p>Сто раз на дню старик убивает нас, а вы молчите ему, как столб. Тут каждую минуту жених
+            может наскочить...</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Сказано про меня у Ибн-Эзра: «Вздумай саваны шить для мёртвых, и ни один человек не
+            умрёт отныне и во веки веков, аминь!..»</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(вывязал галстук, сбросил с головы малиновую повязку, поддерживающую причёску,
+            облачился в кургузый пиджачок, налил рюмку водки).</stage>
+          <p>Здоровье присутствующих!</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(грубым голосом).</stage>
+          <p>Будем здоровы.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Чтобы было хорошо.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(грубым голосом).</stage>
+          <p>Пусть будет хорошо!</p>
+        </sp>
+        <stage>В комнату вкатывается мосье Боярский, бодрый круглый человек. Он сыплет без
+          умолку.</stage>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Привет! Привет! <stage>(Представляется.)</stage> Боярский... Приятно, чересчур
+            приятно!.. Привет!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Вы обещались в четыре, Лазарь, а теперь шесть.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский</speaker>
+          <stage>(усаживается и берёт из рук старухи стакан чаю).</stage>
+          <p>Бог мой, мы живём в Одессе, а в нашей Одессе есть заказчики, которые вынимают из вас
+            жизнь, как вы вынимаете косточку из финика, есть добрые приятели, которые согласны
+            скушать вас в одежде и без соли, есть вагон неприятностей, тысяча скандалов. Когда тут
+            подумать о здоровье, и зачем купцу здоровье? Насилу забежал в тёплые морские ванны — и
+            прямо к вам.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Вы принимаете морские ванны, Лазарь?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Через день, как часы.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(старухе).</stage>
+          <p>Худо-бедно положите пятьдесят копеек на ванну.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Бог мой, молодое вино есть в нашей Одессе. Греческий базар, Фанкони...</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Вы захаживаете к Фанкони, Лазарь?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Я захаживаю к Фанкони.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(победоносно).</stage>
+          <p>Он захаживает к Фанкони!.. <stage>(Старухе.)</stage> Худо-бедно тридцать копеек надо
+            оставить у Фанкони, я не скажу — сорок.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Простите меня, Арье-Лейб, если я, как более молодой, перебью вас. Фанкони обходится мне
+            ежедневно в рубль, а также в полтора рубля.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Так вы же мот, Лазарь, вы негодяй, какого ещё свет не видел!.. На тридцать рублей живёт
+            семья, и ещё детей учат на скрипке, ещё откладывают где какую копейку...</p>
+          <stage>В комнату вплывает Двойра. На ней оранжевое платье, могучие её икры стянуты
+            высокими башмаками.</stage>
+          <p>Это наша Вера.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский</speaker>
+          <stage>(вскакивает).</stage>
+          <p>Привет! Боярский.</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра</speaker>
+          <stage>(хрипло).</stage>
+          <p>Очень приятно.</p>
+        </sp>
+        <stage>Все садятся.</stage>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Наша Вера сегодня немножко угорела от утюга.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Угореть от утюга может всякий, но быть хорошим человеком — это не всякий может.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Тридцать рублей в месяц кошке под хвост... Лазарь, вы не имели права родиться!</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Тысячу раз простите меня, Арье-Лейб, но о Боярском надо вам знать, что он не
+            интересуется капиталом, — капитал — это ничтожество, — Боярский интересуется счастьем...
+            Я спрашиваю вас, дорогие, что вытекает для меня из того, что моя фирма выдаёт в месяц
+            сто — полтораста костюмов, плюс к этому брючные комплекты, плюс к этому польты?</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(старухе).</stage>
+          <p>Положите на костюм пять рублей чистых, я не скажу — десять...</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Что вытекает для меня из моей фирмы, когда я интересуюсь исключительно счастьем?</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>И я скажу на это, Лазарь, что если мы поведём наше дело как люди, а не как шарлатаны,
+            то вы будете обеспечены счастьем до самой вашей смерти, живите сто двадцать лет... Это я
+            говорю вам, как шамес, а не как сват.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(разливает вино).</stage>
+          <p>Исполнение обоюдных желаний.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(грубым голосом).</stage>
+          <p>Будем здоровы!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Пусть будет хорошо.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Я начал про Фанкони. Выслушайте, мосье Крик, историю про еврея-нахала... Забегаю
+            сегодня к Фанкони, кофейная набита людьми, как синагога в Судный день. Люди закусывают,
+            плюют на пол, расстраиваются... Один расстраивается оттого, что у него плохие дела,
+            другой расстраивается оттого, что у соседа хорошие дела. Присесть, между прочим,
+            некуда... Поднимается тут мне навстречу мосье Шапелон, видный из себя француз...
+            Заметьте, что это большая редкость, чтобы француз был из себя видный... поднимается мне
+            навстречу и приглашает к своему столику. Мосье Боярский, говорит он мне по-французски, я
+            уважаю вас, как фирму, и у меня есть дивная крыша для шубы...</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Крыша?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Сукно, верх для шубы... Дивная крыша для шубы, говорит он мне по-французски, и прошу
+            вас, как фирму, выпить со мною две кружки пива и скушать десять раков...</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Я люблю раков.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Скажи ещё, что ты любишь жабу.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>...и скушать десять раков...</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(упрямо).</stage>
+          <p>Я люблю раков!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Рак — это не жаба.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский</speaker>
+          <stage>(Лёвке).</stage>
+          <p>Вы простите меня, мосье Крик, если я скажу вам, что еврей не должен уважать раков. Это
+            я говорю вам замечание из жизни. Еврей, который уважает раков, может позволить себе с
+            женским полом больше, чем себе надо позволять, он может сказать сальность за столом, и
+            если у него бывают дети, так на сто процентов выродки и бильярдисты. Это я вам сказал
+            замечание из жизни. Теперь выслушайте историю про еврея-нахала...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Боярский!</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Я.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Прикинь мне, Боярский, на скорую руку, во что мне обойдётся зимний костюм прима?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Двубортный, однобортный?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Однобортный.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Фалды вы себе мыслите — круглые или отрезанные?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Фалды круглые.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Сукно ваше или моё?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Сукно твоё.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Какой товар вы себе рисуете — английский, лодзинский или московский?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Какой лучше?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Английское сукно, мосье Крик, это хорошее сукно, лодзинское сукно — это дерюга, на
+            которой что-то нарисовано, а московское сукно — это дерюга, на которой ничего не
+            нарисовано.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Возьмём английское.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Доклад ваш или мой?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Доклад твой.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Сколько вам обойдётся?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Сколько мне обойдётся?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский</speaker>
+          <stage>(осенённый внезапной мыслью).</stage>
+          <p>Мосье Крик, мы сойдёмся!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Вы сойдётесь!</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Мы сойдёмся... Я начал про Фанкони...</p>
+        </sp>
+        <stage>Слышен гром сапог, окованных гвоздями. Входит Мендель Крик с кнутом и Никифор,
+          старший кучер.</stage>
+        <stage>Гремя сапогами, ни на кого не глядя, старик идёт через всю комнату. Он бросает кнут,
+          садится на кушетку, протягивает длинные толстые ноги. Нехама опускается на колени и
+          стягивает с мужа сапоги.</stage>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(оробел).</stage>
+          <p>Познакомьтесь, Мендель, с мосье Боярским...</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский</speaker>
+          <stage>(вскакивает).</stage>
+          <p>Привет! Боярский.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(заикаясь).</stage>
+          <p>Мосье Боярский рассказывал нам здесь про свою фирму. Она выдаёт полтораста костюмов в
+            месяц...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Так что ты говоришь, Никифор?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(прислонился к косяку двери и уставился в потолок).</stage>
+          <p>Я то говорю, хозяин, что с нас люди смеются.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Почему с нас люди смеются?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Люди говорят — у вас тыща хозяев на конюшне, у вас семь пятниц на неделе... Вчера
+            возили в гавань пшеницу, кинулся я в контору деньги получать, они мне — назад: тут,
+            говорят, молодой хозяин был, Бенчик, он приказание дал, чтобы деньги в банк платить, на
+            квитанцию.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Приказание дал?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Приказание дал.</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама</speaker>
+          <stage>(стянула сапог. Мендель подаёт ей другую ногу. Старуха поднимает на мужа глаза,
+            полные ненависти, и бормочет сквозь стиснутые зубы).</stage>
+          <p>Чтоб ты света не дождался, мучитель!..</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Так что ты говоришь, Никифор?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Я то говорю, что от Лёвки сегодня грубость видели.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(отставив мизинец, пьёт вино).</stage>
+          <p>Обоюдное исполнение желаний.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Будем здоровы.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Повели сегодня Фрейлину ковать, наскочил в кузню Лёвка, открыл рот, как лоханку,
+            приказывает кузнецу Пятирубелю подковы резиной подбивать. Я тут встреваю. Что мы,
+            полицмейстеры, говорю, или мы цари, Николаи Вторые, чтобы резиной подбивать? Хозяин не
+            приказывал... А Лёвка стал красный, как буряк, и кричит: кто твой хозяин?</p>
+        </sp>
+        <stage>Нехама стянула второй сапог. Мендель встал. Он потянул к себе скатерть. Посуда,
+          пироги, варенье — всё полетело на пол.</stage>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Кто же твой хозяин, Никифор?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(угрюмо).</stage>
+          <p>Вы мой хозяин.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>А если я твой хозяин <stage>(он подходит к Никифору и берёт его за грудь)</stage>, а
+            если я твой хозяин, так бей того, кто ступит ногой в мою конюшню, бей в душу, в жилы, в
+            глаза... <stage>(Он трясёт Никифора и отшвыривает от себя.)</stage></p>
+        </sp>
+        <stage>Согнувшись, шаркая босыми ногами, Мендель идёт через всю комнату к выходу, за ним
+          бредет Никифор.</stage>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Чтоб ты свету не дождался, мучитель...</p>
+        </sp>
+        <stage>Молчание.</stage>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Если я скажу вам, Лазарь, что старик не кончил высших женских курсов...</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>...так я поверю вам без честного слова.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(подаёт Боярскому руку).</stage>
+          <p>Зайдешь другим разом, Боярский.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Бог мой, в семье всё случается. Бывает холодное, бывает горячее. Привет! Привет! Зайду
+            другим разом. <stage>(Исчезает).</stage></p>
+        </sp>
+        <stage>Беня встаёт, закуривает папироску, перекидывает через руку щегольский плащ.</stage>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Про такого свата, как я, сказано у Ибн-Эзры: «Если ты вздумаешь шить саваны для
+            мёртвых...»</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Зарезать такого старика ко всем свиньям!</p>
+          <stage>Двойра откинулась на спинку кресла и завизжала.</stage>
+          <p>Здрасте! Двойра получила истерику.</p>
+        </sp>
+        <stage>В комнату входит Никифор. Беня перекладывает плащ на левую руку и правой бьёт
+          Никифора по лицу.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Заложи мне гнедого в дрожки!</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(из носу у него вытекает нерешительная струйка крови).</stage>
+          <p>Расчёт мне дайте...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(подходит к Никифору в упор и говорит ласковым, вздрагивающим голосом).</stage>
+          <p>Ты у меня умрёшь сегодня, не поужинав, Никифор, мой дружок...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Вторая сцена</head>
+        <stage>Ночь. Спальня Криков. Лунный луч, роящийся и голубой, входит в окно. Старик и Нехама
+          на двуспальной кровати. Они укрыты одним одеялом. Всклокоченная грязно-седая старуха сидит
+          на постели. Она бубнит голосом, бубнит нескончаемо.</stage>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>У людей всё как у людей... У людей берут к обеду десять фунтов мяса, делают суп, делают
+            котлеты, делают компот. Отец приходит с работы, все садятся за стол, люди кушают и
+            смеются... А у нас?.. Бог, милый бог, как темно в моём доме!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Дай жить, Нехама. Спи!</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>...Бенчик, такой Бенчик, такое солнце на небе, он пошёл в эту жизнь. Сегодня один
+            пристав, завтра другой пристав... Сегодня люди имеют кусок хлеба, завтра им обложат ноги
+            железом...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Дай дыхать, Нехама! Спи.</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>...Такой Лёвка. Дитё придёт из солдат и тоже кинется в налёты. Куда ему кинуться? Отец
+            выродок, отец не пускает детей в дело...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Делай ночь, Нехама. Спи!</p>
+        </sp>
+        <stage>Молчание.</stage>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Раввин сказал, раввин Бен Зхарья... Настанет новый месяц, сказал Бен Зхарья, и я не
+            впущу Менделя в синагогу. Евреи не дадут мне...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(сбрасывает одеяло, садится рядом со старухой).</stage>
+          <p>Чего не дадут евреи?</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Придёт новолуние, сказал Бен Зхарья...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Что мне не дадут евреи и что мне дали твои евреи?</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Не пустят, не пустят в синагогу.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Карбованец с откусанным углом дали мне твои евреи, тебя, клячу, и этот гроб с
+            клопами.</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>А кацапы что тебе дали, что кацапы тебе дали?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(укладывается).</stage>
+          <p>О, кляча на мою голову!</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Водку кацапы тебе дали, матерщины полный рот, бешеный рот, как у собаки... Ему
+            шестьдесят два года, бог, милый мой, и он горячий, как печка, он здоровый, как
+            печка.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Выйми мне зубы, Нехама, налей жидовский суп в мои жилы, согни мне спину...</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Горячий, как печка... Как мне стыдно, бог!.. <stage>(Она забирает свою подушку и
+              укладывается на полу, в лунном луче. Молчание. Потом снова раздаётся её
+              бормотание)</stage> В пятницу вечером люди выходят за ворота, люди цацкаются с
+            внуками...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Делай ночь, Нехама.</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама</speaker>
+          <stage>(плачет).</stage>
+          <p>Люди цацкаются с внуками,..</p>
+        </sp>
+        <stage>Входит Беня. Он в нижнем белье.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Может быть, хватит на сегодня, молодожёны?</p>
+          <stage>Мендель приподымается. Он смотрит на сына во все глаза.</stage>
+          <p>Или я должен пойти в гостиницу, чтобы выспаться?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(встал с кровати. Он, как и сын, в нижнем белье).</stage>
+          <p>Ты... ты вошёл?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Дать два рубля за номер, чтобы выспаться?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Ночью, ночью ты вошёл?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Она мне мать. Ты слышишь, супник!</p>
+        </sp>
+        <stage>Отец и сын стоят в нижнем белье друг против друга. Мендель всё ближе, всё медленнее
+          подходит к Бене. В лунном луче трясётся всклокоченная голова Нехамы.</stage>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Ночью, ночью ты вошёл...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Третья сцена</head>
+        <stage>Трактир на Привозной площади. Ночь. Хозяин трактира Рябцов, болезненный строгий
+          человек, читает у стойки Евангелие. Пыльные его волосы разложены по обеим сторонам лба. На
+          возвышении сидит кроткий флейтист Мирон <stage>(в просторечии Майор)</stage> Попятник.
+          Флейта его выводит слабую дрожащую мелодию. За одним из столов черноусые, седоватые греки
+          играют в кости с Сенькой Топуном, приятелем Бени Крика. Перед Сенькой разрезанный арбуз,
+          финский нож и бутылка малаги. Два матроса спят, положив на стол литые плечи. В дальнем
+          углу смиренно попивает зельтерскую воду подрядчик Фомин. Его убеждает в чём-то пьяная
+          Потаповна. За передним столом стоит Мендель Крик, пьяный, воспалённый, громадный, и
+          Урусов, ходатай по делам.</stage>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(бьёт кулаком по столу).</stage>
+          <p>Темно! Ты в могиле меня держишь, Рябцов, в чёрной могиле!..</p>
+          <stage>Официант Митя, старичок с серебряными волосами ёжиком, приносит лампу и ставит её
+            перед Менделем.</stage>
+          <p>Я все лампы приказывал! Я хор требовал! Я со всего трактира лампы приказывал!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Керосин-то, вишь, нашему брату даром не дают. Вот, видишь, какое дело...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Темно!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя</speaker>
+          <stage>(Рябцову).</stage>
+          <p>Добавку освещения требуют.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Рупь.</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Получайте рупь.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Получил рупь.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Урусов!</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Есть!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Скрозь моё сердце сколько, говоришь, крови льётся?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>По науке считается, скрозь человеческое сердце льётся в сутки двести пудов крови. А в
+            Америке такое изобрели...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Стой! Стой!.. А если я в Америку хочу ехать — это свободно?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Свободно вполне. Сел и поехал...</p>
+        </sp>
+        <stage>Переваливаясь, виляя кривым боком, к столу подходит Потаповна.</stage>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Мендель, мама моя, мы не в Америку, мы в Бессарабию поедем, сады покупать.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Сел, говоришь, и поехал?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>По науке считается, что вы четыре моря проезжаете — Чёрное море, Ионическое, Эгейское,
+            Средиземное и два всемирных океана — Атлантический океан и Тихий.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>А ты сказывал — человек через моря летать может?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Может.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Через горы, через высокие горы может человек лететь?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов</speaker>
+          <stage>(с твёрдостью).</stage>
+          <p>Может.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(сжимает ладонями лохматую голову).</stage>
+          <p>Конца нет, краю нет... <stage>(Рябцову.)</stage> Поеду. В Бессарабию поеду.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>А делать чего будешь в Бессарабии?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Чего захочу, то и буду.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>А чего тебе хотеть?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Слухай меня, Рябцов, я ещё живой...</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Не живой ты, если тебя бог убил.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Когда это меня бог убил?</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Годов-то тебе сколько?</p>
+        </sp>
+        <sp who="#golos_iz_traktira">
+          <speaker>Голос из трактира.</speaker>
+          <p>Годов ему — всех шестьдесят два.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Шестьдесят два года бог тебя и убивает.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Рябцов, я бога хитрей.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Ты русского бога хитрей, а жидовского бога ты не хитрей.</p>
+        </sp>
+        <stage>Митя вносит ещё одну лампу. За ним гуськом выступают четыре заспанных толстых девки.
+          В руках у каждой из них по зажжённой лампе. Свет разливается по трактиру.</stage>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Со светлым тебя, значит, Христовым воскресеньем! Девки, обставь его, бешеного,
+            лампами.</p>
+        </sp>
+        <stage>Девки ставят лампы на стол перед Менделем. Сияние озаряет багровое лицо его.</stage>
+        <sp who="#golos_iz_traktira">
+          <speaker>Голос из трактира.</speaker>
+          <p>Из ночи день делаем, Мендель?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Конца нет.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(дёргает Урусова за рукав).</stage>
+          <p>Прошу вашей дорогой любезности, выпейте со мной, господин... Вот я курями на базаре
+            торгую, мне мужики всё летошних кур всучивают, да рази я к курям этим присуждённая? У
+            меня папочка садовник был, первый садовник. Я, какая где яблонька задичится, я её
+            раздичу...</p>
+        </sp>
+        <sp who="#golos_iz_traktira">
+          <speaker>Голос из трактира.</speaker>
+          <p>Из понедельника воскресенье делаем, Мендель?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(кофта разошлась на жирной её груди. Водка, жара, восторг душат её).</stage>
+          <p>Мендель дело своё продаст, получим, бог даст, деньги, мы тогда с ясочкой нашей в сады
+            уедем, на нас, послухайте, господин, на нас с липы цвет лететь будет... Мендель,
+            золотко, я папочкина дочка!..</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(идёт к стойке).</stage>
+          <p>Рябцов, у меня глаза были... слухай меня, Рябцов, у меня глаза были, сильней телескопов
+            были, а чего я сделал с моими глазами? У меня ноги быстрей паровозов были, мои ноги по
+            морю ходят, а чего я сделал с моими ногами? От обжорки к сортиру, от сортира к
+            обжорке... Я полы мордой заметал, а теперь я сады поставлю.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Ставь. Кто тебя не пущает?</p>
+        </sp>
+        <sp who="#golos_iz_traktira">
+          <speaker>Голос из трактира.</speaker>
+          <p>Найдутся — не пустят. Наступят на хвост — не выдерет...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Я песни приказывал! Дай военную, музыкант... Не мотай жилы... Жизнь дай! Еще дай!..</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя</speaker>
+          <stage>(Урусову шёпотом).</stage>
+          <p>Фомину приходить или рано?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Рано. <stage>(Музыканту.)</stage> Прибавь, Майор!</p>
+        </sp>
+        <sp who="#golos_iz_traktira">
+          <speaker>Голос из трактира.</speaker>
+          <p>И прибавлять нечего, хор пришёл. Пятирубель хор приволок.</p>
+        </sp>
+        <stage>Входит хор — слепцы в красных рубахах. Они натыкаются на стулья, машут перед собой
+          камышовыми тросточками. Их ведёт кузнец Пятирубель, азартный человек, друг
+          Менделя.</stage>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Со сна чертей похватал. Не будем, говорят, песни играть. Ночь, говорят, на всём белом
+            свете, наигрались... Да вы, говорю, перед каким человеком, говорю, стоите?!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(бросается к запевале, рябому рослому слепцу).</stage>
+          <p>Федя, я в Бессарабию еду.</p>
+        </sp>
+        <sp who="#slepoi_zapevala">
+          <speaker>Слепой</speaker>
+          <stage>(густым, глубоким басом).</stage>
+          <p>Счастливо вам, хозяин!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Песню, Федя, песню играй.</p>
+        </sp>
+        <sp who="#slepoi_zapevala">
+          <speaker>Слепой.</speaker>
+          <p>«Славное море» — споём?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Песню!..</p>
+        </sp>
+        <sp who="#drugie_sleptsy">
+          <speaker>Слепцы</speaker>
+          <stage>(настраивают гитары. Тягучие их басы запевают).</stage>
+          <lg>
+            <l>Славное море — священный Байкал,</l>
+            <l>Славный корабль — омулёвая бочка,</l>
+            <l>Эй, баргузин, пошевеливай вал;</l>
+            <l>Плыть молодцу недалечко.</l>
+          </lg>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(швыряет в окно пустую бутылку).</stage>
+          <p>Бей!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Ох, и герой же ты, сукин сын!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя</speaker>
+          <stage>(Рябцову).</stage>
+          <p>За стекло сколько посчитаем?</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Рупь.</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Получайте рупь.</p>
+        </sp>
+        <sp who="#drugie_sleptsy">
+          <speaker>Слепцы</speaker>
+          <stage>(поют).</stage>
+          <lg>
+            <l>Долго я тяжкие цепи носил,</l>
+            <l>Долго скитался в горах Акатуя,</l>
+            <l>Старый товарищ бежать пособил,</l>
+            <l>Ожил я, волю почуя...</l>
+          </lg>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Бей.</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Сатана, а не старик!</p>
+        </sp>
+        <sp who="#golosa_iz_traktira">
+          <speaker>Голоса из трактира:</speaker>
+          <p>— Форсовито гуляет!..</p>
+          <p>— Ничего не форсовито... Обыкновенно гуляет.</p>
+          <p>— Обыкновенно так не бывает. Помер у него кто-нибудь?</p>
+          <p>— Никто у него не помер... Обыкновенно гуляет.</p>
+          <p>— А причина какая, по какой причине гуляет?</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Поди разбери причину. У одного деньги есть — он от денег гуляет, у другого денег нет —
+            он от бедности гуляет. Человек ото всего гуляет...</p>
+          <stage>Песня гремит всё могущественнее. В разбитом окне качается звезда. Заспанные девки
+            встали у косяков, подперли груди шершавыми руками и запели. Матрос качается на
+            расставленных больших ногах и подпевает чистым тенором.</stage>
+          <lg>
+            <l>Шилка и Нерчинск не страшны теперь,</l>
+            <l>Горная стража меня не поймала.</l>
+            <l>В дебрях не тронул прожорливый зверь,</l>
+            <l>Пуля стрелка миновала...</l>
+          </lg>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(пьяна и счастлива).</stage>
+          <p>Мендель, мама моя, выпейте со мной! Выпьем за нашу ясочку!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Швейцару на почте морду бил. Вот какой старик! Телеграфные столбы крал и домой на
+            плечах приносил...</p>
+          <lg>
+            <l>Шел я и ночью и средь бела дня,</l>
+            <l>Вкруг городов озирался я зорко.</l>
+            <l>Хлебом кормили крестьянки меня,</l>
+            <l>Парни снабжали махоркой...</l>
+          </lg>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Согни мне спину, Нехама, налей жидовский суп в мои жилы!.. <stage>(Он бросается на пол,
+              ворочается, стонет, хохочет).</stage></p>
+        </sp>
+        <sp who="#golosa_iz_traktira">
+          <speaker>Голоса из трактира:</speaker>
+          <p>— Чисто слон!</p>
+          <p>— Я видел — и слоны плачут...</p>
+          <p>— Врёшь, слоны не плачут...</p>
+          <p>— Говорю тебе, слезами плакал...</p>
+          <p>— В зверинце я слона одного задражнил...</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя</speaker>
+          <stage>(Урусову).</stage>
+          <p>Фомину приходить или рано?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Рано.</p>
+        </sp>
+        <sp>
+          <stage>Певцы поют во всю мочь:</stage>
+          <lg>
+            <l>Славное море — священный Байкал,</l>
+            <l>Славный мой парус — кафтан дыроватый,</l>
+            <l>Эй, баргузин, пошевеливай вал,</l>
+            <l>Слышатся грома раскаты...</l>
+          </lg>
+        </sp>
+        <stage>Радостными рыдающими голосами поют слепцы последние строки. Окончив песню, они встают
+          и уходят, как по команде.</stage>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>И всё?</p>
+        </sp>
+        <sp who="#slepoi_zapevala">
+          <speaker>Запевала.</speaker>
+          <p>Хватит.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(вскочил с пола и затопал).</stage>
+          <p>Военное мне дай! Жизнь, музыкант, дай!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя</speaker>
+          <stage>(Урусову).</stage>
+          <p>Фомину взойти или рано?</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Самое время.</p>
+        </sp>
+        <stage>Митя подмигивает Фомину, сидящему в дальнем углу. Фомин рысью подбирается к столу
+          Менделя.</stage>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>С приятным заседанием!</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов</speaker>
+          <stage>(Менделю).</stage>
+          <p>Теперь, дорогой, оно у нас так будет — потехе время, делу час. <stage>(Вытаскивает
+              исписанный лист бумаги.)</stage> Читать, что ли?</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>Если вам нежелательно, скажем, плясать, то можно читать.</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>Сумму, что ли, читать?</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>Согласен на такое ваше предложение.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(во все глаза смотрит на Фомина и отодвигается).</stage>
+          <p>Я песни приказывал...</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>И петь будем и гулять будем, а придётся помирать — помирать будем.</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов</speaker>
+          <stage>(читает очень картаво).</stage>
+          <p>«...Согласно каковым пунктам, уступаю в полную собственность Фомину Василию Елисеевичу
+            извозопромышленное заведение моё в составе, как поименованно...»</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Фомин, ты понимай, паяц, каких коней забираешь! Кони эти миллион пшеницы отвезли, они
+            полмира угля перетаскали. Ты от нас всю Одессу с этими конями забираешь...</p>
+        </sp>
+        <sp who="#urusov">
+          <speaker>Урусов.</speaker>
+          <p>«...А всего за сумму двенадцать тысяч рублей, из коих треть при подписании сего, а
+            остальные...»</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(указывает пальцем на турка, безмятежно курившего кальян в углу).</stage>
+          <p>Вон человек сидит, обсуждает меня.</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Верно, обсуждает... А ну, стукнитесь! <stage>(Фомину.)</stage> Ей-богу, сейчас человека
+            убьёт.</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>Авось не убьёт.</p>
+        </sp>
+        <sp who="#ryabtsov">
+          <speaker>Рябцов.</speaker>
+          <p>Дуришь дурак! Гость этот — турок, святой человек.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(потягивает вино мелкими глотками и блаженно смеётся).</stage>
+          <p>Папочкина дочка!</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>Вот, дорогой, тут и распишись.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(хлопает Фомина по груди).</stage>
+          <p>Здеся у него, у Васьки, деньги, здеся они!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Расписаться, говоришь?.. <stage>(Шаркая сапогами, он идёт через весь трактир к турку,
+              садится рядом с ним.)</stage> И что я, дорогой человек, девок поимел на моём веку, и
+            что я счастья видел, и дом поставил, и сынов выходил — цена этому, дорогой человек,
+            двенадцать тысяч. А потом крышка — помирай!</p>
+        </sp>
+        <stage>Турок кланяется, прикладывает руку в сердцу, ко лбу. Мендель бережно целует его в
+          губы.</stage>
+        <sp who="#fomin">
+          <speaker>Фомин</speaker>
+          <stage>(Потаповне).</stage>
+          <p>Значит, Янкеля со мной вертеть?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Продаст он, Василий Елисеевич, убиться мне, если не продаст!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(возвращается, мотает головой).</stage>
+          <p>Скука какая!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Вот те и скука — платить надо.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Уйди!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Врёшь, уплатишь!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Убью!</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Ответишь.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Уйди, я спать буду...</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя.</speaker>
+          <p>Не платишь? Ох, старички, убивать буду!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Погоди убивать. Ты сколько с него за полбутылки гребёшь?</p>
+        </sp>
+        <sp who="#mitya">
+          <speaker>Митя</speaker>
+          <stage>(распалился).</stage>
+          <p>Я мальчик злой, я покусаю!</p>
+        </sp>
+        <stage>Мендель, не поднимая головы, выбрасывает из кармана деньги. Монеты катятся по полу.
+          Митя ползёт за ними, подбирает. Заспанная девка дует на лампы, тушит их. Темно. Мендель
+          спит, положив голову на стол.</stage>
+        <sp who="#fomin">
+          <speaker>Фомин</speaker>
+          <stage>(Потаповне).</stage>
+          <p>Суёшься попередь батьки... Стучишь языком, как собака бегает... Всю музыку
+            испортила!</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(выжимает слёзы из грязных мятых морщин).</stage>
+          <p>Василий Елисеевич, я дочку жалею.</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>Жалеть умеючи надо.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Жиды, как воши, обсели.</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин.</speaker>
+          <p>Жид умному не помеха.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Продаст он, Василий Елисеевич, покуражится и продаст.</p>
+        </sp>
+        <sp who="#fomin">
+          <speaker>Фомин</speaker>
+          <stage>(грозно, медленно).</stage>
+          <p>А не продаст, так богом Иисусом Христом, богом нашим вседержителем божусь тебе, старая,
+            домой придём — я со спины у тебя ремни резать буду!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Четвёртая сцена</head>
+        <stage>Мансарда Потаповны. Старуха, разодетая в новое яркое платье, лежит на окне и
+          переговаривается с соседкой. Из окна виден порт, блистающее море. На столе ворох покупок —
+          отрез материи, дамские туфли, шёлковый зонтик.</stage>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Погордиться бы пришла, покрасоваться перед нами.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Да приду к вам, проведаю...</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>А то в одном ряду на птичьей двенадцать лет торговали, и хвать — нет её, Потаповны.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Да авось я не присуждённая к курям к этим. Видно, не век мне маяться...</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Видно, что не век.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>У людей-то небось на Потаповну глаза разбегаются?</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Каково разбегаются-то! Счастья-то каждому подай. Испеки да подай...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(смеётся, тучное её тело сотрясается).</stage>
+          <p>Девка-то, вишь, не у всякого есть.</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Девка-то, говорят, худая.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>У кости, милая, мясо слаще.</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Сыны, слышь, против вас копают...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Девка сынов перетянет.</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>И я говорю — перетянет.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Старик небось девку не бросает.</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Да ничего не говорят, только гавкают. Кто их разберёт?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Разберём. Я разберу... Про полотно-то чего толкуют?</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Толкуют, старик вам двадцать аршин справил.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Пятьдесят!</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Башмаков пару...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Три!</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Очень смертно любят старики.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Видно, к курям-то мы не присуждённые...</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Видно, не присуждённые... Покрасоваться бы пришла, погордиться перед нами.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Приду. Проведаю вас... Прощай, милая!</p>
+        </sp>
+        <sp who="#golos_sosedki">
+          <speaker>Голос соседки.</speaker>
+          <p>Прощай, милая!</p>
+        </sp>
+        <stage>Потаповна слезает с окна. Переваливаясь, напевая, бродит она по комнате, открывает
+          шкаф. Взбирается на стул, чтобы достать до верхней полки, на которой штоф наливки, пьёт,
+          закусывает трубочкой с кремом. В комнату входит Мендель, одетый по-праздничному, и
+          Маруся.</stage>
+        <sp who="#marusya">
+          <speaker>Маруся</speaker>
+          <stage>(очень звонко).</stage>
+          <p>Птичка-то наша куда взгромоздилась! Сбегайте к Мойсейке, мама.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(слезая со стула).</stage>
+          <p>А чего купить?</p>
+        </sp>
+        <sp who="#marusya">
+          <speaker>Маруся.</speaker>
+          <p>Кавуны купите, бутылку вина, копчёной скумбрии полдесятка... <stage>(Менделю.)</stage>
+            Дай ей рубль.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Не хватит рубля.</p>
+        </sp>
+        <sp who="#marusya">
+          <speaker>Маруся.</speaker>
+          <p>Арапа не заправляйте! Хватит, ещё сдачи будет.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Не хватит мне рубля.</p>
+        </sp>
+        <sp who="#marusya">
+          <speaker>Маруся.</speaker>
+          <p>Хватит! Придёте через час. <stage>(Она выталкивает мать, захлопывает дверь, запирает её
+              на ключ.)</stage></p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Голос Потаповны.</speaker>
+          <p>Я за воротами посижу, надо будет — покличешь.</p>
+        </sp>
+        <sp who="#marusya">
+          <speaker>Маруся.</speaker>
+          <p>Ладно. <stage>(Она бросает на стол шляпку, распускает волосы, заплетает золотую косу.
+              Голосом, полным силы, звона и веселья, она продолжает прерванный рассказ.)</stage>
+            ...Пришли на кладбище, глядим — первый час. Все похороны отошли, народу никакого, только
+            в кустах целуются. У крестного могилка хорошенькая — чудо!.. Я кутью разложила, мадеру,
+            что ты мне дал, две бутылки, побежала за отцом Иоанном. Отец Иоанн старенький, с
+            голубенькими глазами, ты его знать должен...</p>
+          <stage>Мендель смотрит на Марусю с обожанием. Он дрожит и мычит что-то в ответ, непонятно,
+            что мычит.</stage>
+          <p>Батюшка панихиду отслужил, я ему рюмку мадеры налила, рюмку полотенцем вытерла, он
+            выпил, я ему вторую... <stage>(Маруся заплела косу, распушила конец. Она садится на
+              кровать, расшнуровывает жёлтые, длинные, по тогдашней моде, башмаки.)</stage> Ксенька,
+            та, как будто не у отца на могиле, надулась, как мышь на крупу, вся накрашенная,
+            намазанная, жениха глазами ест. А Сергей Иваныч, тот мне всё бутерброды мажет... Я
+            Ксеньке в пику и говорю... Что вы, говорю, Сергей Иваныч, Ксении Матвеевне, невесте
+            вашей, внимание не уделяете?.. Сказала, и проехало. Мадеру мы твою дочиста выпили...
+              <stage>(Маруся снимает башмаки и чулки, она идёт босиком к окну, задёргивает
+              занавеску.)</stage> Крёстная всё плакала, а потом стала розовая, как барышня,
+            хорошенькая — чудо! Я тоже выпила — и Сергею Иванычу <stage>(Маруся раскрывает
+              постель)</stage>: айда, Сергей Иваныч, на Ланжерон купаться! Он: айда! <stage>(Маруся
+              хохочет, стягивает с себя платье, оно подаётся туго.)</stage> А у Ксеньки-то спина
+            небось полна прыщей, и ноги три года не мыла... Она на меня тут язык свой спустила
+              <stage>(Маруся перекрыта с головой наполовину стянутым платьем)</stage>: ты, мол,
+            фасон давишь, ты интересантка, ты то, ты сё, на стариковы деньги позарилась, ну, тебя
+            отошьют от этих денег... А я ей: знаешь что, Ксенька, — это я ей, — не дразни ты,
+            Ксенька, моих собак... Сергей Иваныч слушает нас, помирает со смеху!.. <stage>(Голой
+              девической прекрасной рукой Маруся тащит к себе Менделя. Она снимает с него пиджак и
+              швыряет пиджак на пол.)</stage> Ну, иди сюда, скажи — Марусичка...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Марусичка!</p>
+        </sp>
+        <sp who="#marusya">
+          <speaker>Маруся.</speaker>
+          <p>Скажи — Марусичка, солнышко моё...</p>
+          <stage>Старик хрипит, дрожит, не то плачет, не то смеётся.</stage>
+          <stage>(Ласково.)</stage>
+          <p>Ах ты, рыло!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Пятая сцена</head>
+        <stage>Синагога общества извозопромышленников на Молдаванке. Богослужение в пятницу вечером.
+          Зажжённые свечи. У амвона кантор Цвибак в телесе и сапогах. Прихожане оглушительно
+          беседуют с богом, слоняются по синагоге, раскачиваются, отплёвываются. Ужаленные внезапной
+          пчелой благодати, они издают громовые восклицания, подпевают кантору, неистовыми,
+          привычными голосами, стихают, долго бормочут себе под нос и потом снова ревут, как
+          разбуженные волы. В глубине синагоги, над фолиантом Талмуда склонились два древних еврея,
+          два костистых горбатых гиганта с жёлтыми бородами, свороченными набок. Арье-Лейб, шамес,
+          величественно расхаживает между рядами. На передней скамье толстяк с оттопыренными
+          пушистыми щёками зажал между коленями мальчика лет десяти. Отец тычет мальчика в
+          молитвенник. На боковой скамье Беня Крик. Позади него сидит Сенька Топун. Они не подают
+          вида, что знакомы друг с другом.</stage>
+        <sp who="#kantor">
+          <speaker>Кантор</speaker>
+          <stage>(возглашает).</stage>
+          <p>Лху нранно ладонай норийо ицур ишейну!</p>
+          <stage>Извозчики подхватили напев. Гудение молитвы.</stage>
+          <p>Арбоим шоно окут бдойр вооймар... <stage>(Сдавленным голосом.)</stage> Арье-Лейб,
+            крысы!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Ширу ладонай шир ходош. Ой, пойте господу новую песню... <stage>(Подходит к молящемуся
+              еврею.)</stage> Как стоит сено?</p>
+        </sp>
+        <sp who="#pervyy_evrey">
+          <speaker>Еврей</speaker>
+          <stage>(раскачивается).</stage>
+          <p>Поднялось.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>На много?</p>
+        </sp>
+        <sp who="#pervyy_evrey">
+          <speaker>Еврей.</speaker>
+          <p>Пятьдесят две копейки.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Доживём, будет шестьдесят.</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор.</speaker>
+          <p>Лифней адонай ки во мишпойт гоорец... Арье-Лейб, крысы!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Довольно кричать, буян.</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор</speaker>
+          <stage>(сдавленным голосом).</stage>
+          <p>Я увижу ещё одну крысу — я сделаю несчастье.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(безмятежно).</stage>
+          <p>Лифней адонай ки во, ки во... Ой, стою, ой, стою перед господом... Как овёс?..</p>
+        </sp>
+        <sp who="#vtoroy_evrey">
+          <speaker>Второй еврей</speaker>
+          <stage>(не прерывая молитвы).</stage>
+          <p>Рупь четыре, рупь четыре...</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>С ума сойти!</p>
+        </sp>
+        <sp who="#vtoroy_evrey">
+          <speaker>Второй еврей</speaker>
+          <stage>(раскачивается с ожесточением).</stage>
+          <p>Будет рупь десять, будет рупь десять...</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>С ума сойти! Лифней адонай — ки во, ки во...</p>
+        </sp>
+        <stage>Все молятся. В наступившей тишине слышны отрывистые приглушённые слова, которыми
+          обмениваются Беня Крик и Сенька Топун.</stage>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(склонился над молитвенником).</stage>
+          <p>Ну?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька</speaker>
+          <stage>(за спиной Бени).</stage>
+          <p>Есть дело.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Мы не сделали дела.</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Оптовое дело.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Что можно взять?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Сукно.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Много сукна?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Много.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Какой городовой?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Городового не будет.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Ночной сторож?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Ночной сторож в доле.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Соседи?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Соседи согласны спать.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Что ты хочешь с этого дела?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Половину.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Мы не сделали дела.</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Докладываешь батькино наследство?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Докладываю батькино наследство.</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Что ты даёшь?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Мы не сделали дела.</p>
+        </sp>
+        <stage>Грянул выстрел. Кантор Цвибак застрелил пробежавшую мимо амвона крысу. Молящиеся
+          воззрились на кантора. Мальчик, стиснутый скучными коленями отца, бьётся, пытается
+          вырваться. Арье-Лейб застыл с раскрытым ртом. Талмудисты подняли равнодушные большие
+          лица.</stage>
+        <sp who="#tolstyak">
+          <speaker>Толстяк с пушистыми щёками.</speaker>
+          <p>Цвибак, это босяцкая выходка!</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор.</speaker>
+          <p>Я договаривался молиться в синагоге, а не в кладовке с крысами. <stage>(Он оттягивает
+              дуло револьвера, выбрасывает гильзу.).</stage></p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Ай, босяк, ай, хам!</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор</speaker>
+          <stage>(указывает револьвером на убитую крысу).</stage>
+          <p>Смотрите на эту крысу, евреи, позовите людей. Пусть люди скажут, что это не
+            корова...</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Босяк, босяк, босяк!..</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор</speaker>
+          <stage>(хладнокровно).</stage>
+          <p>Конец этим крысам. <stage>(Он заворачивается в талес и подносит к уху
+              камертон.)</stage></p>
+        </sp>
+        <stage>Мальчик разжал наконец плен отцовских коленей, ринулся к гильзе, схватил её и
+          убежал.</stage>
+        <sp who="#pervyy_evrey">
+          <speaker>Первый еврей.</speaker>
+          <p>Гоняешься целый день за копейкой, приходишь в синагогу получить удовольствие и — на
+            тебе!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(визжит).</stage>
+          <p>Евреи, это шарлатанство! Евреи, вы не знаете, что здесь происходит! Молочники дают
+            этому босяку на десять рублей больше... Иди к молочникам, босяк, целуй молочников туда,
+            куда ты их должен целовать!</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька</speaker>
+          <stage>(хлопает кулаком по молитвеннику).</stage>
+          <p>Пусть будет тихо! Нашли себе толчок!</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор</speaker>
+          <stage>(торжественно).</stage>
+          <p>Мизмойр лдовид!</p>
+        </sp>
+        <stage>Все молятся.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Ну?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Есть люди.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Какие люди?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Грузины.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Имеют оружие?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Имеют оружие.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Откуда они взялись?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Живут рядом с вашим покупателем.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>С каким покупателем?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Который ваше дело покупает.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Какое дело?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Ваше дело — площадки, дом, весь извоз.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(оборачивается).</stage>
+          <p>Сказился?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Сам говорил.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Кто говорил?</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Мендель говорил, отец... Едет с Маруськой в Бессарабию сады покупать.</p>
+        </sp>
+        <stage>Гул молитвы.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Сказился.</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Все люди знают.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Божись!</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Пусть мне счастья не видеть!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Матерью божись!</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька.</speaker>
+          <p>Пусть я мать живую не застану!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Ещё божись, стерва!</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька</speaker>
+          <stage>(пренебрежительно).</stage>
+          <p>Дурак ты!</p>
+        </sp>
+        <sp who="#kantor">
+          <speaker>Кантор.</speaker>
+          <p>Борух ато адонай...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Шестая сцена</head>
+        <stage>Двор Криков. Закат. Семь часов вечера. У конюшни, на телеге с торчащим дышлом, сидит
+          Беня и чистит револьвер, Лёвка прислонился к двери конюшни. Арье-Лейб объясняет
+          сокровенный смысл «Песни песней» тому самому мальчику, который в пятницу вечером удрал из
+          синагоги. Никифор без толку мечется по двору. Он, видимо, чем-то обеспокоен.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Время идёт. Дай времени дорогу!</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Зарезать ко всем свиньям!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Время идёт. Посторонись, Лёвка! Дай времени дорогу!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>«Песня песней» учит нас — ночью на ложе моём искала я того, кого люблю... Что же
+            говорит нам Рашэ?<note place="foot">Рашэ — комментатор Священного писания и
+              Талмуда.</note></p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(указывает Арье-Лейбу на братьев).</stage>
+          <p>Вон выставились коло конюшни, как дубы.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Вот что говорит нам Рашэ: ночью — это значит днём и ночью. Искала я на ложе моём... Кто
+            искал? — спрашивает Рашэ. Израиль искал, народ Израиля. Того, кого люблю... Кого же
+            любит Израиль? — спрашивает Рашэ. Израиль любит Тору, Тору любит Израиль.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Я спрашиваю, зачем без дела коло конюшни стоять?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Кричи больше.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(мечется по двору).</stage>
+          <p>Я своё знаю... У меня хомуты пропадают. Кого хочу, того подозревать буду.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Старый человек учит ребёнка закону, а ты мешаешь ему, Никифор...</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Зачем они коло конюшни выставились, как дубы паршивые?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(разбирает револьвер, чистит).</stage>
+          <p>Замечаю я, Никифор, что ты очень растревожился.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(кричит, но в голосе его нет силы).</stage>
+          <p>Я хомутам вашим не присягал! У меня, если хотите знать, брат на деревне живёт, ещё при
+            силах! Меня, если хотите знать, брат с дорогой душой возьмёт...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Кричи, кричи перед смертью.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(Арье-Лейбу).</stage>
+          <p>Старик, скажи, зачем они так делают?</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(поднимает на кучера выцветшие глаза).</stage>
+          <p>Один человек учит закон, а другой кричит, как корова. Разве так оно должно быть на
+            свете?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Ты смотришь, старик, а чего ты видишь? <stage>(Уходит.).</stage></p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Растревожился наш Никифор.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Ночью искала я на ложе моём. Кого искала? — учит нас Рашэ.</p>
+        </sp>
+        <sp who="#malchik">
+          <speaker>Мальчик.</speaker>
+          <p>Рашэ учит нас — искала Тору.</p>
+        </sp>
+        <stage>Слышны громкие голоса.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Время идёт. Посторонись, Лёвка, дай времени дорогу!</p>
+        </sp>
+        <stage>Входит Мендель, Бобринец, Никифор, Пятирубель под хмельком.</stage>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(оглушительным голосом).</stage>
+          <p>Если не ты, Мендель, отвезёшь в гавань мою пшеницу, так кто же отвезёт? Если не к тебе,
+            Мендель, я пойду, так к кому же мне прийти?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Есть на свете люди, кроме Менделя. Есть на свете извоз, кроме моего извоза.</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Нет в Одессе извоза, кроме твоего... Или ты пошлёшь меня к Буцису с его клячами на трёх
+            ногах, к Журавлёнке с его побитыми лоханками?..</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(не глядя на сыновей).</stage>
+          <p>Люди крутятся около моей конюшни.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Выставились, как дубы паршивые.</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Запряжёшь мне завтра десять пар, Мендель, отвезёшь пшеницу, получишь деньги, пропустишь
+            шкалик, споёшь песню... Ай, Мендель!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Ай, Мендель!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Зачем люди крутятся около моей конюшни?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Хозяин, за-ради бога!..</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Ну?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Тикай со двора, хозяин, бо сыны твои...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Что сыны мои?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Сыны твои хочут лупцовать тебя.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(прыгнул с телеги на землю. Нагнув голову, он говорит раздельно).</stage>
+          <p>Пришлось мне слышать от чужих людей, мне и брату моему Лёвке, что вы продаёте, папаша,
+            дело, в котором есть золотник и нашего пота...</p>
+        </sp>
+        <stage>Соседи, работавшие во дворе, придвигаются поближе к Крикам.</stage>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(смотрит в землю).</stage>
+          <p>Люди, хозяева...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Правильно ли мы слышали, я и брат мой Лёвка?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Люди и хозяева, вот смотрите на мою кровь <stage>(он поднимает голову)</stage>, на мою
+            кровь, которая заносит на меня руку.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Правильно ли мы слышали, я и брат мой Лёвка?</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Ой, не возьмёте!.. <stage>(Он кидается на Лёвку, валит его с ног, бьёт по
+              лицу.)</stage></p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Ой, возьмём.</p>
+        </sp>
+        <stage>Небо залито кровью заката. Старик и Лёвка откатываются за сарай.</stage>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(прислонился к стене).</stage>
+          <p>Ох, грех...</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Лёвка, отца?!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(отчаянным голосом).</stage>
+          <p>Никишка, счастьем тебе клянусь, он коней, дом, жизнь — всё девке под ноги бросил!</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Ох, грех...</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Убью, кто разнимет! Чур, не разнимать.</p>
+          <stage>Хрипение и стоны доносятся из-за сарая.</stage>
+          <p>Не уродился ещё на земле человек против Менделя.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Иди со двора, Иван.</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Я ста рублями отвечу...</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Иди со двора, Иван.</p>
+        </sp>
+        <stage>Старик и Лёвка вываливаются из-за сарая. Они вскакивают на ноги, но Мендель снова
+          сшибает сына.</stage>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Лёвка, отца?!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Не возьмёшь! <stage>(Он топчет сына.)</stage></p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Ста рублями любому отвечу...</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Не возьмёшь!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Ой, возьмём! <stage>(Он с силой опускает рукоятку револьвера на голову
+            отца.).</stage></p>
+        </sp>
+        <stage>Молчание. Всё ниже опускаются пылающие леса заката.</stage>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Теперь убили.</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель</speaker>
+          <stage>(склонился над неподвижным Менделем).</stage>
+          <p>Миш?..</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(приподнимается, хватаясь за землю кулаками. Он плачет и топает ногой).</stage>
+          <p>Он под низ живота меня бил, сука!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Миш!..</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(оборачивается к толпе зевак).</stage>
+          <p>Что вы здесь забыли?</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>А я говорю — ещё не вечер. Ещё тыща вёрст до вечера.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(на коленях перед поверженным стариком).</stage>
+          <p>Ай, русский человек, зачем шуметь, что ещё не вечер, когда ты видишь, что перед нами
+            уже нет человека?</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(кривые ручьи слёз и крови текут по его лицу).</stage>
+          <p>Он под низ живота меня бил, сука!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель</speaker>
+          <stage>(отходит, пошатываясь).</stage>
+          <p>Двое — на одного.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Иди со двора, Иван.</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Двое — на одного... Стыд, стыд на всю Молдаву! <stage>(Уходит, спотыкаясь.)</stage></p>
+        </sp>
+        <stage>Арье-Лейб вытирает мокрым платком раздробленную голову Менделя. В глубине двора
+          неверными кругами движется Нехама. Она становится на колени рядом с Арье-Лейбом.</stage>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Не молчи, Мендель.</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(густым голосом).</stage>
+          <p>Довольно строить штуки, старый шутник!</p>
+        </sp>
+        <sp who="#nekhama">
+          <speaker>Нехама.</speaker>
+          <p>Кричи что-нибудь, Мендель!</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Вставай, старый ломовик, прополощи глотку, пропусти шкалик...</p>
+        </sp>
+        <stage>На земле, расставив босые ноги, сидит Лёвка. Он не торопясь выплёвывает изо рта
+          длинные ленты крови.</stage>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(загнал зевак в тупик, прижал к стене обезумевшего от страха парня лет двадцати и
+            взял его за грудь).</stage>
+          <p>Ну-ка, назад!</p>
+        </sp>
+        <stage>Молчание. Вечер. Синяя тьма, но под тьмою небо ещё багрово, раскалено, изрыто
+          огненными ямами.</stage>
+      </div>
+      <div type="scene">
+        <head>Седьмая сцена</head>
+        <stage>Каретник Криков — сваленные в кучу хомуты, распряженные дрожки, сбруя. Видна часть
+          двора.</stage>
+        <stage>В дверях за небольшим столом пишет Беня. На него наскакивает лысый нескладный мужик
+          Семён, тут же шныряет мадам Попятник. Во дворе на телеге с торчащим дышлом сидит, свесив
+          ноги, Майор. К стенке приставлена новая вывеска. На ней золотыми буквами:
+          «Извозопромышленное заведение Мендель Крик и сыновья». Вывеска украшена гирляндами подков
+          и скрещенными кнутами.</stage>
+        <sp who="#semyon">
+          <speaker>Семён.</speaker>
+          <p>Я ничего не знаю... Мне штоб деньги были...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(продолжает писать).</stage>
+          <p>Грубо говоришь, Семён.</p>
+        </sp>
+        <sp who="#semyon">
+          <speaker>Семён.</speaker>
+          <p>Мне штоб деньги были... Я глотку вырву!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Добрый человек, я на тебя плевать хочу!</p>
+        </sp>
+        <sp who="#semyon">
+          <speaker>Семён.</speaker>
+          <p>Ты куда старика дел?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Старик больной.</p>
+        </sp>
+        <sp who="#semyon">
+          <speaker>Семён.</speaker>
+          <p>Вон тута на стенке он писал, сколько за овёс следует, сколько за сено — всё чисто. И
+            платил. Двадцать годов ему возил, худого не видел.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(встаёт).</stage>
+          <p>Ты ему возил, а мне не будешь, он на стенке писал, а я не буду писать, он платил тебе,
+            а я, может, и не заплачу, потому что...</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник</speaker>
+          <stage>(с величайшим неодобрением разглядывает мужика).</stage>
+          <p>Человек, когда он дурак — это очень паскудно.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>...потому что ты можешь у меня помереть, не поужинав, добрый человек.</p>
+        </sp>
+        <sp who="#semyon">
+          <speaker>Семён</speaker>
+          <stage>(струсил, но ещё петушится).</stage>
+          <p>Мне штоб деньги были!</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Я не философка, мосье Крик, но я вижу, что на свете живут люди, которые совсем не
+            должны жить на свете.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Никифор!</p>
+        </sp>
+        <stage>Входит Никифор, он смотрит исподлобья, говорит нехотя.</stage>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Я Никифор.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Рассчитаешь Семёна и возьмёшь у Грошева.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Там поденные пришли, спрашивают, кто с ними уговариваться будет.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Я буду уговариваться.</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Стряпка там шурует. У ней самовар хозяин в заклад брал. У кого, спрашивает, самовар
+            выкупать?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>У меня выкупать... Семёна рассчитаешь вчистую. Возьмёшь у Грошева сена пятьсот
+            пудов...</p>
+        </sp>
+        <sp who="#semyon">
+          <speaker>Семён</speaker>
+          <stage>(остолбенел).</stage>
+          <p>Пятьсот?! Двадцать годов возил...</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>За свои деньги можно достать и сено, и овёс, и вещи получше сена.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Овса — двести.</p>
+        </sp>
+        <sp who="#semyon">
+          <speaker>Семён.</speaker>
+          <p>Я возить не отказываюсь.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Потеряй мой адрес, Семён.</p>
+        </sp>
+        <stage>Семён мнёт шапку, вертит шеей, уходит, оборачивается, опять уходит.</stage>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Один паскудный мужик и так разволновал вас... Боже мой, если бы люди захотели
+            вспомнить, кто им остался должен! Ещё сегодня я говорю моему Майору: муж, миленький муж,
+            Мендель Крик заслужил у вас эти несчастные два рубля...</p>
+        </sp>
+        <sp who="#mayor">
+          <speaker>Майор</speaker>
+          <stage>(мелодическим глухим голосом).</stage>
+          <p>Рубль девяносто пять.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Какие два рубля?</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Не о чем говорить, ей-богу, не о чем говорить!.. В прошлый четверг у мосье Крика было
+            дивное настроение, он заказал военное... Сколько раз военное, Майор?</p>
+        </sp>
+        <sp who="#mayor">
+          <speaker>Майор.</speaker>
+          <p>Военное — девять раз.</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>И потом танцы...</p>
+        </sp>
+        <sp who="#mayor">
+          <speaker>Майор.</speaker>
+          <p>Двадцать один танец.</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Вышло рубль девяносто пять. Боже мой, заплатить музыканту — это было у мосье Крика на
+            первом плане...</p>
+        </sp>
+        <stage>Шлёпая сапогами, входит Никифор. Он смотрит в сторону.</stage>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Потаповна пришла.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Зачем мне знать, что кто-то пришёл?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Грозится.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Зачем мне знать...</p>
+        </sp>
+        <stage>Припадая на ногу, вламывается Потаповна. Старуха пьяна. Она устремляет на Беню мутные
+          немигающие глаза.</stage>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Цари наши...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>В чём суть, мадам Холоденко?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Цари наши...</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Пошла дурить!</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Д-ж-ж, жидовские шарики жужжат... Прыгают в голове шарики — д-ж-ж-ж...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>В чём суть, мадам Холоденко?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(бьёт по земле кулаком).</stage>
+          <p>Правильно, правильно! Нехай умный панует, а свинья в монопольку...</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Интеллигентная дама!</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(разбрасывает по земле медяки).</stage>
+          <p>Вот сорок копеек заработала... Встала, света не было, мужиков на Балтской дороге
+            поджидала... <stage>(Задирает голову к небу.)</stage> Теперь сколько часов будет? Три
+            будет?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>В чём суть, мадам Холоденко?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Д-ж-ж-ж, пустил шарики...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Никифор!</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Ну?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(подманивает Никифора толстым слабым пьяным пальцем).</stage>
+          <p>Девочка-то наша занеслась, Никита!</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник</speaker>
+          <stage>(присела и зажглась).</stage>
+          <p>Интрига, ай, какая интрига!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Что вы потеряли здесь, мадам Попятник, и что вы хотите здесь найти?</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник</speaker>
+          <stage>(приседает, глазки её ворочаются, стреляют, сыплют искры).</stage>
+          <p>Я иду... я иду... Дай бог свидеться в счастье, в удовольствии, в добрый час, в
+            счастливую минуту!.. <stage>(Она дёргает мужа за руки, пятится, вертится, глаза у неё
+              стали косые и светят вбок чёрным огнём.)</stage></p>
+        </sp>
+        <stage>Майор тащится за женой и шевелит пальцами. Наконец они исчезают.</stage>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(размазывает слёзы по мятому дряблому лицу).</stage>
+          <p>Ночью я к ней подобралась, грудь тронула, а у ней уже налилось, в руке не
+            помещается.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(лоск с него слетел. Он говорит быстро, оглядывается).</stage>
+          <p>Какой месяц?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(не мигая смотрит она на Беню с земли).</stage>
+          <p>Четвёртый.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Врёшь!</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Ну, третий.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Чего тебе от нас надо?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Д-ж-ж, пустил шарики...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Чего тебе надо?</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(подвязывает платок).</stage>
+          <p>Вычистка сто рублей стоит.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Двадцать пять!</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Портовых наведу.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Портовых наведёшь?.. Никифор!</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Я — Никифор.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Взойди к папаше и спроси его, приказывает он давать двадцать пять...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна.</speaker>
+          <p>Сто!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>...двадцать пять рублей на вычистку или не приказывает?</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Не взойду я.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Не взойдёшь?! <stage>(Он бросается к ситцевой занавеске, разделяющей каретник на две
+              половины.)</stage></p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(хватает Беню за руки).</stage>
+          <p>Парень, я бога не боюсь... Я бога видел и не испугался... Я убью и не испугаюсь...</p>
+        </sp>
+        <stage>Занавеска трепещет и раздвигается. Выходит Мендель. За спину у него закинуты сапоги.
+          Лицо его сине и одутловато, как лицо мертвеца.</stage>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Отоприте.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(лезет по полу).</stage>
+          <p>Ай, страшно!</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор.</speaker>
+          <p>Хозяин!</p>
+        </sp>
+        <stage>К каретнику приближаются Арье-Лейб и Лёвка.</stage>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Отоприте.</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(лезет по полу).</stage>
+          <p>Ай, страшно!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Взойдите в помещение к вашей супруге, папаша.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Ты отопрёшь мне ворота, Никифор, сердце моё...</p>
+        </sp>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(падает на колени).</stage>
+          <p>Великодушно прошу вас, хозяин, не страмитесь передо мной, простым человеком!</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Почему ты не хочешь отпереть ворота, Никифор? Почему ты не хочешь выпустить меня из
+            двора, в котором я отбыл мою жизнь? <stage>(Голос старика усиливается, свет разгорается
+              на дне его глаз.)</stage> Он видел меня, этот двор, отцом моих детей, мужем моей жены,
+            хозяином над моими конями. Он видел силу мою, и двадцать моих жеребцов, и двенадцать
+            площадок, окованных железом. Он видел ноги мои, большие, как столбы, и руки мои, злые
+            руки мои... А теперь отоприте мне, дорогие сыны, пусть будет сегодня так, как я хочу.
+            Пусть я уйду из этого двора, который видел слишком много...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Взойдите в помещение к вашей супруге, папаша! <stage>(Он приближается к
+            отцу.)</stage></p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель.</speaker>
+          <p>Не бей меня, Бенчик.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Не бей его.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Низкие люди!.. <stage>(Пауза.)</stage> Как могли вы... <stage>(Пауза.)</stage> Как
+            могли вы сказать то, что вы только что сказали?</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Отчего вы не видите, люди, что вам надо уйти отсюда?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Звери, о звери!.. <stage>(Он быстро уходит. Лёвка за ним.)</stage></p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(ведёт Менделя к лежанке).</stage>
+          <p>Мы отдохнём, Мендель, мы заснём...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(поднялась с земли и заплакала).</stage>
+          <p>Убили сокола!..</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(укладывает Менделя на лежанке за занавеской).</stage>
+          <p>Мы заснём, Мендель...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(валится на землю рядом с лежанкой, она целует свисающую безжизненную руку
+            старика).</stage>
+          <p>Сыночек мой, любочка моя!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(перекрывает лицо Менделя платком, садится и начинает тихо, издалека).</stage>
+          <p>В старинные времена жил человек Давид. Он был пастухом и потом был царь, царь над
+            Израилем, над войсками Израиля и над мудрецами его...</p>
+        </sp>
+        <sp who="#potapovna">
+          <speaker>Потаповна</speaker>
+          <stage>(всхлипывает).</stage>
+          <p>Сыночек мой!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Богатство испытал Давид и славу, но не узнал сытости. Сила жаждет, и только печаль
+            утоляет сердце. Состарившись, увидел Давид-царь на крышах Иерусалима, под небом
+            Иерусалима Вирсавию, жену Урии-военачальника. Грудь Вирсавии была красива, ноги её были
+            красивы, веселье её было велико. И был послан Урия-военачальник в битву, и царь
+            соединился с Вирсавией, с женой мужа, ещё не умерщвлённого. Грудь её была красива,
+            веселье её было велико...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Восьмая сцена</head>
+        <stage>Столовая в доме Криков. Вечер. Комната ярко освещена доморощенной висячей лампой,
+          свечами, вставленными в канделябры, и старинными голубыми лампами, ввинченными в стену. У
+          стола, убранного цветами, заставленного закусками и вином, суетится мадам Попятник,
+          облачившаяся в шёлковое платье. В глубине столовой безмолвно сидит Майор. На нём вздулась
+          бумажная манишка, флейта покоится на его коленях, он шевелит пальцами и двигает головой.
+          Много гостей. Одни расхаживают по анфиладе раскрытых комнат, другие сидят у стены. В
+          столовую входит беременная Клаша Зубарева. На ней платок, расписанный гигантскими цветами.
+          За Клашей вваливается пьяный Лёвка, наряженный в парадную гусарскую форму.</stage>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(орёт кавалерийские сигналы).</stage>
+          <lg>
+            <l>Всадники, други, вперёд!</l>
+            <l>Рысью вперёд!</l>
+            <l>По временам коням</l>
+            <l>Освежайте рот.</l>
+          </lg>
+        </sp>
+        <sp who="#klasha">
+          <speaker>Клаша</speaker>
+          <stage>(хохочет).</stage>
+          <p>Ой, живот! Ой, выкину!..</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Левый шинкель приложи и направо поверни!</p>
+        </sp>
+        <sp who="#klasha">
+          <speaker>Клаша.</speaker>
+          <p>Ой, уморил!..</p>
+        </sp>
+        <stage>Проходят. Навстречу им Боярский в сюртуке и Двойра.</stage>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Мамзель Крик, на чёрное я не скажу, что оно белое, и на белое не позволю себе сказать,
+            что оно чёрное. С тремя тысячами мы ставим конфексион на Дерибасовской и венчаемся в
+            добрый час.</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>Но почему сразу все три тысячи?</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Потому что мы имеем сегодня июль на дворе, а июль — это же не сентябрь. Демисезонный
+            товар работает у меня июль, а сентябрь у меня саки... Что вы имеете после сентября?
+            Ничего. Сентяб, октяб, нояб, декаб... На ночь я не скажу, что это день, и на день не
+            позволю себе сказать, что это ночь...</p>
+        </sp>
+        <stage>Проходят. Появляются Беня и Бобринец.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>У вас готово, мадам Попятник?</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Николаю Второму не стыдно сесть за такой стол!</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Вырази мне твою мысль, Беня.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Моя мысль: еврей не первой молодости, еврей, отходивший всю свою жизнь голый, и босой,
+            и замазанный, как ссыльнопоселенец с острова Сахалина... И теперь, когда он, благодаря
+            бога, вошёл в свои пожилые годы, надо сделать конец этой бессрочной каторге, надо
+            сделать, чтобы суббота была субботой...</p>
+        </sp>
+        <stage>Проходят Боярский и Двойра.</stage>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Сентяб, октяб, нояб, декаб...</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>И потом, я хочу, чтобы вы меня немножко любили, Боярский.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>А что с вами делать, если не любить вас? На котлеты вас рубить? Смешно, ей-богу!..</p>
+        </sp>
+        <stage>Проходят. У стены, под голубой лампой, сидит степенный прасол и парень в тройке, с
+          толстыми ногами. Парень осторожно грызёт подсолнухи и прячет шелуху в карман.</stage>
+        <sp who="#paren_s_tolstymi_nogami">
+          <speaker>Парень с толстыми ногами.</speaker>
+          <p>Р-раз ему в морду, два ему в морду, старик с катушек и слетел.</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Татары — и те стариков почитают. Жизнь пройти — не поле перейти.</p>
+        </sp>
+        <sp who="#paren_s_tolstymi_nogami">
+          <speaker>Парень с толстыми ногами.</speaker>
+          <p>Кабы человек ловчился жить, а то... <stage>(сплёвывает шелуху)</stage>, а то живёт, как
+            поживётся. За что почитать-то?</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Что с дураком толковать-то?</p>
+        </sp>
+        <sp who="#paren_s_tolstymi_nogami">
+          <speaker>Парень с толстыми ногами.</speaker>
+          <p>Бенчик сена одного тыщу пудов купил.</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Старик по сто покупал — хватало.</p>
+        </sp>
+        <sp who="#paren_s_tolstymi_nogami">
+          <speaker>Парень с толстыми ногами.</speaker>
+          <p>Старика они всё равно зарежут.</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Это жиды-то? Это отца-то?</p>
+        </sp>
+        <sp who="#paren_s_tolstymi_nogami">
+          <speaker>Парень с толстыми ногами.</speaker>
+          <p>Зарежут до смерти.</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Толкуй с дураком...</p>
+        </sp>
+        <stage>Проходят Беня и Бобринец.</stage>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Что же ты хочешь, Беня?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Я хочу, чтобы суббота была субботой. Я хочу, чтобы мы были люди не хуже других людей. Я
+            хочу ходить вниз ногами и вверх головой... Ты понял меня, Бобринец?</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Я понял тебя, Бенчик.</p>
+        </sp>
+        <stage>У стены рядом с Пятирубелем сидят надувшиеся от величия богачи муж и жена
+          Вайнеры.</stage>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель</speaker>
+          <stage>(тщетно ищет у них сочувствия).</stage>
+          <p>Городовикам ремни обрезал, на главной почте швейцара бил. По четверти выпивал, не
+            закусывая, всю Одессу в руках держал... Вот какой старик был!</p>
+          <stage>Вайнер долго ворочает тяжёлым слюнявым языком, но разобрать, что он говорит,
+            невозможно.</stage>
+          <stage>(Робко.)</stage>
+          <p>Они гундосые?</p>
+        </sp>
+        <sp who="#madam_vayner">
+          <speaker>Мадам Вайнер</speaker>
+          <stage>(злобно).</stage>
+          <p>Ну да!</p>
+        </sp>
+        <stage>Проходят Двойра и Боярский.</stage>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Сентяб, октяб, нояб, декаб...</p>
+        </sp>
+        <sp who="#dvoyra">
+          <speaker>Двойра.</speaker>
+          <p>И потом, я хочу ребёнка, Боярский.</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Вот видите, ребёнок при конфексионе — это красиво, это имеет вид. А ребёнок без дела —
+            какой это может иметь вид?</p>
+        </sp>
+        <stage>В величайшем возбуждении влетает мадам Попятник.</stage>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Бен Зхарья приехал! Раввин... Бен Зхарья...</p>
+        </sp>
+        <stage>Комната наполняется гостями. Среди них Двойра, Лёвка, Беня, Клаша Зубарева, Сенька
+          Топун, напомаженные кучера, переваливающиеся лавочники, пересмеивающиеся бабы.</stage>
+        <sp who="#paren_s_tolstymi_nogami">
+          <speaker>Парень с толстыми ногами.</speaker>
+          <p>На деньги и раввин прибежал. Тут как тут.</p>
+        </sp>
+        <stage>Арье-Лейб и Бобринец вкатывают большое кресло. Оно прячет в развороченных своих
+          недрах крохотное тельце Бен Зхарьи.</stage>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья</speaker>
+          <stage>(визгливо).</stage>
+          <p>Ещё только рассвет чихает, ещё бог на небе красной водой умывается...</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(хохочет, предвкушая замысловатый ответ).</stage>
+          <p>Почему красной, рабби?</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>...ещё я на спине лежу, как таракан...</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Почему на спине, рабби?</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>По утрам бог переворачивает меня на спину, чтобы я не мог молиться. Богу надоели мои
+            молитвы...</p>
+          <stage>Бобринец шумно хохочет.</stage>
+          <p>Ещё курицы не вставали, а меня будит Арье-Лейб: бегите к Крикам, рабби, у них ужин, у
+            них обед. Крики дадут вам пить, они дадут вам есть...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Они дадут вам пить, они дадут вам есть, всё, что вы захотите, рабби.</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>Всё, что я захочу?.. И лошадей своих отдашь?</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>И лошадей моих отдам.</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>Сбегайте тогда, евреи, в погребальное братство, запрягите его лошадей в колесницу и
+            отвезите меня... куда?</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Куда, рабби?</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>На второе еврейское кладбище, дуралей!</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(шумно хохочет, срывает с раввина ермолку и целует его облезшую, розовую
+            макушку).</stage>
+          <p>Ай, хулиган!.. Ай, умница!..</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(представляет Беню).</stage>
+          <p>Это он и есть, рабби, сын Менделя — Бенцион.</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья</speaker>
+          <stage>(жуёт губами).</stage>
+          <p>Бенцион... сын Сиона... <stage>(Молчит.)</stage> Соловья не кормят баснями, сын Сиона,
+            а женщин мудростью...</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(оглушительным голосом).</stage>
+          <p>Кидайтесь на стулья, урканы, жмите скамейки!</p>
+        </sp>
+        <sp who="#klasha">
+          <speaker>Клаша</speaker>
+          <stage>(качает головой, улыбается).</stage>
+          <p>Ох, здоровый!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(мечет на брата негодующий взгляд).</stage>
+          <p>Дорогие, присаживайтесь! Мосье Бобринец сядет рядом с рабби.</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья</speaker>
+          <stage>(ёрзает в кресле).</stage>
+          <p>Зачем я сяду с этим евреем, длинным, как наше изгнание? Пусть государственный банк
+              <stage>(тычет пальцем в Клашу)</stage> сядет рядом со мной.</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(предвкушая новую остроту).</stage>
+          <p>Почему государственный банк?</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>Она лучше банка. В неё хорошо положишь — она такой процент даст, что пшенице завидно.
+            Плохое в неё положишь — она всеми кишками заскрипит, чтобы выменять поломанную твою
+            копейку на новый золотой... Она лучше банка, она лучше банка...</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(поднял кверху палец).</stage>
+          <p>Надо понимать, что он говорит.</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>А где же звезда наша во Израиле, где хозяин дома сего, где рабби Мендель Крик?</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Он сегодня больной.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Рабби, он здоров... Никифор!</p>
+        </sp>
+        <stage>В дверях показывается Никифор в затрёпанном своём армяке. Молчание.</stage>
+        <sp who="#nikifor">
+          <speaker>Никифор</speaker>
+          <stage>(отчаянным голосом).</stage>
+          <p>Уважающие гости!..</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(медленно).</stage>
+          <p>Пусть взойдёт папаша.</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Бенчик, у нас, евреев, отца не срамят перед людьми.</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Рабби, человек так не мучает кабанчика, как он мучает папашу.</p>
+        </sp>
+        <stage>Вайнер возмущённо лопочет, брызгая слюной.</stage>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(склоняется к мадам Вайнер).</stage>
+          <p>Что он говорит?</p>
+        </sp>
+        <sp who="#madam_vayner">
+          <speaker>Мадам Вайнер.</speaker>
+          <p>Он говорит — стыд и срам!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Евреи так не делают, Беня!</p>
+        </sp>
+        <sp who="#klasha">
+          <speaker>Клаша.</speaker>
+          <p>Расти сынов...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Арье-Лейб, старый человек, старый сват, служитель в синагоге биндюжников и
+            кладбищенский кантор, не расскажешь ли ты мне, как делаются дела у людей?.. <stage>(Он
+              стучит кулаком по столу и говорит с расстановкой).</stage> Пусть взойдёт папаша.</p>
+        </sp>
+        <stage>Никифор исчез. Склонив голову, расставив ноги, стоит Беня посреди комнаты. Медленная
+          кровь заливает его лицо. Молчанье. И только бессмысленное бормотанье Бен Зхарьи нарушает
+          томительную тишину.</stage>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>Бог умывается на небе красной водой. <stage>(Молчит, ёрзает в кресле.)</stage> Почему
+            красной, почему не белой? Потому что красная веселее белой...</p>
+        </sp>
+        <stage>Половинки боковой двери скрипят, стонут и расходятся. Все лица оборачиваются в ту
+          сторону. Показывается Мендель с иссечённым запудренным лицом. Он в новом костюме. С ним
+          Нехама в наколке, в тяжёлом бархатном платье.</stage>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Друзья, сидящие в моём доме! Этот бокальчик позвольте мне поднять за моего отца, за
+            труженика Менделя Крика, и его супругу, Нехаму Борисовну, которые тридцать пять лет идут
+            по совместной дороге жизни. Дорогие! Мы знаем, слишком хорошо мы знаем, что никто не
+            выложил цементом эту дорогу, никто не поставил скамеек на длинном этом пути, и оттого,
+            что великие кучи людей пробежали по этой дороге, она не стала легче, она стала тяжелее.
+            Друзья, сидящие в моём доме! Я жду от вас, что вы не разбавите водой вино в ваших
+            стаканах и вино в ваших сердцах...</p>
+          <stage>Вайнер восторженно лопочет.</stage>
+          <p>Что он говорит?</p>
+        </sp>
+        <sp who="#madam_vayner">
+          <speaker>Мадам Вайнер.</speaker>
+          <p>Он говорит — ура!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(ни на кого не глядя).</stage>
+          <p>Учи меня, Арье-Лейб!.. <stage>(Подносит отцу и матери вино.)</stage> Наши гости
+            почитают нас, папаша. Скажите слово нашим гостям.</p>
+        </sp>
+        <sp who="#mendel">
+          <speaker>Мендель</speaker>
+          <stage>(озирается и говорит тихо).</stage>
+          <p>Желаю доброго здоровья...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Папаша хочет сказать, что он жертвует сто рублей в чью-нибудь пользу.</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Толкуют мне про жидов...</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Пятьсот рублей жертвует папаша. В чью пользу, рабби?</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>В чью пользу? Молоко в девушке не должно киснуть, евреи... В пользу невест-бесприданниц
+            надо пожертвовать!</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец</speaker>
+          <stage>(заливается хохотом).</stage>
+          <p>Ай, хулиган!.. Ай, умница!..</p>
+        </sp>
+        <sp who="#madam_popyatnik">
+          <speaker>Мадам Попятник.</speaker>
+          <p>Я даю туш.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Давайте!</p>
+        </sp>
+        <stage>Заунывный туш оглашает комнату. Вереница гостей с бокалами тянется к Менделю и
+          Нехаме.</stage>
+        <sp who="#klasha">
+          <speaker>Клаша Зубарева.</speaker>
+          <p>Ваше здоровье, дедушка!</p>
+        </sp>
+        <sp who="#senka">
+          <speaker>Сенька Топун.</speaker>
+          <p>Вагон удовольствий, папаша, сто тысяч на мелкие расходы!</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня</speaker>
+          <stage>(ни на кого не глядя).</stage>
+          <p>Учи меня, Арье-Лейб!</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Мендель, дай бог мне иметь такого сына, как твой сын!</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка</speaker>
+          <stage>(через весь стол).</stage>
+          <p>Папаша, не серчайте! Папаша, вы своё отгуляли...</p>
+        </sp>
+        <sp who="#prasol">
+          <speaker>Прасол.</speaker>
+          <p>Толкуют мне про жидов! Я жидов получше вашего знаю...</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель</speaker>
+          <stage>(лезет к Бене и порывается целовать его).</stage>
+          <p>Ты нас купишь, чёрт, и продашь, и в узел завяжешь!</p>
+        </sp>
+        <stage>Громкое рыдание раздается за спиной Бени. Слёзы текут по лицу Арье-Лейба.</stage>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб.</speaker>
+          <p>Пятьдесят лет, Бенчик! Пятьдесят лет вместе с твоим отцом... У тебя был хороший отец,
+            Бёня!</p>
+        </sp>
+        <sp who="#vayner">
+          <speaker>Вайнер</speaker>
+          <stage>(обрёл дар речи).</stage>
+          <p>Выведите его!</p>
+        </sp>
+        <sp who="#madam_vayner">
+          <speaker>Мадам Вайнер.</speaker>
+          <p>Боже, какие штуки!</p>
+        </sp>
+        <sp who="#boyarskiy">
+          <speaker>Боярский.</speaker>
+          <p>Арье-Лейб, вы ошиблись. Теперь надо смеяться.</p>
+        </sp>
+        <sp who="#vayner">
+          <speaker>Вайнер.</speaker>
+          <p>Выведите его!</p>
+        </sp>
+        <sp who="#arie_leib">
+          <speaker>Арье-Лейб</speaker>
+          <stage>(всхлипывает).</stage>
+          <p>У тебя был хороший отец, Беня...</p>
+        </sp>
+        <stage>Мендель бледнеет под своей пудрой. Он протягивает Арье-Лейбу новый платок. Тот
+          вытирает слёзы. Плачет и смеётся.</stage>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Болван, вы не у себя на кладбище!</p>
+        </sp>
+        <sp who="#pyatirubel">
+          <speaker>Пятирубель.</speaker>
+          <p>Свет наскрозь пройдёте, такого Бенчика не сыщите. Я об заклад буду биться.</p>
+        </sp>
+        <sp who="#benya">
+          <speaker>Беня.</speaker>
+          <p>Дорогие, присаживайтесь!</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Жмите скамейки...</p>
+        </sp>
+        <stage>Гром сдвигаемых стульев. Менделя усаживают рядом с рабби и Клашей Зубаревой.</stage>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>Евреи!</p>
+        </sp>
+        <sp who="#bobrinets">
+          <speaker>Бобринец.</speaker>
+          <p>Тихо чтоб было!</p>
+        </sp>
+        <sp who="#zharia">
+          <speaker>Бен Зхарья.</speaker>
+          <p>Старый дуралей Бен Зхарья хочет сказать слово...</p>
+          <stage>Лёвка фыркает, падает грудью на стол, но Беня встряхивает его, и он
+            замолкает.</stage>
+          <p>День есть день, евреи, и вечер есть вечер. День затопляет нас потом трудов наших, но
+            вечер держит наготове веера свежей божественной прохлады. Иисус Навин, остановивший
+            солнце, был злой безумец. И вот Мендель Крик, прихожанин нашей синагоги, оказался не
+            умнее Иисуса Навина. Всю жизнь хотел он жариться на солнцепёке, всю жизнь хотел он
+            стоять на том месте, где его застал полдень. Но бог имеет городовых на каждой улице, и
+            Мендель Крик имел сынов в своём доме. Городовые приходят и делают порядок. День есть
+            день, и вечер есть вечер. Всё в порядке, евреи. Выпьем рюмку водки!</p>
+        </sp>
+        <sp who="#lyovka">
+          <speaker>Лёвка.</speaker>
+          <p>Выпьем рюмку водки!..</p>
+        </sp>
+        <stage>Дребезжанье флейты, звон бокалов, бессвязные крики, громовой хохот.</stage>
+        <stage>Занавес</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
