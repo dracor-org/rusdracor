@@ -4,8 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="ru">Моцарт и Сальери</title>
-        <title xml:lang="en">Mozart and Salieri</title>
+        <title type="main" xml:lang="ru">Моцарт и Сальери</title>
+        <title type="main" xml:lang="en">Mozart and Salieri</title>
         <title type="sub" xml:lang="ru">–</title>
         <title type="sub" xml:lang="en">–</title>
         <author key="Wikidata:Q7200">Пушкин, Александр Сергеевич</author>
