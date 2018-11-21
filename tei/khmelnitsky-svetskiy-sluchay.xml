@@ -1,0 +1,2254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Светский случай</title>
+        <title type="main" xml:lang="en">Social Occasion</title>
+        <title type="sub" xml:lang="ru">Комедия в одном действии, в стихах</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act, in Verse</title>
+        <author key="Wikidata:Q5608019">Хмельницкий, Николай Иванович</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/khmelnitsky-svetskiy-sluchay</idno>
+        <idno type="RusDraCor">123</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q59001140</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/h/hmelxnickij_n_i/text_0050.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Стихотворная комедия конца XVIII - начала XI в. Вступительная статья, подготовка
+              текста и примечания М. О. Янковского Серия "Библиотека поэта". Большая серия. Второе
+              издание. М.-Л., "Советский писатель", 1964</title>
+            <date type="print" when="1829">"Впервые - 'Букет'. СПб., 1829." (lib.ru)</date>
+            <date type="written"/>
+            <date type="premiere" when="1826">"Представлено впервые в Петербурге 2 ноября 1826 г."
+              (lib.ru)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="evgeniya" sex="FEMALE">
+            <persName>Евгения</persName>
+          </person>
+          <person xml:id="dasha" sex="FEMALE">
+            <persName>Даша</persName>
+          </person>
+          <person xml:id="radugin" sex="MALE">
+            <persName>Радугин</persName>
+          </person>
+          <person xml:id="stolicyn" sex="MALE">
+            <persName>Столицын</persName>
+          </person>
+          <person xml:id="ramirskij" sex="MALE">
+            <persName>Рамирский</persName>
+          </person>
+          <person xml:id="evgenij" sex="MALE">
+            <persName>Евгений</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle" subtype="comedy">Комедия в одном действии, в стихах</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-21">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Светский случай</titlePart>
+        <titlePart type="sub">Комедия в одном действии, в стихах</titlePart>
+      </docTitle>
+      <castList>
+        <head>ДЕЙСТВУЮЩИЕ</head>
+        <castItem>Князь Радугин.</castItem>
+        <castItem>Рамирский.</castItem>
+        <castItem>Евгения, его дочь.</castItem>
+        <castItem>Даша, служанка.</castItem>
+        <castItem>Столицын.</castItem>
+      </castList>
+      <set>
+        <p>Действие в доме князя Радугина.</p>
+      </set>
+    </front>
+    <body>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 1</head>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(выходит одна, оглядываясь)</stage>
+          <l>Нет никого. Оно нехорошо немножко -</l>
+          <l>Однако ж так и быть, я посмотрю в окошко.</l>
+          <l>Здесь мимо по утрам всегда проходит он,</l>
+          <l>И, право, кажется, что он в меня влюблен.</l>
+          <l>Влюблен! Что ж за беда? Я даже очень рада;</l>
+          <l>Хоть на него б смотреть так часто и не надо,</l>
+          <l>Но нехотя его здесь дожидаюсь я.</l>
+          <l>И как он рад всегда, увидевши меня!</l>
+          <l>Посмотрим!.. так и есть, вот он сюда подходит,</l>
+          <l>Как пристально глядит и глаз с меня не сводит.</l>
+          <l>Ах, боже мой! Да он уж кланяется мне...</l>
+          <l>К чему? - Вот по другой пошел он стороне;</l>
+          <l>Опять поклон! - На что прикажете решиться?</l>
+          <l>Я думаю, что мне придется поклониться!</l>
+          <stage>(Продолжает смотреть в окошко и раскланивается.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 2</head>
+        <stage>Евгения и Даша.</stage>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(примеча поклоны)</stage>
+          <l part="I">А! а! Сударыня!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Ах, Даша! Да к чему</l>
+          <l part="I">Кричать?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Я не кричу, - однако ж вы кому</l>
+          <l part="I">Здесь кланялись?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Кто? я? Ах! верно, не нарочно!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(подбегая к окошку)</stage>
+          <l part="I">Постойте ж.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(удерживая Дашу)</stage>
+          <l part="M">Что за вздор!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(смотря в окошко)</stage>
+          <l part="F">Наш офицер! Так точно.</l>
+          <l>Так эдак-то? Когда уж есть у вас жених,</l>
+          <l>Вы здесь исподтишка прельщаете других?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ах, Даша! Право, нет.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Как нет? Да вы кому же</l>
+          <l part="I">Здесь кланялись?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Да он здесь всякий день.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Тем хуже.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Кто ж требовал? - Он сам...</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Надеюсь, что он сам;</l>
+          <l>Однако ж вспомните, что уж Столицын вам</l>
+          <l part="I">Почти жених.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Ах, нет!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Но батюшка дал слово:</l>
+          <l>Невеста налицо, приданое готово,</l>
+          <l>И дело, кажется, о свадьбе решено.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Но я не соглашусь.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Так надо бы давно</l>
+          <l part="I">Признаться батюшке.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Я, верно бы, сказала...</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="I">Да что ж?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(показывая на окошко)</stage>
+          <l part="F">Да я... его всё, видишь, поджидала.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Да эдак женихов и вечно не найдешь:</l>
+          <l>Сегодня нравится, а завтра нехорош.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Ах, Даша! Ты сама Столицына не любишь;</l>
+          <l>Насильно полюбить ведь сердца не принудишь,</l>
+          <l>А в нем не нравится мне, право, ничего,</l>
+          <l>И даже начала бояться я его.</l>
+          <l>Что я ни сделаю -уж критика готова:</l>
+          <l>Не скажет никогда приятного мне слова;</l>
+          <l>Он ловок лишь один, а неразвязна я;</l>
+          <l>Он умный человек, а я еще дитя.</l>
+          <l>Всё не по нем, на всё готово наставленье!</l>
+          <l>Что за уверенность - и что за обращенье!</l>
+          <l part="I">Несносно!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Но его я не люблю сама,</l>
+          <l part="I">Признаться.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(бросаясь целовать Дашу)</stage>
+          <l part="F">Неужли? я, право, без ума!</l>
+          <l part="I">Дай, дай расцеловать себя!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(вырываясь)</stage>
+          <l part="M">Но вы...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Ах, Даша!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Но полноте ж, меня задушит радость ваша.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Нельзя же иначе, когда мы заодно.</l>
+          <l>Я познакомилась с Рамирским уж давно</l>
+          <l>У тетушки. Она всегда его хвалила,</l>
+          <l>И, признаюсь, его я очень полюбила.</l>
+          <l>С тех пор, вот целый год, не знаю отчего -</l>
+          <l>Но чувствую, что я скучаю без него,</l>
+          <l>А между тем я всё, вот видишь, поджидала,</l>
+          <l>Что познакомится он с батюшкой сначала -</l>
+          <l>Понравится ему и станет ездить к нам,</l>
+          <l>Чтоб чаще видеться; узнать его, а там</l>
+          <l>Я батюшке сама решилась бы признаться,</l>
+          <l>Да то беда, что жду - и не могу дождаться.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Но прежде, кажется, чем планы сочинять,</l>
+          <l>Как примет это князь, вам надо бы узнать?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Уж разумеется, что это мы узнаем.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>А между тем его встречаем, провожаем.</l>
+          <l>А каково ж, когда придется разлюбить?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Я знаю батюшку, не может это быть.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Но мало этого, и я боюся, право,</l>
+          <l>Его сиятельство решительного нрава,</l>
+          <l>И как ни любит вас, но он и ваш жених</l>
+          <l>Вам воли не дадут приманивать других.</l>
+          <l>Столицын же к нему так вкрался нынче в душу,</l>
+          <l>Что я и рада бы, однако ж, право, трушу.</l>
+          <l part="I">Эй, берегитеся.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Постой, кто там шумит?</l>
+          <l part="I">Ах, это батюшка!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">И, кажется, сердит!</l>
+          <l part="I">Уж не узнал ли он?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Ах! Что ты, полно, Даша!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 3</head>
+        <stage>Те же и князь Радугин.</stage>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Ты здесь, мой друг! Ну как идет работа ваша,</l>
+          <l part="I">Обновки и шитье?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Всё хорошо-с.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Да ты</l>
+          <l part="I">Что так встревожена?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Я?.. так... от дурноты...</l>
+          <l part="I">Пока прошло...</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Княжна стояла у окошка...</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Что ж, это хорошо; да ветрено немножко.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(в сторону)</stage>
+          <l part="I">Признаться.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Я теперь ужасно рассержён!</l>
+          <l>Процесс, которым я могу быть разорен</l>
+          <l>И от которого и так чуть-чуть не плачу,</l>
+          <l>Пишу, кормлю судей, черт знает сколько трачу...</l>
+          <l>Теперь, как я узнал, перерешить хотят.</l>
+          <l>И кто б вообразил, что в этом виноват</l>
+          <l>Столицын наш! Об ком я больше всех радею, -</l>
+          <l>Злодей мне сочинил такую ахинею...</l>
+          <l>И я, поверивши, что он в больших связях,</l>
+          <l>Всё поручил ему - и в чистых дураках,</l>
+          <l>Сперва всё шло да шло; теперь всё на мель село,</l>
+          <l>Своей беспечностью испортил только дело:</l>
+          <l>Где надобно, чтоб он прошенья подавал,</l>
+          <l>А он их в сторону и улетит на бал;</l>
+          <l>Ему бы в суд, а он в театр или в концерте;</l>
+          <l>А между тем твердит: поверьте да поверьте,</l>
+          <l>Сегодня там-то был и сделал то и сё.</l>
+          <l>И вышло, черт возьми, что перепортил всё!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Зачем вы верили ему?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Ну, вот забавно!</l>
+          <l>Он прежде, кажется, был малый преисправный</l>
+          <l>И сам же вызвался, как будущий мой зять.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>А надобно сказать, он мастер обещать!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Но я благодарю за эти одолженья:</l>
+          <l>Чтоб, проиграв процесс, остаться без именья -</l>
+          <l>И просто по одной беспечности его...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Конечно, батюшка.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Ты что-то за него</l>
+          <l>Не слишком, кажется, изволишь заступаться?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Да что ж хорошего, обманывать?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Признаться,</l>
+          <l>Не вижу я, за что его и полюбить.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Но за глаза людей я не люблю бранить.</l>
+          <stage>(Смотря на часы)</stage>
+          <l>Однако мне пора;, как пролетает время!</l>
+          <l>Меня с ума свело подьяческое племя,</l>
+          <l>И надо самому скорее хлопотать.</l>
+          <l part="I">Когда приедет к нам Столицын...</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Отказать</l>
+          <l part="I">Прикажете?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Вот вздор! Не говоря ни слова,</l>
+          <l part="I">Просите подождать.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Но я не так здорова...</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Как жаль! А то бы с ним пошла у нас война!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Так очень хорошо, - и я не так больна.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="I">Ну, до свидания.</l>
+          <stage>(Уходит.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 4</head>
+        <stage>Евгения и Даша.</stage>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Теперь, уж воля ваша, -</l>
+          <l part="I">А вы должны скорей...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Как рада я! Ах, Даша!</l>
+          <l>Конечно, он теперь не женится на мне!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Бог знает: я молчу, чтоб не грустить вдвойне.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Вот хорошо! Они, ты слышишь, побранятся,</l>
+          <l part="I">И свадьбе не бывать.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">А если помирятся?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Ах, боже мой! Да нет, не может это быть,</l>
+          <l>И что тебе за страсть нарочно их мирить?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Напротив, ссоре их сама я очень рада;</l>
+          <l>Но больше уж никак секретничать не надо,</l>
+          <l>И лучше батюшке признаться поскорей.</l>
+          <l>Стучатся! Посмотрю. Вот побежал лакей...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Кто ж там?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Ну, точно так! Ах, нет! А как похоже.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Да кто ж?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="M">Столицын наш - и с ним...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">И с ним? Да кто же</l>
+          <l part="I">Скажи!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Представьте же, вот новость, например!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ах, Даша! говори.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Наш милый офицер!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Возможно ли? Он здесь! Ах, боже мой!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Уйдите.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Куда ж?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(выпроваживая Евгению)</stage>
+          <l part="F">Сюда, сюда, идите и молчите.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 5</head>
+        <stage>Столицын, Рамирский и Даша.</stage>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Рамирский! Чудеса! Ну, кто бы ожидал?</l>
+          <l>Вот новость! Человек два года пропадал,</l>
+          <l>И что ж? Когда лечу к возлюбленной невесте,</l>
+          <l>У самого крыльца с ним сталкиваюсь вместе!</l>
+          <l>Да дай еще обнять мне друга моего!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Да прежде расскажи, где мы и у кого?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Без церемонии, прошу здесь быть как дома,</l>
+          <l>Старик князь Радугин давнишний мой знакомый,</l>
+          <l>А ваш покорнейший - чуть-чуть его не зять.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Ты женишься?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ну да! Об чем тут толковать.</l>
+          <stage>(Увидя Дашу)</stage>
+          <l part="I">Что князь?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="M">Он выехал.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Так рано? Это чудо!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="I">Он скоро...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ну, прошу нам не мешать покуда.</l>
+          <l>Да кстати: что, моя прелестная княжна</l>
+          <l part="I">Сегодня весела?</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Напротив, страх скучна.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Поди.</l>
+        </sp>
+        <stage>Даша уходит.</stage>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="M">Ты женишься?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ну да, и очень скоро,</l>
+          <l part="I">На молодой княжне.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Однако ж на которой?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Да сколько у тебя их счетом в голове?</l>
+          <l part="I">Она одна.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="M">Одна!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ты думал, что их две?</l>
+          <l part="I">Злодей!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(в сторону)</stage>
+          <l part="M">Возможно ли!</l>
+          <stage>(Вслух)</stage>
+          <l part="F">И князь живет здесь точно?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Я стану ли тебя обманывать нарочно?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>И точно нет у ней ни братьев, ни сестер?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">По счастью, ни души.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">И, братец, что за вздор!</l>
+          <l part="I">Родство...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Родство! Оно беда, сударь, девицам;</l>
+          <l>При братцах много ли достанется сестрицам?</l>
+          <l part="I">А тут одна и всё.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Ты шутишь, - но княжна,</l>
+          <l part="I">Уж верно, хороша собою?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Да, она</l>
+          <l part="I">Здесь из хорошеньких.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="M">Блондинка?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Нет, брюнетка,</l>
+          <l>И удивительно, что, право, не кокетка.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(в сторону)</stage>
+          <l part="I">Но неужли она...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Невеста эта клад!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Ты счастлив и любим. Итак, я очень рад!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Я наперед в твоем уверен был участье;</l>
+          <l>Но, впрочем, не совсем завидно это счастье:</l>
+          <l>Наружность, говорят, обманывает сплошь;</l>
+          <l>Мой выбор, например, всем кажется хорош:</l>
+          <l>Княжна и молода, и хороша собою,</l>
+          <l>С какой-то, говорят, небесною душою!</l>
+          <l>А главное: у ней нет братьев, ни сестер.</l>
+          <l>Всё очень хорошо идет до этих пор;</l>
+          <l>Я славно бы умел распорядить делами,</l>
+          <l>Да вот несчастие, мой милый! Между нами,</l>
+          <l>Княжне не помогла учителей толпа,</l>
+          <l>Ее сиятельство сиятельно глупа!</l>
+          <l>Она холодностью всю прелесть убивает,</l>
+          <l>Жених ее горит - жестокая зевает!</l>
+          <l>Нет средства мне ничем одушевить ее!</l>
+          <l>Советую, бранюсь, она себе свое!</l>
+          <l>И ясно, кажется, как я тебе толкую,</l>
+          <l>Что я боготворю прелестную статую.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Но ты взыскателен уж слишком иногда:</l>
+          <l>Что девушка скромна - что ж это за беда?</l>
+          <l>Со мной случилося несчастье не такое,</l>
+          <l part="I">Но я молчу.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Молчать? Не замолчишь, пустое.</l>
+          <l>Взгляни... ну, так и есть: ты по уши влюблен.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Ах, мало этого! Представь, я принужден</l>
+          <l>Боготворить, страдать и не сказать ни слова.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Но тут того и жди, что выйдет за другого.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Представь, ты отгадал.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">И трудно отгадать!</l>
+          <l>Ты будешь всё молчать, она всё будет ждать.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Вот я же виноват.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">О, нет! Как это можно?</l>
+          <l>Она молчит и ты молчи - оно и должно!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Ты шутишь; но тебя остановлю я вдруг:</l>
+          <l>Вообрази себе - ее жених мне друг!</l>
+          <l>Ты понимаешь ли теперь, что мне мешает?</l>
+          <l>Любовь могла б... но честь и дружба запрещает.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Честь, дружба и любовь! - Какая куча слов!</l>
+          <l>Что за чувствительность пастушеских веков?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Помилуй! Но теперь, будь на моем ты месте,</l>
+          <l>Как все препятствия ты согласил бы вместе?</l>
+          <l>И мог ли б для любви ты дружбе изменить!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Ну, есть ли тут об чем серьезно говорить?</l>
+          <l>Мы церемониться не станем из пустого -</l>
+          <l>И я б не пощадил тут ни отца родного.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Я, признаюсь, не так решителен и смел.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Зато ты ничего и сделать не успел;</l>
+          <l>Но случай твой, божусь, из самых интересных...</l>
+          <l>Я в обстоятельствах бывал довольно тесных,</l>
+          <l part="I">Но всё не в эдаких.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">И что б ты сделал тут?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Но, может быть, ее насильно выдают?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Быть может.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Хорошо, и ты любим? - Прекрасно!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Но что ж из этого?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Как что? Тут очень ясно.</l>
+          <l>Вот человек: не глуп, а век его учи!</l>
+          <l>Люби, не унывай и больше хлопочи.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Но дружба...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Боже мой! Да позабудь о дружбе:</l>
+          <l>В делах общественных, в делах серьезных, в службе -</l>
+          <l>Все знают без тебя, что значит: долг и честь;</l>
+          <l>Но в шалостях любви чего не перечесть!</l>
+          <l>Щадить соперников и сослуживцев бальных -</l>
+          <l>На это правил нет таких патриархальных.</l>
+          <l>Но кто же, наконец, прелестница твоя?</l>
+          <l>Влюбленным помогать - уж это страсть моя!</l>
+          <l part="I">Ну, кто ж она?.. Вещай!.. Молчанье!..</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Я не в силах!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Смешной оригинал любовников унылых!</l>
+          <l>Но так и быть, изволь, я другу помогу.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Вот хорошо!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ну да, сказал, так не солгу;</l>
+          <l part="I">Чур слушаться.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Изволь, и я охотно рад бы...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Во-первых, надобно, чтоб не было тут свадьбы.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Потом?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Потом? Во всем признаться ей, отцу.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">А там?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">А там - к концу или к венцу,</l>
+          <l part="I">Как водится.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Но мне страх совестно, ей-богу!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Бессовестный! Ему хотят открыть дорогу!</l>
+          <l>Толкнешь его вперед, он пятится назад;</l>
+          <l>Но тут уж не пеняй, сам будешь виноват.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Не лучше ли ему признаться?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ай! Помилуй!</l>
+          <l>Вот выдумал, да я опомнился насилу.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Но иначе его мне надо обмануть?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">И обмани.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Но он мне друг, не позабудь.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Уж не прогневайся.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Но это оскорбленье...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Нет, ничего; оно вошло в обыкновенье,</l>
+          <l>По светским правилам. Но вот моя княжна!</l>
+          <l>Всегда молчит, всего боится и грустна!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 6</head>
+        <stage>Те же и Евгения.</stage>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ах! Батюшки здесь нет?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Вы этого не знали?</l>
+          <l>Начало хорошо. - Вы батюшки искали...</l>
+          <l>Но можно ж между тем подвинуться вперед.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(в сторону)</stage>
+          <l part="I">Я сам не свой!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(Евгении)</stage>
+          <l part="F">Когда ж, помилуйте, пройдет</l>
+          <l>У вас застенчивость? - Я вам рекомендую</l>
+          <l>Рамирского, а вам - невесту дорогую.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Возможно ли! Княжна... но я имел уж честь</l>
+          <l part="I">Вас видеть...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Неужли? Ну вот и случай есть</l>
+          <l>К знакомству не в таком церемоньяльном тоне.</l>
+          <l part="I">Да где ж вы виделись?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">В том самом пансионе,</l>
+          <l>Ну, там, где именно воспитана она,</l>
+          <l>И, кажется, с княжной она была дружна.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Да лучше этого быть ничего не может.</l>
+          <l>Рамирский, торжествуй! Княжна тебе поможет;</l>
+          <stage>(тихо)</stage>
+          <l>Она хоть и проста, но мы зато с умом!</l>
+          <l part="I">Да знает ли она?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">О! верно, обо всем.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Тем лучше; стало быть, не нужно объясненья.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Я твоего прошу, однако ж, позволенья</l>
+          <l>Теперь же от княжны кой-что об ней узнать.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Прекрасно! Я ее заставлю отвечать.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Княжна! Вы знаете Рамирского несчастье:</l>
+          <l>Здесь страстная любовь ждет вашего участья!</l>
+          <l>Вы, верно, видитесь с подругою своей</l>
+          <l>И тайна вам моя известна так, как ей.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Всех больше.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Но она... как это ни ужасно!..</l>
+          <l part="I">Выходит замуж?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Да.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">И коротко, и ясно.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Но после этого чего ж мне ожидать?</l>
+          <l part="I">Я позабыт...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Ах, нет!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Тем легче помешать.</l>
+          <l>Ты слышишь ли? Она к тебе неравнодушна.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(Евгении)</stage>
+          <l part="I">Но каково же ей?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(глядя на Рамирского)</stage>
+          <l part="M">Ей весело...</l>
+          <stage>(Глядя на Столицына)</stage>
+          <l part="F">И скучно.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Что ж думает она?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">О многом, но молчит.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Помилуйте, княжна! Да это, право, стыд;</l>
+          <l part="I">Кто ж вас поймет?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Ах, нет! Я очень понимаю.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Вы понимаете? - Ну, я вас поздравляю!</l>
+          <l>Вам лаконический понравился ответ?</l>
+          <l>Что, если б не было у нас ни да, ни нет,</l>
+          <l>Вас затруднили бы ужасно объясненья?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Тут нужны не слова, но сила выраженья.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">О боже мой!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Но я напрасно веселюсь!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Что вы ей нравитесь, я в этом побожусь.</l>
+          <l>Довольно, кажется, для первого вам раза?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Вот чудо! Целая отпущена нам фраза!</l>
+          <l>Рамирский, знаешь что, а мысль ведь недурна,</l>
+          <l>Что, если б, например, безмолвная княжна</l>
+          <l>Взялась любовное ей письмецо доставить?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Как! К ней?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ну да. Уж я берусь себя прославить.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>А я уж и письмо, по счастью, написал,</l>
+          <l>Но, чтобы ей отдать, всё случая искал.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Уж написал?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Да так, на случай, два-три слова.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Давай его, оно не ново, да готово.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Да как отдать?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">А вот увидишь, как отдам.</l>
+          <l>Княжна, мы помогать должны своим друзьям -</l>
+          <l>И это письмецо, к обоим нам из ласки,</l>
+          <l>Прошу вас передать... Вы потупили глазки!</l>
+          <l>Вам стыдно? Но когда я отдаю вам сам...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Извольте, я беру, и, верно, ей отдам.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(в сторону)</stage>
+          <l>Взялась! Кто б ожидал готовность в ней такую?</l>
+          <l>Мне кажется, ее я скоро сформирую.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Княжна! Моя судьба теперь у вас в руках.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Мы помогать друзьям должны не на словах,</l>
+          <l part="I">А делом.</l>
+        </sp>
+        <sp who="#evgenij">
+          <speaker>Евгений</speaker>
+          <l part="M">Слушаю-с.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">И попросту вам должно</l>
+          <l part="I">Доставить нам ответ.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Да-с, если будет можно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Уж постарайтеся, не то он пропадет.</l>
+          <l>Ну, с помощью моей пустились мы вперед!</l>
+          <l>Каков же я? Когда минуты нет досуга,</l>
+          <l>Я нынче целым днем пожертвовал для друга -</l>
+          <l>И днем чудеснейшим, когда я зван ко всем:</l>
+          <l>На завтрак к Лелевой, чтоб сблизиться кой с кем,</l>
+          <l>К Загорским на обед, а к Знатову на ужин,</l>
+          <l>Где будет человек, который нынче нужен;</l>
+          <l>Но в свете кто живет, тот вечно сам не свой.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Ты, познакомивши зато меня с княжной,</l>
+          <l>Разодолжил. Но ты бы съездить мог покуда.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>И дело; между тем, куда же ты отсюда?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Теперь домой... а там в театр.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ба! Это что?</l>
+          <l>В театр решительно не ездит здесь никто</l>
+          <l>Из значущих, и что, помилуй, за охота</l>
+          <l>Сидеть до завтрого и слушать Вальтер-Скота?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Бог с ним! Но надобно мне главное узнать:</l>
+          <l>Скажите мне, княжна, где случай отыскать</l>
+          <l part="I">С ней видеться?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Нигде, сударь: она всё дома.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Но почему ж не здесь? Она вам так знакома,</l>
+          <l>А иначе опять надежда пропадет.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Никак нельзя: ее ужасно стережет</l>
+          <l>Злой человек, кого на свете нет скучнее.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(в сторону)</stage>
+          <l>Не ожидал, она становится умнее.</l>
+          <stage>(Вслух)</stage>
+          <l>Любовь всех Аргусов, поверьте, проведет,</l>
+          <l>И мы комедию на их сыграем счет,</l>
+          <l>В которой главную я представляю ролю.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Распоряжай, а мы твою исполним волю.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Но кто-то к нам? Ну так, и, верно, уж за мной!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Но если это князь?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ну, он или другой,</l>
+          <l part="I">Что ж тут?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Я незнаком и, право, неспокоен.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Когда ж дурной прием встречает русский воин?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 7</head>
+        <stage>Те же и князь Радугин.</stage>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <stage>(увидя Столицына)</stage>
+          <l>А! наконец тебя я отыскал, злодей.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Вы вечно судите!</l>
+          <stage>(Рамирскому)</stage>
+          <l part="F">Ну, подходи ж скорей</l>
+          <l>Знакомиться. Вот, князь, вам в лицах небылица:</l>
+          <l>Рамирский, он гусар, а скромен, как девица!</l>
+          <l>Но мастер действовать и саблей и пером.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Я с вашим батюшкой был коротко знаком.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Я сам за счастие почел бы вашу дружбу.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Он, бедненький, влюблен...</l>
+          <stage>Рамирский его останавливает.</stage>
+          <l part="F">Я разумею - в службу.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>И очень хорошо, за это я хвалю;</l>
+          <l>Я неохотников до службы не люблю.</l>
+          <l>Военному служить и надобно на славу;</l>
+          <l>Теперь пожалуй-ка сам, братец, на расправу...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Кто, я?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Рассказывай: как мой процесс идет?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Изрядно.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Знаешь что?.. Нехорошо, кто лжет.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(Рамирскому)</stage>
+          <l part="I">Князь шутит.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Нет, теперь отшучиваться поздно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>А! вы не шутите, так, стало быть, серьезно?</l>
+          <l>Но без причины, князь, людей так ие бранят.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <stage>(Рамирскому)</stage>
+          <l>Прошу вас разобрать, кто прав, кто виноват:</l>
+          <l>Он сам мне вызвался похлопотать по делу;</l>
+          <l>По глупости, я дал доверенность пострелу...</l>
+          <l>И подлинно, что он меня разодолжил!</l>
+          <l>Он так заботился, что даже пропустил</l>
+          <l part="I">Срок апелляции.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="M">Позвольте, князь...</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Всё ясно,</l>
+          <l part="I">И кончено.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Божусь, вы сердитесь напрасно.</l>
+          <l>От ветрености я, вы знаете, далек,</l>
+          <l>Я просьбу именно в законный подал срок,</l>
+          <l>А если б иначе, конечно, неприятно...</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Да просьбу с надписью тебе швырнут обратно.</l>
+          <l>Вперед, сударь, пиши и форму соблюдай,</l>
+          <l>А то напутал вздор, подсунул - и прощай!</l>
+          <l>Теперь хоть в петлю лезть от твоего проворства.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Ну так, у нас никак нельзя без крючкотворства!</l>
+          <l>Всё исковеркают, что им ни говори</l>
+          <l>О справедливости. А всё секретари,</l>
+          <l part="I">Которых тьма.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Да что за вздор ты мне трезвонишь?</l>
+          <l part="I">Винишь других.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Я знал, что вас не урезонишь,</l>
+          <l>Но без протекции успехи мудрены.</l>
+          <l>Будь обе стороны между собой равны,</l>
+          <l>Так это было бы на что-нибудь похоже;</l>
+          <l>А то затеяли процесс с полувельможей -</l>
+          <l>И разумеется, что выиграет он...</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Дела, сударь, решит не сила, а закон.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">С которых пор?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">С тех пор, как принялись за дело;</l>
+          <l>С тех пор, как дерзкое насильство ослабело;</l>
+          <l>С тех пор, как нас ничто тревожить не должно</l>
+          <l>И царской правдою мы счастливы равно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Вот видите! К чему ж пустое огорченье?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Прошу! И он еще пустился в извиненье!</l>
+          <l>Но времени с тобой не стану я терять,</l>
+          <l>И больше потому, что нужно хлопотать.</l>
+          <l>Как жаль! Мне незнаком Палаты председатель,</l>
+          <l part="I">Он мог бы пособить.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Он добрый мой приятель.</l>
+          <l>Не знаю, князь, он вам поможет или нет,</l>
+          <l>Но, без сомнения, хороший даст совет.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Что ж лучше этого! Пожалуйста, мой милый,</l>
+          <l part="I">Сведи меня к нему.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="M">С охотою!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(в сторону)</stage>
+          <l part="F">Насилу</l>
+          <l part="I">Утешился!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Дай бог пуститься в добрый час.</l>
+          <l part="I">Поедем же.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="M">А я?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <stage>(уходя с Рамирским)</stage>
+          <l part="F">Я обойдусь без вас.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(уходя за ними)</stage>
+          <l>Вот хорошо! Ведь мне растолковать всё надо.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 8</head>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(одна)</stage>
+          <l>Они поссорились! Как этому я рада!</l>
+          <l part="I">Прочтем письмо.</l>
+          <stage>(Читает)</stage>
+          <l part="F">"Мое ужасно положенье!</l>
+          <l>Любить и слова не сказать,</l>
+          <l>Любить и быть в сомненье,</l>
+          <l>Любить и, может быть, навек вас потерять!</l>
+          <l>Но если в чувствах мы согласны,</l>
+          <l>Когда вы ищете взаимности одной,</l>
+          <l>Любви почтительной и страстной -</l>
+          <l>Тогда нас разлучить нет власти никакой,</l>
+          <l>Тогда - ни в чем судьба не виновата:</l>
+          <l>От взгляда вашего, от слова одного</l>
+          <l>Зависят счастия утрата</l>
+          <l>И верх блаженства моего!"</l>
+          <l>Ах! как умеет он любить,</l>
+          <l>Но мой ответ его утешит, может быть.</l>
+          <stage>(Садится к столу и пишет.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 9</head>
+        <stage>Евгения, Столицын.</stage>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Его сиятельство взбесился за пустое</l>
+          <l>И мне откланялся. Ба! Это что такое?</l>
+          <l>Княжна! Вот чудеса, не верю я глазам!</l>
+          <l>И как задумалась - и пишет - по складам.</l>
+          <stage>(Подходя)</stage>
+          <l part="I">Преинтересно!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Ах!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Чего ж вы испугались?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Вы так нечаянно вошли.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Вы занимались?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Напротив, я, шутя, писала начерно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Тут мысли главное, а впрочем, всё равно.</l>
+          <stage>(Хочет взять письмо)</stage>
+          <l part="I">Посмотрим.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Ни за что! Тут нет правописанья.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Ах! вы профессорши... на знаки препинанья.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Вы сами знаете, как дурно я пишу.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Не очень хорошо, но если я прошу</l>
+          <l part="I">Мне показать?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Но я смеяться вас заставлю.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>И будет не смешно, когда я вас поправлю;</l>
+          <l part="I">Позвольте ж.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Мало ли что пишется шутя.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Мне скучно наконец, и что вы за дитя?</l>
+          <l part="I">Подайте.</l>
+          <stage>(Вырывает письмо.)</stage>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="M">Боже мой!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="M">Прочтем.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(в сторону)</stage>
+          <l part="F">Что будет с нами!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Возможно ли! И вы писали это сами?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(с досадой)</stage>
+          <l part="I">Сама, сударь.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Но кто б подумать это мог!</l>
+          <l>Как мило, как умно, какой прелестный слог!</l>
+          <stage>(Читает)</stage>
+          <l>"Что вы любимы - это ясно.</l>
+          <l>Надежда наша не мечта;</l>
+          <l>Но вас уверили напрасно,</l>
+          <l>Что я до глупости проста".</l>
+          <l>Помилуйте! Да тут есть искренность, есть чувство...</l>
+          <l>Так мило упрекать - вот женское искусство!</l>
+          <l part="I">К кому ж вы пишете?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Кто, я? - Конечно, к вам.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Уж разумеется, я вижу это сам;</l>
+          <l>Но каково ж мое, представьте, удивленье!</l>
+          <l>Я вас бранил; теперь от вас я в восхищенье!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(в сторону)</stage>
+          <l part="I">Вот счастье!</l>
+          <stage>(Вслух)</stage>
+          <l part="F">Надобно забыть всё поскорей.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Не понимаю сам я глупости моей!</l>
+          <l>За что я дурочкой считал вас по-пустому;</l>
+          <l part="I">Счастливое письмо!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(в сторону)</stage>
+          <l part="F">А писано к другому.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Ах, не стыдитеся; стыдиться должно мне.</l>
+          <l>Всю цену вам теперь я чувствую вполне!</l>
+          <l>Вы улыбаетесь? По этой-то улыбке</l>
+          <l part="I">Я счастлив, как никто!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(в сторону)</stage>
+          <l part="F">Он счастлив по ошибке.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Не правда ли, теперь мне можно дочитать?</l>
+          <stage>(Читает)</stage>
+          <l>"Что вы любимы - это ясно.</l>
+          <l>Надежда наша не мечта;</l>
+          <l>Но вас уверили напрасно,</l>
+          <l>Что я до глупости проста.</l>
+          <l>Я, может быть, свои достоинства имею,</l>
+          <l>Вы видите решительность мою,</l>
+          <l>И если слово я даю,</l>
+          <l>То и сдержать его умею".</l>
+          <l>Тут столько сказано - что нечего желать!</l>
+          <l>Но вы, княжна, зачем безбожно так скрывались,</l>
+          <l>Молчали, бегали, краснели и боялись?</l>
+          <l>На что б решился я без этого письма?</l>
+          <l>Вы больше моего имеете ума,</l>
+          <l>И вместо умницы, в насмешку всем прелестным,</l>
+          <l>Я смел вас называть - созданьем бессловесным!</l>
+          <l>Я вижу сам теперь, что это стыд и смех,</l>
+          <l>Что я с насмешками смешнее вышел всех.</l>
+          <l>И это самое письмо за эту грубость...</l>
+          <l>Мне будет говорить всегда: "Ты сделал глупость!"</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Божусь, не для того написано оно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Нет, наказать меня и нужно, и умно.</l>
+          <l>Но дело кончено; мы старое забыли,</l>
+          <l>Я вижу по глазам, что вы меня простили!</l>
+          <l>Не правда ли? Я вас умею понимать.</l>
+          <l>Но в счастии друзей не должно забывать;</l>
+          <l>Нас к этому влечет невольное движенье.</l>
+          <l>Пожалуйста, княжна, войдите в положенье</l>
+          <l>Рамирского. Когда б он не был так влюблен,</l>
+          <l>Когда б он был шалун, какими окружен,</l>
+          <l>Он хлопотать меня никак бы не заставил;</l>
+          <l>Но я ручаюсь вам, что он отличных правил,</l>
+          <l>Что все достоинства вполне ему даны</l>
+          <l>И точно... счастие составит он жены.</l>
+          <l>Скажите ж ей, что наш влюбленный умирает,</l>
+          <l part="I">Что он в отчаяньи!..</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Она об этом знает.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Но мало этого, их надобно женить.</l>
+          <l>А что до жениха - смешно его щадить!</l>
+          <l>Вы отзовитеся об нем как можно хуже:</l>
+          <l>Уверьте, что пути не будет в этом муже,</l>
+          <l>Что он не пара ей и, слышно стороной,</l>
+          <l>Что просто он болтун и человек пустой,</l>
+          <l>Что этаких людей уничтожают смело...</l>
+          <l>Вот видите, княжна... Я говорю вам дело,</l>
+          <l part="I">А вы смеетеся; чему ж?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Да мне смешно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Помочь Рамирскому, ей-богу, не грешно.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Что ж скажет друг его?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Тут главное невеста,</l>
+          <l>И счастливый Пилад заменит ей Ореста.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 10</head>
+        <stage>Те же и Даша.</stage>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(подавая Столицыну письмо)</stage>
+          <l>К вам чей-то человек изволил прибежать</l>
+          <l>С письмом - и велено ответа подождать.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Уж эти письма мне! По чести, нет терпенья!</l>
+          <stage>(Читает про себя)</stage>
+          <l>Ну так! Я ожидал - что день, то приглашенье.</l>
+          <l>Вот видите, княжна, меня зовут на бал;</l>
+          <l>Случись оно вчера, я, верно б, поскакал,</l>
+          <l>Сегодня - кончено. Мы оба не в потере.</l>
+          <l>Без вас тоска, при вас я счастлив в полной мер</l>
+          <stage>(Даше)</stage>
+          <l>Постой, я напишу в минуту им ответ.</l>
+          <stage>(Подходит к столу, где писала Евгения)</stage>
+          <l part="I">Позвольте мне...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Да тут бумаги больше нет.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Ведь вы писали же? И можно лоскуточек</l>
+          <l part="I">Найти...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Мне нужен был всего один листочек.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(тихо)</stage>
+          <l>Который у меня, я здесь его ношу -</l>
+          <l>И мигом мой ответ у князя напишу.</l>
+          <stage>(Уходит.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 11</head>
+        <stage>Евгения и Даша.</stage>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Вот превращение! Да что ж всё это значит?</l>
+          <l>Позвольте вас спросить, здесь кто кого дурачит?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Чем это кончится - не знаю я сама;</l>
+          <l>Ах! Даша, посуди, всё вышло из письма...</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l>Уж письма? Стало быть, идет довольно дружно.</l>
+          <l part="I">К кому ж писали вы?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Кому мне было нужно.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="I">А! Чем же кончилось?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Я занялась письмом,</l>
+          <l part="I">А он вошел!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Злодей! Увидел - и потом?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Всё прочитал.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Ай, ай, как это неучтиво!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ему достанется.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">И очень справедливо.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Вообрази ж мой страх.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Он, кажется, прошел.</l>
+          <l>Да что же он в письме веселого нашел?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>По счастью моему, он самолюбьем болен</l>
+          <l part="I">И счел, что я к нему пишу.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">И был доволен?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ужасно!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="F">Ай, княжна! Да это чудеса!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Но скоро надобно открыть ему глаза.</l>
+          <l>За дерзости его я ненавижу пуще.</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(услыша шум)</stage>
+          <l part="I">Кто ж это?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(увидя Рамирского)</stage>
+          <l part="M">Боже мой!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(уходя, тихо Евгении)</stage>
+          <l part="F">А! этот, видно, лучше.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 12</head>
+        <stage>Евгения и Рамирский</stage>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Какое счастие! Я вижу вас одних!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Где ж батюшка?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Княжна! Мне дорог каждый миг.</l>
+          <l>И если выслушать меня не захотите,</l>
+          <l part="I">Тогда...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Пожалуйста, потише говорите.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Я после этого не смею продолжать.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Но тише говорить не значит замолчать.</l>
+          <stage>(Показывая на кабинет)</stage>
+          <l part="I">Здесь ждет вас господин Столицын.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Мне бы должно</l>
+          <l part="I">С ума сойти! Двух слов сказать нельзя.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Нет, можно,</l>
+          <l part="I">Но осторожнее.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(очень тихо)</stage>
+          <l part="F">Простите, виноват.</l>
+          <l>Теперь подслушивать нас могут как хотят.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Ах, боже мой! К чему ж вы начали шептаться?</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Помилуйте, княжна, мне трудно догадаться,</l>
+          <l>Каким прикажете мне тоном говорить?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l>Вы громко можете меня благодарить.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">За что?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Вот хорошо, за важную услугу.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Княжна!..</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Я видела, сударь, мою подругу.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Возможно ли!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">И вам я очень помогла.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Как милы вы!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(оглядываясь)</stage>
+          <l part="F">Письмо я ваше отдала.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Не бойтесь! Что ж, она ужасно рассердилась?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Не очень.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="M">И прочесть письмо мое...</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(оглядываясь)</stage>
+          <l part="F">Решилась.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Чего ж боитесь вы? Скажите мне ответ,</l>
+          <l>Скажите в двух словах: я счастлив или нет?</l>
+          <l part="I">Не бойтесь! Боже мой!</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Но ей ужасно стыдно</l>
+          <l>Признаться было в том, что без признанья видно.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Ах! вы меня на верх блаженства увлекли!</l>
+          <l>Но я боюсь... чтоб нас подслушать не могли.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Не бойтесь.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Я клянусь, но что за уверенья,</l>
+          <l>Любить и обожать ее до исступленья!</l>
+          <stage>(Оглядывается.)</stage>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Не бойтесь.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="F">Пусть она увидит мой восторг!</l>
+          <l>И ею я любим! И я у ваших ног!</l>
+          <stage>(Оглядывается.)</stage>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Не бойтесь.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(становясь на колени)</stage>
+          <l part="F">Счастливым быть больше невозможно!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 13</head>
+        <stage>Те же, Столицын, Радугин и Даша. Все в одно время показываются из разных
+          дверей.</stage>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Брависсимо! Ай! ай! Но как неосторожно!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Что значит это? Я от вас не ожидал.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Ах, князь!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Позвольте, князь, чтоб я растолковал.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Ах, братец! Ты всегда не за свое берешься.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">За что ж вы сердитесь?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">А ты чему смеешься?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">А вот увидите.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="M">Я видел.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Да не то.</l>
+          <l part="I">И просто он княжну благодарит.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">За что?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">За покровительство ее.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Оно похоже...</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Позвольте, князь, оно похоже, да не то же.</l>
+          <l>По счастию, не все боготворят одну -</l>
+          <l>И, разумеется, влюблен он не в княжну.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="I">А близко?..</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Именно, в одну ее подругу.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Так на взаимную пошло у них услугу?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Как тут попали вы! Ай, князь! И каково ж?</l>
+          <l part="I">Что значит опытность!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Не то что молодежь.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Ну, не всегда; меня вы извините в этом.</l>
+          <l>По чьим здесь, например, уладилось советам?</l>
+          <l>По собственным моим. Кто познакомил? Я.</l>
+          <l>Кого благодарить они должны? - Меня.</l>
+          <l part="I">Всё я!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Всё ты! Хорош и подслужился славно!</l>
+          <l part="I">А как зовут ее подругу?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Вот забавно!</l>
+          <l part="I">Ведь я и не спросил.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Так спросим-ка об ней.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">Спросите.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <stage>(показывая на Рамирского)</stage>
+          <l part="M">Он молчит.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <stage>(Евгении)</stage>
+          <l part="F">Скажите поскорей</l>
+          <l>Мне на ушко. Ну, что ж?.. Вы тоже онемели...</l>
+          <l>Оно хоть ничего... однако ж, в самом деле,</l>
+          <l>Мне странно наконец; что ж это за секрет?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <stage>(тихо Столицыну)</stage>
+          <l part="I">Уж нет ли тут чего-нибудь?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Конечно, нет.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="I">Но подозрительно.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Ах, князь! Как это скучно;</l>
+          <l>Кого подозревать и в чем? Ах, как здесь душно!..</l>
+          <l>Но вот письмо княжны уверит вас вполне,</l>
+          <l part="I">Что я...</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="M">Письмо к тебе?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Надеюсь, что ко мне.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ах, нет!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="M">Княжна!..</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="F">Божусь, что я не к вам писала.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="I">К кому ж? Ах я дурак!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">А что она сказала?</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l>Княжна! Но честь, любовь, и дружба, и труды...</l>
+          <l part="I">Эй, кто-нибудь!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <l part="M">Я здесь, сударь.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Стакан воды!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="I">Ну, что ж?</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <stage>(подходя)</stage>
+          <l part="M">Ах, батюшка!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <stage>(подходя)</stage>
+          <l part="M">Ах, князь!</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Так, я... здесь лишний.</l>
+          <l>И вот чем отплатил приятель мой давнишний!</l>
+        </sp>
+        <sp who="#dasha">
+          <speaker>Даша</speaker>
+          <stage>(подавая воду)</stage>
+          <l part="I">Стакан воды.</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Ты сам устроил эту связь.</l>
+          <l part="I">Учил обманывать, и пот.</l>
+        </sp>
+        <sp who="#stolicyn">
+          <speaker>Столицын</speaker>
+          <l part="F">Оставьте, князь,</l>
+          <l>Нравоучения! Что тут за пустословье?</l>
+          <l>Я очень рад и пью за общее здоровье.</l>
+          <l>Слуга покорнейший! Я нынче зван на бал.</l>
+          <stage>(Уходит, а Даша его провожает.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 14</head>
+        <stage>Радугин, Евгения и Рамирский.</stage>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="I">Прощай!</l>
+          <stage>(Рамирскому)</stage>
+          <l part="F">А вы, сударь? Но кто ж вам право дал</l>
+          <l>Распоряжаться здесь без вышнего начальства?</l>
+          <l>Я не таков, чтоб дочь беречь для генеральства.</l>
+          <l>Кто ей понравится, тот мне и будет зять.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="I">Как счастлив я!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <stage>(показывая на письмо)</stage>
+          <l part="F">А ты, давно ли сочинять</l>
+          <l>Пустилась, матушка, конфетные билеты?</l>
+          <l>От доброго отца грешно иметь секреты.</l>
+          <l>Вот после этого люби вас без души.</l>
+        </sp>
+        <sp who="#evgeniya">
+          <speaker>Евгения</speaker>
+          <l part="I">Ах, батюшка!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l part="M">Ах, князь!</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l part="F">Вы оба хороши!</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Неужли я ничем не заслужу прощенья?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Я, братец, не таков и помню одолженья.</l>
+          <l>Но вас мне надобно прошколить наперед.</l>
+          <l>Ну, помиримся же, а свадьба - через год.</l>
+        </sp>
+        <sp who="#ramirskij">
+          <speaker>Рамирский</speaker>
+          <l>Ах, князь! Ждать целый год возможно ли, влюбившись?</l>
+        </sp>
+        <sp who="#radugin">
+          <speaker>Радугин</speaker>
+          <l>Посмотрим, что-то ты заговоришь, женившись!</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
