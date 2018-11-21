@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Взаимные испытания</title>
+        <title type="main" xml:lang="en">Mutual Trials</title>
+        <title type="sub" xml:lang="ru">Комедия в одном действии, в стихах</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act, in Verse</title>
+        <author key="Wikidata:Q5608019">Хмельницкий, Николай Иванович</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/hmelnickij-vzaimnye-ispytaniya</idno>
+        <idno type="RusDraCor">???</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q59005445</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/h/hmelxnickij_n_i/text_0060.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Стихотворная комедия конца XVIII - начала XI в. Вступительная статья, подготовка
+              текста и примечания М. О. Янковского Серия "Библиотека поэта". Большая серия. Второе
+              издание. М.-Л., "Советский писатель", 1964</title>
+            <date type="print" when="1829">"Впервые - "Театр Николая Хмельницкого", т. 2. СПб.,
+              1829." (lib.ru)</date>
+            <date type="written" when="1826">"На самом деле Хмельницкий создавал пьесу в 1826 г."
+              (lib.ru)</date>
+            <date type="premiere" when="1829">"Первый спектакль в Петербурге состоялся 18 ноября
+              1829 г." (lib.ru)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="grafinya" sex="FEMALE">
+            <persName>Графиня</persName>
+          </person>
+          <person xml:id="svetlana" sex="FEMALE">
+            <persName>Светлана</persName>
+          </person>
+          <person xml:id="plamirskij" sex="MALE">
+            <persName>Пламирский</persName>
+          </person>
+          <person xml:id="ehledin" sex="MALE">
+            <persName>Эледин</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genreTitle">Комедия в одном действии, в стихах</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-21">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Взаимные испытания</titlePart>
+        <titlePart type="sub">Комедия в одном действии, в стихах</titlePart>
+      </docTitle>
+      <castList>
+        <head>ДЕЙСТВУЮЩИЕ</head>
+        <castItem>Графиня.</castItem>
+        <castItem>Светлана, ее сестра.</castItem>
+        <castItem>Пламирский.</castItem>
+        <castItem>Эледин.</castItem>
+      </castList>
+      <set>
+        <p>Действие в доме графини.</p>
+      </set>
+    </front>
+    <body>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 1</head>
+        <stage>Графиня и Светлана.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Итак, любезная Светлана, я решаюсь -</l>
+          <l>И быть Пламирского женою соглашаюсь;</l>
+          <l>Хоть чувствам ревности он слишком предался,</l>
+          <l>Но я дала урок, и опыт удался.</l>
+          <l>Теперь решительно он мне не досаждает.</l>
+          <l>Но это, признаюсь, меня не утешает.</l>
+          <l>Хоть мы не ссоримся - но в нем не вижу я</l>
+          <l>Ни прежней радости, ни прежнего огня!</l>
+          <l>Он идеалом стал холодного счастливца,</l>
+          <l>А равнодушный муж несноснее ревнивца.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Мне странно, что он вас совсем не разлюбил,</l>
+          <l>И как всё вытерпеть его достало сил?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Я это делала, добра ему желая.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Но можно исправлять людей, не обижая.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Он позабудет всё.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Чтоб помириться с ним,</l>
+          <l>Уверьте ж вы его, что точно он любим.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Нет, я ему еще готовлю испытанье.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Еще, ах, боже мой! Да это наказанье!</l>
+          <l>Когда он в вас влюблен и без ума от вас,</l>
+          <l part="I">Чего ж хотите бы?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Чтоб он не всякий раз</l>
+          <l>Был холоден со мной - и я найду искусство</l>
+          <l>И наказать его, и оживить в нем чувство.</l>
+          <l>Эледин наш, к кому меня он ревновал</l>
+          <stage>(Тогда как не меня Эледин обожал),</stage>
+          <l>Для хитрости моей необходимо нужен,</l>
+          <l>Чтоб в этом отказать - он с нами очень дружен,</l>
+          <l>И я его сейчас приехать к нам прошу.</l>
+          <stage>(Отдавая ей письмо)</stage>
+          <l part="I">Прочти.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(читает)</stage>
+          <p>"Любезный Эледин! Вы мне необходимо нужны. Дело идет о Пламирском: будьте с ним
+            осторожнее. Вы слишком много для меня сделали, чтоб не чувствовать ваших одолжений, но я
+            могу быть вам полезною в свою очередь. Вы любите..."</p>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">Ну, что ж?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(продолжая читать)</stage>
+          <p>"Вы любите сестру мою - и я надеюсь устроить ваше счастие".</p>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Ну, что ж? Недурно я пишу?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Сестрица!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Боже мой! Об чем же ты хлопочешь?</l>
+          <l>Послать, так мы пошлем, а если ты не хочешь -</l>
+          <l>Я не пошлю. Ну, что ж - прикажешь разорвать?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Когда написано, так лучше уж послать.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Я думаю; ответ я этот отгадала,</l>
+          <l>И, верно, сбудется, мой друг, что обещала.</l>
+          <l>Хоть скучно, признаюсь, быть два года вдовой</l>
+          <l>И честь не велика быть старшею сестрой,</l>
+          <l>Однако ж не забудь теперь, что ты вторая,</l>
+          <l>И выйдет старшая сперва, а там меньшая.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Конечно.</l>
+          <stage>(Увидя Пламирского)</stage>
+          <l part="F">Вот и он! Скорее по рукам.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 2</head>
+        <stage>Те же и Пламирский.</stage>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Надежда и любовь меня приводят к вам.</l>
+          <l>Когда ж вы сжалитесь, графиня, надо мною</l>
+          <l>И осчастливите меня своей рукою?</l>
+          <l>Скажите мне, для вас чего не сделал я?</l>
+          <l>Сперва вам испытать хотелося меня,</l>
+          <l>Я был в отчаяньи, но вынес испытанье.</l>
+          <l>Исполните ж теперь и ваше обещанье!</l>
+          <l>Вы скажете опять, что я нетерпелив -</l>
+          <l>Положим, но зато я больше не ревнив.</l>
+          <l>Да и смешно, когда надеюсь быть счастливым -</l>
+          <l>Зачем, на что, к кому мне можно быть ревнивым?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Уж разумеется, к кому вам ревновать?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И это я могу вам тотчас доказать.</l>
+          <l>Будь я ревнив, тогда б... бралось всё к сердцу близко...</l>
+          <l>Тогда б я вас спросил... с кем эта переписка,</l>
+          <l>Что это за письмо, прикрытое платком?</l>
+          <l>И мало ли спросить нашлося бы о чем?</l>
+          <l>Но для меня всегда священна ваша тайна -</l>
+          <l>И я, вы видите, спокоен чрезвычайно.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">О! удивительно!</l>
+          <stage>(Показывая письмо)</stage>
+          <l part="F">А прочитать его</l>
+          <l part="I">Недурно б.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Искренность дороже мне всего.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Так доказать ее и случай я имею.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я очень бы желал, но - требовать не смею.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Так знайте же, что я признательна сама</l>
+          <l>И выбираю вас вручителем письма.</l>
+          <l>Возьмите, вы, как друг, в нас примете участье...</l>
+          <l>И пусть он через вас свое узнает счастье.</l>
+          <stage>(Уходит вместе с Светланою.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 3</head>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <stage>(один)</stage>
+          <l>Уж верно, что-нибудь скрываться тут должно.</l>
+          <l>Отдать письмо!.. К кому ж написано оно?</l>
+          <l>К Эледину! Меня как громом поразило!</l>
+          <l>К Эледину!.. Кого зовут: Эледин милый!</l>
+          <l>И любят - и в пример мне ставили кого.</l>
+          <l>Так вот кто счастливый! А я здесь для того,</l>
+          <l>Чтоб, по словам ее, в интриге взять участье</l>
+          <l>И чтоб уведомить его об этом счастье.</l>
+          <l>Прекрасно! Но теперь... теперь открылось всё.</l>
+          <l>Письмо к Эледину! Чего же мне еще?</l>
+          <l>Но он совсем пропал! - О! трудно догадаться:</l>
+          <l>Они поссорились и скоро помирятся.</l>
+          <l>И я подателем счастливого письма!</l>
+          <l>Она мне поручить изволила сама.</l>
+          <l>Изменница! Оно ко мне попалось кстати.</l>
+          <l>Что если б?.. Боже мой! Записка без печати!..</l>
+          <l>Не испытанье ли? - А что-нибудь да есть,</l>
+          <l>Чего бы не дал я, чтобы ее прочесть!</l>
+          <l>Однако ж выдержать мне надо непременно.</l>
+          <l>Оно мне вверено - и для меня священно!</l>
+          <l>Вот положение! На что решиться вдруг?</l>
+          <l part="I">Ах, боже мой! Вот он!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 4</head>
+        <stage>Пламирский и Эледин.</stage>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">А! здравствуй, милый друг!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я также очень рад, что нахожу возможность</l>
+          <l part="I">Вам снова доказать.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Несносную холодность,</l>
+          <l>Не так ли? Но к чему ж угрюмый этот взгляд?</l>
+          <l>А все-таки твердит, что будто очень рад.</l>
+          <l>Не ревновать ли ты по-прежнему пустился</l>
+          <l>И, верно, с милою графиней разбранился?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">За что ж?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Но если бы случился этот грех,</l>
+          <l>То я вас помирить могу скорее всех.</l>
+          <l>Я очень дружен с ней - и нынче особливо.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Кто ж сомневается?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">И это справедливо.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я знаю, ты всегда графиню восхищал,</l>
+          <l>Но где ж скрывался ты? Я думать начинал,</l>
+          <l part="I">Что вы поссорились.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Нет, в этом будь уверен:</l>
+          <l>Я ссориться никак с графиней не намерен.</l>
+          <l>А не был потому, что с скукой пополам</l>
+          <l>Отсюда уезжал в деревню по делам;</l>
+          <l>И каково ж, мой друг, без милой жить в пустыне!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>А удовольствие писать... к своей графине?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Ах, нет!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="M">Ты не писал?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Ни разу, побожусь!</l>
+          <l>Зато я досыта теперь наговорюсь.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Так, стало, первая графиня начинает?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">А что?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Мне нравится, что оп не понимает!</l>
+          <l>Конечно, всякому признаться тяжело,</l>
+          <l>Но это долее таиться не могло.</l>
+          <stage>(Отдавая письмо)</stage>
+          <l>Возьми. Пусть говорят теперь, что я ревнивец.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Письмо!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Ну, что ж? Читай скорей его, счастливей!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>Возможно ли! Ах! дай себя расцеловать!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Оставь! - О, боже мой! Изволит обнимать!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Я слишком чувствую...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Не дружбы ли потерю?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>Мой друг! Я без ума - читаю и не верю.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Так, стало быть, в нем всё, что радостного есть?</l>
+          <l>Но чтоб увериться, мне надобно прочесть.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Прошу! Вот выдумал!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Ну, полно ж, что за шалость?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Божусь тебе, никак нельзя.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Имей же жалость,</l>
+          <l part="I">Эледин!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="M">Боже мой! Когда нельзя.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Так нет -</l>
+          <l part="I">Решительно?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Ну да - решительно секрет.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Так я узнаю же.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="M">Сомнительно.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Нисколько.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Увидим.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="M">Хорошо, увидим.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Да и только.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Так я вам докажу настойчивость мою, -</l>
+          <l part="I">Я требую письма!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">А я не отдаю.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 5</head>
+        <stage>Те же, Графиня и Светлана.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Что значит этот шум? Письмо! А, понимаю!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>Вступитесь, я за вас, графиня, погибаю.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>За любопытство страх как достается нам,</l>
+          <l>Но узнавать об том, что писано не к вам,</l>
+          <l>Не то ли самое? И ваши подозренья</l>
+          <l>Теряют, признаюсь, всю цену одолженья.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Графиня! Смею ли я вас подозревать?</l>
+          <l>Но если бы... чего нельзя предполагать,</l>
+          <l>Нечаянно нашлись секреты между вами,</l>
+          <l>То, верно б, вы об них мне рассказали сами.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Вы ошибаетесь, и разве скажет он.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="I">Клянусь, что никогда!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Что ж я за почтальон?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Так вам письмо отдать казалося обидно?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Напротив, для меня страх лестно...</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Это видно.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Зато он радости не мог преодолеть.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Вы шутите.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="M">Ах, нет!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Извольте посмотреть!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Мне очень жаль, что вы... не то чтобы ревнивы.</l>
+          <l part="I">А вспыльчивы.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Кто? Я? Как вы несправедливы!</l>
+          <l>И как осмелиться сердиться мне на вас?</l>
+          <l>Угодно ли, чтоб я отправился тотчас?..</l>
+          <l>Угодно ли, чтоб он остался здесь к услугам,</l>
+          <l>Чтоб мало ли о чем поговорить друг с другом?</l>
+          <l>Извольте. Боже мой! Вам стоит приказать,</l>
+          <l>И я с покорностью, чтоб вам не помешать,</l>
+          <l part="I">Уеду.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">Не шутя?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Лишь только прикажите.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Вы ехать можете куда себе хотите.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Серьезно?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Боже мой! Серьезнее нельзя!</l>
+          <l>И разве вас, сударь, удерживаю я?</l>
+          <l>А между тем мы вас надеемся дождаться -</l>
+          <l part="I">И мне есть надобность...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">С Элединым остаться.</l>
+          <l part="I">Не так ли?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Я ждала Эледина с утра.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Так, стало быть, давно уехать мне пора?</l>
+          <l>Теперь вы можете беседовать свободно,</l>
+          <l part="I">Я еду - и совсем готов.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Как вам угодно.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Ваш отзыв обо мне не слишком справедлив,</l>
+          <l>И, кажется, грешно сказать, что я ревнив.</l>
+          <stage>(Уходит.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 6</head>
+        <stage>Те же, кроме Пламирского.</stage>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>За что ж, графиня, он уехал поневоле?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Чтоб между тем к своей вы приучились роле.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>О! роль влюбленного меня не затруднит.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Надеюсь.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <stage>(Светлане)</stage>
+          <l part="F">Кто же меня за это наградит?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Ах, боже мой! Как вам не стыдно!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Поздравляю!</l>
+          <l>Признание ее, я очень понимаю,</l>
+          <l>Вас, верно бы, с ума от радости свело...</l>
+          <l>Но вы не знаете, как это тяжело.</l>
+          <l>Оно, мне кажется, из разговоров видно:</l>
+          <l part="I">"Ах, нет!", "Ах, да!" - или: "Как вам, сударь,</l>
+          <l part="F">не стыдно!"</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>Вы слишком для меня и милы и добры!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>И вы отплатите мне счастием сестры.</l>
+          <l>Сегодня надобно, однако ж, вам влюбиться</l>
+          <l part="I">В меня. Смотрите же, получше...</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Притвориться?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>А ты и струсила? Не бойся ничего -</l>
+          <l>И завтра же, мой друг, ты выйдешь за него,</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Как, завтра? Неужли?..</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Вам это так ужасно?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Но завтра...</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Для чего ж откладывать напрасно?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Нельзя ли, боже мой, хоть послезавтра?</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l part="F">Нет!</l>
+          <l>Я точно ли любим, докажет ваш ответ.</l>
+          <l>Ах! будьте искренны со мной без принужденья...</l>
+          <stage>(Становясь на колени)</stage>
+          <l>Я умоляю вас не делать затрудненья -</l>
+          <l>И не откладывать блаженства моего!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Пламирский!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <stage>(стоя на коленах, оборачивается к графине)</stage>
+          <l part="F">Боже мой! Не бойтесь ничего.</l>
+          <l part="I">Графиня, я клянусь.</l>
+          <stage>(тихо)</stage>
+          <l part="F">Пожалуйста, не смейтесь!</l>
+          <stage>(Громко)</stage>
+          <l part="I">Скажите, можно ли надеяться?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Надейтесь.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 7</head>
+        <stage>Те же и Пламирский.</stage>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Теперь уж не об чем мне больше узнавать.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Тем лучше, если вы умели отгадать.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>Он так перепугал, что я насилу ожил!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Мне очень совестно, что я вас потревожил.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>О! в эдаких вещах от вас я не таюсь.</l>
+          <l part="I">Вы так умны!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="M">И так услужлив!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Признаюсь,</l>
+          <l>И в доказательство, что дружбы изъясненья</l>
+          <l>Не только вам подать не могут подозренья,</l>
+          <l>Но, разумеется... приятны вам самим,</l>
+          <l>Я оставляю вас и ворочуся - с ним.</l>
+          <stage>(Уходит с Элединым.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 8</head>
+        <stage>Пламирский и Светлана.</stage>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И я надеялся быть истинно любимым!</l>
+          <l>Пусть делает она Эледина счастливым!</l>
+          <l>Пусть он тщеславится победой из побед!</l>
+          <l part="I">Пусть влюбится!..</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="M">Ах, нет!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="M">Пусть женится...</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Нет, нет!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Мы поквитаемся: презреньем за презренье!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Пламирский! Боже мой! Вы в страшном заблужденьи!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я в заблуждении! Но это, это что ж?..</l>
+          <l part="I">Не доказательство?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Помилуйте! Вольно ж</l>
+          <l>Всех мучить и самим терзаться из пустого.</l>
+          <l>Пускай они ушли... Ну что же тут дурного? -</l>
+          <l>Я больше вам сказать не смею ничего...</l>
+          <stage>(Тихо)</stage>
+          <l>Но уверяю вас, что любят не его.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Кого ж?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Вот видите, уж это слишком много.</l>
+          <l>Послушайтесь меня: исправьтесь, ради бога!</l>
+          <l>Старайтеся не всё так к сердцу принимать,</l>
+          <l>И вы узнаете, как весело прощать!</l>
+          <l>Неужли вы совсем сестрицу разлюбили?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я слов не нахожу! Вы жизнь мне возвратили!</l>
+          <l>И сколько б ни был я графиней оскорблен,</l>
+          <l>Могу ли не простить, когда я предпочтен?</l>
+          <l>Но прежде, нежели мне с нею помириться,</l>
+          <l part="I">Я требую...</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="M">Чего ж?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Позволить в вас влюбиться!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Ах, боже мой! Но я кокетства не терплю!</l>
+          <l part="I">Вы мне не нравитесь.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Я сам вас не люблю!</l>
+          <l>Кто может чувствами располагать свободно?</l>
+          <l>Я не мешаю вам любить кого угодно...</l>
+          <l>И вас не оскорбит притворная любовь,</l>
+          <l>Я только в вас влюблюсь на несколько часов!</l>
+          <l>Мы этой хитростью от хитростей отучим</l>
+          <l>И, верно, ревностью друг другу не наскучим.</l>
+          <l>Как натурально я вас стану обожать!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>И натурально я не стану отвечать.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Помилуйте! Ни в чем не будет прекословья.</l>
+          <l>Я только вас прошу исполнить два условья:</l>
+          <l>По-женски - взглядами мне несколько польстить,</l>
+          <l>И по-мужски - секрет наш в тайне сохранить.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Она осердится...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Мне этого и надо:</l>
+          <l>Посердится, простит... и будет очень рада.</l>
+          <l>И кто же может вас за это упрекать,</l>
+          <l>Что, в одолженье мне, решитесь помолчать.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Извольте.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 9</head>
+        <stage>Те же и Графиня.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">Вот и я!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Ах, боже мой, как скоро!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>У нас с Элединым всё кончилось без спора,</l>
+          <l>И с вами нужно мне теперь поговорить.</l>
+          <l part="I">Мне, право, совестно...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Охота вам шутить!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Ах, нет! Я не шутя прошу у вас прощенья.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>А я, чтоб поскорей вам кончить объясненья,</l>
+          <l part="I">Уйду.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <stage>(тихо Светлане)</stage>
+          <l part="F">Смотрите же: и тайна и любовь.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(тихо Пламирскому)</stage>
+          <l>Неколебимые - на несколько часов!</l>
+          <stage>(Уходит.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 10</head>
+        <stage>Графиня и Пламирский.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Моей нескромностью Эледин страх расстроен,</l>
+          <l part="I">Он беспокоится...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">А я так преспокоен.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Так вы поэтому не сердитесь на нас?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">За что?..</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">Что мы ушли?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Напротив, в добрый час!</l>
+          <l>Что ж за беда? Ушли, теперь пришли - и только.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">За это б пожурил иной.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">А я - нисколько.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Вы нынче над собой большую взяли власть.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Чтоб вам понравиться.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">И это будто страсть?</l>
+          <l>Ах, боже мой! Да вы, сударь, любовник редкой,</l>
+          <l>И я взбесилась бы, когда б была кокеткой!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Но вы кокетка ли? Я также не ревнив,</l>
+          <l>И уверяю вас, не так самолюбив,</l>
+          <l>Чтоб не видать, что я вам становлюся скучным,</l>
+          <l>Но чтобы дружески быть с вами неразлучным,</l>
+          <l>Чтоб недостатков в вас вперед не замечать,</l>
+          <l>Всегда вам нравиться, всегда вам угождать,</l>
+          <l>Я знаю, чем теперь воспользоваться должно,</l>
+          <l>И для моей любви нет жертвы невозможной.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Чего же больше мне? И жертвы, и любовь!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я жизнию для вас пожертвовать готов!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Увидим. Например, вы, кажется, искали</l>
+          <l part="I">Моей руки?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">И вы мне даже обещали.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Кто ж ваши думает оспоривать права?</l>
+          <l>Мне этого самой хотелося сперва,</l>
+          <l>Но если наскоро иное обещаешь,</l>
+          <l>То может встретиться, чего не ожидаешь.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Графиня?..</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">В женщинах непостоянства тьма.</l>
+          <l>Сначала вас они полюбят без ума,</l>
+          <l>А несколько спустя... разлюбят без пощады.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Как это весело!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <stage>(в сторону)</stage>
+          <l part="F">Он бесится с досады!</l>
+          <stage>(Вслух)</stage>
+          <l>Я также женщина и также, может быть,</l>
+          <l>Могу кого-нибудь любить и разлюбить,</l>
+          <l>Я очень чувствую, как много тут дурного...</l>
+          <l>Но если б, не шутя, влюбилась я в другого?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">То есть, в Эледина?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Да почему ж в него?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Да потому, что к вам нет ближе никого.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Но если б это был и точно он?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <stage>(в сторону)</stage>
+          <l part="F">Пустое!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Вас рассердило бы признание такое?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Вы ошибаетесь, кто это вам сказал?</l>
+          <l>Чтоб счастью вашему Пламирский помешал!</l>
+          <l>Ах нет, вы отказать мне можете свободно.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Вы соглашаетесь?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">На всё, что вам угодно.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Какое счастие!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Я поздравляю вас.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Я выйду за него сегодня ж.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Хоть сейчас.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Я не замешкаюсь.</l>
+          <stage>(В сторону)</stage>
+          <l part="F">Холодное созданье!</l>
+          <stage>(Вслух)</stage>
+          <l>Как свойственно любви такое состраданье!</l>
+          <l>Но жертва, признаюсь, такая не легка.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Когда она для вас, она не велика!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Но всё-таки оно вам несколько обидно?..</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Вы это видите.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">О, как же, очень видно!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Наружность иногда обманчива, зато</l>
+          <l>Я, может быть, в душе страдаю как никто!</l>
+          <l>И часто для того, чтоб сделать угожденье,</l>
+          <l>Веселым кажешься, а чувствуешь мученье.</l>
+          <l>Но и теперь, когда всё кончено со мной,</l>
+          <l>Когда, к несчастию, вам нравится другой,</l>
+          <l>Я всё употреблю, чтоб не расстаться с вами.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Вот новости!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Мой план похвалите вы сами.</l>
+          <l>Он затруднений нам не стоит никаких</l>
+          <l>И разом счастие составит четверых.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Но кто ж четвертая, сударь?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Сестрица ваша.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Моя сестра?..</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">От вас зависит участь наша!</l>
+          <l>Желанья моего она не затруднит.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">И вы уверены?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Вас это веселит,</l>
+          <l part="I">Не правда ли?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">И вы мне подали причину.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Какую вчетвером представим мы картину!</l>
+          <l>Вы будете любви прямое божество!</l>
+          <l>Эледин счастливый представит торжество!</l>
+          <l>Пламирский ревности изобразит тиранство,</l>
+          <l>А милая моя невеста - постоянство!</l>
+          <l>Когда ж выходите вы замуж за него?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Уж вы не женитесь скорее моего?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>О боже мой! но ждать покажется за вечность.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Я выйду завтра же.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Счастливая поспешность!</l>
+          <l>Теперь я никаких препятствий не боюсь</l>
+          <l>И в подражанье вам я завтра же женюсь.</l>
+          <l>В ее согласии я наперед уверен</l>
+          <l>И беспокоить вас собою не намерен.</l>
+          <l>Мне было б совестно Эледину мешать,</l>
+          <l>Он вздумает еще, пожалуй, ревновать</l>
+          <l>И подозрительным почтет мое участье.</l>
+          <l>Теперь от вас одних мое зависит счастье!</l>
+          <l>Я стою этого - вы знаете за что,</l>
+          <l>И больше моего не любит вас никто.</l>
+          <stage>(Уходит.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 11</head>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <stage>(одна)</stage>
+          <l>Вот, после этого испытывай!.. И чем же</l>
+          <l>Всё это кончилось? Он отплатил мне тем же!</l>
+          <l>Ревнивцев исправлять!.. Они не таковы.</l>
+          <l>И что мне вздумалось?.. Но вы, сударь, но вы,</l>
+          <l>Как вы осмелились мне подавать уроки?</l>
+          <l>Какие вы во мне находите пороки?</l>
+          <l>За что меня в глаза злословить и язвить?</l>
+          <l>Как смели вы меня другому уступить -</l>
+          <l>И не жалеть такой потери невозвратной?</l>
+          <l>Конечно, это вздор, - но вздор пренеприятный!</l>
+          <l>И кто ж соперница? Дитя в пятнадцать лет!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 12</head>
+        <stage>Графиня и Светлана.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">А, вы рассталися сейчас с Пламирским?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Нет.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Вы всё-таки его наслушались советов?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>И даже множество имеем с ним секретов.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Секреты? Но кому ж секреты ваши знать?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Я обещалася Пламирскому молчать.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Молчать!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Ах, боже мой! за что ж вы осердились?</l>
+          <l part="I">Он сам просил.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">А вы, вы тотчас согласились?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>На что же вам его напрасно огорчать?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Для удовольствия - его вам утешать.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>За это вы меня простите, без сомненья?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Простить, сударыня! Вы просите прошенья,</l>
+          <l part="I">А сами шепчетесь?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Чтоб тайну нашу скрыть.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Прекрасно!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Можно ли его не полюбить!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Конечно.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Надобно усиливать взаимность.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Как эта детская мне нравится наивность!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Вам это нравится-с?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Чтоб доказать, что да-с,</l>
+          <l>Он завтра ж женится - и именно на вас.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Ах, боже мой! Ну, вот чего не ожидала!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>И верно женится, когда я обещала.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Но не спросясь меня!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Он счастлив и любим.</l>
+          <l>Об чем тут спрашивать? И я в минуту с ним</l>
+          <l>Явлюсь и наперед невесту поздравляю.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Ах, нет! Я убегу.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">А я вам запрещаю.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Уж что бы ни было, а я не изменю.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <stage>(уходя)</stage>
+          <l>Уж что бы ни было, а я его женю.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 13</head>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(одна)</stage>
+          <l>Сестрица! Боже мой! Какое положенье!</l>
+          <l>Вот после этого пустись на одолженье,</l>
+          <l>И попадешь в беду: для одного молчишь,</l>
+          <l>А эта сердится, зачем не говоришь.</l>
+          <l>Что ж за приятности, ну сами согласитесь!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 14</head>
+        <stage>Светлана, Пламирский.</stage>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(увидя Пламирского, бежит к нему навстречу)</stage>
+          <l>Пожалуйста, на мне, Пламирский, не женитесь!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>На вас? Вот новости; да кто ж вас напугал?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Сестрица.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="M">Неужли?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(с живостью)</stage>
+          <l part="F">А кто вам приказал</l>
+          <l part="I">Ее испытывать, сердить...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Но почему же? -</l>
+          <l part="I">Тем лучше.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Боже мой! Но для меня-то хуже!</l>
+          <l>И надо обо всем тотчас ей рассказать.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Вы всё испортите.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Но можно ли молчать,</l>
+          <l part="I">Когда сбираются нас обвенчать!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Серьезно?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Когда вы женитесь, тогда уж будет поздно.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">А скоро?</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Боже мой, да завтра, не шутя.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И вы поверили? Ну, что вы за дитя!</l>
+          <l part="I">Она пугает вас.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Пожалуйста, бог знает!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Насильно же меня она не обвенчает,</l>
+          <l part="I">И я вас не пущу.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Нет, я не соглашусь.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Ах, вы погубите меня, я вам клянусь!</l>
+          <l part="I">Клянусь у ваших ног.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="F">Ах, встаньте, я пропала!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 15</head>
+        <stage>Те же и Графиня.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Вот сцена! Признаюсь, да это из "Фингала"!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Но в сценах эдаких нет редкости большой.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>О! разумеется, и даже никакой,</l>
+          <l>И даже Марс - и тот был пойман у Киприды!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И Баязет у ног прелестной Аталиды!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Да кто ж Роксана здесь? надеюсь, что не я.</l>
+          <stage>(Светлане)</stage>
+          <l part="I">Извольте выйти.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(уходя)</stage>
+          <l part="F">Ах, за что же на меня</l>
+          <l part="I">Вы вечно сердитесь?..</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <stage>(тихо Светлане)</stage>
+          <l part="F">Пожалуйста, не бойтесь.</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <stage>(тихо Пламирскому)</stage>
+          <l part="I">Так вы не женитесь на мне?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Не беспокойтесь.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 16</head>
+        <stage>Графиня и Пламирский.</stage>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Мне кажется, успех довольно ваш хорош?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Мне тоже кажется.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Помилуйте, чего ж</l>
+          <l>Вам более? Вы так друг к другу оба страстны-:</l>
+          <l part="I">И женитесь?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Когда на это вы согласны.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Я счастию сестры не думаю мешать.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И признаюсь, ее нельзя не... уважать.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">И обожать?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Сперва привязанность родится,</l>
+          <l part="I">А там.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Помилуйте, вам долго ли влюбиться?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Но всё-таки вы всех прелестнее собой!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>И завтра ж женится охотно на другой!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И завтра же женюсь, благодаря рассудок.</l>
+          <l>Он убедил меня, графиня, кроме шуток,</l>
+          <l>Что часто мы в одну наружность влюблены,</l>
+          <l>Что красота не есть достоинство жены,</l>
+          <l>И что любезный нрав, конечно, без ошибки,</l>
+          <l>Прочнее черных глаз и розовой улыбки.</l>
+          <l>Сестрица ваша так добра и молода,</l>
+          <l>Что я надеюся без всякого труда</l>
+          <l>Ее наклонностей быть первым впечатленьем.</l>
+          <l>Она меня прельстит любезным снисхожденьем,</l>
+          <l>Не станет никогда назло мне досаждать,</l>
+          <l>Но будет снисходить и с радостью прощать</l>
+          <l part="I">За слабости!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Но их не тысячи за вами.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Но слабости мои вы осуждали сами,</l>
+          <l>Я слишком родился с чувствительной душой,</l>
+          <l>И точно, мудрено быть счастливой со мной.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Но можно ли назвать чувствительность пороком?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я в положении был самом прежестоком,</l>
+          <l>А не исправился. Я вижу это сам.</l>
+          <l>Что нравилося мне, не нравилося вам!</l>
+          <l>И что ж прикажете, когда несходны нравы?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Но в этом не совсем, мне кажется, вы правы.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Их можно бы еще, конечно, согласить,</l>
+          <l>Но что потеряно, того не воротить.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Но всё-таки...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Теперь нет средства никакого -</l>
+          <l>И вы решительно уж выбрали другого.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Положим, но сейчас... Ах, боже мой, об чем</l>
+          <l part="I">Вы начали и вдруг...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Я думаю об том,</l>
+          <l part="I">Что как бы нужно мне исправиться.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Ах, точно!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И мне не удалось, однако ж, как нарочно!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Я не скажу...</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Я всё ужасно прихотлив,</l>
+          <l part="I">Упрям, взыскателен...</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">И, полноте!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Ревнив!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Немножко.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Ревности я страшно опасаюсь!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Напрасно!.. За сестру я смело вам ручаюсь.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я даже бы желал, вам искренно сказать,</l>
+          <l>Заставить и ее немножко ревновать.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Вы шутите?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Оно, конечно, не похвально -</l>
+          <l part="I">И, может быть, смешно.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Однако ж натурально!</l>
+          <l>И я смешного тут не вижу ничего.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>А сами между тем, графиня, никого,</l>
+          <l>По замечаниям моим, не ревновали?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Мне очень жаль, что вы так дурно замечали.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Возможно ли. И вы ревнивой быть могли?</l>
+          <l part="I">Но нет, вы шутите!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">Напротив.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Неужли?</l>
+          <l>Какое счастие! Так, стало быть, вы правы,</l>
+          <l>И как-то сходятся немножко наши нравы,</l>
+          <l part="I">Вы замечаете?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">И очень иногда.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И завтра ж должно нам расстаться навсегда!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Уж завтра! Но пока... я, кажется, свободна.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>И сам я не женат еще, когда угодно..</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Что до Эледина... он кажется... влюблен</l>
+          <l part="I">В сестру.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Возможно ли? Вот новость! Разве он</l>
+          <l part="I">Не в вас влюблен?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">Влюблен, но, кажется, напрасно!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">Как счастливо!..</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="F">А вот что несколько опасно:</l>
+          <l>Что, может быть, сестра в вас слишком влюблена?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я не скажу. Хоть я уверен, что она</l>
+          <l>Ко мне привязана, однако ж так послушна,</l>
+          <l>Что роковой удар снесет великодушно.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>На что ж решитесь вы, хотела б я узнать?</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Я думаю... зачем их счастию мешать?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="I">Я то же думаю.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Что можно посердиться</l>
+          <l>Немножко иногда, а там и помириться?</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Я то же думаю и между тем, пока</l>
+          <l>Мы объясняемся, вот вам моя рука.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Такого счастия я чувствую всю цену!</l>
+          <l>Простите ж мне теперь притворную измену,</l>
+          <l>Мне вам на опыте хотелось доказать,</l>
+          <l>Что не хотя любовь научит ревновать.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Ах, вы с Светланою меня перепугали.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Вы сами начали, а мы вам подражали.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l>Да, эдакий урок полезен иногда.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ЯВЛЕНИЕ 17</head>
+        <stage>Те же, Светлана и Эледин.</stage>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l>Ах, кстати, вот они! - Пожалуйте сюда</l>
+          <l>Скорей, мы кончили почти комедью нашу.</l>
+          <stage>(Светлане)</stage>
+          <l part="I">Вы дайте ручку мне.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <stage>(Эледину)</stage>
+          <l part="F">А вы мне дайте вашу.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <stage>(Светлане)</stage>
+          <l>Не бойтесь, боже мой! Ведь это для него,</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l part="I">Ах, с радостью!</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <stage>(соединяя Светлану с Элединым)</stage>
+          <l part="F">Люби и слушайся его.</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>Смотрите ж, ни на шаг от этих замечаний!</l>
+        </sp>
+        <sp who="#svetlana">
+          <speaker>Светлана</speaker>
+          <l>Смотрите ж, никогда не делать испытаний!</l>
+        </sp>
+        <sp who="#ehledin">
+          <speaker>Эледин</speaker>
+          <l>И не испытывать и век не ревновать.</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="I">По-моему.</l>
+        </sp>
+        <sp who="#grafinya">
+          <speaker>Графиня</speaker>
+          <l part="M">Дай бог!</l>
+        </sp>
+        <sp who="#plamirskij">
+          <speaker>Пламирский</speaker>
+          <l part="F">Вам стоит пожелать -</l>
+          <l>И всё исполнится, графиня, без сомненья:</l>
+          <l>Я отрекаюся навек от подозренья,</l>
+          <l>И счастья моего залогом быть должна</l>
+          <l>Любовь, доверенность и милая жена!</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
