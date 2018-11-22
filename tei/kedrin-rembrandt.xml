@@ -6,9 +6,9 @@
       <titleStmt>
         <title type="main" xml:lang="ru">Рембрандт</title>
         <title type="main" xml:lang="en">Rembrandt</title>
-        <title type="sub" xml:lang="ru">Драма в стихвх</title>
+        <title type="sub" xml:lang="ru">Драма в стихах</title>
         <title type="sub" xml:lang="en">Drama in Verse</title>
-        <author key="Wikidata:Q15070549">Кедрин, Дмитрий Борисович</author>
+        <author key="Wikidata:Q4218868">Кедрин, Дмитрий Борисович</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
@@ -142,7 +142,7 @@
             <person xml:id="pervyj_gorozhanin" sex="MALE">
               <persName>Первый горожанин</persName>
             </person>
-            <person xml:id="vtoroj_gorozhani" sex="MALE">
+            <person xml:id="vtoroj_gorozhanin" sex="MALE">
               <persName>Второй горожанин</persName>
             </person>
             <person xml:id="princ" sex="MALE">
@@ -171,7 +171,7 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">Драма в стихвх</term>
+          <term type="genreTitle">Драма в стихах</term>
         </keywords>
       </textClass>
     </profileDesc>
