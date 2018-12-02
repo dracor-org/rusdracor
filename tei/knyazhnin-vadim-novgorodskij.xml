@@ -1,63 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xml:lang="ru" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="main" xml:lang="ru">Вадим Новгородский</title>
+        <title type="main" xml:lang="en">Vadim of Novgorod</title>
         <title type="sub" xml:lang="ru">Трагедия в стихах, в пяти действиях</title>
+        <title type="sub" xml:lang="en">A Tragedy in Verse, in Five Acts</title>
         <author key="Wikidata:Q354505">Княжнин, Яков Борисович</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
         <idno type="URL">https://dracor.org/rus/knyazhnin-vadim-novgorodskij</idno>
-        <idno type="RusDraCor">100</idno>
+        <idno type="RusDraCor">136</idno>
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
             <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
           </licence>
         </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19138222</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Русская виртуальная библиотека (rvb.ru)</name>
           <idno type="URL">https://rvb.ru/18vek/knyazhnin/01text/01theatre/04.htm</idno>
-          <availability>
-            <licence>
-              <ab>CC BY 4.0</ab>
-              <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
-            </licence>
+          <availability status="free">
+            <p>In the public domain.</p>
           </availability>
         </bibl>
         <bibl type="originalSource">
           <title>Я.Б. Княжнин. Вадим Новгородский // Княжнин Я.Б. Избранные произведения. Л.:
-            Советский писатель, 1961. С. 249–304. (Библиотека поэта; Большая серия)</title>
-          <date type="written" when="1789">Конец 1788 или начало 1789</date>
+            Советский писатель, 1961. С. 249–304. (Библиотека поэта; Большая серия).</title>
+          <date type="print" when="1793">"Впервые — отдельное издание, СПб., 1793, и — с того же
+            набора, но с исправлением некоторых опечаток — РФ, ч. 39, 1793, стр. 123."
+            (rvb.ru)</date>
+          <date type="written"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="vigor">
+          <person xml:id="vigor" sex="MALE">
             <persName>Вигор</persName>
           </person>
-          <person sex="MALE" xml:id="prenest">
+          <person xml:id="prenest" sex="MALE">
             <persName>Пренест</persName>
           </person>
-          <person sex="MALE" xml:id="vadim">
+          <person xml:id="vadim" sex="MALE">
             <persName>Вадим</persName>
           </person>
-          <person sex="FEMALE" xml:id="selena">
+          <person xml:id="selena" sex="FEMALE">
             <persName>Селена</persName>
           </person>
-          <person sex="FEMALE" xml:id="ramida">
+          <person xml:id="ramida" sex="FEMALE">
             <persName>Рамида</persName>
           </person>
-          <person sex="MALE" xml:id="rurik">
+          <person xml:id="rurik" sex="MALE">
             <persName>Рурик</persName>
           </person>
-          <person sex="MALE" xml:id="izved">
+          <person xml:id="izved" sex="MALE">
             <persName>Извед</persName>
           </person>
         </listPerson>
@@ -67,7 +71,8 @@
   <text>
     <front>
       <docTitle>
-        <titlePart type="main">Трагедия в стихах, в пяти действиях</titlePart>
+        <titlePart type="main">Вадим Новгородский</titlePart>
+        <titlePart type="sub">Трагедия в стихах, в пяти действиях</titlePart>
       </docTitle>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
@@ -115,9 +120,9 @@
             <l>Увидит он себя в одной с рабами доле.</l>
             <l>Се он; и вслед за ним тех ратников толпы,</l>
             <l>Которых славы в путь вели его стопы.</l>
-            <pb n="251"/>
           </sp>
         </div>
+        <pb n="251"/>
         <div type="scene">
           <head>Явление 2</head>
           <stage>Вадим (за ним несколько военачальников, бывших с ним на войне), Пренест и
@@ -248,8 +253,8 @@
           <sp who="#vigor">
             <speaker>Вигор</speaker>
             <l>Как прежде, мы горим к отечеству любовью...</l>
-            <pb n="255"/>
           </sp>
+          <pb n="255"/>
           <sp who="#vadim">
             <speaker>Вадим</speaker>
             <l>Не словом, доказать то должно б — вашей кровью!</l>
@@ -340,8 +345,8 @@
             <l>Колико счастия сего мой дух алкает</l>
             <l>И сколько я мое отечество люблю, —</l>
             <l>С оружием в руках я то тебе явлю.</l>
-            <pb n="257"/>
           </sp>
+          <pb n="257"/>
           <sp who="#vigor">
             <speaker>Вигор</speaker>
             <l>Клянусь Перуновым я именем священным,</l>
@@ -385,8 +390,8 @@
             <l>Но твой успех моим желаньем становится.</l>
             <l>Блажен, когда, тебя обязан награждать,</l>
             <l>К Рамиде возмогу твой пламень увенчать.</l>
-            <pb n="258"/>
           </sp>
+          <pb n="258"/>
           <sp who="#prenest">
             <speaker>Пренест</speaker>
             <l>И дочерью твоей прекрасною прельщенный,</l>
@@ -439,10 +444,10 @@
             <l>Но я отечество себе предпочитаю.</l>
             <l>Спешу устроить всё, чтобы в грядущу ночь,</l>
             <l>Свободу здесь узрев, мою увидеть дочь.</l>
-            <pb n="260"/>
           </sp>
         </div>
       </div>
+      <pb n="260"/>
       <div type="act">
         <head>ДЕЙСТВИЕ ВТОРОЕ</head>
         <div type="scene">
@@ -700,8 +705,8 @@
             <l>Но — о, несчастия неизмерима верх! —</l>
             <l>Воззри и по сему познай прискорбну виду:</l>
             <l>Гнушаясь, не могу я не любить Рамиду.</l>
-            <pb n="266"/>
           </sp>
+          <pb n="266"/>
           <sp who="#ramida">
             <speaker>Рамида</speaker>
             <l>Ах, каждая твоя ужаснейшая речь,</l>
@@ -747,8 +752,8 @@
             <l>Что паче я всего родителя люблю;</l>
             <l>Что я, не знав вины, ужасну казнь терплю.</l>
             <l part="I">Открой преступок мой!</l>
-            <pb n="267"/>
           </sp>
+          <pb n="267"/>
           <sp who="#vadim">
             <speaker>Вадим</speaker>
             <l part="F">Ты страстию пылаешь</l>
@@ -841,8 +846,8 @@
             <l>Из сердца истребя жар гнусныя отравы,</l>
             <l>Со мною шествуя ко храму вечной славы,</l>
             <l>К тирану в ненависть любовь преобратить.</l>
-            <pb n="269"/>
           </sp>
+          <pb n="269"/>
           <sp who="#ramida">
             <speaker>Рамида</speaker>
             <l>Клянусь... хоть не могу сего я совершить...</l>
@@ -885,9 +890,9 @@
             <stage>(Увидя Пренеста)</stage>
             <l>Пренест! отечества к спасенью есть ли виды?</l>
             <l>Уже ль достоин ты руки моей Рамиды?</l>
-            <pb n="270"/>
           </sp>
         </div>
+        <pb n="270"/>
         <div type="scene">
           <head>Явление 4</head>
           <stage>Вадим, Рамида, Пренест.</stage>
@@ -1018,8 +1023,8 @@
             <l>Что слышу? Верить ли мне чувствиям моим?..</l>
             <stage>(К Вадиму)</stage>
             <l>Смятенно воинство отсутствием твоим...</l>
-            <pb n="273"/>
           </sp>
+          <pb n="273"/>
           <sp who="#vadim">
             <speaker>Вадим</speaker>
             <l part="I">Иду.</l>
@@ -1041,10 +1046,10 @@
             <l>Но тщетно быть Вигор не может унижен,</l>
             <l>И если должно мне лишитися Рамиды...</l>
             <l>Вострепещи, творя столь смертны мне обиды!</l>
-            <pb n="274"/>
           </sp>
         </div>
       </div>
+      <pb n="274"/>
       <div type="act">
         <head>ДЕЙСТВИЕ ТРЕТИЕ</head>
         <div type="scene">
@@ -1125,9 +1130,9 @@
             <speaker>Рамида</speaker>
             <l part="F">Мой дух изнемогает!</l>
             <l part="I">Сокроемся.</l>
-            <pb n="276"/>
           </sp>
         </div>
+        <pb n="276"/>
         <div type="scene">
           <head>Явление 2</head>
           <stage>Рамида, Селена, Рурик и Извед.</stage>
@@ -1172,8 +1177,8 @@
             <l>Тебя лишенного чем может свет прельщать?</l>
             <l>Рамиду потеряв, что наградит утрату?</l>
             <l>За нежность всю мою готовишь гроб в отплату!</l>
-            <pb n="277"/>
           </sp>
+          <pb n="277"/>
           <sp who="#ramida">
             <speaker>Рамида</speaker>
             <l>Коль дочь Вадимова, стеняща и слаба,</l>
@@ -1286,6 +1291,7 @@
             <l>Тот смертными один достойно обладает!</l>
             <l>Один достоин он бессмертных представлять</l>
             <l>И их владычество в порфире разделять.</l>
+            <stage>При сих словах вдали показывается Пренест.</stage>
             <l>Уверен, что твой дух, в волнении спокоен,</l>
             <l>Не будет твоего величья недостоин.</l>
             <l>Чтоб сердце страстно мог ты легче исцелить,</l>
@@ -1294,7 +1300,6 @@
             <l>Се он, ничтожный враг спокойствия царева!</l>
             <l>Спасителя сих стран достоин ли он гнева?</l>
           </sp>
-          <stage>При сих словах вдали показывается Пренест.</stage>
           <sp who="#rurik">
             <speaker>Рурик</speaker>
             <l>Пренест!.. О небеса, скрепите вы мой дух!</l>
@@ -1307,9 +1312,9 @@
           <sp who="#rurik">
             <speaker>Рурик</speaker>
             <l>Мне должно подтвердить мою несносну муку!</l>
-            <pb n="280"/>
           </sp>
         </div>
+        <pb n="280"/>
         <div type="scene">
           <head>Явление 4</head>
           <stage>Рурик, Пренест, Извед.</stage>
@@ -1467,10 +1472,10 @@
             <speaker>Пренест</speaker>
             <stage>(уходит)</stage>
             <l>Стремленье грозно толь меня не устрашит.</l>
-            <pb n="284"/>
           </sp>
         </div>
       </div>
+      <pb n="284"/>
       <div type="act">
         <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</head>
         <div type="scene">
@@ -1540,9 +1545,9 @@
             <l>Что добродетель есть стократ превыше их.</l>
             <l>Поди и кротости моей исполни волю.</l>
             <l>Я прав — и небесам мою вручаю долю!</l>
-            <pb n="286"/>
           </sp>
         </div>
+        <pb n="286"/>
         <div type="scene">
           <head>Явление 2</head>
           <sp who="#rurik">
@@ -1817,8 +1822,8 @@
             <speaker>Рурик</speaker>
             <l>В сей день предвидел ли толь лютую напасть,</l>
             <l>От сердца твоего я счастья ожидая?..</l>
-            <pb n="292"/>
           </sp>
+          <pb n="292"/>
           <sp who="#ramida">
             <speaker>Рамида</speaker>
             <l>На сердце я твоем надежду утверждая,</l>
@@ -1863,10 +1868,10 @@
             <speaker>Рамида</speaker>
             <l>Свершив к отцу мои я должности жестоки</l>
             <l>Не слезы по тебе пролью, но крови токи!</l>
-            <pb n="293"/>
           </sp>
         </div>
       </div>
+      <pb n="293"/>
       <div type="act">
         <head>ДЕЙСТВИЕ ПЯТОЕ</head>
         <div type="scene">
@@ -1900,9 +1905,9 @@
             <l>Исторгните с душой сию любовь беспрочну...</l>
             <l>Но звук пронзает слух!.. Свершилось всё!.. О, страх!</l>
             <l>Колеблется земля, и меркнет свет в глазах!..</l>
-            <pb n="294"/>
           </sp>
         </div>
+        <pb n="294"/>
         <div type="scene">
           <head>Явление 2</head>
           <stage>Вадим (обезоруженный, с толпою пленников, в провожании стражи из Руриковых воинов),
@@ -2083,8 +2088,8 @@
             <speaker>Вадим</speaker>
             <l>Наместо вольности небесной красоты</l>
             <l>Ты, своеволия являя нам черты...</l>
-            <pb n="298"/>
           </sp>
+          <pb n="298"/>
           <sp who="#rurik">
             <speaker>Рурик</speaker>
             <l>Дай кончить мне всё то, что я сказать желаю</l>
@@ -2325,11 +2330,10 @@
             <l>Чтоб быть невольником, быть должен я властитель!..</l>
             <l>Я буду, и себя с пути не совращу,</l>
             <l>Где, вам подобен став, вам, боги, отомщу!</l>
-            <pb n="304"/>
           </sp>
+          <pb n="304"/>
         </div>
       </div>
-
     </body>
   </text>
 </TEI>
