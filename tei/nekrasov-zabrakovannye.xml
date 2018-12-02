@@ -155,7 +155,7 @@
             <speaker>Григорий</speaker>
             <l part="F">Эк, как горланят дуры!</l>
           </sp>
-          <sp who="#pervaya devushka">
+          <sp who="#pervaya_devushka">
             <speaker>1-я девушка</speaker>
             <l>Бог на помочь.</l>
           </sp>
@@ -680,7 +680,7 @@
             <l part="F">Здравствуйте, девицы!</l>
             <l>Куда спешите? спойте песню нам.</l>
           </sp>
-          <sp who="#pervaya devushka">
+          <sp who="#pervaya_devushka">
             <speaker>1-я девушка</speaker>
             <l>Изволь, — споем, а ты нам на орехи</l>
             <l part="I">Пожалуй, барин.</l>
@@ -725,7 +725,7 @@
           <stage>В толпе девушек раздаются внезапные крики. Во время пляски, достигнув до края реки,
             одна из них наступила на притаившегося в кусту зайца, который кинулся со всех ног в
             бегство.</stage>
-          <sp who="#pervaya devushka #vtoraya_devushka #tretya_devushka">
+          <sp who="#pervaya_devushka #vtoraya_devushka #tretya_devushka">
             <speaker>Девушки</speaker>
             <l part="F">Ай-ай-ай-ай-ай-ай!</l>
           </sp>
@@ -733,7 +733,7 @@
             <speaker>Тузов</speaker>
             <l part="I">Что там такое?</l>
           </sp>
-          <sp who="#pervaya devushka #vtoraya_devushka #tretya_devushka">
+          <sp who="#pervaya_devushka #vtoraya_devushka #tretya_devushka">
             <speaker>Девушки</speaker>
             <l part="F">Заяц косоглазый!</l>
           </sp>
