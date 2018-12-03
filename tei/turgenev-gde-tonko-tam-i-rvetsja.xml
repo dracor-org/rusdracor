@@ -33,7 +33,7 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>Cобрание сочинений в десяти томах. Гослитиздат, Москва, 1961.</title>
+            <title>Собрание сочинений в десяти томах. Гослитиздат, Москва, 1961.</title>
             <date type="print" when="1848">"Впервые комедия опубликована: Совр, 1848, ? 11, с. 5–38,
               с посвящением Н. А. Тучковой." (rvb.ru)</date>
             <date type="premiere" when="1851">"Премьера комедии 'Где тонко, там и рвется' состоялась
@@ -105,7 +105,7 @@
         <head>Действующие лица</head>
         <castItem>Анна Васильевна Либанова, помещица, 40 лет.</castItem>
         <castItem>Вера Николаевна, ее дочь, 19 лет.</castItem>
-        <castItem>М-llе Bienaimé, компаньонка и гувернантка, 42 лет.</castItem>
+        <castItem>М-lle Bienaimé, компаньонка и гувернантка, 42 лет.</castItem>
         <castItem>Варвара Ивановна Морозова, родственница Либановой, 45 лет.</castItem>
         <castItem>Владимир Петрович Станицын, сосед, 28 лет.</castItem>
         <castItem>Евгений Андреич Горский, сосед, 26 лет.</castItem>
@@ -1930,14 +1930,14 @@
           <speaker>Г-жа Либанова.</speaker>
           <p>Ну, прощайте, mes enfants… Eugène, я вам их поручаю… Amusez-vous… Вот к вам на подмогу
             идет mademoiselle Bienaimé.</p>
-          <stage>Из гостиной входит m-llе Bienaimé.</stage>
+          <stage>Из гостиной входит m-lle Bienaimé.</stage>
           <p>Пойдемте, Варвара Ивановна!..</p>
         </sp>
         <stage>Уходит с Морозовой в гостиную. Воцаряется небольшое молчание.</stage>
       </div>
       <div type="configuration">
         <sp who="#mademoiselle_bienaime">
-          <speaker>М-llе Bienaimé</speaker>
+          <speaker>М-lle Bienaimé</speaker>
           <stage>(сухеньким голосом).</stage>
           <p>Eh bien, que ferons nous?</p>
         </sp>
@@ -1977,7 +1977,7 @@
           <p>Придумал, Иван Павлыч! Мы вот что сделаем. Сядем все кругом стола…</p>
         </sp>
         <sp who="#mademoiselle_bienaime">
-          <speaker>М-llе Bienaimé.</speaker>
+          <speaker>М-lle Bienaimé.</speaker>
           <p>Oh, ce sera charmant!</p>
         </sp>
         <sp who="#gorskij">
