@@ -1,0 +1,3444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Полоумный Журден</title>
+        <title type="main" xml:lang="en">Half-Witted Jourdain</title>
+        <title type="sub" xml:lang="ru">Мольериана в трех действиях</title>
+        <title type="sub" xml:lang="en">Molièriana in Three Acts</title>
+        <author key="Wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/bulgakov-poloumnyj-zhurden</idno>
+        <idno type="RusDraCor">141</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q16686899</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://lib.ru/BULGAKOW/jurden.txt</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Собр. соч. в 10 т. Т.6, М.: Голос, 1999.</title>
+            <date type="print" when="1965">"Дата первой публикации: 1965" (ru.wikipedia.org)</date>
+            <date type="premiere"/>
+            <date type="written" when="1932">"В начале осени 1932 года Булгаков, по предложению Ю.
+              А. Завадского, руководителя Государственного театра, приступает к переводу и адаптации
+              пьесы «Мещанин по дворянстве» Мольера. Уже в ноябре 1932 года работа была закончена."
+              (ru.wikipedia.org)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="bezhar" sex="MALE">
+            <persName>Бежар</persName>
+            <persName xml:lang="de">Béjart</persName>
+          </person>
+          <person xml:id="brendavuan" sex="MALE">
+            <persName>Брэндавуан</persName>
+            <persName xml:lang="de">Brindavouen</persName>
+          </person>
+          <person xml:id="juber" sex="MALE">
+            <persName>Юбер</persName>
+            <persName xml:lang="de">Hubert</persName>
+          </person>
+          <person xml:id="dju_kruazi" sex="MALE">
+            <persName>Дю Круази</persName>
+            <persName xml:lang="de">du Croisy</persName>
+          </person>
+          <person xml:id="uchitel_tantsev" sex="MALE">
+            <persName>Учитель танцев</persName>
+            <persName xml:lang="de">Tanzmeister</persName>
+          </person>
+          <person xml:id="uchitel_muzyki" sex="MALE">
+            <persName>Учитель музыки</persName>
+            <persName xml:lang="de">Musikmeister</persName>
+          </person>
+          <person xml:id="zhurden" sex="MALE">
+            <persName>Журден</persName>
+            <persName xml:lang="de">Jourdain</persName>
+          </person>
+          <person xml:id="uchitel_fehtovanija" sex="MALE">
+            <persName>Учитель фехтования</persName>
+            <persName xml:lang="de">Fechtmeister</persName>
+          </person>
+          <person xml:id="pevets" sex="MALE">
+            <persName>Певец</persName>
+            <persName xml:lang="de">Sänger</persName>
+          </person>
+          <person xml:id="pevitsa" sex="FEMALE">
+            <persName>Певица</persName>
+            <persName xml:lang="de">Sängerin</persName>
+          </person>
+          <person xml:id="nikol" sex="FEMALE">
+            <persName>Николь</persName>
+            <persName xml:lang="de">Nicole</persName>
+          </person>
+          <person xml:id="pankrass" sex="MALE">
+            <persName>Панкрасс</persName>
+            <persName xml:lang="de">Pancrace</persName>
+          </person>
+          <person xml:id="statuja" sex="MALE">
+            <persName>Статуя</persName>
+            <persName xml:lang="de">Statue</persName>
+          </person>
+          <person xml:id="don_zhuan" sex="MALE">
+            <persName>Дон Жуан</persName>
+            <persName xml:lang="de">Don Juan</persName>
+          </person>
+          <person xml:id="gospozha_zhurden" sex="FEMALE">
+            <persName>Госпожа Журден</persName>
+            <persName xml:lang="de">Madame Jourdain</persName>
+          </person>
+          <person xml:id="dorant" sex="MALE">
+            <persName>Дорант</persName>
+            <persName xml:lang="de">Dorante</persName>
+          </person>
+          <person xml:id="kleont" sex="MALE">
+            <persName>Клеонт</persName>
+            <persName xml:lang="de">Cleonte</persName>
+          </person>
+          <person xml:id="kovel" sex="MALE">
+            <persName>Ковьель</persName>
+            <persName xml:lang="de">Covielle</persName>
+          </person>
+          <person xml:id="ljusil" sex="FEMALE">
+            <persName>Люсиль</persName>
+            <persName xml:lang="de">Lucile</persName>
+          </person>
+          <person xml:id="dorimena" sex="FEMALE">
+            <persName>Доримена</persName>
+            <persName xml:lang="de">Dorimène</persName>
+          </person>
+          <person xml:id="portnoj" sex="MALE">
+            <persName>Портной</persName>
+            <persName xml:lang="de">Schneider</persName>
+          </person>
+          <person xml:id="notarius" sex="MALE">
+            <persName>Нотариус</persName>
+            <persName xml:lang="de">Notarius</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genreTitle">Мольериана в трех действиях</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-12-03">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Полоумный Журден</titlePart>
+        <titlePart type="sub">Мольериана в трех действиях</titlePart>
+      </docTitle>
+      <castList>
+        <head>ДЕЙСТВУЮЩИЕ:</head>
+        <castItem>Луи Бежар — актер (по пьесе — Журден).</castItem>
+        <castItem>Юбер — актер (по пьесе — госпожа Журден).</castItem>
+        <castItem>Госпожа Мольер — актриса (по пьесе — Люсиль).</castItem>
+        <castItem>Лагранж — актер (по пьесе — Клеонт).</castItem>
+        <castItem>Госпожа Дебри — актриса (по пьесе — Доримена).</castItem>
+        <castItem>Латорильер — актер (по пьесе — маркиз Дорант).</castItem>
+        <castItem>Госпожа Боваль — актриса (по пьесе — Николь).</castItem>
+        <castItem>Ковьель — актер (по пьесе — слуга Клеонта Ковьель).</castItem>
+        <castItem>Господин Дебри — актер (по пьесе — учитель фехтования).</castItem>
+        <castItem>Дю Круази — актер (по пьесе — философ Панкрасс).</castItem>
+        <castItem>Учитель театра и музыки.</castItem>
+        <castItem>Учитель танцев.</castItem>
+        <castItem>Брэндавуан — слуга Мольера (по пьесе — слуга Журдена).</castItem>
+        <castItem>Портной.</castItem>
+        <castItem>Нотариус.</castItem>
+        <castItem>Дон Жуан.</castItem>
+        <castItem>Статуя Командора.</castItem>
+        <castItem>Танцовщики, танцовщицы, музыканты, повара.</castItem>
+      </castList>
+      <set>
+        <p>Действие происходит в Париже в 1670 году.</p>
+      </set>
+    </front>
+    <body>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+        <sp who="#bezhar">
+          <speaker>Бежар</speaker>
+          <stage>(выходит из разреза занавеса в плаще и шляпе, с фонарем, прихрамывает).</stage>
+          <p>Благодарение небесам! Закончен день, и, признаюсь вам, господа, я устал. И что-то ноет
+            моя хромая нога. А что помогает моей ноге? Мускатное винцо. Где же взять это винцо? Оно
+            имеется в кабачке на улице Старой Голубятни. Идемте же в Старую Голубятню.</p>
+          <stage>(Начинает уходить под тихую музыку.)</stage>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан</speaker>
+          <stage>(в разрезе занавеса, с фонарем).</stage>
+          <p>Господин Бежар, не торопитесь так, вам есть письмецо.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар</speaker>
+          <stage>(делает вид, что не слышит, и идет, напевая).</stage>
+          <p>Ла-ла-ла-ла...</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Нет, нет, сударь, остановитесь, вам письмо.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>А? Что? Кто-то зовет меня? Нет, мне послышалось. <stage>(Идет.)</stage> Ла-ла-ла-ла...
+          </p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Нет, нет, сударь, бросьте, вам не послышалось, это я.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Ах, это вы, Брэндавуан? Ах, я совершенно вас не заметил. Как ваше здоровье? Хорошо, вы
+            говорите? Ну, очень рад. Так до свидания, Брэндавуан, я очень тороплюсь.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Нет, сударь, вам письмо.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Ах, дорогой Брэндавуан, мне его и вскрывать не хочется, ибо я и так знаю, что в нем
+            заключается.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>И, кроме того, пакет.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Ах, тем более. В пакете — роли, я вижу это ясно, ибо не однажды уже видел роли в
+            пакетах. Только их так небрежно перевязывают веревкой. И право, я с удовольствием бы
+            удавился на этой веревке. Итак, отложим это до утра, ибо утро вечера мудренее, как
+            говорит философия, и семь раз примерь и один раз отрежь и...</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>...и, сударь, это все очень хорошо, я сам люблю заниматься философией, но сейчас, к
+            сожалению, для нее нет времени, так как господин директор просил вас немедленно взяться
+            за это дело.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Так. Немедленно. <stage>(Открывает письмо.)</stage> Да, я это предчувствовал. О,
+            Брэндавуан! Прощай, Старая Голубятня, на сегодняшний вечер! Ну, дорогой Брэндавуан, в
+            благодарность за это письмо получайте роль Брэндавуана. </p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Помилуйте, сударь, я никогда в жизни не играл на сцене.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Тем интереснее вам будет.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Сударь, помилуйте, я ведь не актер, а слуга господина директора.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Слугу и будете играть, тем более что господин Мольер явно вас и описал. Не утомляйте
+            меня, Брэндавуан, сзывайте труппу.</p>
+          <stage>Брэндавуан исчезает в разрезе занавеса. Музыка стихает.</stage>
+          <p>Шамбор... о, бедная моя фантазия, до чего же не хватает тебе мускатного вина. С каким
+            наслаждением я побеседовал бы с приятелями в Старой Голубятне, сыграл бы в кости. Я не
+            чувствую ни малейшего желания попасть сейчас в объятия музы. Ах, вот и занавес.</p>
+          <stage>Занавес раскрывается. Сцена темна.</stage>
+          <p>Огня, Брэндавуан, огня! О, темная пасть, проглатывающая меня ежевечерне в течение
+            двадцати лет, и сегодня мне не избежать тебя. Гм... я не в голосе сегодня... О ты,
+            источник и отчаяния и вдохновения... А, черт возьми, я долго буду дожидаться?</p>
+        </sp>
+        <stage>Открываются люки, и из них поднимаются действующие лица с фонарями.</stage>
+        <sp who="#juber">
+          <speaker>Юбер.</speaker>
+          <p>В чем дело, хромой?</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Новая пьеса. Завтра спектакль у короля в Шамборе. Итак, Мольер болен. Я поведу
+            репетицию. По- прошу вас, не кричите все в одно время, я ничего не слышу. Брэндавуан,
+            суфлера!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Сударь, он здесь.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Итак, я буду краток. Господин Мольер заболел, и я буду играть главную роль Журдена.
+            Соль в том, что я сошел с ума.</p>
+        </sp>
+        <sp who="#juber">
+          <speaker>Юбер.</speaker>
+          <p>Я давно это стал замечать.</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Юбер!.. Я хочу сказать, я, то есть Журден, парижский мещанин, богатый человек,
+            помешался на том, что он — знатный дворянин, вот и все. <stage>(Госпоже Мольер.)</stage>
+            Люсиль — его дочь. Очаровательна, впрочем, как и вы в жизни. </p>
+          <stage>Госпожа Мольер исчезает.</stage>
+          <stage>(Лагранжу.)</stage>
+          <p>Клеонт — возлюбленный.</p>
+          <stage>Лагранж исчезает.</stage>
+          <p>Госпожа Дебри — Доримена, маркиза, хитрая, лживая женщина. Отнюдь не такая, как вы в
+            жизни.</p>
+          <stage>Госпожа Дебри исчезает.</stage>
+          <p>Господин Латорильер — маркиз Дорант, мошенник. Извините.</p>
+          <stage>Господин Латорильер исчезает.</stage>
+          <p>Госпожа Боваль! Николь, служанка Люсиль, словом, все понятно.</p>
+          <stage>Госпожа Боваль исчезает.</stage>
+          <p>Дю Круази — педант, философ Панкрасс.</p>
+        </sp>
+        <sp who="#dju_kruazi">
+          <speaker>Дю Круази.</speaker>
+          <p>Позволь, ты слишком краток. Хотя бы я знал, в чем дело?</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Филибер, мне ли тебя учить? В чем сущность педанта? Парик, смешная шляпа, плащ.
+            Провались, Дю Круази.</p>
+          <stage>Дю Круази исчезает в люке, затем выскакивает в виде Педанта.</stage>
+          <p>Вот, ты всегда славился быстротой своей работы.</p>
+          <stage>Дю Круази исчезает.</stage>
+          <stage>(Одному из актеров.)</stage>
+          <p>Ковьель — хитрый, умный слуга Клеонта.</p>
+          <stage>Ковьель исчезает.</stage>
+          <stage>(Трем актерам.)</stage>
+          <p>И, наконец, господин Дебри и вы двое — учитель фехтования, учитель музыки и театра и
+            учитель танцев, присосались к бедному Журдену и тянут из него деньги, развлекая его
+            всякими представлениями.</p>
+          <stage>Дебри и Учитель танцев исчезают.</stage>
+          <p>Гм... Портной, нотариус, танцовщики... ага, это все на месте... Брэндавуан! Освети мне
+            волшебную приемную господина Журдена!</p>
+        </sp>
+        <stage>Сцена волшебно изменяется.</stage>
+        <sp who="#juber">
+          <speaker>Юбер.</speaker>
+          <p>Я, стало быть, свободен?</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>О нет, дорогой Юбер. Ты — моя старая и верная жена.</p>
+          <stage>(Обнимает и целует Юбера трижды.)</stage>
+        </sp>
+        <sp who="#juber">
+          <speaker>Юбер.</speaker>
+          <p>О, как мне надоели женские роли!</p>
+          <stage>(Проваливается.)</stage>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар.</speaker>
+          <p>Брэндавуан, сними с меня штаны.</p>
+          <stage>Брэндавуан начинает снимать с Бежара штаны.</stage>
+          <p>Ах, я забыл, что здесь публика. Ко мне в спальню, Брэндавуан. А вы, господа, дело вот в
+            чем... Утро. Начинается день господина Журдена. Учитель музыки подсматривает в щелку,
+            как одевает Журдена Брэндавуан... Начали.</p>
+        </sp>
+        <stage>Бежар скрывается за дверь с Брэндавуаном. Учитель музыки, спиною к публике, смотрит в
+          щелку. Другая дверь открывается, входит Учитель танцев.</stage>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев</speaker>
+          <stage>(про себя).</stage>
+          <p>Этот уже на месте. Проворен. <stage>(Громко.)</stage> Здравствуйте. </p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки</speaker>
+          <stage>(не отрываясь от щелки).</stage>
+          <p>Здравствуйте.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев</speaker>
+          <stage>(становясь на стул, подглядывает).</stage>
+          <p>Вы что-нибудь видите?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Да. Брэндавуан надевает на него штаны. Малиновые.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Да... Дела... <stage>(Пауза.)</stage> А вы, сударь, как я вижу, ежедневно навещаете
+            господина Журдена? </p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Да. И вы тоже.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Но вы здесь с самого раннего утра. Мне никогда не приходилось слышать, чтобы серенады
+            распевались с самого утра.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Ну да, вы, конечно, предпочитаете, чтобы ваш клиент плясал с утра.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Это полезнее, чем горло драть.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Конечно, конечно, с утра полезнее дрыгать ногами.</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев</speaker>
+          <stage>(шепотом).</stage>
+          <p>Знаете, было бы гораздо лучше, если бы мы с вами не ссорились.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Вы находите?</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Да-с... Я объясню вам свою мысль. С тех пор как почтенный хозяин спятил, слишком много
+            народу увивается вокруг него. Согласитесь, что, ссорясь, мы только повредим друг другу и
+            что кто-нибудь другой займет наше место.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Вы умный человек, милостивый государь.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Благодарю вас, сударь. Итак, союз?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Союз.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Мне, например, не нравится этот длинный подлиза со шпагой.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Учитель фехтования?</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Да. Его необходимо выжить из дому. Тссс... идет Журден.</p>
+        </sp>
+        <stage>Торжественно появляется Журден, а за ним Брэндавуан.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Здравствуйте, господа преподаватели.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija #uchitel_muzyki #uchitel_tantsev">
+          <speaker>Учителя.</speaker>
+          <p>Как чувствуете вы себя, господин Журден?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я заставил вас ждать, господа? Но виноват мой портной. Это дрянь, а не портной. Он
+            сделал такие узкие штаны, что я еле поворачиваюсь в них. Как вы находите их?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Исключительные штаны.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Занятные люди по утрам носят такие штаны. Это мои утренние штаны.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Они вам удивительно к лицу.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Благодарю вас. Итак, с чего мы начнем сегодняшний урок театра?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Благоволите прослушать, господин Журден, серенаду, сочиненную одним из моих
+            учеников.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Очень хорошо. Брэндавуан!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Что угодно, сударь?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Мне ничего не угодно. Я просто проверял, тут ли ты. Впрочем, нет, надень на меня
+            халат.</p>
+          <stage>Брэндавуан надевает на Журдена халат.</stage>
+          <p>Брэндавуан! Сними с меня халат. Я раздумал. Ну итак, слушаю серенаду.</p>
+        </sp>
+        <sp who="#pevets #pevitsa">
+          <speaker>Открывается второй занавес, и на эстраде выступают Певец и Певица — поют под
+            аккомпанемент струнных:</speaker>
+          <l>Я изнываю день и ночь,</l>
+          <l>Никто не в силах мне помочь.</l>
+          <l>Прекрасная Ирис...</l>
+        </sp>
+        <sp who="#zhurden">
+          <p>Нет, не могу больше! Ах черт!..</p>
+        </sp>
+        <stage>Пение прекращается.</stage>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Виноват, господин Журден...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Это не сапожник, это каналья! Не могу больше, до того жмут, Брэндавуан! Сними с меня
+            башмаки. Продолжайте господа.</p>
+        </sp>
+        <sp who="#pevets #pevitsa">
+          <stage>Пение:</stage>
+          <l>Прекрасная Ирис,</l>
+          <l>Сердце мое в крови,</l>
+          <l>Я погибаю от любви...</l>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Как вы находите?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Да, песня мрачновата. На кладбище тянет. Признаюсь вам, мне не хочется ее учить. А вот
+            на днях я слышал песенку. Превосходная песенка!</p>
+          <stage>(Поет.)</stage>
+          <l>Ах, милей Жаннеты нету,</l>
+          <l>Полюбил и я Жаннету.</l>
+          <l>Меня Жаннета заманила,</l>
+          <l>А потом и изменила.</l>
+          <p>Хорошая песня?</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Превосходно. И мило и просто!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>А я хорошо пою?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Превосходно. Просто хорошо. Вот ее и будем учить.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну-с, теперь танцы.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Внимание. Менуэт.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я люблю менуэт.</p>
+        </sp>
+        <stage>Играет менуэт. Танцовщик и Танцовщица танцуют.</stage>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Ну-с, пожалуйте, сударь, на сцену. Благоволите повторять.</p>
+        </sp>
+        <stage>Все поют: ла-ла-ла-ла...</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Меня немножко смущает, видите ли, что я хромаю.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Кто хромает? Вы? С чего вы это взяли, господин Журден?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Неужели это незаметно?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Совершенно незаметно.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Ну-с, итак, а-ла-ла-лала-ла... Не шевелите плечами! Выворачивайте носки!
+            А-ла-лала-ла...</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Браво, браво!</p>
+        </sp>
+        <stage>Появляется Учитель фехтования.</stage>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Доброе утро, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Аа!</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев</speaker>
+          <stage>(Учителю музыки).</stage>
+          <p>Явился, негодяй!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну-с, господа, теперь урок фехтования.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>А вот напрасно, сударь, вы танцевали до урока фехтования. Это зря, утомляет.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Простите, сударь, танцы никого не утомляют. Утомляет фехтование.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Сударь, не слушайте господина танцмейстера.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Сударь, я не советовал бы вам прислушиваться к тому, что говорит господин
+            фехтовальщик.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господа, господа, не будем ссориться. Знатные люди совмещают и танцы и фехтование.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Итак, сударь, берите шпагу. Поклон. Корпус прямо. Голову тоже прямо. Так. Раз, два.
+            Начинайте, сударь. Выпадайте. Плохо выпали.</p>
+          <stage>(Колет Журдена.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ох... Господи...</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Еще удар. Раз, два. Выпадайте. Плохо выпали.</p>
+          <stage>(Колет Журдена.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Мать, Пресвятая Богородица...</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Прыжок назад. Еще раз выпадайте. Плохо выпали.</p>
+          <stage>(Колет Журдена.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Святая Дева...</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Она вам не поможет. Прыжок вперед. Выпадайте. Плохо выпали. Опять плохо выпали.</p>
+          <stage>(Колет Журдена.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(выпадает, разбивает вазу).</stage>
+          <p>Ox...</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Хорошо выпали.</p>
+          <stage>(Колет Журдена, разрывает на нем камзол.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(садясь на пол).</stage>
+          <p>Сдаюсь.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Ну, достаточно на сей раз. Хватит. Видите, сударь, какое это искусство.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вижу.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Искусство фехтования значительно выше этих всяких танцев и тому подобной музыки.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Извините, господа, я пойду переменить камзол. Брэндавуан!</p>
+          <stage>(Уходит с Брэндавуаном.)</stage>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Вы, сударь, сказали, что искусство фехтования выше, чем танцы?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Сказал.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>И выше, чем музыка и театр?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Выше.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Это хамство, сударь.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Напротив, это вы — дурак.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Я вам дам по уху.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>И я тоже.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Попробуйте.</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>И попробую.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Попробуйте!</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>И попробую!</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Попробуйте!</p>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Уговорили вы меня.</p>
+          <stage>(Бьет Учителя фехтования.)</stage>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Правильно!</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Так! Поклон. Корпус прямо. Раз, два. Выпадаю.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки</speaker>
+          <stage>(сзади).</stage>
+          <p>Плохо выпали!</p>
+          <stage>(Бьет Учителя фехтования.)</stage>
+        </sp>
+        <stage>Учитель танцев, вырвав шпагу у Учителя фехтования, бьет его.</stage>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования</speaker>
+          <stage>(кричит).</stage>
+          <p>Караул!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь</speaker>
+          <stage>(вбегая).</stage>
+          <p>Батюшки, этого не хватало! <stage>(Скрывается с криком.)</stage> Господин Журден!
+            Господин Журден! Ваши учителя подрались! </p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(вбежав в другом камзоле).</stage>
+          <p>Господа! Господа! Что вы делаете? Господа! Господа!</p>
+        </sp>
+        <stage>Меняется свет, и из люка появляется философ Панкрасс.</stage>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Что за гам? Что за содом? Мне кажется, что здесь избивают человека?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Чистейшая правда, господин философ. Они чуть не ухлопали его совсем. Господа! Господин
+            философ, умоляю, успокойте их. Господа, учитель Философии, господин Панкрасс.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Я успокою. В чем дело, сударь?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования</speaker>
+          <stage>(плача).</stage>
+          <p>Они меня поколотили.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Почему же вы не закололи их?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Вот я на них в суд подам, будут они знать.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Спокойствие. Прежде всего, сударь, измените вашу манеру выражаться. Вы должны были
+            сказать: мне кажется, что меня поколотили.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Как — кажется?!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господа, берите стулья. Это замечательный человек, он моментально вам все объяснит.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Как — кажется?!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Сударь, философия учит нас, что не должно быть вполне решительных суждений. Вам может
+            казаться, а факт на самом деле может и не существовать.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну, вот видите.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Чего видите? Это глупости какие-то!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>И опять-таки вам кажется, что это глупости.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну вот, я вам говорил.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Но позвольте, у меня на физиономии синяк!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Вам кажется, что он на физиономии.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Ничего не понимаю!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Вам кажется, что вы ничего не понимаете! Вы сейчас все поймете. Изложите мне ваше
+            дело.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Дело в том, что эти два негодяя...</p>
+        </sp>
+        <sp who="#uchitel_muzyki #uchitel_tantsev">
+          <speaker>Учитель музыки. Учитель танцев.</speaker>
+          <p>Мы тебе покажем негодяев!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господа, господа...</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Прежде всего, на каком языке вы хотите со мной говорить?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>На том, который у меня во рту.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Вы не поняли.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вы не поняли.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>На каком наречии? Хотите, по-гречески?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ах, черт...</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>По-латыни?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>По-сирийски?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>По-еврейски?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>По-арабски? Давайте, давайте.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Да нет же.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>По-итальянски, по-испански, по-английски, по-немецки?</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Нет. На родном языке.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>А-а! На родном. В таком случае, прошу вас, перейдите к этому уху. Это ухо предназначено
+            у меня для иностранных языков, а это отдельно, — для родного.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Это болван, а не философ.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Вам кажется, что я болван.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вам кажется.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Тьфу!</p>
+          <stage>(Плюет в Панкрасса.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что вы делаете? Господин философ, простите!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Пожалуйста, пожалуйста, он не попал.</p>
+        </sp>
+        <sp who="#uchitel_fehtovanija">
+          <speaker>Учитель фехтования.</speaker>
+          <p>Ты черт или человек?!</p>
+          <stage>(Бросается на Панкрасса.)</stage>
+        </sp>
+        <stage>Журден подворачивается и получает по физиономии.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Спасибо! Что же это такое?</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Ничего, ничего, он даже и не коснулся меня.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Но позвольте...</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Только одно — не гневайтесь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я не буду гневаться. Гоните его вон, подлеца! И навсегда из дому!</p>
+        </sp>
+        <sp who="#uchitel_muzyki #uchitel_tantsev">
+          <speaker>Учитель музыки. Учитель танцев.</speaker>
+          <p>Давно пора! С удовольствием!</p>
+        </sp>
+        <stage>Учителя музыки и танцев схватывают Учителя фехтования и волокут его вон.</stage>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Без гнева, без гнева, господин Журден.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я без гнева. Негодяй!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Ну-с, чем же мы сегодня займемся, господин Журден?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Видите ли... я влюблен... Что вы по этому поводу скажете?</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Скажу, что это возможно.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Очаровательная женщина!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>И это возможно.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Мне хотелось бы ей послать любовную записку.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>И это возможно. Стихами или прозой?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Не стихами и не прозой.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>А вот это невозможно.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Почему?</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Существуют только или стихи, или проза. Никак иначе ни писать, ни говорить нельзя.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я потрясен. Спасибо вам за это открытие. Но позвольте, а в театре? Я бы хотел, чтобы
+            было как в театре, так же красиво.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Все равно — или проза или стихи.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господин учитель театра и музыки!</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки</speaker>
+          <stage>(появляется).</stage>
+          <p>Да, да, я здесь, господин Журден.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вы не могли бы сейчас представить нам что-нибудь театральное, только прозой?</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Ничего нет легче, сударь. Разрешите, я вам покажу заключительную сцену из "Дон Жуана",
+            сочинение господина Мольера?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господин философ, берите стул.</p>
+        </sp>
+        <sp who="#uchitel_muzyki">
+          <speaker>Учитель музыки.</speaker>
+          <p>Эй, финал "Дон Жуана" для господина Журдена.</p>
+        </sp>
+        <stage>Свет меняется, раскрывается занавес. На сцене Дон Жуан. Возникает Статуя
+          Командора.</stage>
+        <sp who="#statuja">
+          <speaker>Статуя.</speaker>
+          <p>Остановитесь, Дон Жуан. Вчера вы дали мне слово откушать со мной.</p>
+        </sp>
+        <sp who="#don_zhuan">
+          <speaker>Дон Жуан.</speaker>
+          <p>Да. Куда идти?</p>
+        </sp>
+        <sp who="#statuja">
+          <speaker>Статуя.</speaker>
+          <p>Дайте мне руку.</p>
+        </sp>
+        <sp who="#don_zhuan">
+          <speaker>Дон Жуан.</speaker>
+          <p>Вот она.</p>
+        </sp>
+        <sp who="#statuja">
+          <speaker>Статуя.</speaker>
+          <p>Дон Жуан, закоренелость в грехе ведет ужасной смерти!</p>
+        </sp>
+        <sp who="#don_zhuan">
+          <speaker>Дон Жуан.</speaker>
+          <p>Что я чувствую! Невидимый огонь жжет меня!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Проза?</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Она.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден</speaker>
+          <stage>(возникнув внезапно, обращается к Статуе).</stage>
+          <p>Пошел вон!</p>
+        </sp>
+        <sp who="#statuja">
+          <speaker>Статуя.</speaker>
+          <p>Виноват, кто?</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден</speaker>
+          <stage>(Дон Жуану и Статуе).</stage>
+          <p>Оба пошли вон из моего дома сию секунду! Провалитесь!</p>
+        </sp>
+        <stage>Дон Жуан и Статуя проваливаются.</stage>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Мне кажется, что это ваша супруга?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Увы. На сей раз это вам не кажется, Это она на самом деле. О Боже мой. Прозой умоляю
+            тебя, не устраивай скандала при учителе!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Что же такое творится в доме?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ничего не делается. Просто мы смотрели "Дон Жуана".</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Это Дон Жуан разбил лучшую вазу? Это Дон Жуан топал здесь, как лошадь? Что делается в
+            нашем доме?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Крошка моя, успокойся.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Какая я тебе крошка! Что это за крошка! Ты смеешься надо мной, старый безобразник!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вот какая пошла проза, господин философ. Перейди к этому уху... то есть, нет, не
+            переходи...</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Без гнева, сударыня.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Этот шут еще вмешивается!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что ты говоришь! Это философ Панкрасс. <stage>(Панкрассу.)</stage> Сударь, мы окончим
+            урок в другое время... Видите... </p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Да, мне кажется, что я вижу... До свиданья, сударь.</p>
+          <stage>(Уходит.)</stage>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Что это такое? Ведь это же срам! Ты окончательно спятил, с тех пор как вообразил, что
+            ты знатный дворянин, — с утра в доме безобразие, какие-то шуты гороховые, музыка,
+            соседей стыдно! Почтенный человек! Совершенно ополоумел! Вместо того. чтобы заниматься
+            своей лавкой, куролесит!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Замолчи, невежественная женщина!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Кто такая невежественная женщина? Нагнал полный дом всякого сброда! Чего стоит один
+            этот знатный проходимец с кружевами на, штанах, который сосет из тебя деньги! Этот
+            мошенник!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Кто такой этот мошенник?</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан</speaker>
+          <stage>(появляясь).</stage>
+          <p>Маркиз Дорант.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Тссс!... Замолчи сию минуту!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(появляется).</stage>
+          <p>Милейший Журден! Как ваше здоровье?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>О маркиз! Какая честь! Мое здоровье превосходно!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Прежде всего прошу вас, господин Журден, немедленно накройтесь шляпой, вы
+            простудитесь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ни за что, маркиз.</p>
+          <stage>(Остается с непокрытой головой.)</stage>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Господин Журден, вы вынудите меня удалиться.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вы? Удалиться? Я надеваю шляпу.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Ба! Как вы прекрасно одеты! По утрам так одеваются только придворные кавалеры.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я похож на придворного кавалера?</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Если вы не похожи на него, пусть отсохнет мой язык.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Маркиз, если бы у вас отсох язык, я умер бы с горя.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>А если бы вы умерли, то в свою очередь немедленно умер бы я. Тоже с горя. Позвольте мне
+            вас поцеловать, господин Журден.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ни за что! Я не могу допустить этой чести!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Нет, нет. Я проснулся сегодня с мыслью, что мне предстоит что-то очень приятное. Я
+            подумал: я поцелую сегодня господина Журдена. <stage>(Целует.)</stage> Одна щека готова.
+            Позвольте другую. </p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Вот мерзкий подлиза!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Виноват! А! Госпожа Журден! Простите, я вас не заметил.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Пожалуйста, пожалуйста...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Вашу ручку, госпожа Журден.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Не беспокойтесь, не беспокойтесь...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Госпожа Журден не в духе.</p>
+          <stage>Госпожа Журден ворчит.</stage>
+          <p>Ну-с, милейший Журден, я приехал к вам, чтобы свести с вами счет.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(тихо, госпоже Журден).</stage>
+          <p>Видала? Какая ты свинья. <stage>(Доранту.)</stage> Сударь, в этом нет никакой
+            надобности. </p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Ни слова, Журден. Я привык быть аккуратным в своих делах. Итак, сколько же я вам
+            должен?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я составил маленький мемуарчик. Вот он. Вначале вам было дано двести ливров.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Совершенно верно.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Далее по трем счетам вашим я уплатил... портным пять тысяч ливров... в магазины...
+            седельному мастеру... всего пятнадцать тысяч восемьсот ливров.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Идеально верно. Прибавьте к этому те двести ливров, которые я возьму у вас сейчас, и
+            будет ровно шестнадцать тысяч ливров.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Боже, какой мерзавец!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Виноват, сударыня...</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Нет, ничего. Это я просто сказала, что господин Журден дурак.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Помилуйте, сударыня, он очень умный человек.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Тьфу!</p>
+          <stage>(Плюет и уходит.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Слушаю, маркиз, я сейчас их вам принесу.</p>
+          <stage>(Уходит.)</stage>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(один).</stage>
+          <p>Дела мои дрянь, господа. Хуже всего то, что он влюблен в Доримену, не зная того, что я
+            сделал ей предложение. А между тем не жениться мне на Доримене нельзя. Если я не овладею
+            ее состоянием, я пропаду в лапах у кредиторов. Да, роль моя не особенно красива, но что
+            же поделаешь. <stage>(Входящему Журдену.)</stage> Может быть, вас это затрудняет, милый
+            Журден? </p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ничуть, маркиз! Для вас я готов на все.</p>
+          <stage>(Вручает деньги.)</stage>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Может быть, я вам в свою очередь могу быть чем-нибудь полезен?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(шепотом).</stage>
+          <p>Я хотел бы узнать маркиз, относительно...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Я понимаю вас с полуслова. Маркиза Доримена, в которую вы влюблены, чувствует себя
+            превосходно. <stage>(Про себя.)</stage> Ох, сейчас спросит про кольцо, чувствую... </p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>А это кольцо...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Я понял вас с полуслова. Вы хотите спросить, понравилось ли ей то бриллиантовое кольцо,
+            которое вы ей подарили и передали через меня?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вы угадали.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Она была в восторге.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>А, скажите, когда...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Я понял вас с полуслова...</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден</speaker>
+          <stage>(тихо появившись).</stage>
+          <p>Не нравится мне этот разговор. <stage>(Шепотом.)</stage> Николь! </p>
+          <stage>Николь тихо появляется.</stage>
+          <stage>(Тихо.)</stage>
+          <p>Подслушай, о чем они говорят.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(тихо).</stage>
+          <p>Я намерен завтра позвать к вам обедать... маркизу Доримену...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Неужели меня ждет такое счастье?</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Ждет.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я думаю сплавить мою драгоценную супругу... <stage>(Замечает Николь, дает ей
+              пощечину.)</stage> Ах, дрянь! <stage>(Доранту.)</stage> Уйдемте отсюда. </p>
+          <stage>(Уходит с Дорантом.)</stage>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь</speaker>
+          <stage>(держась за щеку, госпоже Журден).</stage>
+          <p>Вот, сударыня... видите...</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Ничего, моя бедная Николь, я награжу тебя. О чем говорили эти подлецы?</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ох, сударыня, ваш драгоценный затевает шашни с некоей маркизой Дорименой.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Мерзавец! Не прошло и двадцати четырех лет с тех пор, как мы женаты, а он уже разлюбил
+            меня!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Не расстраивайтесь, сударыня.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Я и не думаю расстраиваться. Просто я беспокоюсь, что он спустит все состояние, и
+            бедная моя дочурка останется без приданого. Ну, вот что, дальше так продолжаться не
+            может. Немедленно посылай Брэндавуана к Клеонту, чтобы он спешил и сделал Люсиль
+            предложение. Иначе все погибнет.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Сударыня, спешу, лечу.</p>
+          <stage>Госпожа Журден уходит.</stage>
+          <p>Брэндавуан! Брэндавуан!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан</speaker>
+          <stage>(входя).</stage>
+          <p>Чего тебе?</p>
+        </sp>
+        <stage>Начинает идти занавес.</stage>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Беги сейчас же к Клеонту, барыня велела, и зови его сюда.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Чего б там барыня ни велела, я не могу позвать его сюда, потому что конец действия.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь</speaker>
+          <stage>(публике).</stage>
+          <p>Антракт.</p>
+        </sp>
+        <stage>Занавес.</stage>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
+        <sp who="#nikol">
+          <speaker>Николь</speaker>
+          <stage>(Брэндавуану).</stage>
+          <p>Ну, иди же за Клеонтом скорее.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Не за чем идти, вот они сами идут сюда.</p>
+        </sp>
+        <stage>Брэндавуан уходит. Входят Клеонт и Ковьель.</stage>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ах,до чего вы кстати, господин Клеонт. А мы только что хотели за вами послать.
+            Здравствуй, Ковьель.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Пошла ты к черту!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Что это значит?!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Отправляйся к своеи вероломной барышне и сообщи ей, что Клеонт не позволит смеяться над
+            собою.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Что такое? Ничего не понимаю. Ковьель, в чем дело?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сгинь.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ну, поздравляю. Наш хозяин спятил, и эти двое тоже. Пойду расскажу барышне.</p>
+          <stage>(Убегает.)</stage>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Так поступить с верным и преданным возлюбленным?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Да, сударь, уж и отмочили наши возлюбленные штучку!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Укажи мне, Ковьель, хоть кого-нибудь на свете, кто любил бы ее так нежно и пылко.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Никого, сударь, указать не могу.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Я не видел ее два дня, и эти два дня показались мне ужасными столетиями. Наконец
+            счастливый случай сталкивает меня с нею на улице, я бросаюсь к ней, на моем лице было
+            написано... Что было написано на моем лице, Ковьель?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Радость и страсть были написаны на вашем лице, сударь, будь я проклят.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>И что ж? Изменница отвращает от меня взор и проходит мимо меня так, как будто видит
+            меня впервые в жизни. Что, Ковьель?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ничего, сударь, то же самое проделала со мной и Николь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>И это после тех слез, которые я столько раз проливал у ее коленей.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Что, сударь, слезы? Сколько ведер воды я ей перетаскал из колодца!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Какие ведра? Что ты?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Я говорю про Николь, сударь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Сколько раз я горел в огне моей страсти!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сколько раз я жарился на кухне, поворачивая за нее вертел.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Какая кухня? Ах, да, ты про Николь говоришь.</p>
+        </sp>
+        <stage>Ковьель, Точно так, сударь.</stage>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Нет меры моему негодованию!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Какая уж тут мера.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Брани ее, Ковьель! Рисуй мне ее в дурном виде, чтобы я скорее забыл ее.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>С удовольствием, сударь. Глазки у нее маленькие, сударь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Что ты врешь? Ну, да, небольшие глазки, но зато сколько в них огня!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>А рот велик.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Это правда, но он обворожителен.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ростом не вышла.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Но зато как сложена!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Она глупа, сударь!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Как ты смеешь! У нее тончайший ум!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Позвольте, сударь, вы же не даете мне ее ругать.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Нет, нет, ругай.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Она капризна, сударь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Ей идут эти капризы, пойми!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ну, достаточно, сударь, я устал. Пусть вам ее ругает кто-нибудь другой.</p>
+        </sp>
+        <stage>Входят Люсиль и Николь.</stage>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Я не хочу с ней говорить. Помни, Ковьель, ни одного слова.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Будьте покойны, сударь.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Что означает ваше поведение, Клеонт?</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Что с тобою, Ковьель?</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Вы онемели, Клеонт?</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ты что, лишился дара слова?</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Вот настоящая злодейка!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Иуда!</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Ты права, Николь, они оба сошли с ума. Если вас расстроила вчерашняя встреча, то
+            позвольте, я объясню, в чем дело.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Нет, я не хочу слушать.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Дай я тебе объясню.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Вчера утром...</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Утром вчера...</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Отпрыгни.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Клеонт, остановитесь!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Довольно лживых песен!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Послушай, Ковьель!..</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Заранее говорю, вранье.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Ну, хорошо, раз вы не желаете слушать, — идем, Николь.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Идемте, барышня.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Ну, извольте объяснить ваш поступок.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Нет, мне не хочется говорить.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Выкладывай.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Я прошу вас.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Оставьте меня.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ну, ну!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ни-ни.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Так вы уходите? Хорошо! Но знайте, жестокая, что я ухожу от вас, чтобы умереть!
+            Ковьель!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сударь, я ныряю вслед за вами.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Остановитесь, Клеонт!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Постой, Ковьель!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Стою.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Слушайте же. Я шла вчера утром с отцом, а он мне запретил кланяться кому бы то ни было
+            на улице, кроме маркизов. Я боялась даже кивнуть вам.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Вот так штука!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Вы не обманываете меня, Люсиль?</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Клянусь, нет!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Но вы-то любите меня?</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>О Клеонт!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ковьель!</p>
+        </sp>
+        <stage>Целуются. Слышны шаги. Люсиль и Николь убегают. Из другой двери входит госпожа
+          Журден.</stage>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>А, Клеонт! Я рада вас видеть.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Милая госпожа Журден.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Ах, Клеонт, я расстроена.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Что вас огорчает, сударыня?</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Огорчает меня один идиот, Клеонт.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>За что такие слова, сударыня, помилуйте!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Ах, дружок, я не о вас говорю.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Стало быть, обо мне.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Идиот этот — мой муж, Клеонт. Да, да. Спятил он, как ни горько мне признаться.
+            Помешался на том, что он знатный дворянин. Одним словом, Клеонт, делайте скорее
+            предложение, пока он не размотал все наше состояние. Дочка любит вас, а мне вы также
+            очень нравитесь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>О, сударыня, если бы вы знали, как мне сладки ваши слова!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Расцелуйте меня, Клеонт.</p>
+          <stage>Ковьель целует госпожу Журден.</stage>
+          <p>А ты при чем здесь?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ах, сударыня, признаюсь вам, что и у меня есть свой план. Я люблю вашу служанку Николь.
+            Надеюсь, что вы не учините никаких препятствий к моему браку.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Не учиню.</p>
+          <stage>Ковьель целует госпожу Журден.</stage>
+          <p>Отстань! Ну, я сейчас его позову.</p>
+          <stage>(Уходит.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(войдя).</stage>
+          <p>А, сударь!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Сударь, я прибыл к вам, чтобы сообщить, что честь быть вашим зятем так велика, что я не
+            мог удержаться от того, чтобы не попросить у вас руки вашей дочери.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Очень приятно. Но прежде всего, сударь, скажите мне, на каком языке вы желаете
+            разговаривать со мной?</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>На родном языке, сударь, если позволите. К тому же я не знаю никакого другого
+            языка.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я прошу вас, перейдите тогда к этому уху, Это ухо предназначено у меня для родного
+            языка. А другое ухо — для языков иностранных.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Слушаю, сударь.</p>
+          <stage>(Переходит.)</stage>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Вон оно какие дела!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Итак, сударь...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Виноват. Вы хотите говорить со мной стихами или прозой?</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Прозой, если позволите. Я не умею говорить стихами.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ах, как жаль. Ну, слушаю вашу прозу.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Итак, сударь, я хотел бы жениться на вашей дочери. ,</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(поразмыслив).</stage>
+          <p>Это возможно.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Я обожаю ее, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(подумав).</stage>
+          <p>И это возможно.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт</speaker>
+          <stage>(волнуясь).</stage>
+          <p>Так что же вы скажете мне на это, о сударь...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Это невозможно.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>О, сударь!..</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я спрошу вас, — вы дворянин, сударь?</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Нет, сударь, я не дворянин. Говорю вам это прямо, потому что не привык лгать.</p>
+          <stage>Ковьель зашипел.</stage>
+          <p>Чего ты мне мигаешь?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(кашляя).</stage>
+          <p>Я не мигал вам, сударь, это вам послышалось. Продолжайте, сударь, но только
+            умненько.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Да, сударь, я не умею лгать, я не дворянин.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>О, Господи!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я уважаю вас, сударь, за прямоту. Придите в мои объятия.</p>
+          <stage>Целуются.</stage>
+          <stage>(Закончив поцелуи.)</stage>
+          <p>А дочку свою я вам не отдам.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Почему?!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Вот какая вышла проза.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я твердо решил выдать свою дочь только за маркиза. Простите меня, сударь, мне нужно
+            отдать некоторые распоряжения моим многочисленным лакеям. С совершенным почтением имею
+            честь быть вашим покорным слугой Журден.</p>
+          <stage>(Уходит.)</stage>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт</speaker>
+          <stage>(упав в кресло).</stage>
+          <p>Что ты на это скажешь, Ковьель?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Стихами или прозой? Говоря стихами, вы, сударь, болван.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Как ты смеешь?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Чего тут не сметь! Вы будете вечным холостяком, сударь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Ложь противна мне.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Мне более противна глупость. Спасибо вам громадное, сударь, за то, что вы и мое дело
+            попортили. Он скажет, что он не выдаст свою служанку иначе, как за слугу графа.
+              <stage>(Горячась.)</stage> Ведь вам же было сказано на родном языке и в то самое ухо,
+            в какое нужно, что вы имеете дело с сумасшедшим! А? Ну, и нужно было потакать ему во
+            всем. Пожалуйте расчет, сударь, я поступаю в услужение к маркизу, мне нужно жениться.
+          </p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Ковьель, это было бы предательством — оставить меня в такой трудный момент! Выдумай
+            что-нибудь, Ковьель!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Вы не думайте, сударь, что за вас всю жизнь будут выдумывать другие.</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Ковьель!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сударь, не мешайте моей мысли зреть... Когда человек помешался, все средства хороши...
+            Гм... гм... итак... Ну, вот она и созрела!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Ковьель, ты гениален!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Да, да. Так вот, сударь. К вечеру я превращу вас в знатного человека.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Как это мыслимо?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Это уж мое дело. Прежде всего давайте денег, сударь.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Сколько хочешь, Ковьель.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Я хочу пятьдесят пистолей на расходы и десять пистолей мне.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>На, на, Ковьель!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Итак, прежде всего я хочу столковаться с этими двумя шарлатанами, учителем музыки и
+            танцев. А вы, сударь, извольте отправляться домой и там ждите моих повелений. Не
+            мозольте глаза господину Журдену.</p>
+          <stage>(Уходит.)</stage>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден</speaker>
+          <stage>(появляясь).</stage>
+          <p>Ну что, милый Клеонт?</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт</speaker>
+          <stage>(заплакал).</stage>
+          <p>Ах, сударыня, он отказал мне.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Быть не может! А! Проклятый сумасброд! Ну, ладно, я покажу! <stage>(Кричит.)</stage>
+            Журден! Журден! </p>
+        </sp>
+        <stage>Клеонт убегает, махнув рукой.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(входя).</stage>
+          <p>Мне кажется, что ты кричишь, матушка?</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Ты зачем отказал Клеонту? Хорошему человеку, которого любит твоя дочь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Он мне и самому очень нравится.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Разве он не порядочный человек?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Порядочный. Чем больше я думаю, тем больше убеждаюсь — порядочный.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Разве Люсиль не любит его?</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль</speaker>
+          <stage>(вбегая).</stage>
+          <p>Да, я люблю его.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Любит, любит, да.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>А он не любит ее?</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Я любима!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Бесспорно любима, только ты не кричи так.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>У него хорошее состояние!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Мало этого сказать, превосходное состояние.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Так что же ты...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>А выдать нельзя. Горе, но выдать нельзя. Не маркиз.</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь</speaker>
+          <stage>(появившись внезапно).</stage>
+          <p>А вы сами, сударь, маркиз?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ах, вот и ты! Да, тебя только не хватало. Я не маркиз, к сожалению, но я вращаюсь в
+            обществе маркизов и буду вращаться только среди них.</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Я не позволю сделать мою дочь несчастной. Кто рожал ее?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я ро... тьфу! Ты!.. испугала меня! Ты ее рожала, отстань от меня!</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Или Клеонт, или никто! Если вы, отец, не дадите согласия на этот брак, я покончу с
+            собой!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Милая барышня, не делайте этого!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господи, вы меня замучаете!</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль</speaker>
+          <stage>(рыдает).</stage>
+          <p>О я несчастная!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Посмотри, что ты делаешь с бедной девочкой!</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Мама! Я ухожу!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Куда ты, бедная крошка?</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Куда вы, барышня?</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Или топиться, или к тетке!</p>
+          <stage>(Убегает.)</stage>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Николь, за мной! Не выпускай ее!</p>
+        </sp>
+        <stage>Убегают.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вот полюбуйтесь, господа, на этот сумасшедший дом! Брэндавуан!</p>
+          <stage>Брэндавуан появляется.</stage>
+          <p>Принеси мне компресс на голову.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Сударь, там маркиз Дорант с какой-то дамой спрашивают вас.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Это она! Боже, это она! Какое счастье, что их унесло из дому! Проси... то есть нет, не
+            проси... подожди... то есть нет... Боже, ведь я не одет... скажи.... проси сюда и скажи,
+            что я сию же минуту выйду!</p>
+          <stage>(Исчезает.)</stage>
+        </sp>
+        <stage>Входят Дорант и Доримена.</stage>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Дорант, я боюсь, что поступила опрометчиво, придя с вами в незнакомый дом.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>О милая Доримена, это пустяки. Согласитесь сами, где же бы мы могли пообедать с вами,
+            избежав огласки?</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>И, кроме того, маркиз, я попрошу вас перестать покупать для меня подарки. Например, это
+            дорогое кольцо, к чему это...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>О Доримена!..</p>
+          <stage>Входит Журден.</stage>
+          <p>А вот и наш милейший Журден!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Сударыня... как благодарить мне вас за ту честь... которую я имел честь... когда вы
+            оказали мне честь... меня посетить... такая честь, маркиза...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Довольно, господин Журден. Маркиза не нуждается в таких комплиментах.</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Господин Журден вполне светский человек.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(тихо Журдену).</stage>
+          <p>Вы... вот что... не говорите маркизе ни одного слова о кольце, которое вы ей
+            подарили.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(тихо).</stage>
+          <p>Но мне хочется все-таки узнать, понравилось ли оно ей?</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Ни-ни-ни. Это будет совершенно не по-светски. Сделайте вид, что вы его даже не
+            замечаете.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вот досада...</p>
+        </sp>
+        <stage>Усаживаются.</stage>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Вы смотрите на мое кольцо? Не правда ли, оно великолепно?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Даже и не думаю смотреть. И притом это такой вздор, пустяковое колечко...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Кхе-кхе-кхе...</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Пустяковое? Я вижу, что вы очень избалованный человек.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Такие ли бывают кольца, маркиза?</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Гм...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(тихо).</stage>
+          <p>Черт тебя возьми.</p>
+        </sp>
+        <stage>Входит Брэндавуан с мокрой тряпкой и кладет ее на лоб Журдену.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Это что такое?</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Компресс, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(тихо).</stage>
+          <p>Вылетай к черту!</p>
+          <stage>Брэндавуан уходит.</stage>
+          <p>Не обращайте внимания, маркиза, это мой сумасшедший слуга. Брэндавуан!</p>
+        </sp>
+        <stage>Брэндавуан входит.</stage>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Чего изволите?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну, что же обед?</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Все готово, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Сударыня, разрешите мне просить вас... такая честь... отобедать... мой скромный
+            обед...</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>С большим удовольствием, господин Журден.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Эй! Музыкантов! Обедать!</p>
+          <stage>На эстраде возникают музыканты, а из-под пола появляется роскошно накрытый стол и
+            четыре повара. Повара танцуют, начиная подавать кушанья.</stage>
+          <p>Маркиза, прошу вас!</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Как великолепно все устроено у вас!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Маркиза, господин Журден славится своими обедами.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Такие ли еще бывают обеды!</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Повторяю, вы очень избалованный человек.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Маркиза, вина?</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Какой аромат!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Прелестное винцо!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Такие ли еще бывают вина!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ты ошалел, Брэндавуан!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Никак нет, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вели подавать следующее блюдо.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Интересно, каким это следующим блюдом угостит нас наш милейший хозяин?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>А вот увидите. Это секрет моего повара.</p>
+          <stage>Из-под пола вылетает стол, и на нем сидит госпожа Журден.</stage>
+          <p>Ой!..</p>
+        </sp>
+        <stage>Пауза.</stage>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>А-а! Честная компания! Вот оно что! Когда хозяйки нет дома, хозяин проматывает свое
+            состояние в компании с какой-то развеселой дамочкой и ее поклонником! Очень хорошо!
+            Очень хорошо!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Зарезала!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Сударыня, что с вами! Какие выражения! Во-первых, этот обед даю я, а не господин
+            Журден...</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Молчите, дорогой проходимец!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Сударыня!</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Да что — сударыня! Сударыня! Двадцать три года я сударыня, а вот вам, сударыня, не
+            стыдно ли врываться в чужой семейный дом!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Боже мой!</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Что она мне говорит! Благодарю вас, Дорант!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Успокойтесь, Доримена!</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Сию минуту уведите меня отсюда!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(госпоже Журден).</stage>
+          <p>Стыдитесь, сударыня!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Убит... Зарезан...</p>
+        </sp>
+        <stage>Дорант уводит плачущую Доримену.</stage>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Убирать стол, сударь?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Убери... <stage>(Указывает на госпожу Журден)</stage>. И ее... и стол... все убери... я
+            опозорен... </p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Компресс принести, сударь?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Пошел ты к черту!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>К черту — с удовольствием, сударь, тем более что... конец второго действия.</p>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+        <stage>Вечер. Журден один.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(расстроен).</stage>
+          <p>Да, угостила меня любезная супруга... Боже, Боже... Стыдно людям на глаза показаться...
+            и все меня забыли как-то сразу... и никто не идет... и проклятые учителя провалились как
+            сквозь землю... философией, что ли, заняться? Замечательный человек этот Панкрассс...
+            утешительный человек... и философия — великая вещь... А в самом деле, может быть,
+            никакого скандала за обедом и не было, а мне только показалось... надо будет себе это
+            внушить. Не было скандала, и шабаш. Не было скандала. Не было скандала... Нет, был
+            скандал. Не веселит меня философия... менуэт, что ли, протанцевать? Эй, Брэндавуан!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан</speaker>
+          <stage>(входит).</stage>
+          <p>Что прикажете, сударь?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Мне скучно, Брэндавуан.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>А вы закусите, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Нет, не хочу. Супруги моей нету дома?</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Нету, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну, и слава Богу. Вели-ка, чтоб мне сыграли менуэт.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Музыкантов сейчас нету, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вот... видишь... все меня бросили на произвол судьбы... Брэндавуан, спой ты мне
+            менуэт.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Я, сударь, очень плохо пою.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ничего, давай вдвоем.</p>
+          <stage>Поют вдвоем менуэт. Журден при этом подтанцовывает.</stage>
+          <p>А-ла-лала-ла-ла... Нет, все равно не весело. Уходи, Брэндавуан, от тебя еще
+            скучнее.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Слушаю, сударь. <stage>(Уходит и через некоторое время возвращается.)</stage> Сударь,
+            вас там какой-то ТУРОК спрашивает. </p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>...Ла-ла-ла... Турок? Уж не пьян ли ты, голубчик? Откуда может быть турок?</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Не могу знать, сударь, откуда турок,</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ну, проси его сюда.</p>
+        </sp>
+        <stage>Брэндавуан уходит и сразу же возвращается.</stage>
+        <stage>Входит одетый турком Ковьель.</stage>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сударь, я не знаю, имею ли я честь... быть вам известным?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Нет, сударь.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>А я, сударь, знал вас вот таким крошкой...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что вы говорите?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Да, вы были увлекательнейшим ребенком. И все дамы брали вас на руки специально с тем,
+            чтобы облобызать вас.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Благодарю вас. Облобызать? Но вы, сударь, производите впечатление довольно молодого
+            человека.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Это неудивительно, сударь, я в последнее время жил в Турции.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ага... Ага...</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Да-с, сударь, я был в большой дружбе с вашим батюшкой. Покойник был настоящий
+            дворянин.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Как, сударь, вы и с покойником были знакомы?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Еще бы!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>И вы говорите, что он был дворянин. Bы не ошибаетесь?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Неподдельный дворянин.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(жмет руку Ковьелю).</stage>
+          <p>Вы меня радуете, сударь. Прощу вас покорнейше, садитесь. Вы знаете, нашлись дураки,
+            которые распустили по Парижу слух, что будто бы мой отец был купцом.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Какая глупость! Ваш отец был вежливый человек, понимавший толк в сукнах и других
+            материях. Он покупал разные товары, а потом раздавал их, за деньги натурально, своим
+            приятелям, чтобы доставить им удовольствие, не задевая их самолюбия.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Сударь, вы меня просто воскрешаете.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ну, вот видите... так вот, сударь, я пришел к вам, чтобы сообщить вам приятнейшую
+            новость. В Париж прибыл сын турецкого султана!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Я ничего не знал об этом.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Вот видите. Я, милостивый государь, являюсь переводчиком его высочества.</p>
+          <stage>Журден встает.</stage>
+          <p>Садитесь, сударь, без церемоний. Я должен сообщить вам весьма важное дело... Нас никто
+            не подслушивает?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Брэндавуан, пошел вон.</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Слушаю, сударь.</p>
+          <stage>(Выходит.)</stage>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Говорите смело, сударь.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Его высочество влюблен в вашу дочь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>А... э... когда... почему... а где же он ее видел?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Случайно на улице. Да это не важно, где он ее видел, сударь. Важно то, что он хочет
+            стать вашим зятем.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Сударь, я потрясен.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сегодня утром я заговорил с его высочеством. Вдруг он говорит: "Акчиам крок солер
+            сншалла мустафа гиделлу аманахем варахани усерекарбулат".</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Так и сказал?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Совершенно этими словами. Каково?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(про себя).</stage>
+          <p>Пороть бы моего родителя за то, что он меня не выучил по-турецки!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Нет, как вам это понравится? Сын турецкого султана!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Признаться вам сказать, господин переводчик, я немножко подзабыл турецкий язык... вы
+            знаете, эти гувернантки... половину-то я понял... но вот...</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>О, не беспокойтесь, я вам сейчас переведу. Это значит: "Видел ли ты прекрасную девушку,
+            дочь парижского дворянина Журдена?" Я вежливо говорю: да, — по-турецки, разумеется. Он
+            говорит: "Ах, марабаба сахем!", то есть, ах, как я влюблен в нее, — а потом приказывает
+            мне: "Поезжай и проси ее руки у господина Журдена и объяви ему, что я его жалую чином
+            мамамуши".</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Мамамуши?.. Возможно... А что такое — мамамуши?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Камергер.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ай-яй-яй!..</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Но этого мало, он сейчас сам приедет к вам.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Быть не может!.. Я...</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Впрочем, может быть, вы против этого брака?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господин переводчик, разве я смею? Боже, какое несчастье! Вы знаете, эта моя дочь,
+            сумасбродная Люсиль, она влюблена в некоего Клеонта, а она упряма, признаюсь вам, как
+            пень, и я боюсь...</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сударь, не тревожьтесь. Все уладится, лишь только она взглянет на принца. Шепну вам на
+            ухо, только имейте в виду, это величайшая государственная тайна: сын турецкого, султана
+            поразительно похож на этого Клеонта. Я его встречал на улице. Но, однако, сударь,
+            поторопитесь, вам нужно переодеться в турецкое платье</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Как же быть? У меня ничего нет.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>О, сударь, все уже готово. Сейчас явится придворный портной, который вас оденет.
+            Эй!</p>
+        </sp>
+        <stage>Входит Портной.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Да это же мой портной! Как, сударь, это вы?</p>
+        </sp>
+        <sp who="#portnoj">
+          <speaker>Портной.</speaker>
+          <p>Так точно, сударь. Я поступил на службу к его турецкому высочеству. Пожалуйте в
+            спальню.</p>
+        </sp>
+        <stage>Журден и Портной уходят.</stage>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(в дверь).</stage>
+          <p>Эй, господа!</p>
+          <stage>Входят учителя музыки и танцев.</stage>
+          <p>Я надеюсь, господа, что у вас все уже в полном порядке? Кроме того, господа, вы
+            сохраните тайну.</p>
+          <stage>(Дает деньги учителям.)</stage>
+        </sp>
+        <sp who="#uchitel_tantsev">
+          <speaker>Учитель танцев.</speaker>
+          <p>Не беспокойтесь, сударь. Мы настоящие люди искусства, а потому и служим своим
+            искусством тому, кто нам платит деньги, не вдаваясь в долгие разговоры.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Вот и правильно. Итак, идите. Принц сейчас прибудет.</p>
+          <stage>Учителя уходят. Входит Дорант. Ковьель прячет лицо.</stage>
+          <p>Эх, посторонний!.. Как неприятно.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Здравствуйте, сударь.</p>
+          <stage>(Всматривается в Ковьеля.)</stage>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Коригар комбато.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Виноват?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Амбасу?</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Вы не говорите по-французски? <stage>(Про себя.)</stage> Где-то я видел эту
+            физиономию... </p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Мой не понимайт.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Вы турок?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Турок, отвяжитесь. Ой!.. Микоси.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Какой там микоси! Ты — Ковьель!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Тссс... сударь, ради Бога!</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Что означает этот маскарад?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сударь, не выдавайте нас. Сейчас мой барин Клеонт явится сюда в качестве турецкого
+            принца.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Это, конечно, ты придумал?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Не скрою, сударь, я.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Зачем?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Журден не хочет выдавать Люсиль за Клеонта, потому что тот незнатный.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>А, понятно!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Я надеюсь, сударь, что вы...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Батюшки! Я забыл дома кошелек!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сколько в нем было?</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Двадцать пистолей.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Сударь, прошу вас взять взаймы двадцать пистолей.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Спасибо. Слушай, я могу пригласить маркизу Доримену посмотреть на эту комедию? Она
+            будет под маской.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Отчего же, отчего же?</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Отлично.</p>
+          <stage>(Уходит.)</stage>
+        </sp>
+        <stage>Входят Журден в турецком костюме, за ним Портной.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Будьте добры, господин переводчик — все ли в порядке?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Так... повернитесь... да!</p>
+          <stage>На улице послышались звуки музыки, замелькали фонари.</stage>
+          <p>Вот его высочество!</p>
+        </sp>
+        <stage>Вносят Клеонта в турецком костюме.</stage>
+        <stage>Входят учителя музыки и танцев, за ними актеры в турецких костюмах.</stage>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Амбузахим акибараф саламалеки!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господин переводчик, на помощь!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Это обозначает: господин Журден, да цветет ваше сердце, в течение целого года, подобно
+            пышному розовому кусту!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Покорнейший слуга его высочества.</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Устин иок базе моран.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Да ниспошлет вам небо силу льва и мудрость змеи!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>От всей души его высочеству желаю того же!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Оса бинамен садок?</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Бель мен.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что значит-бель мен.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>"Бель мен" значит: нужно как можно быстрее начать церемонию, потому что он хочет сейчас
+            же увидеться с вашей дочерью и немедленно заключить с нею брак, вследствие необычайной
+            любви к ней, пожирающей его сердце. Все.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>И все это в двух словах — бель мен?! Замечательный язык. Гораздо лучше нашего.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Как же можно сравнивать? Ах, вот гость!</p>
+        </sp>
+        <stage>Входит Дорант и вводит Доримену.</stage>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Господин Журден, Я надеюсь, вы разрешите маркизе и мне присутствовать?</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Да, маркиз, я весьма рад. <stage>(Доримене.)</stage> Я рад, маркиза, что отвратительная
+            выходка моей супруги не помешала вам все-таки вновь войти в мой дом. </p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>О, это пустяки, о которых я давно уже забыла. И потом, я буду под маской, она не узнает
+            меня. Поздравляю вас, господин Журден, с вашим новым саном.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Да-с, камергер, сударыня.</p>
+          <stage>(Протягивает ей руку для поцелуя.)</stage>
+          <stage>Доримена от изумления целует.</stage>
+          <p>Не смущайтесь, сударыня, мне и самому неприятно. Но ничего не поделаешь, положение
+            обязывает... Ваше высочество, саламалеки, позвольте вам представить... маркиза
+            Доримена... тьфу ты, черт, не понимает... бель мен... Переводчик!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(указывая на Доранта).</stage>
+          <p>Козури мана. Это значит: позвольте вам представить маркиза Доранта.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(тихо Доранту).</stage>
+          <p>Руку, руку поцелуйте.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант</speaker>
+          <stage>(Ковьелю).</stage>
+          <p>Ну, это уже свинство.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Целуйте и не портите мне дело. Какая важность!</p>
+          <stage>Дорант с отвращением целует руку Клеонту.</stage>
+          <p>Эй, послать за невестой!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(тревожно).</stage>
+          <p>Да, за невестой бы послать.</p>
+          <stage>Музыка. Затем за сценой вскрикивает Люсиль.</stage>
+          <p>Брэндавуан, где же Люсиль?</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Ее ведут, сударь, но она упирается.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ох, так я и знал... Ох, темные люди!..</p>
+        </sp>
+        <stage>Турки вводят растерянную Люсиль.</stage>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Вот она, сударь.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден</speaker>
+          <stage>(Люсиль).</stage>
+          <p>Каригар комбато. Это значит потурецки, что ты сейчас будешь обвенчана с его высочеством
+            принцем турецким.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Караул!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Брэндавуан! Брэндавуан, держи ее!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Сударь, она выдирается.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что ты делаешь, дура! Устин мараф... тебе надо будет подзубрить по-турецки...
+            Брэндавуан, умоляю, за руку, за руку!.. Ваше высочество, не обращайте внимания... просто
+            дура... бель мен.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Добрые люди!.. Спасите меня!..</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Бель мен... бель мен...</p>
+        </sp>
+        <stage>Внезапно появляется Нотариус с фонарем и с книгами.</stage>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Виноват, здесь свадьба? Меня позвали. Я — нотариус.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Здесь, здесь, здесь, пожалуйте.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Да что ж нотариус?.. Виноват... Саламалеки базуль... посмотрите, что делается...
+            Брэндавуан!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Сударь, я изнемогаю... такая здоровая...</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>А-а-а...</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Простите, я поражен... Какая же это свадьба? Здесь драка...</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ничего, господин нотариус, ничего... Не уходите, не уходите. Сейчас драка, а потом
+            свадьба будет.</p>
+          <stage>(Мигает ему.)</stage>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус</speaker>
+          <stage>(тревожно).</stage>
+          <p>Не понимаю, чего вы мне мигаете?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ах, да молчите, ничего я вам не мигаю. Присядьте. <stage>(Люсиль.)</stage> Сударыня,
+            умоляю, взгляните на принца! </p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>К черту! К черту! К черту!</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Никогда в жизни я не видел такой свадьбы! Она же не хочет! Нельзя же насильно!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Она сию минуту захочет, уверяю вас! <stage>(Люсиль.)</stage> Да гляньте же на меня,
+            ведь я же Ковьель, что вы делаете! </p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Что? Ковьель?</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Тише!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Я усмирил ее, сударь.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Гляньте в лицо принцу!</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль</speaker>
+          <stage>(глянув на Клеонта).</stage>
+          <p>Ах!</p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт.</speaker>
+          <p>Люсиль!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь</speaker>
+          <stage>(внезапно влетая).</stage>
+          <p>Что делают с моей барышней? Караул! Не отдам ее в турецкие руки!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Вяжи ее, Брэндавуан!</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>О нет, сударь, ни за что.</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Поразительная свадьба.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(Николь).</stage>
+          <p>Уймись, полоумная! Я — Ковьель, а принц — Клеонт!</p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>Николь.</speaker>
+          <p>Ай! Соглашайтесь, барышня, соглашайтесь!</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль.</speaker>
+          <p>Отец, я согласна!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ф-фу! Ну вот... ваше высочество, она согласна! Бель мен... словом, все в порядке!</p>
+          <stage>Внезапно разверзается пол, и появляется госпожа Журден.</stage>
+          <p>Вот! Самый главный ужас. Здравствуй, жена. Да ниспошлет тебе небо мудрость льва, старая
+            змея... Чувствую, что не то говорю... Не порть отношений с Турцией... Уйди отсюда,
+            заклинаю... устин иок... ваше высочество, рекомендую, моя жена... она ведьма...</p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Что ты затеял еще, старая каналья?! Погубить свою дочь! Брэндавуан, зови сюда
+            полицию!</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Э, нет. Свадьба в полиции! Я не участвую.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Умоляю, задержитесь на секунду. <stage>(Госпоже Журден.)</stage> Сударыня, гляньте в
+            лицо принцу! </p>
+        </sp>
+        <stage>Госпожа Журден дает пощечину Ковьелю.</stage>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Плюха. Нет, из одного любопытства останусь.</p>
+          <stage>(Садится.)</stage>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Госпожа Журден, прежде чем бить по лицу, вы гляньте хоть в это лицо.</p>
+        </sp>
+        <stage>Из-под полу появляется Панкрасс.</stage>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Господин Журден, среди философов Парижа, а также и среди простого населения разнеслись
+            слухи о счастливом событии в вашем доме. Позвольте вас поздравить...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что — поздравить... Знаете, что случилось? Эта фурия дала плюху переводчику турецкого
+            султана, и после свадьбы будет война с Турцией...</p>
+        </sp>
+        <sp who="#brendavuan">
+          <speaker>Брэндавуан.</speaker>
+          <p>Обязательно будет.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ничего не будет. Прощаю плюху. <stage>(Госпоже Журден, тихо.)</stage> Сударыня, я —
+            Ковьель, а он Клеонт. </p>
+        </sp>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Ах! Я согласна, выдавай дочь за турецкого султана!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ох!.. Внял Господь вашим мольбам, ваше высочество, ниспослало ей небо мудрость.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Господин нотариус, приступайте!</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Да, действительно, все пришло как-то само собой в порядок!.. Имя брачущихся...</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Господин сын турецкого султана, с одной стороны...</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>Виноват! Какой султан?!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(тихо).</stage>
+          <p>Он пошутил. Пишите: Клеонт — с одной стороны, а с другой — Люсиль Журден.</p>
+        </sp>
+        <sp who="#notarius">
+          <speaker>Нотариус.</speaker>
+          <p>А, это другое дело.</p>
+          <stage>(Пишет.)</stage>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(Нотариусу).</stage>
+          <p>Второй контракт: с одной стороны — слуга Ковьель, с другой — служанка Николь.
+              <stage>(Журдену.)</stage> Сударь, признаюсь вам, я влюбился в вашу служанку. </p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что вы делаете, сударь, это — стерва! Если уж вам так приспичило, женитесь на моей
+            жене, славно бы зажили в Турции!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Нет, сударь, не смею вас лишать счастья.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Ваше дело, сударь... Господа, не хочет ли кто-нибудь из вас жениться на моей супруге, я
+            ей дам развод, благо нотариус здесь, а? Господин философ, вам не угодно? Вам все равно
+            будет казаться только, что вы на ней женаты.</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>Зачем же? Пусть это продолжает казаться вам.</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Эх, за компанию! Доримена! Вы согласны?</p>
+        </sp>
+        <sp who="#dorimena">
+          <speaker>Доримена.</speaker>
+          <p>Согласна, милый Дорант!</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель</speaker>
+          <stage>(Нотариусу).</stage>
+          <p>Ну вот... с одной... и с другой...</p>
+        </sp>
+        <stage>Нотариус пишет.</stage>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Как же так?.. Вы... она... мое кольцо...</p>
+        </sp>
+        <sp who="#dorant">
+          <speaker>Дорант.</speaker>
+          <p>Господин Журден, стоит ли вам, богатому человеку, говорить о таком пустяке? Да будет
+            оно свадебным подарком очаровательной жене.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Бель мен.</p>
+        </sp>
+        <sp who="#kovel">
+          <speaker>Ковьель.</speaker>
+          <p>Ну вот все и пришло к счастливому концу! <stage>(Снимает чалму.)</stage> Сударь!.. </p>
+        </sp>
+        <sp who="#kleont">
+          <speaker>Клеонт</speaker>
+          <stage>(снимая чалму).</stage>
+          <p>Сударь! Простите нас за то, что для того, чтобы соединить счастливые влюбленные сердца,
+            мы были вынуждены прибегнуть к маскарадному обману. Да, я — Клеонт, сударь, но я
+            надеюсь, сударь, что при виде счастливого лица вашей дочери вы примиритесь с нами!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Что такое? Дайте мне фонарь! <stage>(Вглядывается.)</stage> Ковьель! Клеонт! Мой Бог!..
+            Что же это такое?! Я окружен видениями! Марабаба сахем! Акчиам крок солер!.. Вы турки
+            или нет?! <stage>(Срывает чалму с Учителя музыки.)</stage> Учитель музыки!
+              <stage>(Срывает чалму с Учителя танцев.)</stage> Учитель танцев! Что происходит
+            здесь?! Не верю ничему! Не верю никому! </p>
+        </sp>
+        <sp
+          who="#brendavuan #kovel #uchitel_tantsev #dorant #kleont #dorimena #ljusil #notarius #nikol #gospozha_zhurden #pankrass #uchitel_fehtovanija #uchitel_muzyki">
+          <speaker>Учителя. Актеры.</speaker>
+          <stage>(хором).</stage>
+          <p>Поздравляем вас, господин Журден, и желаем счастья молодым!</p>
+        </sp>
+        <stage>Взрыв музыки.</stage>
+        <sp who="#gospozha_zhurden">
+          <speaker>Госпожа Журден.</speaker>
+          <p>Прозрей же наконец, о дорогой мой муженек, и мы заживем мирно и сладко, как жили до
+            твоих сумасбродств.</p>
+        </sp>
+        <sp who="#ljusil">
+          <speaker>Люсиль</speaker>
+          <stage>(бросается в объятия Журдена).</stage>
+          <p>Отец! Я счастлива!</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Нет, нет! Все на свете обман! <stage>(Госпоже Журден.)</stage> Не верю, что ты моя
+            жена! <stage>(Срывает женский наряд с госпожи Журден.)</stage> Конечно, нет, это Юбер! Я
+            действительно, кажется, схожу с ума! Держите меня! </p>
+        </sp>
+        <sp
+          who="#brendavuan #kovel #uchitel_tantsev #dorant #kleont #dorimena #ljusil #notarius #nikol #gospozha_zhurden #pankrass #uchitel_fehtovanija #uchitel_muzyki">
+          <speaker>Все.</speaker>
+          <p>Успокойтесь, господин Журден.</p>
+        </sp>
+        <sp who="#zhurden">
+          <speaker>Журден.</speaker>
+          <p>Философа ко мне! Пусть он, единственный мой друг, утешит меня.</p>
+          <stage>Панкрасс возникает возле Журдена.</stage>
+          <p>Господин Панкрасс, скажите мне что-нибудь приятное!</p>
+        </sp>
+        <sp who="#pankrass">
+          <speaker>Панкрасс.</speaker>
+          <p>С удовольствием. Спектакль окончен!</p>
+        </sp>
+        <sp who="#bezhar">
+          <speaker>Бежар</speaker>
+          <stage>(срывая с себя наряд и надевая черный плащ, берет фонарь).</stage>
+          <p>Все свободны. <stage>(В оркестр.)</stage> Мастер, выходной марш! </p>
+        </sp>
+        <stage>Музыка.</stage>
+        <stage>Все действующие лица проваливаются в пол.</stage>
+        <stage>Закрывается занавес.</stage>
+        <sp who="#bezhar">
+          <speaker>Бежар</speaker>
+          <stage>(закутываясь в плащ, в разрезе занавеса).</stage>
+          <p>Теперь надеюсь, уж никто меня не остановит. Благодарение небесам, закончен день. Огни
+            погасли. Идемте же в Старую Голубятню, где ждет меня любимое душистое мускатное винцо.
+            А-ла-ла-ла...</p>
+          <stage>(Под музыку уходит.)</stage>
+        </sp>
+        <stage>Конец</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
