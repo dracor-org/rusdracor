@@ -46,147 +46,188 @@
           <person xml:id="arie_leib" sex="MALE">
             <persName>Арье-Лейб</persName>
             <persName xml:lang="en">Arye-Leib</persName>
+            <persName xml:lang="de">Arje-Lejb</persName>
           </person>
           <person xml:id="lyovka" sex="MALE">
             <persName>Лёвка</persName>
             <persName xml:lang="en">Lyovka</persName>
+            <persName xml:lang="de">Ljowka</persName>
           </person>
           <person xml:id="dvoyra" sex="FEMALE">
             <persName>Двойра</persName>
             <persName xml:lang="en">Dvoira</persName>
+            <persName xml:lang="de">Dwojra</persName>
           </person>
           <person xml:id="nekhama" sex="FEMALE">
             <persName>Нехама</persName>
             <persName xml:lang="en">Nekhama</persName>
+            <persName xml:lang="de">Nechama</persName>
           </person>
           <person xml:id="benya" sex="MALE">
             <persName>Беня</persName>
             <persName xml:lang="en">Benya</persName>
+            <persName xml:lang="de">Benja</persName>
           </person>
           <person xml:id="boyarskiy" sex="MALE">
             <persName>Мосье Боярский</persName>
             <persName xml:lang="en">Monsieur Lazar Boyarsky</persName>
+            <persName xml:lang="de">Monsieur Bojarskij</persName>
           </person>
           <person xml:id="mendel" sex="MALE">
             <persName>Мендель Крик</persName>
             <persName xml:lang="en">Mendel Krik</persName>
+            <persName xml:lang="de">Mendel Krik</persName>
           </person>
           <person xml:id="nikifor" sex="MALE">
             <persName>Никифор</persName>
             <persName xml:lang="en">Nikifor</persName>
+            <persName xml:lang="de">Nikifor</persName>
           </person>
           <person xml:id="mitya" sex="MALE">
             <persName>Митя</persName>
             <persName xml:lang="en">Mitya</persName>
+            <persName xml:lang="de">Mitja</persName>
           </person>
           <person xml:id="ryabtsov" sex="MALE">
             <persName>Рябцов</persName>
             <persName xml:lang="en">Ryabtsov</persName>
+            <persName xml:lang="de">Rjabzow</persName>
           </person>
           <person xml:id="urusov" sex="MALE">
             <persName>Урусов</persName>
             <persName xml:lang="en">Urusov</persName>
+            <persName xml:lang="de">Urussow</persName>
           </person>
           <person xml:id="potapovna" sex="FEMALE">
             <persName>Евдокия Потаповна Холоденко</persName>
             <persName xml:lang="en">Evdokiya Potapovna Kholodenko</persName>
+            <persName xml:lang="de">Jewdokija Potapowna Cholodenko</persName>
           </person>
           <person xml:id="golos_iz_traktira" sex="UNKNOWN">
             <persName>Голос из трактира</persName>
             <persName xml:lang="en">A Voice from the Tavern</persName>
+            <persName xml:lang="de">Stimme in der Gaststube</persName>
           </person>
           <person xml:id="pyatirubel" sex="MALE">
             <persName>Иван Пятирубель</persName>
             <persName xml:lang="en">Ivan Pyatirubel</persName>
+            <persName xml:lang="de">Iwan Pjatirubel</persName>
           </person>
           <person xml:id="slepoi_zapevala" sex="MALE">
             <persName>Слепой</persName>
             <persName type="variant">Запевала</persName>
-            <persName xml:lang="en">The Blind Man</persName>
+            <persName xml:lang="en">The Blind Man (Lead Singer)</persName>
+            <persName xml:lang="de">Der Blinde (Vorsänger)</persName>
           </person>
-          <personGrp xml:id="drugie_sleptsy" sex="MALE">
-            <name>Другие слепцы</name>
+          <personGrp xml:id="sleptsy" sex="MALE">
+            <name>Слепцы</name>
             <name xml:lang="en">The Blind Men</name>
+            <persName xml:lang="de">Die Blinden</persName>
           </personGrp>
           <personGrp xml:id="golosa_iz_traktira" sex="UNKNOWN">
             <name>Голоса из трактира</name>
             <name xml:lang="en">Voices from the Tavern</name>
+            <persName xml:lang="de">Stimmen in der Gaststube</persName>
           </personGrp>
+          <person xml:id="matros" sex="MALE">
+            <persName>Матрос</persName>
+            <persName xml:lang="en">Sailor</persName>
+            <persName xml:lang="de">Matrose</persName>
+          </person>
           <person xml:id="fomin" sex="MALE">
             <persName>Фомин</persName>
             <persName xml:lang="en">Fomin</persName>
+            <persName xml:lang="de">Fomin</persName>
           </person>
           <person xml:id="golos_sosedki" sex="FEMALE">
             <persName>Голос соседки</persName>
             <persName xml:lang="en">Neighbor's Voice</persName>
+            <persName xml:lang="de">Stimme der Nachbarin</persName>
           </person>
           <person xml:id="marusya" sex="FEMALE">
             <persName>Маруся</persName>
             <persName xml:lang="en">Marusia</persName>
+            <persName xml:lang="de">Marusja</persName>
           </person>
           <person xml:id="kantor" sex="MALE">
             <persName>Кантор Цвибак</persName>
             <persName xml:lang="en">Cantor Zwieback</persName>
+            <persName xml:lang="de">Kantor Zwieback</persName>
           </person>
           <person xml:id="pervyy_evrey" sex="MALE">
             <persName>Первый еврей</persName>
             <persName xml:lang="en">First Jew</persName>
+            <persName xml:lang="de">Erster Jude</persName>
           </person>
           <person xml:id="vtoroy_evrey" sex="MALE">
             <persName>Второй еврей</persName>
             <persName xml:lang="en">Second Jew</persName>
+            <persName xml:lang="de">Zweiter Jude</persName>
           </person>
           <person xml:id="senka" sex="MALE">
             <persName>Сенька Топун</persName>
             <persName xml:lang="en">Senka Topun</persName>
+            <persName xml:lang="de">Senjka Topun</persName>
           </person>
           <person xml:id="tolstyak" sex="MALE">
             <persName>Толстяк с пушистыми щёками</persName>
             <persName xml:lang="en">The Fat Man with the Flushed Cheeks</persName>
+            <persName xml:lang="de">Der Dickwanst</persName>
           </person>
           <person xml:id="malchik" sex="MALE">
             <persName>Мальчик</persName>
             <persName xml:lang="en">The Boy</persName>
+            <persName xml:lang="de">Knabe</persName>
           </person>
           <person xml:id="bobrinets" sex="MALE">
             <persName>Бобринец</persName>
             <persName xml:lang="en">Bobrinets</persName>
+            <persName xml:lang="de">Bobrinez</persName>
           </person>
           <person xml:id="semyon" sex="MALE">
             <persName>Семён</persName>
             <persName xml:lang="en">Semyon</persName>
+            <persName xml:lang="de">Semjon</persName>
           </person>
           <person xml:id="madam_popyatnik" sex="FEMALE">
             <persName>Мадам Попятник</persName>
             <persName xml:lang="en">Madame Popyatnik</persName>
+            <persName xml:lang="de">Madame Popjatnik</persName>
           </person>
           <person xml:id="mayor" sex="MALE">
             <persName>Мирон Попятник (Майор)</persName>
             <persName xml:lang="en">Miron Popyatnik (Major)</persName>
+            <persName xml:lang="de">Miron Popjatnik (Major)</persName>
           </person>
           <person xml:id="klasha" sex="FEMALE">
             <persName>Клаша Зубарева</persName>
             <persName xml:lang="en">Klasha Zubaryeva</persName>
+            <persName xml:lang="de">Klascha Subarewa</persName>
           </person>
           <person xml:id="paren_s_tolstymi_nogami" sex="MALE">
             <persName>Парень с толстыми ногами</persName>
             <persName xml:lang="en">Thick-Legged Young Man</persName>
+            <persName xml:lang="de">Dickbeiniger Bursche</persName>
           </person>
           <person xml:id="prasol" sex="MALE">
             <persName>Прасол</persName>
             <persName xml:lang="en">Cattle Dealer</persName>
+            <persName xml:lang="de">Viehhändler</persName>
           </person>
           <person xml:id="madam_vayner" sex="FEMALE">
             <persName>Мадам Вайнер</persName>
             <persName xml:lang="en">Madame Weiner</persName>
+            <persName xml:lang="de">Madame Wajner</persName>
           </person>
           <person xml:id="zharia" sex="MALE">
             <persName>Бен Зхарья</persName>
             <persName xml:lang="en">Ben Zkharia</persName>
+            <persName xml:lang="de">Ben Zacharja</persName>
           </person>
           <person xml:id="vayner" sex="MALE">
             <persName>Вайнер</persName>
             <persName xml:lang="en">Weiner</persName>
+            <persName xml:lang="de">Wajner</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -1199,7 +1240,7 @@
           <speaker>Мендель.</speaker>
           <p>Песню!..</p>
         </sp>
-        <sp who="#drugie_sleptsy">
+        <sp who="#sleptsy">
           <speaker>Слепцы</speaker>
           <stage>(настраивают гитары. Тягучие их басы запевают).</stage>
           <lg>
@@ -1231,7 +1272,7 @@
           <speaker>Митя.</speaker>
           <p>Получайте рупь.</p>
         </sp>
-        <sp who="#drugie_sleptsy">
+        <sp who="#sleptsy">
           <speaker>Слепцы</speaker>
           <stage>(поют).</stage>
           <lg>
@@ -1261,9 +1302,11 @@
           <speaker>Рябцов.</speaker>
           <p>Поди разбери причину. У одного деньги есть — он от денег гуляет, у другого денег нет —
             он от бедности гуляет. Человек ото всего гуляет...</p>
-          <stage>Песня гремит всё могущественнее. В разбитом окне качается звезда. Заспанные девки
-            встали у косяков, подперли груди шершавыми руками и запели. Матрос качается на
-            расставленных больших ногах и подпевает чистым тенором.</stage>
+        </sp>
+        <stage>Песня гремит всё могущественнее. В разбитом окне качается звезда. Заспанные девки
+          встали у косяков, подперли груди шершавыми руками и запели. Матрос качается на
+          расставленных больших ногах и подпевает чистым тенором.</stage>
+        <sp who="#matros">
           <lg>
             <l>Шилка и Нерчинск не страшны теперь,</l>
             <l>Горная стража меня не поймала.</l>
@@ -1309,7 +1352,7 @@
           <speaker>Урусов.</speaker>
           <p>Рано.</p>
         </sp>
-        <sp>
+        <sp who="#sleptsy">
           <stage>Певцы поют во всю мочь:</stage>
           <lg>
             <l>Славное море — священный Байкал,</l>
