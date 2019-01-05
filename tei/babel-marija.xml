@@ -35,7 +35,7 @@
               и драматургия», 1935, № 3, февраль, с.45-59. (Wikilivres)</date>
             <date type="premiere" when="1964">"in 1964, an at the time completely unknown play,
               Maria, received its first ever production in Italy" (web.stanford.edu)</date>
-            <date type="written"/>
+            <date type="written" when="1934"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -46,90 +46,112 @@
           <person xml:id="evstigneich" sex="MALE">
             <persName>Евстигнеич</persName>
             <persName xml:lang="en">Evstignevich</persName>
+            <persName xml:lang="de">Jewstignejitsch</persName>
           </person>
           <person xml:id="bishonkov" sex="MALE">
             <persName>Бишонков</persName>
             <persName xml:lang="en">Bishonkov</persName>
+            <persName xml:lang="de">Bischonkow</persName>
           </person>
           <person xml:id="dymshits" sex="MALE">
             <persName>Дымшиц</persName>
             <persName xml:lang="en">Dimshits</persName>
+            <persName xml:lang="de">Dymschitz</persName>
           </person>
           <person xml:id="viskovskiy" sex="MALE">
             <persName>Висковский</persName>
             <persName xml:lang="en">Viskovsky</persName>
+            <persName xml:lang="de">Wiskowskij</persName>
           </person>
           <person xml:id="filipp" sex="MALE">
             <persName>Филипп</persName>
             <persName xml:lang="en">Filip</persName>
+            <persName xml:lang="de">Philipp</persName>
           </person>
           <person xml:id="lyudmila" sex="FEMALE">
             <persName>Людмила</persName>
             <persName xml:lang="en">Ludmila</persName>
+            <persName xml:lang="de">Ljudmila</persName>
           </person>
           <person xml:id="katya" sex="FEMALE">
             <persName>Катя</persName>
             <persName xml:lang="en">Katya</persName>
+            <persName xml:lang="de">Katja</persName>
           </person>
           <person xml:id="mukovnin" sex="MALE">
             <persName>Муковнин</persName>
             <persName xml:lang="en">Mukovnin</persName>
+            <persName xml:lang="de">Mukownin</persName>
           </person>
           <person xml:id="golitsyn" sex="MALE">
             <persName>Голицын</persName>
             <persName xml:lang="en">Golitsyn</persName>
+            <persName xml:lang="de">Golizyn</persName>
           </person>
           <person xml:id="kravchenko" sex="MALE">
             <persName>Кравченко</persName>
             <persName xml:lang="en">Kravchenko</persName>
+            <persName xml:lang="de">Krawtschenko</persName>
           </person>
           <person xml:id="dora" sex="FEMALE">
             <persName>Мадам Дора</persName>
             <persName xml:lang="en">Madame Dora</persName>
+            <persName xml:lang="de">Madame Dora</persName>
           </person>
           <person xml:id="nadziratel" sex="MALE">
             <persName>Надзиратель</persName>
             <persName xml:lang="en">A Police Inspector</persName>
+            <persName xml:lang="de">Inspektor</persName>
           </person>
           <person xml:id="kalmykova" sex="FEMALE">
             <persName>Калмыкова</persName>
             <persName xml:lang="en">Kalmikova</persName>
+            <persName xml:lang="de">Kalmykowa</persName>
           </person>
           <person xml:id="nefyodovna" sex="FEMALE">
             <persName>Нефедовна</persName>
             <persName xml:lang="en">Nefedovna</persName>
+            <persName xml:lang="de">Nefedowna</persName>
           </person>
           <person xml:id="krasnoarmeets" sex="MALE">
             <persName>Красноармеец</persName>
             <persName xml:lang="en">A Red Army Fighter</persName>
+            <persName xml:lang="de">Rotarmist</persName>
           </person>
           <person xml:id="agasha" sex="FEMALE">
             <persName>Агаша</persName>
             <persName xml:lang="en">Agasha</persName>
+            <persName xml:lang="de">Agascha</persName>
           </person>
           <person xml:id="tikhon" sex="MALE">
             <persName>Тихон</persName>
             <persName xml:lang="en">Tikhon</persName>
+            <persName xml:lang="de">Tichon</persName>
           </person>
           <person xml:id="andrei" sex="MALE">
             <persName>Андрей</persName>
             <persName xml:lang="en">Andrei</persName>
+            <persName xml:lang="de">Andrej</persName>
           </person>
           <person xml:id="sushkin" sex="MALE">
             <persName>Сушкин</persName>
             <persName xml:lang="en">Sushkin</persName>
+            <persName xml:lang="de">Suschkin</persName>
           </person>
           <person xml:id="kuzma" sex="MALE">
             <persName>Кузьма</persName>
             <persName xml:lang="en">Kuzma</persName>
+            <persName xml:lang="de">Kusjma</persName>
           </person>
           <person xml:id="elena" sex="FEMALE">
             <persName>Елена</persName>
             <persName xml:lang="en">Elena</persName>
+            <persName xml:lang="de">Jelena</persName>
           </person>
           <person xml:id="nyusha" sex="FEMALE">
             <persName>Нюша</persName>
             <persName xml:lang="en">Nyusha</persName>
+            <persName xml:lang="de">Njuscha</persName>
           </person>
         </listPerson>
       </particDesc>
