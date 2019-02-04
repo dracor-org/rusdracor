@@ -69,6 +69,7 @@
         <change when="2017-06-22">(mk) convert from source</change>
         <change when="2017-06-22">(ff) formalities, IDs</change>
         <change when="2018-04-06">(ff) more formalities</change>
+        <change when="2019-02-04">(ff) add div type dictionary at the end of the play</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -1178,18 +1179,48 @@
         <stage>(Тарантас въезжает в березовую рощу.)</stage>
         <stage>1851 г.</stage>
       </div>
-      <div>
+      <div type="dictionary">
         <head>Орловские слова, которые попадаются в «Разговоре»:</head>
-        <p>Лядащий — никуда не годный, дрянной.</p>
-        <p>Божевольный — шаловливый, пугливый.</p>
-        <p>Вохляк — неловкий, мешок.</p>
-        <p>Очунеть — притти в себя.</p>
-        <p>Спапашиться — справиться, изловчиться.</p>
-        <p>Лытки — мышцы под коленками.</p>
-        <p>Верх — овраг.</p>
-        <p>Взлобок, взлобочек — выдающийся мыс между двумя оврагами.</p>
-        <p>Взлыз — покатое место, pente douce.</p>
-        <p>Иржы — множественное число слова: рожь.</p>
+        <entry>
+          <form>Лядащий</form>
+          <sense>— <def>никуда не годный, дрянной</def>.</sense>
+        </entry>
+        <entry>
+          <form>Божевольный</form>
+          <sense>— <def>шаловливый, пугливый</def>.</sense>
+        </entry>
+        <entry>
+          <form>Вохляк</form>
+          <sense>— <def>неловкий, мешок</def>.</sense>
+        </entry>
+        <entry>
+          <form>Очунеть</form>
+          <sense>— <def>притти в себя</def>.</sense>
+        </entry>
+        <entry>
+          <form>Спапашиться</form>
+          <sense>— <def>справиться, изловчиться</def>.</sense>
+        </entry>
+        <entry>
+          <form>Лытки</form>
+          <sense>— <def>мышцы под коленками</def>.</sense>
+        </entry>
+        <entry>
+          <form>Верх</form>
+          <sense>— <def>овраг</def>.</sense>
+        </entry>
+        <entry>
+          <form>Взлобок, взлобочек</form>
+          <sense>— <def>выдающийся мыс между двумя оврагами</def>.</sense>
+        </entry>
+        <entry>
+          <form>Взлыз</form>
+          <sense>— <def>покатое место, pente douce</def>.</sense>
+        </entry>
+        <entry>
+          <form>Иржы</form>
+          <sense>— <def>множественное число слова: рожь</def>.</sense>
+        </entry>
       </div>
     </body>
   </text>
