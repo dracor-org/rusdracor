@@ -47,22 +47,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="DonjaDolores" sex="FEMALE">
+          <person xml:id="donja_dolores" sex="FEMALE">
             <persName>Донья Долорес</persName>
           </person>
-          <person xml:id="DonRafael" sex="MALE">
+          <person xml:id="don_rafael" sex="MALE">
             <persName>Дон Рафаэль</persName>
           </person>
-          <person xml:id="DonBaltazar" sex="MALE">
+          <person xml:id="don_baltazar" sex="MALE">
             <persName>Дон Бальтазар</persName>
           </person>
-          <person xml:id="DonPablo" sex="MALE">
-            <persName>Дон Пабло</persName>
-          </person>
-          <person xml:id="Margarita" sex="FEMALE">
+          <person xml:id="margarita" sex="FEMALE">
             <persName>Маргарита</persName>
           </person>
-          <person xml:id="Sekretar" sex="MALE">
+          <person xml:id="don_pablo" sex="MALE">
+            <persName>Дон Пабло</persName>
+          </person>
+          <person xml:id="sekretar" sex="MALE">
             <persName>Секретарь</persName>
           </person>
         </listPerson>
@@ -75,11 +75,12 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change when="2017-05-20">(mk) convert from Source</change>
+        <change when="2017-05-20">(mk) convert from source</change>
         <change when="2017-06-01">(to) check IDs and dates</change>
         <change when="2017-06-01">(ff) delete brackets in stage directions according to original;
           move full stops from speech acts to speakers</change>
         <change when="2017-06-03">(to) gender info</change>
+        <change when="2019-02-04">(ff) lowercase IDs; add div types</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -88,22 +89,22 @@
       <div type="front">
         <head>Неосторожность</head>
       </div>
-    </front>
-    <body>
-      <p>ДЕЙСТВУЮЩИЕ ЛИЦА</p>
       <castList>
+        <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
         <castItem>Дон Бальтазар д'Эстуриз — 55 лет.</castItem>
         <castItem>Донья Долорес, жена его — 27 лет.</castItem>
         <castItem>Дон Пабло Сангре, друг его — 40 лет.</castItem>
         <castItem>Дон Рафаэль де-Луна — 30 лет.</castItem>
         <castItem>Маргарита, служанка — 59 лет.</castItem>
       </castList>
-      <div>
+    </front>
+    <body>
+      <div type="scene">
         <head>СЦЕНА I</head>
         <stage>Театр представляет улицу перед загородным домом дона Бальтазара. Направо от дома
           тянется каменная ограда. Дом двухэтажный с балконом; под балконом растет несколько олив и
           лавров. На балконе сидит донья Долорес.</stage>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(после некоторого молчания)</stage>. Однако, мне очень скучно. — Мне нечего
@@ -141,25 +142,25 @@
             получила такое письмо… Да где! Мы живем в такой глуши… Вот, если б кто зашел в нашу
             сторону…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(быстро выходя из-под балкона)</stage>. Что бы вы сделали, прекрасная
             сеньйора?</p>
         </sp>
         <stage>Донья Долорес вскакивает в испуге и остается неподвижной.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(низко кланяясь)</stage>. Сеньйора, ваш смиренный и почтительный обожатель ждет
             вашего ответа.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(прерывающимся голосом)</stage>. Как… обожатель… Я вас вижу в первый раз.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(про себя)</stage>. И я тоже. — <stage>(Громко.)</stage> Сеньйора… я давно вас
@@ -168,7 +169,7 @@
             подозрение вашего супруга.</p>
         </sp>
         <stage>Донья Долорес хочет уйти.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(с отчаянием)</stage>. Вы хотите уйти?.. А сами сейчас жаловались на одиночество,
@@ -176,64 +177,64 @@
             избавиться от скуки? Правда, наше знакомство началось довольно странным образом… что за
             беда! Вот, я уверен, с вашим супругом вы познакомились самым обыкновенным образом…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я, право, не знаю…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(умоляющим голосом)</stage>. Ах, останьтесь, останьтесь… Если б вы знали…
               <stage>(Он вздыхает.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но где же могли вы меня видеть?..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(вполголоса)</stage>. О, невинная голубка! <stage>(Громко.)</stage> Где? Вы
             спрашиваете, где? Здесь… и не только здесь, но даже… <stage>(показывая на дом)</stage>,
             там… <stage>(Про себя.)</stage> Надобно ее удивить…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Не может быть…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Послушайте. Вы меня не знаете. Вы не знаете, какими опасностями я пренебрегал, как
             часто я жертвовал честью, жизнию, — и все для того, чтоб хоть изредка, хоть издали
             увидеть вас, услышать голос ваш… или… <stage>(понизив голос)</stage> любоваться,
             мучительно любоваться вашим безмятежным сном. <stage>(Про себя.)</stage> Браво!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы меня пугаете… <stage>(Вздрагивая.)</stage> Ах, боже мой, мне кажется, я слышу голос
             Маргариты… <stage>(Хочет уйти.)</stage>
           </p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Не уходите, прекрасная сеньйора, не уходите… Вашего мужа нет дома?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Вообразите себе, что вы одним вашим присутствием даруете другому человеку, то есть мне,
             — такое блаженство, какое… словом — высочайшее блаженство… Не будьте же жестоки,
             останьтесь, умоляю вас.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но, помилуйте, могут подумать…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Что же могут подумать? Разве это не улица? Разве не всем позволено ходить по этой
             улице? Я прохожу мимо… <stage>(идет)</stage> и вздумал вернуться
@@ -245,13 +246,13 @@
             буду ходить и смотреть на вас… <stage>(Начинает ходить взад и вперед.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(вполголоса)</stage>. Боже мой!.. что со мной делается… Голова горит, я едва
             дышу… Я никак не ожидала такого происшествия…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(тихо напевает песенку)</stage>. <l>Любви, любви я не дождусь,</l>
@@ -261,76 +262,76 @@
             <l>И не дождусь, и не дождусь.</l>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(слабым голосом)</stage>. Сеньйор…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Сеньйора?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Право, мне кажется, вам бы лучше уйти… Мой муж, дон Бальтазар, очень ревнив… притом, я
             люблю моего мужа…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>О, я не сомневаюсь!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Не сомневаетесь?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Вы, кажется, сказали, что вы боитесь вашего мужа…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(в замешательстве)</stage>. Я?.. вы меня не.. Но я здесь не одна… Старуха
             Маргарита презлая…</p>
         </sp>
         <stage>Из окна верхнего этажа осторожно выказывается голова Маргариты.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Я ее не боюсь…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Садовник Пепе пресильный…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(с некоторым беспокойством)</stage>. Пресильный? <stage>(Взглянув на свою
               шпагу.)</stage> И его я не боюсь.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Мой муж сейчас вернется…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Мы его пропустим… Притом, не забудьте, в случае опасности, вы в одно мгновенье можете
             скрыться.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ночь на дворе…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Ночь… ах, ночь! божественная ночь! Вы любите ночь? Я прихожу в восторг от одного слова
             «ночь»…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Тише, ради бога…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Извольте; я говорить не стану… но петь позволяется всякому человеку на улице. Вы
             услышите песенку приятеля моего, поэта, севильского… студента. <l>Он ходит по улице и
@@ -369,7 +370,7 @@
             <l>В благовонной тишине?..</l>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(вполголоса)</stage>. Я должна уйти… и не могу… Чем это все кончится?
@@ -379,38 +380,38 @@
             мгновенной необдуманности… шалости… другого, невозможного… вы понимаете меня —
             невозможного значения?..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(про себя)</stage>. Это что?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я думаю, вы сами знаете, всякая шалость только тем и хороша, что скоро кончается… Мы,
             кажется, довольно пошалили. Желаю вам покойной ночи.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Покойной, вам легко сказать!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я уверена, что вы будете спать прекрасно… Но если вы хотите… <stage>(с
               замешательством)</stage> в другой раз…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(про себя)</stage>. А-га!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Советую вам не приходить сюда, потому что вас непременно увидят… Я и так удивляюсь, что
             вас до сих пор никто не увидел… <stage>(Маргарита улыбается.)</stage> Если б вы знали,
             как я дрожу… <stage>(Дон Рафаэль вздыхает.)</stage> Приходите по воскресеньям в
             монастырь… я там бываю иногда — с мужем…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(в сторону)</stage>. Покорный слуга, — мне не шестнадцать лет…
@@ -418,12 +419,12 @@
             намерен встать на этот камень <stage>(он делает все, что говорит)</stage>, схватиться за
             этот забор…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с ужасом, едва не крича)</stage>. Помилуйте, что вы делаете!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(очень хладнокровно)</stage>. Если вы станете кричать, сеньйора, люди сбегутся,
@@ -431,12 +432,12 @@
               забор.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с возрастающим ужасом)</stage>. Зачем вы взлезли на забор?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Зачем? Я пойду в ваш сад… Я буду искать следы ваших ножек на песку дорожек. <stage>(Про
               себя.)</stage> Ба! я говорю стихами… <stage>(Громко.)</stage> Сорву на память один
@@ -445,7 +446,7 @@
               забора.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Да он сумасшедший!.. Он на дворе, бежит в сад… стучится в дверь. Ах, я пропала,
             пропала! Пойду, запрусь в своей комнате… авось, его не увидят… Нет, решительно
@@ -453,7 +454,7 @@
               скрывается. Через несколько времени входит дон Бальтазар.)</stage>
           </p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>А приятно погулять вечерком… Вот, я и домой пришел. Пора… пора — я загулялся, — я
             думаю, теперь часов десять… зато, как я славно отдохну! А дома меня ждет моя милая,
@@ -483,35 +484,35 @@
             здравствуй, Маргарита!.. Что? госпожа здорова? Вот я и вернулся. Возьми-ка мою
             палку…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Сеньйор дон Бальтазар д'Эстуриз!</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Ну?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Господин мой, сеньйор!</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>С ума ты сошла, что ли? Что тебе надобно?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>В ваш дом забрался молодой человек, дон Бальтазар.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Как?.. Стой… держи… тррррррр… молодой человек… Врешь, старуха!..</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Молодой, красивый незнакомец в голубом плаще, с белым пером.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(задыхаясь)</stage>. Белый человек… в плаще… с незнакомым пером…
@@ -521,11 +522,11 @@
             умираю…</p>
         </sp>
         <stage>Сангре входит.</stage>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Это что значит? Бальтазар…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(вскакивая и обнимая его)</stage>. Это ты, ты, мой спаситель, отец… Сангре,
@@ -533,7 +534,7 @@
               Маргарите.)</stage> Да как он забрался, а? Отчего ты не кричала, а? Ты сама с ними в
             заговоре, старая ведьма…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(шопотом)</stage>. Перестаньте кричать; он вас услышит. <stage>(К
@@ -547,7 +548,7 @@
             пошла к себе… Я тотчас же заперла комнату госпожи, заперла калитку в сад и ни слова не
             сказала Пепе. Теперь извольте распоряжаться, как знаете.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(вспыхнув и сквозь зубы)</stage>. Итак, она… <stage>(Схватывает руку дон
@@ -557,57 +558,57 @@
             разговаривать смирно, тихо, без лишних телодвижений… как будто мы говорим о каком-нибудь
             хозяйственном распоряжении.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Да помилуйте…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Бальтазар… во-первых, успокойся, а во-вторых, спрячь свое лицо… Ты так бледен и так
             встревожен, что они тотчас догадаются, о чем мы говорим…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Они…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Ну, да… он и она… Бог их знает, может быть, они как-нибудь нас видят… Однако ты,
             Маргарита, точно заперла дверь?.. <stage>(Маргарита утвердительно кивает
               головой.)</stage>
           </p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>И она не беспокоилась?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Не в первый раз я ее запираю…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>А он заперт в саду?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Да.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Скажи, пожалуйста, любезная Маргарита, комната доньи Долорес окнами на двор что ли, или
             в сад… в сад, помнится?..</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>В сад… да до них высоко.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Прекрасно… все прекрасно… Они нас видеть не могут… Дон Бальтазар. Однако, и ты бледен,
             Пабло…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Будто?.. Маргарита, вели-ка тотчас Пене спустить собак… да вели ему стать у ворот с
             дубиной… слышишь? Да поднеси ему вина — крепкого, хорошего, старого вина… Ступай.
@@ -618,38 +619,38 @@
               садятся.)</stage> Как темно стало!.. Как весело сидеть в темноте и думать, с
             наслаждением думать о мести!..</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Но… может быть, Долорес не виновата?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Ты думаешь?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Он, может быть, против ее воли перелез через забор…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>А зачем же она не звала на помощь? Зачем не кричала? Зачем она разговаривала с ним, с
             незнакомым человеком?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Изменница!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Впрочем, мы все дело разберем, как следует, любезный Бальтазар. Мы любим правосудие.
             Итак, во-первых, неприятель уйти не может: большое утешение! Весь сад обнесен таким
             высоким забором.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>По твоей милости, милый Пабло.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>По моей милости, как ты говоришь, милый Бальтазар. С каким наслаждением вбивал я каждый
             кол! Но дело не в том. Наша крепость в исправности; враг у нас в руках. Правда, есть
@@ -657,53 +658,53 @@
             собаки у него знатные… Завтрашний же день, если понадобится, велю и стену повысить, и
             крючья вбить…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Если понадобится?! Наверное понадобится!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Ну, это мы увидим… Итак, повторяю, враг у нас в руках… <stage>(Со вздохом.)</stage>
             Бедный! он не знал, в какую западню лез!</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Что мы с ним сделаем?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Дон Бальтазар д'Эстуриз, друг мой, извольте предложить ваше мнение. Мы вас слушаем.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Я полагаю… схватить его, да и по… разве… дать… <stage>(Делая руками весьма решительные
               движения.)</stage> Зачем он пожаловал ко мне в гости? Ну, а потом попросить Пепе… Ты
             понимаешь? Дон Пабло. Да и зарыть его где-нибудь у перекрестка?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Что ты? живого человека… то есть, не совсем живого, да и не мертвого. — Боже
             сохрани!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я вас понимаю, дон Бальтазар. Фи! как неблагородно вы изволите мыслить!</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>А вы какого мнения, почтеннейший Сангре?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я? А вот, узнаете на деле. Позвольте мне достать мой фонарчик… Что за нелепость! у меня
             руки дрожат, как у старика… Милый Бальтазар! вы никогда не бывали на птичьей охоте? не
             ставили силков! не расстилали сетей?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Бывал, бывал; да что…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>А! бывали! Не правда ли, как приятно притаиться и ждать, долго ждать? Вот, птички,
             красивые, веселые птички, начинают понемногу слетаться; сперва дичатся, робеют; потом
@@ -719,10 +720,10 @@
           </p>
         </sp>
       </div>
-      <div>
+      <div type="scene">
         <head>СЦЕНА II</head>
         <stage>Сад.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(один)</stage>. Что за дьявольщина? Я хотел войти в дом со двора — дверь заперта;
@@ -741,241 +742,241 @@
               тихо растворяется; в окне показывается донья Долорес.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>С-ст!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>А!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(шопотом)</stage>. Сеньйор… сеньйор…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(тоже шопотом)</stage>. Это вы, прекрасная сеньйора? Наконец…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(ломая руки)</stage>. Боже мой! что вы сделали? что вы сделали? Меня заперли в
             комнате… Я уверена, что Маргарита нас подслушала и все сказала мужу. Я погибла!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Вас заперли? Странно… и меня заперли.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Как? и вас заперли? Боже мой, все открыто!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Не падайте в обморок, ради бога; мы должны с вами придумать, как нам выйти из этого
             бедственного положения.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Спасайтесь, уйдите поскорее!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Да как уйти? Я не птица, не могу перелететь через трехаршинный частокол… Ваш муж
             вернулся?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Не знаю; в доме все тихо… Ах, какая тоска, какая тоска!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>А давно ли вы жаловались на однообразие вашей жизни? Вот вам и сильные ощущения!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Стыдитесь, сударь, стыдитесь! Если б я была мужчиной, вы бы не дерзнули смеяться надо
             мной!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(в сторону)</stage>. Как она мила! <stage>(Громко.)</stage> Не гневайтесь на
             меня… <stage>(Становится на колени.)</stage> Смотрите, я стал на колени, я прошу вашего
             прощения…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ах! полноте, встаньте; мне не до того!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Слушайте, сеньйора, я вам докажу, что я не заслуживаю вашего презрения. Хотите ли? я
             выдам себя за вора; вы закричите, зовите на помощь; к вам прибегут; вы скажете, что
             видели чужого человека в саду; меня схватят, и… и я уж как-нибудь постараюсь
             отделаться.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но вас убьют?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Нет, не убьют; но неприятностей я не избегну… Что ж делать! <stage>(С жаром.)</stage> Я
             всем готов жертвовать для вас…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(задумывается)</stage>. Нет, ни за что, ни за что в мире!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(про себя)</stage>. Ну, признаюсь, я струсил; я так и думал, что она
             закричит.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Боже мой! Боже мой! чем все это кончится? Спрячьтесь; я позвоню, позову Маргариту…
               <stage>(Рафаэль прячется.)</stage> Никто не идет… Это ужасно, ужасно! Он погубил
             меня!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Сеньйора…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ну?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Извольте решаться поскорее, потому что, кажется, кто-то отворяет калитку…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Да я не могу вас выдать за вора.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Не можете?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Нет.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Впрочем, вам и не нужно выдавать меня за вора: меня и так за вора примут.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но… но я боюсь за вас.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Не извольте тревожиться. Я скажу, что гулял, да и зашел в ваш сад.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вам не поверят.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Да разве я не правду скажу?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(боязливо оглядываясь)</stage>. Боже мой! мне кажется, что даже стены нас
             подслушивают.</p>
         </sp>
         <stage>Дон Пабло осторожно выглядывает из-за одного дерева.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>О, сеньйора! если б я был на вашем месте…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с отчаянием)</stage>. Да что я могу сделать?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Вы можете впустить меня в дом.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Каким же образом?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>А вот как: возьмите шаль или полотенце — что хотите — привяжите один конец к окну и
             другой…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ни за что!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>О, не беспокойтесь: я не сломаю себе шеи; я привык к таким проделкам… <stage>(Донья
               Долорес немного отходит от окна.)</stage> Послушайте: клянусь вам честью, если вы меня
             впустите в вашу комнату, я сяду в угол и буду молчать, как наказанный школьник…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы, кажется, совершенно меня презираете, милостивый государь?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Помилуйте! Но, признаюсь, вашего Пепе и его собак…</p>
         </sp>
         <stage>Дон Пабло скрывается.</stage>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Боитесь? Хорош витязь!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Витязям не велено не бояться собак.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Меня это молчание ужасает. Наверное дон Бальтазар дома… Отчего это он не приходит ко
             мне… что за таинственность?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Не беспокойтесь, пожалуйста. Калитку заперли оттого, что уже поздно… Вас, я думаю, не в
             первый раз запирают, а муж ваш где-нибудь замешкался… Послушайте, мое предложение,
             право, прекрасно: если даже мне не удастся спрятаться где-нибудь в вашем доме до
             завтрашнего утра, так, в крайнем случае, я могу выскочить в сад…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(торопливо)</stage>. Спрячьтесь, — мою дверь отворяют. <stage>(Она отходит от
               окна. Рафаэль прячется.)</stage>
           </p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(за сценой)</stage>. Доброй ночи, доброй ночи, сеньйора! Извините меня,
             пожалуйста; я вас заперла; мне надобно было отлучиться на полчасика… Вы на меня не
             гневаетесь?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(за сценой)</stage>. Дон Бальтазар возвратился?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(за сценой)</stage>. Нет еще; да он не скоро придет, — он пошел к нашему соседу,
@@ -983,201 +984,201 @@
               окну.)</stage>
           </p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>А вы опять сидели у окна, сеньйора? Вот, вы когда-нибудь простудитесь…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я…я смотрела на звезды.</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>На звезды! Ох, вы, молодые люди! и ночью-то вам не спится; а мне так мочи нет, — голова
             болит, спина болит, а глаза так и слипаются.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Что ж, Маргарита, ступай, отдохни.</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Да как же мне вас оставить?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ничего, ничего; я сама скоро лягу спать. Ступай, ступай, бедняжка; мне, право, жаль
             тебя…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Ну, прощай, мой ангелочек!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Прощай. <stage>(Она ее обнимает, уходит с ней и через несколько времени показывается у
               окна.)</stage> Сеньйор! сеньйор! <stage>(Дон Рафаэль осторожно выходит.)</stage>
             Послушайте, могу ли я вполне положиться на вас? Точно ли вы честный человек?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Сеньйора. клянусь…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Не клянитесь… Ах, если б я могла пристально взглянуть вам в глаза, я бы тотчас узнала,
             что вы за человек!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(про себя)</stage>. О-го!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но скажите мне, скажите, что вы не в состоянии оскорбить женщину.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Никогда!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Сеньйор, посмотрите, что у меня в руке.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(всматриваясь)</stage>. Ключ?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ключ от двери на улицу.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Неужели? Каким образом, откуда вы достали этот бесценный ключ?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Откуда? из-за пояса Маргариты.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Бра… браво! <stage>(Про себя.)</stage> О, женщины, женщины! Этого я не ожидал,
             признаюсь.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но все ж, вам нельзя выйти из дома…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Отчего же, сеньйора?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Оттого, что вам надобно сперва войти в дом.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(умоляющим голосом)</stage>. Сеньйора…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Послушайте: сделайте одолжение, уйдите, как вы пришли, по той же дороге.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Скажите, пожалуйста, давно не кормили ваших собак?.. Они лают с ужасным остервенением…
             Голодные собаки и пьяный садовник… Прошу покорно!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>О, боже мой, что мне делать?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Как, что вам делать? Вот, все женщины таковы: любят тревожиться попустому и создавать
             себе различные небывалые препятствия и трудности… Пока ваш муж не вернулся, пока
             Маргарита не проснулась — впустите меня…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(в нерешимости)</stage>. Да как же вас впустить?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Ах, сеньйора! я вижу, вам весело терзать меня…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы тотчас выйдете из моей комнаты? из дома?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Тотчас.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>И ни слова мне не скажете?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Ни полслова… даже не поблагодарю вас.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Делать нечего… решаюсь…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(про себя)</stage>. Наконец!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(привязав шаль к окну)</stage>. О, творец! чего необходимость не заставит
             сделать…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(с трудом взлезая)</stage>. Вы… правы… че… го… не зас… тавит…</p>
         </sp>
       </div>
-      <div>
+      <div type="scene">
         <head>СЦЕНА III</head>
         <stage>Комната доньи Долорес. В одном углу сидит донья Долорес, в другом — дон
           Рафаэль.</stage>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>И вы не хотите уйти?..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(вздыхая)</stage>. О, боже!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы бесчестный человек!</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Тише… Нас могут услышать.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Или вы хотите меня погубить? Я вам Говорю, что мой муж сейчас войдет… сейчас… Он меня
             убьет… сжальтесь же надо мной… Притом, Маргарита может хватиться ключа… Вот он вам:
             возьмите и уйдите скорее — тотчас. <stage>(Бросает ключ к его ногам.)</stage>
           </p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(неохотно вставая и поднимая ключ)</stage>. Делать нечего… повинуюсь. Но
@@ -1186,122 +1187,122 @@
             говорю с вами, — а вы приказываете мне уйти, не взглянув даже на вас… Не забудьте, я до
             сих пор разговаривал с вами в весьма почтительном расстоянии…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Не подходите… Я боюсь вас, — я вам не доверяю.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>А! вы мне не доверяете… И, вероятно, вполне поверите мне только тогда, когда я выйду из
             дома, то есть, когда мне нельзя будет подойти к вам… Послушайте — я ухожу, я прощаюсь с
             вами…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Да вы подходите ко мне?!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Ради неба, не пугайтесь и не кричите… <stage>(Видя, что она собирается бежать.)</stage>
             Я становлюсь на колени, я стою на коленях <stage>(становится на колени)</stage>. —
             Видите ли, как я почтителен и робок.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Да что вы хотите от меня?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Позвольте мне, на прощанье, поцеловать вашу руку…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(в нерешимости)</stage>. Да вы не уйдете…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Испытайте…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(протягивает руку, он приближается; вдруг она вздрагивает)</stage>. Боже мой! я
             слышу шаги моего мужа… его кашель… Вам нельзя уйти — я пропала… Спрячьтесь… Прыгните из
             окна… скорей!..</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(подбегая к окну)</stage>. Да я тут шею себе сломлю.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>А ваше обещание? Ну, все равно — вот сюда, сюда… <stage>(Толкает его в спальню и сама,
               задыхаясь, падает на софу. Дверь отворяется, входит дон Бальтазар с свечой.)</stage>
           </p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(про себя)</stage>. Проклятый Сангре… Каково мое положение!.. Он тут
               <stage>(подозрительно осматривается)</stage> я это знаю и…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(слабым голосом)</stage>. Это вы, дон Бальтазар?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(принужденно улыбаясь)</stage>. А… доброй ночи, моя милая. Как… как твое
             здоровье? <stage>(Вдруг повысив голос.)</stage> А, сударыня! вы… <stage>(Опять вдруг
               понизив.)</stage> Я что-то сегодня нездоров.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(про себя)</stage>. Что за странное обращение? <stage>(Громко.)</stage> Вы, в
             самом деле, что-то бледны… Где вы были, любезный Бальтазар?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Я бледен… хм… и отчего я бледен, вы не знаете? не знаете?.. <stage>(Передразнивая
               ее.)</stage> Любезный Бальтазар! «Любезный» происходит от слова любить… Вы меня
             любите, сеньйора?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Что с вами, сеньйор? Вы встревожены.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>А вы не встревожены?.. Дайте-ка мне ваш пульс пощупать… О-го! мне кажется, ваш пульс
             бьется очень скоро… Странно, право, странно… Отчего вы сидите одни, в потемках, без
             свечки? отчего?..</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(робко)</stage>. Я вас не понимаю, сеньйор.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(вспыхнув)</stage>. Не понимаете… А! вы меня не понимаете! <stage>(Донья Долорес
               вздрагивает и смотрит на него неподвижно.)</stage>
           </p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Отчего вы вздрогнули?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я… я… Вы меня пугаете.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Отчего вы пугаетесь? Совесть, видно, нечиста… <stage>(Кто-то легонько стучит в
               дверь.)</stage> Да… извините… Что бишь я хотел сказать? Я сегодня не совсем здоров…
@@ -1315,11 +1316,11 @@
               <stage>(Громко.)</stage> Вот, я и сказал им: извольте, останусь; но отпустите меня к
             жене на минуточку, а то она будет тревожиться… Ну, а теперь прощай.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Прощайте, дон Бальтазар; смотрите, не оставайтесь слишком долго у алькада.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>В самом деле? как вы заботливы… <stage>(Вспыхнув опять.)</stage> И вы не удивляетесь?
             Как я, ваш муж, я, Бальтазар д'Эстуриз, решаюсь провести всю ночь в чужом Доме… и вы не
@@ -1328,27 +1329,27 @@
             положение ужасно. <stage>(Громко.)</stage> Ну, прощайте… вам весело со мной прощаться, —
             сознайтесь, очень весело? вы меня не удерживаете!..</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(слабым голосом)</stage>. Если вам угодно, останьтесь…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Что ж? пожалуй, я останусь. Вы меня просите остаться… Я останусь… А! вы, я вижу,
             бледнеете… от радости, должно быть! Зачем я пойду к алькаду? <stage>(Садится в
               кресла.)</stage> Здесь так хорошо, так покойно, не правда ли, сеньйора?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но… может быть, ваши друзья…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Друзья? какие у меня друзья? У меня нет друзей. Я останусь. А! сеньйора, вы думали…</p>
         </sp>
         <stage>Дверь отворяется; входит Сангре — он бледен.</stage>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(кланяясь)</stage>. Извините меня, сеньйора, прошу вас. Я осмелился без вашего
@@ -1356,12 +1357,12 @@
             Любезный Бальтазар, все наши приятели тебя ожидают с нетерпением… ты им обещал тотчас
             вернуться… пойдем.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(нехотя вставая)</stage>. Я немножко… устал… милый друг.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(отводя его в сторону, шопотом)</stage>. Баба! <stage>(Бальтазар хочет
@@ -1381,11 +1382,11 @@
             предвестник несчастья… Я хоть и не верю всем этим вздорам, но все же лучше… Сеньйора,
             желаю вам спокойной ночи.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Прощайте; но клянусь вам честью…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Что против воли вас покидаю. Ведь вот, что ты хотел сказать, дружок? О, мой приятель,
             дон Бальтазар, настоящий придворный… Спокойной ночи, прекрасная и добродетельная
@@ -1395,38 +1396,38 @@
         <stage>Донья Долорес сидит в оцепенении… Свечка, принесенная Бальтазаром, остается на столе;
           чрез несколько времени Рафаэль выходит из спальни, прислушивается: слышен внизу стук
           прихлопнутой двери.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Они ушли… сеньора.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(про себя)</stage>. Этот Сангре ужасен… мне страшно, мне холодно… Эти взгляды,
             этот мрачный смех… Ах, я чувствую, я погибла…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Сеньйора…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(вставая)</stage>. Это вы? и вы остаетесь, не уходите?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Ваш муж ушел. Маргарита спит… <stage>(Донья Долорес молчит.)</stage> Боже мой! как вы
             прекрасны…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с отчаянием)</stage>. Нет, вы безжалостны! О, как я наказана за свои преступные
             желанья! <stage>(Бросается на софу.)</stage>
           </p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(долго молчит и смотрит на нее; потом несколько изменившимся голосом)</stage>. Вы
@@ -1456,24 +1457,24 @@
             тотчас, и даю вам слово не тревожить вас более никогда, хотя, вероятно, не скоро вас
             забуду.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы должны уйти, сеньйор… <stage>(Как будто про себя.)</stage> Мне страшно… мне кажется,
             я не переживу этой ночи: — все эти люди — Маргарита, Сангре, мой муж… Я их боюсь… Я
             боюсь их…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Бедная, бедная женщина!.. право, я готов плакать, глядя на вас… Как вы бледны… Как вы
             дрожите… Как вы мне кажетесь одинокими на земле!.. Но успокойтесь. Ваш муж ничего не
             подозревает; я тотчас уйду — и никто, никто в мире, кроме вас и меня, не будет знать о
             нашем свидании…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы думаете?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(садится подле нее)</stage>. Вы меня не боитесь теперь — не правда ли? Вы
@@ -1481,30 +1482,30 @@
             оскорбить. <stage>(Показывая на часы, стоящие на столе.)</stage> Посмотрите — через
             десять минут меня в этой комнате не будет…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я вам верю.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Странным образом сошлись мы с вами… но судьба свела нас не даром… не даром, по крайней
             мере, для меня… Я бы хотел вам многое сказать… но с чего начать, когда через несколько
             мгновений…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Скажите мне ваше имя.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Рафаэль… Ваше имя — Долорес?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(печально)</stage>. Долорес.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(тихим и тронутым голосом)</stage>. Долорес! клянусь вам, я до вас не любил ни
@@ -1514,220 +1515,220 @@
             знаю; по крайней мере, у меня будет одно чистое воспоминание… До сих пор я старался
             забывать всех женщин, с которыми сближал меня случай…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(грустно)</stage>. Сеньйор…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Если б вы знали вашу власть надо мною; если б вы знали, какую перемену вы так внезапно
             произвели во мне!.. <stage>(Взглянув на часы.)</stage> Но я верен своему слову…
             Прощайте… мне пора.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(подает ему руку)</stage>. Прощайте, Рафаэль.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(прижимая ее руку к губам)</stage>. Зачем я вас узнал так поздно?.. Мне так
             грустно расставаться с вами…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы меня не увидите более… Я вам говорю — я не переживу этой ночи.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(потупляет глаза и показывает на дверь)</stage>. Хотите… Вы свободны…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Нет, Рафаэль, смерть не хуже жизни.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(решительно)</stage>. Прощайте.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Прощайте, не забывайте меня.</p>
         </sp>
         <stage>Рафаэль бросается к двери. Дверь отворяется, входит Сангре.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(отскакивая)</stage>. Боже!..</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(донье Долорес)</stage>. Это я.</p>
         </sp>
         <stage>Долорес с криком бросается головой в подушки софы.</stage>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(быстро обнажая шпагу)</stage>. Сеньйор, я не безоружен.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(мрачно)</stage>. Вижу… но я, — вы видите — безоружен.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Клянусь вам честью… Если б вы знали… эта дама невинна.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я все знаю. Вам не нужно клясться.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Но уверяю вас…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(с иронической улыбкой)</stage>. Во-первых, я не требую от вас ни уверений, ни
             оправданий; а, во-вторых, сеньйор, ваше присутствие здесь неуместно… Не угодно ли вам
             пожаловать за мной?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Но куда вы меня поведете?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>О, не бойтесь…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль</speaker>
           <p>
             <stage>(перебивая его)</stage>. Я никого не боюсь, милостивый государь!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Если вы никого не боитесь, так идите за мной.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Но куда?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>На улицу, не далее, как на улицу, мой милый дон Жуан… А там я с вами раскланяюсь — и до
             приятного свидания…</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Я должен вам повиноваться… я вас оскорбил…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(мрачно)</stage>. А! вы сознаетесь, что вы меня оскорбили!.. Дон Рафаэль. Однако
             — теперь я вспоминаю — не вы супруг сеньйоры…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я здесь по его приказанью.</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Я готов, я иду, но… <stage>(Приближается к донье Долорес.)</stage>
           </p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Сеньйор, не забывайтесь!.. <stage>(Дон Рафаэль низко кланяется донье Долорес и
               умоляющим образом показывает на нее дону Пабло.)</stage> Понимаю… но вы не имеете
             права даже сожалеть о ней… Завтра вы можете о ней молиться?</p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Что вы сказали?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>О, ничего, ничего! Я, знаете, старый шутник… Не угодно ли? <stage>(Показывает на
               дверь.)</stage>
           </p>
         </sp>
-        <sp who="#DonRafael">
+        <sp who="#don_rafael">
           <speaker>Дон Рафаэль.</speaker>
           <p>Идите вперед.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Извольте. <stage>(Идет.)</stage>
           </p>
         </sp>
         <stage>Дон Рафаэль в последний раз с глубокой тоской взглядывает на донью Долорес и уходит
           за Сангре. Долорес остается одна; Маргарита тихо входит и становится подле нее.</stage>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(приходя в память)</stage>. Они его убьют… Сангре… где они… <stage>(Оборачивается
               и видит Маргариту.)</stage> А!</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(спокойно)</stage>. Что с вами, сударыня? Вы, кажется, не изволили ложиться
             почивать? Иль вы нездоровы?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Маргарита… Я знаю — они хотят моей смерти… ну, да — не притворяйся… ведь ты все знала,
             все слышала; ты сказала все мужу — признайся… Вот, ты смеешься, ты не можешь
             притворяться… да и к чему теперь? Скажи: тебе велено меня убить, дать мне яду, что ли?
             скажи…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Помилуйте, сеньйора — я вас не понимаю.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Ты меня понимаешь, Маргарита…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(медленно)</stage>. Вы, может быть, сеньйора, поступили не совсем осторожно,
             но?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(бросается на колени)</stage>. Скажи, правду, умоляю тебя, скажи мне правду…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(долго смотря на нее)</stage>. Передо мной… на коленях! <stage>(Наклоняясь к
               ней.)</stage> Ну, да, да, ты права — я тебя погубила, слышишь, потому что я тебя
             ненавижу…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с удивлением)</stage>. Ты меня ненавидишь?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Ты удивляешься? Ты не понимаешь причины моей ненависти? Помнишь ли ты дочь мою Марию?
             Скажи сама — была ли ты лучше ее? или умнее? или богаче? Но она всю жизнь свою была
             несчастна — а ты… Донья Долорес <stage>(грустно)</stage>. А я, Маргарита?</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Вы росли вместе, и в детстве всегда все тебя ласкали, а на мою дочь никто не обращал
             внимания… а она была не хуже тебя! Ты вышла замуж, разбогатела, а она осталась в
@@ -1743,23 +1744,23 @@
             хочу быть доброй… мое сердце пропитано желчью… а за этот вечер <stage>(оставайтесь,
               оставайтесь на коленях!)</stage>, за этот один вечер, я готова отказаться от рая…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(медленно встает)</stage>. Благодарю вас, Маргарита… Я вас более не боюсь, потому
             что я вас презираю…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Пустые громкие слова! Вы все-таки меня боитесь!..</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(отходит немного в сторону)</stage>. Боже! сжалься надо мной! не дай мне
             погибнуть!</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Как я внутренне смеялась над вами, когда вы так искусно вытащили у меня из-за пояса
             ключ… Мне было велено оставить этот ключ в вашей комнате. Но вы сами догадались и
@@ -1770,16 +1771,16 @@
             неотлучно при вас — не легкая должность, признаюсь, — но насущный хлеб не достается
             даром… Впрочем, не угодно ли вам пожаловать в вашу спальню…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я останусь здесь…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(приседая)</stage>. По приказанию дона Бальтазара…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(уходя, про себя)</stage>. Эта старуха меня несколько успокоила… Я, право, уже
@@ -1787,28 +1788,28 @@
           </p>
         </sp>
         <stage>Входят Пабло и Бальтазар.</stage>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Однако, право, ты поступил с ним так великодушно…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>В самом деле?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Помилуй! проводил его с поклонами до улицы, а садовнику велел светить… У меня бы он так
             легко не отделался! Я бы велел Пене проводить его другим образом…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Зачем же ты поручил мне распоряжаться?</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Зачем… Зачем? я думал, что ты…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Что я его вызову, убью, кровью его смою пятно с твоей чести, не правда ли? Чужими
             руками жар загребать так покойно, так удобно! а? дружище? Он мог тоже меня убить, потому
@@ -1816,38 +1817,38 @@
             ли, друг мой истинный, любезный Бальтазар? Оттого-то ты, должно быть, и не вошел со мною
             к ним… Такой сорванец может, пожалуй, сгоряча убить человека…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Сангре, ты знаешь: я не храбр, и не хвастаюсь храбростью… Но как же ты, ты мог
             выпустить этого нахала? Да он теперь смеется над нами…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Не думаю.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Разумеется, смеется… О, я задыхаюсь от досады… Он станет всем рассказывать свое
             приключение… А я с такою точностью соблюдал твои приказания… Нет, воля твоя…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Вспомни, что я требовал от тебя совершенного повиновения; вспомни, что ты согласился на
             все мои требования, и потому изволь выйти из комнаты.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Зачем?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Мне надобно сперва поговорить с доньей Долорес.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Тебе?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Послушай, любезный Бальтазар… Я уверен, что ты завтра будешь меня благодарить. Ты ведь
             хоть и старше меня, но такая горячка… Этого любезного человека я выпустил оттого, что не
@@ -1857,29 +1858,29 @@
             порядочно напугали… А ты готов теперь ее убить! Я тебя знаю: ты превспыльчивый
             человек.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Ну, не убить… но, признаюсь, мне бы хотелось хоть на ней-то выместить всю мою досаду… С
             другой стороны, скажу тебе, Сангре, я рад, что мы ее подвергли, как ты говоришь,
             испытанию… Она была довольно холодна.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Вы находите? Впрочем, в этом деле вы судья. По-моему, ей бы не следовало даже говорить
             с ним…</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Разумеется, ты прав совершенно… У меня нет нисколько твердости… ты прав.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Ты знаешь, она меня боится. Я хладнокровно и спокойно растолкую ей ее вину. Ты будешь
             несколько дней сряду обращаться с ней вежливо, но холодно, — и понемногу все придет в
             обыкновенный порядок. Она меня еще более возненавидит… но что же делать! я положил себе
             правилом: всем жертвовать для друга.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Я знаю, ты редкий человек. Ну, изволь, поговори с ней; но скажи ей, что я ужасно
             рассержен, что… чтоб она трепетала! что я буду теперь держать ее взаперти, под тремя
@@ -1890,36 +1891,36 @@
             найму ловкого, молчаливого, надежного человека и где-нибудь в переулочке, вечерком, он
             тому нахалу запустит в бок кинжальчик.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Вот, что дело, то дело!..</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Запустит… Итак, ты хочешь с ней остаться? Ну, изволь — я пойду!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Прощай.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(возвращаясь)</stage>. Но будь неумолим!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Хорошо.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Строг!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Слушаю.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар.</speaker>
           <p>Жесток!.. Какие любезности он ей отпускал! а она-то, она-то… Да и он, правда, дурак
             порядочный — нашел время ораторствовать… А все-таки, дружка я угощу… Ну, прощай, Сангре.
@@ -1927,31 +1928,31 @@
               <stage>(Уходит.)</stage>
           </p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(остается один; на столе слабо горит свечка; он долго ходит взад и вперед, потом
               вдруг подымает голову)</stage>. Я решился! <stage>(Он подходит к двери и стучит.
               Выходит Маргарита.)</stage> Маргарита, попроси донью Долорес пожаловать ко мне…</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита.</speaker>
           <p>Слушаю.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(дает ей кошелек с деньгами)</stage>. А потом ложись спать — и спи крепким сном…
             Ты меня понимаешь?..</p>
         </sp>
-        <sp who="#Margarita">
+        <sp who="#margarita">
           <speaker>Маргарита</speaker>
           <p>
             <stage>(отталкивая его руку)</stage>. Понимаю, но мне деньги не нужны. <stage>(Она
               уходит и через несколько времени является с доньею Долорес.)</stage>
           </p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(Маргарите)</stage>. Теперь ты можешь уйти… <stage>(Маргарита немного колеблется
@@ -1959,7 +1960,7 @@
               предлагает ей стул; она не садится и опирается рукою на стол. Сангре запирает все
               двери и подходит к ней.)</stage> Сеньйора…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(слабым голосом и не поднимая глаз)</stage>. Я устала, сеньйор… Позвольте мне
@@ -1967,17 +1968,17 @@
               ее прерывается.)</stage>
           </p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>К крайнему моему сожалению, я не в праве отложить наш разговор до завтра… Не угодно ли
             вам выпить стакан воды?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Нет… но позвольте вам заметить… я не обязана отвечать вам на ваши вопросы… Дон
             Бальтазар один…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(тщетно дожидается конца фразы доньи Долорес и после некоторого
@@ -1996,31 +1997,31 @@
             я избавил вас от весьма неприятных объяснений… Если б вы знали, сколько в душе моей
             снисходительности, даже нежности…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>В вас, сеньор?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Во мне, Долорес… <stage>(После некоторого молчания.)</stage> Я жду вашего ответа.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Что мне сказать вам?.. Я, право, не умею даже назвать это чувство… Мгновенное забвение…
             неосторожность… глупость… непростительная глупость.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я вам верю, сеньйора… И не правда ли, завтра же вы все позабудете — и его, и ваши
             слова, и вашу, как вы говорите, непростительную неосторожность…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с нерешимостью)</stage>. Да… конечно… или, может быть, нет, — по крайней мере,
             не так скоро…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Разумеется, сеньйора. Ваша жизнь, как жизнь почти всех замужних женщин, так
             однообразна, что подобное впечатление не может тотчас же изгладиться… Но ваше сердце,
@@ -2034,12 +2035,12 @@
             этот сад, на этот темный сад, в котором он некогда ожидал вас… Не правда ли,
             сеньйора?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с замешательством)</stage>. Сеньйор…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я вас не обвиняю… я даже думаю, что с некоторой точки зрения сам дон Бальтазар должен
             радоваться сегодняшнему приключению? Он может быть уверен, что вы сами будете стараться
@@ -2048,23 +2049,23 @@
             да и может быть, я ошибаюсь, — может быть, я придаю вам теперь или возбуждаю в вас
             мысли, которые вам и в голову не приходили… Скажите мне, ошибаюсь я, или нет?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(решительно)</stage>. Вы не ошибаетесь.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Как ваши глаза вдруг вспыхнули!.. О, да! вы меня ненавидите… я вашу ненависть прочел
             сейчас в вашем взгляде… да, вы будете думать, долго думать о нем. <stage>(Вдруг возвысив
               голос.)</stage> Так знай же, Долорес, что ты сейчас произнесла свой смертный
             приговор.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Что вы сказали?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Вас удивили мои слова? Но мне не должно притворяться: я решился сказать все, что так
             давно ношу в сердце… и вы меня выслушаете, клянусь честью, вы выслушаете меня…
@@ -2088,40 +2089,40 @@
               двери, силится ее отпереть, силится кричать. Пабло, подходит к ней и подводит ее к
               креслу.)</stage> Нет, вы не уйдете!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Пустите меня…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Как я глубоко оскорблен вашим торопливым страхом… О, да! Вы меня не только не любите,
             вы меня ненавидите, боитесь меня…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Да вы безумный!.. пустите меня…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Вы не уйдете.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с отчаянием)</stage>. Да, точно; я не могу уйти… Радуйтесь, кошка, — попалась
             вам мышь в лапы.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Прекрасно, сударыня; я готов продолжать ваше сравнение… Попалась в когти, говорите вы;
             а кто велел ей выходить… Сидел бы мышонок в своей норе, да поглядывал бы на божий
             свет…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но я закричу… я буду звать на помощь.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(вполне овладевший собою)</stage>. Э, полно вам ребячиться! или вы в самом деле
@@ -2129,13 +2130,13 @@
             болтать…</p>
         </sp>
         <stage>Донья Долорес пронзительно смотрит на него.</stage>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(мрачно)</stage>. Нет!.. мне вас не обмануть… Вы знаете, вы теперь знаете, что я
             вас люблю.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но что мне за дело до вашей любви? Какое- право дает вам ваша непрошенная, ваша
             навязчивая любовь? Стыдитесь, сеньйор… два года живете вы почти под одной кровлей с
@@ -2143,78 +2144,78 @@
             и глупыми мыслями. <stage>(Дон Пабло молчит.)</stage> И притом, вы всегда так
             красноречиво молчали…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>А вы хотели, чтоб я, человек немолодой, честолюбивый и упрямый, человек, которого
             надежды, убеждения и верования все перелопались, как мыльные пузыри, вы хотели, чтоб я
             болтал и вздыхал, как этот глупенький мальчик?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Он умнее вас, сеньйор, потому что хоть несколько приблизился к своей цели… Признаюсь,
             он мне понравился. А вы, сударь, вы хитры, надменны, молчаливы и застенчивы. Таких людей
             женщины не любят.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Если б вы знали, Долорес, какое сердце вы теперь попираете ногами!..</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>В самом деле? Впрочем, каждый человек воображает, что его сердце — сокровище,
             нетронутый клад… Я вас не хочу лишать вашего сокровища…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>О, сеньйора! как вы красно говорите!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>О, сеньйор! мне ли сравниться с вами! «Два года неумолимого молчания»… Неумолимого… мне
             это слово нравится.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Не шутите кинжалом… можете обрезаться.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я вас не боюсь.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Да, конечно; вы не боитесь меня с тех пор, как узнали, что я вас люблю… но берегитесь,
             моя любовь престранного рода… при том же, и я теперь убедился, что вы — не любите
             меня…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы убедились… теперь; а прежде не были убеждены?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Смейтесь, смейтесь надо мной… Если б вы знали, с какими чувствами я гляжу на вас… Как
             бы я охотно стал перед вами на колени, с каким наслаждением положил бы свою голову у
             ваших ног и ждал бы одного… одного рассеянного взгляда, как милости, если б не знал, что
             я только напрасно унижусь…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с злою насмешливостью)</stage>. Кто знает?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(задумчиво глядя на нее)</stage>. И что мне понравилось в этой белокурой
             головке?.. Странно! на всех людей, с которыми случалось мне сближаться, как, например,
             на Бальтазара, имел я почти мне самому непонятное влияние… а на нее…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы мне надоели!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(схватив ее за руку)</stage>. Однако, посмотри мне в глаза, посмотри мне в лицо…
@@ -2222,7 +2223,7 @@
             Как? — ты целые два года так беспечно, так бесстрастно терзала меня, а теперь смеешься
             надо мной? Или ты думаешь, что я не умею мстить?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(несколько дрожащим голосом)</stage>. Вы меня не испугаете… я у себя в доме. Я,
@@ -2233,7 +2234,7 @@
             что я прошу вас удалиться… Я завтра же — я тотчас же передам дон Бальтазару все, что вы
             мне говорили… Он не даст меня в обиду.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Нет, сеньйора, я не сговаривался с господином Рафаэлем, хотя, признаюсь, я научил
             Маргариту оставить ключ в вашей комнате, я научил дон Бальтазара сказать вам, что он
@@ -2243,71 +2244,71 @@
             медленно, целые два года созревала наша гибель… она созрела — я не мог удержаться и
             ударил по лошадям.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Но повторяю вам, что мне за дело до ваших чувств, до вашей гибели?..</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Так… но и мне-то что за дело до вашего страха, до вашего негодованья?.. <stage>(Донья
               Долорес задумывается.)</stage> О чем вы задумались?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Вы хотите знать, о чем я думаю… Я думаю о том, что если б у меня был муж гордый и
             смелый, истинный покровитель жены своей, — с какими горячими слезами я стала бы просить
             его заступиться за меня, наказать вас… с какою радостью приветствовала бы его, как
             победителя…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Просите дон Бальтазара вызвать меня на дуэль…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Сеньйор, пора нам кончить эту шутку…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Пора… вы говорите… пора…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Итак… прощайте.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Однако, вы, точно, меня не понимаете?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(гордо)</stage>. Милостивый государь, я не хочу вас понимать…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(кланяясь)</stage>. Сеньйора! какие мысли!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(презрительно)</stage>. Так уже не хотите ли вы убить меня?</p>
         </sp>
         <stage>Сангре молчит. В это время раздается стук у двери, и слышен голос Бальтазара: «Пабло,
           Пабло, скоро ли?»</stage>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Сейчас, мой милый, сейчас… Твоя жена все еще в таком волнении. <stage>(Долорес хочет
               крикнуть. Он быстро выхватывает кинжал и молча угрожает ей. Она падает в
               кресло.)</stage> Приходи через четверть часа, дружок.</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(за сценой)</stage>. Хорошо.</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(приближаясь к Долорес)</stage>. Долорес… вы понимаете, что после сегодняшнего
@@ -2319,7 +2320,7 @@
             добродетель… шут! ребенок! он верит в счастие… а я!.. <stage>(Задумывается.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(трепетным голосом)</stage>. Сеньйор, сеньйор дон Пабло… неужели ж, неужели ж вы
@@ -2329,160 +2330,160 @@
             сеньйор: я вас не люблю… то есть, вы говорили, что я вас не люблю; но вы сами, вы всегда
             были так угрюмы, так молчаливы… могла ли я думать…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Сирена!..</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Сангре, выпустите меня… Право, я устала от всех сегодняшних происшествий; я дон
             Бальтазару ничего не скажу, клянусь вам богом… Вы будете попрежнему ходить к нам… вы
             останетесь нашим другом… и я…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Твои слова напрасны, Долорес.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Послушайте, вы хотели меня напугать… Вы достигли своей цели, посмотрите, я вся дрожу;
             перестаньте же меня мучить…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Я вас долго мучить не буду.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Не принимайте такого торжественного вида, Пабло… рассмейтесь; я хочу… слышите, я хочу,
             чтоб вы рассмеялись…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Женские хитрости теперь неуместны, Долорес…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Сангре! опомнитесь! что с вами? Сжальтесь надо мной… Чем я виновата перед вами, Сангре?
             Неужели мои глупые выходки могли до такой степени озлобить вас?.. Боже мой! неужели я
             умру сегодня, в этом платье, в этой комнате?.. Я еще так молода, Пабло… сжалься! не губи
             моей молодости!..</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Вместе с твоей молодостью погибнет и моя поздняя молодость. Пока ты будешь жива, мне не
             будет покоя… <stage>(Подходит к ней.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с ужасом)</stage>. Но зачем вы хотите меня убить?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Кровь имеет очищающую силу. Молись!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(бросаясь на колени)</stage>. Сангре, ради неба!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Долорес, твой жребий выпал. Ты умоляешь камень, который тебе падает на голову…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с отчаянием)</stage>. Да почему вы знаете, что я не полюблю вас никогда?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(с ироническою улыбкой)</stage>. Почему?.. Долорес! одно лобзанье…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(вскакивая)</stage>. Подите прочь! О, я вас ненавижу, слышите ли? я вас ненавижу…
             Я не стыжусь всех слов моих, потому что я надеялась обмануть вас. Но мне досадно, что вы
             не дались в обман… Я буду защищаться, я буду звать на помощь…</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Долорес…</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Я не хочу умирать! Ко мне! ко мне!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Молчи.</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Спаси меня! спаси меня, Бальтазар!</p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(за дверью)</stage>. Что за крик?</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>Он хочет убить меня, Бальтазар! <stage>(Дверь трещит от напора дон Бальтазара.)</stage>
           </p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло</speaker>
           <p>
             <stage>(догоняя ее)</stage>. Все кончено!</p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес</speaker>
           <p>
             <stage>(с отчаянием)</stage>. Да, все, отвратительный старик! Я люблю Рафаэля!</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Молчи! <stage>(Он убивает ее.)</stage>
           </p>
         </sp>
-        <sp who="#DonjaDolores">
+        <sp who="#donja_dolores">
           <speaker>Донья Долорес.</speaker>
           <p>А! <stage>(Умирает.)</stage>
           </p>
         </sp>
-        <sp who="#DonBaltazar">
+        <sp who="#don_baltazar">
           <speaker>Дон Бальтазар</speaker>
           <p>
             <stage>(вламывается в дверь и с ужасом останавливается на пороге)</stage>. Боже мой! что
             это значит?</p>
         </sp>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Дон Пабло.</speaker>
           <p>Это значит, что я любил твою жену…</p>
         </sp>
       </div>
-      <div>
+      <div type="epilogue">
         <head>ЭПИЛОГ</head>
         <stage>10 лет спустя.</stage>
         <stage>Кабинет важного чиновника. За столом сидит секретарь. Входит дон Пабло Сангре, граф
           Торено.</stage>
-        <sp who="#DonPablo">
+        <sp who="#don_pablo">
           <speaker>Граф Пабло</speaker>
           <p>
             <stage>(хлопотливо секретарю)</stage>. Готовы ли мои бумаги? Мне пора…</p>
         </sp>
-        <sp who="#Sekretar">
+        <sp who="#sekretar">
           <speaker>Секретарь</speaker>
           <p>
             <stage>(почтительно)</stage>. Вот они, ваше сиятельство. <stage>(Оба выходят.)</stage>
           </p>
         </sp>
-        <p>1843 г.</p>
+        <stage>1843 г.</stage>
       </div>
     </body>
   </text>
