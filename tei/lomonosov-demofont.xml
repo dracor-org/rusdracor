@@ -42,28 +42,28 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Fillida" sex="FEMALE">
+          <person xml:id="fillida" sex="FEMALE">
             <persName>Филлида</persName>
           </person>
-          <person xml:id="Demofont" sex="MALE">
+          <person xml:id="demofont" sex="MALE">
             <persName>Демофонт</persName>
           </person>
-          <person xml:id="Kreuza" sex="FEMALE">
+          <person xml:id="kreuza" sex="FEMALE">
             <persName>Креуза</persName>
           </person>
-          <person xml:id="Polimnestor" sex="MALE">
+          <person xml:id="polimnestor" sex="MALE">
             <persName>Полимнестор</persName>
           </person>
-          <person xml:id="Memnon" sex="MALE">
+          <person xml:id="memnon" sex="MALE">
             <persName>Мемнон</persName>
           </person>
-          <person xml:id="Iliona" sex="FEMALE">
+          <person xml:id="iliona" sex="FEMALE">
             <persName>Илиона</persName>
           </person>
-          <person xml:id="Dramet" sex="MALE">
+          <person xml:id="dramet" sex="MALE">
             <persName>Драмет</persName>
           </person>
-          <person xml:id="Vestnik" sex="MALE">
+          <person xml:id="vestnik" sex="MALE">
             <persName>Вестник</persName>
           </person>
         </listPerson>
@@ -77,6 +77,7 @@
     <revisionDesc>
       <listChange>
         <change when="2017-10-08">(km) convert from source</change>
+        <change when="2019-02-12">(ff) repair nesting of scenes, lowercase IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -121,7 +122,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Филлида, Демофонт и Креуза.</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Он в сих уже стенах! о лютая напасть!</l>
@@ -131,14 +132,14 @@
               <l>Начто ты отлагал, начто толь долго брак?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Мне строгая судьба повелевала так!</l>
               <l part="I">Но что великой страх?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">Еще ли вопрошаешь?</l>
@@ -160,7 +161,7 @@
               <l>Смущенных от его внезапного приходу?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Сие ли устрашит геройскую породу?</l>
@@ -170,7 +171,7 @@
               <l>Кто Гектора видал и в поле с ним сражался?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>О мужестве твоем не сомневаюсь я;</l>
@@ -193,7 +194,7 @@
               <l>Как можешь предо мной себя ты оправдать?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Смущения твои, драгая, все напрасны,</l>
@@ -210,7 +211,7 @@
               <l>И, будучи царем, с царицей сопрягусь.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Так можешь целой год пробыть и без Филлиды!</l>
@@ -237,7 +238,7 @@
               <l>Троянским и моим богатством возгордиться?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>О как мне речь сия в печальну грудь разит!</l>
@@ -267,13 +268,13 @@
               <l>А ты, родитель мой, утехи той лишен!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Не мною ли он в сей печали погружен?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Такой мне от богов уже предел поставлен,</l>
@@ -281,7 +282,7 @@
               <l>Однако чтоб на нем в смущеньи утопать!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Но я ли строгостью могла тебя смущать?</l>
@@ -293,14 +294,14 @@
               <l>И с ней рука твоя ему бы не отмстила?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Так хочешь, чтобы я не видел нынь Афин</l>
               <l>И там не защитил отеческих седин?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ты, ведая мою любовь, как можешь мыслить,</l>
@@ -313,7 +314,7 @@
               <l>Увидев на тебе и свой и мой венец!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Не знаешь зависти меж греками, не знаешь!</l>
@@ -326,7 +327,7 @@
               <l>И после с оною твою совокупить.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Не мысли, государь, чтобы младые лета</l>
@@ -339,13 +340,13 @@
               <l>Что больше нет уже ко мне любви твоей.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Драгая, перестань терзать мой дух смущенный!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Бежишь от глаз моих? уж мысли развращенны</l>
@@ -354,14 +355,17 @@
               <l>И долее меня не хочешь удостоить.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Позволь, любезная, мне сердце успокоить!</l>
             </lg>
           </sp>
+        </div>
+        <div type="scene">
+          <head>Явление второе</head>
           <stage>Филлида и Креуза.</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Не ясно ль кажет мне его сомненна речь,</l>
@@ -370,7 +374,7 @@
               <l>Что он нарочно бег от брачного союза.</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Я сердцем трепещу, смущения боясь!</l>
@@ -379,7 +383,7 @@
               <l>Которого врагом со греками он числит?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Могла ли я такой печали ожидать?</l>
@@ -392,7 +396,7 @@
               <l>Ты знаешь мыслей в нем наружные приметы.</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Дай, небо, чтоб в твоих намерениях всех</l>
@@ -400,12 +404,9 @@
             </lg>
           </sp>
         </div>
-      </div>
-      <div type="act">
-        <head>Явление второе</head>
         <div type="scene">
           <head>Явление третие</head>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -427,7 +428,7 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Филлида и Полимнестор.</stage>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Уже мне наконец приятною судьбою,</l>
@@ -442,7 +443,7 @@
               <l>И жизнь мою с твоим наследством сохранили.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Что защищая ты во мне Ликургов род</l>
@@ -451,7 +452,7 @@
               <l>И чтят завистники, и любят сами боги.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Сим счастием хотя я много веселюсь,</l>
@@ -465,7 +466,7 @@
               <l>Достойное тебе быть ввек поручено.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Усердие твое известно мне давно:</l>
@@ -473,7 +474,7 @@
               <l>Но я, лишась отца, в тебе его имела.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Превыше ныне мер тобою я почтен,</l>
@@ -486,7 +487,7 @@
               <l>О счастлив, счастлив тот и всех он смертных боле!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Я верю, что народ Ликурга не забыл,</l>
@@ -497,7 +498,7 @@
               <l>Могла мне укрепить мою желанну часть.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Хоть всею я еще Фракиею владею,</l>
@@ -507,19 +508,19 @@
               <l>Своею больше ты успеешь красотою.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Коль мало пользовать могу себя я тою!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="I">Ты можешь ею всё...</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">Узнаешь скоро сам.</l>
@@ -530,7 +531,7 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Полимнестор и Мемнон.</stage>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Надеясь твоего в великий храм прихода,</l>
@@ -539,7 +540,7 @@
               <l>И жертву приносить богам готов олтарь.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Какое принесу я им благодаренье,</l>
@@ -548,7 +549,7 @@
               <l>И в мирные часы в груди сей брань чинит?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>В тебе ли можно быть каким мученьям месту?</l>
@@ -565,7 +566,7 @@
               <l>Коль часто слез река из глаз ее лилась!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Что часть ее жалка, Мемнон, я признаваю,</l>
@@ -578,7 +579,7 @@
               <l>Что в доме делалось и в сердце у нея?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Возможно ль от тебя мне, государь, таиться?</l>
@@ -625,13 +626,13 @@
               <l>Но бедным помогать велит сама природа!»</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="I">Кто сей несчастный был?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l part="F">Царя Тезея сын,</l>
@@ -640,7 +641,7 @@
               <l>Спокойством ободрен, и флот его исправлен.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>О вести странные! О чудный суд богов!</l>
@@ -654,7 +655,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Демофонт, Полимнестор и Мемнон.</stage>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Ты склонность кажешь мне всея надежды боле!</l>
@@ -663,7 +664,7 @@
               <l>Ты в скорби, государь, отраду мне принес.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>И я тем веселюсь, что дивная судьбина</l>
@@ -674,14 +675,14 @@
               <l>Не вы, не вы, они Приаму были строги!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Умеренность твою чему могу сравнять?</l>
               <l>Величеством души Приама больше зять!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>То всё еще теперь у промысла во власти;</l>
@@ -691,19 +692,19 @@
               <l>То день поставленный покажет нам, конечно!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Иль рвение богов на Трою будет вечно?</l>
               <l>Когда уже и в нас смягчилися сердца,</l>
               <l>То им ли злобиться на бедных без конца?</l>
-              <l>Когда представлю я в уме своем Приама&lt;,</l>
+              <l>Когда представлю я в уме своем Приама,</l>
               <l>Терзаюсь мыслями от жалости и срама,</l>
               <l>Что греческой рукой царева седина,</l>
               <l>О варварство! в его крови обагрена!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Теряет славу всю свирепством победитель,</l>
@@ -716,7 +717,7 @@
               <l>Сие б Приамову могло утешить дочь.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Мне знать других сердец движения не можно,</l>
@@ -726,7 +727,7 @@
               <l>Которую об ней...</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я в том не возбраняю.</l>
@@ -737,7 +738,7 @@
               <l>Могла бы от тоски хоть мало свободиться.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Все силы положу, чтоб греков посрамить</l>
@@ -750,14 +751,14 @@
         <div type="scene">
           <head>Явление второе</head>
           <stage>Полимнестор и Мемнон.</stage>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Я, объявив его к твоей невесте страсть,</l>
               <l>Дивлюсь, что ты ему даешь ходить к ней власть!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я не дал бы, но что ж? другое ныне время!</l>
@@ -768,13 +769,13 @@
               <l>Мой дух противиться их воле не дерзает!</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l part="I">Что слышу, государь?</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="F">От олтаря ответ!</l>
@@ -795,7 +796,7 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Полимнестор и Илиона.</stage>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Увидев, государь, наедине тебя,</l>
@@ -817,14 +818,14 @@
               <l part="I">Восставь и укрепи!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="F">Я должен сам упасть!</l>
               <l>О строгая судьба! о горестная часть!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Я вижу, государь, что разоренна Троя</l>
@@ -837,14 +838,14 @@
               <l>В тебе одном моим являются очам.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Когда б я был тебе Парисом иль Прнамом,</l>
               <l>То был бы счастлив я уже в несчастье самом.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Ты можешь, государь, теперь мне ими быть</l>
@@ -869,7 +870,7 @@
               <l>За Трою, за весь род, за собственну обиду.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я сею б кровь его рукою пролил сам,</l>
@@ -890,7 +891,7 @@
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -936,13 +937,13 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Илиона и Демофонт.</stage>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Еще ли умножать идешь мои печали?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Еще судьбы меня, еще к тебе послали,</l>
@@ -964,27 +965,27 @@
               <l>От нежностей твоих вовеки затворились.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="I">Неверной!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l part="M">И кому!</l>
             </lg>
           </sp>
           <stage>(Указывая на Илиону.)</stage>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="F">Подобен в том тебе.</l>
               <l>Филлида ль от тебя сего ждала себе?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Он лакомству, а я любви поработился;</l>
@@ -997,20 +998,20 @@
               <l>Тебе, дражайшая, я отдаюся сам.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Как можешь требовать, чтоб я тебя любила?</l>
               <l>Судьба и страсть меня другому поручила.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l part="I">Преступнику!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="F">Пускай хотя б таков он был,</l>
@@ -1029,14 +1030,14 @@
               <l>Возможно ли тебе любви моей желать?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Я общник, правда, был премены оной слезной,</l>
               <l>Я стены разорял отца своей любезной!</l>
               <l>Но может ли твой гнев, царевна, и в сей час</l>
               <l>Пылать против меня? еще ли не погас?</l>
-              <l>Не мною Гектор пал, не мною Поликсена&lt;</l>
+              <l>Не мною Гектор пал, не мною Поликсена</l>
               <l>В незлобивой крови угасла обагренна.</l>
               <l>Ах, если б я тебя еще до брани знал,</l>
               <l>Противу греков я с мечем бы сим восстал.</l>
@@ -1045,8 +1046,8 @@
               <l>Я дорого плачу потоки ваших слез</l>
               <l>И больше зла терплю, как Трое я нанес!</l>
               <l>Я в жертву дал себя грызущей нутрь печали</l>
-              <l>И больше сам горю, как Пергамы</l>
-              <l>пылали.</l>
+              <l>И больше сам горю, как Пергамы<note place="foot">Старое имя города Трои.</note>
+                пылали.</l>
               <l>Ты мучишь, хоть тебя всему я предпочел!</l>
               <l>Бывал ли я когда таков троянам зол?</l>
               <l>Но если не смягчит твой дух мои мученья,</l>
@@ -1079,7 +1080,7 @@
               <l>Там ждет меня, крушась при старости, отец.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Все вымыслы твои и речи бесполезны:</l>
@@ -1092,7 +1093,7 @@
               <l>Чтоб честь твоя для ней была повреждена.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Слыть братом Гектору всей чести имя равно,</l>
@@ -1109,34 +1110,34 @@
         <div type="scene">
           <head>Явление шестое</head>
           <stage>Демофонт, Илиона и Филлида.</stage>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <stage>(к Филлиде)</stage>
             <lg>
               <l>Любезная моя царевна, дай отраду.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(отступая назад)</stage>
             <lg>
               <l>Я вам лишь наношу препятствием досаду!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <stage>(удерживая Филлиду)</stage>
             <lg>
               <l>Оставленну от всех одна ты не оставь.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l part="I">К чему злой рок привел...</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(к нему)</stage>
             <lg>
@@ -1149,13 +1150,13 @@
               <l>Пойду, бессчастная.. . но где мне будет скрыться?</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Я следую тебе, погибну иль спасусь.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l part="I">Дражайшая, пожди, позволь...</l>
@@ -1164,7 +1165,7 @@
         </div>
         <div type="scene">
           <head>Явление седьмое</head>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт </speaker>
             <stage>(один)</stage>
             <lg>
@@ -1190,13 +1191,13 @@
         <div type="scene">
           <head>Явление восьмое</head>
           <stage>Демофонт и Драмет.</stage>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Скрепи, скрепи мой дух, возлюбленный Драмет!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Доколе, государь, ты будешь колебаться?</l>
@@ -1225,7 +1226,7 @@
               <l>Коль долго случай есть, отечество спасай.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Оставило оно при старости Тезея</l>
@@ -1234,7 +1235,7 @@
               <l>И вместо помощи за то ему отмщать.</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Послушай, государь, речей моих спокойно:</l>
@@ -1249,14 +1250,14 @@
               <l>Филлида в путь с тобой спешит, что ты коснеешь?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Я выше бы всего Филлиду почитал,</l>
               <l>Как Илионы б я на свете не видал!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Ты должен предпочесть благодеянье страсти,</l>
@@ -1271,7 +1272,7 @@
               <l>Коль сильну страсть в тебе попрала добродетель.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Я знаю, что везде похвально то, Драмет,</l>
@@ -1281,13 +1282,13 @@
               <l>Но честь в одну страну, в другу любовь влечет!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Там правда к торжеству, здесь прелесть в ров ведет.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Я вижу лучшее и, видя, похваляю,</l>
@@ -1309,14 +1310,14 @@
               <l part="I">Объемлет чувства все...</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l part="F">Искореняй мысль злую</l>
               <l>И первой тщись любви поработить другую.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Я благодарность там любовью называл,</l>
@@ -1327,7 +1328,7 @@
               <l>Обеим следую и ни одной из них!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Какой ни будь к тому ты приведен причиной,</l>
@@ -1335,7 +1336,7 @@
               <l>И слово данное и верность к ней держи.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Но как я то начну? любезной друг, скажи?</l>
@@ -1343,7 +1344,7 @@
               <l>Глубоку от другой имея в сердце рану?</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Лишь только ты теперь себя преодолей,</l>
@@ -1351,7 +1352,7 @@
               <l>Сильнее прежнего от слез твоих вспылает.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Надежда чрез тебя уж дух мой ободряет;</l>
@@ -1370,7 +1371,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Филлида и Полимнестор</stage>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Царевна, совершив я должных жертв обряды,</l>
@@ -1387,7 +1388,7 @@
               <l>И, угадав, тебя от скорби свободить?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Не наводи, ах, князь, на мысль мне большей ночи!</l>
@@ -1395,7 +1396,7 @@
               <l>Оставь наедине бессчастную вздыхать.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Тебя ли я могу терзаниям отдать?</l>
@@ -1415,7 +1416,7 @@
               <l>Мучения в лице изображает живо.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Не верь, ах, князь, словам, и взглядам ты не верь,</l>
@@ -1423,13 +1424,13 @@
               <l>Чужого сердца знать движений невозможно!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Оно в груди моей; я знаю, то неложно!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Что слышу я еще! Ты очи, князь, открой</l>
@@ -1442,7 +1443,7 @@
               <l>Где права естества, где божески законы?</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Когда бессмертные повергли уж троян,</l>
@@ -1455,7 +1456,7 @@
               <l part="I">И на богов восстать.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">О как ты делу злому</l>
@@ -1463,7 +1464,7 @@
               <l>Престань передо мной и мыслию грешить.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Или уж грех любить лице мне толь прекрасно?</l>
@@ -1483,7 +1484,7 @@
               <l>Ах, вспомни, что Ликург при смерти говорил!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Хотя владение тебе он поручил,</l>
@@ -1491,7 +1492,7 @@
               <l>Не могут повелеть цари любовной страсти.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Так буду я, крушась, в чужих руках смотреть</l>
@@ -1510,14 +1511,14 @@
               <l>Того ль не чувствуешь? Того ль не слышишь ты?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Престань такими, князь, терзать меня словами</l>
               <l>И дай мне умягчить тоску свою слезами.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я, жалостью твоей смущаясь, отхожу,</l>
@@ -1532,7 +1533,7 @@
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -1561,7 +1562,7 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Филлида и Креуза.</stage>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Царевна, по твоей исполнила я воле.</l>
@@ -1574,13 +1575,13 @@
               <l>И Демофонтов путь в Афины прекратить.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Пускай и сам огнем скончается, неверной!</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Ты, злобой на него вооружась безмерной,</l>
@@ -1588,7 +1589,7 @@
               <l>И безотрадного раскаянья блюдись!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ты, зная от него меня теперь презренну,</l>
@@ -1601,7 +1602,7 @@
               <l>Незлобия во мне не кажет ли мой взор?</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Ах, вспомни, как моим советом ты гнушалась,</l>
@@ -1609,7 +1610,7 @@
               <l>Тогда было тебе не слушать льстивых слов.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>И здравой ум на всё не может быть готов.</l>
@@ -1626,7 +1627,7 @@
               <l>Я думала ль тогда, что мне он только льстит?</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Минута жар зажгла, минута погасит.</l>
@@ -1634,7 +1635,7 @@
               <l>Отъезд его любовь и скорбь твою скончает.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Так отпущу его, Креуза, не отмстив?</l>
@@ -1645,7 +1646,7 @@
               <l>Хотя отчаялась, еще ему верна!</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Исполненной тебе приятного толь яда</l>
@@ -1654,7 +1655,7 @@
               <l>То сила всех лекарств бездельна и слаба.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Филлида, умирай, но возвративши славу,</l>
@@ -1665,40 +1666,40 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Демофонт, Филлида, Креуза и Драмет.</stage>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Исполни праведно отмщение на мне,</l>
               <l>Я оправдать себя не тщусь в своей вине.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Креуза, что теперь? куда себя укрою?</l>
               <l>Предерзостной предстал еще передо мною!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Вздыханиям моим, ах, небо, помоги!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Преступник, удались, от глаз моих беги.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Позволь, позволь сказать хотя едино слово:</l>
               <l>Я казни лишь прошу и ничего другого.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Еще ли чаешь ты в коварности успеть?</l>
@@ -1715,7 +1716,7 @@
               <l>Как станут мстить, на месть твоей не станет крови.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Когда уже в моих словах нет столько сил,</l>
@@ -1729,20 +1730,20 @@
             </lg>
           </sp>
           <stage>(Хочет заколоться.)</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(хватая за руку, и с нею прочие держат)</stage>
             <lg>
               <l part="I">Ах, дерзкой!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l part="M">Для богов!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <stage>(Филлиде)</stage>
             <lg>
@@ -1750,7 +1751,7 @@
               <l>Когда уж я тебе и сам себе постыл?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ты хочешь смертию меня уверить злою,</l>
@@ -1759,14 +1760,14 @@
               <l>Чтоб в жизнь несносныя Филлиды не видать?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Чтоб жизни дать конец бесславной толь и слезной,</l>
               <l>Чтоб тягостну не быть и небу, и любезной.</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <stage>(вкладывает Демофонту шпагу)</stage>
             <lg>
@@ -1774,20 +1775,20 @@
               <l>Живи и верностью загладить тщись порок.</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Вы вспомните залог любовного союза!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ах, то ли, то ли в нем любовь ко мне, Креуза,</l>
               <l>Чтобы в глазах моих другу к себе склонять?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Затем ли не даешь живот свой мне скончать,</l>
@@ -1796,14 +1797,14 @@
             </lg>
           </sp>
           <stage>(Опять хватается за шпагу, но они не допускают вынять.)</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Свирепой, чаешь ты, я мало слез лила?</l>
               <l>И мало для тебя я претерпела зла?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Причину зол твоих искоренить желаю;</l>
@@ -1816,7 +1817,7 @@
               <l>То б ты уверилась, ах! коль ты мне люба!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ты любишь и бежать готов отсель всечасно!</l>
@@ -1827,7 +1828,7 @@
               <l>Что, не крушив тебя, любовь свою открыла?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Чем ты безвиннее, драгая, предо мной,</l>
@@ -1837,7 +1838,7 @@
             </lg>
           </sp>
           <stage>(На колени становится.)</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ах, что желаешь ты еще меня крушить,</l>
@@ -1849,39 +1850,39 @@
               <l>Но смерть мне не простить, простить — мне вечной срам.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l part="I">Прости!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l part="F">Дражайшие сердца, соединитесь</l>
               <l>И нежныя любви законам покоритесь.</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <stage>(к Филлиде)</stage>
             <lg>
               <l part="I">На жалость преклонись.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">О, как мой дух смущен!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Уверь, дражайшая, уверь, что я прощен.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>На что меня твои вопросы принуждают?</l>
@@ -1899,7 +1900,7 @@
               <l>Вручаю сердце, жизнь, отечество и трон!</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Хотя о таковом прощенье сомневаюсь,</l>
@@ -1925,20 +1926,20 @@
               <l>От птиц и от зверей на части расхищен!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Любови обновив союз неоценённый,</l>
               <l>Уж время поспешать вам в путь определенный.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>От Полимнестора как можем утаить?</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Любовь моя, любовь всё может победить!</l>
@@ -1951,27 +1952,27 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Полимнестор и Илиона.</stage>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Какое счастие тебя ко мне ведет,</l>
               <l>От коего мой дух еще отрады ждет?</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="I">Я здесь искал тебя.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="F">Ужель стенаний сила</l>
               <l>Тебя к несчастливой на жалость преклонила?</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я, видя, что тебя сомнения мятут,</l>
@@ -1980,14 +1981,14 @@
               <l>Тебе то будет всё приятно, уповаю,</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>О небо, воссияй в мою затменну грудь</l>
               <l>И сердцу томному дай ныне отдохнуть!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я не пришел к тебе, чтоб льстивые обманы</l>
@@ -2015,13 +2016,13 @@
               <l>Что дал от олтаря мне строгой Марс в ответ!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>К надежде ли меня иль к пагубе влечет?</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>С одной страны тебе надежду обещает,</l>
@@ -2036,7 +2037,7 @@
               <l>Лежащу обещал тебе восставить Трою.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Возможно ль, чтобы те ж нас боги сочетать</l>
@@ -2083,7 +2084,7 @@
               <l>Коль темна ночь глаза и дух мой помрачает!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Ах, истинен твой гнев! я лютой твой тиран!</l>
@@ -2096,7 +2097,7 @@
               <l>Я больше тем тебя, бессчастну, погубляю.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>О жалость зверская, жалеть и убивать!</l>
@@ -2123,7 +2124,7 @@
               <l>И сердце пред олтарь преступно понеси.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Я с оным приступить к богам не обинуюсь,</l>
@@ -2133,7 +2134,7 @@
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -2187,7 +2188,7 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Илиона и Мемнон.</stage>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Ты жалобы оставь, царевна, бесполезны;</l>
@@ -2196,7 +2197,7 @@
               <l>И брата от руки противничей скрывай.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Когда уже и здесь мы не нашли защиты,</l>
@@ -2206,7 +2207,7 @@
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <stage>(один)</stage>
             <lg>
@@ -2236,7 +2237,7 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Демофонт и Мемнон.</stage>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Что медлишь здесь один, любезный мой Мемнон?</l>
@@ -2245,7 +2246,7 @@
               <l>И наши тайные советы уж открылись?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Опасности ни в чем не видно никакой,</l>
@@ -2266,7 +2267,7 @@
               <l>Здесь сердце подданных принять тебя готово.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Ты в пользу способы нам все употреби,</l>
@@ -2277,7 +2278,7 @@
         <div type="scene">
           <head>Явление шестое</head>
           <stage>Демофонт и Филлида.</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ты видишь, что тебя я ради предприемлю?</l>
@@ -2290,7 +2291,7 @@
               <l>То верен будет нам и путь во глубине.</l>
             </lg>
           </sp>
-          <sp who="#Demofont">
+          <sp who="#demofont">
             <speaker>Демофонт</speaker>
             <lg>
               <l>Хоть тягостны труды, но наградит отрада,</l>
@@ -2316,7 +2317,7 @@
         <div type="scene">
           <head>Явление седьмое</head>
           <stage>Филлида и Креуза.</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Оставшись, чувствую тоску на сердце люту.</l>
@@ -2328,7 +2329,7 @@
               <l>Забудь всё и моим примером укрепись.</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Не путь меня, не путь далекой устрашает.</l>
@@ -2339,7 +2340,7 @@
               <l>Нам отнял в скорби рок последнюю утеху!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Престань смущать меня безвременно таясь.</l>
@@ -2347,32 +2348,32 @@
               <l>Но Демофонт ко мне поспешно возвратится.</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Ты больше на него не можешь положиться!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="I">Ах, сердца не пронзай...</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l part="F">Хоть поздно, будешь знать</l>
               <l>И время не велит несчастья умолчать.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Коль долго, небеса, вы будете мне строги!</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Я, мимо проходя троянские чертоги,</l>
@@ -2388,7 +2389,7 @@
               <l>Бессчастну тайно взять и увезти чрез Понт!»</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ах, лютой мой злодей, как мог ты притвориться!</l>
@@ -2404,7 +2405,7 @@
         </div>
         <div type="scene">
           <head>Явление восьмое</head>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -2428,7 +2429,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Филлида, Мемнон и Креуза.</stage>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Багряные лучи закрыла уж заря,</l>
@@ -2442,7 +2443,7 @@
               <l>Но ныне я тебя увидел здесь еще!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Намеренья мои погибли все вотще.</l>
@@ -2450,32 +2451,32 @@
               <l>Теперь мне кто подаст, отчаянной,отраду?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Какая ныне скорбь мрачит твой снова дух?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Такою наглостью не оскорблен твой слух?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l part="I">Какою?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">Демофонт с троянкой прочь отходит</l>
               <l>И в пагубу меня конечную приводит!</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Не представляй себе несчастия сего...</l>
@@ -2486,7 +2487,7 @@
         <div type="scene">
           <head>Явление второе</head>
           <stage>Филлида, Мемнон и Драмет.</stage>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Царевна, корабли стоят готовы к бегу,</l>
@@ -2495,7 +2496,7 @@
               <l>К отшествию с тобой имеет Демофонт.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Троянке буду я последовать рабою?</l>
@@ -2504,19 +2505,19 @@
               <l>Как будет он себя на царство с ней венчать?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Я вижу, мнение тебя терзает ложно.</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l part="I">Приамова дочь здесь.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">Как быть тому возможно?</l>
@@ -2524,7 +2525,7 @@
               <l>Сестра ли от него осталась на земли?</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>Уже теперь таить не дозволяет время.</l>
@@ -2539,20 +2540,20 @@
               <l>Не может впредь Парис похитить в них Елены.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ах, коль ужасна весть! как бедство отвратить?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Ах, небо, как могло сие ты попустить?</l>
               <l>Несчастная сестра какую скорбь терпела!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l>И кровь во мне самом от жалости кипела,</l>
@@ -2569,19 +2570,19 @@
               <l>Промолвила и мне сама вручила брата.</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>О скверная алчба могущества и злата!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="I">Но где мой Демофонт?</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l part="F">Чтоб ты могла прийти</l>
@@ -2590,14 +2591,14 @@
               <l>Прибавил много сил в час, к плаванью удобной.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Креуза, отвратить несчастье поспеши</l>
               <l>И руки злобные от гнева удержи!</l>
             </lg>
           </sp>
-          <sp who="#Kreuza">
+          <sp who="#kreuza">
             <speaker>Креуза</speaker>
             <lg>
               <l>Раскаянье твое едва ль уже не позно.</l>
@@ -2608,14 +2609,14 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Филлида, Илиона, Мемнон и Драмет.</stage>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <stage>(увидев Илиону)</stage>
             <lg>
               <l>Коль нерассудно злюсь, любезной, на тебя!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Царевна, от меня что хочешь скрыть себя?</l>
@@ -2637,7 +2638,7 @@
               <l>Чтоб мучился, лишась надежды, наш тиран.</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Я чувствовать могу болезнь твою сердечну,</l>
@@ -2646,26 +2647,26 @@
               <l>Как может оное другому обещать?</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <stage>(оборотясь на сторону)</stage>
             <lg>
               <l>Что ночи темноту над морем прогоняет?</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l>Ах, люта злость мою надежду пресекает!</l>
             </lg>
           </sp>
-          <sp who="#Dramet">
+          <sp who="#dramet">
             <speaker>Драмет</speaker>
             <lg>
               <l part="I">Чем небо нам грозит!</l>
             </lg>
           </sp>
-          <sp who="#Fillida">
+          <sp who="#fillida">
             <speaker>Филлида</speaker>
             <lg>
               <l part="F">Где помощи искать?</l>
@@ -2676,7 +2677,7 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Илиона и Мемнон.</stage>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Несчастье наше все советы разрушает</l>
@@ -2692,7 +2693,7 @@
               <l>Погибелию нам, отчаянным, грозят.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Теперь противникам за Трою боги мстят.</l>
@@ -2704,7 +2705,7 @@
               <l>Ты Трою разорять тиранам помогаешь.</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Когда бы ведала намеренья мои,</l>
@@ -2724,7 +2725,7 @@
               <l part="I">Кто ныне нас спасет?</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="F">Тот бедство презирает,</l>
@@ -2737,7 +2738,7 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Илиона, Полимнестор и Мемнон.</stage>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="I">Афинской флот горит!</l>
@@ -2745,7 +2746,7 @@
               <l part="F">Ты здесь? И где Филлида?</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Гнушаясь твоего несносного ей вида,</l>
@@ -2753,14 +2754,14 @@
               <l>Я здесь и, чтоб тебя тоской терзать, спаслась.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Нечаянная мне и строга перемена,</l>
               <l>Которою скорбит душа моя смущенна!</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Теперь услышим мы, к чему нас рок влечет!</l>
@@ -2768,39 +2769,39 @@
               <l>Полимнестор, Илиона, Мемнон и Вестник.</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Какой судьба конец смятениям дает?</l>
               <l>Чем пламень нам грозит, свирепствуя над Понтом?</l>
             </lg>
           </sp>
-          <sp who="#Vestnik">
+          <sp who="#vestnik">
             <speaker>Вестник</speaker>
             <lg>
               <l>Филлиды больше нет с любезным Демофонтом!</l>
               <l part="I">Лишилась жизни!</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l part="M">Ах!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="F">Несносной мне удар!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Ах! Как плачевный погас любови жар?</l>
             </lg>
           </sp>
-          <sp who="#Vestnik">
+          <sp who="#vestnik">
             <speaker>Вестник</speaker>
             <lg>
               <l>Толь много бедств сказать лишь только начинаю,</l>
@@ -2819,25 +2820,25 @@
               <l>В дыму и шуме там лишь только слышно: «горе!»</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="I">О, коль великой страх!</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l part="F">О, лютая гроза!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Объемлет сердце хлад и мрак мои глаза!</l>
             </lg>
           </sp>
-          <sp who="#Vestnik">
+          <sp who="#vestnik">
             <speaker>Вестник</speaker>
             <lg>
               <l>Там вихри по воде свирепы закрутились,</l>
@@ -2868,19 +2869,19 @@
               <l>Но речь свою пресек последним воздыханьем!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Несчастливой любви несчастливой конец!</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Как будет возрыдать оставленной отец!</l>
             </lg>
           </sp>
-          <sp who="#Vestnik">
+          <sp who="#vestnik">
             <speaker>Вестник</speaker>
             <lg>
               <l>Филлида с горестным стенаньем возгласила:</l>
@@ -2897,19 +2898,19 @@
               <l>Вотще над хладными телами слезы льет.</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l>Мне поздно смерть ее надежду возвращает.</l>
             </lg>
           </sp>
-          <sp who="#Memnon">
+          <sp who="#memnon">
             <speaker>Мемнон</speaker>
             <lg>
               <l>Ах, в ней теперь Ликург вторично умирает!</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Теперь мне отнята надежда до конца!</l>
@@ -2934,7 +2935,7 @@
             </lg>
           </sp>
           <stage>(Хочет заколоться.)</stage>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <stage>(схватив за руку)</stage>
             <lg>
@@ -2945,19 +2946,19 @@
               <l part="I">Спасен ли?</l>
             </lg>
           </sp>
-          <sp who="#Vestnik">
+          <sp who="#vestnik">
             <speaker>Вестник</speaker>
             <lg>
               <l part="F">Погубил огонь или вода.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l part="I">Бессчастной Полидор!</l>
             </lg>
           </sp>
-          <sp who="#Iliona">
+          <sp who="#iliona">
             <speaker>Илиона</speaker>
             <lg>
               <l part="F">Деифил неповинной!</l>
@@ -2976,7 +2977,7 @@
               <l>Рожденному тобой служила вместо гроба.</l>
             </lg>
           </sp>
-          <sp who="#Polimnestor">
+          <sp who="#polimnestor">
             <speaker>Полимнестор</speaker>
             <lg>
               <l>Ах, что еще в мои глаза блистает свет?</l>
