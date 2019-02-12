@@ -42,34 +42,34 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Tamira" sex="FEMALE">
+          <person xml:id="tamira" sex="FEMALE">
             <persName>Тамира</persName>
           </person>
-          <person xml:id="Kleona" sex="FEMALE">
+          <person xml:id="kleona" sex="FEMALE">
             <persName>Клеона</persName>
           </person>
-          <person xml:id="Mumet" sex="MALE">
+          <person xml:id="mumet" sex="MALE">
             <persName>Мумет</persName>
           </person>
-          <person xml:id="Nadir" sex="MALE">
+          <person xml:id="nadir" sex="MALE">
             <persName>Надир</persName>
           </person>
-          <person xml:id="Selim" sex="MALE">
+          <person xml:id="selim" sex="MALE">
             <persName>Селим</persName>
           </person>
-          <person xml:id="Zaisan" sex="MALE">
+          <person xml:id="zaisan" sex="MALE">
             <persName>Заисан</persName>
           </person>
-          <person xml:id="Vestnik_1" sex="MALE">
-            <persName>Вестник 1</persName>
+          <person xml:id="vestnik_2-6" sex="MALE">
+            <persName>Вестник (II/6)</persName>
           </person>
-          <person xml:id="Vestnik_2" sex="MALE">
-            <persName>Вестник 2</persName>
-          </person>
-          <person xml:id="Mamaj" sex="MALE">
+          <person xml:id="mamaj" sex="MALE">
             <persName>Мамай</persName>
           </person>
-          <person xml:id="Narsim" sex="MALE">
+          <person xml:id="vestnik_5-3" sex="MALE">
+            <persName>Вестник (V/3)</persName>
+          </person>
+          <person xml:id="narsim" sex="MALE">
             <persName>Нарсим</persName>
           </person>
         </listPerson>
@@ -83,6 +83,7 @@
     <revisionDesc>
       <listChange>
         <change when="2017-10-08">(km) convert from source</change>
+        <change when="2019-02-12">(ff) lowercase IDs; correct OCR mistakes</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -127,7 +128,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Тамира и Клеона.</stage>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Настал ужасной день, и солнце на восходе,</l>
@@ -156,7 +157,7 @@
               <l>Направленными вслед стрелами рассекал.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Багдатско воинство умножилось без счота!</l>
@@ -167,7 +168,7 @@
               <l>И слезы по лицу бледнеющих лились.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Теперь сражение конечно уж настало;</l>
@@ -177,7 +178,7 @@
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира </speaker>
             <stage>(одна)</stage>
             <lg>
@@ -235,7 +236,7 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Тамира и Клеона.</stage>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Престань себя смущать, дражайшая царевна.</l>
@@ -244,27 +245,27 @@
               <l>Весь страх мне кажется при самом быть конце.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Никак, уж ворвались к нам в город сопостаты,</l>
               <l>И превратился страх в отчаянну печаль?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Теперь всходила я в высокие палаты</l>
               <l>И на багдатские полки смотрела вдаль.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Ты видела полки? ты видела Селима?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Я видела, что он отшел уже от стен,</l>
@@ -273,7 +274,7 @@
               <l>Я чаю, утомясь, не хочет больше бою.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Никак, ему какой предатель изменил;</l>
@@ -285,7 +286,7 @@
               <l>И при Евфратских жить невольницей брегах.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Тот ужас миновал: военные снаряды</l>
@@ -302,14 +303,14 @@
               <l>Что царь и дом его был взят в поносной плен?</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Ах, если б то был сон, то б с мраком разрушился!</l>
               <l>Однако бы и сон такой меня пленил!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Или твой нежной дух любовью уязвился?</l>
@@ -318,14 +319,14 @@
               <l>Чтоб тайны мне твоей не должно было знать?</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Что хочешь слышать ты, то странно и безбожно,</l>
               <l>Нигде не слыхано и ужасно сказать!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Для сих ослабших рук, которыми носила</l>
@@ -338,20 +339,20 @@
               <l>Иль быть умеренна потом печаль твоя.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Любезная моя и верная Клеона,</l>
               <l part="I">Коль тяжко мучусь я!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l part="M">О небо!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">Ах, Селим!</l>
@@ -359,14 +360,14 @@
               <l>Врагом отечества и, может быть, своим...</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>О боже мой! никак, ты тайно согласилась</l>
               <l>И хочешь для любви отечество предать!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>То, небо, отврати! довольно, что прельстилась</l>
@@ -385,7 +386,7 @@
               <l>Чтоб вечно по тебе без пользы воздыхать?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Царевна, ты тоску напрасно умножаешь.</l>
@@ -402,7 +403,7 @@
               <l>Не могут вместе быть свирепство и любовь.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>За ним бы следовать ни горы мне высоки,</l>
@@ -434,7 +435,7 @@
               <l>Что плач бы произвел и нестроенье в Крыме.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Царевна, вот идет дражайший твой отец.</l>
@@ -444,7 +445,7 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Мумет, Тамира и Клеона.</stage>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Прошла военная гроза и неустройство,</l>
@@ -489,7 +490,7 @@
               <l>Сомненья нет, что он Мамаем побежден.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Мне равно как тебе, родитель мой, приятно,</l>
@@ -500,20 +501,20 @@
               <l>И поспеши к концу намерений моих!</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Я к большей радости могу тебя подвигнуть,</l>
               <l>Возлюбленная дочь: Мамай тебе жених.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="I">Мамай! о боже мой!</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l part="F">Востока обладатель</l>
@@ -534,7 +535,7 @@
               <l>Согласна ли, ты мне немедленно скажи.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Что я с младенчества родительскую волю</l>
@@ -551,7 +552,7 @@
               <l>И как его мой взор заочно бы пленил?</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Оставь о сем ты мне, Тамира, попеченье</l>
@@ -568,7 +569,7 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Тамира и Клеона.</stage>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Война и мир против моей любви воюет!</l>
@@ -601,16 +602,16 @@
               <l>Отчаявшись любить Мамая, что начать?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Ах, лучше то избрать, что подлинно известно,</l>
-              <l>Как оного желать, чему не можно быгь.</l>
+              <l>Как оного желать, чему не можно быть.</l>
               <l>Хотя Селимово лице тебе прелестно,</l>
               <l>Но, праву следуя, старайся позабыть.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Довольно и того, что права и законы,</l>
@@ -643,7 +644,7 @@
               <l>Но верная б любовь соединила двух.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Одно тебе еще прибежище осталось.</l>
@@ -659,7 +660,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Селим и Надир</stage>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Мне радостен сей мир; но на тебя взирая,</l>
@@ -671,7 +672,7 @@
               <l>Тому прекрасный брег Геонских вод свидетель.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Седины вижу те и те черты чела!</l>
@@ -684,7 +685,7 @@
               <l part="I">Но где твой сын, мой друг?</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l part="F">На брань пошел с Мамаем.</l>
@@ -695,7 +696,7 @@
               <l>Высочество таил в названии простом.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>О щедрая судьба! Нарсим! он брат Тамире!</l>
@@ -704,13 +705,13 @@
               <l>В желании моем мне промысл споспешил.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Его обратно царь всечасно ожидает.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Однако и твоя поможет мне приязнь.</l>
@@ -720,7 +721,8 @@
               <l>Как был я в Индии с Нарсимом и с тобой;</l>
               <l>Бывала ль красота очам моим прелестна?</l>
               <l>Бывал ли нарушен любовью мой покой?</l>
-              <l>Всегда исполнен тем, что мудрые брамины</l>
+              <l>Всегда исполнен тем, что мудрые брамины<note place="foot">Индейские
+                  философы.</note></l>
               <l>С младенчества в моей оставили крови,</l>
               <l>Напасти презирать, без страху ждать кончины,</l>
               <l>Иметь недвижим дух и бегать от любви;</l>
@@ -738,13 +740,13 @@
               <l>Она мне шлем с главы, броню сложила с плеч.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l part="I">Что слышу я? и как?</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l part="F">Сквозь самы тверды стены,</l>
@@ -773,7 +775,7 @@
               <l>Триумф мой и сих стен мне целость заплатить.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Твои заслуги мзды толикия достойны,</l>
@@ -786,7 +788,7 @@
         <div type="scene">
           <head>Явление второе</head>
           <stage>Тамира, Селим и Клеона.</stage>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Отраду, может быть, в моей печали крайной</l>
@@ -794,13 +796,13 @@
               <l part="I">Клеона, ах! куда?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l part="F">О случай невзначайной!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>О радостной восторг! я цепенею весь!</l>
@@ -819,7 +821,7 @@
               <l>Коль хочешь, оживи, коль хочешь, умертви.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Каким смущаюсь я внезапно разговором!</l>
@@ -828,7 +830,7 @@
             </lg>
           </sp>
           <stage>(Поднимает его.)</stage>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l part="F">Твоим пронзенно сердце взором</l>
@@ -845,14 +847,14 @@
               <l>Поверь, что мой живот в любезной сей руке.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Какое дать могу тебе я облегченье,</l>
               <l>В лютейшей будучи погружена тоске?</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Дражайшая, какой свирепости возможно</l>
@@ -873,7 +875,7 @@
               <l>И чтоб любовь твою взаимно заслужить.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Ах, тщетны все слова! напрасны обещанья!</l>
@@ -886,7 +888,7 @@
               <l>Так промысл положил, и нельзя пременить.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Поспешно твоему отшествию иль косно,</l>
@@ -907,7 +909,7 @@
               <l>Превыше всех торжеств поставит твой приход.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Хотя таких, Селим, даров не презираю,</l>
@@ -928,7 +930,7 @@
               <l>Едва я на того дерзаю и взглянуть.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>О радостные вдруг минуты и плачевны!</l>
@@ -941,7 +943,7 @@
               <l>Умру, или с тобой в триумфе возвращусь.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Я сердце уж тебе, любезный, поручаю</l>
@@ -953,7 +955,7 @@
         </div>
         <div type="scene">
           <head>Явление третие</head>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <stage>(один)</stage>
             <lg>
@@ -971,7 +973,7 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Мумет, Селим, Надир и Заисан.</stage>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Спокойством пользуясь я ныне безопасным</l>
@@ -988,7 +990,7 @@
               <l>Которой я свою победу предпочел.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Причину твой отец имел вооружиться,</l>
@@ -1007,7 +1009,7 @@
               <l>Когда повинным казнь достойну наложу.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Спокойство утвердив, я больше не желаю,</l>
@@ -1026,7 +1028,7 @@
               <l>То друга ты его себе усынови.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Что сын мой друг тебе, то мне весьма приятно.</l>
@@ -1037,7 +1039,7 @@
               <l>Его к отраде я по вся минуты жду.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Надеясь чрез него я сердце успокоить</l>
@@ -1050,7 +1052,7 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Мумет, Надир и Заисан.</stage>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Взирая на любовь, особу и породу,</l>
@@ -1063,7 +1065,7 @@
               <l>Но как я кровь свою тиранствовать могу?</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>Того уж, государь, переменить не можно:</l>
@@ -1078,7 +1080,7 @@
               <l>Владение таким союзом укрепить.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Что меру превзошло, стоит над стремниною,</l>
@@ -1107,7 +1109,7 @@
               <l>Супругу в сих стенах и веру восприял.</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>Мамаю следует везде с победой слава;</l>
@@ -1116,7 +1118,7 @@
               <l>Великие цари и областию гнев.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Великодушный лев жар тотчас утоляет,</l>
@@ -1129,7 +1131,7 @@
         <div type="scene">
           <head>Явление шестое</head>
           <stage>Вестник и прежние.</stage>
-          <sp who="#Vestnik_1">
+          <sp who="#vestnik_2-6">
             <speaker>Вестник</speaker>
             <lg>
               <l>С придонских, государь, полей я от Нарсима</l>
@@ -1141,7 +1143,7 @@
               <l>И, ранами покрыт, от бою уклонился</l>
               <l>Димитрий, бегая Нарсимовой руки.</l>
               <l>Одно несчастие Мамая сокрушает,</l>
-              <l>Что сильный Челубей&lt; пронзен в крови лежит,</l>
+              <l>Что сильный Челубей пронзен в крови лежит,</l>
               <l>Лежит и поля часть велику покрывает!</l>
               <l>Но нам последуя победа уж гремит.</l>
               <l>Оставшим россам путь пресечен к бегу Доном,</l>
@@ -1150,7 +1152,7 @@
               <l>Пространный север весь под область покорен.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Мамаю небеса Тамиру поручают,</l>
@@ -1169,7 +1171,7 @@
         <head>Действие третие</head>
         <div type="scene">
           <head>Явление первое</head>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <stage>(один)</stage>
             <lg>
@@ -1203,7 +1205,7 @@
         <div type="scene">
           <head>Явление второе</head>
           <stage>Мамай, Мумет, Надир и Заисан.</stage>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Какое счастие мне небо посылает,</l>
@@ -1214,7 +1216,7 @@
               <l>И скорому дивлюсь приезду твоему.</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Не может торжества Мамай благополучной</l>
@@ -1231,7 +1233,7 @@
               <l>С прекрасною меня царицею к себе.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Победа мужество геройское венчает;</l>
@@ -1241,7 +1243,7 @@
               <l>И храбрым воинством херсонским окруженный...</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Он ныне на полях российских веселясь</l>
@@ -1251,7 +1253,7 @@
               <l>Лугами тучными меж Доном и Днепром.</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>О счастливый успех! о коль места прекрасны!</l>
@@ -1259,19 +1261,19 @@
               <l>Не мне ли в честь конец прияла наша пря?</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Но сердца моего с сим чувства несогласны!</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Достоин дар таков великого царя!</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Любезный государь! Нарсима оставляя,</l>
@@ -1286,14 +1288,14 @@
               <l>Завистников твоих отвергнул клеветы».</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>Превыше зависти восходит добродетель</l>
               <l>И презирает ту спокойна с высоты!</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Услышав таково Нарсимово приятство,</l>
@@ -1318,14 +1320,14 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Тамира, Клеона и прежние.</stage>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Ужель возлюбленный Нарсим к нам возвратился?</l>
               <l part="I">Дражайший мой отец!</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l part="F">Ты видишь здесь его,</l>
@@ -1333,20 +1335,20 @@
               <l>Мамая почитай за сына моего.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="I">О строги небеса!</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l part="F">Ты видишь братня друга,</l>
               <l>Которой хочет век к тебе одной гореть.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Имеешь жениха; а скоро и супруга</l>
@@ -1356,14 +1358,14 @@
               <l>С тобою царствовать и искренне любить.</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Вторым я нынь отцем рожден на свет тобою,</l>
               <l>Когда ты предприял меня усыновить.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <stage>(к Тамире)</stage>
             <lg>
@@ -1373,7 +1375,7 @@
               <l>Ему послушна будь, как нынь послушна мне.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Ты волен, государь! законы и природа</l>
@@ -1383,7 +1385,7 @@
               <l part="I">Но если смею я...</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l part="F">Младые не радеют</l>
@@ -1400,7 +1402,7 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Тамира, Мамай, Заисан и Клеона.</stage>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Несносной горестью смятенный примечаю,</l>
@@ -1429,7 +1431,7 @@
               <l>Когда бы оное считала ты своим.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Когда ты многие привел под власть народы,</l>
@@ -1438,7 +1440,7 @@
               <l>Великих дел своих чрез то не помрачай.</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Тебя свободы я могу лишить, Тамира?</l>
@@ -1447,7 +1449,7 @@
               <l>И будучи царем, быть пленником ищу?</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Среди довольствий всех, среди великой славы,</l>
@@ -1464,7 +1466,7 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Мамай, Клеона, Заисан.</stage>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <stage>(Клеоне)</stage>
             <lg>
@@ -1486,7 +1488,7 @@
               <l>И матери равно тебя почту своей.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Я знаю, государь, коль власть твоя велика</l>
@@ -1501,13 +1503,13 @@
               <l>Тем больше будешь ей противен и постыл.</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>Великому царю толь дерзко отвечаешь?</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>О как напрасно я к ней щедр и ласков был!</l>
@@ -1515,7 +1517,7 @@
               <l>И смерть сама легка таку змею карать.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Тамире было б то уже живой гробница,</l>
@@ -1526,13 +1528,13 @@
         <div type="scene">
           <head>Явление шестое</head>
           <stage>Мамай и Заисан.</stage>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l part="I">Селим! и кто?</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l part="F">Селим! О счастлив недостойно!</l>
@@ -1546,7 +1548,7 @@
               <l>К Селимовой любви царевна согласиться...</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>И предпочесть меня разбойнику могла?</l>
@@ -1566,7 +1568,7 @@
               <l part="I">Пойдем...</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l part="F">Смягчи теперь волнение свое.</l>
@@ -1580,7 +1582,7 @@
               <l>Что ради мира нынь чинить не должно нам.</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Поехавшие вслед со мною разлучились</l>
@@ -1598,14 +1600,14 @@
               <l part="I">Скажи, где он?</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l part="F">Храни особу ты высоку</l>
               <l part="I">И рук не простирай...</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l part="F">Доколе мне страдать?</l>
@@ -1617,7 +1619,7 @@
         <div type="scene">
           <head>Явление седьмое</head>
           <stage>Тамира и Клеона</stage>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Какою лютостью к Селиму он пылает!</l>
@@ -1628,21 +1630,21 @@
               <l>Что скоро лютая постигнет нас напасть!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Теперь мне более ничто уж не ужасно,</l>
               <l>Ни варварска гроза, ни отческая власть!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Царевна, на кого ты можешь положиться?</l>
               <l part="I">Кто может свободить от сильных рук?</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">Любовь!</l>
@@ -1654,7 +1656,7 @@
         </div>
         <div type="scene">
           <head>Явление восьмое</head>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -1723,7 +1725,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Надир и Заисан.</stage>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>Какие, государь, услышишь ныне вести!</l>
@@ -1736,14 +1738,14 @@
               <l>Что был недавно враг отеческим стенам!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>О жалость горестна! о лютое мученье!</l>
               <l>О строгость отческа, к чему ты привела?</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>По счастью, я открыл такое дерзновенье:</l>
@@ -1772,7 +1774,7 @@
               <l>Дай в помощь, государь, премудрой твой совет.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Внезапно не срази печалию такою:</l>
@@ -1781,7 +1783,7 @@
               <l>Дабы в спокойствии отцов оставить дух.</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l>Но я могу попасть в беду чрез тое крайну,</l>
@@ -1790,7 +1792,7 @@
               <l>И могут всё ему подробно донести.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Хотя смягчи удар приятностью какою;</l>
@@ -1800,7 +1802,7 @@
         </div>
         <div type="scene">
           <head>Явление второе</head>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <stage>(один)</stage>
             <lg>
@@ -1846,7 +1848,7 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Надир и Клеона.</stage>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Тамира! Ах, печаль! Тамира дорогая</l>
@@ -1862,13 +1864,13 @@
               <l>Являются в ее очах изображенны.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Что сделал бы Селим, таков представив вид!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Что сделал бы, когда увидел, что руками</l>
@@ -1879,14 +1881,14 @@
               <l>Всю мысль свою к ее спасению впери.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Не можно от сего царевне свободиться:</l>
               <l>Воюют против ней великие цари.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Так пойдет агница за волком вслед Тамира,</l>
@@ -1895,7 +1897,7 @@
               <l>Мученье внутрь себя тяжчайшее иметь?</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Не знаю, что мое внутрь сердце предвещает</l>
@@ -1908,14 +1910,14 @@
               <l>Для нас, и для него, и для Тамиры злым.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Для толь поспешного Мамаева прихода</l>
               <l>Слух в городе прошел, что он совсем побит!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Всегда есть божий глас — глас целого народа;</l>
@@ -1928,14 +1930,14 @@
               <l>И сердца своего движенья утолить?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>На страсть ее смотря, и небо возгорится</l>
               <l>И не умедлит зла толикого отметить.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Горами потрясет, и воспалит пожары,</l>
@@ -1944,7 +1946,7 @@
               <l>Потопом скверные очистит берега.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Народную молву приумножают знаки;</l>
@@ -1953,7 +1955,7 @@
               <l>И вранов, как на труп, слетаются стада.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Хоть радостен Мумет, но войска не имеет;</l>
@@ -1990,7 +1992,7 @@
         <div type="scene">
           <head>Явление четвертое</head>
           <stage>Селим и прежние.</stage>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Любовникам долга единая минута!</l>
@@ -1998,27 +2000,27 @@
               <l part="I">Еще ль Тамира здесь?</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l part="M">О скорбь!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l part="F">О горесть люта!</l>
               <l>Ах, что дерзнули вы, несчастные, начать!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Мужайся, скорбный дух, и стой против удара,</l>
               <l>Который на меня свирепый рок занес.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Ах, если б гневного отцова силу жара</l>
@@ -2027,7 +2029,7 @@
               <l part="I">Терзается...</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l part="F">Какой вступает в жилы хлад!</l>
@@ -2059,7 +2061,7 @@
               <l>И кровию чертог Мамаев обагрен.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Я сам бы, уклонясь отеческого града,</l>
@@ -2072,7 +2074,7 @@
               <l>И данного держись ты слова своего.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Не я, но сам Мумет стен будет разоритель:</l>
@@ -2101,28 +2103,28 @@
               <l>Мамаю отниму Тамиру и живот.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Приятель, укроти в себе волненья гневны</l>
               <l>И жизни не давай в опасность такову.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>В сугубой горести не погрузи царевны,</l>
               <l>От пагубы храни любезную главу.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Когда на сей ты град восстать не должен войском,</l>
               <l part="I">То должен ли один? что хочешь?</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l part="F">Умереть!</l>
@@ -2158,7 +2160,7 @@
               <l>Что может предприять озлобленна любовь!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Какую принесешь ты в старости утеху</l>
@@ -2175,14 +2177,14 @@
               <l>Которых мерностью ты старых удивлял.</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Любви велика власть всю крепость низлагает</l>
               <l>И мной господствует. Уж я не тот Селим...</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l>Какую небо казнь с Мамаем насылает!</l>
@@ -2192,32 +2194,32 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Мамай, Заисан и прежние.</stage>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Совет имеете с соперником моим?</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Или я с Крымом здесь подвластен стал Мамаю?</l>
               <l>Или он мне иметь советы запретит?</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Теперь препятствия любви моей скончаю!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Теперь любовь моя насильствию отмстит!</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Весь север покорив, сего не одолею?</l>
@@ -2225,7 +2227,7 @@
               <l>Кто прадед мой и что я в области имею?</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Кто родом хвалится, тот хвастает чужим.</l>
@@ -2233,7 +2235,7 @@
               <l>Иль в поле окончать толику боем прю?</l>
             </lg>
           </sp>
-          <sp who="#Mamaj">
+          <sp who="#mamaj">
             <speaker>Мамай</speaker>
             <lg>
               <l>Увидишь, дерзостный беглец, увидишь вскоре,</l>
@@ -2243,7 +2245,7 @@
             </lg>
           </sp>
           <stage>(Вынимает саблю.)</stage>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <stage>(вынимая саблю)</stage>
             <lg>
@@ -2252,20 +2254,20 @@
             </lg>
           </sp>
           <stage>Сражаются.</stage>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <stage>(разнимая)</stage>
             <lg>
               <l part="I">Великий государь!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l part="M">Ах!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <stage>(разнимая)</stage>
             <lg>
@@ -2273,14 +2275,14 @@
               <l>В какую пагубу несет злой рок тебя!</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <stage>(К Мамаю)</stage>
             <lg>
               <l part="I">Смягчи свой царской гнев!</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <stage>(к Селиму)</stage>
             <lg>
@@ -2295,7 +2297,7 @@
         <div type="scene">
           <head>Явление первое</head>
           <stage>Мумет, Надир, Тамира, Клеона, воины.</stage>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>В какой я крайней стыд тобою погрузился!</l>
@@ -2308,7 +2310,7 @@
               <l>Какая быть сему довольна может месть?</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Когда родилась я в бессчастную минуту,</l>
@@ -2319,7 +2321,7 @@
               <l>Употреби свою родительскую власть!</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Не я тебе, не я, сама себе ты строга;</l>
@@ -2350,25 +2352,25 @@
               <l>Возьмите скверную и ввергните в темницу.</l>
             </lg>
           </sp>
-          <sp who="#Kleona">
+          <sp who="#kleona">
             <speaker>Клеона</speaker>
             <lg>
               <l part="I">Помилуй, государь!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">Невинной не казни!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Ты щедру обрати, о небо, к нам зеницу!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Отеческу любовь во гневе вспомяни.</l>
@@ -2378,7 +2380,7 @@
         <div type="scene">
           <head>Явление второе</head>
           <stage>Тамира и Надир.</stage>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Дражайшая моя Тамира, будь спокойна</l>
@@ -2403,26 +2405,26 @@
         <div type="scene">
           <head>Явление третие</head>
           <stage>Тамира, Надир и вестник.</stage>
-          <sp who="#Vestnik_2">
+          <sp who="#vestnik_5-3">
             <speaker>Вестник</speaker>
             <lg>
               <l>Печальны, государь, в сей час услышишь вести!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Не дай, о боже, мне отчаяться вконец!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>И не нашли на нас превыше силы мести,</l>
               <l>Но будь оставленным и в ярости отец!</l>
             </lg>
           </sp>
-          <sp who="#Vestnik_2">
+          <sp who="#vestnik_5-3">
             <speaker>Вестник</speaker>
             <lg>
               <l>Во гневе из палат Мамай неутолимом</l>
@@ -2436,13 +2438,13 @@
               <l part="I">Тут перьвой их удар...</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">О, как мой дух стеснился!</l>
             </lg>
           </sp>
-          <sp who="#Vestnik_2">
+          <sp who="#vestnik_5-3">
             <speaker>Вестник</speaker>
             <lg>
               <l>Сверкнули острые и дали звук мечи;</l>
@@ -2464,19 +2466,19 @@
               <l>Однако сшед с коня, к восставшему спешил.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l part="I">Ах, дерзость!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="M">Ах, беда!</l>
             </lg>
           </sp>
-          <sp who="#Vestnik_2">
+          <sp who="#vestnik_5-3">
             <speaker>Вестник</speaker>
             <lg>
               <l part="F">На храбрость уповая,</l>
@@ -2487,14 +2489,14 @@
               <l part="I">Ударились к нему...</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">О горькие часы!</l>
               <l>О щедры небеса, и мой живот скончайте!</l>
             </lg>
           </sp>
-          <sp who="#Vestnik_2">
+          <sp who="#vestnik_5-3">
             <speaker>Вестник</speaker>
             <lg>
               <l>Мне свет из глаз отняв, погнала прочь боязнь!</l>
@@ -2502,7 +2504,7 @@
               <l>Один из мурз вскричал: «Прими достойиу казнь».</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Любезный мой Селим, уж ты лежишь бездушен,</l>
@@ -2511,7 +2513,7 @@
               <l>Чтоб кости приняла твои чужа страна?</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>В отчаяньи своем уже я леденею,</l>
@@ -2520,7 +2522,7 @@
               <l>За друга своего отмсти и за меня.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Пойду, не пощажу своей я хладной крови.</l>
@@ -2532,7 +2534,7 @@
         </div>
         <div type="scene">
           <head>Явление четвертое</head>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <stage>(одна)</stage>
             <lg>
@@ -2603,39 +2605,39 @@
         <div type="scene">
           <head>Явление пятое</head>
           <stage>Селим, Нарсим и Тамира.</stage>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <stage>(схватив за руку и вырвав кинжал)</stage>
             <lg>
               <l>Я жив, дражайшая, я жив и торжествую!</l>
             </lg>
           </sp>
-          <sp who="#Narsim">
+          <sp who="#narsim">
             <speaker>Нарсим</speaker>
             <lg>
               <l>Любезная сестра, твой здравствует Нарсим!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <stage>(ослабевая)</stage>
             <lg>
               <l>Уже меж мертвыми я вижу тень драгую!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l part="I">В каком отчаяньи!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">И дух Нарсимов с ним!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <stage>(к ослабевающей Тамире)</stage>
             <lg>
@@ -2645,7 +2647,7 @@
               <l>Великой радостью ты с нами ободрись.</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Возможно ль быть тому? Селим! Нарсим! я с вами!</l>
@@ -2655,7 +2657,7 @@
               <l>Но мне Мамаева еще ужасна сила!</l>
             </lg>
           </sp>
-          <sp who="#Narsim">
+          <sp who="#narsim">
             <speaker>Нарсим</speaker>
             <lg>
               <l>Умывшись в варварской рука моя крови</l>
@@ -2667,7 +2669,7 @@
         <div type="scene">
           <head>Явление последнее</head>
           <stage>Мумет, Надир, Заисан, Селим, Нарсим и Тамира.</stage>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Нарсим, ты здесь! тебя я вижу, сын любезный?</l>
@@ -2679,7 +2681,7 @@
               <l>И что ты приобрел своей к нему услугой.</l>
             </lg>
           </sp>
-          <sp who="#Narsim">
+          <sp who="#narsim">
             <speaker>Нарсим</speaker>
             <lg>
               <l>Я всю уж, государь печаль твою скончал,</l>
@@ -2687,13 +2689,13 @@
               <l>Димитрий одолел; и враг наш поражен.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Внимая странну весть, в сомненьи ужасаюсь!</l>
             </lg>
           </sp>
-          <sp who="#Narsim">
+          <sp who="#narsim">
             <speaker>Нарсим</speaker>
             <lg>
               <l>Коль чудно я для вас от пагубы спасен!</l>
@@ -2703,38 +2705,38 @@
               <l>Что полк мой низложил; чуть я остался жив.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l part="I">О небо!</l>
             </lg>
           </sp>
-          <sp who="#Zaisan">
+          <sp who="#zaisan">
             <speaker>Заисан</speaker>
             <lg>
               <l part="M">Ах, удар!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l part="F">О промысл милосердый!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <stage>(К Заисану)</stage>
             <lg>
               <l>Не мне ли в честь конец имеет наша пря?</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Сама судьба есть щит любови нашей твердый.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>О льстивые слова коварного царя!</l>
@@ -2742,7 +2744,7 @@
               <l>И сделай всем моим смущениям конец.</l>
             </lg>
           </sp>
-          <sp who="#Narsim">
+          <sp who="#narsim">
             <speaker>Нарсим</speaker>
             <lg>
               <l>Не слыхано еще на свете зло подобно,</l>
@@ -2786,25 +2788,25 @@
               <l>Она, пробив мой щит, увязла посредине.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>К какой ужасной я послал тебя беде!</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l part="I">Трепещет грудь моя!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l part="F">Коль близко был к кончине!</l>
             </lg>
           </sp>
-          <sp who="#Narsim">
+          <sp who="#narsim">
             <speaker>Нарсим</speaker>
             <lg>
               <l>Внезапно шум восстал по воинству везде.</l>
@@ -2834,20 +2836,20 @@
               <l>Мамаю отомстить за всё я зло спешил.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>О счастье льстивое, как души ослепляешь!</l>
               <l>Тамира, я тебя напрасно озлоблял!</l>
             </lg>
           </sp>
-          <sp who="#Tamira">
+          <sp who="#tamira">
             <speaker>Тамира</speaker>
             <lg>
               <l>Ты словом сим живот с надеждой возвращаешь!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Уже я вознесен, как мой соперник пал!</l>
@@ -2877,13 +2879,13 @@
               <l>Остались истребить огнем последний яд.</l>
             </lg>
           </sp>
-          <sp who="#Nadir">
+          <sp who="#nadir">
             <speaker>Надир</speaker>
             <lg>
               <l>Толь тяжко с высоты бог гордых повергает!</l>
             </lg>
           </sp>
-          <sp who="#Selim">
+          <sp who="#selim">
             <speaker>Селим</speaker>
             <lg>
               <l>Вторично, государь, я ныне предложу</l>
@@ -2891,7 +2893,7 @@
               <l>И жизни для чего своей я не щажу.</l>
             </lg>
           </sp>
-          <sp who="#Mumet">
+          <sp who="#mumet">
             <speaker>Мумет</speaker>
             <lg>
               <l>Я с небом и с судьбой и с вами соглашаюсь,</l>
