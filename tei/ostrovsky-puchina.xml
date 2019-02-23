@@ -1,0 +1,4184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Пучина</title>
+        <title type="main" xml:lang="en">The Abyss</title>
+        <title type="sub" xml:lang="ru">Сцены из московской жизни</title>
+        <title type="sub" xml:lang="en">Scenes from Moscow Life</title>
+        <author key="Wikidata:Q171976">Островский, Александр Николаевич</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/ostrovsky-puchina</idno>
+        <idno type="RusDraCor">144</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4384565</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/o/ostrowskij_a_n/text_0100.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Собрание сочинений в шести томах, Изд-во "Терра", 2001 (lib.ru)</title>
+            <date type="print" when="1866">"Впервые опубликована в январе 1866 года в газете
+              «Санкт-Петербургские ведомости»." (ru.wikipedia.org)</date>
+            <date type="premiere" when="1866">"Впервые поставлена 8 апреля 1866 года в Москве, в
+              Малом театре." (ru.wikipedia.org)</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="pervyj_kupec" sex="MALE">
+            <persName>1-й купец</persName>
+            <persName type="variant">Купец</persName>
+            <persName xml:lang="de">Erster Kaufmann</persName>
+          </person>
+          <person xml:id="zhena" sex="FEMALE">
+            <persName>Жена</persName>
+            <persName xml:lang="de">Die Frau</persName>
+          </person>
+          <person xml:id="vtoroj_kupec" sex="MALE">
+            <persName>2-й купец</persName>
+            <persName xml:lang="de">Zweiter Kaufmann</persName>
+          </person>
+          <person xml:id="pogulyaev" sex="MALE">
+            <persName>Погуляев</persName>
+            <persName xml:lang="de">Poguljajew</persName>
+          </person>
+          <person xml:id="pervyj_student" sex="MALE">
+            <persName>1-й студент</persName>
+            <persName xml:lang="de">Erster Student</persName>
+          </person>
+          <person xml:id="vtoroj_student" sex="MALE">
+            <persName>2-й студент</persName>
+            <persName xml:lang="de">Zweiter Student</persName>
+          </person>
+          <personGrp xml:id="studenty" sex="MALE">
+            <name>Студенты</name>
+            <name type="variant">Все</name>
+            <name xml:lang="de">Die Studenten</name>
+          </personGrp>
+          <person xml:id="kiselnikov" sex="MALE">
+            <persName>Кисельников</persName>
+            <persName xml:lang="de">Kisselnikow</persName>
+          </person>
+          <person xml:id="tretij_student" sex="MALE">
+            <persName>3-й студент</persName>
+            <persName xml:lang="de">Dritter Student</persName>
+          </person>
+          <person xml:id="pereyarkov" sex="MALE">
+            <persName>Переярков</persName>
+            <persName xml:lang="de">Perejarkow</persName>
+          </person>
+          <person xml:id="prohodyashchij" sex="MALE">
+            <persName>Проходящий</persName>
+            <persName xml:lang="de">Der Vorübergehende</persName>
+          </person>
+          <person xml:id="borovcova" sex="FEMALE">
+            <persName>Боровцова</persName>
+            <persName xml:lang="de">Borowzowa</persName>
+          </person>
+          <person xml:id="borovcov" sex="MALE">
+            <persName>Боровцов</persName>
+            <persName xml:lang="de">Borowzow</persName>
+          </person>
+          <person xml:id="turuntaev" sex="MALE">
+            <persName>Турунтаев</persName>
+            <persName xml:lang="de">Turuntajew</persName>
+          </person>
+          <person xml:id="glafira" sex="FEMALE">
+            <persName>Глафира</persName>
+            <persName xml:lang="de">Glafira</persName>
+          </person>
+          <person xml:id="liza" sex="FEMALE">
+            <persName>Лиза</persName>
+            <persName xml:lang="de">Lisanka</persName>
+          </person>
+          <person xml:id="aksinya" sex="FEMALE">
+            <persName>Аксинья</persName>
+            <persName xml:lang="de">Axinja</persName>
+          </person>
+          <person xml:id="anna_ustinovna" sex="FEMALE">
+            <persName>Анна Устиновна</persName>
+            <persName type="variant">Голос Анны Устиновны</persName>
+            <persName xml:lang="de">Anna Ustinowna</persName>
+          </person>
+          <person xml:id="neizvestnyj" sex="MALE">
+            <persName>Неизвестный</persName>
+            <persName type="variant">Голос за сценой</persName>
+            <persName xml:lang="de">Ein Unbekannter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Сцены из московской жизни</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-16">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Пучина</titlePart>
+      </docTitle>
+    </front>
+    <body>
+      <div type="tableau">
+        <head>СЦЕНА I</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Кирилл Филиппыч Кисельников, молодой человек, 22 лет.</castItem>
+          <castItem>Антон Антоныч Погуляев, студент, кончивший курс, 21 года.</castItem>
+          <castItem>Пуд Кузьмич Боровцов, купец, 40 лет.</castItem>
+          <castItem>Дарья Ивановна, жена его.</castItem>
+          <castItem>Глафира Пудовна, их дочь, 18 лет.</castItem>
+          <castItem>Луп Лупыч Переярков, чиновник.</castItem>
+          <castItem>Ион Ионович Турунтаев, военный в отставке.</castItem>
+          <castItem>Гуляющие обоего пола.</castItem>
+        </castList>
+        <stage>Нескучный сад. Луг между деревьями; впереди дорожка и скамья; в глубине дорожка, за
+          дорожкой деревья и вид на Москву-реку. Около 30 лет назад.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Проходят купцы с женами.</stage>
+          <sp who="#pervyj_kupec">
+            <speaker>Купец.</speaker>
+            <p>Ай да Мочалов! Уважил.</p>
+          </sp>
+          <sp who="#zhena">
+            <speaker>Жена.</speaker>
+            <p>Только уж эти представления смотреть уж очень жалостно; так что уж даже чересчур.</p>
+          </sp>
+          <sp who="#pervyj_kupec">
+            <speaker>Купец.</speaker>
+            <p>Ну да, много ты понимаешь!</p>
+          </sp>
+          <sp who="#zhena">
+            <speaker>Жена.</speaker>
+            <p>Чего ж тут не понимать-то! Известное дело, всё от приятелев; это мы и прежде
+              знали.</p>
+          </sp>
+          <sp who="#vtoroj_kupec">
+            <speaker>2-й купец.</speaker>
+            <p>Уж точно что уважил. Не жаль деньги заплатить.</p>
+          </sp>
+          <sp who="#pervyj_kupec">
+            <speaker>1-й купец.</speaker>
+            <p>Как написано, что "жизнь игрока", так он точно игрока и представил.</p>
+          </sp>
+          <sp who="#zhena">
+            <speaker>Жена.</speaker>
+            <p>С кем поведешься, таков и сам будешь. Вот теперича Мочалов связался с этим... как
+              его...</p>
+          </sp>
+          <sp who="#vtoroj_kupec">
+            <speaker>2-й купец.</speaker>
+            <p>С Валмиром.</p>
+          </sp>
+          <sp who="#zhena">
+            <speaker>Жена.</speaker>
+            <p>Ну, там, как ни на есть. Связался с ним, ну и в бедность пришел, и все такое.</p>
+          </sp>
+          <sp who="#vtoroj_kupec">
+            <speaker>2-й купец.</speaker>
+            <p>И даже в уголовном деле попался. Это вы верно, что от приятелев. От кого мы
+              занимаемся дурному чему-нибудь? Самому не выдумать; потому и в голову не придет. А все
+              от других.</p>
+          </sp>
+          <sp who="#pervyj_kupec">
+            <speaker>1-й купец.</speaker>
+            <p>И все это вы пустяки говорите. Всякий себе сам виноват. Коли я добрый человек да имею
+              свой разум, так что мне приятели? Все одно, что ничего. А коли я дурак либо мошенник,
+              да ежели начал распутничать, так уж ничто делать, что на приятелей сворачивать.</p>
+          </sp>
+          <sp who="#vtoroj_kupec">
+            <speaker>2-й купец.</speaker>
+            <p>Но однако ж...</p>
+          </sp>
+          <sp who="#pervyj_kupec">
+            <speaker>1-й купец.</speaker>
+            <p>Что "однако ж"? Стой твердо, потому один отвечать будешь! Ответчика за себя не
+              поставишь. Как жил, что делал? Так и так, мол, приятели. А у тебя есть своя голова на
+              плечах? Закон знаешь? Ну, и шабаш, и кончен разговор.</p>
+          </sp>
+          <sp who="#zhena">
+            <speaker>Жена.</speaker>
+            <p>А другой человек увлекательный?</p>
+          </sp>
+          <sp who="#pervyj_kupec">
+            <speaker>1-й купец.</speaker>
+            <p>Ну так что ж! Ну, туда ему и дорога! Не будь увлекательный.</p>
+          </sp>
+          <sp who="#zhena">
+            <speaker>Жена.</speaker>
+            <p>Да ведь жалко.</p>
+          </sp>
+          <sp who="#pervyj_kupec">
+            <speaker>1-й купец.</speaker>
+            <p>Ничего не жалко. Знай край, да не падай! На то человеку разум дан.</p>
+            <stage>(Проходят.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Погуляев и несколько студентов.</stage>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А как хорош был сегодня Мочалов. Только жаль, что пьеса плоха.</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Сухая пьеса. Голая мораль.</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>Все эффекты, все ужасы нарочно прибраны, как на подбор. Вот, мол, если ты возьмешь
+              карты в руки, так убьешь своего отца, потом сделаешься разбойником, да мало этого,
+              убьешь своего сына.</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Какая это пьеса! Это вздор, о котором говорить не стоит. "Черт не так страшен, как
+              его пишут". Черта нарочно пишут страшнее, чтоб его боялись. А если черту нужно
+              соблазнить кого-нибудь, так ему вовсе не расчет являться в таком безобразном виде,
+              чтоб его сразу узнали.</p>
+          </sp>
+          <sp who="#studenty">
+            <speaker>Все</speaker>
+            <stage>(смеются).</stage>
+            <p>Да, это правда.</p>
+          </sp>
+          <stage>Входит Кисельников, щегольски одетый</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Погуляев, Кисельников и студенты.</stage>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А, друг любезный! Как я тебя давно не видал!</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Где ты пропадал?</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>Какой ты розовый, веселый! Я тебя два года не видал.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ты не кончил курса?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Не кончил.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Отчего же?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да так, не кончил, да и все тут. Впрочем, я занимаюсь, я много занимаюсь; а так,
+              некогда было. Я буду держать на кандидата. Впрочем, я еще это все успею.</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Какой вечер превосходный!..</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Удивительный вечер! Воздух какой! Что за нега! Я теперь, когда стал свободным
+              человеком, весь отдаюсь природе, наслаждаюсь ею вполне. Вы этой прелести не знаете, вы
+              люди ученые, занятые.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ты совсем переменился, тебя и узнать трудно.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что же, я лучше стал или хуже?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Не знаю, как сказать! Только жаль, что ты бросил университет.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нельзя было оставаться. Вы послушайте, я вам все расскажу. Отец у меня был строгий,
+              капризный старик, не пускал меня никуда из дому, не давал мне ни копейки денег. По
+              вечерам насильно заставлял меня сидеть за лекциями. Все это мне надоело и опротивело
+              донельзя. В прошлом году он умер и оставил мне порядочное состояние. Вдруг в моем
+              распоряжении довольно денег, а главное -- свобода; ну, разумеется, я сейчас же захотел
+              воспользоваться свободой, немного развлечься, погулять; таким образом я мало-помалу
+              отстал от университета. Впрочем, я догоню, стоит только заняться... Стихи пишу от
+              скуки, выходит недурно.</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>Что же ты думаешь с собой делать?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вот выдержу на кандидата, поеду в Петербург, поступлю на службу. А приятно пожить на
+              свободе!</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Свобода свободой, а все же надо делать что-нибудь, без этого нельзя.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Разумеется. Я непременно займусь делом; теперь у меня голова занята.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Чем это?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как бы тебе это сказать? Ну, просто, я влюблен без памяти.</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>Вот как! Ну, что же, и счастливо?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, конечно.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>О, брат, твоя жизнь завидная.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, именно, мне можно позавидовать. Дня через два и свадьба.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Так скоро?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Чего ж ждать-то! Теперь и жить, пока молоды.</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Да ведь ты еще не доучился, ты сам сознаешься. По-моему, нужно сначала доучиться, да
+              потом себе определенное положение найти, тогда уж и жениться. А главное-то -- нужно
+              средства иметь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>У меня средства есть.</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>А позволь спросить, какие?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Свой домик есть, тысяч семь денег.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Долго ли же их прожить, ничего-то не приобретая?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>За женой возьму, тесть обещал шесть тысяч.</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Во-первых, обещания не всегда исполняются, а во-вторых, с деньгами нужно обращаться
+              умеючи; или они у тебя будут лежать без всякой пользы, или ты их проживешь скоро.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>У меня тесть деловой человек, я отдам ему деньги на его обороты, он мне будет
+              проценты платить.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А его обороты лопнут, что тогда?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Этого быть не может... он -- купец известный.</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>А по-моему, нет ничего лучше как жить на свои трудовые.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>И я буду трудиться, буду служить.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А много ли ты получишь, не конча-то курса, не имея чина? Сто, двести рублей, не
+              больше. Заведутся дети, будет нужда-то подталкивать, сделаешься неразборчив в
+              средствах, руку крючком согнешь. Ах, скверно!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, вот какие мрачные картины! Главное, что мне нравится в семействе моего тестя, это
+              патриархальность. Сам я человек смирный...</p>
+          </sp>
+          <sp who="#pervyj_student">
+            <speaker>1-й студент.</speaker>
+            <p>Да ведь патриархальность -- добродетель первобытных народов. В наше время нужно дело
+              делать, нужны и другие достоинства, кроме патриархальности.</p>
+          </sp>
+          <sp who="#vtoroj_student">
+            <speaker>2-й студент.</speaker>
+            <p>Патриархальность-то хороша под кущами, а в городах нужно пожинать плоды
+              цивилизации.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, да во всяком случае я уж решился; что сделано, того не воротишь.
+                <stage>(Погуляеву.)</stage> А ты что думаешь с собой делать?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я еду в Петербург. Я нашел частную должность да займусь журнальной работой; коли
+              гожусь на это дело, так ладно, а то другой работы поищу.</p>
+          </sp>
+          <sp who="#studenty">
+            <speaker>Студенты.</speaker>
+            <p>Прощай, Погуляев. Прощай, Кисельников.</p>
+          </sp>
+          <sp who="#vtoroj_student #tretij_student">
+            <speaker>2-й и 3-й студенты.</speaker>
+            <p>Желаем тебе счастья!</p>
+            <stage>(Уходят.)</stage>
+          </sp>
+
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Погуляев и Кисельников.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Погуляев, ты добрее их; пойдем, я тебе покажу свою невесту.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Покажи.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вон она идет с своим семейством.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А еще-то с ними кто же?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>О, это всё милейшие и самые простые люди!</p>
+          </sp>
+          <stage>Входят Боровцов, Боровцова, Глафира, Переярков, в форменном фраке, трость с золотым
+            набалдашником, и Турунтаев.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Погуляев, Кисельников, Боровцов, Боровцова, Глафира, Переярков и Турунтаев.</stage>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Посмотрите, посмотрите, что за картина! <stage>(Показывает тростью на запад.)</stage>
+              Солнце склоняется к западу, мирные поселяне возвращаются в свои хижины и свирель
+              пастуха... <stage>(Обращаясь к проходящему.)</stage> Потише, милостивый государь!
+              Потише, говорю я вам!</p>
+          </sp>
+          <sp who="#prohodyashchij">
+            <speaker>Проходящий.</speaker>
+            <p>Извините.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Надо различать людей. <stage>(Показывая на свой орден.)</stage> Видите, милостивый
+              государь!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Про какую он там свирель говорит? Никакой свирели не слышно.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, уж это нужно ему извинить. Зачем к таким мелочам привязываться? Он -- человек
+              отличный. Люди семинарского образования всегда склонны к риторике.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков</speaker>
+            <stage>(указывая тростью).</stage>
+            <p>Солнце склоняется к западу...</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Отчего же это оно к западу? Разве уж ему такой предел положен?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Известное дело -- предел, а то еще что же?</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>А как в чужих землях? И там тоже солнце на запад садится?</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Наверное-то сказать трудно, потому что во многих землях, где у нас запад, там у них
+              восток приходится. Да вот Ион много походов сломал, он нам скажет. Ну, как в Турции,
+              где солнце садится?</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Постойте, постойте! Вот так Шумла <stage>(показывает руками)</stage>, вот так наш
+              лагерь, а солнце садилось вот так, в эту сторону.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Хорошо бы побывать в разных землях, чтобы знать, как у них там; как солнце садится,
+              как другое что.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Все это -- суемудрие, мечта. Мы на этом свете все равно, что в гостинице; там уж где
+              ты ни живи, все один конец. Семейный человек живи в своей семье, потому он -- глава.
+              Куда я, семейный человек, поеду? Конечно, кто праздношатающий...</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Или по службе...</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Пошлют, пойдешь.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Про службу что и говорить! Служба особь статья. Если ты по службе куда идешь, так уж
+              это, значит, твое должное.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Какой тут разговор.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Нам везде свой дом.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>И опять же ваша пешая служба супротив морской много легче. Вы то возьмите: другой раз
+              пошлют с кораблем-то отыскивать, где конец свету; ну и плывут. Видят моря такие,
+              совсем неведомые, морские чудища круг корабля подымаются, дорогу загораживают, вопят
+              разными голосами; птица Сирен поет; и нет такой души на корабле, говорят, которая бы
+              не ужасалась от страха, в онемение даже приходят. Вот это -- служба.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Что они говорят?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Добрые люди, друг мой, добрые люди; ты критику-то оставь. Они -- люди неученые, это
+              правда; зато сердце у них лучше нашего. Подойдем к ним, я тебя познакомлю.</p>
+            <stage>(Подходят.)</stage>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Вот и жених. Где это ты запропал? Посмотри, невеста-то уж плачет, что давно не
+              видала.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Ах, что вы, тятенька! Даже совсем напротив.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>А ты, дура, нарочно заплачь, чтоб ему было чувствительнее.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вот позвольте познакомить вас с моим товарищем.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Оно конечно, без товарищев нельзя; только уж женатому-то надо будет от них отставать;
+              потому от них добра мало. А как ваше имя и отчество?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Антон Антоныч Погуляев.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Так-с. Состояние имеете?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Нет.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Плохо. Значит, вы моему зятю не компания.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Это все равно, мы с ним с детства друзья.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Вы кончалой?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да, то есть я кончил курс.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ну, я про то-то и спрашиваю. Из разночинцев?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Из разночинцев.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Из мещан или из приказных детей?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Мой отец был учитель.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ну, все одно что из приказных. Теперь разночинцам дорога, кто кончит в
+              университете.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Вы в военную! Через полгода офицер, дворянин, значит; вы грамотей, так, пожалуй,
+              казначеем сделают; послужите, роту дадут; наживите денег да крестьян купите -- свои
+              рабы будут. Вы ведь не из дворян, так это вам лестно.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Хорошо и в штатскую. Я до титулярного-то двадцать пять лет служил, а вас, гляди, года
+              через четыре произведут.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я не думаю служить.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Не одобряю.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>В учителя хочу.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ребятишек сечь? Дело! Та же служба. Только как вы характером? Строгость имеете
+              ли?</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Пороть их, канальев! Вы как будете: по субботам или как вздумается, дня положенного
+              не будет? Ведь методы воспитания разные. Нас, бывало, все по субботам.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Уж я, право, не знаю.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Нет, вы не годитесь в учителя, и в военную не годитесь -- я по глазам вижу. Вы лучше
+              в штатскую.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Погулять бы теперь.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Нет, уж мы, брат, нагулялись. Гуляйте вот с женой, с дочерью, а мы пойдем посидим,
+              отдохнем.</p>
+          </sp>
+          <stage>Боровцов, Переярков и Турунтаев уходят.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ШЕСТОЕ</head>
+          <stage>Боровцова, Глафира, Погуляев и Кисельников.</stage>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Куда еще гулять! Я уж и так ноги отходила.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Сядьте, маменька, тут вот на скамеечку, мы подле вас будем.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(Глафире).</stage>
+            <p>Вы очень любите своего жениха?</p>
+            <stage>Глафира молчит.</stage>
+            <p>Что же вы мне не отвечаете?</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>А ты скажи: "Столько, мол, люблю, сколько мне следовает".</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Как же я могу про свои чувства говорить посторонним! Я могу их выражать только для
+              одного своего жениха.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Какова скромность!</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Вы про любовь-то напрасно. Она этого ничего понимать не может, потому что было мое
+              такое воспитание.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А как же замуж выходить без любви? Разве можно?</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Так как было согласие мое и родителя ее, вот и выходит.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Вы чем изволите заниматься?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Вы, может быть, это в насмешку спрашиваете?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Как же я смею в насмешку?</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Нынче всё больше стараются, как на смех поднять. Хоть не говори ни с кем.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Обыкновенно чем барышни занимаются. Я вышиваньем занимаюсь.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Что ж вы вышиваете?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Что на узоре нарисовано: два голубя.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А еще чем? Неужели только одним вышиваньем?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Маменька, что же мне еще ему говорить?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну что ты пристал! Этак, конечно, сконфузить можно.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я и не думал конфузить, я сам всегда конфужусь.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Вы к нам будете с Кирилой Филиппычем приходить или так только?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Если позволите.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Придем непременно, завтра же.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Мы будем в фанты играть.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Да, приходите с девушками поиграть, а то у нас молодых-то парней мало; молодцов
+              зовем, так те при хозяевах-то не смеют.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да я в фанты играть не умею.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Мы выучим. В фантах можно с девушками целоваться.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Да, у нас запросто.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ты только побывай раз, потом сам проситься будешь. Ты что ни говори, лучше этих
+              тихих, семейных удовольствий ничего быть не может.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ну нет, есть кой-что и лучше этого.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Это танцы-то, что ли? Так ну их! Муж терпеть не может.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Теперь я вас не буду бояться, потому что вы будете к нам вхожи в дом; а то я думала,
+              что вы так только, посмеяться хотите. Я думала, что вы гордые.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Отчего же вы так думали?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Ученые все гордые. Вот у нас рядом студент живет, так ни с кем из соседей не знаком и
+              никому не кланяется.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Должно быть, у него занятий много, времени нет для знакомств.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, так дикарь какой-то.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Как времени не быть! Ведь с портнихами знаком же, к ним ходит часто. Его спрашивали,
+              отчего он не хочет с хорошими барышнями познакомиться?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Что же он?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>"Они, говорит, глупы очень, мне с ними скучно". И выходит, что он -- невежа и
+              гордый.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ну, конечно, невежа.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Да ты сам-то, батюшка, не таков ли?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, маменька, что вы!</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Ох, трудно вам верить-то!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Какая простота! Какая невинность!</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Ну пойдем, Глаша!</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Пойдемте, маменька.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(подходя к Боровцовой).</stage>
+            <p>Прощайте, маменька. Я к вам завтра часов с пяти.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира</speaker>
+            <stage>(Погуляеву).</stage>
+            <p>Прощайте. Приходите завтра, не обманите. <stage>(Тихо.)</stage> У меня есть подруга,
+              очень хороша собой, у ней теперь никого нет в предмете, я вас завтра познакомлю,
+              только чтобы секрет. Вы смелей, не конфузьтесь.</p>
+            <stage>(Отходит к Боровцовой.)</stage>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Ты и приятеля-то приводи.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Хорошо, маменька, придем вместе.</p>
+          </sp>
+          <stage>Боровцова и Глафира уходят.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ СЕДЬМОЕ</head>
+          <stage>Кисельников и Погуляев.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, что скажешь?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ха, ха, ха! да это черт знает что такое! Это -- безобразие в высшей степени!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Это тебе потому кажется безобразием, что ты совсем отвык от семейной жизни.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да какая ж это семейная жизнь? Это -- невежество и больше ничего.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Так вдруг тебе показалось, а ты вглядись хорошенько.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Не вглядеться, а втянуться нужно; я понимаю, что можно втянуться, только потом уж и
+              не вылезешь. Если уж тебе пришла охота жениться, так бери девушку хотя не богатую, да
+              только из образованного семейства. Невежество -- ведь это болото, которое засосет
+              тебя! Ты же человек нетвердый. Хоть на карачках ползи, хоть царапайся, да только
+              старайся попасть наверх, а то свалишься в пучину, и она тебя проглотит.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что за фантазии!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Послушай, вот тебе мой совет: загуляй лучше -- может быть, и позабудешь об невесте
+              либо приедешь туда пьяный, и тебя прогонят, откажут тебе -- это еще может тебя спасти.
+              Напьешься -- проспишься, а женишься, уж не воротишь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что ты ни говори, я уж решился -- это дело кончено. Прощай.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Прощай! Я первый буду рад, если мои слова не сбудутся.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="tableau">
+        <head>СЦЕНА II</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Кисельников, 29 лет.</castItem>
+          <castItem>Глафира, 25 лет.</castItem>
+          <castItem>Лизанька, дочь их, 6 лет.</castItem>
+          <castItem>Боровцов, 47 лет.</castItem>
+          <castItem>Боровцова.</castItem>
+          <castItem>Анна Устиновна, мать Кисельникова.</castItem>
+          <castItem>Переярков.</castItem>
+          <castItem>Турунтаев.</castItem>
+          <castItem>Погуляев.</castItem>
+          <castItem>Аксинья, кухарка Кисельникова.</castItem>
+        </castList>
+        <stage>Небогатая комната в квартире Кисельникова. Между 1-й сценой и 2-й проходит 7
+          лет.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Глафира, Кисельников и дочь.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Убери дочь-то! Что она здесь толчется! Нет у них детской, что ли? Уж и так все уши
+              прожужжали; а тут, того гляди, гости приедут.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Твои ведь дети-то!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Так что ж, что мои?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Ну, так и нянчайся с ними.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>А ты-то на что! У меня есть дела-то поважнее.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Я твоих важных делов и знать не хочу; а ты не смей обижать детей, вот что!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Кто их обижает?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Лизанька, плюнь на отца.</p>
+            <stage>Лизанька плюет.</stage>
+            <p>Скажи: папка дурак.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лизанька.</speaker>
+            <p>Папка дурак.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что ты это? Чему ты ее учишь?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Да дурак и есть. Ты как об детях-то понимаешь? Ангельские это душки или нет?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, так что ж!</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Ну, и значит, что ты дурак. Заплачь, Лизанька, заплачь.</p>
+            <stage>Лизанька плачет.</stage>
+            <p>Громче плачь, душенька! Пусть все услышат, как отец над вами тиранствует.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(зажимая уши, кричит).</stage>
+            <p>Вы мои тираны, вы!</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Кричи еще шибче, чтоб соседи услыхали, коли стыда в тебе нет. Пойдем, Лизанька.
+                <stage>(Мужу.)</stage> Ты погоди, я тебе это припомню. <stage>(Дочери.)</stage> Да
+              что же ты нейдешь, мерзкая девчонка! Как примусь я тебя колотить.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Это ангельскую-то душку?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>А тебе что за дело? Моя дочь, я ее выходила, а не ты. Вот назло же тебе прибью в
+              детской. Вот ты и знай!</p>
+            <stage>(Уходит с дочерью.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ишь ты какая! Ишь ведь какая взбалмошная! Ох, ругать бы ее, да ругать хорошенько.
+              Сегодня нельзя браниться-то с ней, грех -- день ее ангела. Уж сегодня пусть
+              привередничает -- ее день. Сегодня можно и стерпеть. Что ж не стерпеть. Невелик
+              барин-то, чтоб не стерпеть! Эх, дела, дела!</p>
+            <stage>(Долго стоит задумавшись. Потихоньку запевает.)</stage>
+            <lg>
+              <l>Во саду ли, в огороде</l>
+              <l>Девушка гуляла.</l>
+            </lg>
+          </sp>
+          <stage>Входит Глафира.</stage>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Обидел жену, а сам песни поет; хорош муж!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(громче).</stage>
+            <lg>
+              <l>Она ростом невеличка,</l>
+              <l>Лицом круглоличка.</l>
+            </lg>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Что ж ты, на смех, что ли? Ишь какую моду выдумал!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да уж мне только и осталось: либо взвыть голосом от вас, либо песни петь.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>А мне что делать! Я вот нынче именинница, а ты мне что подаришь?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>А где деньги-то?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>А мне какое дело! Зачем же ты меня брал из богатого дому, коли у тебя денег нет; я к
+              такой жизни не привыкла.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>У меня деньги были, твой же отец взял.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>И преотлично сделал, а то бы ты их давно промотал.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>А ему какое дело? Деньги-то мои, что хочу, то с ними и делаю. А он не то что денег, и
+              процентов не платит. Насилу выпросишь рублей пятнадцать или двадцать, да еще после
+              попрекает да ломается. Я, говорит, тебе в твоей бедности помогаю.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Так тебе и надо. Отдай тебе деньги-то, так ты, пожалуй, и жену-то бросишь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Где уж бросить, когда пятеро детей. Нет уж, надел петлю, да и концы вам отдал, тяните
+              теперь, пока совсем задушите. Ты говоришь, что ты из богатого дому; а много ль за
+              тобой дали-то! Обещали шесть тысяч, а много ли дали?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Ты за счастье считай, что я за тебя пошла-то; с тысячами-то я бы в десять раз лучше
+              тебя нашла. За меня какой полковник-то сватался! Как я была влюблена-то! До самой
+              страсти! Да не отдали, оттого что очень в карты играет.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Зачем же ты шла за меня?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Выдали, так и пошла. Известно, глупа была. Тятенька-то думал, что ты -- деловой, что
+              ты -- себе на прожитие достанешь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Где ж я достану? На нашей службе немного добудешь. Что ж мне -- воровать, что ли?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>А мне какое дело. Я с тобой и говорить-то не хочу. Ты еще у меня должен прощенье
+              просить, а то я с тобою две недели слова не скажу. При гостях нарочно буду от тебя
+              отворачиваться, пусть тятенька с маменькой посмотрят.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, уж ты этого-то, пожалуйста, не делай...</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>А! Тебе это не нравится! Так вот нарочно ж буду, нарочно!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Глаша, ну я прошу тебя! Что хорошего, разговор пойдет.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Так проси прощенья.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, прости меня.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Целуй ручку, да вперед не смей со мной спорить никогда.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, не буду.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Где ж тебе со мной спорить! Ты помни, что я в тысячу раз тебя умнее и больше тебя
+              понимаю. Мной только и дом-то держится.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, хорошо, хорошо! А где маменька?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Известно, в детской. Где ж твоей маменьке быть! Пусть хоть детей нянчит, все-таки не
+              даром хлеб ест.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как же даром? Ведь мы в ее доме-то живем.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Вот опять с тобой ругаться надо. Сколько раз я тебе говорила, чтоб ты дом на мое имя
+              переписал. Вот и выходит, что ты меня не любишь, а все только словами обманываешь, как
+              сначала, так и теперь. Для матери все, а для жены ничего.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да что все-то? Ведь это -- ее дом-то, собственный!</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Так что ж, что ее? Я вот ей свои старые платья дарю, не жалею для нее, а ты этого не
+              хочешь чувствовать, точно как я обязана. Да молчи ты, не расстраивай меня! Вон
+              тятенька с маменькой приехали. И зачем это я связалась с тобой говорить! Очень
+              интересно твои глупости слушать.</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(задумавшись осматривает комнату).</stage>
+            <p>Ишь ты, пыли-то сколько на диване. Аксинья!</p>
+            <stage>Входит Аксинья.</stage>
+            <p>Ишь ты, пыли-то сколько.</p>
+          </sp>
+          <sp who="#aksinya">
+            <speaker>Аксинья.</speaker>
+            <p>Да, как же! Есть мне время! Не разорваться же в самом деле!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Так давай тряпку, я сам сотру.</p>
+          </sp>
+          <sp who="#aksinya">
+            <speaker>Аксинья</speaker>
+            <stage>(подает тряпку).</stage>
+            <p>Давно бы вам догадаться-то.</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(стирая пыль).</stage>
+            <p>Ну, вот и чисто. При большой-то семье как за порядком усмотришь. Сколько людей-то
+              нужно! А вот взял сам да и стер, взял да и стер, -- невелик барин-то! На
+              тряпку-то!</p>
+          </sp>
+          <sp who="#aksinya">
+            <speaker>Аксинья</speaker>
+            <stage>(за сценой).</stage>
+            <p>Бросьте где-нибудь. Стряпня одолела.</p>
+          </sp>
+          <stage>Кисельников бросает в дверь тряпку. Входят Боровцов, Боровцова и Глафира.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Боровцов, Боровцова, Глафира и Кисельников.</stage>
+          <sp who="#glafira">
+            <speaker>Глафира</speaker>
+            <stage>(тихо Боровцовой).</stage>
+            <p>Вчера мои серьги заложил.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Здравствуй, Кирюша! С именинницей! Рад ли гостям-то?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Здравствуйте, папенька! Здравствуйте, маменька! Как же, помилуйте! И вас также с
+              именинницей.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов</speaker>
+            <stage>(ероша ему волосы).</stage>
+            <p>Эх ты, простота, простота! Любишь жену-то?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как, папенька, не любить!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Люби, Кирюша, люби. Поцелуй ее, сейчас поцелуй, чтоб я видел.</p>
+            <stage>Кисельников целует.</stage>
+            <p>Вот так. Вот теперь вижу, что любишь.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Да, как же! Любит он ее! Поцеловать-то всякий сумеет; а ты спроси, куда он ее серьги
+              дел.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Какие серьги?</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Да наши серьги, что мы за ней дали. Заложил ведь.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Уж ты до жениного приданого добрался. Выкупи. С себя хоть все заложи, а приданого не
+              смей трогать.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>При первых деньгах, папенька, выкуплю.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>У кого заложены?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>У Турунтаева.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Десять процентов в месяц берет.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>А что ж не брать, коли дают. По его век дураков хватит. Эх, зятек! Я думал, что из
+              тебя барин выдет, ан вышла-то грязь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>За что же, папенька...</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>За то же, что ты для семейства ничего не стараешься. Ты в каком суде служишь? Кто у
+              вас просители?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Купцы.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>То-то "купцы"! Ну, стало быть, их грабить надо. Потому, не попадайся, не заводи
+              делов. А завел дела, так платись. Я тебе говорю, -- я сам купец. Я попадусь, и с меня
+              тяни. "Мол, тятенька, родство родством, а дело делом; надо же, мол, и нам жить
+              чем-нибудь". Боишься, что ль, что ругать стану? Так ты этого не бойся. Кому надо в суд
+              идти, тот деньги готовит; ты не возьмешь, так другой с него возьмет. Опять же и
+              физиономию надо иметь совсем другую. Ты вот глядишь, словно мокрая курица, а ты гляди
+              строже. Вот как гляди. Так всякий тебя опасаться будет. Потому кто в суд пришел, он
+              хоть и не виноват, а ему все кажется, что его засудить могут; а взглянул ты на него
+              строго, у него и душа в пятки; ну и пошел всем совать по карманам -- перво-наперво,
+              чтоб на него только ласково глядели, не пужали его; а потом, как до дела разговор
+              дойдет, так опять за мошну, в другой раз.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Охота вам, тятенька, с ним слова терять.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Молчи, Глаша. Может, он, Бог даст, и в разум придет. Откроется в нем такое понятие,
+              что отец его добру учит. Слушай, Кирюша, это тебе на пользу.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да и жить-то надо не так. Ты сразу поставь себя барином, тогда тебе и честь другая, и
+              доход другой. Заломил ты много с купца, он упирается -- ты его к себе позови да угости
+              хорошенько; выдет жена твоя в шелку да в бархате, так он сейчас и догадается, что тебе
+              мало взять нельзя. И не жаль ему дать-то будет, потому он видит, что на дело. Всякий
+              поймет, что ты барин обстоятельный, солидный, что тебе на прожитие много нужно.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Я, тятенька, не так был воспитан; оно, знаете ли, как-то совестно. Думаешь: "Что
+              хорошего!" Грабителем будут звать.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Грабителем! А тебе что за дело! Пущай зовут! Ты живи для семьи, -- вот здесь ты
+              будешь хорош и честен, а с другими прочими воюй, как на войне. Что удалось схватить, и
+              тащи домой, наполняй да укрывай свою хижину. По крайности, ты душой покоен; у тебя
+              семья сыта, ты бедному можешь помочь от своих доходов; он за тебя Бога умолит. А
+              теперь ты что? Мотаешься ты на белом свете без толку да женино приданое закладываешь.
+              То тебе совестно, а это не совестно? Там ты чужие бы деньги проживал, а теперь женины
+              да детские. Какая же это совесть такая, я уж не понимаю.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>"Женины да детские", слышишь. Как же вот мне не плакать-то?</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Молчи, молчи! Ты вот запомни, что отец-то говорит, да и тверди ему почаще, а то он
+              засуется в делах, из головы-то у него и выходит, он и не помнит.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Маменька, я помню, да только...</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ну, где помнить! Ты и по лицу-то такой растерянный. А вот, как ты в суд-то пойдешь,
+              она тебе и напомнит, да, дорогой-то идя, все тверди.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что мне твердить! Это смешно даже. Понятия у меня, маменька, другие.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Какие же это могут быть понятия, что женины деньги закладывать?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Дурак ты, братец. Никаких у тебя понятий нет. Кабы у тебя были такие понятия, так ты
+              бы не женился да не развел семьи. Я не глупей тебя, я, может быть, не один раз видал
+              таких-то людей, что не берут взяток, и разговаривать как-то раз привел Бог, так уж они
+              и живут, как монахи. Далеко тебе до них! Что ты нас обманываешь! Те люди почитай что
+              святые! А то вот еще масоны есть. Ты уж живи хоть так, как все мы, грешные. Ты разве
+              бы не брал, -- да не умеешь -- вот что надо сказать.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Я уж теперь и сам понимаю, что я ничем не лучше других, а ведь мне хотелось-то быть
+              лучше.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ну мало ль что хотелось.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как вспомню я свои старые-то понятия, меня вдруг словно кто варом обдаст. Нет, стыдно
+              мне взятки брать.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Конечно, стыдно брать по мелочи да с кислой рожей, точно ты милостыню выпрашиваешь; а
+              ты бери с гордым видом да помногу, так ничего не стыдно будет.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>И что это за стыд такой? Нешто у вас другие-то в суде не берут?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Все берут, маменька.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Так кого ж тебе стыдно? Нас, что ли, или соседей? Так у нас по всему околотку, хоть
+              на версту возьми, никто об этом и понимать-то не может. Берут взятки, ну, значит,
+              такое заведение, так исстари пошло, ни у кого об этом и сумления нет. Это ты только
+              один, по своей глупости, сумлеваешься.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что ты толкуешь: "Стыдно!" Ведь я тебе не говорю: "Возьми дубину да на большую дорогу
+              иди". А ты подумай-ка хорошенько да брось свой стыд-то.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>И то, папенька, надо бросить.</p>
+          </sp>
+          <stage>Аксинья входит.</stage>
+          <sp who="#aksinya">
+            <speaker>Аксинья.</speaker>
+            <p>Гости идут, офицер да барин.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Это Луп Лупыч с Ионом Ионычем. Скажи маменьке, чтоб чай наливала, да не очень там с
+              ней копайтесь, а то вас не дождешься.</p>
+          </sp>
+          <stage>Аксинья уходит. Входят Переярков и Турунтаев. Турунтаев расшаркивается и целует
+            руку.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Кисельников, Глафира, Боровцов, Боровцова, Переярков и Турунтаев.</stage>
+          <sp who="#pereyarkov #turuntaev">
+            <speaker>Переярков и Турунтаев</speaker>
+            <stage>(Глафире).</stage>
+            <p>С ангелом. <stage>(Кисельникову).</stage> С именинницей.</p>
+          </sp>
+          <sp who="#kiselnikov #glafira">
+            <speaker>Кисельников и Глафира.</speaker>
+            <p>Покорно благодарим.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Садитесь, приятели, садитесь! Вот теперь вся наша компания в сборе.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>А мы вот с полковником шли да спорили.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Да, ну вот расскажи, вот все теперь и рассудим.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Как правильнее судить дело: по закону или по человечеству?</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Ну, да какое бы там ни было. Я говорю, что по закону, а он говорит, что по
+              человечеству.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да к чему же это клонит, ты хоть намекни.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ежели вы насчет уголовных дел...</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ну вот, очень нужно! Кто виноват, тот виноват, как его ни суди.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>И пори его, анафему; а не виноват, ну и отпустить можно.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков</speaker>
+            <stage>(Боровцову).</stage>
+            <p>Ну, как же по-твоему?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да ты пример скажи.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Вот тебе пример: положим, у тебя на опеке племянник; ты -- человек хороший,
+              состоятельный, торговые дела делаешь, а они вышли ребята так себе, ни то ни се, к
+              торговле склонности не имеют, а готовое проживать охота большая; ну, ты и
+              попользовался от них сколько мог, видимо попользовался; а отчеты представлял
+              безобразные и все такое; то есть не то что ограбил, а себя не забыл. Виноват ты или
+              нет? Вот тебе и задача. По закону ты виноват!</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>А по человечеству -- нет.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Рассудить вас или нет?</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Рассуди.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ты говоришь, что я -- хороший человек, обстоятельный, так за что ж меня судья под
+              закон подведет? Ну и значит, я буду прав. Настоящий-то судья должен знать, кого
+              подвести под закон, кого нет. Если всех нас под закон подводить, так никто прав не
+              будет, потому мы на каждом шагу закон переступаем. И тебя, и меня, и его, надо всех в
+              Сибирь сослать. Выходит, что под закон-то всякого подводить нельзя, а надо знать кого.
+              Так и этот опекун. Как ты его осудишь? Каким манером? За что?</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Осудить не за что; и я бы не осудил, я только говорю про закон.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да что ты наладил: "Закон, закон!"</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Так для чего же они писаны?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Известно для чего -- для страха, чтоб не очень забывались. А то нешто мы так живем,
+              как в законе написано? Нешто написано, что на улице трубку курить, а ты за воротами
+              сидишь с трубкой. Нешто писано, что по десяти процентов в месяц брать, а он берет
+              же.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Нешто писано, что гнилым товаром торговать, а ты торгуешь же.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да, и торгуем.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Нешто писано, что по пятницам скоромное есть, а ведь люди едят же. Уж коли судить,
+              так всех судить: нас судить за товар, и их судить за молоко.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков</speaker>
+            <stage>(Боровцову).</stage>
+            <p>Эка у тебя голова-то на плечах золотая, как раз дело рассудил.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>А не так, что ль?</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Так, верно.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Зятек, Кирюша! Так ведь?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Должно быть, папенька, так-с. По практическому-то смыслу оно так выходит.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Да вот мы еще с полковником спорили, что лучше: ум или практика. Ну, да это после, а
+              теперь бы в карточки.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Сразиться не мешает.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Есть, что ли, карты-то какие-нибудь старенькие? А коли нет, так к нам послать.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(приготовляя стол).</stage>
+            <p>Есть, папенька, садитесь.</p>
+          </sp>
+          <stage>Садятся Боровцов, Переярков и Турунтаев. Входит Анна Устиновна с чаем на
+            подносе.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Кисельников, Глафира, Боровцов, Боровцова, Переярков, Турунтаев и Анна
+            Устиновна.</stage>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Что вы там провалились с чаем-то! Ждешь вас, не дождешься.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Не торопись, матушка, поспеешь.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Топчетесь только в доме, а толку нет.</p>
+          </sp>
+          <sp who="#borovcova">
+            <speaker>Боровцова.</speaker>
+            <p>Ну, ты потише, потише! А ты при людях-то не кричи! Нехорошо. Здравствуйте,
+              сватьюшка!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Здравствуйте, матушка. <stage>(Подает чай.)</stage> Кирюша, бери чай-то. Гости
+              дорогие, пожалуйте.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>А, старушка Божья! На свет выползла? Погоди, мы тебе еще жениха найдем.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Да вот Ион Ионыч холост гуляет.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>И на том спасибо, Пуд Кузьмич.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Что ж вы, маменька, тут стали, как будто вам дела нет.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Пойду, матушка, пойду. Ах, я и забыла! Кирюша, тебя какой-то человек спрашивает.
+              Знаю, что товарищ твой, и видала его, а как звать, забыла.</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Поди! Кого там еще к тебе принесло? Если из ваших служащих, так ты знай, что ему с
+              моим тятенькой не компания.</p>
+            <stage>Кисельников уходит.</stage>
+            <p>Очень у меня муж непризнательный.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что ж так?</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Видимое дело, что он глупее меня, а признаться никак не хочет.</p>
+          </sp>
+          <stage>Входят Кисельников и Погуляев.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Боровцов, Боровцова, Глафира, Переярков, Турунтаев, Кисельников и Погуляев.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Гостя веду, гостя!</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Что это ты уж очень обрадовался?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Шесть лет не видались. Поздравь жену-то, братец, сегодня она у меня именинница.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(Глафире).</stage>
+            <p>Честь имею вас поздравить.</p>
+            <stage>(Кланяется всем.)</stage>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Благодарю покорно. Только нынче мы чужих не ждали, промежду своих хотим время
+              провести.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Садись, братец, садись, потолкуем.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ну, как же ты живешь? Семья велика?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Порядочная, трое детей теперь живых, да двоих, слава Богу, схоронил.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Как "слава Богу"? Разве тебе их не жаль?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Уж очень, брат, тягостно.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да ты служишь?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Какая моя служба! Неспособен оказался, совсем неспособен. И туда совался, и сюда, и в
+              надворном служил, и в сиротском, теперь в магистрате. До столоначальников не добьюсь
+              никак, глядишь, семинарист какой-нибудь и перебьет; дельней нас оказываются, много
+              дельнее.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А жалованья много ли?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>У нас ведь не из жалованья служат. Самое большое жалованье пятнадцать рублей в месяц.
+              У нас штату нет, по трудам и заслугам получаем; в прошлом году получал я четыре рубля
+              в месяц, а нынче три с полтиной положили. С дому сто рублей получаю. Кабы не дележка,
+              нечем бы жить.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Какая дележка?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>По субботам столоначальник делит доходы с просителей, да я посмирнее, так
+              обделяет.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Вот как!</p>
+            <stage>(Задумывается.)</stage>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков</speaker>
+            <stage>(за столом).</stage>
+            <p>Проходимец какой-нибудь; вижу, насквозь его вижу.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Мошенник!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(кивая головой на играющих).</stage>
+            <p>Что ж, это все те же гуси-то?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, мы всё своим кружком, -- так смирненько, ладненько, -- слава Богу.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ну, а деньги твои?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ты потише. Тысячи две прожил сначала-то, а остальные у тестя.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Отчего же тише? Разве не отдает или процентов не платит?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да не то чтобы он совсем, а все как-то, знаешь, туго, с большим трудом. Вот и дом наш
+              он тоже в залоги представил. Он мне за это пятьдесят рублей заплатил. Нельзя отказать,
+              -- родня.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ох, уж эта родня!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов</speaker>
+            <stage>(за столом).</stage>
+            <p>Надо быть, от семьи отбивает.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Гляди, он его в трактир уведет да напоит.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>А вот дайте мне срок, я с ним поговорю. Я с ним по-своему поговорю.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, а ты как?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я тоже, брат, плохо: и без денег, и без места.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев</speaker>
+            <stage>(за столом).</stage>
+            <p>Говорю, что мошенник.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Теперь уроков ищу. За границей был три года.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Вон куда пошло!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ездил с одним богатым семейством в учителях. Мальчик-то в университет поступил, я и
+              остался без места.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что ж, хорошо за границей-то?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Еще бы! И жить хорошо, а учиться, так раздолье; просто кабы деньги, опять бы
+              поехал.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Сейчас я его. <stage>(Погуляеву.)</stage> Да-с! За границей! Что же там, реки
+              сытовые, берега кисельные?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Нет, этого нету. И птицы Сирен не видал.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Вы говорите, что там хорошо; значит, нам надобно ехать туда. Поедемте, господа.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Поедем; и я с женой поеду.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира</speaker>
+            <stage>(Погуляеву).</stage>
+            <p>Это должно к стыду к вашему приписать, что вы семейных людей, обязанных,
+              смущаете.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Да-с, а мы вот не поедем.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>И прекрасно сделаете.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>И почему мы не поедем, вам этого не понять-с. Вот почему-с: во-первых, Замоскворечье
+              -- моя родина, а во-вторых, у нас промежду собой нежность есть; все мы всегда вместе,
+              вот и теперь -- сидим, играем, чаек пьем, а может быть, и ромцу подадут, дружески,
+              приятельски, -- вот где рай-то! а не за границей. Тихо, смирно, благодушно, душа в
+              душу.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>А ты что к нему в карты-то смотришь! Вы и так прошлый раз меня ограбили, восемь
+              гривен кровных отняли. Ты что ему больно подслуживаешься, уж не банкротиться ль он
+              задумывает?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ты очнись. Типун бы тебе на язык-то. Я с тебя за эти слова бесчестье потребую.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Держи карман-то! Велико тебе бесчестье! Вам, аршинникам, обанкрутиться-то, что нашему
+              брату рюмку водки выпить.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Говорил бы кто, да не ты. Кашей бессмертный! Ты сирот грабишь, закладами только и
+              живешь; по десяти процентов в месяц берешь. У тебя и квартиры-то нет, чулан один для
+              складу вещей, -- ни ложки, ни плошки нет, -- ты по должникам пить-есть ходишь.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Хожу. А ты конкурсами только и живешь, -- день-то плутничаешь да фальшивые документы
+              составляешь, а вечером собираешь к себе несостоятельных да садишься с ними по большой
+              в карты играть; они тебе нарочно проигрывают, чтоб только в Сибирь нейти. Тем ты и
+              состояние-то нажил.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Уж ты судился за лихвенные-то проценты.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>А ты от своего имени прошений не смеешь писать, -- всем сенатом ябедником признан, и
+              в газете публиковано.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Процентщик! Кащей! Иуда!</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Вор, денной вор!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что ж ты лаешься-то!</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>А ты что, аршинник!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Вот тебе и душа в душу.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Папенька, Господи, что же вы это! Оставьте, пожалуйста! Играйте!</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Не хочу я с мошенниками играть.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ну, сделайте милость, помиритесь.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Прощай, брат.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, постой, погоди! Ах, Боже мой! Ах, какое несчастие! Папенька, как же это
+              вы?..</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ну, будет! Пошутили, да и будет. Садитесь играть.</p>
+          </sp>
+          <sp who="#turuntaev">
+            <speaker>Турунтаев.</speaker>
+            <p>Садитесь! Пересдать карты, тогда я сяду.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ну, пересдать, так пересдать.</p>
+            <stage>(Пересдают.)</stage>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Кирюша, ты в самом деле нас ромком бы попотчевал.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира</speaker>
+            <stage>(подходя к Кисельникову).</stage>
+            <p>Где ром-то? Где ром-то? Да и деньги-то есть ли у тебя? Ах ты, мучитель! Вылетело у
+              тебя из башки-то, что ром для тятеньки первое удовольствие. Так-то ты об моей родне-то
+              помнишь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Где ж взять-то? Где ж взять-то? Эко горе-то! Вот какая беда-то! Брат, нет ли?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(дает ему деньги).</stage>
+            <p>На вот, последние, я-то как-нибудь добуду.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вот спасибо, вот, брат, одолжил! Век не забуду. <stage>(Боровцову.)</stage> Сейчас,
+              папенька. <stage>(Жене.)</stage> Поди пошли поскорей.</p>
+          </sp>
+          <sp who="#glafira">
+            <speaker>Глафира.</speaker>
+            <p>Помни ты это!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вот, брат, вот, вот... совсем деньжонками порасстроился. А ведь будут, знаю, что
+              будут... Я тебе отдам. У меня непременно в этом месяце будут. У меня есть примета
+              верная. Выхожу я вечером на крыльцо, в руке хлеб, а месяц прямо против меня; я в
+              карман, там серебро, мелочь, -- вот в одной руке хлеб, в другой серебро, а месяц
+              напротив, значит, целый месяц <stage>(сквозь слезы)</stage> и с хлебом, и с
+              деньгами.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(с чувством).</stage>
+            <p>Что ты такое говоришь? Друг мой, в уме ли ты?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(со слезами).</stage>
+            <p>Оно, конечно, ведь это предрассудок, так ведь, Погуляев, предрассудок? А все-таки,
+              когда человек кругом в недостатках, это утешает, утешает, брат, право, утешает.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ах ты, бедный! Прощай.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Увидаться бы... мне бы тебе деньги-то...</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да уж не знаю, придется ли. Ах, Кнрюша! Подымайся как-нибудь. Бедность страшна не
+              лишениями, не недостатками, а тем, что сводит человека в тот низкий круг, в котором
+              нет ни ума, ни чести, ни нравственности, а только пороки, предрассудки да суеверия.
+              Прощай.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Спасибо, брат, спасибо, вот одолжил!</p>
+            <stage>Погуляев уходит.</stage>
+            <p>Вот друг-то, так уж друг! Что тут делать-то, кабы не он! Куда деваться? Это мне его
+              за мою правду да кротость Бог послал. Вот этаких бы друзей-то побольше, так легче бы
+              было на свете жить! Не будь его, так совсем бы я перед тестем осрамился.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="tableau">
+        <head>СЦЕНА III</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Кисельников, 34 лет.</castItem>
+          <castItem>Анна Устиновна.</castItem>
+          <castItem>Боровцов, 52 лет.</castItem>
+          <castItem>Переярков.</castItem>
+          <castItem>Неизвестный.</castItem>
+        </castList>
+        <stage>Бедная комната; крашеный стол и несколько стульев; на столе сальная свеча и кипа
+          бумаг.</stage>
+        <stage>Между 2-й и 3-й сценой 5 лет.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Кисельников сидит за столом в халате и пишет. Анна Устиновна входит.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что дети, маменька?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что мы без доктора-то знаем! Все в жару. Теперь уснули.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Эх, сиротки, сиротки! Вот и мать-то оттого умерла, что пропустили время за доктором
+              послать. А как за доктором-то посылать, когда денег-то в кармане двугривенный? Побежал
+              тогда к отцу, говорю: "Батюшка, жена умирает, надо за доктором посылать, денег нет".
+              -- "Не надо, говорит, все это -- вздор". И мать то же говорит. Дали каких-то трав, да
+              еще поясок какой-то, да старуху-колдунью прислали; так и уморили у меня мою
+              Глафиру.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ну, Кирюша, надо правду сказать, тужить-то много не о чем.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Все ж таки она любила меня.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Так ли любят-то! Полно, что ты! Мало ль она тебя мучила своими капризами? А глупа-то,
+              как была, Бог с ней!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Эх, маменька! А я-то что! Я лучше-то и не стою. Знаете, маменька, загоняют почтовую
+              лошадь, плетется она нога за ногу, повеся голову, ни на что не смотрит, только бы ей
+              дотащиться кой-как до станции: вот и я таков стал.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Зачем ты, Кирюша, такие мысли в голове держишь! Грешно, друг мой! Может быть, мы
+              как-нибудь и поправимся.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Коли тесть даст денег, так оживит. Вот он теперь несостоятельным объявился. А какой
+              он несостоятельный. Ничего не бывало. Я вижу, что ему хочется сделку сделать. Я к нему
+              приставал; с тобой, говорит, поплачусь. А что это такое "поплачусь"?.. Все ли он
+              заплатит или только часть? Да уж хоть бы половину дал или хоть и меньше, все бы мы
+              сколько-нибудь времени без нужды пожили; можно бы и Лизаньке на приданое что-нибудь
+              отложить.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да, да! Уж так нужны деньги, так нужны!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Маменька, вы пишете, что нужно-то? Я вас просил записывать, а при первых деньгах мы
+              все это и исполним.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Записано, Кирюша. <stage>(Вынимает бумажку и читает.)</stage> "Во-первых, за квартиру
+              не заплачено за два месяца по шести рублей, да хорошо бы заплатить за полгода вперед.
+              Во-вторых, чаю, сахару и свеч сальных хоть на месяц запасти. В-третьих, купить в эту
+              комнату недорогой диванчик. В-четвертых, в лавочку пятнадцать рублей шестьдесят одна
+              копейка, -- очень лавочник пристает. В-пятых, фрачную пару..." Уж тебе без этого
+              обойтись никак нельзя. "И в-шестых, ситчику Лизаньке на платье..." Ей уж тринадцатый
+              год, стыдиться начинает лохмотьев-то. Вот что нужно-то. А пуще всего за квартиру да
+              еще детям на леченье. Денег-то у меня, Кирюша, немного осталось.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Из чего остаться-то. Три недели тому назад я вам дал пять целковых.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Немножко-то есть, -- два двугривенных, да пятиалтынный, да что-то медными. А все
+              ладонь чешется, все ладонь чешется, -- надо быть, к деньгам.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Завтра утром к тестю заеду. Не отдаст честью, просто за ворот возьму.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ну, где тебе! Ты лучше попроси хорошенько. Взять бы с него, что придется, да и
+              развязаться с ним. Много тебе писать-то?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Всю ночь пропишешь. Да ведь это не свое дело, это за деньги. Слава Богу, что еще дают
+              работу; вон сколько набрал ее, рублей на шесть.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Никак кто-то калиткой стукнул? Не слыхал ты?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Кто-то стукнул. Кому ж бы это?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна</speaker>
+            <stage>(заглянув в дверь).</stage>
+            <p>Тесть твой, тесть. Тереби его хорошенько! Я уйду.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Прежде я с ним все лаской, а теперь грубить стану; право, маменька, грубить
+              стану.</p>
+          </sp>
+          <stage>Анна Устиновна уходит. Входит Боровцов, бедно одетый, и Переярков.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Кисельников, Боровцов и Переярков.</stage>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Помешали, что ль, тебе?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, ничего. Всего дела не переделаешь. Мне всю ночь-то писать, так уж полчаса куда
+              ни шло. Что хорошенького скажете?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов</speaker>
+            <stage>(садясь).</stage>
+            <p>Дай присесть-то, потом и разговаривать начнем.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Надо тебе будет одну бумажку подписать.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что вы мне всё носите бумаги подписывать; а деньги-то когда же? Хоть что-нибудь
+              дайте!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что теперь с меня взять? В упадок пришел, -- я теперь, брат, невинно-упадший, хоть в
+              работники к тебе, так в ту ж пору.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да что ж вы, папенька, со мной делаете! Ведь мы -- нищие совсем.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что ж, брат, делать-то? И я нищий, -- Божья воля. Ведь я не злостный, не умышленный,
+              а несостоятельный, несчастный, невинно-упадший.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Кто вас несчастным-то признал, -- подставные кредиторы, которым вы дутых векселей
+              надавали. Что у вас за несчастие! Ни пожара, ни пропажи не было. Зажали деньги-то,
+              папенька. Пожалейте хоть внучат-то, вон они больные лежат.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Тише ты, тише! Нешто так говорят со старшими? А ты по заповедям живи, старших-то
+              почитай.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ведь мне с детьми-то по миру приходится идти!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Все под Богом ходим. Я тебе помогал в твоей бедности, пока я был в силах.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вы меня приданым обманули, ничего денег не дали; ну, да уж я этого не ищу; а мои-то
+              где, мои собственные? Дом-то где?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что ты кричишь-то! Ведь я не взаймы у тебя брал, векселя тебе не давал, а расписку;
+              ты мне на оборот дал, разжиться захотел. А оборот -- дело обоюдное: либо наживешь,
+              либо проживешь. Вот мы и прожили; с кого ж теперь искать? Ищи на тех, за кем твои
+              деньги пропали. А что дом захряс в залогах, я чем виноват? Твоя была воля отдавать.
+              Подряд все одно, что лотерея, -- на счастье пускается.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Папенька, отец-благодетель! У вас деньги есть, -- вы припрятали, много припрятали, --
+              не дайте нам умереть с голоду.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да что говорить! Деньги есть, как без денег жить, я не дурак.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вот вы сами говорите, что у вас деньги остались. Вот сейчас, папенька, сказали, ведь
+              вы сами сказали. А у меня нет, ей-богу, ничего нет.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да хоть и остались, все-таки я тебе не дам; надо же нам со старухой как-нибудь век
+              доживать. На нужду, коли уж тебе невмочь, да забежишь ты ко мне -- ну, когда откажу, а
+              когда и не откажу совсем-то, а умрем -- все ваше останется. Из вещей что-нибудь дадим;
+              вот фортепьянишки есть старенькие; нам теперь, при нашем несчастии, держать их не
+              пристало.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Да что вы за разговоры завели! За делом пришли, а не разговоры разводить; мне
+              время-то дорого, у меня другие конкурсы есть. <stage>(Смотрит на часы.)</stage> Вона,
+              десятый час! Вот предложите зятю-то, коли в нем человеческие чувства есть, пусть
+              подпишет эту бумагу-то.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Есть в тебе чувство, Кирила? Говори.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Заплачь! Что ж ты не плачешь! Твое теперь дело такое, сиротское. Ведь перед другими
+              же кредиторами будешь плакать. Придется и в ноги кланяться.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Заплачу, право заплачу. <stage>(Со слезами.)</stage> Кирюша! Отец я тебе или нет?
+              Благодетель я тебе был?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да что вы, папенька?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов</speaker>
+            <stage>(подает ему бумагу).</stage>
+            <p>Читай бумагу!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(читает).</stage>
+            <p>"Я, нижеподписавшийся, будучи убежден вполне обстоятельствами дела, что
+              несостоятельность бывшего купца, а ныне мещанина Пуда Кузьмича сына Боровцова
+              произошла от разных несчастных случаев и от неплатежа и корыстной злонамеренности его
+              должников, -- зная его всегдашнюю честность, преклонные лета и затруднительное
+              болезненное состояние и удручение от трудов и семейства..."</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов</speaker>
+            <stage>(со слезами).</stage>
+            <p>Видишь, видишь!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>"Признаю его невинно-упадшим и иск свой по расписке в пять тысяч рублей ассигнациями
+              и претензию о доме сим совершенно и навсегда прекращаю".</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Вот оно, Кирюша, какое дело-то!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что же теперь... Я не знаю... Как же мне быть-то?</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Подпиши, да и все тут. После всякого доброго дела на душе легче бывает, радость
+              эдакая.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Папенька, как же... так от всего и отказаться?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Чужие мы, что ли? Не родня мы? Что ж, забуду я, что ль, такое твое благодеяние! Чай,
+              мы христиане...</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ведь тебе уж все равно, а нам для формы нужно.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Значит, папенька, я должен буду теперь только вашим словам поверить, что вы меня не
+              оставите.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да как же не поверить-то, чудак! Уж я тебя потом... Уж озолочу потом.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(берет перо).</stage>
+            <p>Вот, папенька... Ах, руки трясутся... Смотрите же, папенька, я душе вашей верю.</p>
+            <stage>(Подписывает.)</stage>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков</speaker>
+            <stage>(берет бумагу, складывает и кладет в карман).</stage>
+            <p>Ну, вот и конец, а ты сомневался. Видишь, какой благородный зять-то у тебя; по
+              скольку за раз дарит. А ты говорил: не уломаешь. Видишь, как скоро, да и без
+              расходов.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да, теперь как гора с плеч. Ты, Кирюша, парень хороший, право хороший! А я думал
+              было, что ты заломаешься. Ведь и другие то же пишут, что ты; да даром-то еще никто не
+              подписал.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как, разве вы платили?</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да как же не заплатить-то, чудак! Кому половину, кому двадцать пять, глядя по
+              характеру. А ты вот молодец! Видно, что любишь тестя. Я думал, что и ты тоже заломишь,
+              так приготовил было тысчонки две и с собой захватил. Заткнуть, мол, ему рот-то, чтоб
+              не шибко кричал.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Так они с вами? Дайте, папенька, дайте! Хоть тысячу дайте, я оживу!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ну нет, брат, другим годятся, кто посердитей. Ишь ты, дай ему тысячу! Легко сказать!
+              Ты, видно, счет в деньгах-то позабыл, тысяча -- много денег.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Уж вы отложили; вы хотели дать. Что вам стоит!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>А ты трудись.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Тружусь, по ночам сижу, здоровье мое в этой работе уходит. Грош я вырабатываю, грош.
+              Дайте денег, папенька, дайте! Я докажу, я донесу; вы меня ограбили.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Каких тебе денег? Мы с тобой квиты. Если ты просишь теперича себе на бедность, так
+              нешто так просят! Нешто грубиянить старшим ты можешь? Ты б грубиянил давеча, как право
+              имел, пока не подписал. Тогда я тебе кланялся, а теперь ты мне кланяйся. Дураки-то и
+              всё так живут! Был я у тебя в руках, так не умел пользоваться. А теперь прощай. Никто
+              тебя, дурака, не неволил, силой тебя не тянули подписывать-то! Что смотришь-то?</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Да об чем толковать-то! Дело покончили.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Уж я ничего не понимаю... Прежде голодал, так хоть впереди надежда была
+              какая-нибудь... Бедные дети, ведь они -- твои внуки!..</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Внуков не забудем; будь и ты почтительнее, и тебе лучше будет. Форсом ничего не
+              возьмешь.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Ну, с Турунтаевым ты так дешево не отделаешься.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Турунтаеву ни копейки не дам; я теперь рассердился.</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Не дайте-ка ему, так он удавится, право удавится... Его уж раз из петли вынимали.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Пущай давится, -- черту баран... Пойдем. Прощай, Кирюша, спасибо тебе! Постой, так не
+              уйду, не бойся; у меня тоже чувство-то есть; свои дети были. <stage>(Вынимает из
+                кармана несколько мелочи.)</stage> На вот! Купи детям чего-нибудь сладенького.
+              Прощай!</p>
+          </sp>
+          <sp who="#pereyarkov">
+            <speaker>Переярков.</speaker>
+            <p>Много ты тестю помог, много. Путал его этот долг, ты ему руки развязал. Ты послушай,
+              что он говорил! Этот долг, Кирилин, не по документу, а по совести, я заплатить должен.
+              А ты ему простил; какой ты праздник для него сделал!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Как же не праздник-то, чудак! Больше пяти тысяч подарил. Прощай!
+                <stage>(Переяркову.)</stage> Ну, уж и бумагу-то ты ловко написал! Станешь читать,
+              так слеза и прошибает.</p>
+            <stage>(Уходят.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Детки мои, детки! Что я с вами сделал! Вы -- больные, вы -- голодные; вас грабят, а
+              отец помогает. Пришли грабители, отняли последний кусок хлеба, а я не дрался с ними,
+              не резался, не грыз их зубами; а сам отдал, своими руками отдал последнюю вашу пищу.
+              Мне бы самому людей грабить да вас кормить; меня бы и люди простили, и Бог простил; а
+              я вместе, заодно с грабителями, вас же ограбил. Маменька, маменька!</p>
+          </sp>
+          <stage>Анна Устиновна входит.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Кисельников и Анна Устиновна.</stage>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты, Кирюша?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Маменька, посидите со мной, не уходите от меня.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да что ты, что ты? Бог с тобой!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Приносил деньги-то.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ну так что же, Кирюша?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Зачем вы меня на свет родили? Ведь я не взял денег-то.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты наделал! Варвар! Что ты с нами сделал!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Принесли бумагу какую-то, сунули мне, я и подписал.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Эки злодеи, эки злодеи! На кого напали-то! Кого обидеть-то захотели! Бога они не
+              боятся...</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, маменька, пришли, ограбили, насмеялись и ушли. Ах, маменька, как мне трудно
+              стало, грудь схватило! А работы много, вон сколько работы! Нищие мы теперь, нищие!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Не ропщи, Кирюша, не ропщи.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ох, умереть бы теперь!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>А дети-то, дети-то!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, дети! Ну, что пропало, то пропало.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>А ты посиди, отдохни; а за работу после примешься.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Когда отдыхать-то! Дело-то не терпит! Ну, маменька, пусть они пользуются! Не
+              разбогатеют на наши деньги. Примусь я теперь трудиться. День и ночь работать буду. Уж
+              вы посидите со мной! Не так мне скучно будет; а то одного-то хуже тоска за сердце
+              сосет.</p>
+            <stage>(Принимается писать.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Посижу, посижу, всю ночку просижу с тобой.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(про себя говорит и пишет).</stage>
+            <p>"А по справке оказалось: при прошении, поданном в калиновское городническое
+              правление, малиновский мещанин Гордей Яковлев сын Кудряев представил три векселя и с
+              протестами, писанные на имя малиновского купца Сидора Сидорова Угрюмова: первый, на
+              сумму сто рублей, сроком..." Нет-нет, да вдруг так за сердце и ухватит, -- денег-то
+              очень жалко.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Как же не жалко-то! При всей нашей бедности, да такую сумму...</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ох, уж не говорите! <stage>(Пишет сначала молча, потом говорит вслух.)</stage>
+              "Малиновский купец Сидор Угрюмов, поданным в оное же городническое правление
+              сведением, в коем объясняет..."</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Кирюша!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что вам, маменька?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Я поговорить с тобой хочу. Ты пиши, пиши.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Говорите, маменька.</p>
+            <stage>(Пишет.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ты вот теперь обязан семейством, у тебя мать-старуха...</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да-с.</p>
+            <stage>(Пишет.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ты уж очень совестлив, как погляжу я на тебя. Нынче так жить нельзя.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что ж с этим делать-то!</p>
+            <stage>(Пишет.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Вот что, Кирюша; ты меня послушай! Никакая мать своему сыну дурного не пожелает. А
+              коли посоветует, так уж этот грех на ней будет, а сыну Бог простит. Вот теперь ночь,
+              мы с тобой одни... ты видишь нашу нужду... переломи, Кирюша, себя, бери взятки... я за
+              тебя, Кирюша, Бога умолю, -- я каждый день буду ходить молиться за тебя, я
+              старуха...</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что вы, маменька, говорите!..</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Конечно, мать-то должна добру учить; да уж ты, Кирюша, не брани меня. Видя-то нашу
+              горькую бедность...</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Маменька, маменька, не мучьте меня!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Прости меня, Кирюша! Душа-то у тебя какая чистая!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ах, маменька! Нет, нет. Вы любите меня, вот вам и кажется, что у меня душа
+              чистая...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Стыдишься ты брать-то.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Был у меня стыд, а теперь уж нет, давно нет.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Так отчего ж бы тебе...</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вы думаете, я не взял бы?..</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Так чего ж ты боишься?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Взял бы я, маменька, взял бы.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Так бери! Вот тебе мое благословение!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ах, маменька! Взял бы я... да не дают... <stage>(Опускается головой на стол.)</stage>
+              За что мне дать-то! Я не доучился, по службе далеко не пошел, дел у меня больших нет,
+              за что мне дать-то?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Экой ты у меня бедный! Экой ты у меня горький! <stage>(Обнимает его.)</stage> Кирюша,
+              Кирюша, кто-то стучит. Отпирать ли?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Не тесть ли воротился? Отоприте.</p>
+          </sp>
+          <stage>Анна Устиновна уходит. Кисельников прислушивается.</stage>
+          <sp who="#neizvestnyj">
+            <speaker>Голос за сценой.</speaker>
+            <p>Здесь живет чиновник Кисельников?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Голос Анны Устиновны.</speaker>
+            <p>Здесь. Пожалуйте.</p>
+          </sp>
+          <stage>Входит Неизвестный.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Кисельников и Неизвестный.</stage>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Вы господин Кисельников?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Точно так-с.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный</speaker>
+            <stage>(садясь).</stage>
+            <p>Вы, должно быть, очень бедно живете?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Сами изволите видеть.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Да. Ну, это может поправиться. У меня много частных поручений; если хотите, можете
+              заниматься у меня. Вам тысячи рублей в год будет?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как вы изволили сказать?</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Тысячу рублей.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Мне тысячу рублей-с!.. Это благодеяние такое-с... Я, помилуйте... так благодарен-с...
+              Мне и во сне-то... Позвольте узнать, с кем говорю-с.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Это вам все равно; вы узнаете после. Я поверенный по многим большим делам.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>В суде я вас никогда не видал-с.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Я сам не бываю, у меня есть агенты, которые за меня ходят по судам. Я только вчера
+              приехал; а впрочем, я все знаю, что у вас в суде делается.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Кто-нибудь из наших сообщает-с?</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Да, ваши у меня бывают, забегают частенько и, кажется, остаются мною довольны. Что
+              это у вас делов-то сколько?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Работа-с; надо же чем-нибудь жить.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Оно так, а все ж таки на дом-то брать дела неловко, запрещено законом.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Коли вы поверенный по делам-с, так вы изволите знать, что не всякий закон
+              исполняется.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Ну, конечно. Вам верят, вы человек честный, оттого вам и дают. Да тут всё и дела-то
+              неважные. А вот у вас есть дело Черноярского.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Почем же вы знаете-с? Я его только сегодня взял.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Я вам говорю, что мне все известно. Вот это дело, будь я ваш секретарь или
+              столоначальник, я бы вам не дал.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Отчего же? Я его еще и не смотрел.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Оттого, что искушение велико. Покажите мне его.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да как же-с!</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Покажите, я вам говорю. Чего вы боитесь! Вот оно у вас в платке завязано.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(развязывая платок).</stage>
+            <p>Вот-с, дело Черноярского-с.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Это дело с лишком во сто тысяч, как же его вам поверили?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Отчего же не поверить-с? Я всегда-с...</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Оттого, что тут есть документ; если его испортить, так и все дело пропало.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как же это испортить-с?</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Ха, ха, ха! Вы не знаете? Ну, взять написать что-нибудь да потом ножиком подчистить.
+              Вот какие дела доверяют! Ай, ай, ай!</p>
+            <stage>(Качает головой.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как же это можно-с! Такая фальшь-с... Кто же решится?</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Кто решится? Дадут тысячи три-четыре, так всякий решится.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, уж вы не извольте беспокоиться, у меня будет сохранено, у меня и руки-то не
+              подымутся.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Не подымутся. Так я вам и поверю. Такие же у вас руки-то, как и у всех.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, меня еще Бог миловал, я никогда...</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный</speaker>
+            <stage>(отворотясъ, отсчитывает деньги).</stage>
+            <p>Вот вам три тысячи! Марайте документ, пишите что-нибудь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(встает).</stage>
+            <p>Как! Что вы-с! Помилуйте-с!</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Садитесь! Вот деньги. Сосчитайте прежде.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да зачем-с?</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Сосчитайте, я вам говорю.</p>
+            <stage>Кисельников машинально считает.</stage>
+            <p>Ну, сколько?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Три тысячи-с.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Ну, положите их к себе в стол.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(смотрит на него умоляющим взглядом).</stage>
+            <p>Нет, зачем-с, зачем-с! Не нужно бы-с!</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Ну, милый мой, ну, дорогой мой! Голяк ведь ты! Бери, бери, после спасибо скажешь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Право, не нужно бы-с! <stage>(Убирает деньги.)</stage> Ей-богу, не нужно бы-с!
+              Господи! Что же это я делаю!</p>
+            <stage>(Плачет.)</stage>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный</speaker>
+            <stage>(развернув дело).</stage>
+            <p>Об чем же ты плачешь, мой милый? Видно, в первый раз. Ну, теперь бери перо.</p>
+            <stage>Кисельников берет перо.</stage>
+            <p>Пиши что-нибудь. Что-нибудь пиши, все равно.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(дрожа).</stage>
+            <p>Написал-с.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Что ты пишешь-то! Вот потеха! Ну, да все равно! Вот ножичек. Почисти, чтобы видно
+              было, что тут была подпись.</p>
+            <stage>Кисельников чистит ножом.</stage>
+            <p>Ну, вот так. Ну, довольно! <stage>(Берет дело, складывает и кладет на стол.)</stage>
+              Знаешь ли, что ты наделал?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ничего не знаю-с. Уж вы меня не погубите. Семейство-с!</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>А то руки, видишь ты, у него не поднимутся! Ох вы, горечь! Я и не таких, как ты,
+              покупал. Любо с вами дело делать. Вашему брату ничего заветного нет, все продаст! Ведь
+              ты, знаешь ли, ты мне за три тысячи полтораста тысяч продал! Теперь с нас по этому
+              документу немного взыщут. А пойдет следствие о подлоге, так опять-таки нам выгода та,
+              что дело затянется, в Сибирь-то пойдешь все-таки ты, а не мы. Ты хоть уж покути на эти
+              деньги-то, чтоб не даром отвечать.</p>
+            <stage>(Хочет уйти.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Как же это-с! Нет, вы позвольте-с! Куда же вы-с? Я еще в себя не приду.</p>
+          </sp>
+          <sp who="#neizvestnyj">
+            <speaker>Неизвестный.</speaker>
+            <p>Что ж, мне тут и сидеть с тобой! Утешать тебя! Да ты не бойся, мы за тобой будем
+              следить, до Сибири не допустим. А ты пока деньги-то не сори, чтоб подозрения не было.
+              Прощай!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Что я наделал! Что я наделал! <stage>(Развертывает дело и смотрит.)</stage> Уж теперь
+              поправить ничем нельзя. А-ах! Дрожь какая-то! Уж не подсыл ли это? Сейчас могут
+              наехать, накроют меня и с деньгами. А может быть, и нумера записаны? Вот когда
+              лихорадка-то! Да хоть и не с подсылом, так как же я дело в суд-то понесу!
+              Столоначальник взглянет, сейчас меня и арестуют, не дадут и с детьми повидаться. А там
+              лишение чинов, каторга, станут над головой шпагу ломать; ну вот и колодник! Ах ты,
+              батюшки, как зубы стучат! Да и холодно что-то у нас. Вот ведь недавно, полчаса
+              каких-нибудь, был я честный человек, чиновник; хоть бедный, а обыватель; идешь это по
+              улице и ничего; тот руку подает, другой руку подает: "здравствуйте", говорит; на рынок
+              ходишь, в праздник в церкви стоишь, что другие, то и ты; а теперь за железную решетку,
+              в серое сукно оденут. Хоть деньги-то детям останутся; отца-то у них уже не будет.
+              Спрятать бы деньги-то! Маменька!</p>
+          </sp>
+          <stage>Входит Анна Устиновна.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Кисельников и Анна Устиновна.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Маменька, деньги вот..., вот!</p>
+            <stage>(Подает деньги.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Какие это деньги, Кирюша?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Деньги... Тут много.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да вижу, что деньги, да откуда они у тебя?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Три тысячи. Спрячьте их, подальше спрячьте, чтоб не нашли.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да куда же я их спрячу?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Ах, Боже мой! Ну, по щелям, за обои, в тряпки заверните. Чтоб вам деньги-то остались,
+              чем вам жить-то с детьми после меня.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Спрячу, спрячу, нигде не найдут. Откуда ж ты взял-то их, скажи ты мне?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Взял... вот тут... барин приходил... Ах, маменька, как мне страшно!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да ты опомнись, ишь ты весь дрожишь. Что такое с тобой случилось?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(взявшись за голову).</stage>
+            <p>Да-да-да! Ах я дурак! Ведь еще, может быть, я и не попадусь. Побегу я в суд, положу
+              дело-то в шкаф, дежурный спит теперь! Где фрак-то, маменька?</p>
+            <stage>(Снимает халат.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Здесь, здесь, вот он.</p>
+            <stage>(Надевает на него фрак.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>А проснется дежурный, так я скажу, что забыл что-нибудь, а дело-то тихонько и суну в
+              шкаф. А после скажу, что не брал. Сделал одну подлость, сделаю и другую.</p>
+            <stage>(Хочет идти.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Постой! Куда ты без галстука-то! Дай я завяжу тебе.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(в то время, как Анна Устиновна завязывает галстук).</stage>
+            <p>Там двое видели, как я брал; а я запрусь, скажу, что не брал, не брал. Я, маменька,
+              скажу, что не брал. <stage>(Со слезами.)</stage> Запираться надо, маменька, только
+              одно осталось; одно мне и осталось.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да что ты? Бог с тобой!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Маменька, ведь я на волос от каторги... Завтра же, может быть...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Кирюша, Кирюша!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(в изнеможении опускаясь на колени).</stage>
+            <p>Маменька, ведь я преступник... уголовный преступник!</p>
+          </sp>
+        </div>
+      </div>
+      <div type="tableau">
+        <head>СЦЕНА IV</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Кисельников, 39 лет, одет в старое пальто, панталоны в сапоги.</castItem>
+          <castItem>Анна Устиновна.</castItem>
+          <castItem>Лизанька, 17 лет.</castItem>
+          <castItem>Боровцов, 57 лет, одет так же, как Кисельников, к пальто приколоты две
+            миткалевые манишки, через плечо повешены ситцевые и холстинковые рубашки, как у
+            площадных торговцев.</castItem>
+          <castItem>Погуляев.</castItem>
+        </castList>
+        <stage>Бедная комната с русской печью, за занавеской кровать; посредине комнаты дощатый стол
+          и скамья.</stage>
+        <stage>Между третьей и четвертой сценой проходит 5 лет.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Кисельников и Боровцов (сидят за столом на скамейке), Анна Устиновна (сидит на
+            кровати).</stage>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Сватьюшка, тебе много ли годов-то?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Шестьдесят скоро.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ну да, так. Я тебя одним годом моложе. А это чай мы свой пьем.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Слышу, батюшка, что свой.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Свой, да. Мы вчера с зятем пять золотников купили. Собрался я нынче на площадь
+              торговать-то: дай, думаю, к зятю зайду, вместе пойдем, -- вот и зашел. Поставили мы с
+              ним самовар, да вот и пьем сидим. <stage>(Зятю).</stage> Ты чем нынче торговать-то
+              будешь?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(суетливо).</stage>
+            <p>Да вот две жилеточки старенькие да утюг; вот тут у меня собрано. Соседи дали, --
+              соседи у нас добрые; вот только ребятишки забижают. Да вот и гвоздиков старых в
+              кулечек набрал. А соседи у нас добрые! Соседка "на, говорит, Кирюша, нам не нужно, все
+              равно бросим, а ты за что-нибудь продашь".</p>
+            <stage>(Пьет чай.)</stage>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Сватья, манишки нынче в цене, мужские.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что мудреного!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Все носить стали, -- вот они и в цене. У меня старухи шьют, а я продаю; вот тоже
+              рубашки, ситцевые, холстинковые. Да шьют-то больно плохо, не видят старухи-то, и
+              бродят, точно куры слепые; а сходят с рук, ничего. Вот и ты бы шила, а мы бы продавать
+              стали.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Где уж мне шить, я и вяжу-то -- ничего не вижу; одна у нас работница, одна кормилица!
+              Не будь ее, что бы мы были! Хоть по миру ступай!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да, Лиза у нас рукодельница! Вот бы кому замуж ее взять! Для хозяйства-то уж больно
+              ловка. Эта девка знает нужду-то, в чем она ходит; ни от какого дела у ней руки не
+              отваливаются.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что она нейдет-то! Вышиванье понесла, да вот и замешкалась! Уж я и боюсь, одна ведь
+              по Москве-то ходит.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Что ж такое! Не в лесу живем.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Москва-то хуже лесу.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Вот, сватья, чем под старость торговать-то пришлось. А богат я был, по прежнему-то
+              времени и очень богат, да мало показалось, за большим погнался. Не захотелось платить
+              тем, кому должен был; так за это вдвое заплатил, кому и вовсе должен не был. Всё
+              просудил до ниточки. Переярков меня уж очень доехал. "Ты, говорит, так делай да вот
+              так делай", да тридцать тысяч с меня за науку взял. А как стали дело-то разбирать,
+              он-то в сторону, а меня и потянули. За что ни возьмутся, все фальшь, и книги-то
+              фальшивые, -- а все его стряпня. Начали меня судить, начали меня мытарить, -- и ямы-то
+              ему мало, и в острог-то его! Возьмите, говорю, все, только душеньку отпустите. Так и
+              вышел я из этого дела чист, как из баньки. Вот тебе и барыши! Вас-то я только тогда
+              обидел ни за что ни про что; себе пользы не сделал, а вас ограбил.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ах, да молчи ты! Что ты при нем-то! Ну, очнется да вспомнит. Наладил одно и то же; не
+              один раз я это от тебя слышала.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да уж очень обидно! А ему где вспомнить! Он, сватья, ничего не помнит. Мы теперь с
+              ним приятели. Кирюша, пойдем торговать.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(торопясь).</stage>
+            <p>Пойдем, пойдем.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов</speaker>
+            <stage>(убирая посуду).</stage>
+            <p>Ты так жилетки-то не держи; долго ль до греха, потеряешь либо кто вытащит; а ты их
+              надень на себя сверху, одну на другую. А я покуда самовар уберу.</p>
+            <stage>(Ставит самовар у печки.)</stage>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Сейчас, сейчас.</p>
+            <stage>(Надевает жилетки.)</stage>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Ну вот, теперь пойдем.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Пойдем, пойдем. Я все захватил, все. Талан-доля, иди за мной, я буду счастлив, и ты
+              будешь счастлив!</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Прощай, сватья! Вот хорошо. Это я его научил. Как, говорю, Кирюша, за чем пойдешь или
+              получить чего хочешь, тверди эту пословицу -- дело верней будет.</p>
+            <stage>(Уходят.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что это, право, Лиза нейдет! Сердце у меня не на месте. Девушка беззащитная, кроткая,
+              вся в отца -- долго ль ее обидеть? Народ бессовестный, видят, что девушка плохо одета,
+              ну и пристают. А не знают того, что эта девушка, как только на ноги поднялась, так
+              семью кормить стала, с утра до ночи работает, отдыху не знает, что мы на нее чуть не
+              молимся. Захворай она, так мы наголодаемся.</p>
+          </sp>
+          <stage>Вбегает Лиза, за ней входит Погуляев.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Анна Устиновна, Лиза и Погуляев.</stage>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Ах, бабушка, бабушка! Никак дух не переведу.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что с тобой, душенька, ты испугалась чего-нибудь?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Ах, испугалась! Вы погодите, я вам после скажу. Вон барин пришел.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Какой там барин? Зачем к нам барин? Делать-то, видно, ему нечего.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Нет, он, кажется, добрый. Что я за несчастная такая!</p>
+            <stage>(Садится к столику и со слезами принимается за работу.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Все они добрые, только упаси нас, Господи, от их доброты! <stage>(Погуляеву.)</stage>
+              Что вам, батюшко, нужно?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Это ваша дочка?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Дочка ли, чужая ли, никому до того дела нет.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да и мне все равно, только если вы ее любите, так одну не пускайте по улицам ходить.
+              Кто захочет впутываться в историю, заступаться на улице за постороннюю девушку; а
+              обидеть охотники всегда найдутся. Вот нынче, сейчас, какие-то господа подхватили ее на
+              бульваре под руки, она так испугалась, что и слова не вымолвит, а они идут, песенки
+              распевают да на всех посматривают. Хорошо, что я подъехал.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ах, батюшко, покорнейше вас благодарю! Что ж ты, Лизанька, молчишь? А я и не понимаю,
+              с кем говорю-то.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Они, конечно, большой обиды ей бы не сделали; сейчас видно, что это шалуны, но ведь
+              она могла испугаться очень и даже захворать с испугу.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Долго ли ее напугать; что говорить -- кротости она у нас непостижимой.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Так вот я вам советую: вы ее вперед одну не пускайте!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да с кем же нам отпустить ее? Отец больной, я стара; она одна работает, одна нас
+              кормит, одна и работу свою в магазин носит. Нужда, батюшко.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Вижу, что нужда! Эко дело-то! Вам бы женщину нанять.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>На какие, батюшко, деньги? Есть у нас заветные, на приданое отложены, -- так тех
+              трогать не хотим. Только тронь и не увидишь, как истратишь, а ей-то ничего не
+              останется. Дорого достались нам эти деньги: из-за них отец ее рассудок потерял.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Мне кажется, что я вас где-то видал; мне ваше лицо знакомо.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Было время, жили хорошо, -- так и нас люди знали, а теперь все бросили.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Конечно, в вашем положении вспоминать о старом неприятно; но вы меня извините за
+              нескромность, позвольте узнать вашу фамилию.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ж тут неприятного! Божья воля! Я -- Кисельникова, батюшка.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Кисельникова? И вы не матушка ли Кирила Филипповича Кисельникова?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Так точно.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ах, Боже мой, Боже мой! Жив он?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Жив-то жив, да уж лучше вы и не спрашивайте! А вы-то кто же такой будете?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Погуляев. Помните, еще я у вас часто бывал студентом, потом один раз был у него у
+              женатого. Теперь адвокат, стряпничеством занимаюсь.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Помню, как не помнить; а не скажите, ни за что бы не узнала. Вот полюбуйтесь на наше
+              житье.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Что ж такое с вашим сыном сделалось?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Семья, батюшко, да родные Кирюшу сгубили. Служба ему не далась; как-то он к ней не
+              присноровился; пока были свои деньги, так мы еще бедности не видали. А потом тесть все
+              деньги у Кирюши отобрал; тут жена умерла; тесть обанкрутился; пропали все денежки;
+              беда за бедой; захворали дети, -- а жить чем-нибудь нужно! Тут, как на грех, и
+              подвернулся чей-то поверенный, сунул Кирюше тысячи три денег: тот от бедности да от
+              горького житья и прельстись на деньги-то, да фальшь какую-то в суде и сделал. И напал
+              на него страх, суда очень боялся, так и помешался в рассудке со страху. Сколько я
+              денег пролечила, ничего не помогает.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Какого же роду у него помешательство?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ничего не помнит, что было с ним, никого почти не узнает. Прежде у него это временем
+              проходило, -- иногда, бывало, и опомнится, говорит складно, вспоминает свою жизнь,
+              жену-покойницу, плачет; а теперь все реже да реже. Все бегает да суетится, точно
+              зверек какой, прости Господи! Гвоздиков, пробок наберет, да надают ему всякой дряни,
+              бежит продавать, -- принесет мне денег копеек пять-шесть, забормочет: "Детям, детям
+              принес. Берегите детям". Как он всю жизнь для детей хлопотал, бедный, о том только и
+              помнит. А уж я и детей-то всех прихоронила, одна вот только и осталась.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Так это его дочь! <stage>(Лизе.)</stage> Позвольте мне на вас поглядеть хорошенько. Я
+              вашего папеньку знал молодым, красивым.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Разве он был когда-нибудь молод?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты, глупенькая! Все были молоды.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Я не то хотела сказать... <stage>(Подумав.)</stage> Нет, то! Я никак и вздумать его
+              не могу, чтоб он был молод.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Он был щеголь, веселый!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Бабушка говорит, что и деньги у него были, а теперь вот нет. У вас есть деньги?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Есть.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты, матушка, как глупо говоришь.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Об чем же мне говорить с вами? Я больше ничего не знаю.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Нет, ничего. Она хорошо говорит.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза</speaker>
+            <stage>(серьезно).</stage>
+            <p>Где ж вы деньги взяли? Вы нашли или вам кто-нибудь дал?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я за работу получал, вот и накопил.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>За работу очень мало дают, накопить нельзя. Я вот очень много работаю, а денег дают
+              мало.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Наша работа больше вашей ценится.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Боюсь я, надоест она вам своими глупостями.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Нет, бабушка, позвольте! У меня давно в голове поговорить с кем-нибудь. Они уйдут, с
+              чужими я говорить не стану, так у меня на сердце и останется. Я и то все одна сижу да
+              сама с собой думаю.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Говорите, ради Бога, говорите! Я всегда готов вас слушать.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза</speaker>
+            <stage>(решительно).</stage>
+            <p>Вот что: укажите мне работу такую, за которую бы больше платили; а то, посмотрите,
+              вот какая комната, вон бабушка, как она одета! У нас ничего нет; я работаю-работаю и
+              никак из нужды не выбьюсь.</p>
+            <stage>(Плачет.)</stage>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Перестаньте! Давайте потолкуем.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Я девушка молодая, а взгляните, что на мне! Мне стыдно на улицу выйти. Я не хочу
+              рядиться, мне хоть бедное платье, да чтоб оно было чисто, ново, по мне сшито. Я хороша
+              собой, молода -- это уж ведь мое; мне хочется, чтобы и люди видели, что я хорошенькая,
+              а у меня сердце замирает, как я начну надевать эти лохмотья: я только себя уродую.</p>
+            <stage>(Плачет.)</stage>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да перестаньте же, перестаньте! Ах, Боже мой! Потолкуем так, без слез.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Легко вам говорить: "без слез"! Да и что толковать! Нам, бедным людям, толковать
+              некогда. Вы мне работу дайте! Пусть она будет вдвое, втрое труднее, только бы мне
+              денег больше вырабатывать, чтоб комнату нанять посветлее да одеться почище.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я вам найду работу, погодите.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Найдите, только поскорей. Мне уж надоела нужда, я выбилась из сил. Если найдете, я
+              вам буду очень благодарна.</p>
+            <stage>(Шьет молча.)</stage>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Поищу, поищу.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>А вы сами-то себя устроили?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Не совсем.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Чего же вам недостает?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Счастья. <stage>(Подходит к Анне Устиновне.)</stage> В память старого знакомства не
+              откажитесь принять от меня эту малость.</p>
+            <stage>(Дает ей ассигнацию.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна</speaker>
+            <stage>(берет).</stage>
+            <p>Если счастья у вас нет, так деньги есть, значит, еще жить можно. Покорно благодарим,
+              что нас, сирот, вспомнили. Навещайте.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Куда же вы? Я еще хотела с вами поговорить.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Мне нужно домой. Вы извините. Я зайду к вам! У меня есть дело!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Вы не привыкли видеть бедность! Вам тяжело с нами. Ну, ступайте!</p>
+          </sp>
+          <stage>Погуляев уходит.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Анна Устиновна и Лиза.</stage>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что это, Лиза, ты так груба?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>А со мною кто ласков, кроме вас?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>А чем же он-то не ласков? Вот посмотри, он нам денег дал.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>На его деньги нам весь век не прожить, лучше бы он мне работу дал.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>У тебя и то работа из рук не выходит, а тебе все мало, хоть бы ты себе отдых
+              дала.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Отдых? Нет, отдыхать некогда, да и нельзя.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Отчего же нельзя?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>А вот отчего: если работать сплошь, день за день, так работа легче кажется; а если
+              дать себе отдых, так потом трудно приниматься. После отдыха работа противна
+              становится.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты, что ты! Господь с тобой!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Да, противна. Она и всегда не сладка, да уж как свыкнешься с ней, так все-таки легче.
+              Вы думаете, что мне самой погулять не хочется? Вы думаете, что мне не завидно, когда
+              другие гуляют?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Как, чай, не завидно.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Нет, нет. Я вас знаю. Вы думаете, что я с радостью работаю, что мне это весело; вы
+              думаете, что я святая. Ах, бабушка!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Святая, святая и есть.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Сказать ли вам, что у меня на душе?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да что ж у тебя, кроме ангельских помыслов?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Нет, лучше не говорить. Сказать, так вы испугаетесь.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ангел-хранитель над тобой!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Ах, бабушка, я боюсь, я боюсь...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Чего же ты, душенька, боишься?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Я боюсь, что надоест мне работа, опостылеет, тогда я ее брошу...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Поди ко мне, поди, дитя мое! Господи, сохрани ее и помилуй!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза</speaker>
+            <stage>(вставая).</stage>
+            <p>Бабушка, давайте молиться вместе! Трудно мне, трудно!</p>
+            <stage>(Подходит к Анне Устиновне.)</stage>
+          </sp>
+          <stage>Входит торопливо Кисельников.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Анна Устиновна, Лиза и Кисельников.</stage>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Конура, конура...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что, что ты?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Конура, говорит, собачья конура...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да кто говорит-то?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Вот я пришел, вот я пришел... Вот деньги! Я взял, принес... Деньги спрятать,
+              спрятать...</p>
+            <stage>(Отдает Анне Устиновне десятирублевую ассигнацию.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Где ты взял, Кирюша, столько денег? Товару-то у вас всего на какой-нибудь рубль
+              было.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, товар здесь, не продали, ничего не продали. Нынче день тяжелый, тяжелый день.
+              Торговцы говорят, -- нейдет, говорят, товар с рук, день тяжелый.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Где ж ты взял?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Там... барин, такой...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Приятель твой, Погуляев?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Неужли ж ты не помнишь приятеля своего, Погуляева? Учились вместе. Ведь он твой
+              приятель.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Приятель, Погуляев? У меня один есть приятель, два есть приятеля.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Так это не он тебе дал деньги?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, он, он...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Погуляев?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да. Вот деньги... Только он не Погуляев, он Грознов.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Барин, сосед наш? Это богач-то?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, богатый, богатый! У!! Дом... всё лакеи, лакеи...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>За что же он тебе дал?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Он дома, а я на улице; он говорит: "Поди сюда!" Я пошел, пошел, на крыльцо иду,
+              говорю: "Талан-доля, иди за мной, я буду счастлив, и ты будешь счастлив". Он и
+              дал.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да за что, все я не пойму. Так, на бедность, что ли?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, на бедность. "Ты, говорит, в конуре живешь... И дочь, говорит, держишь в собачьей
+              конуре... Вот, говорит, ей флигель, хороший, хороший. И тебе, говорит, и всем дам.
+              Хочешь, говорит?" Я хочу, я пойду; вот я все возьму, я пойду. <stage>(Собирает
+                вещи.)</stage> Я пошел. Талан-доля...</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Постой, Кирюша, не ходи.</p>
+          </sp>
+          <stage>Кисельников останавливается.</stage>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Погодите, бабушка. <stage>(Кисельникову.)</stage> Как он сказал? Дочь твоя в конуре
+              живет?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, в конуре... Ей, говорит, вот как надо жить, вот какой дом... она красавица.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ж бы это такое значило?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Подумайте, бабушка.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ума не приложу.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Ну, так я вам растолкую. Это дело касается меня, одной меня.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Тебя? Как же это?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Я ему давно нравлюсь.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Да ведь он женатый, у него жена в Петербурге.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Ну, так что ж, что женатый! Эх, бабушка! Уж не пришло ли вам в голову-то, что он
+              жениться на мне хочет! У него, говорят, сто тысяч доходу. При таких деньгах все купить
+              можно.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ах, батюшки! Вот беда-то! Как же нам быть-то?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Думайте, бабушка.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ох, не спрашивай ты меня, не спрашивай! Что мать, что бабка -- обманщицы, лукавые
+              поноровщицы; на добро детей не учат, всяким их шалостям потакают. Вот я раз Кирюшу
+              пожалела, не на добро его научила; словно как от тех моих слов и сталося. А грех-то на
+              моей душе. Первые-то матери грешницы, первые за детей ответчицы.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Кто ж меня, бабушка, на ум наведет? У кого же мне себе ученья искать, как мне на
+              белом свете жить; что на свете хорошо, а что дурно? Молода ведь я, какие у меня силы,
+              какой у меня разум!</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Ох, не знаю я! Ты у нас хозяйка, ты у нас большая. Думай сама об себе, как тебе
+              лучше. Что я тебе посоветую! И там беда, и здесь беда.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Я все собрал, я пошел.</p>
+            <stage>(Надевает картуз.)</stage>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Погоди, Кирюша! Стара я стала, кости мои покоя хотят; теплую бы мне комнату да уход
+              бы за мной! Да на тебя-то бы поглядела, на нарядную да на богатую. Ох, да не слушай ты
+              меня, старую дуру, не слушай.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Кто же мне теперь поможет! Стою я над пропастью, удержаться мне не за что. Ох,
+              спасите меня, люди добрые! Бабушка, да поговорите со мной что-нибудь!</p>
+          </sp>
+          <stage>Входит Погуляев.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Анна Устиновна, Лиза, Кисельников и Погуляев.</stage>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Ах, как вы вовремя! Мне нужно совета спросить, а не у кого. Помогите мне!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я за тем и пришел.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты, Лиза! Да разве говорят об этом посторонним людям?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Значит, это очень дурно, коли не говорят.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что хорошего? Только крайность заставляет.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да что такое?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Уж не знаю, как и сказать вам. Барин богатый, сосед наш, дает нам даром квартиру и
+              все; так вот мы и думаем, переезжать ли нам.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(Погуляеву тихо).</stage>
+            <p>Он мне денег дал. Еще даст... много...</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(кивая головой).</stage>
+            <p>Ах ты, несчастный!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Говорите со мной, он вас не узнаёт.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев</speaker>
+            <stage>(Лизе).</stage>
+            <p>Так вы моего совета спрашиваете?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Что лучше -- стыд или нужда? Стыд, говорят, скоро проходит, а нужда вечно точит,
+              покоя не дает.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>И то, и другое нехорошо.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Это я знала и без вас. Хорошего у нас нет, мне его и не дождаться, а вот из
+              дурного-то что мне выбрать?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я вам вот что посоветую: не думайте ни о том, ни о другом, а подите замуж за
+              меня.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Замуж? Вы не шутите?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Что за шутки!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Мы так бедны, так несчастны, что с нами шутить грех.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Нет, я решился твердо. Давайте руку. <stage>(Берет ее руку.)</stage> Вот так! Я как
+              ушел от вас, все ходил по улице да думал, вот и решился.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Вот радость-то! Привел-таки меня Бог счастья дождаться, не дал в горе умереть.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Оно, знаете ли, было бы гораздо лучше, если б вы меня любили. Ведь вы меня не любите,
+              вы от нужды за меня идете.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Все равно, ведь я никого не люблю. Вы меня умнее, вы сделаете так, чтоб я вас
+              любила.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Как же это сделать?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>А вот как: любите бабушку да не попрекайте нас бедностью.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ну, так это просто.</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Да будто вы не знаете? Это вы нарочно спрашиваете. Вы гораздо лучше нас знаете.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Скажите, батюшка, как это вас Бог надоумил?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Очень просто. Я всю жизнь жил один, это мне надоело; человек я одинокий, денег нажил
+              -- ну и стал подумывать, как бы семьей завестись; а тут вдруг вышел случай; думаю,
+              чего ж мне лучше!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(со слезами).</stage>
+            <p>Что ж вы меня не пускаете! Он теперь ждет, он говорил: "Ждать буду".</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Куда теперь идти! У нас Лиза замуж выходит.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>За кого? За кого?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Погляди за кого. Ведь это твой приятель.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(кланяется Погуляеву).</stage>
+            <p>Здравствуйте!</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Кирила Филиппыч, да погляди на меня хорошенько! Помнишь? Ну, помнишь Погуляева?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Я к барину пойду.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Ах, чудак! Да неужли ты забыл? Помнишь, учились вместе? Помнишь, в Нескучном саду
+              гуляли? А помнишь, я у твоей жены на именинах был? Ну, а не помнишь -- все равно,
+              давай снова познакомимся. Давай руку. Ну, вот мы и приятели.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(припоминая).</stage>
+            <p>Ты мне денег дал?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Вспомнил теперь?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Хоть бы он немножко-то очнулся, хоть бы порадовался, бедный.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>А ты на мои деньги тестю рому купил. Чудак ты этакой!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Мне Погуляев деньги дал.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Я Погуляев-то и есть.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>А жена у меня умерла... умерла!..</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Слышал, слышал. А на дочке вот я женюсь.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(Анне Устиновне).</stage>
+            <p>Маменька! Лиза! Он женится?.. Правда?</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Слава Богу, очнулся! Правда, Кирюша, правда.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Вот вы ко мне и переезжайте; будем жить все вместе.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(подумавши).</stage>
+            <p>А я упал, обнищал, видишь. Под судом, брат, под судом за подлог, за подлость! А ты
+              вспомнил нас, приютить нас хочешь; спасибо тебе...</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Папенька, благословите меня.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Господи, Господи! Не было мне счастья, весь век не было; авось на твою долю, Лиза,
+              счастье выпадет.</p>
+            <stage>(Целует Лизу.)</stage>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза</speaker>
+            <stage>(Погуляеву).</stage>
+            <p>А вы меня выучите такой работе, за которую много денег дают?</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Да зачем вам теперь?</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>А затем, чтоб помогать бедным девушкам. Много их в таком положении, в каком я
+              была.</p>
+          </sp>
+          <stage>Входит Боровцов.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ШЕСТОЕ</head>
+          <stage>Анна Устиновна, Лиза, Кисельников, Погуляев и Боровцов.</stage>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Мир честной компании! Ну, брат Кирюша, с тебя спрыски. Что ты приуныл? Этакое тебе
+              счастье, а ты нос повесил.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Да, счастье, счастье...</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да как же не счастье! Квартира будет хорошая, хлеб даровой; дочку пристроил; у
+              богатого барина нужды знать не будешь. Одно слово -- Грознов, -- всю нашу Палестину
+              купить может и выкупить.</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, не Грознов.</p>
+          </sp>
+          <sp who="#borovcov">
+            <speaker>Боровцов.</speaker>
+            <p>Да что ты отнекиваешься-то! Уж я, брат, знаю, торговал ты хорошо, барыши у тебя
+              большие. Вот за это магарыч с тебя; веди в трактир, угощай чаем!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Погуляев! Ты возьми к себе матушку и Лизу, а меня не бери.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Отчего же?</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников</speaker>
+            <stage>(тихо).</stage>
+            <p>Знаешь ли ты, кого ты пригреть хочешь?.. Мы с тестем... мошенники! Мы все продали:
+              себя, совесть, я было дочь продал... Мы, пожалуй, еще украдем у тебя что-нибудь. Нам с
+              ним не жить с честными людьми, нам только торговать на площади! Нет! Ты нам только
+              изредка когда давай по рублику на товар наш, больше мы не стоим.</p>
+          </sp>
+          <sp who="#anna_ustinovna">
+            <speaker>Анна Устиновна.</speaker>
+            <p>Что ты, Кирюша, что ты!</p>
+          </sp>
+          <sp who="#liza">
+            <speaker>Лиза.</speaker>
+            <p>Папенька, не оставляйте нас.</p>
+          </sp>
+          <sp who="#pogulyaev">
+            <speaker>Погуляев.</speaker>
+            <p>Что ты за вздор говоришь!</p>
+          </sp>
+          <sp who="#kiselnikov">
+            <speaker>Кисельников.</speaker>
+            <p>Нет, Погуляев, бери их, береги их; Бог тебя не оставит; а нас гони, гони! Мы вам не
+              компания, -- вы люди честные. У нас есть место, оно по нас. <stage>(Тестю.)</stage>
+              Ну, бери товар, пойдем. Вы живите с Богом, как люди живут, а мы на площадь торговать,
+              божиться, душу свою проклинать, мошенничать. Ну, что смотришь! Бери товар! Пойдем,
+              пойдем! <stage>(Сбирает свой товар.)</stage> Прощайте! Талан-доля, иди за мной...</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
