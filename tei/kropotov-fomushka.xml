@@ -44,38 +44,36 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <listPerson>
-            <person xml:id="mitrofan" sex="MALE">
-              <persName>Митрофан</persName>
-            </person>
-            <person xml:id="havronia" sex="FEMALE">
-              <persName>Хавронья</persName>
-            </person>
-            <person xml:id="karpovich" sex="MALE">
-              <persName>Карпович</persName>
-            </person>
-            <person xml:id="foma" sex="MALE">
-              <persName>Фома</persName>
-            </person>
-            <person xml:id="marina" sex="FEMALE">
-              <persName>Марина</persName>
-            </person>
-            <person xml:id="graf" sex="MALE">
-              <persName>Граф Честосердов</persName>
-            </person>
-            <person xml:id="dobrovidov" sex="MALE">
-              <persName>Добровидов</persName>
-            </person>
-            <person xml:id="ostromyslov" sex="MALE">
-              <persName>Остромыслов</persName>
-            </person>
-            <person xml:id="malania" sex="FEMALE">
-              <persName>Маланья</persName>
-            </person>
-            <person xml:id="notarius" sex="MALE">
-              <persName>Нотариус</persName>
-            </person>
-          </listPerson>
+          <person xml:id="mitrofan" sex="MALE">
+            <persName>Митрофан</persName>
+          </person>
+          <person xml:id="havronia" sex="FEMALE">
+            <persName>Хавронья</persName>
+          </person>
+          <person xml:id="karpovich" sex="MALE">
+            <persName>Карпович</persName>
+          </person>
+          <person xml:id="foma" sex="MALE">
+            <persName>Фома</persName>
+          </person>
+          <person xml:id="marina" sex="FEMALE">
+            <persName>Марина</persName>
+          </person>
+          <person xml:id="graf" sex="MALE">
+            <persName>Граф Честосердов</persName>
+          </person>
+          <person xml:id="dobrovidov" sex="MALE">
+            <persName>Добровидов</persName>
+          </person>
+          <person xml:id="ostromyslov" sex="MALE">
+            <persName>Остромыслов</persName>
+          </person>
+          <person xml:id="malania" sex="FEMALE">
+            <persName>Маланья</persName>
+          </person>
+          <person xml:id="notarius" sex="MALE">
+            <persName>Нотариус</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
