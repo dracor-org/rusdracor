@@ -50,152 +50,150 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <listPerson>
-            <person xml:id="pavel_grigorich" sex="MALE">
-              <persName>Павел Григорич</persName>
-            </person>
-            <person xml:id="vladimir" sex="MALE">
-              <persName>Владимир</persName>
-            </person>
-            <person xml:id="belinskoj" sex="MALE">
-              <persName>Белинской</persName>
-            </person>
-            <person xml:id="anna_nikolavna" sex="FEMALE">
-              <persName>Анна Николавна</persName>
-            </person>
-            <person xml:id="gost_2a" sex="MALE">
-              <persName>Гость 1 (II)</persName>
-            </person>
-            <person xml:id="natalya_fedorovna" sex="FEMALE">
-              <persName>Наталья Федоровна</persName>
-            </person>
-            <person xml:id="odna_iz_baryshen" sex="FEMALE">
-              <persName>Одна из барышень</persName>
-            </person>
-            <person xml:id="drugaya_baryshnya" sex="FEMALE">
-              <persName>Другая барышня</persName>
-            </person>
-            <person xml:id="gost_2b" sex="MALE">
-              <persName>Гость 2 (II)</persName>
-            </person>
-            <person xml:id="gost_2c" sex="MALE">
-              <persName>Гость 3 (II)</persName>
-            </person>
-            <person xml:id="odna_iz_dam" sex="FEMALE">
-              <persName>Одна из дам</persName>
-            </person>
-            <person xml:id="gost_2d" sex="MALE">
-              <persName>Гость 4 (II)</persName>
-            </person>
-            <person xml:id="knyazhna_sofya" sex="FEMALE">
-              <persName>Княжна Софья</persName>
-            </person>
-            <personGrp xml:id="mnogie_2" sex="UNKNOWN">
-              <name>Многие (II)</name>
-            </personGrp>
-            <person xml:id="annushka" sex="FEMALE">
-              <persName>Аннушка</persName>
-            </person>
-            <person xml:id="marya_dmitrevna" sex="FEMALE">
-              <persName>Марья Дмитревна</persName>
-            </person>
-            <person xml:id="doktor" sex="MALE">
-              <persName>Доктор</persName>
-            </person>
-            <person xml:id="snegin" sex="MALE">
-              <persName>Снегин</persName>
-            </person>
-            <person xml:id="chelaev" sex="MALE">
-              <persName>Челяев</persName>
-            </person>
-            <person xml:id="zaruckoj" sex="MALE">
-              <persName>Заруцкой</persName>
-            </person>
-            <person xml:id="ryabinov" sex="MALE">
-              <persName>Рябинов</persName>
-            </person>
-            <person xml:id="vyshnevskoj" sex="MALE">
-              <persName>Вышневской</persName>
-            </person>
-            <personGrp xml:id="mnogie_golosa_4" sex="UNKNOWN">
-              <name>Многие голоса</name>
-            </personGrp>
-            <person xml:id="sluga_5" sex="MALE">
-              <persName>Слуга (V)</persName>
-            </person>
-            <person xml:id="muzhik" sex="MALE">
-              <persName>Мужик</persName>
-            </person>
-            <person xml:id="natasha" sex="FEMALE">
-              <persName>Наташа</persName>
-            </person>
-            <person xml:id="poverennyj" sex="MALE">
-              <persName>Поверенный</persName>
-            </person>
-            <person xml:id="pervaya_staruha" sex="FEMALE">
-              <persName>1.) Старуха</persName>
-            </person>
-            <person xml:id="vtoraya_staruha" sex="FEMALE">
-              <persName>2.) Старуха</persName>
-            </person>
-            <person xml:id="sluga_9" sex="MALE">
-              <persName>Слуга (IX)</persName>
-            </person>
-            <person xml:id="sluga_10a" sex="MALE">
-              <persName>1.) Слуга (X)</persName>
-            </person>
-            <person xml:id="sluga_10b" sex="MALE">
-              <persName>2.) Слуга (X)</persName>
-            </person>
-            <person xml:id="sluga_10c" sex="MALE">
-              <persName>3.) Слуга (X)</persName>
-            </person>
-            <person xml:id="ivan" sex="MALE">
-              <persName>Иван</persName>
-            </person>
-            <person xml:id="gost_12a" sex="MALE">
-              <persName>Гость 1 (XII)</persName>
-            </person>
-            <person xml:id="gost_12b" sex="MALE">
-              <persName>Гость (XII)</persName>
-            </person>
-            <person xml:id="gost_13a" sex="MALE">
-              <persName>1.) Гость (XIII)</persName>
-            </person>
-            <person xml:id="graf_n" sex="MALE">
-              <persName>Граф N.</persName>
-            </person>
-            <person xml:id="dama_13a" sex="FEMALE">
-              <persName>1.) Дама</persName>
-            </person>
-            <person xml:id="gost_13b" sex="MALE">
-              <persName>2.) Гость (XIII)</persName>
-            </person>
-            <person xml:id="dama_13b" sex="FEMALE">
-              <persName>2.) Дама</persName>
-            </person>
-            <person xml:id="gost_13c" sex="MALE">
-              <persName>3.) Гость (XIII)</persName>
-            </person>
-            <personGrp xml:id="mnogie_nekotorye_13" sex="UNKNOWN">
-              <name>Многие/Некоторые (XIII)</name>
-            </personGrp>
-            <person xml:id="gost_13d" sex="MALE">
-              <persName>4.) Гость (XIII)</persName>
-            </person>
-            <person xml:id="gost_13e" sex="MALE">
-              <persName>5.) Гость (XIII)</persName>
-            </person>
-            <person xml:id="sluga_13" sex="MALE">
-              <persName>Слуга (XIII)</persName>
-            </person>
-            <person xml:id="dama_13c" sex="FEMALE">
-              <persName>3.) Дама</persName>
-            </person>
-            <person xml:id="odna_staruha" sex="FEMALE">
-              <persName>Одна старуха</persName>
-            </person>
-          </listPerson>
+          <person xml:id="pavel_grigorich" sex="MALE">
+            <persName>Павел Григорич</persName>
+          </person>
+          <person xml:id="vladimir" sex="MALE">
+            <persName>Владимир</persName>
+          </person>
+          <person xml:id="belinskoj" sex="MALE">
+            <persName>Белинской</persName>
+          </person>
+          <person xml:id="anna_nikolavna" sex="FEMALE">
+            <persName>Анна Николавна</persName>
+          </person>
+          <person xml:id="gost_2a" sex="MALE">
+            <persName>Гость 1 (II)</persName>
+          </person>
+          <person xml:id="natalya_fedorovna" sex="FEMALE">
+            <persName>Наталья Федоровна</persName>
+          </person>
+          <person xml:id="odna_iz_baryshen" sex="FEMALE">
+            <persName>Одна из барышень</persName>
+          </person>
+          <person xml:id="drugaya_baryshnya" sex="FEMALE">
+            <persName>Другая барышня</persName>
+          </person>
+          <person xml:id="gost_2b" sex="MALE">
+            <persName>Гость 2 (II)</persName>
+          </person>
+          <person xml:id="gost_2c" sex="MALE">
+            <persName>Гость 3 (II)</persName>
+          </person>
+          <person xml:id="odna_iz_dam" sex="FEMALE">
+            <persName>Одна из дам</persName>
+          </person>
+          <person xml:id="gost_2d" sex="MALE">
+            <persName>Гость 4 (II)</persName>
+          </person>
+          <person xml:id="knyazhna_sofya" sex="FEMALE">
+            <persName>Княжна Софья</persName>
+          </person>
+          <personGrp xml:id="mnogie_2" sex="UNKNOWN">
+            <name>Многие (II)</name>
+          </personGrp>
+          <person xml:id="annushka" sex="FEMALE">
+            <persName>Аннушка</persName>
+          </person>
+          <person xml:id="marya_dmitrevna" sex="FEMALE">
+            <persName>Марья Дмитревна</persName>
+          </person>
+          <person xml:id="doktor" sex="MALE">
+            <persName>Доктор</persName>
+          </person>
+          <person xml:id="snegin" sex="MALE">
+            <persName>Снегин</persName>
+          </person>
+          <person xml:id="chelaev" sex="MALE">
+            <persName>Челяев</persName>
+          </person>
+          <person xml:id="zaruckoj" sex="MALE">
+            <persName>Заруцкой</persName>
+          </person>
+          <person xml:id="ryabinov" sex="MALE">
+            <persName>Рябинов</persName>
+          </person>
+          <person xml:id="vyshnevskoj" sex="MALE">
+            <persName>Вышневской</persName>
+          </person>
+          <personGrp xml:id="mnogie_golosa_4" sex="UNKNOWN">
+            <name>Многие голоса</name>
+          </personGrp>
+          <person xml:id="sluga_5" sex="MALE">
+            <persName>Слуга (V)</persName>
+          </person>
+          <person xml:id="muzhik" sex="MALE">
+            <persName>Мужик</persName>
+          </person>
+          <person xml:id="natasha" sex="FEMALE">
+            <persName>Наташа</persName>
+          </person>
+          <person xml:id="poverennyj" sex="MALE">
+            <persName>Поверенный</persName>
+          </person>
+          <person xml:id="pervaya_staruha" sex="FEMALE">
+            <persName>1.) Старуха</persName>
+          </person>
+          <person xml:id="vtoraya_staruha" sex="FEMALE">
+            <persName>2.) Старуха</persName>
+          </person>
+          <person xml:id="sluga_9" sex="MALE">
+            <persName>Слуга (IX)</persName>
+          </person>
+          <person xml:id="sluga_10a" sex="MALE">
+            <persName>1.) Слуга (X)</persName>
+          </person>
+          <person xml:id="sluga_10b" sex="MALE">
+            <persName>2.) Слуга (X)</persName>
+          </person>
+          <person xml:id="sluga_10c" sex="MALE">
+            <persName>3.) Слуга (X)</persName>
+          </person>
+          <person xml:id="ivan" sex="MALE">
+            <persName>Иван</persName>
+          </person>
+          <person xml:id="gost_12a" sex="MALE">
+            <persName>Гость 1 (XII)</persName>
+          </person>
+          <person xml:id="gost_12b" sex="MALE">
+            <persName>Гость (XII)</persName>
+          </person>
+          <person xml:id="gost_13a" sex="MALE">
+            <persName>1.) Гость (XIII)</persName>
+          </person>
+          <person xml:id="graf_n" sex="MALE">
+            <persName>Граф N.</persName>
+          </person>
+          <person xml:id="dama_13a" sex="FEMALE">
+            <persName>1.) Дама</persName>
+          </person>
+          <person xml:id="gost_13b" sex="MALE">
+            <persName>2.) Гость (XIII)</persName>
+          </person>
+          <person xml:id="dama_13b" sex="FEMALE">
+            <persName>2.) Дама</persName>
+          </person>
+          <person xml:id="gost_13c" sex="MALE">
+            <persName>3.) Гость (XIII)</persName>
+          </person>
+          <personGrp xml:id="mnogie_nekotorye_13" sex="UNKNOWN">
+            <name>Многие/Некоторые (XIII)</name>
+          </personGrp>
+          <person xml:id="gost_13d" sex="MALE">
+            <persName>4.) Гость (XIII)</persName>
+          </person>
+          <person xml:id="gost_13e" sex="MALE">
+            <persName>5.) Гость (XIII)</persName>
+          </person>
+          <person xml:id="sluga_13" sex="MALE">
+            <persName>Слуга (XIII)</persName>
+          </person>
+          <person xml:id="dama_13c" sex="FEMALE">
+            <persName>3.) Дама</persName>
+          </person>
+          <person xml:id="odna_staruha" sex="FEMALE">
+            <persName>Одна старуха</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>

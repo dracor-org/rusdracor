@@ -42,131 +42,129 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <listPerson>
-            <person xml:id="flink" sex="MALE">
-              <persName>Флинк</persName>
-            </person>
-            <person xml:id="fabricius" sex="MALE">
-              <persName>Фабрициус</persName>
-            </person>
-            <person xml:id="rembrandt" sex="MALE">
-              <persName>Рембрандт</persName>
-            </person>
-            <person xml:id="saskiya" sex="FEMALE">
-              <persName>Саския</persName>
-            </person>
-            <person xml:id="lyudvig" sex="MALE">
-              <persName>Людвиг</persName>
-            </person>
-            <person xml:id="banning_kuk" sex="MALE">
-              <persName>Баннинг Кук</persName>
-            </person>
-            <person xml:id="siks" sex="MALE">
-              <persName>Сикс</persName>
-            </person>
-            <person xml:id="byurger" sex="MALE">
-              <persName>Бюргер</persName>
-            </person>
-            <person xml:id="mortejra" sex="MALE">
-              <persName>Мортейра</persName>
-            </person>
-            <person xml:id="golos_s_ulicy" sex="MALE">
-              <persName>Голос с улицы</persName>
-            </person>
-            <person xml:id="pushkar" sex="MALE">
-              <persName>Пушкарь</persName>
-            </person>
-            <person xml:id="hendrike" sex="MALE">
-              <persName>Хендрике</persName>
-            </person>
-            <person xml:id="doktor_tyulp" sex="MALE">
-              <persName>Доктор Тюльп</persName>
-            </person>
-            <person xml:id="pastor" sex="MALE">
-              <persName>Пастор</persName>
-            </person>
-            <person xml:id="prodavec_krasok" sex="MALE">
-              <persName>Продавец красок</persName>
-            </person>
-            <person xml:id="pervyj_kupec" sex="MALE">
-              <persName>Первый купец</persName>
-            </person>
-            <person xml:id="pervaya_dama" sex="FEMALE">
-              <persName>Первая дама</persName>
-            </person>
-            <person xml:id="vtoroj_kupec" sex="MALE">
-              <persName>Второй купец</persName>
-            </person>
-            <person xml:id="tretij_kupec" sex="MALE">
-              <persName>Третий купец</persName>
-            </person>
-            <person xml:id="vtoraya_dama" sex="FEMALE">
-              <persName>Вторая дама</persName>
-            </person>
-            <person xml:id="tretya_dama" sex="FEMALE">
-              <persName>Третья дама</persName>
-            </person>
-            <person xml:id="lejtenant" sex="MALE">
-              <persName>Лейтенант</persName>
-            </person>
-            <personGrp xml:id="strelki" sex="MALE">
-              <name>Стрелки</name>
-            </personGrp>
-            <person xml:id="pervyj_strelok" sex="MALE">
-              <persName>Первый стрелок</persName>
-            </person>
-            <person xml:id="vtoroj_strelok" sex="MALE">
-              <persName>Второй стрелок</persName>
-            </person>
-            <person xml:id="sudebnyj_pristav" sex="MALE">
-              <persName>Судебный пристав</persName>
-            </person>
-            <person xml:id="pisec" sex="MALE">
-              <persName>Писец</persName>
-            </person>
-            <person xml:id="pervyj_strazhnik" sex="MALE">
-              <persName>Первый стражник</persName>
-            </person>
-            <person xml:id="vtoroj_strazhnik" sex="MALE">
-              <persName>Второй стражник</persName>
-            </person>
-            <person xml:id="tretij_strazhnik" sex="MALE">
-              <persName>Третий стражник</persName>
-            </person>
-            <person xml:id="chetvertyj_strazhnik" sex="MALE">
-              <persName>Четвертый стражник</persName>
-            </person>
-            <person xml:id="pyatyj_strazhnik" sex="MALE">
-              <persName>Пятый стражник</persName>
-            </person>
-            <person xml:id="pervyj_gorozhanin" sex="MALE">
-              <persName>Первый горожанин</persName>
-            </person>
-            <person xml:id="vtoroj_gorozhanin" sex="MALE">
-              <persName>Второй горожанин</persName>
-            </person>
-            <person xml:id="princ" sex="MALE">
-              <persName>Принц</persName>
-            </person>
-            <person xml:id="kreditor" sex="MALE">
-              <persName>Кредитор</persName>
-            </person>
-            <person xml:id="hozyain_gostinicy" sex="MALE">
-              <persName>Хозяин гостиницы</persName>
-            </person>
-            <person xml:id="magdalina_van_loo" sex="FEMALE">
-              <persName>Магдалина ван Лоо</persName>
-            </person>
-            <person xml:id="pervyj_sosed" sex="MALE">
-              <persName>Первый сосед</persName>
-            </person>
-            <person xml:id="vtoroj_sosed" sex="MALE">
-              <persName>Второй сосед</persName>
-            </person>
-            <personGrp xml:id="golosa" sex="UNKNOWN">
-              <name>Голоса</name>
-            </personGrp>
-          </listPerson>
+          <person xml:id="flink" sex="MALE">
+            <persName>Флинк</persName>
+          </person>
+          <person xml:id="fabricius" sex="MALE">
+            <persName>Фабрициус</persName>
+          </person>
+          <person xml:id="rembrandt" sex="MALE">
+            <persName>Рембрандт</persName>
+          </person>
+          <person xml:id="saskiya" sex="FEMALE">
+            <persName>Саския</persName>
+          </person>
+          <person xml:id="lyudvig" sex="MALE">
+            <persName>Людвиг</persName>
+          </person>
+          <person xml:id="banning_kuk" sex="MALE">
+            <persName>Баннинг Кук</persName>
+          </person>
+          <person xml:id="siks" sex="MALE">
+            <persName>Сикс</persName>
+          </person>
+          <person xml:id="byurger" sex="MALE">
+            <persName>Бюргер</persName>
+          </person>
+          <person xml:id="mortejra" sex="MALE">
+            <persName>Мортейра</persName>
+          </person>
+          <person xml:id="golos_s_ulicy" sex="MALE">
+            <persName>Голос с улицы</persName>
+          </person>
+          <person xml:id="pushkar" sex="MALE">
+            <persName>Пушкарь</persName>
+          </person>
+          <person xml:id="hendrike" sex="MALE">
+            <persName>Хендрике</persName>
+          </person>
+          <person xml:id="doktor_tyulp" sex="MALE">
+            <persName>Доктор Тюльп</persName>
+          </person>
+          <person xml:id="pastor" sex="MALE">
+            <persName>Пастор</persName>
+          </person>
+          <person xml:id="prodavec_krasok" sex="MALE">
+            <persName>Продавец красок</persName>
+          </person>
+          <person xml:id="pervyj_kupec" sex="MALE">
+            <persName>Первый купец</persName>
+          </person>
+          <person xml:id="pervaya_dama" sex="FEMALE">
+            <persName>Первая дама</persName>
+          </person>
+          <person xml:id="vtoroj_kupec" sex="MALE">
+            <persName>Второй купец</persName>
+          </person>
+          <person xml:id="tretij_kupec" sex="MALE">
+            <persName>Третий купец</persName>
+          </person>
+          <person xml:id="vtoraya_dama" sex="FEMALE">
+            <persName>Вторая дама</persName>
+          </person>
+          <person xml:id="tretya_dama" sex="FEMALE">
+            <persName>Третья дама</persName>
+          </person>
+          <person xml:id="lejtenant" sex="MALE">
+            <persName>Лейтенант</persName>
+          </person>
+          <personGrp xml:id="strelki" sex="MALE">
+            <name>Стрелки</name>
+          </personGrp>
+          <person xml:id="pervyj_strelok" sex="MALE">
+            <persName>Первый стрелок</persName>
+          </person>
+          <person xml:id="vtoroj_strelok" sex="MALE">
+            <persName>Второй стрелок</persName>
+          </person>
+          <person xml:id="sudebnyj_pristav" sex="MALE">
+            <persName>Судебный пристав</persName>
+          </person>
+          <person xml:id="pisec" sex="MALE">
+            <persName>Писец</persName>
+          </person>
+          <person xml:id="pervyj_strazhnik" sex="MALE">
+            <persName>Первый стражник</persName>
+          </person>
+          <person xml:id="vtoroj_strazhnik" sex="MALE">
+            <persName>Второй стражник</persName>
+          </person>
+          <person xml:id="tretij_strazhnik" sex="MALE">
+            <persName>Третий стражник</persName>
+          </person>
+          <person xml:id="chetvertyj_strazhnik" sex="MALE">
+            <persName>Четвертый стражник</persName>
+          </person>
+          <person xml:id="pyatyj_strazhnik" sex="MALE">
+            <persName>Пятый стражник</persName>
+          </person>
+          <person xml:id="pervyj_gorozhanin" sex="MALE">
+            <persName>Первый горожанин</persName>
+          </person>
+          <person xml:id="vtoroj_gorozhanin" sex="MALE">
+            <persName>Второй горожанин</persName>
+          </person>
+          <person xml:id="princ" sex="MALE">
+            <persName>Принц</persName>
+          </person>
+          <person xml:id="kreditor" sex="MALE">
+            <persName>Кредитор</persName>
+          </person>
+          <person xml:id="hozyain_gostinicy" sex="MALE">
+            <persName>Хозяин гостиницы</persName>
+          </person>
+          <person xml:id="magdalina_van_loo" sex="FEMALE">
+            <persName>Магдалина ван Лоо</persName>
+          </person>
+          <person xml:id="pervyj_sosed" sex="MALE">
+            <persName>Первый сосед</persName>
+          </person>
+          <person xml:id="vtoroj_sosed" sex="MALE">
+            <persName>Второй сосед</persName>
+          </person>
+          <personGrp xml:id="golosa" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
