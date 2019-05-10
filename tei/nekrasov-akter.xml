@@ -46,32 +46,30 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <listPerson>
-            <person xml:id="kochergin" sex="MALE">
-              <persName>Кочергин</persName>
-            </person>
-            <person xml:id="suhozilov" sex="MALE">
-              <persName>Сухожилов</persName>
-            </person>
-            <person xml:id="lidia" sex="FEMALE">
-              <persName>Лидия</persName>
-            </person>
-            <person xml:id="strujkin" sex="MALE">
-              <persName>Стружкин</persName>
-            </person>
-            <person xml:id="suhozilova" sex="FEMALE">
-              <persName>Сухожиловa</persName>
-            </person>
-            <person xml:id="tatarin" sex="MALE">
-              <persName>Татарин</persName>
-            </person>
-            <person xml:id="italianets" sex="MALE">
-              <persName>Итальянец</persName>
-            </person>
-            <person xml:id="sluga" sex="MALE">
-              <persName>Слуга</persName>
-            </person>
-          </listPerson>
+          <person xml:id="kochergin" sex="MALE">
+            <persName>Кочергин</persName>
+          </person>
+          <person xml:id="suhozilov" sex="MALE">
+            <persName>Сухожилов</persName>
+          </person>
+          <person xml:id="lidia" sex="FEMALE">
+            <persName>Лидия</persName>
+          </person>
+          <person xml:id="strujkin" sex="MALE">
+            <persName>Стружкин</persName>
+          </person>
+          <person xml:id="suhozilova" sex="FEMALE">
+            <persName>Сухожиловa</persName>
+          </person>
+          <person xml:id="tatarin" sex="MALE">
+            <persName>Татарин</persName>
+          </person>
+          <person xml:id="italianets" sex="MALE">
+            <persName>Итальянец</persName>
+          </person>
+          <person xml:id="sluga" sex="MALE">
+            <persName>Слуга</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
