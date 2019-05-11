@@ -8,7 +8,7 @@
         <title type="main" xml:lang="en">The Young Married Couple</title>
         <title type="sub" xml:lang="ru">Комедия в одном действии, в стихах</title>
         <title type="sub" xml:lang="en">A Comedy in One Act, in Verse</title>
-        <author key="Wikidata:">Грибоедов, Александр Сергеевич</author>
+        <author key="Wikidata:Q15001">Грибоедов, Александр Сергеевич</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="RusDraCor">RusDraCor</publisher>
@@ -71,6 +71,7 @@
   </teiHeader>
   <text>
     <front>
+      <docAuthor>А. С. Грибоедов</docAuthor>
       <docTitle>
         <titlePart type="main">Молодые супруги</titlePart>
         <titlePart type="sub">Комедия в одном действии, в стихах</titlePart>
