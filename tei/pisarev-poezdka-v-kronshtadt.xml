@@ -1,0 +1,3523 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Поездка в Кронштадт</title>
+        <title type="main" xml:lang="en">A Trip to Kronstadt</title>
+        <title type="sub" xml:lang="ru">Комедия в трех действиях, в стихах</title>
+        <title type="sub" xml:lang="en">A Comedy in Three Acts, in Verse</title>
+        <author key="Wikidata:Q4363527">Писарев, Александр Иванович</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="RusDraCor">RusDraCor</publisher>
+        <idno type="URL">https://dracor.org/rus/pisarev-poezdka-v-kronshtadt</idno>
+        <idno type="RusDraCor">150</idno>
+        <availability>
+          <licence>
+            <ab>CC BY 4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q63718298</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/p/pisarew_a_i/text_0080.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Стихотворная комедия конца XVIII - начала XI в. Вступительная статья, подготовка
+              текста и примечания М. О. Янковского Серия "Библиотека поэта". Большая серия. Второе
+              издание. М.-Л., "Советский писатель", 1964</title>
+            <date type="print" when="1824">"Впервые - М., 1824." (lib.ru)</date>
+            <date type="written" when="1823">"1823" (lib.ru)</date>
+            <date type="premiere" when="1823">"Поставлена впервые в московском театре, в бенефис
+              актера А. М. Сабурова, 1 ноября 1823 г." (lib.ru)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp xml:id="hor" sex="UNKNOWN">
+            <name>Хор</name>
+          </personGrp>
+          <person xml:id="lenskij" sex="MALE">
+            <persName>Ленский</persName>
+          </person>
+          <person xml:id="chudin" sex="MALE">
+            <persName>Чудин</persName>
+          </person>
+          <person xml:id="masha" sex="FEMALE">
+            <persName>Маша</persName>
+          </person>
+          <person xml:id="kleshnin" sex="MALE">
+            <persName>Клешнин</persName>
+          </person>
+          <person xml:id="kleshnina" sex="FEMALE">
+            <persName>Клешнина</persName>
+          </person>
+          <person xml:id="lenushka" sex="FEMALE">
+            <persName>Ленушка</persName>
+          </person>
+          <person xml:id="lidin" sex="MALE">
+            <persName>Лидин</persName>
+          </person>
+          <person xml:id="sborskij" sex="MALE">
+            <persName>Сборский</persName>
+          </person>
+          <person xml:id="chudina" sex="FEMALE">
+            <persName>Чудина</persName>
+          </person>
+          <person xml:id="ivan" sex="MALE">
+            <persName>Иван</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle" subtype="comedy">Комедия в трех действиях, в стихах</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-25">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Поездка в Кронштадт</titlePart>
+        <titlePart type="sub">Комедия в трех действиях, в стихах</titlePart>
+      </docTitle>
+      <div type="dedication">
+        <p>Сергею Тимофеевичу Аксакову в знак дружбы посвящает Александр Писарев</p>
+      </div>
+      <castList>
+        <head>ДЕЙСТВУЮЩИЕ</head>
+        <castItem>Клешнин, воронежский помещик.</castItem>
+        <castItem>Клешнина, жена его.</castItem>
+        <castItem>Ленушка, дочь их.</castItem>
+        <castItem>Лидин, влюбленный в Ленушку.</castItem>
+        <castItem>Ленский, друг его, гусарский полковник.</castItem>
+        <castItem>Сборский, приятель Клешнина.</castItem>
+        <castItem>Чудин, винный заводчик.</castItem>
+        <castItem>Чудина, жена его.</castItem>
+        <castItem>Маша, служанка Клешниных.</castItem>
+        <castItem>Иван, слуга Лидина.</castItem>
+        <castItem>Казачок Чудина.</castItem>
+      </castList>
+      <set>
+        <p>Действие в Петербурге. (Первое у Калашниковой пристани, второе и третье в Колтовской,
+          против Крестовского острова.)</p>
+      </set>
+    </front>
+    <body>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+        <stage>Театр представляет ресторацию и несколько домов.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 1</head>
+          <stage>При поднятии занавеса слышен в ресторации хор из оперы "Ломоносов":</stage>
+          <sp who="#hor">
+            <l>"За здравие любезной</l>
+            <l>Всяк пей из круговой!.."</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(выходя из ресторации)</stage>
+            <l>Всё пей!.. Нет, господа, позвольте освежиться,</l>
+            <l>От этих круговых уж голова кружится.</l>
+            <l>Немного отдохну. - А весело, ей-ей,</l>
+            <l>Столкнуться в Питере с толпой" своих друзей:</l>
+            <l part="I">Всё пансионские товарищи!..</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 2</head>
+          <stage>Ленский и Чудин.</stage>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(выходя из ресторации)</stage>
+            <l part="F">Ну, Ленский,</l>
+            <l>Там пьют в честь верности и ласковости женской...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>В честь женской верности!.. Вы, братцы, видно, мне</l>
+            <l>Хотите доказать, что правды нет в вине:</l>
+            <l part="I">Шампанское в вас врет.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Уж нет ему пощады,</l>
+            <l>А также моему ликеру. - Все так рады...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Ах, Чудин! Можно ли без радости обнять</l>
+            <l>Своих товарищей и с ними пировать?</l>
+            <l>Да тут не устоит стоическая трезвость,</l>
+            <l>Как вспомнишь прежние повесничества, резвость</l>
+            <l part="I">И наказания...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">О, помню, помню, брат.</l>
+            <l>Я был всегда ленив и вечно виноват,</l>
+            <l>Так знаю наизусть все роды наказаний.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>И ограничил тем ты круг своих познаний.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Шути! А всё-таки от вас я не отстал.</l>
+            <l>Кто в стихотворцы, ты в полковники попал,</l>
+            <l part="I">Я стал заводчиком...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Что ж? Дело недурное,</l>
+            <l>Ты много выкуришь вина, а выпьешь вдвое...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>И все вы, господа, ведь любите вино</l>
+            <l part="I">Не меньше моего.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Да так и быть должно.</l>
+            <l>Все наши молодцы чудесные ребята,</l>
+            <l>С весельем все они живут запанибрата,</l>
+            <l part="I">Все любят красоту, вино...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">И говорят,</l>
+            <l>Что в свете сем один веселый лишь богат,</l>
+            <l part="I">Что наслажденье - долг, что всё - мечта...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Так что же?</l>
+            <l>Не так давно сказал Анакреон всё то же.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="I">Он это говорил?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Да я уж не солгу.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 3</head>
+          <stage>Те же и Маша, выходит из дома.</stage>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l>Я всё своих господ дождаться не могу.</l>
+          </sp>
+          <stage>В ресторации слышен хор:</stage>
+          <sp who="#hor">
+            <l>"За здравие героев..."</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Героев!.. Без меня злодеи выпьют море.</l>
+            <l part="I">Пойдем...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Нет, лучше здесь походим на просторе.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Эх, братец! после мы успеем походить,</l>
+            <l>Здоровье русских пьют - пойдем скорее пить!</l>
+            <stage>(Тащит его в ресторацию.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 4</head>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <stage>(одна)</stage>
+            <l>Какую подняли там страшную тревогу!</l>
+            <l>Шумят себе и пьют с обеда. - Слава богу,</l>
+            <l>Что господин Клешнин уехал по гостям.</l>
+            <l>Он из Воронежа приехал по делам:</l>
+            <l>На месяц в Петербург и хочет непременно,</l>
+            <l>Окончивши свои все тяжбы совершенно,</l>
+            <l>В Кронштадте посмотреть военных кораблей.</l>
+            <l>Смешно мне, как они с супругою своей</l>
+            <l>Недели с три в марьяж по вечерам играли</l>
+            <l>И каждый проигрыш в дорогу сберегали,</l>
+            <l>А ехать не за чем. Но вот и господа.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 5</head>
+          <stage>Маша, Клешнины и Ленушка.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Что? Сборский не бывал? А?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="M">Нет еще.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Беда!</l>
+            <l part="I">Обманет он меня.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="F">Ну, вовсе помешался!</l>
+            <l>Ты, право, давеча со всеми так прощался,</l>
+            <l>Как будто бы хотел в чужие край плыть.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Да не безделицу нам ехать! - Может быть,</l>
+            <l>Случится буря вдруг и катер на мель станет.</l>
+            <l>А делать нечего! - Меня вот так и тянет</l>
+            <l>Увидеть русский флот и гавань посмотреть.</l>
+            <l>Я на тебе женат уж скоро тридцать лет,</l>
+            <l>И знаешь, мне давно хотелось видеть море.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="I">Ты всё по нем грустил.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">То подлинно уж горе!</l>
+            <l>Сбирался я не раз, но только вот беда,</l>
+            <l>Что, всюду ехавши, не съездил никуда.</l>
+            <l>В Одессу я хотел - дела остановили;</l>
+            <l>В Архангельск собрался - так деньги не пустили;</l>
+            <l>Но, кажется, теперь побьюся об заклад,</l>
+            <l>Что завтра наконец увижу хоть Кронштадт.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="I">Теперь ты в пристани.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Теперь попутный ветер!</l>
+            <l>И если не умру, так в нынешний же вечер...</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Но мысль о смерти вас тревожить не должна:</l>
+            <l part="I">Вам будет весело...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ты будешь всё грустна.</l>
+            <l>Эх! Видеть не могу я девушек печальных!</l>
+            <l>Вот на водах когда мы были минеральных,</l>
+            <l>Ну, помнишь, в Липецке, - ты веселей была.</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <stage>(в сторону)</stage>
+            <l>Ах! Липецка никак забыть я не могла:</l>
+            <l>Мне этот офицер об нем напоминает.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>Нет, путешествием, знать, Ленушка скучает,</l>
+            <l>Иль в чем-нибудь она скрывается от нас.</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Мне нечего скрывать, и уверяю вас,</l>
+            <l part="I">Что путешествие не скучно мне...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Не скучно!.</l>
+            <l>Ну, можно ль говорить об нем так равнодушно?</l>
+            <l>Я буду вне себя, когда увижу флот,</l>
+            <l part="I">Сраженья, бури, всё...</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Ай! Страх меня берет.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Да, признаюсь, что тут нетрудно испугаться,</l>
+            <l>Но мы от радости не будем, уж бояться.</l>
+            <l>Мы едем нынче в ночь и к утру будем там,</l>
+            <l>Осмотрим гавань всю, пойдем по кораблям,</l>
+            <l>Уставши, поедим - и скатертью дорога...</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="I">А дале почему ж не ехать?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ради бога,</l>
+            <l>Дай путешествием ты мне распорядить:</l>
+            <l>Мешаться женщинам не должно. - Может быть,</l>
+            <l>Поедем дале мы, всё смотря по погоде. -</l>
+            <l>Где Сборский? - Уж теперь девятый час в исходе!</l>
+            <l part="I">Зарежет он меня!</l>
+            <stage>(Маше)</stage>
+            <l part="F">Изволь всё уложить.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">Уж всё уложено.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Прошу не позабыть:</l>
+            <l>Подзорную трубу и карту почтовую...</l>
+            <l part="I">Да также календарь.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="F">Я чувствую большую</l>
+            <l part="I">Охоту плыть в Кронштадт, но я боюсь...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Чего?</l>
+            <l part="I">Чего, сударыня?</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="F">Да только одного,</l>
+            <l>Что я почувствую ужасную усталость.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Усталость! Ночь пробыть в дороге! это малость</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="I">Однако...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Гулливер усталости не знал,</l>
+            <l>А век, сударыня, вкруг света разъезжал.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>Ты хочешь перенять у этих Гулливеров?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(выходя на балкон ресторации)</stage>
+            <l part="I">Здоровье здешних дам!</l>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(на балконе)</stage>
+            <l part="F">Здоровье кавалеров!</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Какой же весельчак! - Уйдемте от него.</l>
+            <stage>(Уходят в дом.)</stage>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Как! он и отвечать не хочет ничего! -</l>
+            <l>Ну! видно, дамы здесь некстати уж пугливы,</l>
+            <l>А старые мужья ужасно неучтивы.</l>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 6</head>
+          <stage>Ленский и Лидин, выходят из ресторации.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Пить с лишком три часа! - Нет, время перестать,</l>
+            <l>Пример воздержности хочу я показать. -</l>
+            <l>Десятый час! пора. - За мною в шлюпке крытой</l>
+            <l>Иван мой не бывал. - Какой дурак набитый!</l>
+            <l>Не мог не опоздать. - Достанется ж ему.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Он, верно, следуя примеру твоему,</l>
+            <l>Зашел куда-нибудь показывать воздержность,</l>
+            <l>Но ты, мне кажется, опять пустился в нежность.</l>
+            <l>Ну так, задумался! - Что сделалось с тобой?</l>
+            <l part="I">О чем ты думаешь?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Об незнакомке той,</l>
+            <l part="I">С которой в Липецке...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Изволил ты кружиться.</l>
+            <l>Помилуй! с одного свидания влюбиться</l>
+            <l>И год быть влюблену! - Мне стыдно за тебя,</l>
+            <l part="I">Ты сущий Селадон. - Опомнись!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Знаю я,</l>
+            <l>Что страсть моя должна смешною всем казаться,</l>
+            <l>А пуще всех тебе. - Но можно ль удержаться,</l>
+            <l>Чтоб не любить ее? - Прекрасна так, скромна,</l>
+            <l part="I">Умна...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Да всякая красавица умна.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Я думал лишь о ней, когда поехал с балу.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Я также... Но забыл, когда оставил залу.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Но ты не любишь...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Как! напротив, я люблю</l>
+            <l>Всех женщин до одной, но только не терплю</l>
+            <l>Ни вздохов, никаких трагических кривляний,</l>
+            <l>И в языке моем нет вовсе восклицаний.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Но, если влюбишься...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Всё не об чем грустить.</l>
+            <l>А кто влюбиться мог, тот может разлюбить.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Ты очень холоден.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Напротив, очень пылок.</l>
+            <l>Пред неприятелем и дюжиной бутылок.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 7</head>
+          <stage>Те же и Чудин.</stage>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(выходя из ресторации, говорит туда)</stage>
+            <l>Нет! Я Державину покорнейший слуга,</l>
+            <l>Но позлащенная и грязь мне дорога.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Что сделалось с тобой и что у вас за споры?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Да об словесности пошли там разговоры:</l>
+            <l part="I">Всё умники сошлись!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">А ты от них и прочь?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Теперь я лишний стал. - Притом же скоро ночь,</l>
+            <l>Пора мне дядюшку поздравить с новосельем,</l>
+            <l>Он дом купил, у них веселье за весельем:</l>
+            <l part="I">Огромный бал, театр.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="M">Театр домашний?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Да-с.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Веселье подлинно!</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Могу уверить вас,</l>
+            <l>Что нынешний спектакль пойдет у нас отменно.</l>
+            <l>Жена моя, сударь, в Тартюфе совершенна</l>
+            <l>И верную жену играет мастерски.</l>
+            <l>Ведь мы, любезный мой, и сами знатоки:</l>
+            <l>На кресла восемь лет я был абонирован!..</l>
+            <l part="I">Что ж, Лидин, ты со мной?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Да я здесь арестован:</l>
+            <l part="I">Иван мой не бывал.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Ну, черт его возьми!</l>
+            <l>Я потчую тебя моими лошадьми,</l>
+            <l>И в дрожках сей же час отправимся мы к дяде.</l>
+            <stage>(Ленскому)</stage>
+            <l>А ты что думаешь, любезный, об закладе?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Я выиграл его.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Нет, братец, проиграл.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Я вдвое рад держать...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Ах, как бы я желал</l>
+            <l>Заклад наш выиграть, чтоб досыта смеяться.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Но что ж смешного тут?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Да как же можно взяться</l>
+            <l part="I">За невозможное?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Чтобы кого-нибудь</l>
+            <l>В присутствии всех вас примерно обмануть?</l>
+            <l>Я это сделаю... в теченье этих суток.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Ты, верно, шутишь.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Нет! - Нет, я без всяких шуток</l>
+            <l>Побился об заклад - и выиграл его.</l>
+            <l>Мне хитрости, мой друг, не стоят ничего.</l>
+            <l>Ведь в пансионе я недаром же воспитан,</l>
+            <l>И в шалостях не раз талант мой был испытан.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Ты часто надо мной испытывал его.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Теперь недостает мне только одного:</l>
+            <l>Напасть на простачка иль просто на болвана,</l>
+            <l>Чей вид бы говорил: я создан для обмана.</l>
+            <l part="I">Я думал о тебе...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Прошу не позабыть,</l>
+            <l>Что здесь не пансион, и этак говорить...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Позволено друзьям.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Но только, сударь, в классе.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Небось, ты у меня останешься в запасе.</l>
+            <l part="I">Прошу не уходить.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Вот вечно остроты!</l>
+            <l>Ты хочешь посвятить приятеля в шуты?</l>
+            <l>Во время пикника я вытерпел довольно</l>
+            <l>Насмешек от тебя, но мне уж, право, больно...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Эх! полно ссориться.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Постойте, господа:</l>
+            <l>Какой-то человек подходит к нам сюда.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Какой оригинал! - Ей-богу, ом прекрасен.</l>
+            <l part="I">Обманывай его.</l>
+            <stage>(В сторону)</stage>
+            <l part="F">Я буду безопасен.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Он пробирается, как видно, в этот дом.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="I">Я подойду к нему...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Нет, лучше подождем...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Ах, не мешайте мне! - Поодаль лучше станем</l>
+            <l>И издали за ним присматривать мы станем.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 8</head>
+          <stage>Те же, Сборский и потом Маша.</stage>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Я Клешнину скажу, чтоб ехал он один,</l>
+            <l part="I">А мне никак нельзя.</l>
+          </sp>
+          <stage>(Звонит в колокольчик.)</stage>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо)</stage>
+            <l part="F">Тс! Здесь живет Клешнин,</l>
+            <l part="I">Не худо записать.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <stage>(выходя из дома)</stage>
+            <l part="F">Ах, вас здесь ожидают</l>
+            <l>И имя Сборского пречасто повторяют.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо Ливану)</stage>
+            <l part="I">Он Сборский... Не забудь.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Голубушка! поди</l>
+            <l>И барина ко мне скорее приведи.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">Не лучше ль вам самим войти?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">О нет, не нужно.</l>
+            <l>Мне долго быть у вас, ей-богу, недосужно.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">Да вот и барин сам.</l>
+            <stage>(Уходит в дом.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 9</head>
+          <stage>Те же и Клешнин, с книгою в руках.</stage>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(тихо)</stage>
+            <l part="F">Что, господа, каков?</l>
+            <l>Он, право, должен быть чудак из чудаков.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(зажимая ему рот)</stage>
+            <l part="I">Да замолчишь ли ты!..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ну как же, брат, не стыдно</l>
+            <l>Заставить ждать себя? Ей-богу, преобидно.</l>
+            <l part="I">Десятый час, а мы ни с места!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Милый мой,</l>
+            <l>Что делать? Я боюсь поссориться с тобой.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Как это? Говори, не мучь меня!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Мне должно</l>
+            <l>Признаться, что с тобой мне ехать невозможно.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Не можно!.. Так я знал, что, верно, быть беде:</l>
+            <l>Ну вот, проехался я славно по воде!</l>
+            <l>Ах, боже мой! за что ж несчастие такое?</l>
+            <l part="I">Мне моря не видать, ни гавани...</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Пустое.</l>
+            <l part="I">Ты выслушай меня...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(не слушая его)</stage>
+            <l part="F">Ну, милый, удружил!</l>
+            <l>Сам путешествием мне голову вскружил</l>
+            <l>И обманул меня ужаснейшим манером.</l>
+            <l>А я, дурак, сидел с женой за Гулливером</l>
+            <l part="I">И перечитывал...</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Но дай же мне сказать...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Пожалуй, говори.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо)</stage>
+            <l part="F">Тс! Слушать и молчать!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>До завтра мне нельзя отсюда сделать шагу.</l>
+            <l>Давно имею я заемную бумагу</l>
+            <l>В трех тысячах рублей, и завтра выйдет срок...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Всё это пустяки, и мне вперед урок</l>
+            <l>На обещания друзей не полагаться.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Да надо выслушать, а после уж ругаться.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Нет, братец, ничего я слушать не могу.</l>
+            <l>Немедленно к своей старухе побегу,</l>
+            <l>Наружу выведу ей все твои обманы...</l>
+            <l>И развязать велю узлы и чемоданы.</l>
+            <l>Прощай! Но уж вперед в обман не дамся я.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Постой и выслушай: ты едешь без меня.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(бросаясь к нему на шею)</stage>
+            <l>Ах, друг мой! дай себя обнять мне поскорее!</l>
+            <l>Я еду!.. Вот теперь я стал повеселее.</l>
+            <l>Ну, милый, говори: я слушаю тебя.</l>
+            <l part="I">Дай только мне клочок бумажки.</l>
+            <stage>(Закладывает бумажкой свою книгу.)</stage>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Ездил я</l>
+            <l part="I">К знакомцу нашему, Линовскому.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(тихо Ленскому)</stage>
+            <l part="F">Не худо</l>
+            <l part="I">И это записать...</l>
+            <stage>Ленский зажимает ему рот.</stage>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Узнав, что ты отсюда</l>
+            <l>Сбираешься в Кронштадт, что я туда ж хотел,</l>
+            <l part="I">Но что дела мои...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Он, верно, пожалел</l>
+            <l>О том, что побывать нельзя тебе в Кронштадте?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>И, нет! - Он мне сказал, что едет очень кстати</l>
+            <l>Туда Красицкий, друг и родственник его.</l>
+            <l>"Вот случай одолжить нам друга твоего, -</l>
+            <l>Прибавил он, - сват едет в шлюпке крытой".</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Ты шутишь?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Право, нет. - "Клешнин с большою свитой?"</l>
+            <l part="I">- С женой и дочерью...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да, трое только нас.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>"Постой же! - он сказал, - сват едет через час,</l>
+            <l>Скажи ты Клешнину, чтоб был готов заране".</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Уж я давно готов: мое всё в чемодане.</l>
+            <l>Да узелок еще жена берет с собой.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Красицкий сей же час заедет за тобой.</l>
+            <l>Не мешкай же; на срок товарищ твой уволен.</l>
+            <l part="I">Прощай.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ах, милый мой! как я теперь доволен!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо)</stage>
+            <l part="I">Не больше моего.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да, кстати, не забыть -</l>
+            <l>Позволь-ка у тебя по совести спросить:</l>
+            <l part="I">Каков товарищ мой?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Красицкий? - Малый славный,</l>
+            <l>Все говорят, что он преумный, презабавный,</l>
+            <l part="I">Но слишком говорлив.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Тем лучше, так жена</l>
+            <l>Без памяти его полюбит: ведь она</l>
+            <l>Охотница болтать, так точно, как все дамы.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо)</stage>
+            <l>Да он уж сочинять изволит эпиграммы.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Вам будет весело.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Превесело, друг мой!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(подавая ему руну)</stage>
+            <l part="I">Прощай.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Как сухо ты прощаешься со мной.</l>
+            <l>Мы старые друзья: кто знает, что случится!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(обнимая его)</stage>
+            <l part="I">Ну, извини меня.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Недаром говорится,</l>
+            <l>Что ночью на воде не надобно шутить.</l>
+            <l part="I">Кто знает...</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Ты во всем спокоен можешь быть.</l>
+            <l part="I">Ну, будь здоров.</l>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="M">Прощай.</l>
+            <stage>(Идет в дом)</stage>
+            <l part="F">Эй, Ленушка! эй, Маша!</l>
+            <l>Жена! готова ли у вас поклажа наша?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 10</head>
+          <stage>Те же, кроме Клешнина и Сборского.</stage>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Ну, братцы, примемся комедию играть.</l>
+            <l>Такого случая не должно упускать.</l>
+            <l part="I">За дело поскорей.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(хохочет)</stage>
+            <l part="F">Ей-богу, это славно!</l>
+            <l>Мы их подслушали. А что еще забавно:</l>
+            <l>Мы знаем, кто они, они не знают нас.</l>
+            <l part="I">Ведь это выгодно.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(Ленскому)</stage>
+            <l part="F">Послушай: ты сейчас</l>
+            <l>Каких-нибудь хлопот навяжешь нам на шею.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Пошел и не мешай мне трусостью своею!</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Вот мы так не должны бояться ничего:</l>
+            <l part="I">Мы двое...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(Лидину)</stage>
+            <l part="F">Ты меня избавишь от него?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="I">Зачем?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Затем, что ты... ты ротозей давнишний</l>
+            <l>И в умных шалостях всегда бываешь лишний.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Но что ж ты сделаешь?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Хотите ли вы мне</l>
+            <l part="I">Услугу оказать?</l>
+            <stage>(Чудину)</stage>
+            <l part="F">Ступай к своей жене</l>
+            <l>И с ним ее игре похлопаете вместе,</l>
+            <l>Сражаться ж я один останусь здесь на месте.</l>
+            <l>Постойте, как бы мне запомнить имена.</l>
+            <l>Красицкий... должен взять с собою... Клешнина...</l>
+            <l>Линовский... Сборский... Так! - Я не забыл ни слова.</l>
+            <l>Вот, кажется, твоя и шлюпка уж готова.</l>
+            <l part="I">Иван! Иван!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 11</head>
+          <stage>Те же и Иван.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Но ты мне прежде расскажи...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Узнаешь после всё.</l>
+            <stage>(Ивану)</stage>
+            <l part="F">Любезный! Прикажи,</l>
+            <l>Чтоб приготовились гребцы всю ночь кататься:</l>
+            <l>С одним приятелем мы едем прогуляться</l>
+            <l>И до света должны приехать мы к нему.</l>
+            <stage>(Указывает на Лидина)</stage>
+            <l part="I">Ступай.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 12</head>
+          <stage>Те же, кроме Ивана.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="M">Что хочешь ты? Как можно?..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Почему?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(хохочет)</stage>
+            <l>Как будет этому жена моя смеяться!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Клешнин ведь по воде желает прогуляться,</l>
+            <l>Я с славной шлюпкою сейчас к нему явлюсь,</l>
+            <l>Родней Линовского - Красицким назовусь,</l>
+            <l>Свожу их не туда, куда им было надо,</l>
+            <l>И завтра получу с вас сто рублей заклада.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Я не хочу тебя покинуть одного.</l>
+            <l part="I">Дай руку...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(Лидину)</stage>
+            <l part="F">Прибери, пожалуйста, его.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Да я его жене всё выведу наружу.</l>
+            <l>Скажи: ну можно ли такому как ты, мужу</l>
+            <l>На сцене не видать успех своей жены?</l>
+            <l>Нет, к дяде мы сейчас отправиться должны.</l>
+            <l>Притом же я тебе скажу чистосердечно:</l>
+            <l part="I">Нетрудно и в беду попасться с ним.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(испугавшись)</stage>
+            <l part="F">Конечно.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Ты лучше выпей с ним бокал за мой успех.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Изволь. - А завтра мы какой подымем смех?</l>
+            <stage>(Идет с Лидиным с ресторацию.)</stage>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Ступайте поскорей и кланяйтесь всем нашим.</l>
+            <stage>(Звонит в колокольчик.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 13</head>
+          <stage>Ленский и Клешнин.</stage>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Не вы ли господин Клешнин?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">К услугам вашим.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Красиц... Линовскому я, сударь, обещал</l>
+            <l part="I">За вами завернуть...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ах! я вас ожидал!</l>
+            <l>Вы, верно, господин Красицкий? Так, конечно!</l>
+            <l part="I">Угодно ль вам войти?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Я был бы рад сердечно,</l>
+            <l>Но ни минуты мне промешкать здесь нельзя.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>О, сударь, по себе довольно знаю я,</l>
+            <l>Как мешкать тяжело. - Я нетерпеньем болен.</l>
+            <l>И как же вам теперь обязан, как доволен!</l>
+            <l>И здесь удерживать не буду, верно, вас.</l>
+            <l>Эй, Ленушка! жена! - Они придут сейчас.</l>
+            <l>Чем я могу воздать за ваше одолженье?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Помилуйте, сударь.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 14</head>
+          <stage>Те же, Клешнина, Ленушка и Маша, с чемоданом и большим узлом.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Какое восхищенье!</l>
+            <stage>Жена! Он нас с собой изволит брать в Кронштадт.</stage>
+            <l>Клянуся вам, что я от радости так рад,</l>
+            <l>Что, кажется, готов, не мешкая нисколько,</l>
+            <l part="I">Вкруг света ехать....</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Нет, вкруг Петербурга только.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="I">Вы сделали ему большую милость.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да.</l>
+            <l>Хотел я видеть флот, но только никогда</l>
+            <l>Не удавалось мне, и я все эти годы</l>
+            <l>Всё у моря сидел и выжидал погоды,</l>
+            <l part="I">А вот и дождался!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Однако ж нам пора.</l>
+            <l>Мне должно ведь в Кронштадт приехать до утра,</l>
+            <l>Я сотнею рублей рискую от просрочки...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Я, батюшка, готов! - Где ваши узелочки?..</l>
+            <l part="I">Пойдемте поскорей.</l>
+            <stage>(Маше)</stage>
+            <l part="F">Прощай, моя душа,</l>
+            <l>Прошу же без меня не тратить ни гроша,</l>
+            <l>Не бить моих собак, не колотить посуды...</l>
+            <stage>(Дружески)</stage>
+            <l>Я привезу тебе канату от простуды.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
+        <stage>Театр представляет гостиную в доме Лидина, направо и налево кабинеты, дверь и окно в
+          заднем занавесе.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ I</head>
+          <stage>Лидин, Чудин и Чудина (в бальном платье).</stage>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(хохочет)</stage>
+            <l>Вы, верно, шутите! Как можно, чтоб они</l>
+            <l part="I">Попались так легко?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(вполголоса)</stage>
+            <l part="M">Тс! тише!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Мы одни.</l>
+            <l>Я спрашивал своих людей, и мне сказали,</l>
+            <l>Что наши чудаки еще не приезжали.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Мне, право, хочется их видеть поскорей.</l>
+            <l>Я занята была прическою моей,</l>
+            <l>Когда он прибежал мне рассказать об этом.</l>
+            <l>Мы хохотали так, что я за туалетом</l>
+            <l>Час лишний пробыла по милости его.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Зато оделися к лицу.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l part="F">А каково</l>
+            <l part="I">Я роль свою вчера сыграла?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Несравненно!</l>
+            <l>Все называли вас актрисой совершенной.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Зато уж прочие играли пресмешно!..</l>
+            <l>Но ты не слушаешь и смотришь всё в окно...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(смотря в окно)</stage>
+            <l>Постойте... кажется... Так точно: это Ленский</l>
+            <l>С своею жертвою. - Я слышу голос женский...</l>
+            <l>Ах, боже мой! двух дам повеса притащил!..</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(смотря в окно)</stage>
+            <l>Что за неловкие! - А старичок так мил!</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Насмешница! Они мне, право, что-то жалки.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>И, друг мой, что жалеть: они провинциалки.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 2</head>
+          <stage>Те же и Ленский.</stage>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(вбегая)</stage>
+            <l>Ура, друзья, ура! - Я выиграл заклад.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Ты им сказал, что вы приехали в Кронштадт?</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Скажите поскорей: я также в заговоре.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Лишь только вы ушли, я тотчас на просторе</l>
+            <l>С подложным именем явился к Клешнину,</l>
+            <l>В минуту обманул и мужа и жену,</l>
+            <l>Их в шлюпку посадил, а сам сказал Ивану:</l>
+            <l>"На пиво дам, когда поможешь ты обману.</l>
+            <l>Кто спросит, говори, что едем мы в Кронштадт.</l>
+            <l>Я с барином твоим побился об заклад</l>
+            <l>И должен в семь часов быть у него. - Ну, живо!</l>
+            <l>Поедем!" - Мой приказ и обещанье пива</l>
+            <l>Всё сделали - и мы на веслах понеслись</l>
+            <l>Тотчас от пристани Калашниковой вниз.</l>
+            <l>Мой Гулливер, жена и дочь его заснули.</l>
+            <l>Тогда направо мы по взморью повернули,</l>
+            <l>Там Невкой наконец приехали домой</l>
+            <l>И, ехавши в Кронштадт, проснулись в Колтовской.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>О, ваша выдумка прекрасна, бесподобна!</l>
+            <l>Ну, я хоть женщина, а всё едва ль способна</l>
+            <l>Над кем-нибудь, так зло и хитро подшутить.</l>
+            <l>И все мы вас должны за это наградить.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(целуя у ней руку)</stage>
+            <l>Для победителя вот лучшая награда. -</l>
+            <l>Они теперь вверху, всё слажено как надо,</l>
+            <l part="I">Всем людям сказано...</l>
+            <stage>(Лидину)</stage>
+            <l part="F">Ах! знаешь, милый мой,</l>
+            <l>Что дочка Клешнина прекрасная собой.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Ты шутишь?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Томные глаза, стан стройный, гибкой,</l>
+            <l>Лицо оживлено прелестною улыбкой</l>
+            <l part="I">И...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Томные глаза!.. Я к вам приду опять,</l>
+            <l>Хозяин должен сам гостей своих встречать.</l>
+            <stage>(Убегает.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 3</head>
+          <stage>Те же, кроме Лидина.</stage>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Постой, брат Селадон! возьми меня с собою.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Какие пустяки! - Что сделалось с тобою?</l>
+            <l>И ты для томных глаз уходишь от меня?</l>
+            <l part="I">Останьтесь здесь, сударь.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(струся)</stage>
+            <l part="F">Останусь, жизнь моя.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Ну, то-то ж! - Ленский, мы оставим вас покуда</l>
+            <l>И за костюмами отправимся отсюда...</l>
+            <l>Я маленький сюрприз придумала для вас.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Какой?</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l part="F">Узнаете. - Ведь сами же сейчас</l>
+            <l>Вы назвали меня актрисою прелестной,</l>
+            <l part="I">И знаете, что я...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">О! это всем известно:</l>
+            <l>Актрисы лучше вас со свечкой поискать.</l>
+            <l>Мне с вами самому случалося играть,</l>
+            <l part="I">Так я уж знаю вас.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(жене)</stage>
+            <l part="F">А мне, мой друг, какую</l>
+            <l part="I">Ты роль пожалуешь?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Я думаю, немую:</l>
+            <l>Такие роли всех приличней для тебя.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Опять за остроты! - Эй, не взбеси меня.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Я роль тебе найду. - Прощайте. - Мы в коляске</l>
+            <l>Обдумаем весь план и пьесе и развязке.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 4</head>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(один)</stage>
+            <l>Ну вот, на целый день занятье мы нашли!..</l>
+            <l>Но чем же кончится?.. Что нужды!.. Неужли</l>
+            <l>Развязки шалостей моих я побоюся? -</l>
+            <l>Я свой заклад возьму и вдоволь посмеюся.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 5</head>
+          <stage>Ленский и Лидин.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(вбегая)</stage>
+            <l>Ну, брат, пропали мы! Кто мог бы ожидать,</l>
+            <l part="I">Чтоб так нечаянно?..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Что хочешь ты сказать?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>А то, что заварил ты славную нам кашу.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>Как! неужли они узнали хитрость нашу?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Ах, это б ничего!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Ну, что ж? Скажи скорей!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Да то, что я пропал от шалости твоей.</l>
+            <l>Свяжись с повесою, чтоб вечно быть внакладе!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Неужли мой заклад?..</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Да черт в твоем закладе!</l>
+            <l part="I">Ты знаешь, кто Клешнин?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Какая мне нужда.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Тебе ни до чего нет нужды никогда.</l>
+            <l>Так знай же: он отец той девушки прелестной,</l>
+            <l part="I">С которой в Липецке...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Божественно! чудесно!</l>
+            <l>Вот случай! и она теперь у нас в гостях?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Ты не узнал ее?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">О! в эдаких вещах</l>
+            <l>Я страх беспамятлив. - А виноват всё ты же:</l>
+            <l>Когда бы от меня не навострил ты лыжи,</l>
+            <l>То, верно бы, свою любезную узнал</l>
+            <l>И из почтенья к ней шалить мне помешал.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Что делать мне теперь?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">За нею волочиться.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>О, нет! Перед отцом хочу я извиниться,</l>
+            <l>Сказать, что мы его ошибкой увезли,</l>
+            <l part="I">Что ты... что я...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Ты... я... Помилуй, неужли</l>
+            <l>Ты будешь так всегда и робок и застенчив?</l>
+            <l>Признайся, Лидин, ты ужасно переменчив.</l>
+            <l>Сам похвалил мой план, мне сам же помогал...</l>
+            <l>Увидел девочку - и тотчас прибежал</l>
+            <l>Испуган, второпях... Нет, это не годится!</l>
+            <l>Отцу ее во всем ты хочешь повиниться,</l>
+            <l>Но я на этот вздор не соглашусь никак.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Да что же делать нам?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Старик наш весельчак.</l>
+            <l>Он, верно, сам шалил, - так и простит нам шалость...</l>
+            <l>Да что я говорю: простит! какая малость! -</l>
+            <l>Я вас женю. - Ты сам с достатком, молодец,</l>
+            <l>Старайся нравиться лишь дочке, а отец</l>
+            <l>Отдаст ее тебе с обеими руками.</l>
+            <l>Я мастер заправлять любовными делами!</l>
+            <l>Имею ловкость, ум, я тверд, неустрашим</l>
+            <l>И знаю цену всем достоинствам своим.</l>
+            <l>Надейся на меня. - Ты свой испуг забудешь</l>
+            <l>И сам со временем мне благодарен будешь,</l>
+            <l>Что из любовников в мужья произведен. -</l>
+            <l>Теперь-то я своим закладом восхищен!</l>
+            <l>Увидишь, что он даст мне в свете много веса:</l>
+            <l>Все станут говорить, что дюжинный повеса</l>
+            <l>Увез бы дочь, - а я увез отца и мать,</l>
+            <l>Что стали б многие в любви тебе мешать,</l>
+            <l>А я, как нежный друг, пошел охотой в свахи.</l>
+            <l>Итак, поверь, оставь свои пустые страхи.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Ты столько насказал, что даже мне смешно.</l>
+            <l part="I">А если Чудины приедут?..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Всё равно.</l>
+            <l>Мы их на этот счет остережем заране;</l>
+            <l>Я взял уж на себя все перемены в плане,</l>
+            <l>А ты об векселе, смотри, не позабудь.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Всё приготовлено, и если кто-нибудь</l>
+            <l>Придет за деньгами, я тотчас расплачуся.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>А я к гостям пойду и мигом ворочуся...</l>
+            <l>Да вот и сам Клешнин. - Смотри же, не зевай!</l>
+            <l>Будь смел, а более всего не забывай,</l>
+            <l>Что я Красицкий и что мы теперь в Кронштадте.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 6</head>
+          <stage>Те же и Клешнин.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Простите, господа, что я пришел в халате:</l>
+            <l>С дороги, знаете, немного приустал.</l>
+            <l>Ведь вы хозяин здесь? Я вас везде искал,</l>
+            <l>Чтоб отблагодарить за угощенье лично. -</l>
+            <l>Что, брат Красицкий, здесь и воздух не столичный,</l>
+            <l>Так славно, так свежо!.. Я думаю, что здесь</l>
+            <l>Не сыщется больных, пройди хоть город весь.</l>
+            <l>Да что мудреного: здесь так и пахнет морем!</l>
+            <l part="I">Не правда ли, друзья?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Мы с вами в том не спорим.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>И спорить не об чем. - Ты не устал ли, брат?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l>О, нет! я столько был поездке этой рад,</l>
+            <l part="I">Что и устать не мог.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да вы народ военный,</l>
+            <l part="I">Для вас такой поход - прогулка.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Совершенно,</l>
+            <l part="I">Так точно, как для вас.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Нет, я таки устал.</l>
+            <l>Ах! знаете, как он, бедняжка, хлопотал,</l>
+            <l>Чтоб спать нас уложить! - Да, я припомнил кстати:</l>
+            <l>Мне кой к кому даны комиссии в Кронштадте;</l>
+            <l>Есть письма нужные... мне будет очень жаль,</l>
+            <l>Когда их не отдам. Скажите мне, нельзя ль</l>
+            <l part="I">Послать кого-нибудь из ваших слуг?..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Вот славно!</l>
+            <stage>(Вслух)</stage>
+            <l>Позвольте, я тотчас их перешлю исправно,</l>
+            <l>И, верно, каждое по адресу дойдет.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(тихо Ленскому)</stage>
+            <l part="I">Что ты? с ума сошел?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="F">Их почта отвезет.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(отдавая письма)</stage>
+            <l>Извольте. - Пуще всех прошу заняться этим,</l>
+            <l>Оно пренужное: сосед мой пишет к детям,</l>
+            <l>Чтоб портеру ему хорошего прислать.</l>
+            <l>Представьте! до сих пор он не хотел понять,</l>
+            <l>Что портер здешний клад в сравнении с московским.</l>
+            <l>Ах! Да вы слышали, что сделалось с Линовским?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">С... Линовским?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="M">Говорят, несчастье.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Не слыхал.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>У нас был слух, что он недавно проиграл.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Да, в карты...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Нет, сударь, Линовский не картежник!</l>
+            <l>А на него напал какой-то, знать, безбожник</l>
+            <l part="I">И тяжбу...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Точно так, он тяжбу проиграл.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Скажите, сколько он чрез это потерял?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Он?.. Сколько потерял?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да, да, я любопытен</l>
+            <l part="I">Разведать обо всем.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Линовский... очень скрытен</l>
+            <l>И об своих делах со мной не говорил.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Что вы? помилуйте! Да он всегда так был</l>
+            <l part="I">Чистосердечен, так открыт!..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Какая пытка!</l>
+            <stage>(Вслух)</stage>
+            <l>Да, нравы портятся у многих от убытка.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Всё так... Однако же...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="M">Конечно...</l>
+            <stage>(В сторону)</stage>
+            <l part="F">Вот беда!</l>
+            <stage>(Вслух)</stage>
+            <l>Что ж вы изволили без дам прийти сюда?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Они, как женщины, изволят наряжаться,</l>
+            <l>Однако, думаю, сойти поторопятся:</l>
+            <l>И им ведь хочется на море поглядеть,</l>
+            <l>А пуще - кораблей военных посмотреть.</l>
+            <l>Вы далеко, сударь, от гавани живете?</l>
+            <l part="I">Как скоро я дойду?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Смотря... как вы пойдете.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Уж, верно, лётом я пущусь, как воробей.</l>
+            <l>Признаться, мне всегда хотелось трех вещей:</l>
+            <l>Жениться, быть отцом и поглядеть на море.</l>
+            <l>Лет тридцать холостой свое я мыкал горе,</l>
+            <l>И наконец, сударь, женился кое-как,</l>
+            <l>Тут дочерью господь благословил наш брак,</l>
+            <l>И Ленушка моя преумная, красотка</l>
+            <l>И по-французскому, вот что твоя трещотка,</l>
+            <l>Лишь только не мешай, болтает целый день,</l>
+            <l>Ну так... что и мадам, бывало, станет в пень.</l>
+            <l>А танцы-то, сударь! музыка! рисованье! ..</l>
+            <l>Теперь осталось мне последнее желанье,</l>
+            <l>И нынче наконец свершилось и оно:</l>
+            <l>Я море посмотрю!.. Красицкому смешно.</l>
+            <l part="I">Что? я ведь угадал?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Помилуйте! нисколько.</l>
+            <l>У нас с ним есть свои желания... но только</l>
+            <l>Их исполнение гораздо потрудней.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Не надобно терять надежды! -</l>
+            <stage>(Смотрит в окно)</stage>
+            <l part="F">А ей-ей,</l>
+            <l>Сегодня буре быть: так ветер дует сильно!</l>
+            <l>Смотрите: на дворе вдруг сделалось так пыльно,</l>
+            <l>Что света не видать. - Но это не беда,</l>
+            <l>До бурь осенних я охотник был всегда,</l>
+            <l part="I">А пуще на море...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(тихо Ленскому)</stage>
+            <l part="F">Нет, это уж безбожно!..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(так же)</stage>
+            <l part="I">Молчи, пожалуйста!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(так же)</stage>
+            <l part="F">По крайней мере должно</l>
+            <l>С женой и дочерью поосторожней быть.</l>
+            <stage>(Вслух)</stage>
+            <l>С Красицким мы должны кой-что распорядить</l>
+            <l>Прошу, сударь, без нас нимало не чиниться,</l>
+            <l>Мы постараемся скорее воротиться,</l>
+            <l>А между тем здесь стол для завтрака накрыт.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Тем лучше: у меня жестокий аппетит,</l>
+            <l>Не будет кушанью кронштадтскому пощады,</l>
+            <l part="I">А пуще устрицам.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Мы будем очень рады,</l>
+            <l>А к устрицам у нас чудесный портер есть.</l>
+            <stage>(Уходя, Лидину)</stage>
+            <l>Пойдем свои дела к концу скорее весть.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 7</head>
+          <stage>Клешнин, Клешнина и Ленушка.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Ну что, мои друзья, вы, кажется, устали?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Нет, папенька, ведь мы дорогу всю проспали.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>Ты что-то, Ленушка, сегодня весела,</l>
+            <l part="I">Не сглазить бы тебя.</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Я вовсе не ждала,</l>
+            <l>Чтоб этот офицер мне встретился в Кронштадте.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>Да долго ли тебе расхаживать в халате?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Не беспокойся: я оденуся тотчас.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>А каковы, мой друг, хозяева у нас?</l>
+            <l>Что за учтивости! какое обращенье!</l>
+            <l>Ну, Сборский подлинно уж сделал одолженье,</l>
+            <l part="I">Что познакомил нас.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Красицкий страх умен,</l>
+            <l part="I">И Лидин...</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l part="M">Маменька, ведь это он!</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="F">Кто он?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Тот самый офицер, что прошлого весною</l>
+            <l>На бале в Липецке всё танцевал со мною...</l>
+            <l>Ну, помните... такой хорошенький собой?</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>Что? что, сударыня? хорошенький такой?</l>
+            <l>Прошу покорно: ты уж нынче замечаешь,</l>
+            <l>Кто дурен, кто хорош? - Да разве ты не знаешь,</l>
+            <l>Что этим можешь ты нас обесчестить всех,</l>
+            <l>Что на мужчин смотреть есть величайший грех,</l>
+            <l>Что их любить нельзя, не можно и не должно!..</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Да ведь любить нельзя... а посмотреть-то можно.</l>
+            <l part="I">И вы на папеньку смотрели.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(хохочет)</stage>
+            <l part="F">Точно так!</l>
+            <l>Смотрела на меня, да еще знаешь как!..</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <stage>(вполголоса)</stage>
+            <l part="I">Да полно...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">То-то же! недаром ты краснеешь! -</l>
+            <l>Ну, память славную ты, Ленушка, имеешь!</l>
+            <l>Ей-богу, если б я с ним прыгал котильон,</l>
+            <l part="I">То век бы не узнал.</l>
+            <stage>(Тихо жене)</stage>
+            <l part="F">А что, когда бы он</l>
+            <l>Влюбился в Ленушку? - Ведь есть во что влюбиться.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l>Нет, батюшка, на ней не Лидину жениться.</l>
+            <l>Хоть наша Ленушка воспитана, умна</l>
+            <l>И хороша собой... да для него бедна.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Чего ж ему еще? - Он сам такой богатый!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 8</head>
+          <stage>Те же и Иван.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Ба, ба! да это наш вчерашний провожатый!</l>
+            <l>Уж нечего сказать, что славно прокатил.</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l>О, сударь, я всегда на это мастер был:</l>
+            <l>Провезть кого-нибудь - безделка для Ивана.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(жене)</stage>
+            <l>Ну, друг мой, тут жалеть не надобно кармана! -</l>
+            <stage>(Ивану)</stage>
+            <l part="I">На, выпей за труды. - На!</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="F">Нет-с, я не возьму:</l>
+            <l part="I">Мне было бы грешно и стыдно.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Почему?</l>
+            <l>Бери, брат, что дают. - В столицах заведенье</l>
+            <l>За ласки бар давать слугам их награжденье.</l>
+            <l part="I">Возьми!</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="M">Помилуйте!</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Не спорь по пустякам.</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l>Я по-столичному возьму... в угодность вам.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Теперь ведь ты меня до гавани проводишь?</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(в сторону)</stage>
+            <l part="I">Ай, ай.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="M">Так ты без нас идешь?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ты после сходишь,</l>
+            <l part="I">А мне не терпится.</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="F">Не лучше ль подождать?</l>
+            <l>Хоть мне не велено, но должно вам сказать:</l>
+            <l part="I">Сегодня ждут корабль из Англии...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Военный?</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l>Так точно, и корабль уж подлинно отменный.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">А кто начальник?</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="F">Кто?.. Ох, как бишь?.. точно так:</l>
+            <l>Начальник - капитан известный - Телемак.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Ну, этот Телемак приедет очень кстати. -</l>
+            <l>Жена! считай, кого увидим мы в Кронштадте.</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(в сторону)</stage>
+            <l part="I">Короток будет счет.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Оденусь поскорей.</l>
+            <l part="I">Пойдем. - Мы к завтраку воротимся.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 9</head>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(один)</stage>
+            <l part="F">Ей-ей,</l>
+            <l>От этих я господ отделался прелестно...</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 10</head>
+          <stage>Иван и Сборский.</stage>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="I">Кого угодно вам?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Послушай-ка, любезный!</l>
+            <l part="I">Ведь Лидин здесь живет?</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="F">Здесь, сударь, я тотчас</l>
+            <l>Пойду за барином и доложу об вас.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 11</head>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(один)</stage>
+            <l>Что, Лидин скоро ль-то со мною разочтется!</l>
+            <l>Я думаю, Клешнин нас ждет и не дождется,</l>
+            <l>Теперь в Кронштадте он благодарит судьбу</l>
+            <l>И смотрит с гавани в подзорную трубу.</l>
+            <l>Чудак! - Но идут. - А! ведь вы хозяин дома?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 12</head>
+          <stage>Сборский и Лидин.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Я Лидин.</l>
+            <stage>(В сторону)</stage>
+            <l part="F">Что-то мне лицо его знакомо!..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>А я к вам с векселем за деньгами пришел.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Вы их получите.</l>
+            <stage>(В сторону)</stage>
+            <l part="M">Как странно!..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Я расчел,</l>
+            <l>Что, верно, поутру скорей застать вас можно.</l>
+            <l>Притом же мне сейчас отсюда ехать должно.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l>Неужли? - Боже мой! Скорее разочтусь.</l>
+            <stage>(Подходит к столу и вынимает сверток)</stage>
+            <l part="I">Вот деньги вам, сударь.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(садясь к столу)</stage>
+            <l part="F">Я тотчас распишусь.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="I">Ей-ей, он так похож!..</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 13</head>
+          <stage>Те же и Ленский.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(тихо Ленскому)</stage>
+            <l part="F">Взгляни-ка хорошенько.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Ах!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(взявши вексель)</stage>
+            <l part="M">Сборский!.. Это он?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Что ж ваша деревенька,</l>
+            <l>Которую у вас свояк мой торговал?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Она не продана.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">А он весьма желал</l>
+            <l part="I">Купить ее.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Ну, так, он здесь расположился!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 14</head>
+          <stage>Те же и Иван.</stage>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="I">Клешнин идет.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="M">Еще!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="F">Когда б ты с ним простился!..</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Прощайте.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">На часок. - Я вам хотел сказать,</l>
+            <l>Что мой свояк готов деревню покупать</l>
+            <l part="I">И даст вам...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">У меня деревня непродажна.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Жаль очень, а продать вам было б авантажно.</l>
+            <stage>(Хочет идти.)</stage>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">Насилу сбыли с рук!..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(возвращаясь)</stage>
+            <l part="F">Еще вопрос один...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l>Проклятый говорун! - Сюда идет Клешнин!..</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(то же)</stage>
+            <l part="I">Совсем пропали мы!</l>
+            <stage>(Вслух)</stage>
+            <l part="F">Красицкий! - извините.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Так вы Красицкий?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Да-с. - А вы, сударь, скажите:</l>
+            <l part="I">Вы, верно, Сборский, друг Линовского?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Я сам.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 15</head>
+          <stage>Те же, Клешнин, Клешнина и Ленушка.</stage>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Ба, ба! да здесь Клешнин!..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">И ты приехал к нам!</l>
+            <l>Скоренько, брат... Да ты спешил увидеть море.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l part="I">Беда!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Простясь с тобой, я собирался вскоре...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(перебивая)</stage>
+            <l>Об чем тут говорить, когда уж собрались! -</l>
+            <l>Красицкий, угощать, смотри же, не ленись:</l>
+            <l part="I">Тебя просил о том Линовский.</l>
+            <stage>(В сторону)</stage>
+            <l part="F">Я не знаю,</l>
+            <l>Куда деваться мне и что теперь болтаю!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(Сборскому)</stage>
+            <l>Я очень рад, что вы в числе моих гостей.</l>
+            <stage>(Клешнину)</stage>
+            <l>Вам будет вместе с ним гораздо веселей.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(вполголоса)</stage>
+            <l>Да, но, пожалуйста, об корабле ни слова.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону с удивлением)</stage>
+            <l part="I">Об корабле!..</l>
+            <stage>(Сборскому)</stage>
+            <l part="F">У нас к отъезду всё готово.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Так кстати и меня возьмете вы с собой.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l>Вот, вместо одного попался и другой!</l>
+            <stage>(Вслух)</stage>
+            <l>Ну, право, я не ждал такой счастливой встречи!</l>
+            <stage>(В сторону)</stage>
+            <l>Проклятый Сборский! сам взвалился нам на плечи!</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <stage>(Сборскому)</stage>
+            <l>Вы часом позже бы уж не застали нас.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Да, завтрак задержал.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(указывая на Ленского)</stage>
+            <l part="F">Он мне сказал сейчас.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(перебивая)</stage>
+            <l part="I">Но всё бы мы сошлись...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">У гавани, конечно.</l>
+            <l>Однако, милый мой, скажи чистосердечно:</l>
+            <l part="I">Ведь ты устал?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="M">С чего?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="M">С дороги.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Вот беда!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Нет.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="M">Полно же!..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо Клешнину)</stage>
+            <l part="F">Он вам не скажет от стыда.</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="I">А как вы ехали?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Как водится, на дрожках.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(хохочет)</stage>
+            <l>На дрожках!.. Что, воды, чай, было на подножках</l>
+            <l part="I">Довольно?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="M">Какой воды?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да полно же шутить.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Я вовсе не шучу.</l>
+            <stage>(Ленскому)</stage>
+            <l part="F">Прошу мне объяснить?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(хохочет)</stage>
+            <l>Смотри, пожалуй, как он говорит серьезно! -</l>
+            <l>Да, милый, надо мной подшучивать уж поздно,</l>
+            <l part="I">И сам я весельчак.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(Клешнину)</stage>
+            <l part="F">Ваш друг большой шутник.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Повеса из повес, хоть и наш брат старик. -</l>
+            <l>Однако ж, господа, со мной случилось чудо:</l>
+            <l part="I">Я видел "Инвалид" сегодняшний.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Ай, худо!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Помилуй, ничего чудесного нет тут:</l>
+            <l>Ведь "Инвалид" везде сегодня раздают,</l>
+            <l>И получить его поутру рано должно.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Да в Петербурге так, в провинции ж не можно.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">В провинции!..</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(отводя Сборского)</stage>
+            <l part="F">Ваш друг насмешник пребольшой</l>
+            <l>И называет всех живущих в Колтовской</l>
+            <l part="I">Провинциалами.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(смеется)</stage>
+            <l part="F">А сам живет за Смольным!</l>
+          </sp>
+          <stage>Иван подает водку.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(наливая)</stage>
+            <l>Теперь могу вполне назвать себя довольным:</l>
+            <l part="I">Наш завтрак уж готов.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(подавая руку Клешниной и Ленушке)</stage>
+            <l part="F">Я с дамами вперед,</l>
+            <l>Красицкий! а тебе к столу вести господ.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 1</head>
+          <stage>Чудин, Чудина и Казачок (с узлами).</stage>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Как рада я, что мы ни с кем не повстречались!</l>
+            <l>Смотрите же, сударь, вы роли добивались,</l>
+            <l>Прошу покорнейше себя не осрамить:</l>
+            <l>Играйте так, чтоб всех собою удивить.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Не бойся, в грязь лицом я, верно, не ударю.</l>
+            <stage>(Казачку)</stage>
+            <l>А ты чего стоишь? - Ну, что наморщил харю?</l>
+            <l part="I">Дай узел и поди.</l>
+            <stage>Казачок уходит.</stage>
+            <l part="F">А роль моя не вздор:</l>
+            <l>Играй и сочиняй, будь автор и актер!</l>
+            <l>Трудненько, признаюсь, и если б не за спором...</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Да разве ты забыл, что буду я суфлером.</l>
+            <l>Вот роль твоя: будь груб, несносен и брюзглив,</l>
+            <l>Как настоящий муж, со мною будь ревнив.</l>
+            <l>Не забывай, что я, черкешенка Пальмира,</l>
+            <l>В Египте отнята тобой у Сераскира.</l>
+            <l>Тверди об Индии, о бурях, островах,</l>
+            <l>Немного остроты мешай в своих словах</l>
+            <l>И верь, никто тебя до завтра не узнает.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Ну, вот теперь меня роль вовсе не пугает,</l>
+            <l part="I">По мне хоть начинать.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l part="F">Но где ж одеться нам?..</l>
+            <l>Пустая комната!., скорее, по местам!..</l>
+            <l>Мы в ней оденемся, чтоб нас не увидали.</l>
+            <stage>Уходят.</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 2</head>
+          <stage>Сборский и Ленушка.</stage>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Вы, кажется, со мной поговорить желали?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Да, об хозяевах... Вам нравятся они?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Ребята хоть куда.</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l part="F">Ну, мы теперь одни:</l>
+            <l part="I">Я тайну вам скажу.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Посмотрим, что за тайна?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l part="I">Один из них влюблен.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="M">Неужто?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l part="F">Чрезвычайно!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Который же? В кого?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l part="F">Сам Лидин - и в меня.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Вот скорая любовь! - Еще не будет дня,</l>
+            <l>Как он увидел вас, а уж успел влюбиться.</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Уж он давно влюблен: когда еще лечиться</l>
+            <l>Мы в Липецк ездили, там был огромный бал,</l>
+            <l>И он со мною лишь весь вечер танцевал,</l>
+            <l>Смотрел всё на меня, вздыхал... а уверяют,</l>
+            <l>Что если эдак с кем танцуют и вздыхают</l>
+            <l>И после, встретившись, вздыхают так же вновь,</l>
+            <l>Так тут, наверное, замешана любовь...</l>
+            <l>Как жаль, что с маменькой я говорить не смею!</l>
+            <l part="I">Вот с вами я смела.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Зачем же робки с нею?</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Она не любит страх хорошеньких мужчин.</l>
+            <l part="I">За что?..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">На это есть премножество причин!</l>
+            <l>Но, впрочем, об любви мне говорить уж поздно.</l>
+            <l>Во время оно я влюбился, и серьезно,</l>
+            <l>В покойницу жену; вздыхал, ревел не раз,</l>
+            <l part="I">Меня сосватали...</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l part="F">И вылечили вас?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Совсем и навсегда! - Я вам скажу, однако,</l>
+            <l>Что может истинно влюбленным быть не всякой,</l>
+            <l>И часто, не любя, вздыхает молодежь.</l>
+          </sp>
+          <sp who="#lenushka">
+            <speaker>Ленушка</speaker>
+            <l>Теперь мне говорил Красицкий точно то ж.</l>
+            <l>Но, впрочем, в Лидине он, кажется, уверен,</l>
+            <l>Он даже мне сказал, что друг его намерен</l>
+            <l>Сегодня ж свататься. - Но вот и Лидин сам,</l>
+            <l part="I">Скорее убегу.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 3</head>
+          <stage>Сборский и Лидин.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Я шел нарочно к вам.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Чем я могу вам быть полезен?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Очень многим!..</l>
+            <l>Но только вы ко мне не будьте слишком строгим</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>К вам строгим!.. Видно, вы смеетесь надо мной?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Ах, нет! я виноват пред вами, пред собой!..</l>
+            <l>Но знайте наперед, что я влюблен до гроба</l>
+            <l>В девицу Клешнину... что мы погибнем оба,</l>
+            <l>Когда откажут мне в ее руке... что я</l>
+            <l>Готов ей всё отдать - именье и себя.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Ну, что ж? покуда всё идет своим порядком.</l>
+            <l>Девица Клешнина умна, мила, с достатком,</l>
+            <l>Вы также молоды, у вас хороший чин,</l>
+            <l>Именье славное: я думаю, Клешнин</l>
+            <l>Не заупрямится. - Так что же вас тревожит?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Ах! Есть препятствия!..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Препятствий быть не может.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 4</head>
+          <stage>Те же и Иван.</stage>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l>Вас Ленский приказал скорей к себе позвать.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="I">Сейчас приду.</l>
+            <stage>Иван уходит.</stage>
+            <l part="F">Зачем я должен потерять</l>
+            <l>Надежду навсегда? - Ах! если в вас есть жалость,</l>
+            <l>Просите Клешнина, чтоб он простил мне шалость,</l>
+            <l>Скажите, что вперед раскаяньем своим</l>
+            <l>Я все вины свои заглажу перед ним. -</l>
+            <l>Вы видите ли, как я откровенен с вами?</l>
+            <l>Надеюсь, мой секрет останется меж нами.</l>
+            <l part="I">Прощайте, я бегу!..</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 5</head>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(один)</stage>
+            <l part="F">Изволь понять его!</l>
+            <l>"Прошу не открывать секрета моего!.."</l>
+            <l>Престранный человек! - Я, право, знать желаю,</l>
+            <l>Как я могу открыть, чего совсем не знаю?..</l>
+            <l>Он с нею в Липецке на бале танцевал,</l>
+            <l>Вот то-то ж! А меня мой доктор уверял,</l>
+            <l>Что в Липецке вода для женщин нездорова.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 6</head>
+          <stage>Сборский и Маша.</stage>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l>Ну, слава богу! есть кому промолвить слово.</l>
+            <l part="I">Как, это вы, сударь?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Как, Машенька, ты здесь?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l>Да я обегала сегодня город весь,</l>
+            <l part="I">Искала всё господ.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Они, мой друг, здоровы,</l>
+            <l>И сей же час в Кронштадт отправиться готовы.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l>А ведь вчера еще уехали с двора.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Как! не сегодня?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="M">Нет, божуся вам.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Вчера!..</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">Тут, верно, штуки есть.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Ты можешь быть в покое:</l>
+            <l part="I">Красицкий мне сказал...</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Красицких-то ведь двое.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Как двое!</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">То-то же. - Дворецкий наш, Андрей,</l>
+            <l>Проговорился мне, что Лидина лакей...</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Так, здесь дом Лидина! Ну, что ж?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Сказал Андрею,</l>
+            <l>Что Лидин эту всю затеял ахинею,</l>
+            <l>Вчера ваш с барином подслушал разговор,</l>
+            <l part="I">Да и проездил с ним всю ночь.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Какой же вздор!..</l>
+            <l>Однако это всё на дело так похоже!..</l>
+            <l>Докончи. - Но идут. - Что делать мне?.. О боже!..</l>
+            <l part="I">Послушай, здесь никто тебя не видел?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Нет.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Так спрячься ж, милая, вот в этот кабинет.</l>
+            <l>И если господам ты попадешься, должно</l>
+            <l part="I">Их уверять, что мы в Кронштадте.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Как же можно?..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Да, я привез тебя... мы бились об заклад...</l>
+            <l part="I">Ступай же...</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Вот и я заехала в Кронштадт.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 7</head>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(один)</stage>
+            <l>Ну, положение мое, признаться, трудно!</l>
+            <l>Повесы сделали довольно безрассудно:</l>
+            <l>Клешнин рассердится, я стану унимать...</l>
+            <l>А всё уж Лидину невесты не видать...</l>
+            <l>Нет, лучше ни во что мешаться я не буду.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 8</head>
+          <stage>Сборский, Клешнин, Ленский и Лидин.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Поверьте, господа, я вечно не забуду,</l>
+            <l>Как вы изволите приезжих угощать.</l>
+            <l>Такого завтрака, ей-богу, поискать:</l>
+            <l>Какое кушанье! чудеснейшие вины!..</l>
+            <l>Теперь уж, кажется, нет никакой причины</l>
+            <l part="I">Удерживать меня...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Останьтесь здесь на час,</l>
+            <l part="I">Не более...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Да что ж удерживает нас?</l>
+            <l>Жена и дочь пошли уж надевать капоты.</l>
+            <l>Я вам клянусь, что в них не менее охоты</l>
+            <l part="I">На гавань поглядеть...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">Но... ветер пребольшой...</l>
+            <l>Зачем вам рисковать здоровьем и собой?..</l>
+            <stage>(Тихо Сборскому)</stage>
+            <l>Нам с вами надобно немного изъясниться.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Я сроду не знавал, что значит простудиться:</l>
+            <l>Ведь мы народ степной, воспитаны уж так. -</l>
+            <stage>(В сторону)</stage>
+            <l>Боюсь, что без меня приедет Телемак!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(насмешливо)</stage>
+            <l>Поговорить со мной вам, господа, угодно?</l>
+            <l>Так что ж? у гавани вы можете свободно</l>
+            <l part="I">Всё рассказать мне.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(в сторону)</stage>
+            <l part="M">Как, у гавани!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(тихо Ленскому)</stage>
+            <l part="F">Что, брат?</l>
+            <l>И этот, кажется, отправился в Кронштадт.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(в сторону)</stage>
+            <l part="I">Их должно постращать.</l>
+            <stage>(Вслух)</stage>
+            <l part="F">Ах! да, я вспомнил кстати:</l>
+            <l>Я прежде не имел понятья об Кронштадте,</l>
+            <l>Все говорили мне, что он довольно мал,</l>
+            <l>Но я совсем не то на деле увидал:</l>
+            <l>Кронштадт так выстроен, что я воображаю</l>
+            <l part="I">Быть в Петербурге...</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="M">Всё узнал! Но как?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(так же)</stage>
+            <l part="F">Не знаю</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Ну, Сборский, мы с тобой заметили одно.</l>
+            <l>Вот видишь ли теперь, что вещи мудрено,</l>
+            <l part="I">Не видевши, судить.</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <stage>(тихо Сборскому)</stage>
+            <l part="F">Мы вам, сударь, желаем</l>
+            <l part="I">Сказать наедине...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Чего ж мы ожидаем</l>
+            <l>И время тратим здесь на вздорные слова?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(смеючись)</stage>
+            <l>Да вот - они хотят сказать мне слова два:</l>
+            <l>Ты подожди здесь дам, а мы вернемся вскоре.</l>
+            <l part="I">Пойдемте, господа.</l>
+            <stage>Уходят.</stage>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(вслед ему)</stage>
+            <l part="F">Эй, не забудь об море!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 9</head>
+          <stage>Клешнин, Чудин, в английском морском мундире, Чудина, в черкесском платье.</stage>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо)</stage>
+            <l part="I">Вот кстати наш чудак!</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(в кулису)</stage>
+            <l part="F">Вам капитен велит</l>
+            <l>Весь паруси поднеть и машта опустит.</l>
+            <l>А с порок приказать обходится без шутка:</l>
+            <l>Она не шеловек и не имей разсутка.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо мужу)</stage>
+            <l part="I">Прекрасно!</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Это кто? Неужли капитан?..</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Пальмира! Нонше нам сердит был океан</l>
+            <l>И сильна ветра дул, но мне не был опасна,</l>
+            <l>Я трижды объекал вкрух света не напрасна:</l>
+            <l>Мне поперег и вдол не страшна ничего.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(в сторону)</stage>
+            <l>Он путешествовал поболе моего.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Ах, эта господин не друг ли сдешня дома?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Он, верно, старая Красицкому снакома,</l>
+            <l>Котора в нонше ночь приехала сюда.</l>
+            <l>Вас много похвалил мне сдешня господа</l>
+            <l>И поздравляли мне об этакой визите.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Я благодарен им. - Однако же скажите:</l>
+            <l>Вы, верно, капитан известный Телемак?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(испугавшись, тихо жене)</stage>
+            <l part="I">Что это?</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо)</stage>
+            <l part="M">Выдумка хозяев.</l>
+            <stage>(Вслух)</stage>
+            <l part="F">Тошна так,</l>
+            <l>А я супруг его - черкесенка Пальмира.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>В Египет за нево убил я Сераскира.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Сердечно радуюсь.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">У нас был страшна шум!</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Вам, верна, удивиль мой празнишна костум?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Напротив, матушка. - Здесь много иностранных,</l>
+            <l>И может встретиться костюмов много странных.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>В песок Аравии нашол я мой жена.</l>
+            <l>Вы видить: короша, воспитана она.</l>
+            <l>И з ней приданое я взял пятьсот верблюди.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(в сторону)</stage>
+            <l>Вот с платьем завсегда меняются как люди:</l>
+            <l part="I">Мой муж умнее стал!</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">И танцевать умей.</l>
+            <l>И песенка споет, как нешна соловей.</l>
+            <l>Нашни для господин своя прелестна данса.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l part="I">Охотна.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Для тебя я станет бить каданса.</l>
+          </sp>
+          <stage>Чудина танцует.</stage>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="I">Вам данса нравитсе?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Чудесно хороша!</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l>Я шасто танцевал перед Дели-паша.</l>
+            <l part="I">Его повесили.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Туда ему дорога!</l>
+            <l>Однако ж, матушка, скажите ради бога:</l>
+            <l>Когда, за дело знать, повешен был паша,</l>
+            <l part="I">Куда ж девались вы?</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(мужу)</stage>
+            <l part="F">Что это, мой душа?</l>
+            <l part="I">Куда деваль?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ну, да. Вы часто танцевали.</l>
+            <l>Так видно, что вы жить изволили в серали,</l>
+            <l part="I">А там любовницы...</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l part="F">Кто? я любовнис? я?</l>
+            <l>Ты слишишь, и не мог, чтоб зашишать меня.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Как, шорт возьми! - Милорд! вы смей бранит мой шона?</l>
+            <l>Марать репутасьон столь шесная персона,</l>
+            <l>Который савсегда был ставлена в пример</l>
+            <l>Для лучша девушка на обе гемисфер?</l>
+            <l>Всё это кавариль ви с умислом нарочным?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Ох, нет! я, следуя обычаям восточным...</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Тут нет совсем Восток! - Ви должна отвечать,</l>
+            <l>Не то я сей же час вас будет наказать.</l>
+            <l>Пальмира, тушинька, ти мошна бить спокойна,</l>
+            <l>Я тотшас проучить сладея недостойна.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(испугавшись, в сторону)</stage>
+            <l part="I">Какой он бешеный!</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <l part="F">Ах, не убей его,</l>
+            <l>Как, помнишь, стелала ти вот француз того!...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Ах! Что ж он сделал с ним?</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l part="F">Не столько волновался</l>
+            <l part="I">Болота в Ливия...</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо мужу)</stage>
+            <l part="F">Опомнись, ты заврался.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(вынимая шпагу)</stage>
+            <l>Не слушай ничего, он долшна умереть.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 10</head>
+          <stage>Те же, Сборский и Лидин.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Как! в доме у меня вы смеете шуметь?..</l>
+            <stage>(В сторону)</stage>
+            <l part="I">Ах, бог мой! Чудины!</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="F">У нас идет всё славно.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Но это для меня нимало не забавно.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(Чудину)</stage>
+            <l part="I">Клянуся вам, что я...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(Чудину)</stage>
+            <l part="F">Вы, знать, с ума сошли,</l>
+            <l>Что в дом ко мне кричать и ссориться пришли.</l>
+            <l>Кто у меня в гостях, вы к тем не приставайте.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="I">Прекрасно! мастерски!</l>
+            <stage>(Мужу)</stage>
+            <l part="F">Ну, что ж вы? продолжайте!</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Британский капитен не дай себя в обид,</l>
+            <l part="I">А пуще шон своя.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(с бешенством)</stage>
+            <l part="F">Да кто же говорит</l>
+            <l>О капитане вам? - Теперь шутить уж поздно.</l>
+            <l>Я из дому прошу вас выйти, и серьезно.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="I">Чудесно! продолжай!</l>
+            <stage>(Вслух)</stage>
+            <l part="F">Я также не шутиль,</l>
+            <l>И долшна мне его порядке проушиль.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l>Ну, так! его ничем уверить невозможно!</l>
+            <stage>(Вслух)</stage>
+            <l>Я повторяю вам: отсюда выйти должно,</l>
+            <l>Да и вперед не сметь грубить моим гостям.</l>
+          </sp>
+          <sp who="#chudina">
+            <speaker>Чудина</speaker>
+            <stage>(тихо Лидину)</stage>
+            <l part="I">Прелестно!</l>
+            <stage>(Вслух)</stage>
+            <l part="M">Ми уйдем.</l>
+            <stage>(Тихо)</stage>
+            <l part="F">Нас ожидает там</l>
+            <l part="I">Коляска с новыми костюмами.</l>
+            <stage>(Вслух)</stage>
+            <l part="F">Прошайте.</l>
+          </sp>
+          <sp who="#chudin">
+            <speaker>Чудин</speaker>
+            <l>Покорна вам слуга, милорд! А ви, ви снайте,</l>
+            <l>Что я для мшения воротится опять.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 11</head>
+          <stage>Те же, кроме Чудиных.</stage>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Уф! черт тебя возьми! - Едва могу дышать.</l>
+            <l>Простите вы меня: такое приключенье...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Не вы, сударь, а я прошу у вас прощенья...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Нет, сударь, я прошу.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Поди, уверь его!</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Ну, полно ж, дело всё не стоит ничего,</l>
+            <l part="I">Я всех вас помирю.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Пожалуйста, любезный!</l>
+            <l>А мы, чем убивать здесь время бесполезно,</l>
+            <l part="I">Пойдемте к гавани.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Останемся на час...</l>
+            <l>Жена и дочь твоя оденутся как раз...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="I">Я их потороплю.</l>
+            <stage>(В сторону)</stage>
+            <l part="F">Я выдумал прекрасно:</l>
+            <l>Уйду себе один, чем мешкать здесь напрасно.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 12</head>
+          <stage>Те же, кроме Клешнина.</stage>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Ну есть ли кто-нибудь несчастнее меня?..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Кто ж виноват, сударь? - Пеняйте на себя.</l>
+            <l>Хоть я и обещал вам помогать, но, право,</l>
+            <l>Успеха я не жду. - Клешнин имеет право</l>
+            <l part="I">Сердитым быть на вас...</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 13</head>
+          <stage>Те же и Иван.</stage>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(вбегая, Лидину)</stage>
+            <l part="F">Я вам пришел сказать,</l>
+            <l>Что господин Клешнин изволил убежать</l>
+            <l part="I">Тихонько к гавани...</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="M">Ушел!..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="M">Неужли?</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="F">Точно.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Ну, вот: беда с бедой столкнулись, как нарочно.</l>
+            <l>Однако ж времени не надобно терять,</l>
+            <l>Я перед Клешниной пойду вас оправдать:</l>
+            <l>Начну упрашивать... и, может быть, успею,</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 14</head>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(один)</stage>
+            <l>Нет, я так никакой надежды не имею.</l>
+            <l>Старик превзбалмошный и должен быть сердит,</l>
+            <l>Тут, верно, быть беде... Да вот и он катит...</l>
+            <l>Ах, боже мой! на нем и рожа-то презлая.</l>
+            <l part="I">Скорее улизну отсюда.</l>
+            <stage>(Убегает.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 15</head>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(входит бледный и растрепанный)</stage>
+            <l part="F">Колтовская!..</l>
+            <l>Очнуться не могу! - Неужли это сон?..</l>
+            <l>Нет, нет! я наяву взбешен и удивлен,</l>
+            <l>Стыд, злоба не во сне, а въявь меня терзают...</l>
+            <l>Как! мной на старости, как пешкою, играют?..</l>
+            <l>И я, дурак, искал Кронштадта в Колтовской! -</l>
+            <l>Все станут и должны смеяться надо мной...</l>
+            <l>Что делать мне?.. За что ж мне век не видеть моря?..</l>
+            <l>Я рад повеситься от бешенства и горя,</l>
+            <l>Но горе ж и тому, кто обманул меня! -</l>
+            <l>В сердцах, мне кажется, на всё решуся я!</l>
+            <l>Так, я предчувствую, что заварится каша!..</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 16</head>
+          <stage>Клешнин и Маша.</stage>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">Нет, мне сидеть одной, ей-богу, скучно.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Маша!..</l>
+            <l>Вот новости! - Зачем ты дома не сидишь?</l>
+            <l>Зачем зашла сюда? - Ну, что ж не говоришь?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Maша</speaker>
+            <stage>(в сторону)</stage>
+            <l part="I">Скажу, что приказал мне Сборский.</l>
+            <stage>(Вслух)</stage>
+            <l part="F">Виновата,</l>
+            <l>Хотелось посмотреть мне моря и Кронштадта.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(с бешенством)</stage>
+            <l>Какой Кронштадт!.. Тебе меня уж не провесть..</l>
+            <l>Признайся! кто тебя осмелился привесть?</l>
+            <l part="I">Ну!</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="F">Сборский приказал собраться мне в дорогу,</l>
+            <l>Я тотчас собралась - и мы с ним понемногу</l>
+            <l part="I">Сюда доехали.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Доехали, куда?</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">В Кронштадт, где и теперь...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Ты врешь! я никогда</l>
+            <l>Служанке над собой ругаться не позволю.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l part="I">Я не ругаюся.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Так ты играешь ролю.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <l>Да разве здесь театр? - Я вам, сударь, клянусь...</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Молчи, негодная! - Ну, право ж я взбешусь...</l>
+            <l>Чем больше думаю, тем более теряюсь...</l>
+            <l>Я вышел, на углу с повесою встречаюсь</l>
+            <l>И спрашиваю: где мне к гавани пройтить?</l>
+            <l>Повеса от меня пустился во всю прыть,</l>
+            <l part="I">Как от безумного.</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">Оно таки похоже.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Я выругал его и далее... Но что же?</l>
+            <l>Едва поворотил... вдруг надпись мне в глаза...</l>
+            <l part="I">Я не в Кронштадте!...</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">В двух местах вдруг быть нельзя.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Вбегаю с бешенством сюда... моя служанка</l>
+            <l>Мне смеет утверждать... она не грубиянка</l>
+            <l>И, верно, надо мной не смела б так шутить...</l>
+            <l>Ужли хозяева?.. Да нет, не может быть,</l>
+            <l>Их обращение, поступки все и честность...</l>
+            <l>Однако где же я?.. какая неизвестность!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 17</head>
+          <stage>Те же, Клешнина, Ленушка, Сборский, Лидин и Ленский.</stage>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="I">Ты в Петербурге.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="M">Как!.. я в Петербурге?..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Да.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(Лидину и Ленскому)</stage>
+            <l part="I">Так вы осмелились?..</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Нет, эти господа</l>
+            <l>Невинны, я один виновен пред тобою.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Как? ты, мой лучший друг, смеялся надо мною?</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Кому ж, как не друзьям, позволено шутить?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Да, брат, тебе легко всё это говорить,</l>
+            <l part="I">А каково-то мне!</l>
+          </sp>
+          <sp who="#masha">
+            <speaker>Маша</speaker>
+            <stage>(в сторону)</stage>
+            <l part="F">И он был в заговоре.</l>
+            <l part="I">Я так и думала.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l part="F">Ну, что шуметь о вздоре?</l>
+            <l>За шутку неужли двум искренним друзьям</l>
+            <l part="I">Навек поссориться?</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l part="F">Я это знаю сам,</l>
+            <l part="I">Однако...</l>
+          </sp>
+          <sp who="#kleshnina">
+            <speaker>Клешнина</speaker>
+            <l part="F">Полно же! - Ты должен согласиться,</l>
+            <l>Что более тебя должна бы я сердиться,</l>
+            <l>Однако ж посмотри: я только что смеюсь,</l>
+            <l part="I">Ну, смейся же и ты.</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <stage>(значительно)</stage>
+            <l part="F">Я, друг мой, признаюсь,</l>
+            <l>Что если б кто другой... вот хоть они бы</l>
+            <l>Так смели пошутить, то вы тогда могли бы</l>
+            <l>Сказать им без затей: "Узнайте, господа,</l>
+            <l>Что так не делают нигде и никогда.</l>
+            <l>Шутить над стариком, который, хоть по летам,</l>
+            <l>Никак не может быть насмешек вам предметом,</l>
+            <l>А более всего - двух дам не пощадить -</l>
+            <l>Такие шалости, которых извинить</l>
+            <l part="I">Никак, ничем нельзя".</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(смеется)</stage>
+            <l part="F">Теперь я понимаю...</l>
+          </sp>
+          <sp who="#sborskij">
+            <speaker>Сборский</speaker>
+            <l>Но я тебе еще, как другу, повторяю,</l>
+            <l>Что не они, а я затеял это всё.</l>
+            <l>Хоть мне не удалось намеренье мое,</l>
+            <l>Но я зато узнал нечаянно, случайно,</l>
+            <l>Что Лидин в дочь твою давно влюблен уж тайно.</l>
+            <l>Он не противен ей, умен, хорош, богат...</l>
+            <l part="I">Ну, что же? - по рукам!</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="F">И тотчас же в Кронштадт.</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l>Мое желанье вам теперь уже известно.</l>
+            <l>Ужели буду я лишен надежды лестной?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Я рад душой, да вот она не говорит.</l>
+            <l part="I">Скажи?</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">О! верно, тот согласен, кто молчит.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <stage>(жене)</stage>
+            <l>И ты молчишь?.. Ну, мне упрямиться не должно.</l>
+            <stage>(Соединяет их.)</stage>
+            <l>Что? - "Ведь любить нельзя, а посмотреть-то можно".</l>
+            <l part="I">Плутовка!</l>
+          </sp>
+          <sp who="#lidin">
+            <speaker>Лидин</speaker>
+            <l part="F">Как могу я вас благодарить?..</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Да только прикажи отъездом поспешить.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ 18</head>
+          <stage>Те же и Иван.</stage>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <stage>(вбегая, Лидину).</stage>
+            <l>Что делать мне, сударь, вот с этою злодейкой?</l>
+          </sp>
+          <sp who="#lenskij">
+            <speaker>Ленский</speaker>
+            <l part="I">С кем?</l>
+          </sp>
+          <sp who="#ivan">
+            <speaker>Иван</speaker>
+            <l part="F">С Чудиной. Она оделася индейкой</l>
+            <l>И с мужем пристает, чтоб их пустить сюда.</l>
+          </sp>
+          <sp who="#kleshnin">
+            <speaker>Клешнин</speaker>
+            <l>Прекрасно! До меня доходит череда</l>
+            <l>За шутку шуткою такою ж поквитаться.</l>
+            <l>Скажи, что едем мы немного покататься</l>
+            <l>И просим их с собой. - Пусть этот маскарад</l>
+            <l>Теперь за нами вслед отправится в Кронштадт.</l>
+          </sp>
+        </div>
+      </div>
+      <dateline>1823</dateline>
+    </body>
+  </text>
+</TEI>
