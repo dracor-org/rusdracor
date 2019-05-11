@@ -2,14 +2,14 @@
 ## Corpus Description
 We are building a Russian Drama Corpus with files encoded in
 [TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises
-**140 plays** to date, stemming from [ilibrary](https://ilibrary.ru/),
+**150 plays** to date, originating from [ilibrary](https://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/), [РВБ](https://rvb.ru/),
 [lib.ru](http://lib.ru/), [ФЕБ](http://feb-web.ru/),
 [СовЛит](http://www.ruthenia.ru/sovlit/) and
 [Wikilivres](https://wikilivres.org/), converted to TEI and corrected
-by us. There will be more.
+and enhanced by us. There will be more.
 
-If you want to cite the corpus in a paper, please use this publication:
+If you want to cite the corpus, please use this publication:
 
 - **Skorinkin D., Fischer F., Palchikov G. (2018)**: Building a Corpus for the Quantitative Research of Russian Drama: Composition, Structure, Case Studies. *Proceedings of the International Conference "Dialogue 2018"*, pp. 662–682. (**[PDF](http://www.dialog-21.ru/media/4332/skorinkind.pdf)**)
 
@@ -28,11 +28,6 @@ If you just want to download the corpus in its current state in XML-TEI,
 do this:
 
 `svn export https://github.com/dracor-org/rusdracor/trunk/tei`
-
-(*Update:* GitHub's SVN bridge server implementation
-[is incompatible with SVN 1.11](https://subversion.apache.org/docs/release-notes/1.11#issues),
-use 1.10 or lower or choose another method for corpus downloading, or just
-`git clone` it.)
 
 ## API
 
@@ -65,8 +60,8 @@ Result:
 
 ![number of speakers per play over time](numOfSpeakers.png)
 
-And here is a barplot showing the number of plays per decade:
+Here is a barplot showing the number of plays per decade:
 
 ![number of speakers per play over time](playsPerDecade.png)
 
-(README last updated on December 3, 2018.)
+(README last updated on May 11, 2019.)
