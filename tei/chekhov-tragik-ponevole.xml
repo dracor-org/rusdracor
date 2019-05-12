@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">A Tragedian in Spite of Himself (A Holiday Episode)</title>
         <title type="sub" xml:lang="ru">Шутка в одном действии</title>
         <title type="sub" xml:lang="en">A Joke in One Act</title>
-        <author key="Wikidata:Q5685">Чехов, Антон Павлович</author>
+        <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/chekhov-tragik-ponevole</idno>
-        <idno type="RusDraCor">61</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000061</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4461754</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4461754</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

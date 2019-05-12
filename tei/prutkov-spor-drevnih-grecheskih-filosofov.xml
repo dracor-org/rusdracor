@@ -10,19 +10,18 @@
         <title type="sub" xml:lang="ru">Драматическая сцена из древнегреческой классической жизни в
           стихах</title>
         <title type="sub" xml:lang="en">Dramatic Scene from Hellenic Classical Life in Verse</title>
-        <author key="Wikidata:Q1784989">Прутков, Козьма</author>
+        <author key="wikidata:Q1784989">Прутков, Козьма</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/prutkov-spor-drevnih-grecheskih-filosofov</idno>
-        <idno type="RusDraCor">23</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000023</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q16314603</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q16314603</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

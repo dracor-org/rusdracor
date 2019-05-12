@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">The Heiress</title>
         <title type="sub" xml:lang="ru">Комедия в одном действии, в стихах</title>
         <title type="sub" xml:lang="en">A Comedy in One Act, in Verse</title>
-        <author key="Wikidata:Q4363527">Писарев, Александр Иванович</author>
+        <author key="wikidata:Q4363527">Писарев, Александр Иванович</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/pisarev-naslednica</idno>
-        <idno type="RusDraCor">149</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000149</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q63716673</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q63716673</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

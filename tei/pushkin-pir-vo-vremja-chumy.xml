@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">A Feast in Time of Plague</title>
         <title type="sub" xml:lang="ru">(Из вильсоновой трагедии: The city of the plague)</title>
         <title type="sub" xml:lang="en">(From Wilson's Tragedy: The City of the Plague)</title>
-        <author key="Wikidata:Q7200">Пушкин, Александр Сергеевич</author>
+        <author key="wikidata:Q7200">Пушкин, Александр Сергеевич</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/pushkin-pir-vo-vremja-chumy</idno>
-        <idno type="RusDraCor">19</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000019</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4363241</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4363241</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

@@ -9,19 +9,18 @@
         <title type="sub" xml:lang="ru">Современная трагедия в трех действиях и шести
           картинах</title>
         <title type="sub" xml:lang="en">A Modern Tragedy in Three Acts and Six Scenes</title>
-        <author key="Wikidata:Q310866">Андреев, Леонид Николаевич</author>
+        <author key="wikidata:Q310866">Андреев, Леонид Николаевич</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/andreyev-mysl</idno>
-        <idno type="RusDraCor">137</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000137</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q59355429</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q59355429</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

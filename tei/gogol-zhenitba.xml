@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">Marriage</title>
         <title type="sub" xml:lang="ru">Совершенно невероятное событие в двух действиях</title>
         <title type="sub" xml:lang="en">A Completely Improbable Event in Two Acts</title>
-        <author key="Wikidata:Q43718">Гоголь, Николай Васильевич</author>
+        <author key="wikidata:Q43718">Гоголь, Николай Васильевич</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/gogol-zhenitba</idno>
-        <idno type="RusDraCor">50</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000050</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4179360</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4179360</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

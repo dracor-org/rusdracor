@@ -9,19 +9,18 @@
           Lying</title>
         <title type="sub" xml:lang="ru">Комедия в одном действии, в вольных стихах</title>
         <title type="sub" xml:lang="en">A Comedy in One Act, in Free Verse</title>
-        <author key="Wikidata:Q3740432">Шаховской, Александр Александрович</author>
+        <author key="wikidata:Q3740432">Шаховской, Александр Александрович</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/shakhovskoy-ne-lubo-ne-slushai</idno>
-        <idno type="RusDraCor">78</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000078</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q51496927</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q51496927</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

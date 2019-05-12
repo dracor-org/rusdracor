@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">Tatyana Repina</title>
         <title type="sub" xml:lang="ru">Драма в 1 действии</title>
         <title type="sub" xml:lang="en">Drama in 1 Act</title>
-        <author key="Wikidata:Q5685">Чехов, Антон Павлович</author>
+        <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/chekhov-tatjana-repina</idno>
-        <idno type="RusDraCor">62</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000062</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q3516055</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3516055</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

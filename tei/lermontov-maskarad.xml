@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">Masquerade</title>
         <title type="sub" xml:lang="ru">Драма в 4-х действиях, в стихах</title>
         <title type="sub" xml:lang="en">A Poetic Drama in Four Acts</title>
-        <author key="Wikidata:Q46599">Лермонтов, Михаил Юрьевич</author>
+        <author key="wikidata:Q46599">Лермонтов, Михаил Юрьевич</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/lermontov-maskarad</idno>
-        <idno type="RusDraCor">37</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000037</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q3297216</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3297216</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

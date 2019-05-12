@@ -10,19 +10,18 @@
           эпохи / Второй вариант</title>
         <title type="sub" xml:lang="en">A Heroic, Epic, and Satiric Representation of Our Era /
           Second Version</title>
-        <author key="Wikidata:Q132964">Маяковский, Владимир Владимирович</author>
+        <author key="wikidata:Q132964">Маяковский, Владимир Владимирович</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/mayakovsky-misteriya-buff</idno>
-        <idno type="RusDraCor">93</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000093</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q4296515</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4296515</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

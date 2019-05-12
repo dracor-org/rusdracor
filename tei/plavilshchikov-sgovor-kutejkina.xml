@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">Kuteykin's Agreement</title>
         <title type="sub" xml:lang="ru">Комедия в одном действии</title>
         <title type="sub" xml:lang="en">A Comedy in One Act</title>
-        <author key="Wikidata:Q4364258">Плавильщиков, Пётр Алексеевич</author>
+        <author key="wikidata:Q4364258">Плавильщиков, Пётр Алексеевич</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/plavilshchikov-sgovor-kutejkina</idno>
-        <idno type="RusDraCor">26</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000026</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q19218387</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q19218387</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

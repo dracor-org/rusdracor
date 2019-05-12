@@ -8,19 +8,18 @@
         <title type="main" xml:lang="en">The Bedbug</title>
         <title type="sub" xml:lang="ru">Феерическая комедия / Девять картин</title>
         <title type="sub" xml:lang="en">A Fantastic Comedy in Nine Scenes</title>
-        <author key="Wikidata:Q132964">Маяковский, Владимир Владимирович</author>
+        <author key="wikidata:Q132964">Маяковский, Владимир Владимирович</author>
       </titleStmt>
       <publicationStmt>
-        <publisher xml:id="RusDraCor">RusDraCor</publisher>
-        <idno type="URL">https://dracor.org/rus/mayakovsky-klop</idno>
-        <idno type="RusDraCor">91</idno>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000091</idno>
         <availability>
           <licence>
-            <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Licence</ref>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q377536</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q377536</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
