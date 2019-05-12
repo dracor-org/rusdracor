@@ -131,9 +131,9 @@
           <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса</name>
           </personGrp>
-          <person xml:id="hor" sex="UNKNOWN">
-            <persName>Хор</persName>
-          </person>
+          <personGrp xml:id="hor" sex="UNKNOWN">
+            <name>Хор</name>
+          </personGrp>
           <personGrp xml:id="vse_4-9" sex="UNKNOWN">
             <name>Все (IV/9)</name>
           </personGrp>
