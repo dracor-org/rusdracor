@@ -25,11 +25,8 @@
         <bibl type="digitalSource">
           <name>Библиотека Максима Мошкова (lib.ru)</name>
           <idno type="URL">http://az.lib.ru/p/pisemskij_a/text_0410.shtml</idno>
-          <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+          <availability status="free">
+            <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
             <title>А.Ф.Писемский. Собр. соч. в 9 томах. Том 9. Издательство "Правда" биб-ка
