@@ -44,39 +44,51 @@
         <listPerson>
           <person xml:id="aksjusha" sex="FEMALE">
             <persName>Аксюша</persName>
+            <persName xml:lang="de">Axinja</persName>
           </person>
           <person xml:id="karp" sex="MALE">
             <persName>Карп</persName>
+            <persName xml:lang="de">Karp</persName>
           </person>
           <person xml:id="bulanov" sex="MALE">
             <persName>Буланов</persName>
+            <persName xml:lang="de">Bulanow</persName>
           </person>
           <person xml:id="ulita" sex="FEMALE">
             <persName>Улита</persName>
+            <persName xml:lang="de">Ulita</persName>
           </person>
           <person xml:id="gurmyzhskaja" sex="FEMALE">
             <persName>Гурмыжская</persName>
+            <persName xml:lang="de">Gurmyschskaja</persName>
           </person>
           <person xml:id="milonov" sex="MALE">
             <persName>Милонов</persName>
+            <persName xml:lang="de">Milonow</persName>
           </person>
           <person xml:id="bodaev" sex="MALE">
             <persName>Бодаев</persName>
+            <persName xml:lang="de">Bodajew</persName>
           </person>
           <person xml:id="vosmibratov" sex="MALE">
             <persName>Восмибратов</persName>
+            <persName xml:lang="de">Wosmibratow</persName>
           </person>
           <person xml:id="petr" sex="MALE">
             <persName>Петр</persName>
+            <persName xml:lang="de">Pjotr</persName>
           </person>
           <person xml:id="malchik" sex="MALE">
             <persName>Мальчик</persName>
+            <persName xml:lang="de">Terenka (Laufbursche)</persName>
           </person>
           <person xml:id="neschastlivtsev" sex="MALE">
             <persName>Несчастливцев</persName>
+            <persName xml:lang="de">Gennadius (Der Unglückliche)</persName>
           </person>
           <person xml:id="schastlivtsev" sex="MALE">
             <persName>Счастливцев</persName>
+            <persName xml:lang="de">Arkadius (Der Glückliche)</persName>
           </person>
         </listPerson>
       </particDesc>
