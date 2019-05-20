@@ -1054,7 +1054,7 @@
           <stage>(Секретарша идет мимо ящика.)</stage>
           <p>Не толкните ногой противогазы – они хрупкие.</p>
         </sp>
-        <stage>Конец 1-го действия.</stage>
+        <trailer>Конец 1-го действия.</trailer>
       </div>
       <div type="act">
         <head>2-е действие.</head>
@@ -1995,7 +1995,7 @@
           <speaker>Инженер:</speaker>
           <p>Следующий...</p>
         </sp>
-        <stage>Конец II действия.</stage>
+        <trailer>Конец II действия.</trailer>
       </div>
       <div type="act">
         <head>3-е действие.</head>
