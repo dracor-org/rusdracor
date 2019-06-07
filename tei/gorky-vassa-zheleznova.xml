@@ -1,0 +1,5102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Васса Железнова (Мать)</title>
+        <title type="main" xml:lang="en">Vassa Zheleznova (The Mother)</title>
+        <title type="sub" xml:lang="ru">Сцены</title>
+        <title type="sub" xml:lang="en">Scenes</title>
+        <author key="wikidata:Q12706">Горький, Максим</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000163</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4105072</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/g/gorxkij_m/text_1910_vassa.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>"Собрание сочинений в тридцати томах": Государственное издательство
+              художественной литературы; Москва; 1949. Том 12. Пьесы 1908-1915</title>
+            <date type="print" when="1910">"Впервые напечатано в 'Сборнике товарищества 'Знание' за
+              1910 год', книга тридцать третья, СПБ. 1910, с подзаголовком 'Сцены', и одновременно
+              отдельной книгой с подзаголовками 'Мать', 'Сцены' в издательстве И.П. Ладыжникова,
+              Берлин (без обозначения года издания)." (lib.ru)</date>
+            <date type="premiere" when="1936">"была сыграна в Театре Красной Армии в 1936 году"
+              (ru.wikipedia.org)</date>
+            <date type="written" when="1910">"1910" (lib.ru)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="dunechka" sex="FEMALE">
+            <persName>Дунечка</persName>
+          </person>
+          <person xml:id="lipa" sex="FEMALE">
+            <persName>Липа</persName>
+          </person>
+          <person xml:id="vassa" sex="FEMALE">
+            <persName>Васса</persName>
+          </person>
+          <person xml:id="dunja" sex="FEMALE">
+            <persName>Дуня</persName>
+          </person>
+          <person xml:id="mihail" sex="MALE">
+            <persName>Михаил</persName>
+          </person>
+          <person xml:id="pavel" sex="MALE">
+            <persName>Павел</persName>
+          </person>
+          <person xml:id="natalja" sex="FEMALE">
+            <persName>Наталья</persName>
+          </person>
+          <person xml:id="semen" sex="MALE">
+            <persName>Семён</persName>
+          </person>
+          <person xml:id="prohor" sex="MALE">
+            <persName>Прохор</persName>
+          </person>
+          <person xml:id="ljudmila" sex="FEMALE">
+            <persName>Людмила</persName>
+          </person>
+          <person xml:id="anna" sex="FEMALE">
+            <persName>Анна</persName>
+          </person>
+          <person xml:id="anisja" sex="FEMALE">
+            <persName>Анисья</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genreTitle">Сцены</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2019-06-03">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Васса Железнова (Мать)</titlePart>
+      </docTitle>
+      <castList>
+        <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
+        <castItem>Васса Петровна Железнова.</castItem>
+        <castGroup>
+          <castItem>Анна,</castItem>
+          <castItem>Семён,</castItem>
+          <castItem>Павел</castItem>
+          <roleDesc>-- её дети.</roleDesc>
+        </castGroup>
+        <castItem>Наталья -- жена Семёна.</castItem>
+        <castItem>Людмила -- жена Павла.</castItem>
+        <castItem>Прохор Железнов.</castItem>
+        <castItem>Михайло Васильев -- управляющий.</castItem>
+        <castItem>Дунечка -- дальняя родственница Железновых.</castItem>
+        <castGroup>
+          <castItem>Липа,</castItem>
+          <castItem>Анисья</castItem>
+          <roleDesc> -- горничные.</roleDesc>
+        </castGroup>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Действие первое</head>
+        <stage>Раннее утро зимнего дня. Большая комната -- спальня и рабочий кабинет Вассы
+          Железновой. Тесно. В углу, за ширмами -- кровать, налево -- стол, заваленный бумагами,
+          вместо пресс-папье положены изразцы. Около стола -- высокая конторка, за нею, под окном --
+          кушетка. Лампы с зелеными абажурами. В правом углу -- изразцовая лежанка, около неё --
+          несгораемый шкаф и дверь в молельную. К ширмам пришпилены булавками бумаги, когда мимо них
+          проходят -- они шевелятся. В задней стене -- широкие двери в столовую; виден стол, над ним
+          люстра. На столе горит свеча. Дунечка собирает посуду для чая. Липа вносит кипящий
+          самовар.</stage>
+        <sp who="#dunechka">
+          <speaker>Дунечка</speaker>
+          <stage>(тихо).</stage>
+          <p>Воротилась?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#dunechka">
+          <speaker>Дунечка.</speaker>
+          <p>Ой! Что же теперь будет?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>А я знаю?.. <stage>(Идёт в комнату хозяйки и осматривает её.)</stage></p>
+        </sp>
+        <stage>(Из двери молельной выходит Васса, поправляя очки и волосы на висках. Смотрит на
+          стенные часы над столом.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Почему опоздала? Четверть восьмого, видишь?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Под утро Захару Ивановичу опять худо было.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(проходя к столу).</stage>
+          <p>Депеши нет?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Все встали?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Павел Захарович и не ложились ещё...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Нездоров?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Людмила Михайловна дома не ночевали.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(негромко).</stage>
+          <p>Берегись, Олимпиада!.. Я тебе... покажу!</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(испуганно).</stage>
+          <p>За что же?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А вот за то, что неприятное мне... со вкусом ты говоришь...</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Васса Петровна! Да ведь я это...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ступай, зови всех к чаю. Дуня, дай мне сюда мою чашку. Олимпиада, стой! Ежели Людмила
+            спит ещё, не буди её, -- поняла? Она сегодня ночевала у отца. Пошли его ко мне...</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня</speaker>
+          <stage>(вносит чай).</stage>
+          <p>Здравствуй, Вассушка...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Здорова будь.</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Ой, Вассонька, как Захарушке-то плохо было...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ничего не говорил?</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Где уж! Только глазыньками моргает.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты там послушай, что будут про Людмилку болтать. Иди к столу.</p>
+        </sp>
+        <stage>(Дуня ушла. Васса, положив руки на стол, нахмурилась, подняла очки на лоб, шевелит
+          губами.)</stage>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(входя).</stage>
+          <p>Доброе утро-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Где дочь-то? Родитель... эх!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Ничего не могу сделать... свыше сил...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Погубили парня...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>И её...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Она у тебя ночевала... Понял?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Понимаю-с.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>За косы бы её... <stage>(Усмехнулась.)</stage> Захар как?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Плохо-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Не мог бумагу подписать?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Поп согласен?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Триста просит.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Чёрт с ним, пусть пользуется. А другие?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Всё в порядке.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(вздохнув).</stage>
+          <p>Кончится это всё -- подумаем, как быть с детьми...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Необходимое дело-с! Беда может быть...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(задумчиво).</stage>
+          <p>Не едет Анна, не едет! И депеши нет... Дуня, чаю! Кто пришёл?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(в столовой).</stage>
+          <p>Я...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что прячешься? Поздоровался бы с матерью-то...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(входя).</stage>
+          <p>Извольте -- с добрым утром! Тестюшка... ага? Где же ваша дочь?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(угрюмо).</stage>
+          <p>Вас спрошу об этом, -- вам её дал церкви закон...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Иди, Михайло Васильич...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Маменька -- мне стыдно, мне -- нестерпимо... помоги как-нибудь, ведь ты меня любишь, я
+            знаю... мама!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну полно, полно... погоди...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Чего мне ждать? Сил моих нет.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Говорила я -- не пара она тебе! Женился бы на тихонькой...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>На уроде? Сам я урод -- и жену мне уродку? Кривобокую? Хромую?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(гасит свечу).</stage>
+          <p>Перестань!.. Над слезами да жалобами смеются теперь... перестань!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Господи! Железнова жена -- гулящая! Мамаша, неужто вас не терзает... не стыдно вам?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Сказала -- перестань! Ну? Иди, пей чай... <stage>(Идёт в столовую.)</stage> Ты что свет
+            не гасишь, ворона монастырская?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Мамаша, дайте денег, я в город поеду... не могу я тут... не могу...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Отец в опасности, а ты -- в город? Ещё что выдумаешь? Умница!..</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ну, что же мне делать?!.</p>
+          <stage>(Бросился на кушетку, злобно плачет. В столовой -- Наталья подходит к свекрови,
+            целует руку. Васса смотрит на Павла через очки.)</stage>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Проспала?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Я у батюшки дежурила до трёх часов. <stage>(Прислушавшись, испуганно)</stage>. Кто это
+            плачет?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Павел -- постыдись! Кликуша!..</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(идёт в кабинет).</stage>
+          <p>Что ты это? Дуняша, дайте воды!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>О, господи!.. <stage>(Дуня вопросительно смотрит на неё.)</stage> Ну, что тебе сказано?
+            Воды подай... Эх, Павел, спрятала бы я тебя куда-нибудь...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Да, я знаю... вам не за меня стыдно, вы меня стыдитесь...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Ты мужчина, тебе нехорошо плакать.</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Не тронь... ты брезгуешь мной... у меня жена гуляет...</p>
+        </sp>
+        <stage>(Михаил входит в столовую, дёргает себя за усы, провожая зятя угрюмым
+          взглядом.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты что?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(направляясь в её комнату).</stage>
+          <p>Пожалуйте сюда.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну? Дуня, выдь вон!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Людмила уехала с дядей...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(хватаясь за стену).</stage>
+          <p>Куда?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>На хутор...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ох... Я уж думала -- далеко... совсем! Испугал ты меня... Павел -- знает?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Узнает... Страшно мне... И дочь -- погибла... и дело, которому всю жизнь служил, --
+            разрушается.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(с досадой).</stage>
+          <p>Ты бы не охал... я не охаю вот... Так, стало быть, Прохор...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Он -- всем враг!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не каркай, говорю! Дело разрушается... Это ещё -- посмотрим!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(с яростью).</stage>
+          <p>Его добрым считают... совестлив, дескать... Знаю я эти штуки -- совесть да доброту!
+            Видел-с... Они в деле -- как песок в машине... И всё это -- одна игра, никому не нужна
+            доброта, никому! Дай мне столько, сколько я стою, больше ничего... Ласки да шутки
+            оставьте себе, да-с! Это -- когда человеку нечем внимания заслужить, он в совесть
+            играет! А кругом все от его игры плачут... и никакое дело не может правильно идти...
+            Вредоносный человек он...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(очнувшись).</stage>
+          <p>Что ты с ним сделаешь?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Что-с? Эх...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну? Говори.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(не вдруг).</stage>
+          <p>Погожу-с... Вам бы сходить к хозяину-то...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>И вправду... А депеши от Анны всё нет... нет!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Что вы так надеетесь на неё?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(идёт).</stage>
+          <p>Ты её не знаешь... молчи!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(идя за нею).</stage>
+          <p>Тяжело...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Легко жить -- просто. Только от лёгкой-то жизни глупеют скоро, слышала я...</p>
+        </sp>
+        <stage>(Ушли. Бесшумно является Дуня, села за стол, крестится и шепчет.)</stage>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Господи -- сохрани, помилуй рабов твоих на всех путях... Господи!</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(вбегает).</stage>
+          <p>Где хозяйка? Приехала!</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Анна?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Людмилка! С дядей ночь-то гуляла -- ай-ай! Вот так дела!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(идёт).</stage>
+          <p>Какие дела, а?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(убегая).</stage>
+          <p>Так-с...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Квак-с! Дура! Ну-ка, Дуня, налей мне.</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>С добрым утром, Сенечка.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ну, и тебе тоже. Как отец?</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Ой, плох...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Гм... мучается долго. <stage>(Зевнул.)</stage> Все уже напились?</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня</speaker>
+          <stage>(вполголоса).</stage>
+          <p>Павлуша не дотронулся, -- жёнушка-то у него не ночевала дома...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(приятно удивлённый).</stage>
+          <p>Да ну-у?</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня</speaker>
+          <stage>(захлёбываясь).</stage>
+          <p>Да, да! С Прохором, слышь, Зах...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Да нет? Ах дядя, чёрт кудрявый, а? Добился-таки! Молодец, а-ах ты!</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Добился, видно! Сраму-то...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Вот рожа у Павла будет!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(входит, ворча).</stage>
+          <p>Я те уши оборву, погоди...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Кому?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Уроду. Скотина! Опять мне на голубятню кота пустил... Риголета кособокая...<note
+              place="foot">rigoletto -- рогоносец (итал.) -- Ред.</note> Даже ноги дрожат... со
+            зла...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(ухмыляясь).</stage>
+          <p>А чего ты такой красноглазый да измятый? В одёже спал?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(оглядывая себя).</stage>
+          <p>Я? Спал? Экой леший... надо переодеться.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Следует.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Хавронья -- чаю! Ах Пашка, кикимора... Скобаря удушил кот да двух чёрно-пегих...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>И за что бы ему на тебя сердиться?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ну, ну! А ты знай край, да не падай! Дурак он! Женщине в актрисы надо идти али вообще
+            куда-нибудь... какая она жена ему?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(входит).</stage>
+          <p>Прохор Иванович...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ну?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Управляющий спрашивает...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Я твой управляющий... и больше никаких! И нечего тебе тут плутать, Плутонша...
+            брысь!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(Липе).</stage>
+          <p>Чего ему надо?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(робко).</stage>
+          <p>Спрашивает, можно ли видеть.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Меня? Нельзя. Я -- невидим... Скажи ему, что он болван и жулик...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(смеётся).</stage>
+          <p>Разве жулики бывают болванами?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>У нас, брат, и жулики не больно умны.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Люблю я, когда вы сердитесь... смешно очень!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Вот -- благодарствую! Государственный ум у тебя, брат, право!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(входит, в капоте).</stage>
+          <p>Здравствуйте...</p>
+        </sp>
+        <stage>(Дуня молча кланяется, Семён, ухмыляясь, шаркает ногами, Прохор крутит усы и
+          крякает.)</stage>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Молока мне. Вы чего, Семён, расцвели?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Видя вас -- ликует вся природа... вот как!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>И животные.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(фыркая).</stage>
+          <p>Это я -- животный?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Коли говоришь -- вся природа, стало быть, и скоты все...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(хохочет).</stage>
+          <p>Ой, ей-богу... вот ловко!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(Дуне).</stage>
+          <p>Видите -- родитель у него при смерти, а он -- зубы скалит. <stage>(Семён немедленно
+              стал серьёзен.)</stage> Вы, Дуняша, поучили бы его приличиям, как, бывало, меня
+            учили...</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Я-с...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(тоном оправдания).</stage>
+          <p>Родитель -- седьмой месяц хворает.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Человек -- вообще решительный, а умереть -- не решается...</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня</speaker>
+          <stage>(невольно).</stage>
+          <p>О, господи...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Что?</p>
+        </sp>
+        <sp who="#dunja">
+          <speaker>Дуня.</speaker>
+          <p>Я так...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Как?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(Дуне).</stage>
+          <p>Вы идите куда вам надобно. Дядя Прохор -- безнравственный, и вам, девушке, неприлично с
+            ним сидеть. <stage>(Дуня уходит.)</stage> Не люблю шпионок. <stage>(Прохору.)</stage>
+            Послушайте, испанец!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Похож!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>А ты видел испанцев? Тесто!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>И видел. В цирке один плясал.</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Я пойду спать, в четыре встану, а вы будьте готовы -- идёт?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Кататься?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>На тройке.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Хочешь с нами? Бери жену, и едем...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(чешется, грустно).</stage>
+          <p>Не поедет она. Да и Павел тут...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Что -- Павел?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Не того... неловко...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Вам неловко? Почему?</p>
+        </sp>
+        <stage>(Семён усмехается смущённо, Прохор смотрит на него, безнадёжно качая
+          головой.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(входит).</stage>
+          <p>Семён, ступай в контору.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(вслед племяннику).</stage>
+          <p>Да не очень умно распоряжайся, не так, как в прошлый раз.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(Людмиле).</stage>
+          <p>Ты меня видела?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Нет.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что же не здороваешься?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(ласково).</stage>
+          <p>Ой, простите! Забыла...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(встал).</stage>
+          <p>Здравия желаю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(уклоняясь от поцелуя невестки, спокойно, строго).</stage>
+          <p>Ты что делаешь, Людмила?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(не сразу).</stage>
+          <p>Не знаю... честное слово, мама! Не знаю... <stage>(Быстро ушла.)</stage></p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Бум!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(мягко, миролюбиво).</stage>
+          <p>Прохор Иваныч, вот вы человек неглупый, не злой...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Главное -- неглупый! Вот-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Вы понимаете, надо быть, что поступки ваши конфузят весь дом и дело старинное в
+            постыдном виде выставляют пред людьми...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Слышал эти речи не однажды от брата Захара и всегда говорил ему, что учить меня --
+            поздно-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тише).</stage>
+          <p>Неужто не жалко вам молодую женщину, девочку почти, -- ведь ей -- жить...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Извините! В молодых женщинах и девочках я понимаю значительно больше вас... равно как и
+            многих женщин почтенного возраста насквозь вижу...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(медленно).</stage>
+          <p>Павел -- племянник вам...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Сделайте любезность -- скажите ему, что если он голубей моих кошками травить будет --
+            уши оборву-с!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(не сразу).</stage>
+          <p>Значит -- вы враг семье?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Это вы -- оставьте! Семья! Братец покойный не без вашего наущения по миру меня пустил
+            было -- не забыли вы об этом? Семья-с? Благодарствую! Тридцать тысяч слизали моих, --
+            будет! Хе!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Воевать, значит, желаете?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Чего-с? Как это? С кем?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>С племянниками, разумею...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Оставьте увертюры наши, всё равно -- не вывернетесь! Никаких войн! Закон существует,
+            Васса Петровна, эдакое римское право: моё суть моё! Отыдет Захар в селения горние, мы с
+            вами мирно разделимся, и -- никаких увертюр! Желаю здравствовать... <stage>(Ушёл. Васса
+              смотрит вслед, странно наклоняясь, точно хочет прыгнуть на него. Входит Наталья,
+              садится за стол, наливает себе чаю.)</stage></p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(глухо).</stage>
+          <p>Что Павел?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Успокоился немножко... <stage>(Молчание. Васса ходит по столовой.)</stage> Жалко
+            его...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Жалко, говорю, его...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(не сразу, тихо).</stage>
+          <p>Мне вот арестантов жалко... некоторые совсем безвинно в тюрьме сидят, и дела никакого
+            нет им... а на воле привыкли работать. Тех жаль, кому работать хочется, а --
+            нечего...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Иные живут хуже арестантов...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(задумчиво).</stage>
+          <p>Меня вот никто не жалел. Как Захар банкротиться затеял -- была я Павлом беременна, на
+            шестом месяце... Тюрьмой, судом дело пахло -- мы о ту пору под заклад тайно деньги
+            давали... чужого добра полны сундуки, всё надо было спрятать, укрыть. Я говорю --
+            Захарушка, погоди! Дай мне ребёнка-то родить! А он как зыкнет... да! Так и возилась я в
+            страхе-трепете месяца два...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Вот, может, оттого и родился Павел-то кривобокий...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Это он после... лет пять было ему, когда заметила я, что криво растёт... Да... То ли
+            ещё было!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Вы с тем служащим, которого намедни прогнали, разговаривали?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Чего с ним говорить? Негоден, ну -- иди себе!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>А про жизнь говорили?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Чью жизнь?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Про всю... про всех?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(не понимает).</stage>
+          <p>Невдомёк мне -- о чём ты это?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(поучительно).</stage>
+          <p>Он вот говорил, что всякое дело -- грех.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(удивлена).</stage>
+          <p>Экой дурак!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(задорно).</stage>
+          <p>Почему это? Вы всех ругаете...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Значит, дело -- грех? Работа -- грех? До чего доходят... чтобы лень свою оправдать...
+            Помнится -- был эдакой странник, это ещё до тебя... Сидит в кухне и проповеди говорит,
+            вот так же -- дескать, все дела рук человеческих -- грех один. А я и говорю: "Ты, милый,
+            положи хлеб-то, не тронь его, не ешь, он руками сделан. Не греши-ка, друг, да уходи
+            вон..." Так и прогнала.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(ворчит).</stage>
+          <p>А может, правда-то его...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(не слушая, звонит).</stage>
+          <p>Мудрят всё... Захар не мудрил, да из простых мужиков вот куда дошёл.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(встаёт).</stage>
+          <p>И помирает.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, что ж? Пожил!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Вы жаловались на него...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Это баба жаловалась. Распутник он был всю жизнь... от распутства и помирает... А кроме
+            этого, ему цены нет... нет похвалы достойной.</p>
+        </sp>
+        <stage>(Входит Липа.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(уходя).</stage>
+          <p>Вы всегда то одно, то другое говорите...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Дура... <stage>(Липе.)</stage> Кто вчера вечером у Прохора был?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Евгений Мироныч какой-то...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Адвокат из города... не знаешь? О чём говорили?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Не слыхала.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Почему?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Заперлись они...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А через отдушину в печи? Забыла?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Тихо они очень...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Смотри ты, еретица!</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Васса Петровна! Да я ли...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Помни, кто ты есть!</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>В монастырь бы я...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Монастырь? <stage>(Задумалась.)</stage> Я те дам монастырь! <stage>(Мягче.)</stage> О
+            тебе заботятся... Вытри рожу, ну? Отпусти тебя, -- ты пропадёшь! Позови Михаила... Ты
+            что, Павел?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(в двери).</stage>
+          <p>Так.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Всегда -- так. А что такое -- так?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ничего...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(смотрит на сына с недоумением).</stage>
+          <p>Господи Исусе... откуда это идёт? Какие-то всё никудышники... бездельники...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Что же мне делать? Места я себе не нахожу... сердце умирает...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Коли не умеешь с бабой справиться, -- терпи... до поры...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>До какой? Эх, мамаша, жестокий вы человек...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Я-то? Так!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Сыном своим вы готовы землю копать, как лопатой, лишь бы денег добыть...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Шёл бы ты, Павел, в монахи!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(изумлённо).</stage>
+          <p>Я? Зачем?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А куда тебе деваться?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(пугливо).</stage>
+          <p>Мамаша... вы -- серьёзно?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну да...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(обозлился).</stage>
+          <p>Нет уж... это вам не удастся! Ишь вы... а-а? Нет-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты с кем говоришь?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>С вами!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(негромко).</stage>
+          <p>Вон!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(уходя).</stage>
+          <p>Не боюсь... ишь вы!</p>
+        </sp>
+        <stage>(Васса проходит в кабинет, садится за стол, разбирает бумаги, поднося их к лицу, руки
+          у неё трясутся.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(бормочет).</stage>
+          <p>Для чего всё? Для кого? <stage>(Бросила бумаги, сняла очки и сидит неподвижно, суровая,
+              тоскливо глядя перед собой.)</stage></p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(входит, злой).</stage>
+          <p>Вы меня звали?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что это ты как говоришь?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Как?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Больно сердито. Погоди, сударь мой, я ещё хозяйка здесь...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(уныло).</stage>
+          <p>Ничего нельзя сообразить. Задёргали меня... Семён Захарыч смеются только...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, ладно! Ты знаешь, что у Прохора адвокат был?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Знаю!.. Эта Липа ваша....</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Да... не сумела.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Пугнуть бы её...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Как будто разучилась она бояться-то...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Не может этого быть! Детоубийство -- не шуточка-с!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Опасно тоже... Ребёнок-то Семёнов был...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Недоказуемо! Клейма фирмы на дитё не положено. Просто -- ребенок! И -- мать налицо, а
+            его -- нет...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты бы поговорил с ней... построже!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Можно-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Поговори-ка. Мужчине -- сподручнее. Пугни да приласкай... Ну, с Прохором беседовала
+            я...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Что же?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Говорит -- разорю...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Может-с!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(опуская глаза).</stage>
+          <p>Да... вот какие дни пришли!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(тихо).</stage>
+          <p>Требуют серьёзных мер...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(не глядя на него).</stage>
+          <p>Что ты думаешь?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>У меня одна надежда -- сердце его слабое... Этакие в одночасье помирают...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Пустяки! Он нас с тобой переживёт.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Дело божие-с. Лекарства он принимает всё чаще, -- я это по счетам аптеки знаю. Фершал
+            Яков говорил -- опасные это лекарства...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Лекарство, а -- опасное! Врёт Яков спьяна...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Два их... Одно -- против сердца, а другое -- неловко сказать... для крепости в
+            обхождении с дамами...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Старый чёрт!..</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Яков опасался -- микстуры, говорит, одна другой противоречат, во зло употреблять их
+            нельзя-де. Если увеличить порцию...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Пьяный болтает, а ты -- слушаешь... Так поговори с Олимпиадой-то...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Обязательно. Ежели бы они скончались теперь...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Ты, батюшка, словно травить его собираешься... Опомнись!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Господи помилуй! Что вы? И в мыслях не было-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Будь осторожнее... в словах-то...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Ф-фу... испугали вы меня...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Бояться -- нечего...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Даже -- обидно-с...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Обиды тут нет. Мне не расчёт обижать тебя. Я только тогда спокой вижу, когда с тобой
+            говорю...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Вы не забудьте, что всю жизнь я вам служил... за совесть... И даже дочь... единую
+            мою... которая после вас...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, ну, полно... полно, дружок... Мы ещё, слава богу, жить можем, погоди! А за Людочку
+            -- меня не вини! Я её люблю... я против была...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(вдруг с глухой яростью).</stage>
+          <p>Он! Знаю-с... Он! У всякого жулика свой расчёт... я его расчёт верно понял! Девицу
+            любовницей сделать -- побоялся, выдал её замуж за племянника... знаю-с!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Ты не откладывай надолго с Олимпиадой-то...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Будьте покойны... клятву дал себе-с!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Сам-от поспокойней будь...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Когда я горячился?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, иди... иди! Насчёт духовной-то, смотри...</p>
+          <stage>(Михаил почтительно наклонился, поцеловал её руку, она ответила поцелуем в лоб и
+            дважды погладила голову его. Он ушёл, выпрямившись, как солдат; проводив его взглядом,
+            Васса снова садится за стол, невнятно бормочет, разбирая бумаги. Осторожно входит Анна,
+            смотрит на мать, сначала -- насмешливо, но скоро лицо её становится ласковым и
+            грустным.)</stage>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Мама...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(обернувшись).</stage>
+          <p>Анна... Анюта...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Одна, как и раньше, бывало... седенькая мамочка... Здравствуй!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Слава богу... как это ты хорошо вошла! Что депешу-то? А я всё депешу ждала...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>А не меня? Как отец?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(заглядывая в столовую).</stage>
+          <p>Плох... Видел тебя кто-нибудь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Юноша какой-то, открыл дверь и убежал... даже не спросил, кто я...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Митька из конторы... разиня! Ну, вот хорошо! Стой-ка, я дверь-то притворю... поговорим
+            одни... чтобы знала ты... Ах, офицерша!.. Ишь, какая стала! Ах ты, военная...
+              <stage>(Затворила дверь; взволнованная, берёт дочь за руку, садится на
+              кушетку.)</stage> Ну, Анна...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(тихо).</stage>
+          <p>Значит, отец...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не встанет... <stage>(Сразу впадая в деловой тон.)</stage> Беда идёт на нас, Анна! Дядя
+            хочет свои деньги вынуть из дела... а кто ему деньги нажил? Чьей работой они выросли?
+            Захаровой да моей! Что он делал, Прохор-то? За бабами гонялся, театры заводил... Куда
+            ему деньги? Один...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(хмурясь).</stage>
+          <p>Подождите...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты -- слушай! Семён -- у жены в руках, а она -- блаженненькая какая-то... и тоже
+            выделиться уговаривает его. Павел -- несчастный человечишка... жена у него, -- ты её
+            знаешь, он на Людмиле женился... не пара она ему и будто гулять начала! Не верю в это
+            я... брезглива она! Ничего понять не могу, Анна!.. Затем тебя и выписала, -- ты со
+            свежего воздуха, ты, может, увидишь, что делать... чтобы хоть греха поменьше
+            вышло...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(внимательно).</stage>
+          <p>Вот как... да? Разоряемся?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Рушится всё дело! Тридцать лет работы -- всё дымом, дымом! Годы были -- тяжелые, убытки
+            -- большие... Работников -- нет, а наследников -- много... А наследники -- плохи! Для
+            чего трудились мы с отцом? Кому работали! Кто грехи наши оправдает? Строили -- года,
+            падает -- днями... обидно... Непереносно!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Завещание отец подписал?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(осеклась, не сразу).</stage>
+          <p>Духовную? Не... не знаю...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(недоверчиво).</stage>
+          <p>Не знаете? Вы?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Наверно -- написал... Ты подумай, какое дело падает!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Да...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Вот! Ты поговори с братьями-то... мне они не верят, сыновья мои! Думают, что я всё в
+            свои руки хочу схватить. А тебе -- должны поверить, Аннушка! Ты человек -- без интереса,
+            ты -- выделена из наследства... прогнана отцом...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(встала).</stage>
+          <p>Выделена? Дали мне -- бросили, как нищей, десять тысяч и -- всё?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(усмехнулась).</stage>
+          <p>Расписка твоя есть... расписка в том, что ты всю свою часть получила.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(ласково).</stage>
+          <p>Что же такое расписка? Вы мне её подарите, мамаша!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(как бы шутя).</stage>
+          <p>За какие услуги, сударыня моя?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(задумчиво).</stage>
+          <p>Услуги? А вот, дайте всё понять...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(следит за ней).</stage>
+          <p>Ну, ну, понимай! Как живёшь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(неохотно).</stage>
+          <p>Так себе.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что твой-то?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Подполковника получил после летних маневров. Батальон дали ему...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А -- пьёт?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Офицер, да не пил бы! Болен. Скоро, пожалуй, вдовой буду...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(с улыбкой, тихо).</stage>
+          <p>Прошла любовь-то, а?</p>
+        </sp>
+        <stage>(Анна молча усмехнулась.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>То-то! А как тогда кипела! Говорила я тебе...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ну, это мы оставим, мамаша!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(разглядывая её).</stage>
+          <p>Решительно говоришь... И сидишь смело -- нога на ногу... да вот и табак куришь!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Курю.</p>
+        </sp>
+        <stage>(В столовой -- Павел. Тихо подходит к двери, слышит голоса и прижимает ухо к
+          двери.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не пристало бы даме-то...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ко мне -- идёт.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А одета благородно.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Умеем.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Внучата как живут?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(гордо).</stage>
+          <p>Дети у меня здоровые, весёлые...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Первый-то помер ведь...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Да... Тот был больной... слабенький...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Так! Первый -- больной... а потом, слава богу, здоровенькие пошли... от больного-то
+            мужа...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(покраснела, взглянула на мать и тихонько смеётся).</stage>
+          <p>Умная вы, мамаша...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(довольна).</stage>
+          <p>Ну, надо братьев позвать...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Знали они, что я приеду?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(идёт к двери).</stage>
+          <p>На что им знать это... <stage>(Отворила дверь -- Павел отскочил, но не успел убежать,
+              запнувшись о стул. Мать смотрит на него, он сконфуженно трёт себе колено.)</stage></p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(тихо).</stage>
+          <p>Всё равно... не слышно ничего...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не слышно? Это горе!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(зло).</stage>
+          <p>Свой я или нет? Мне сказали -- дама приехала с чемоданами...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты бы постучал в дверь-то, а я бы отворила тебе...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(выходя).</stage>
+          <p>Здравствуй, Павел!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(матери).</stage>
+          <p>Ну, не догадался я! Здравствуй, Анюта!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Вот, спроси его, почто он подглядывает за матерью? <stage>(Идёт в
+            столовую.)</stage></p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ну да... Уж и подглядываю!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(улыбаясь).</stage>
+          <p>Рад меня видеть?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Конечно. А то у нас -- как в сумасшедшем доме.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(тихо, заглядывая в столовую).</stage>
+          <p>Мать всё такая же?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Хуже стала. Хочет всё в свои руки забрать.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Да ведь и так всё в её руках...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Не будет этого, когда папаша умрёт! Шабаш! Мы уже не маленькие -- мне двадцать четыре,
+            а Семён на три старше...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Дружно живёте?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Разно. Он -- дураковат, Семён-то...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>А жёны?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>У него жена -- хитрая... Толстая, а -- хитрая! Красивая ты стала! И одета особенно...
+            хорошо! А у нас, как в больнице, все ходят -- платья чёрные да полосатые...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(обняв его, ходит).</stage>
+          <p>Ты на Люде женился?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ну да. И делать у нас ничего нельзя. Я вот начал старинные иконы покупать у староверов,
+            за рекой, -- мать загрызла: богу, говорит, не молишься, а денег тратишь много! Не
+            понимает, что тут десять рублей на рубль можно взять... Выгоднее всего -- старинными
+            вещами торговать... в городе один торговец купил шесть тарелок за девять рублей, а
+            продал -- за триста двадцать... вот как! А мы тут... кирпич, изразцы, дрова, торф...
+            дьявол идёт!.. У-у!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(входя).</stage>
+          <p>Ба-а! Сколь шикарная дама однако! <stage>(Растопырив руки, разглядывает племянницу,
+              вкусно прищёлкивая языком.)</stage> Браво! Ну, поцелуй...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>А вы, дядя, не смущайте.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Тебя-то? Гм... с такими глазками не смущаются... врёте-с!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>А вот -- Семён! Ух, какой толстый!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(рад).</stage>
+          <p>Анюта! Вот хорошо... Господи! Как я рад, ей-богу... ну -- ах ты! Сколько время не
+            видались?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ты с женой-то познакомь!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Обязательно! Наташа, вот она -- Анюта! Помнишь, я тебе говорил, колошматила меня
+            всё?..</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Мало!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(Наталье).</stage>
+          <p>Мне приятно видеть вас... будемте друзьями...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Хорошо-с...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Бум!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Она у меня -- тихая! Староверка, в корчаге крестили...<note place="foot">корчага --
+              большой глиняный горшок или чугун, чугунник, развалистее горшка. Т. е. крестили дома,
+              не в церкви, по обычаям староверов -- Ред.</note></p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>В огромной корчаге!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(Павлу).</stage>
+          <p>А Людмила где?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(захваченный врасплох).</stage>
+          <p>Не знаю. <stage>(Семён фыркнул, все замолчали на секунду.)</stage> Спит она.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ты ведь её знаешь!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Она красивая была...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ого! Ты на неё теперь взгляни! Зверь!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Похвалил!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Это он назло мне. Они все смеются надо мной...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Ну, полно, что ты!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Они меня со свету сживают, Анна!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ой, как страшно! <stage>(Обняла Павла за плечи и отводит его в угол, что-то говоря; он
+              ворчит и машет руками.)</stage></p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(Семёну).</stage>
+          <p>Хороша сестра-то?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Да-а...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Только глаза очень блестят...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>На мать похожа...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Фигура-то! Грандама...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ой, какая разбойница была!.. Колошматила она меня...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Нехорошо, что Людмила не идёт, неуважительно к Анне Захаровне...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(входит).</stage>
+          <p>Анна Захаровна, позвольте поздравить с возвратом под свой кров...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(негромко).</stage>
+          <p>Свой... это как же?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Чему безмерно рад-с...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы не постарели, дядя Миша, и молодец! Рада видеть вас...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>И я! Душевно...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(Наталье).</stage>
+          <p>Нравится она тебе?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Ничего... Пёстрая только очень...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Она же в один цвет одета! Ю!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Да я вижу. Это я -- так...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Это -- куриная слепота...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(входит заспанная, растрёпанная, но красивая. Бросается к Анне).</stage>
+          <p>Нюта...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(обнимая её).</stage>
+          <p>Людочка...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Нюта... ой, как хорошо...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Какая ты стала...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Точно солнышко ты...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Нытьё началось...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(в дверях).</stage>
+          <p>Анна!.. Иди к отцу-то...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Что -- плохо ему?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Погодите ещё радоваться-то...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Я тебя спрашиваю, дуга?</p>
+        </sp>
+        <stage>(Павел, забежав за стол, показывает дяде язык.)</stage>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(хохочет сквозь слёзы).</stage>
+          <p>Смотри, папа!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(идя к Павлу).</stage>
+          <p>Пашка, уши надеру!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Троньте...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(дочери).</stage>
+          <p>Ты -- уйди...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(оживлённо).</stage>
+          <p>Дядя -- загородите стулом дорогу-то ему! Павел -- под стол катай, эх ты!..</p>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+      <div type="act">
+        <head>Действие второе</head>
+        <stage>Вечер. В столовой полутьма. Перед камином -- Людмила. Анна, с папиросой, задумчиво
+          ходит по комнате.</stage>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Жалко, что ты не писала мне...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ну... я и адреса твоего не знаю.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Если б хотела...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Следят за мной: муж, отец... И о чём писать, что тебе интересно?..</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>О себе... обо всех...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ничего не понимаю я. За два года -- поглупела, обозлилась...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Зачем ты вышла замуж за Павла?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Надо было.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Да?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Да.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Как это ты? Такая осторожная...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Время было такое... особенное. Везде -- бунты, забастовки эти... точно уборка перед
+            праздником... И всё уборка да уборка... а праздника -- нет. Подвернулся один...
+            красавец... мальчик почти... Рябой был, а красив.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Где он?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Пропал. Не знаю -- где.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Павел знает?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Нет. Никто не знает... кроме дяди.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Как же...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Так уж. Дядя Прохор научил... Хороший был тот... рябенький-то... удивительно ласковый и
+            добрый...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>А что за человек дядя Прохор?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Так... купец весёлый... Тоже ласковый... Приласкает, а потом -- отдавай назад... с
+            процентами. <stage>(Другим тоном.)</stage> Ну, бог с ним! Не хочу плохо говорить о нём,
+            -- он всё-таки сделал мне однажды доброе, сделал! А мы ведь не нищие и должны добро
+            помнить, так, Анна?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(равнодушно).</stage>
+          <p>Не знаю.</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(улыбаясь).</stage>
+          <p>Близкий мне человек один -- мать твоя... И не говорю я с нею никогда почти, и она меня
+            не спрашивает ни о чём, -- разве пожурит порой за Павла... А сердцем я знаю, что только
+            она меня жалеет и любит... Не будь её, -- ух, что бы я сделала!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(нахмурясь).</stage>
+          <p>Вот как!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(весело).</stage>
+          <p>Вот придёт весна -- начнём мы с нею в саду работать... Ой, Анна, хорошо это как --
+            помогать земле в цветы рядиться! На самом восходе солнышка постучит она ко мне,
+            мамаша-то: "Эй, -- скажет, сердито так, -- вставай-ка!" И пойдём обе молча, почти на
+            весь день, вплоть до вечера... Не узнала бы ты сад, кабы лето теперь! Вот разросся, вот
+            украсился! Прошлой весною одних цветочных семян больше, чем на сотню рублей купили!
+            Сливы какие, яблони, вишенье! Прививки училась делать я, к мужикам на село хожу
+            прививать -- садовница совсем! Книжку мне мать купила о садоводстве -- учись, говорит,
+            это честное дело! Мужики, видя наши-то успехи в саду и огороде, жён присылают по семена,
+            прививочку попросить... мужики меня уважают! Хорошо жить весной, летом, осенью... а зима
+            -- трудна и мне и ей... Тесно как-то нам в доме... Не говорим ничего, а обе знаем, что
+            думаем... Ты что скучная какая стала?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Не знаю... Такая ты красивая, молодая...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>А вот, как начнём работать весною -- погляди, какая буду я! Ах, сад наш! Войдёшь в него
+            утром, когда он росой окроплён и горит на солнце, -- точно в церковь вошла! Голова
+            кружится, сердце замирает, петь начнёшь -- точно пьяная! Перестану, а мамаша кричит --
+            пой! И над кустами где-нибудь лицо её вижу -- ласковое, доброе, материно лицо!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(тихо, точно не веря).</stage>
+          <p>Ласковое? Доброе?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ну да! А что? Помнишь, как мы с тобой в саду этом играли?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(входит).</stage>
+          <p>О чём сплетничаете?.. <stage>(Зажигает свечи в люстре.)</stage></p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Зачем это?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Тобой любоваться хочу!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Погаси...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Не погашу!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Урод!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Вот, Анна, с каким дьяволом связали меня... на всю жизнь.</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Врёшь! Ты сам на коленках ползал передо мной, как нищий...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Перестаньте!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ты понимаешь -- он ничего не может сделать со мной... так дразнит меня разными
+            пакостями. Подарили мне кота сибирского -- отравил...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Он меня царапал... Вовсе я не травил его... он сам объелся...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(вскочила).</stage>
+          <p>Молчи, обезьяна! Видеть не могу... <stage>(Быстро уходит.)</stage></p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(тихо).</stage>
+          <p>Убежала... ага! Видеть не можешь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Что же ты думаешь делать, Павел?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Ничего. Мне -- нехорошо, пусть и она терпит! <stage>(Вдруг искренно и горячо.)</stage>
+            Анюта, помоги мне, Христа ради! Я тебе подарю что хочешь... денег, если надо, денег дам,
+            когда папаша умрёт! Господи -- я всё отдам... всё!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(задумалась).</stage>
+          <p>Что я могу сделать?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(тихо, жалобно).</stage>
+          <p>Ты по любви вышла замуж, -- научи её любить меня... научи её! Я её так люблю -- меры
+            нет! Спит она, а я стою на коленках у кровати: "Люда, Людочка, никто тебя не полюбит,
+            как я! -- так и шепчу ей всю ночь до утра... -- У всех что-нибудь есть, а я уродливый,
+            мне больше не для чего жить, как для тебя", -- говорю я ей, а она -- спит... Анна,
+            помоги мне!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(торопливо).</stage>
+          <p>Успокойся, кто-то идёт...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Что мне? Пусть все идут... все знают!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(входит).</stage>
+          <p>Паша, матушка зовёт... <stage>(Подозрительно смотрит на них.)</stage> Скорее, она
+            сердится.</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(уходя).</stage>
+          <p>Она всегда сердится.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(следуя за ним).</stage>
+          <p>Ты там мальчишку побил конторского...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ну так что? Их надо бить...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(Наталье).</stage>
+          <p>Наташа, подождите минутку.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(возвращаясь).</stage>
+          <p>Хорошо.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ф-фу... точно он избил меня!..</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>На супругу жаловался?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы с ним, кажется, хорошо живёте?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Я -- со всеми одинаково.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Не скучно это?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Почему же?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Да вы такая молоденькая... развлечений здесь нет...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>А муж?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(улыбаясь).</stage>
+          <p>Этого довольно?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(поучительно).</stage>
+          <p>Он очень старается, чтобы не скучно было... и смешит, и всё. К тому же время теперь
+            вовсе не такое, чтобы смеяться хотелось...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(заинтересована).</stage>
+          <p>Да-а?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(убеждённо).</stage>
+          <p>Конечно! Теперь уж невозможно жить, как раньше... надо переезжать в город... и всё
+            должно быть иначе...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(серьёзно).</stage>
+          <p>Как же?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Не могу ещё объяснить... я очень много думаю об этом, а -- не знаю... Только -- надобно
+            жить в укреплённых городах, где много полиции и войско есть...
+              <stage>(Воодушевляясь.)</stage> После этих страшных годов тихие люди переводятся,
+            сестрица Анна. Все начали думать и тайно друг с другом говорить... и ходят разные
+            люди... у нас тут заходил один, так он уговаривал всех, что всякое дело -- грешно и
+            делать ничего не надо! Я очень испугалась тогда... вы подумайте, что это может быть,
+            если опять никто не будет работать?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Какая вы однако...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>У меня ребёнок больной, и по ночам я мало сплю, а всё думаю о разных разностях. Но я
+            ещё молоденькая, и меня не слушают, когда я говорю... а вот вы, спасибо вам, слушаете...
+            Это мне очень приятно.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(входит, сердитый).</stage>
+          <p>Где Васса?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Не знаю.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>На завод ушла.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Чертовка...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Откуда вы такой?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Грязен? С голубятни. Ефиопы -- три месяца прошу лестницу поправить -- не хотят! Это --
+            нарочно, Анна, так ты и знай! И если я в погреб слечу, шею сверну, -- это будет
+            подстроено, да! Это будет Пашкина хиромантия!..</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ой, дядя, ну что вы говорите?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Знаю что... Ты -- не знаешь, а я... прошлый раз сижу на голубятне, а кто-то тихонько
+            открыл творило погреба, лестницу подвинул на самый край и дверь со двора захлопнул.
+            Темно. Пол -- сырой на погребе... едва-едва не слетел я. Это как понять? Чьи сии дела
+            уголовные, а?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(Анне).</stage>
+          <p>Если Пашу дразнить -- он может великий грех сделать, я внушала Людмилочке это...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Вот -- видишь? И Валаамова ослица так же глаголет...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Вы совсем напрасно сравниваете меня с ослицей...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ну, ну! Ты вспомни, кто её устами говорил...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Мне это всё равно... я купеческая дочь...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы, Наташа, напрасно укрепляете враждебные мысли дяди...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Страшные мысли нельзя скрывать. Вы сами знаете, что несчастные люди очень злые
+            всегда...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(весело).</stage>
+          <p>Каково? Экая голубица со змеиным умом, а?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(обижена, уходит).</stage>
+          <p>Ум очень простой... извините! Это самый человеческий ум...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ой, дядя... зачем вы с ней так?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ничего, съест! Не люблю эту тёмненькую душу в тёмном платье! <stage>(Смеясь.)</stage>
+            Знаешь, слышал я однажды, как она о будущей жизни мечтала с мужем. <stage>(Передразнивая
+              манеру Натальи.)</stage> "И вот, Сеня, лежу я в лиловом капоте бархатном, а под ним
+            одна кружевная рубашка... или сижу на эдаком кельк шозе"...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(улыбаясь).</stage>
+          <p>Шезлонг, должно быть...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ну -- всё равно! <stage>(Снова передразнивая Наталью.)</stage> "И приходят с визитом
+            разные лица: тут и полицмейстер, и судьи, и градской голова -- весь город!.. И все тебе
+            завидуют, глядя на меня, -- ай да Железнов! Вот так жена у него, да-а! А я -- эдак
+            ножкой двину, а то плечико покажу -- пускай их ещё больше зубами-то скрипят..."
+              <stage>(Хохочет.)</stage> Хороша иллюстрация, а? Сенька, дурак, ржёт...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(серьёзно).</stage>
+          <p>Странная женщина... Не понимаю я её! Такая... как бы немудрая...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Чёрт лучше знает, какая она... Иной раз она, брат, так ворочает глазищами своими... Ах,
+            и надоели они мне!..</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Что ж вы живёте с ними?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Бум! Сказала тоже! Завязли тут все деньги мои, по милости Захара... Вот выдерну их, и
+            -- прощайте, единокровные мои жулики!..</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Куда же вы?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>В Москву, в столицу! <stage>(Наклоняясь к ней, таинственно.)</stage> У меня, брат, есть
+            -- некоторый плод любви несчастной... ха-ароший, Анна, зреет плод!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вот как?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Бум! Студент уже... превосходнейшая рожа!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>И -- мать?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(не сразу).</stage>
+          <p>Скончалась... жаль! <stage>(Снова веселее.)</stage> Зовёт он меня неожиданным отцом --
+            весёлый чёрт! И -- ничего не просит, а? Видела эдаких? Не нашей крови, нет... Пьёт,
+            чёрт, несколько... Театрал, всех актрис знает... Учится на мифологическом...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Филологическом.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(убеждённо).</stage>
+          <p>Нет, я верно сказал -- есть мифология наука... он, брат, мне рассказал подробно, и даже
+            я сам читал про греческую войну, про Одиссея... Вот, брат, шельма была Одиссей! Врал --
+            замечательно! Будто вплоть до ада снисходил, понимаешь? И будто в аду -- ничего не
+            страшно, а только -- скука большая?.. Пётр этот, мой-то, тоже врать здоров!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(входит).</stage>
+          <p>Мир беседе. На кого это Наталья обозлилась?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Она? Как же она злится?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Стоит середь зала и кисти у платка обрывает... белая вся, даже досиня...
+              <stage>(Прохору.)</stage> Там вас голубятник спрашивает.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(расхаживая).</stage>
+          <p>Подождёт...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(глазами и осторожными жестами просит, чтобы мать ушла. Васса недоверчиво смотрит
+            на неё).</stage>
+          <p>Семён воротился из города?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не знаю... и мне он нужен бы... пойду, погляжу... <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Давай в карты играть, а? Позовём Людмилу, Наталью...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ну что ж, давайте... Так, значит, уходите вы из дела?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Обязательно. Стар становлюсь... и вообще -- какое это дело? Боязно чего-то, видишь ли!
+            Бывало -- идешь по селу -- барином себя чувствуешь... а теперь хоть и по-прежнему низко
+            кланяются люди, но это они для того, чтобы злые глаза свои спрятать... Какая это жизнь?
+            Вот это, брат, и есть греческая Илиада -- все друг друга по башке норовят ловчее
+            стукнуть... К тому же и делец я был всегда не ахти какой... а теперь к чему мне оно,
+            дело?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(входит).</stage>
+          <p>Кто меня звал?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Мамаша.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>А она говорит -- ты! Стало быть, никому я не нужен? Ну, это хорошо!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Бум! Пойду за Людмилой. Семён, в карты хочешь?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Можно. Ай, братцы, славно в городе! Твёрдо всё -- дома каменные... светло, чисто... И
+            люди другие -- разговор широкий... про всё знают... Дума там, политика разная... случаи
+            интересные...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(уходя).</stage>
+          <p>Барыньки красивые...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Пошёл... бабник!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ты серьёзно думаешь, что он с Людмилой... шалит?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(с удовольствием).</stage>
+          <p>Шалит? Ишь ты... а я ждал, как ты это скажешь! Назвала ловко... Вот он, город... всему
+            учит! Да, он, дядя, конечно, шалит... да ещё как... Я сам слышал, как он её учил
+            однажды... у меня глаза на лоб со стыда полезли...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Чему -- учил?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ну, это нельзя сказать, совестно.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Чай, я замужем!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Всё равно... да я и не понял толком-то... насчёт детей... как надо, чтобы дети не
+            родились... Ну его! Баловник... дело его не утешает...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>А тебя?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Меня-то? Видишь -- радости в изразцах да кирпичах немного... к тому же народ стал
+            угрюмый... стражники да строгости... пьянство да драки... скушно это! Помрёт папаша, --
+            в городе буду жить... совсем иным сам себя видишь, когда вокруг все люди
+            одинаковы...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ну, а кто же дело вести будет?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Дело-то? Его -- сократить... торф невыгодно работать... а остальное -- мать да
+            Михайло... пускай они копаются... А в городе -- открою я магазин золотых вещей... н-да!
+            На главной улице, на Дворянской.... И вывеска: ювелирный магазин Семёна Железнова --
+            ювелирный! И слово такое мягонькое -- ю! Над магазином -- квартира будет... Фисгармонию
+            куплю, буду играть на ней... ю!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(бежит).</stage>
+          <p>Анна, иди, уйми их...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(испуганно).</stage>
+          <p>Кого? Кто?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Дядя Прохор Павла бьёт...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Вот... пожалуйте! Вот те и ю! Анна, что же ты, иди!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Куда я пойду? Ударят ещё! Иди ты сам!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(идёт).</stage>
+          <p>Я... ну что я! Полицейский какой...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Господи -- что же это? Какая это жизнь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ничего, Люда...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Хоть бы уж дядя убил Павла... так жалко его... так он противен!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Из-за чего они?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Павел сказал, что не пустит меня в карты играть, а мне это смешно стало... он меня
+            толкнул и заорал, а дядя за волосы его...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(спокойно).</stage>
+          <p>Мужичьё...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Противно...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Так ли бы тебе жить!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Дорого стоит счастье, хоть и маленькое... <stage>(Задумчиво.)</stage> А всё-таки
+            вспомнишь о нём -- и легче... Ах, Анюта, как хорошо, когда мужчина от радости плачет
+            пред тобою, -- такой он милый тогда... такой дорогой... знаешь это?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(обняла её).</stage>
+          <p>Да-а... о, я знаю...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Чувствуешь себя в такую минуту богатейшей королевой -- да ведь? И так уж ничего не
+            жалко тебе, так не жалко -- хоть смерть примешь...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(идёт).</stage>
+          <p>Что за шум у вас?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(бросаясь к ней).</stage>
+          <p>Ах, мама, сделайте что-нибудь!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, что ещё натворила?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ничего! Они там, Павел с дядей, подрались...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Опять! Просила я тебя, Людка...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Не могу! Вы всё знаете... вы понимаете, ведь -- не могу быть ласковой! Вы сами говорили
+            -- мужчину не обманешь...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну иди, ступай... уговори их... дураки оба...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(идёт).</stage>
+          <p>Что я пойду?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Это у вас часто?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(села у камина).</stage>
+          <p>Третий год... Иной раз так за сердце схватит... всех бы... взяла да и... Жалко мне
+            Павла! Ой, Анна, жалко...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Людмиле тоже не сладко.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ей? Она -- не сдаст...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Что у неё с дядей Прохором?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не Прохор он, а прохвост! Узнал девичий секрет один... ну и пользуется... да!
+            Пользуется, пёс!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(тихонько).</stage>
+          <p>Вот что, когда вы ляжете, я приду к вам.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(насторожилась).</stage>
+          <p>А что? Зачем?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Надо поговорить. Они тут исповедовались.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Прохор?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>И он. Вы знаете, что у него сын есть?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не один, поди-ка! Ну?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Одного -- усыновить хочет.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(поднимаясь).</stage>
+          <p>Врёшь? Пугаешь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Так говорит.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну вот... и -- конец! Зачем работали? Чем гордились? Нет, нельзя... это -- нельзя!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Семён в город переезжать хочет...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Так... Ну?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>И Павел тоже!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(грубо).</stage>
+          <p>Молчи! Я ему найду место!.. <stage>(Тише.)</stage> А сама я куда? Куда меня, а?</p>
+        </sp>
+        <stage>(Идут возбуждённые -- Прохор, Семён и Наталья.)</stage>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Наташа! Да перестань...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Уймите мне эту дуру!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Кроме меня, кто здесь правду скажет?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Наташа, ты вспомни -- ю! Ну, какое тебе дело? Плюнь!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что у вас такое?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Невестушка ваша изволили взбеситься -- пожалуйте!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(Прохору).</stage>
+          <p>Вы Пашу в дикого человека сами обратили...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Семён, чёртова башка!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Дядя, вы здесь самый умный...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Я? Меня давно с ума свели... Ты знаешь -- он, шельма, ножиком на меня замахнулся,
+            а?</p>
+        </sp>
+        <stage>(Вошла Людмила, села в углу и оттуда неподвижно смотрит на всех.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Вы во всём виноватый...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Семён! Есть у тебя власть над женой?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Будет вам, мамаша! Всё власть да власть, а и командовать некем...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Нет, уж я скажу всё! Вы Людмилу испортили...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Дура ты! Да она -- до замужества... <stage>(Заметил Людмилу.)</stage> Нет, каково,
+            Анна?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Расскажите -- что же я сделала до замужества-то?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(строго, тихо).</stage>
+          <p>Людка! Молчи... что ты?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Идите вы все в болото!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Замахнулись, так бейте!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(уходя).</stage>
+          <p>Подождите же! Я вам наступлю на языки!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Струсил... эх!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Я тебе говорю -- молчи!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Всё равно, мама! Теперь Павел узнает... всё узнает!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(жене).</stage>
+          <p>Идём! Тут другое начнётся...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Вот Наталья, она уж не промолчит!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(уходя).</stage>
+          <p>А ты что думаешь? Я правде не изменница...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ты помни -- ю! И больше ничего!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ой! Кожу бы всю оставила, только вырваться... только вырваться!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Вот Анна... видишь? Никто ничем не связан... никто! Схватить и -- бежать!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Мне хватать нечего... мне не надо ничего! Жизнь оставьте, жизнь...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(идёт, лоб у него завязан).</stage>
+          <p>Мамаша -- денег мне.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ещё один...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(полуплача, полусмеясь).</stage>
+          <p>Ах, хорош! Господи...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(тихо).</stage>
+          <p>Мать вы мне? Анна -- скажи ей... отпустите меня...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(странно).</stage>
+          <p>Я тебе скоро найду место, Павел.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Мой совет -- отпустите его! Дядя бог знает на что способен...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Не боюсь я его!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вот он прибил Павла...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Врёт!..</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Паша -- человек слабый... но и слабый, рассердясь, может...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(пристально глядя на неё).</stage>
+          <p>Перестань!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Что ты, Анюта, словно подсказываешь...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Людмила, уйди! Павел, ты тоже иди... я приду к вам! <stage>(Они оба уходят, Васса
+              прошлась по комнате, остановилась против дочери.)</stage> Ты что это задумала?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(простодушно).</stage>
+          <p>Я? Что?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не притворяйся! Понимаю. <stage>(Снова ходит.)</stage> Павел -- сын мне, забыла?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(смущена).</stage>
+          <p>Не понимаю я...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Врёшь. Проста очень ты. Ты думаешь, коли брат дядю изведёт...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Что вы, мамаша! Ф-фу!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Тебе выигрыш?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Да я и...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(угрюмо).</stage>
+          <p>Не больно ты умна... нет! Кто там ещё?..</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Вечер добрый!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, что?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Нехорошо... Дышит тяжко очень.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Прибрал бы господь скорее!.. Пятая неделя пошла, как он задыхается. Глаза-то ясные...
+            видно, всё понимает... Отмучался бы...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Немного осталось, как видится.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(идёт).</stage>
+          <p>Ты подожди меня тут...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Плохо у вас живут, Михаил Васильевич!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Хуже невозможно-с! Всё спуталось... всё!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Чем же это кончится?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Не вижу-с...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Трудно мамаше... А дядя Прохор не хочет помочь, видно...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(подавленно).</stage>
+          <p>Он? Помочь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Почему вы так удивились?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(насмешливо).</stage>
+          <p>Так-с...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Нет, всё-таки?..</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Удивление моё просто! Захар Иванович, батюшка ваш, бывало, говорили, что русский
+            человек частенько глупость свою за совесть принимает по ошибке... <stage>(Липа
+              входит.)</stage> Тебе чего?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Анна Захаровна -- вас дядюшка просит к себе.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Зачем, не знаешь?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>С сердцем у них нехорошо.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(вопросительно, Михаилу).</stage>
+          <p>Что?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(успокоительно).</stage>
+          <p>Это с ним бывает.</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Удушье...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(глядя на Липу).</stage>
+          <p>Удушье... Олимпиада вот знает... <stage>(Анна быстро уходит, он знаком останавливает
+              Липу.)</stage> Ну?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Что-с?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Не знаешь?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Не согласна.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Отчего?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Не могу. Боюсь.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Грешно?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>А нет? Чай, человек это.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Так. Сына удушить -- не грешно, а чужого -- грешно? Ребёнок -- не человек?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(злобно).</stage>
+          <p>Ребёнок! Напомнили-таки! Я его из жалости...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(мягче).</stage>
+          <p>Смотри, дурёха! Прохор твой грех знает...</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>И вы знаете... значит, и вас -- травить?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Ты что орешь? Нарочно? Гляди, голубушка! Я тоже могу невзначай... <stage>(Подходит к
+              ней вплоть.)</stage> А ты не ломайся, будет уж! Иди-ка! Вот сейчас какой случай
+            хороший, ну? Слей из обоих пузырьков побольше и -- дай ему! Ведь не яд, лекарство,
+            пойми! И -- с богом, куда хочешь! Помни: не согрешишь- не покаешься, не покаешься -- не
+            спасёшься... Иди-ка, иди! Али тебе не дорога свобода? Будешь жить на своей воле, а?
+            Награду получишь немалую... Ты -- молодая, тебе жить надобно... не согреша, не
+            проживёшь, Липа!.. не проживёшь!.. Многие... пробовали и -- не могли... <stage>(Липа
+              уходит, уступая его напору; он возвращается, ворча.)</stage> Притворяется тоже...
+            дрянь! Ломака... туда же!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(заглядывает).</stage>
+          <p>Мать где?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>К Захару Ивановичу пошли.</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>А ты с кем говоришь?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Сам с собой...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Нашёл компаньона... тоже!.. Смотри -- он тебя обжулит!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Спасибо, что предупредили! Принимаю это как награду за службу мою вам.</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Как хочешь прими... хоть как милостину. <stage>(Исчезает. Михаил грозит кулаком вслед
+              Павлу, ходит, заложив руки за спину и щёлкая пальцами. Идут Васса, Семён и
+              Наталья.)</stage></p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(Михаилу, угрюмо).</stage>
+          <p>Кончается, кажись, радетель наш...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(опустив голову).</stage>
+          <p>А у Прохора Ивановича опять припадок...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(детям).</stage>
+          <p>Ну, вы чего ходите тут?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Да ведь и вы тоже ходите...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Говори! Пошли за отцом Егором... Ну, а ты что, Наталья?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(уходя).</stage>
+          <p>Наташа -- ю!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что такое? Что он сказал?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Так... Не знаю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не знаешь... Иди-ка к себе.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Там -- боязно.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Чего?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Боязно... Слышно, как хрипит...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты иди, иди! Бояться нечего... все смерти обречены... Я старше тебя, да не боюсь вот...
+              <stage>(Наталья тихо уходит, кутаясь в шаль.)</stage> Испугалась... хлеб есть не
+            боишься... Припадок у Прохора, говоришь?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(тихо).</stage>
+          <p>Да-с... <stage>(Вздрогнул.)</stage> Чу? Вот...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(вбегает, испуганно шепчет).</stage>
+          <p>Слушайте -- Липа отравила дядю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Помер?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Не знаю... нет...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(мечется).</stage>
+          <p>Вот... теперь полицию... надо полицию...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Стой! Куда? Анна -- не суетись...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Она там кричит...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Михайло -- сюда её...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Доктора надо...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(строго, негромко).</stage>
+          <p>Подожди, говорю! <stage>(Вбегает Липа, бросилась к Анне.)</stage> Что сделала,
+            еретица?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(бросаясь к ней).</stage>
+          <p>Ой, сделала... Это он, вот он всё...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Молчать! Первый раз ты лекарство даёшь ему, а? Не знаешь, сколько надо?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа.</speaker>
+          <p>Отпустите меня, бога ради!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты знаешь, что за такие ошибки в тюрьме сидят? Как ты могла ошибиться, а?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(не понимая ничего).</stage>
+          <p>Что будет? Ой, что мне будет?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>А, д-дура! Позвольте, я ей...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(толкая Липу в свой кабинет).</stage>
+          <p>Цыц! Сиди! <stage>(Анне.)</stage> Ну, а ты что, ну? Чего дрожишь, ну? Случилась ошибка,
+            не то лекарство девушка дала... это бывает! Разве не бывает? Хозяин дома при смерти,
+            суета, девушка одна, с ног сбилась...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(тихонько).</stage>
+          <p>Я понимаю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Нечего тебе понимать! Твоё дело -- сторона, да! Иди к нему, помоги там...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(бежит).</stage>
+          <p>Идите скорее -- дядя Прохор...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(невольно).</stage>
+          <p>Умер?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(отшатнувшись).</stage>
+          <p>Ой, сестрица, что вы?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(глядя на Наталью).</stage>
+          <p>Что ты в самом деле, Анна? С чего бы это ему помереть? У него за эту зиму два припадка
+            было -- а жив остался!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Ох, испугалась я... Господи! Сполз он с кровати... дёргается, икает...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Икает! Эка страсть, глядите-ка! Я вот после обеда иной раз тоже икаю, а кто этого
+            боится? Идите-ка к нему...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Идемте, сестрица!</p>
+        </sp>
+        <stage>(Анна, со страхом оглядываясь на мать, уходит за Натальей. Васса идёт в кабинет,
+          подошла к оцепеневшей Липе, толкает её.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Очнись, дьявол!.. Жив он, слышишь? Жив! Чтоб те розорвало, сгинь!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(Олимпиаде).</stage>
+          <p>Ошибочка эта дорого встанет...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Оставь её!</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(падая на колени).</stage>
+          <p>Васса Петровна... это я нарочно сделала... Он научил меня, вот он! Родная моя,
+            пожалейте...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ступай, ступай в свою горницу! Слышала?</p>
+        </sp>
+        <sp who="#lipa">
+          <speaker>Липа</speaker>
+          <stage>(вставая).</stage>
+          <p>Я не виновата... Господи...</p>
+        </sp>
+        <stage>(Пошатываясь, она уходит. Васса и Михаил смотрят друг на друга. Михаил виновато
+          опускает голову.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Дурак!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Значит -- неверно...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>И фершал твой -- дурак!</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Неправильно что-то, я говорю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Да и я тоже... положилась... Ну, что ж теперь делать будем? Иди сюда! Поговорим
+            начисто. <stage>(Идёт в свой кабинет.)</stage> Первое -- Липка: гляди за ней! Чтобы не
+            звонила! Понял?</p>
+        </sp>
+        <stage>Занавес</stage>
+      </div>
+      <div type="act">
+        <head>Действие третье</head>
+        <stage>Столовая. Двери закрыты. У камина Васса, одетая в траур. Анна ходит и курит. Семён
+          сидит за столом.</stage>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(зевая).</stage>
+          <p>Чай бы пить, что ли? Пора уж.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Сорока минут ещё не дошло.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ну их, сорок минут! Жизнь -- чья? Моя жизнь! Хочу -- сорок минут похерю, хочу -- целый
+            час вычеркну. А то -- месяц... <stage>(Кладёт ноги на стул.)</stage></p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Эк тебя, батюшка, корчит.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Да скучно же! Жена -- нездорова... в карты играть -- нельзя... Кровь застывает,
+            ей-богу!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Сорока дён не прошло со смерти отца, а ты -- на-ка! В карты бы...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Сорок дён, сорок минут... извольте радоваться! Наталья тут ещё...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Нервы... Что за нервы? Мне сорок восемь лет...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Опять -- сорок!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А никогда они у меня не болели...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(бросив окурок в камин).</stage>
+          <p>Нервы и у меня не в порядке... Домище -- огромный, гулкий... шорохи какие-то...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Крысы. Да Прохоровы голуби.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Скрип по ночам...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Значит -- сухой дом-от...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Тени шевелятся.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А это не иначе как Липа ходит... это уж она...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ну вас, мамаша, не вспоминайте её...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(задумчиво).</stage>
+          <p>Ходит и ходит...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы ведь не верите, что самоубийцы ходят.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не знаю. Почему мне знать?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Вот завели волынку! Мамаша только в целковый верит...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(безобидно).</stage>
+          <p>Болван ты, Семёнушка! Для кого мы с отцом целковые-то копили? Для детей будто. А они --
+            и не стоят целкового-то... Ты вот внука здорового не мог мне родить... молчал бы,
+            нехотень.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(грубо).</stage>
+          <p>Это вы врёте!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Сеня!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>У меня был здоровый ребёнок...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>От горничной.</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ну так что? Был же? А что горничная, так вы сами меня с нею свели.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>И ребёнок родился мёртвенький. Вот, Анна...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(вскочил).</stage>
+          <p>Вовсе не мёртвый он родился, а она его сама -- она всё Наталье рассказала, нечего
+            врать! Вы запугали её чем-то... и всю жизнь её ребёнком этим пугали... с того она и
+            удавилась... да!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(спокойно).</stage>
+          <p>Вот, Анна, слушай...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(возмущённо).</stage>
+          <p>Как ты можешь говорить... такие пакости, Семён? Это -- ужас...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А ты -- слушай! Ты -- тоже мать, тебе это годится...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Напрасно, Анна Захаровна, подлизываешься ты к матери... не оправдаются расчёты твои,
+            нет! <stage>(Уходит, сильно хлопнув дверью.)</stage></p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Ишь как!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ах, мама! Я только теперь понимаю, как вам трудно должно быть...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ничего. Я -- не обидчива... А ты понимай, тебе это нужно...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Иногда мне даже... боязно за вас...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не бойся... Зачем?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>И не всё понимаю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, всего-то, чай, и никто не поймёт. Вот в моей головушке разные думы роятся... гудят,
+            как осы, а -- нет им ответа, нет разрешения!.. <stage>(Пауза.)</stage> Думала ты, отчего
+            все мужики такие, как будто не от матерей родились, а отцы одни им начало? Да... и ты об
+            этом подумаешь, погоди... Вот я, его, дураково, здоровье оберегаючи, любовницу ему в
+            доме разрешила, а он -- этим же грехом моим немалым -- мне же в зенки тычет... А
+            здоровье-то всё-таки потерял, подлец... на селе где-то схватил чего не надо...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(тихонько).</stage>
+          <p>Неужели правда, что ребёнок...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, а если правда? Ну-ка? Что надо было сделать?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Н-не знаю... я не понимаю -- зачем?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Вот и ты осудила меня! А когда до самой доведётся, -- так же сделаешь, Анна. Допустишь
+            разве, чтобы чужая плоть-кровь твоим трудом жила?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Это -- далеко. Не хочу об этом думать.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Подумаешь, милая... обо всём подумаешь!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Мама! А дядя написал к сыну своему два письма...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(встрепенулась).</stage>
+          <p>О чём? Послал?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Зовёт его сюда...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>К нам? Его? Верно?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(доставая письма).</stage>
+          <p>Вот они, письма...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>У тебя?.. Ага-а! Не посланы... Погоди!.. Что же, куда ты их?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Я думаю, их нельзя посылать...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Так, друг мой! Нельзя! Ни-ни! Ты -- умница! Вот видишь: вот -- баба! Не-ет, не псы дом
+            хранят, мы его храним. <stage>(Подошла к дочери, положила руки на плечи ей.)</stage>
+            Продай!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Что вы, мама!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Сто за оба -- хочешь? Сто!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Возьмите... даже обидно, право...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Не обидно, Анна! Я знаю, что обидно -- глупость обидна. Ты -- мать, помни... для детей
+            -- ничего не стыдно, -- вот что помни! И -- не грешно! Так и знай -- не грешно!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Какая вы... удивительная!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(спрятала письма).</stage>
+          <p>Матери -- все удивительные! Великие грешницы, а -- и мученицы великие! Страшен будет им
+            господень суд... а людям -- не покаюсь! Через нас все люди живут -- помни! Богородице,
+            матушке моей, всё скажу -- она поймёт! Она грешных нас жалеет... не она ли говорила
+            архангелу: "Попроси, помоли сына милого, да велит и мне он помучиться во аду со великими
+            грешники" -- вот она!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(улыбаясь ласково).</stage>
+          <p>Я приехала -- считала себя умнее вас... лучше... право!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ничего, считай! Я вижу... так и надо! Ошибёшься -- укажу... ничего, дочь!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ну, хорошо... подождите! Как же письма? Он выздоровеет -- другие напишет и сам пошлёт?
+            А то -- заказными велит мне отправить -- где же квитанции?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Их в конторе много стареньких. Михайло устроит -- и город и фамилию перепишет, штемпеля
+            положит... ничего, это делалось! Это -- пустое! Когда отец в городе любовницу завел, мы
+            это делывали! Ты погляди, через кого другого не послал бы Прохор.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Конечно... я буду!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>За Людкой -- смотри! Она -- дитя.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>В ссоре они. Да она мне всё передаёт.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Гляди! Если Прохоровы деньги у нас останутся -- тут и твоих детей деньги...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(опуская глаза).</stage>
+          <p>Не надо, мама, об этом...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>А ты не финти! Я -- в очках, я всё вижу...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы всегда так... прямо очень.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну да! И ты со мной так же...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Я вас сегодня точно первый день вижу...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Слушай, я тебе мать! И твоим детям -- мать... погоди! Кто-то идёт... <stage>(Дверь тихо
+              отворяется -- Наталья, слабая, бледная, входит.)</stage> Ты что бродишь, курица?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Сказали -- чай пить... а ещё и не налито.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, накрывай... Людмила где?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Дядя позвал.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Так!.. Ну... <stage>(Делает Анне знаки глазами, указывая ей на дверь, та не
+              понимает.)</stage> Ты, Анна, поди, проси Прохора-то, -- может, он с нами чай пить
+            будет?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(уходя).</stage>
+          <p>Хорошо.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(следя за Натальей).</stage>
+          <p>Лучше тебе?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Не спится всё... и сердце тоскует... Ко Мне опять клямзинского приказчика жена
+            приходила...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Напрасно трудится.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Плачет.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>И это напрасно. Слезами -- портянку и ту не вымоешь...</p>
+        </sp>
+        <stage>(Дунечка входит, молча кланяется, Наталья перестаёт собирать посуду, уступая ей.
+          Васса ходит по комнате, подняв очки на лоб.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(настойчиво).</stage>
+          <p>Вы бы простили его... в память покойника!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Покойники в деле не участвуют. И тебе бы в дела не мешаться...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(сердито).</stage>
+          <p>Чай, жалко мне людей-то!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ежели они работать не хотят -- жалеть их нет пользы! Небойсь, когда тебе нянька ленивая
+            попала -- ты её без жалости прогнала?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Тут -- ребёнок... моё дитя!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Везде -- дети! У меня -- тоже ребята... и работники им нужны хорошие. А ежели я
+            обставлю их пьяницами да лентяями, -- какая же я мать им? <stage>(Анисья, новая
+              горничная, вносит самовар.)</stage> Эй, косолапая, на пол плещешь!</p>
+        </sp>
+        <sp who="#anisja">
+          <speaker>Анисья</speaker>
+          <stage>(Дунечке).</stage>
+          <p>Ключи от кладовой дайте.</p>
+        </sp>
+        <sp who="#dunechka">
+          <speaker>Дунечка</speaker>
+          <stage>(тихо).</stage>
+          <p>Иди, иди! Я сама...</p>
+        </sp>
+        <stage>(Обе уходят.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Хороша девица... здоровая, ловкая... хороша! <stage>(Входит Павел; он немного выпивши,
+              садится за стол.)</stage> Ты бы, барин, ноги-то вытирал, -- гляди, как наследил!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ну, так что? И наследил...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Так! Хорошо!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(кричит в дверь).</stage>
+          <p>Мамаша!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Иду... Что там? <stage>(Уходит.)</stage></p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(потянув носом).</stage>
+          <p>Вином пахнет...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Пахнет.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(помолчав).</stage>
+          <p>Людмила-то...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Да. Ну?..</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Помирилась с дядей...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Знаю.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Ой, Паша, жалко мне тебя...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ты всех жалеешь... а что толку?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Похожи мы с тобой...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>И ты кривобокая? Не знал!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Судьбой похожи. Оба -- умные...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ты -- умная? И про то не знал...</p>
+        </sp>
+        <stage>(Дунечка хотела войти, но, услышав разговор, спряталась.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Не шути! Матушка меня дурой считает, к дому я не допущена, хозяину -- жена, а живу, как
+            прислуга... слова моего -- не слушают...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>А мне наплевать!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Как же? Ведь и ты тоже -- нет тебе никакой воли...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(пьянея в тепле).</stage>
+          <p>Теперь -- кончено! Теперь я скоро покажу себя... Поеду в город... в Москву поеду...
+            везде! Чёрт вас возьми! Дом, и землю, и всё... Не хочу! Не хочу я... довольно!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(идёт, увидел Дунечку, подкрался к ней, схватил за плечи и орёт).</stage>
+          <p>А-а, ты шпионить!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Это мать её научила!</p>
+        </sp>
+        <sp who="#dunechka">
+          <speaker>Дунечка.</speaker>
+          <p>Что вы, батюшки? Где же я...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ты чего делала за дверью?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Дай ей по шее... ну! Старая грымза...</p>
+        </sp>
+        <sp who="#dunechka">
+          <speaker>Дунечка.</speaker>
+          <p>Я -- просто... говорите вы... не помешать бы, думаю... разве я смею понимать речи
+            ваши?..</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Нет, меня не обманешь!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Его не обманешь! Он сам подслушивать мастер!</p>
+        </sp>
+        <stage>(Идёт Прохор, Анна и Людмила поддерживают его под руки.)</stage>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Тпру! Почему скандал?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Подслушивала вот...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Пустите её, Семён! Вот уж любят мучить людей!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>А ты -- не любишь?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Шш... Без драки!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Надо наказание придумать ей!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Прищеми ей нос в двери... вот она и не будет...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Тьфу! Гадость!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Нет, пусть она масла из лампадки выпьет...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ну, это хоть...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(строго).</stage>
+          <p>Оставь её, Семён! Довольно! Идите, Дуня.</p>
+        </sp>
+        <stage>(Дунечка уходит.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(Павлу).</stage>
+          <p>Вот и ещё командирша явилась...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Это -- ненадолго! Всё ненадолго!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ты, Анна, что, в самом деле?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Опомнился... Тюря!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>А я сегодня ночью двух кошек на голубятню пущу.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Павел! Не смей раздражать дядю!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ты кто такая здесь?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Старшая сестра...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Оставь! Я ему пущу...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ты, Анна, напрасно...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Вы, сестрица, отрезанный ломоть...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Пусть её... ненадолго! Всё -- ненадолго!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ты своё получила, и -- шабаш!</p>
+        </sp>
+        <stage>(В дверях Васса и Михаил.)</stage>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(Людмиле).</stage>
+          <p>И что только будет здесь через недельку эдак? Ух!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Ничего не будет.</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(Прохору).</stage>
+          <p>Будет, что я вас -- попрошу... ко всем чертям! Вот что будет!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Щенок! Я сам...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Дядя! Перестаньте! Павел, если ты будешь сердить дядю, он может...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Не говори ему про это! Он нарочно будет!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(Павлу).</stage>
+          <p>Это... вредно ему! Он может умереть от припадка, сказал доктор.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ну вот! Ну -- зачем ты? Ах...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Напрасно, Анюта...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Нарочно начнут...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы -- не волнуйтесь...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Что же это как вы говорите про нас? Что Паша -- злодей? Как вы можете?</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(Анне).</stage>
+          <p>Ты гляди -- как говорит, а? Хозяйка, а?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(входя).</stage>
+          <p>Торопится...</p>
+        </sp>
+        <stage>(Все притихли.)</stage>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(Прохору).</stage>
+          <p>Доброго здоровья!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>А, Бисмарк... насморк... ревматизм! Здравствуй, здравствуй!</p>
+        </sp>
+        <stage>(Семён смеётся. Павел всё время следит за дядей.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(садясь).</stage>
+          <p>Это ты, Семён, распорядился, чтобы клямзинского приказчика принять?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Я. Он хороший парень. А что пьёт...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Это ничего! Да... Жена за него просила?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Наташа тут ни при чём.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Я -- о приказчиковой жене.</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Проговорился, Сеня!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Ты молчи!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(Людмиле).</stage>
+          <p>Нисколько! Я просила Сеню... да!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(качая головой).</stage>
+          <p>Трудные дни настигли тебя, Васса! Даже жалко смотреть...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(спокойно).</stage>
+          <p>Спасибо. Себя-то пожалей, не забудь.</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(злорадно).</stage>
+          <p>Туго тебе придётся, ой-ой! Ну, и народ пошёл! Говорят -- русский человек мягкий,
+            добрый...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Где же здесь злые? Мы вовсе не злые...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(Анне).</stage>
+          <p>Как ты думаешь -- не злые?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Не знаю...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>По-моему, они правду сказали -- нет здесь злых...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Н-ну, положим!..</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(горячась).</stage>
+          <p>Нет. Здесь -- несчастные всё... и потому несчастные, что не могут ничего любить...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Врёшь ты! Я люблю... я!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(жене, подмигивая).</stage>
+          <p>Ю!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>И никто не знает, что -- хорошо...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Верно! Этого -- не знают!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(угрюмо).</stage>
+          <p>Ну, а что же хорошо, умница?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(опасливо поглядывая на дочь).</stage>
+          <p>Мм-да?. Ты -- того...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Сад ваш хорош, мамаша! С малых лет я его люблю и теперь, когда гуляю в нём, вас люблю
+            за то, что вы украсили землю...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(гордо, Анне).</stage>
+          <p>Слышишь? Баба-то?..</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Иногда -- боязно с вами...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Людмила, ты...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Оставь её...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Не бойся, папа! Взгляну я на сад, вспомню, как вы в нём, согнувши спину, копаетесь
+            около яблонь да ягод и цветов... Знаете вы, мама, что хорошо! Вы -- знаете, а кроме вас
+            -- никто не знает хорошего...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Ну, положим...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Наталья -- ю!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Да и не узнает. Никогда! Все хорошее мимо их, другой улицей пройдёт, всё...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Какая пророчица!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Чего-то ей хочется?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(ворчит).</stage>
+          <p>Она да Анна, обе к матери подлаживаются... Просить чего собираются, что ли?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты бы хоть про себя, а не вслух думал, дитятко!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Ему бояться некого...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ю!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что это у тебя за глупое слово?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Ю? Так уж -- ю!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ой, Семён, Семён!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Люда -- поговори ещё!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Не хочется.</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>И не надо. Благослови тебя господь хорошими детьми, Людмила.</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(кивая на мужа).</stage>
+          <p>От него? Как от него могут быть хорошие дети!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(тянет).</stage>
+          <p>Н-ну-у...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Эх... язычок!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(хватая чашку).</stage>
+          <p>Убью! <stage>(Мать толкнула его под локоть -- чашка выпала из его рук.)</stage> Вы что?
+            За неё? Хорошо... дайте мне мою часть, деньги мои! Подайте, и будь вы...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(толкнув его).</stage>
+          <p>Цыц!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(захлёбываясь словами).</stage>
+          <p>Ненавижу всех... подожгу! Кто вы мне? <stage>(Почти рыдая.)</stage> Мать... Ты разве
+            мать? Дядя? Жена? Брат?.. Что вы для меня?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(угрюмо).</stage>
+          <p>А ты для всех?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Как собаки зайца, травите вы меня -- за что? Дайте мне моё, и я уйду... уйду!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что же здесь -- твоё?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Как? Его и Сенино -- всё!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Вы молчите, Наташа!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Отчего же?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Мокрица -- молчи, сказано тебе!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(плачет).</stage>
+          <p>Сеня! За что же меня...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Фу, какой ужас...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Это ты с непривычки...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(дочери).</stage>
+          <p>Не путайся, прошу тебя!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(Анне).</stage>
+          <p>Меня бы прочь отсюда... не могу!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Что мы -- маленькие? Всякий хочет жить, как ему нравится...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Анна, нехорошо мне, кричат...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(торопливо уходя в комнату матери).</stage>
+          <p>Сейчас, дядя... мама!</p>
+          <stage>(Васса идёт на её зов.)</stage>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Вы, мамаша, действительно...</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор.</speaker>
+          <p>Людмила... Ну-ка, помоги мне...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(кричит).</stage>
+          <p>Людмила, поди сюда...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(бежит через столовую).</stage>
+          <p>Сию минуту, дядя... Видишь, Павел, вот -- опять нехорошо дяде...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(орёт).</stage>
+          <p>Я здесь хозяин... я, кособокий! Пусть он издохнет... и все вы!</p>
+        </sp>
+        <sp who="#prohor">
+          <speaker>Прохор</speaker>
+          <stage>(побагровел, привстает со стула и шипит).</stage>
+          <p>В-в-в-ах... так? Михайло, уведи меня... убьёт он!..</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(прыгая перед ним).</stage>
+          <p>И убью... ух! Как дам...</p>
+        </sp>
+        <stage>(Общая суматоха. Наталья хочет увести Прохора. Михаил усаживает его на стул. Семён
+          схватил брата за руку и кричит.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Паша... оставь...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Позвольте-с... успокойтесь!..</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Пашка -- брось! Дядя -- уходите! Мамаша! Дерутся они!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Я тебе давно... ты меня... раз!</p>
+        </sp>
+        <stage>(Толкнул дядю в грудь -- Прохор выпрямился и ударил его ногой. Павел, охнув, присел
+          на пол, а Прохор грузно свалился на стул. Вбегает Анна с лекарством в руках, выбежали из
+          кабинета Васса и Людмила,  -- Васса бросается к сыну, он вертится на полу, держа ногу в
+          руках. Анна -- наклонилась над дядей. Семён -- около жены. Михаил, взяв дочь за руку,
+          что-то шепчет ей, лицо у него умоляющее.)</stage>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(жене).</stage>
+          <p>Уйдём скорее...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(Павлу).</stage>
+          <p>Чем он тебя?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Я говорила, Павел...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Подожди...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Отойди, мать...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Дайте воды...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Поняла, да?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(отцу).</stage>
+          <p>Пусти... После скажешь...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(вставая).</stage>
+          <p>Горячей воды?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Да, да... на сердце...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Это надо сделать там, у него...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Да нет же!..</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Верно! Берите его... Семён, помоги!..</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(зорко следит за всеми).</stage>
+          <p>Не тронь, Сеня!.. Боюсь я, ой!.. Они нарочно Павла натравили... куда ты?</p>
+        </sp>
+        <stage>(Михаил, Анна, Семён -- уносят Прохора.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты что шипишь?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Разве я змея?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты что сказала?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Позвольте, мамаша?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Что позволить? Ну?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Мы не прислуги... мы теперь -- хозяева!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Вон!</p>
+        </sp>
+        <stage>(Семён воротился, Павел встал с пола, волочит ногу, идёт к матери, держась за
+          стулья.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Не кричите! Сеня -- она кричит...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(стараясь говорить внушительно).</stage>
+          <p>Нет, мамаша, довольно! Мне -- двадцать семь лет, ему -- двадцать четыре... против этого
+            не поспоришь! <stage>(Мать приподняла очки на лоб и в упор смотрит на сына.)</stage> Что
+            вы смотрите? Тут как ни смотрите -- закон совершеннолетия... сыновья -- наследники...
+            стало быть... спора нет!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(спокойно, Павлу).</stage>
+          <p>Иди, взгляни, что с дядей...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Не хочу... Не пойду...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Да... Уж теперь -- как мы желаем!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(вздохнув).</stage>
+          <p>Дураком ты родился, Семён!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(вспылил).</stage>
+          <p>Обидные ваши слова -- оставьте! Я -- дурак, а по закону -- хозяин! И вы,
+            пожалуйста...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(бежит).</stage>
+          <p>Мамаша... дядя, кажется, помер...</p>
+        </sp>
+        <stage>(Молчание. Павел сел на стул, спрятав голову за спинку. Семён, одеревенев, мигает
+          глазами. Наталья прижалась к нему, вздрагивая. Опустив руки и наклоня голову, Васса
+          обернулась в передний угол комнаты, беззвучно шевеля губами. Анна, перебирая на груди
+          пальцами, смотрит на неё. Испуг на лице Натальи постепенно сменяется радостью.)</stage>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(шепчет).</stage>
+          <p>Вот те раз!</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(тоже шёпотом).</stage>
+          <p>Теперь -- ты пойми! Всё наше делается!</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(им обоим).</stage>
+          <p>Шш... тише!..</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Ну, Павел, вот, достиг ты конца...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Я... не виноват... я -- выпивши...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён.</speaker>
+          <p>Эх, Пашка! Что, брат?</p>
+        </sp>
+        <stage>(Васса и Анна уходят, но Анна остановилась за дверью.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(ласково).</stage>
+          <p>Паша! Скажи правду -- они тебя не подучили дядю-то ударить?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(устало).</stage>
+          <p>Пошла ты... ерунда!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(жене).</stage>
+          <p>Что ты сочиняешь тут?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(входит).</stage>
+          <p>Видишь, Павел, что ты наделал? Предупреждала я тебя -- не тронь, да?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(подозрительно).</stage>
+          <p>Да-а... как будто подстрекнули вы его, так вышло...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Я не виноват...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Бог рассудит -- кто виноват... он знает!</p>
+        </sp>
+        <stage>(Идут: Михаил -- рука у него обмотана носовым платком, Людмила и Васса. Людмила
+          прошла в угол, села там и тихо плачет.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(торжественно).</stage>
+          <p>Скончался...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(мужу, шёпотом).</stage>
+          <p>Гляди -- рука...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(вздрогнув, громко).</stage>
+          <p>Где? Чья рука?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(Наталье).</stage>
+          <p>Ты -- о чём?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Я? Я сказала ему, Семёну, что рука у Михаила Васильевича...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(почти не скрывая насмешки).</stage>
+          <p>Рука-с? Повредил несколько, задел за ручку двери, когда усопшего несли. А что-с? Мне не
+            больно, если это вас интересует... совсем не больно... А впрочем -- благодарю покорно за
+            внимание!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну -- помолчите все! Людмила -- перестань! Павел, как же теперь? Что будем делать?
+              <stage>(Голос у неё дрогнул. Помолчала, шевеля губами.)</stage> Ты знаешь -- семья
+            наша не дружная, сор из избы будет вынесен, и пойдут тёмные слухи про нас...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Оставьте меня...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(глуше).</stage>
+          <p>Может, и полиция вмешается... тут -- деньги! У дяди в нашем деле до ста тысяч с
+            лишком...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(жене, шепчет).</stage>
+          <p>Ого! Вот так -- ю!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Известно, что он их взять хотел... Видишь, как всё запутано... Тебя предупреждали -- не
+            тронь, убьёшь... а ты -- нарочно... Чувствуешь свой грех?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(бормочет).</stage>
+          <p>Будет! Не тяните душу... <stage>(Сообразив опасность, испугался, вскочил, смотрит на
+              всех.)</stage> Вы... вы, родные мои... вы -- не говорите! Я не хочу... что же делать,
+            мама? Сеня?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Мы, конечно, будем стоять за тебя -- пред людьми... А пред богом как ты оправдаешься? И
+            вот я советую тебе, если дело это грешное кончится хорошо для тебя, -- иди в
+            монастырь...</p>
+        </sp>
+        <stage>(Все удивлены. Людмила, как слепая, идёт к свекрови и улыбается.)</stage>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(мужу).</stage>
+          <p>Ой... это хорошо! Понимаешь?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(растерянно).</stage>
+          <p>Я -- не хочу! Что вы? Семён, я не хочу!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(твёрже).</stage>
+          <p>Я дам за тебя хороший вклад, будешь ты жить там спокойно, безобидно, привыкнешь богу
+            молиться и помолишься за нас...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(тоскливо).</stage>
+          <p>Людмила... рада! Людмила -- пожалей! Гляди, как со мной... <stage>(Поражён лицом
+              жены.)</stage> Как рада... лицо-то! Мамаша -- спасибо! Женили вы меня!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ты сам хотел.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(тяжело).</stage>
+          <p>Да-с, вы сами!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Помнишь -- зарезаться грозил?</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья.</speaker>
+          <p>Как же! И я помню это...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(грозно).</stage>
+          <p>Ты -- молчать! <stage>(Мягко, но непреклонно.)</stage> Так вот, Павел, дай обет, что
+            идёшь в монахи... Так лучше для тебя и для всех... Никто там тебя не осмеёт, не осудит
+            за то, что ты... некрасив собой. И я буду знать, что сын мой -- в спокойном месте, в
+            почёте живёт. Так-то. Ну, подумай... до завтра, а завтра -- скажи согласие твоё.</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(жене).</stage>
+          <p>Погибели моей улыбаешься? Не забуду я этого!</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Нет, Павел, я -- свободе своей... <stage>(Стоя около Вассы, далеко от мужа, она, не
+              сходя с места, опускается на колени.)</stage> Человек же ты! Есть в тебе хоть капля
+            доброго? Отпусти меня, Павел! Отпусти, Христа ради! Помяну тебя добром, всегда... Клятву
+            даю -- думать буду о тебе с лаской в сердце... одна я, может, буду так думать о тебе!
+            Одна, кроме матери твоей! А с тобой -- не могу! Прикоснуться мне к тебе -- больно...
+            особенно после сегодня... Павел!</p>
+        </sp>
+        <stage>(Все молчат. Васса сидит, опустив голову, Анна что-то шепчет ей на ухо.)</stage>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Паша!.. Голубчик -- отпусти же!</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(вздрогнув).</stage>
+          <p>Не надо... не говори так! Ну... Всё равно... Развод, что ли, там... что ж? Всё равно,
+            видно...</p>
+          <stage>(Людмила встала, подошла к нему и, не дотрагиваясь до него, поцеловала в
+            лоб.)</stage>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(отшатнулся).</stage>
+          <p>Что ты... как мёртвого! Зачем ты? Дьявол... Мать, я не пойду в монастырь, ну тебя...
+            Пусть меня судят... Полиция и всё... врёте вы! Деньги мои чтобы забрать, ага! Дай мне
+            мои деньги, я уеду... на край земли от вас... никогда вы не услышите обо мне, никогда!
+            Может -- богат буду, а вы -- нищие, -- придёте ко мне по милостину... прогнать вас велю
+            и в окошко смотреть буду, как вас гонят... Дай мои деньги... Кончено!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(спокойно).</stage>
+          <p>Денег я тебе не дам.</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(беспокойно).</stage>
+          <p>Как? Этого -- нельзя...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Нет, дашь!</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(тихо, ласково).</stage>
+          <p>Тут -- закон!.. Наследство, мамаша!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(вздохнув).</stage>
+          <p>Наследства вы -- лишены. Всё отказано мне по духовной...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил.</speaker>
+          <p>Совершенно верно-с...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(мужу, убито).</stage>
+          <p>Подделано!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(глядя на неё).</stage>
+          <p>В полную и нераздельную собственность.</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(деловито).</stage>
+          <p>Чему свидетелями были: отец Егор, Антип Степанов Мухоедов, известный вам, а также
+            помещик Рыжев...</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(убито).</stage>
+          <p>Мамаша... За что же нас так? Вы покажите бумагу-то... где она, бумага?</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(доставая бумагу).</stage>
+          <p>Подлинная -- у нотариуса, копии, числом две -- вот они! Для вас... и для вас...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(отталкивая бумагу).</stage>
+          <p>Не надо! Всё равно... Не верил я в свободу свою... вот -- и не вышло ничего...
+              <stage>(Задумался.)</stage> Ничего и не будет...</p>
+        </sp>
+        <stage>(Наталья плачет, закрыв лицо руками.)</stage>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Что же, Павел?</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(оглядываясь).</stage>
+          <p>Загнали в угол... Ладно... монахи не в аду, на земле живут... ну, хорошо!..</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(успокоительно).</stage>
+          <p>И ещё как живут...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел</speaker>
+          <stage>(усмехаясь).</stage>
+          <p>Прощай, Людмила... да, ты уж простилась... Ну, из милости -- поцелуй ещё.</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(подходя к нему).</stage>
+          <p>Только ты меня не трогай руками...</p>
+        </sp>
+        <sp who="#pavel">
+          <speaker>Павел.</speaker>
+          <p>Не надо... Иди прочь! Дьяволы... <stage>(Бежит вон.)</stage></p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(Михаилу).</stage>
+          <p>Гляди за ним!.. Скорей...</p>
+        </sp>
+        <sp who="#mihail">
+          <speaker>Михаил</speaker>
+          <stage>(уходя).</stage>
+          <p>Заявление о смерти Прохора Ивановича разрешите сделать?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Давно пора! Чего ты думал?</p>
+        </sp>
+        <sp who="#semen">
+          <speaker>Семён</speaker>
+          <stage>(уныло).</stage>
+          <p>Значит, мамаша...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(отмахиваясь от него).</stage>
+          <p>Ты -- иди, иди! Ну, тебе ли без матери жить? Да ещё с такой дурёхой...</p>
+        </sp>
+        <sp who="#natalja">
+          <speaker>Наталья</speaker>
+          <stage>(неохотно кланяясь в пояс).</stage>
+          <p>Простите, мамаша, коли я что...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ну, ну, пошла, иди! Есть мне охота сердиться на тебя...</p>
+        </sp>
+        <stage>(Семён и Наталья ушли бесшумно, подавленные. Васса встала и -- пошатнулась.)</stage>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(поддержав её).</stage>
+          <p>Что вы? Что с вами?</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(хрипит).</stage>
+          <p>Воды... холодной... сердце загорелось...</p>
+        </sp>
+        <stage>(Людмила бежит вон.)</stage>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Измучились вы...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(несколько оправилась).</stage>
+          <p>Устала... Трудно...</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Как это вы сразу -- насчёт монастыря... Просто -- чудо!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Сразу! Годы я думала -- куда его ткнуть, сотни ночей не спала... Чудес -- нет для
+            нас... нет их! Сами должны всё...</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила</speaker>
+          <stage>(вбегает).</stage>
+          <p>Нате скорее... <stage>(Васса пьёт воду.)</stage> Господи, в доме покойник, горе... а --
+            ничего не чувствую!.. Мамаша, какая вы для меня волшебная!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(тихо).</stage>
+          <p>Рада?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>С начала буду жить...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Со мной живи. Найди хорошего человека, -- замуж выдам. Ты -- найдёшь... Детей народи, а
+            я их внуками сосчитаю... я тебя -- люблю... И ты, Анна, переезжай ко мне, детей вези. Не
+            удались сыновья... внуками жить буду... <stage>(Прислушивается.)</stage> Сад-то и не
+            пропадёт... Забегают в нём детишки ваши... ласковые зверики... Чу? Что это? А?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна.</speaker>
+          <p>Ничего не слышно, мама!</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса.</speaker>
+          <p>Ничего? Мне послышалось... Дочки мои... много зла на мне, много греха... хоть и против
+            никудышных людей, а всё-таки... жаль их, когда одолеешь... Вы меня -- любите...
+            немножко! Много и не прошу -- немножко хоть! Человек ведь я... Сына вот... сына
+            своего... <stage>(Вскочила, тревожно.)</stage> Кричит, а? Кричит?</p>
+        </sp>
+        <sp who="#ljudmila">
+          <speaker>Людмила.</speaker>
+          <p>Да нет же! Что вы?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>Анна</speaker>
+          <stage>(ласково).</stage>
+          <p>Тихо всё... Успокойтесь...</p>
+        </sp>
+        <sp who="#vassa">
+          <speaker>Васса</speaker>
+          <stage>(устало).</stage>
+          <l>Чудится мне... <stage>(Помолчав.)</stage> Не знавать мне покоя... не знавать...
+            никогда!</l>
+        </sp>
+        <stage>(Анна и Людмила, переглянувшись, наклонились к ней -- она, сняв очки, смотрит на них,
+          угрюмо усмехаясь.)</stage>
+        <stage>Занавес</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
