@@ -66,7 +66,17 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle" subtype="tragedy">Трагедия в стихах, в пяти действиях</term>
+        </keywords>
+      </textClass>
     </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-12-01">(ay) convert from source</change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front>

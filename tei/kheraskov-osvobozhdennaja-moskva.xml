@@ -29,8 +29,11 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Херасков М.М. Освобожденная Москва // М.М. Херасков. Избранные произведения. М.; Л.: Советский писатель, 1961. С. 297(?) 299—372. (Библиотека поэта; Большая серия).</title>
-            <date type="print" when="1798">«Впервые — отдельным изданием (М., 1798).» (rvb.ru)</date>
+            <title>Херасков М.М. Освобожденная Москва // М.М. Херасков. Избранные произведения. М.;
+              Л.: Советский писатель, 1961. С. 297(?) 299—372. (Библиотека поэта; Большая
+              серия).</title>
+            <date type="print" when="1798">«Впервые — отдельным изданием (М., 1798).»
+              (rvb.ru)</date>
             <date type="premiere" when="1798">«Представлена в Москве на Петровском театре 18 января
               1798 г.» (rvb.ru)</date>
             <date type="written"/>
@@ -116,7 +119,9 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2018-11-01">(ay) convert from source</change>
+      <listChange>
+        <change when="2018-11-01">(ay) convert from source</change>
+      </listChange>
     </revisionDesc>
   </teiHeader>
   <text>
