@@ -85,7 +85,9 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2018-11-29">(im) convert from source</change>
+      <listChange>
+        <change when="2018-11-29">(im) convert from source</change>
+      </listChange>
     </revisionDesc>
   </teiHeader>
   <text>
