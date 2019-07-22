@@ -41,42 +41,51 @@
         <listPerson>
           <person xml:id="zoja" sex="FEMALE">
             <persName>Зоя</persName>
+            <persName xml:lang="de">Zoë</persName>
           </person>
           <person xml:id="njanja" sex="FEMALE">
             <persName>Няня</persName>
+            <persName xml:lang="de">Amme</persName>
           </person>
           <person xml:id="pervyj" sex="MALE">
             <persName>Первый молодой человек</persName>
+            <persName xml:lang="de">Erster junger Mann</persName>
           </person>
           <person xml:id="vtoroj" sex="MALE">
             <persName>Второй молодой человек</persName>
+            <persName xml:lang="de">Zweiter junger Mann</persName>
           </person>
           <person xml:id="tretij" sex="MALE">
             <persName>Третий молодой человек</persName>
+            <persName xml:lang="de">Dritter junger Mann</persName>
           </person>
           <person xml:id="evgenij" sex="MALE">
             <persName>Евгений</persName>
+            <persName xml:lang="de">Eugen</persName>
           </person>
           <person xml:id="valentin" sex="MALE">
             <persName>Валентин</persName>
+            <persName xml:lang="de">Valentin</persName>
           </person>
           <person xml:id="ohotnik" sex="MALE">
             <persName>Охотник</persName>
+            <persName xml:lang="de">Der Jäger</persName>
           </person>
           <person xml:id="mina" sex="FEMALE">
             <persName>Мина</persName>
+            <persName xml:lang="de">Minnchen</persName>
           </person>
           <person xml:id="gotlib" sex="MALE">
             <persName>Готлиб</persName>
+            <persName xml:lang="de">Gottlieb</persName>
           </person>
-          <person xml:id="neznakomyj" sex="MALE">
-            <persName>Незнакомый</persName>
-          </person>
-          <person xml:id="graf" sex="MALE">
-            <persName>Граф</persName>
+          <person xml:id="neznakomyj_graf" sex="MALE">
+            <persName>Незнакомый (Граф Юрий)</persName>
+            <persName xml:lang="de">Ein Unbekannter (Graf Jurij)</persName>
           </person>
           <person xml:id="dvoretskij" sex="MALE">
             <persName>Дворецкий</persName>
+            <persName xml:lang="de">Der Haushofmeister</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -89,6 +98,7 @@
     <revisionDesc>
       <listChange>
         <change when="2019-02-10">(im) convert from source</change>
+        <change when="2019-07-22">(ff) correct IDs; add DE labels</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -745,7 +755,7 @@
             <l>Понравлюсь и женюсь! Иль увезу</l>
             <l>Ее, когда каприз на то мой будет?</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#evgenij #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <stage>(с шумом и смехом)</stage>
             <l>Что с ним? Что с ним? Ты бредишь, Валентин?..</l>
@@ -786,7 +796,7 @@
             <speaker>Валентин</speaker>
             <l part="I">Во сколько?..</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#evgenij #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <l part="F">Сумасброд! шалун! повеса!</l>
           </sp>
@@ -821,7 +831,7 @@
             <speaker>Валентин</speaker>
             <l part="I">Идет! в полгода!</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#evgenij #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <l part="F">Э!.. Да он совсем</l>
             <l>Рехнулся!.. Валентин!.. что за охота</l>
@@ -858,7 +868,7 @@
             <l>Посмотрим!.. Говорится же недаром,</l>
             <l>Что смелым бог владеет!.. Подождем!</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#evgenij #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <l part="I">Да, подождем! увидим!</l>
             <stage>(В это время слышен лошадиный галоп.)</stage>
@@ -887,7 +897,7 @@
             <l><emph>Сам зверь бежит!</emph> Вы видели ее?</l>
             <l part="I">Вот Зоя...</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#valentin #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <stage>(с любопытством)</stage>
             <l part="F">Как? что? Зоя? Это точно</l>
@@ -907,7 +917,7 @@
             <l>Ах! что ты прежде не сказал! предатель!</l>
             <l>А мне и разглядеть не удалось...</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#evgenij #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <stage>(смеются)</stage>
             <l>Прекрасно! прозевал ты первый случай</l>
@@ -925,7 +935,7 @@
             <l>Мы отдохнули, напились, наелись,-</l>
             <l part="I">Поедемте...</l>
           </sp>
-          <sp who="#pervyj #vtoroj #tretij">
+          <sp who="#evgenij #pervyj #vtoroj #tretij">
             <speaker>Все</speaker>
             <l part="F">Да! идем, идем! готовы!</l>
           </sp>
@@ -1496,11 +1506,11 @@
             <l part="F">Шуберт!</l>
             <l>Любимец мой!</l>
             <stage>(Она перелистывает альбом, потом прелюдирует, все более и более задумываясь, и
-              наконец начинает петь: "Brausender Wald, rauschendes Bach"<note place="foot">Шумный
+              наконец начинает петь: "Brausender Wald, rauschender Bach"<note place="foot">Шумный
                 лес, ручей журчащий (нем.).</note>. Валентин все ближе к ней наклоняется; оба
               тронуты, его дыхание тревожно, у нее слезы на глазах и голос дрожит. Вдруг она
               останавливается посреди строфы, меняет тон и звонко подхватывает куплет из песни: "Je
-              suis Lorette, et je regne a Paris"<note place="foot">Меня зовут Лоретта, я царствую в
+              suis Lorette, et je règne à Paris"<note place="foot">Меня зовут Лоретта, я царствую в
                 Париже (франц.).</note>.- Валентин в сердцах ударил кулаком о фортепьяны, потом
               отходит прочь и садится на диван. Она, кончивши куплет, начинает хохотать и хохочет
               долго и язвительно, глядя на него.)</stage>
@@ -1854,7 +1864,7 @@
           </sp>
           <sp who="#mina">
             <speaker>Мина</speaker>
-            <p>Неправда! Я знаю, когда счета была кончен, я был у gnadige Frau<note place="foot"
+            <p>Неправда! Я знаю, когда счета была кончен, я был у gnädige Frau<note place="foot"
                 >милостивой госпожи (нем.).</note>, когда ваша папинька принес счета; а я говорю про
               другое время, когда im Comptoir все было заперто.</p>
           </sp>
@@ -1864,20 +1874,20 @@
           </sp>
           <sp who="#mina">
             <speaker>Мина</speaker>
-            <p>Неправда! ваш комнат он был пуст, и окошко открыто; я шел от gnadige Frau, и спросили
+            <p>Неправда! ваш комнат он был пуст, и окошко открыто; я шел от gnädige Frau, и спросили
               у клюшник; он мене сказал, ваш нет дома, ваш пошел в город, верхом; я себе спрятался и
               видел, что ваш приехал очень поздна; а потом мне повар говорил, он фидел фас, как вы
               были в магазейн, где работает мамзель Анет.</p>
           </sp>
           <sp who="#gotlib">
             <speaker>Готлиб</speaker>
-            <p>А, вот видите, я, стало быть, возил работ для gnadige Frau...</p>
+            <p>А, вот видите, я, стало быть, возил работ для gnädige Frau...</p>
           </sp>
           <sp who="#mina">
             <speaker>Мина</speaker>
             <stage>(рассердившись и топая ногами)</stage>
-            <p>Неправда, неправда и еще неправда! Gnadige Frau не давайт работа в такой гадкий,
-              маленький, провинциальный магазейн; у gnadige Frau все мода из Париж, gnadige Frau
+            <p>Неправда, неправда и еще неправда! Gnädige Frau не давайт работа в такой гадкий,
+              маленький, провинциальный магазейн; у gnädige Frau все мода из Париж, gnädige Frau
               только люблю работ от сама перва майстериц.</p>
           </sp>
           <sp who="#gotlib">
@@ -1928,8 +1938,8 @@
             <speaker>Мина</speaker>
             <stage>(очень живо)</stage>
             <p>А! ваш мене не понимай?.. а я вам надоел... а так ваш изволь послушай!.. Я нынче утро
-              пошла сказать Guten Tag<note place="foot">добрый день (нем.).</note> для gnadige Frau,
-              a gnadige Frau она уже была в церкви, так я идти хотела зебе прогуливать; иду возле
+              пошла сказать Guten Tag<note place="foot">добрый день (нем.).</note> для gnädige Frau,
+              a gnädige Frau она уже была в церкви, так я идти хотела зебе прогуливать; иду возле
               Orangerie и вижу вас тут, мусье Готлиб; ваш с садовником выбирайт цветы для самый
               прекрасный букет. Я думала, верно, букет для меня, для ваши невеста, и тиконько себе
               спрятал, чтоб не мешать вам мне зделать любовний сюрприз!.. Только слышу, ваш сказал
@@ -1976,12 +1986,12 @@
           <sp who="#mina">
             <speaker>Мина</speaker>
             <stage>(с книксеном при каждом слове)</stage>
-            <p>Gnadige Frau, я вам буду все рассказал... Это мусье Готлиб, он такой злой, такой
+            <p>Gnädige Frau, я вам буду все рассказал... Это мусье Готлиб, он такой злой, такой
               скверна шеловейк...</p>
           </sp>
           <sp who="#gotlib">
             <speaker>Готлиб</speaker>
-            <p>Ncin, gnadige Frau, вам пошалиста не вери; это мамзель Мина... она такой капризна...
+            <p>Nein, gnädige Frau, вам пошалиста не вери; это мамзель Мина... она такой капризна...
               она так зебе все много фообрашайт...</p>
           </sp>
           <sp who="#zoja">
@@ -2000,7 +2010,7 @@
           </sp>
           <sp who="#mina #gotlib">
             <speaker>Оба вместе</speaker>
-            <p>Nein, gnadige Frau, он/она все неправда вам сказывал, вы меня послушай... </p>
+            <p>Nein, gnädige Frau, он/она все неправда вам сказывал, вы меня послушай... </p>
           </sp>
           <sp who="#zoja">
             <speaker>Зоя</speaker>
@@ -2049,7 +2059,7 @@
           <sp who="#mina">
             <speaker>Мина</speaker>
             <stage>(целует руку у Зои)</stage>
-            <p>Ach, liebe, gute, gnadige Frau<note place="foot">Ах, дорогая, добрая, милостивая
+            <p>Ach, liebe, gute, gnädige Frau<note place="foot">Ах, дорогая, добрая, милостивая
                 госпожа (нем.).</note>, вам всегда так добра... я вас так люблю!.. Мой вас буду
               послушался.</p>
             <stage>(Протягивает руку Готлибу.)</stage>
@@ -2680,7 +2690,7 @@
           <stage>Слуга, отворяя дверь, впускает почтительно незнакомого, одетого в дорожный сюртук,
             и вообще обыкновенной наружности; только у него огромные рыжие волосы, бакенбарды и
             борода и, кроме того, синие очки.</stage>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(кланяясь)</stage>
             <l>По приказанью вашему, княгиня,</l>
@@ -2693,7 +2703,7 @@
             <l>Устали от дороги вы,- угодно</l>
             <l part="I">Вам отдохнуть?</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">О, нет, не беспокойтесь,</l>
             <l>Я ночь провел в ближайшем городке</l>
@@ -2705,7 +2715,7 @@
             <l part="F">Вы... знаете... зачем</l>
             <l>Вас пригласить... сюда... я поручала?</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l>Известно мне и любопытство ваше,</l>
             <l>И даже спор, который вы недавно</l>
@@ -2716,7 +2726,7 @@
             <stage>(поглядывая на Валентина)</stage>
             <l part="F">Спор, вы сказали? С кем?..</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(показывая на Валентина)</stage>
             <l>Вот - с ними! Вас, княгиня, упрекали</l>
@@ -2740,7 +2750,7 @@
             <l>Теперь сказали, было так, точь-в-точь!..</l>
             <l part="I">Но как вы знать могли?</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Вы обо мне</l>
             <l>Подумали тогда, вы пожелали</l>
@@ -2758,7 +2768,7 @@
             <l>Вот этот господин и я,- мы в мыслях</l>
             <l part="I">Имеем?..</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(медленно и вглядываясь поочередно в обоих, точно будто он хочет проникнуть их
               насквозь)</stage>
@@ -2781,7 +2791,7 @@
             <l>Что тут угадывать?.. Я сам давно</l>
             <l part="I">Рассказывал, что чувствую...</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(с особенным выражением)</stage>
             <l part="F">Но только</l>
@@ -2797,7 +2807,7 @@
             <l>Скажите лучше, в будущем меня</l>
             <l part="I">Что ждет...</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Когда скажу, что неприятность,</l>
             <l part="I">Вы не рассердитесь?</l>
@@ -2807,7 +2817,7 @@
             <l part="F">Конечно, нет!</l>
             <l part="I">Скажите откровенно!</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Я бы вам</l>
             <l>Советовал напрасно не гоняться</l>
@@ -2834,7 +2844,7 @@
             <stage>(Он очень растроган и отходит сесть подальше. Молчание. Зоя снова
               приближается.)</stage>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(к Зое, всматриваясь пронзительно в ее взоры)</stage>
             <l part="F">А вам... угодно знать,</l>
@@ -2850,7 +2860,7 @@
             <l>Свободно говорите! Здесь нет лишних.</l>
             <stage>(Она садится к столу и показывает ему место против себя.)</stage>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l>Пожалуйте мне руку вашу!.. Так!..</l>
             <l>Здесь линии на ней согласны с тем,</l>
@@ -2872,7 +2882,7 @@
             <l>Былое мне известно!.. Расскажите</l>
             <l part="I">О будущей судьбе моей!</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Позвольте!</l>
             <l>Судьба и участь наша - в нас самих!</l>
@@ -2910,7 +2920,7 @@
             <l>Уж ничего не признаю достойным</l>
             <l part="I">Желанья моего...</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(значительно)</stage>
             <l part="F">Теперь, быть может,</l>
@@ -2944,7 +2954,7 @@
             <l>Такого человека в мире нет</l>
             <l part="I">Иль я его не знаю...</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(очень значительно и медленно)</stage>
             <l part="F">Вы всегда</l>
@@ -2957,7 +2967,7 @@
             <l part="F">Кто послал,</l>
             <l part="I">Кто подучил вас?..</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(очень спокойно и почтительно)</stage>
             <l part="F">Я привез письмо,</l>
@@ -2977,7 +2987,7 @@
             <l>Не обижайтесь!.. А скажите только:</l>
             <l part="I">Знавали прежде вы меня?</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Не знал!</l>
           </sp>
@@ -2986,7 +2996,7 @@
             <l>И не встречали?.. Вам никто о мне</l>
             <l part="I">Не говорил?..</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Я вам скажу: никто -</l>
             <l>Поверите ль вы мне?.. Не лучше ль вам</l>
@@ -3001,7 +3011,7 @@
             <l part="F">Я готова,</l>
             <l part="I">Я слушаю.</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l part="F">Тому давно, вы были</l>
             <l>Неопытны, как молодость живая,</l>
@@ -3066,7 +3076,7 @@
             <l part="I">Надеюсь, у меня?..</l>
             <stage>(Она кажется утомлена.)</stage>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <stage>(вставая)</stage>
             <l part="F">Ваш гость, покуда</l>
@@ -3328,7 +3338,7 @@
           <sp who="#mina">
             <speaker>Мина</speaker>
             <stage>(бросается в ноги Зое)</stage>
-            <p>Ach, liebe, gute, gnadige Frau! Вам ошибся, вам себя обманул и мене тода!.. Когда б
+            <p>Ach, liebe, gute, gnädige Frau! Вам ошибся, вам себя обманул и мене тода!.. Когда б
               вы были знал, что случился?</p>
           </sp>
           <sp who="#zoja">
@@ -3426,7 +3436,7 @@
             <speaker>Няня</speaker>
             <l>Пожалуйте, она сейчас к вам выйдет.</l>
           </sp>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l>Так ей угодно видеться со мною</l>
             <l part="I">Наедине!..</l>
@@ -3452,7 +3462,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Незнакомый один.</stage>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <l>Так я ее увижу!.. Наконец!..</l>
             <l>Как долго ждал, как долго звал я тайно</l>
             <l part="I">Свиданье роковое!..</l>
@@ -3471,7 +3481,7 @@
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Зоя входит. Он принимает почтительный вид и кланяется ей три раза очень
             низко.</stage>
-          <sp who="#neznakomyj">
+          <sp who="#neznakomyj_graf">
             <speaker>Незнакомый</speaker>
             <l>Вы приказали мне предстать пред вами:</l>
             <l>Конечно, вам угодно продолжать</l>
@@ -3490,7 +3500,7 @@
               остановленный ее холодным взглядом, склоняет тихо голову и говорит медленно и
               покорно.)</stage>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="I">Да... это я!..</l>
           </sp>
@@ -3503,7 +3513,7 @@
             <l>Хоть знаю, вижу, слышу, а поверить</l>
             <l part="I">Я не хочу!</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Но иначе до вас</l>
             <l>Не мог достигнуть я... Я приезжал,</l>
@@ -3541,7 +3551,7 @@
             <l>Я угадала вас. Теперь скажите,</l>
             <l part="I">Зачем вы здесь?..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">С повинной головою,</l>
             <l>С изнывшим сердцем... я, у ваших ног,</l>
@@ -3560,7 +3570,7 @@
             <l part="I">Что вам сказать могла бы я?!</l>
             <stage>(Отворачивается от него.)</stage>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">О Зоя!</l>
             <l>Вы мстительны?.. Как будто б не стояли</l>
@@ -3574,7 +3584,7 @@
             <l>Вы мне чужой... вы стали посторонним...</l>
             <l part="I">Мне странно видеть вас...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(грустно и почти со слезами)</stage>
             <l part="F">И до сих пор</l>
@@ -3589,7 +3599,7 @@
             <l>Язвительной стрелой в душе моей</l>
             <l part="I">Останется... навек!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Вина моя</l>
             <l>Была, вы сами знаете, невольна!</l>
@@ -3612,7 +3622,7 @@
             <l>Как будто льдом сковало грудь мою,</l>
             <l>Как будто смерть повеяла на душу...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>И прошлое,- оно совсем забыто,</l>
             <l part="I">Оно вам ненавистно?..</l>
@@ -3623,7 +3633,7 @@
             <l part="F">Heт, оно</l>
             <l part="I">Прошло!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(с страстною любовью в выраженье)</stage>
             <l part="F">Но если вы меня любили,</l>
@@ -3660,7 +3670,7 @@
             <l>Такою сделали вы сами, граф,</l>
             <l part="I">Вы, жизнь и свет!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Смотрю на вас - и вижу,</l>
             <l>Лицом не изменились вы,- все та же</l>
@@ -3676,7 +3686,7 @@
             <l>Вы первый познакомили меня</l>
             <l>С обманом, с недоверчивостью, с горем...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>О Зоя! виноватым я казался,</l>
             <l>Но не был виноват! - Отец велел,</l>
@@ -3736,7 +3746,7 @@
             <l>Все это эпизод воспоминании,</l>
             <l>Быль в роде сказки... шалость... милый сон!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>Нет, Зоя, нет, вы знать должны,- меж нами</l>
             <l>Иначе было: строгий мой отец</l>
@@ -3768,7 +3778,7 @@
             <l>И, как Иуда, предали се!..</l>
             <stage>(Она удаляется от графа и садится в стороне. Минутное молчанье.)</stage>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(тихо и робко)</stage>
             <l>Когда бы знали вы, каким страданьем</l>
@@ -3796,7 +3806,7 @@
             <stage>(с иронией)</stage>
             <l>Зато сыновний долг исполнен вами!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(с упреком)</stage>
             <l>О! более, чем самая судьба,</l>
@@ -3825,7 +3835,7 @@
             <l>Уйдите, ради бога!.. Я молю вас,</l>
             <l part="I">Уйдите; граф!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Постойте!.. День еще</l>
             <l>Пробыть мне дайте с вами!.. Успокойтесь!</l>
@@ -3840,7 +3850,7 @@
             <l>Мы умерли! Зачем же мертвецов</l>
             <l>Нам воскрешать и тени их тревожить?..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>Пусть время вас приучит понемногу</l>
             <l>Сперва ко мне... потом к любви моей!..</l>
@@ -3853,7 +3863,7 @@
             <l>Забыть меня заставьте!.. Истребите</l>
             <l>И мысль и память заодно во мне!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>Что делать мне, чем заслужить пред вами</l>
             <l>Прощение и мир? Чем доказать,</l>
@@ -3865,7 +3875,7 @@
             <l>Вы любите?.. я верю вам!.. но я,-</l>
             <l>Я не могу любить!.. Теперь уж поздно!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>О Зоя! вы так молоды, так пылки!</l>
             <l>Так много лет еще осталось вам</l>
@@ -3908,7 +3918,7 @@
             <l>Благослови господь тебя, приезд твой!..</l>
             <l>Ах! радость, радость-то какая нам!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(обнимает ее)</stage>
             <l>Да, няня, это я!.. но не на радость!</l>
@@ -3920,7 +3930,7 @@
             <l>Зачем проститься?.. Ты жених, ты барин,</l>
             <l part="I">Ты свет желанный наш!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Нет, няня, нет!</l>
             <l>Жених я - без невесты... Зоя гонит</l>
@@ -3941,7 +3951,7 @@
             <l>От радости, я чай, души не слышит,</l>
             <l part="I">Что возвратился ты...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Нет, няня, нет!</l>
             <l>Она не рада мне; она признать</l>
@@ -3964,7 +3974,7 @@
             <l>В ней перемен... Ах! много, много горя</l>
             <l>Перенесла я, глядя на нее...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>Она меня не любит больше! Нет,</l>
             <l>Обманывать себя не стану я!</l>
@@ -3982,7 +3992,7 @@
             <l>Я взвидела,- так все из рук упало,</l>
             <l part="I">И я про все забыла...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Что? письмо?</l>
             <l>Зачем письмо, когда он говорить</l>
@@ -3994,7 +4004,7 @@
             <l>Что тут он пишет, бог весть! Но отдать</l>
             <l>Я все-таки должна ей,- и отдам!</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>Ты мне не отвечаешь: он зачем</l>
             <l>Здесь зажился?.. Он нравится ли Зое?</l>
@@ -4011,7 +4021,7 @@
             <l>Сойдутся, помирятся и толкуют,</l>
             <l>Как будто ничего и не бывало.</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l>Все это признаки - не отвращенья,</l>
             <l>А разве благосклонности!.. Быть может,</l>
@@ -4046,7 +4056,7 @@
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(насмешливо)</stage>
             <l>Какая прыть!.. Заботливость какая!..</l>
@@ -4067,7 +4077,7 @@
             <l>Тут все, все принадлежности, припасы</l>
             <l part="I">Таинственной развязки...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Может быть,</l>
             <l>Развязка не замедлит... Но мы двое</l>
@@ -4088,7 +4098,7 @@
             <l>Найдутся и шпионы, чтоб следить</l>
             <l part="I">За похождением героя...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">О!</l>
             <l>Герой-то тут лишь смотрит Дон-Кихотом...</l>
@@ -4105,7 +4115,7 @@
             <l>Под именем чужим, тот подозренью</l>
             <l part="I">Все поводы представил...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Я - граф Юрий!</l>
           </sp>
@@ -4118,7 +4128,7 @@
             <l>Мне все, чего понять не мог я вдруг...</l>
             <l part="I">Когда ж и где?..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Сейчас! Здесь парк обширен,</l>
             <l>Удобное легко отыщем место.</l>
@@ -4131,7 +4141,7 @@
             <l>Чтоб он свидетель был для нас обоих,</l>
             <l part="I">Чтоб избежать огласки?</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Как угодно!</l>
             <l>Так завтра мы стреляемся,- сегодня</l>
@@ -4161,7 +4171,7 @@
           </sp>
           <sp who="#mina">
             <speaker>Мина</speaker>
-            <p>Нет, gnadige Frau, все очень зовсем прекрасно; вы так же ловка, как добра...</p>
+            <p>Нет, gnädige Frau, все очень зовсем прекрасно; вы так же ловка, как добра...</p>
           </sp>
           <sp who="#zoja">
             <speaker>Зоя</speaker>
@@ -4171,7 +4181,7 @@
           <sp who="#mina">
             <speaker>Мина</speaker>
             <stage>(принимаясь плакать)</stage>
-            <p>Ach, nein, liebe, gute, gnadige Frau!.. Мне еще очень грустно...</p>
+            <p>Ach, nein, liebe, gute, gnädige Frau!.. Мне еще очень грустно...</p>
           </sp>
           <sp who="#zoja">
             <speaker>Зоя</speaker>
@@ -4249,7 +4259,7 @@
           <sp who="#gotlib">
             <speaker>Готлиб</speaker>
             <stage>(бросаясь ей неистово в ноги)</stage>
-            <p>Ach! gnadige Frau! Вы теперь спасите мене,- весь свет он против мене зебе
+            <p>Ach! gnädige Frau! Вы теперь спасите мене,- весь свет он против мене зебе
               поднимает... вы видите потерянный человек...</p>
           </sp>
           <sp who="#zoja">
@@ -4355,7 +4365,7 @@
             <l>Возьмете пистолеты вы,- мои</l>
             <l>Иль графские..?</l>
           </sp>
-          <sp who="#graf #valentin">
+          <sp who="#neznakomyj_graf #valentin">
             <speaker>Граф и Валентин</speaker>
             <stage>(оба)</stage>
             <l>Согласны! киньте жребий!</l>
@@ -4371,7 +4381,7 @@
             <l>Исполнить долг свидетеля!.. Нельзя ли</l>
             <l part="I">Уладить дело?</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Спор наш был таков,</l>
             <l>Что кровью лишь искуплен может быть.</l>
@@ -4388,7 +4398,7 @@
             <l>Угодно, чтоб дуэль осталась тайной,</l>
             <l part="I">Как бы ни кончилась она?..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="F">Да, да!</l>
             <l>Мы так решили: что бы ни случилось,</l>
@@ -4582,7 +4592,7 @@
             <speaker>Валентин</speaker>
             <l>Другая все же будет не она!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(тихо Зое)</stage>
             <l>Вы гневны?.. Рассердил я вас?.. Простите!</l>
@@ -4619,7 +4629,7 @@
             <l part="F">Уж вы здоровы,-</l>
             <l>Пора вам и домой!.. Я не держу вас!..</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <l part="I">И мне... мне тоже ссылка?</l>
           </sp>
@@ -4630,7 +4640,7 @@
             <l>Когда спокойны будете,- как друг,</l>
             <l>Но друг без притязаний, вроде брата...</l>
           </sp>
-          <sp who="#graf">
+          <sp who="#neznakomyj_graf">
             <speaker>Граф</speaker>
             <stage>(горько)</stage>
             <l>О! если так,- не свидимся мы с вами,</l>
