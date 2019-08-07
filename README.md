@@ -37,7 +37,7 @@ If you have [jq](http://blog.librato.com/posts/jq-json) installed, it would work
 like this:
 
 ```
-for play in `curl 'https://dracor.org/api/corpora/rus' | jq -r ".dramas[] .id"`; do
+for play in `curl 'https://dracor.org/api/corpora/rus' | jq -r ".dramas[] .name"`; do
     wget -O "$play".csv https://dracor.org/api/corpora/rus/play/"$play"/networkdata/csv
 done
 ```
