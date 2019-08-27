@@ -318,7 +318,7 @@
           <stage>(поют)</stage>
           <l>Вот куплеты,</l>
           <l>Мы, поэты,</l>
-          <l>В вашу честь (bis)</l>
+          <l>В вашу честь <stage>(bis)</stage></l>
           <l>Написали вместе</l>
           <l>На своем всяк месте.</l>
           <l>Здесь нас шесть!</l>
@@ -831,9 +831,9 @@
         </sp>
         <sp who="#lizaveta_platonovna">
           <speaker>Лизавета Платоновна</speaker>
-          <l>Я боюсь, (bis)</l>
-          <l>Я страшусь, (bis)</l>
-          <l>Не решусь! (ter)</l>
+          <l>Я боюсь, <stage>(bis)</stage></l>
+          <l>Я страшусь, <stage>(bis)</stage></l>
+          <l>Не решусь! <stage>(ter)</stage></l>
         </sp>
         <sp who="#libental">
           <speaker>Либенталь</speaker>
@@ -847,8 +847,8 @@
         </sp>
         <sp who="#libental #lizaveta_platonovna">
           <speaker>Оба вместе</speaker>
-          <l>Она трус! (ter)</l>
-          <l>Не решусь! (ter)</l>
+          <l>Она трус! <stage>(ter)</stage></l>
+          <l>Не решусь! <stage>(ter)</stage></l>
         </sp>
         <sp who="#libental">
           <speaker>Либенталь</speaker>
@@ -1972,7 +1972,7 @@
             начинает.)</stage>
           <l>Аграфена!</l>
           <l>Нам измена</l>
-          <l>Не страшна; (bis)</l>
+          <l>Не страшна; <stage>(bis)</stage></l>
           <l>Хоть и пред тобою</l>
           <l>Не черней душою</l>
           <l>Сатана!</l>
