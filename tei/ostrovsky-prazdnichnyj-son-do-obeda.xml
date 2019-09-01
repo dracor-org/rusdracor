@@ -1,0 +1,2522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Праздничный сон — до обеда</title>
+        <title type="main" xml:lang="en">A Holiday Dream Before Dinner</title>
+        <title type="sub" xml:lang="ru">Картины из московской жизни</title>
+        <title type="sub" xml:lang="en">Pictures from Moscow Life</title>
+        <author key="Wikidata:Q171976">Островский, Александр Николаевич</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000184</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4376382</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/o/ostrowskij_a_n/text_0052.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Москва, Изд-во "Книжная палата", 2001</title>
+            <date type="print"/>
+            <date type="premiere" when="1857">"Первая постановка пьесы состоялась 28 октября 1857
+              года на сцене Александринского театра." (ru.wikipedia.org)</date>
+            <date type="written" when="1857">"Написана в январе 1857 года: 6 января Александр
+              Островский её задумал, 8 января — начал, 18 января — закончил."
+              (ru.wikipedia.org)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="balzaminova" sex="FEMALE">
+            <persName>Бальзаминова</persName>
+            <persName xml:lang="de">Pawla Petrowna Balsaminowa</persName>
+          </person>
+          <person xml:id="balzaminov" sex="MALE">
+            <persName>Бальзаминов</persName>
+            <persName xml:lang="de">Balsaminow</persName>
+          </person>
+          <person xml:id="matrena" sex="FEMALE">
+            <persName>Матрена</persName>
+            <persName xml:lang="de">Matrjona</persName>
+          </person>
+          <person xml:id="krasavina" sex="FEMALE">
+            <persName>Красавина</persName>
+            <persName xml:lang="de">Akulina Gawrilowna Krassawina</persName>
+          </person>
+          <person xml:id="nichkina" sex="FEMALE">
+            <persName>Ничкина</persName>
+            <persName xml:lang="de">Kleopatra Iwanowna Nitschkina</persName>
+          </person>
+          <person xml:id="kapochka" sex="FEMALE">
+            <persName>Капочка</persName>
+            <persName xml:lang="de">Kapotschka</persName>
+          </person>
+          <person xml:id="ustinka" sex="FEMALE">
+            <persName>Устинька</persName>
+            <persName xml:lang="de">Ustinka</persName>
+          </person>
+          <person xml:id="malanya" sex="FEMALE">
+            <persName>Маланья</persName>
+            <persName xml:lang="de">Malanja</persName>
+          </person>
+          <person xml:id="yusha" sex="FEMALE">
+            <persName>Юша</persName>
+            <persName xml:lang="de">Juscha</persName>
+          </person>
+          <person xml:id="neuedenov" sex="MALE">
+            <persName>Неуеденов</persName>
+            <persName xml:lang="de">Nil Borrisytsch Neujedenow</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="pictures" type="genreTitle">Картины из московской жизни</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-14">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Праздничный сон — до обеда<note place="foot">По народному поверью,
+            сон, виденный под праздник, сбывается только до обеда (Примеч. авт.)</note></titlePart>
+        <titlePart type="sub">Картины из московской жизни</titlePart>
+      </docTitle>
+      <castList>
+        <head>ЛИЦА:</head>
+        <castItem>Павла Петровна Бальзаминова, вдова.</castItem>
+        <castItem>Михайло Дмитрич Бальзаминов, ее сын, чиновник, 25 лет.</castItem>
+        <castItem>Клеопатра Ивановна Ничкина, вдова, купчиха, 35 лет.</castItem>
+        <castItem>Капочка (Капитолина), ее дочь, 17 лет.</castItem>
+        <castItem>Устинька, подруга Капочки, купеческая дочь, 20 лет.</castItem>
+        <castItem>Акулина Гавриловна Красавина, сваха.</castItem>
+        <castItem>Нил Борисыч Неуеденов, купец, брат Ничкиной, 40 лет.</castItem>
+        <castItem>Юша (Ефим), сын его, 13 лет.</castItem>
+        <castItem>Матрена, кухарка у Бальзаминовых.</castItem>
+        <castItem>Маланья, горничная у Ничкиной.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="tableau">
+        <head>КАРТИНА ПЕРВАЯ</head>
+        <stage>Бедная комната; направо дверь, у двери старинные часы; прямо печь изразцовая, с одной
+          стороны ее шкаф, с другой — дверь в кухню; налево комод, на нем туалетное зеркало; на
+          первом плане окно, у окна стол.</stage>
+        <div type="scene">
+          <head>Явление первое</head>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова</speaker>
+            <stage>(одна, сидит с чулком в руках).</stage>
+            <p>Миша! Миша! Что ты там в кухне делаешь?</p>
+            <stage>Бальзаминов из кухни: "Не мешайте, маменька! Матрена меня завивает!"</stage>
+            <p>Все завивается! Все завивается! Красотой-то своей уж очень занят. Эх, молодо, зелено!
+              Все счастье себе хочет составить, прельстить кого-нибудь. А я так думаю, не прельстит
+              он никого; разумом-то он у меня больно плох. Другой и собой-то, из лица-то неказист,
+              так словами обойдет, а мой-то умных слов совсем не знает. Да, да! Уж и жаль его.
+              Знай-ка он умные-то слова, по нашей бы стороне много мог выиграть: сторона глухая,
+              народ темный. А то слов-то умных не знает. Да и набраться-то негде. Уж хоть бы из
+              стихов, что ли, выписывал. <stage>(Подумав.)</stage> И диковина это, что случилось! В
+              кого это он родился так белокур? Опять беда: нынче бело-курые-то не в моде. Ну и
+              нос... не то чтобы он курносый вовсе, а так мало как-то, чего-то не хватает. А
+              понравиться хочется, особенно кабы богатой невесте. Уж так, бедный, право, старается —
+              из кожи лезет. Кто ж себе враг! Сторона-то у нас такая, богатых невест очень много, а
+              глупы ведь. Может, Мише и посчастливится по их глупости. Умишком-то его очень бог
+              обидел.</p>
+            <stage>Бальзаминов кричит из кухни: "Маменька, я хочу а ля полька завиться!"</stage>
+            <p>Глупенький, глупенький! Зачем ты завиваешься-то? Волосы только ерошишь да жжешь, все
+              врозь смотрят. Так-то лучше к тебе идет, натуральнее! Ах ты, Миша, Миша! Мне-то ты
+              мил, я-то тебя ни на кого не променяю; как-то другим-то понравишься, особенно
+              богатым-то? Что-то уж и не верится! На мои-то бы глаза лучше и нет тебя, а другие-то
+              нынче разборчивы. Поговорят с тобой, ну и увидят, что ты умом-то недостаточен. А кто ж
+              этому виноват? <stage>(Вздыхает.)</stage> Глупенький ты мой! А ведь, может быть, и
+              счастлив будет. Говорят, таким-то бог счастье дает. <stage>(Вяжет чулок.)</stage></p>
+          </sp>
+          <stage>Бальзаминов в халате вбегает из кухни.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление второе</head>
+          <stage>Бальзаминов, Бальзаминова и Матрена.</stage>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(держась за голову).</stage>
+            <p>Ухо, ухо! Батюшки, ухо!</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена</speaker>
+            <stage>(в двери; со щипцами).</stage>
+            <p>Я ведь не полихмахтер, с меня что взять-то!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да ведь я тебя просил волосы завивать-то, а не уши.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>А зачем велики отрастил! Ин шел бы к полихмахтеру; а с меня что взять-то!
+                <stage>(Уходит.)</stage></p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Батюшки, что ж мне делать-то! <stage>(Подходит к зеркалу.)</stage> Ай, ай, ай!
+              Почернело все!.. Уж больно-то, нужды б нет, как бы только его волосами закрыть, чтобы
+              не видно было.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>За дело!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Какое, задела! Так горячими-то щипцами все ухо и ухватила... Ой, ой, ой! Маменька!
+              Даже до лихорадки... Ой, батюшки!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Я говорю, Миша, за дело тебе. Зачем завиваться! Что хорошего! Точно как цирульник; да
+              и грех. Уж как ни завивайся, лучше не будешь.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Как вы, маменька, мне счастья не желаете, я не понимаю. Как мы живем? Просто
+              бедствуем.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Так что ж! Зачем же волосы-то портить?..</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да ведь нынче праздник.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Так что ж, что праздник?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Как что? Здесь сторона купеческая; может такой случай выйти... Вдруг...</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Все у тебя глупости на уме.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Какие же глупости?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Разумеется, глупости. Разве хорошо? Растреплешь себе во-лосы, да и пойдешь мимо
+              богатых купцов под окнами ходить. Как-нибудь и беды наживешь. Другой ревнивый муж или
+              отец вышлет дворника с метлой.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ну, что ж такое? Ну, вышлет; можно и убежать.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Незачем шататься-то.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Как незачем? Разве лучше в бедности-то жить! Ну, я год прохожу, ну два, ну три, ну
+              пять — ведь также у меня время-то идет, — зато вдруг...</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Лучше бы ты служил хорошенько.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Что служить-то! Много ли я выслужу? А тут вдруг зацепишь мильон.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Уж и мильон?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А что ж такое! Нешто не бывает. Вы сами ж сказывали, что я в сорочке родился.</p>
+            <stage>Молчание.</stage>
+            <p>Ах, маменька, не поверите, как мне хочется быть богатым, так и сплю, и вижу.
+              Кажется... эх... разорвался бы! Уж так хочется, так хочется!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Дурное ли дело!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ведь другой и богат, да что проку-то: деньгами не умеет распорядиться, даже досадно
+              смотреть.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>А ты умеешь?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да, конечно, умею. У меня, маменька, вкусу очень много. Я знаю, что мне к лицу.
+                <stage>(Подбегает к окну.)</stage> Маменька, маменька, поглядите!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Нужно очень!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Какая едет-то! Вся бархатная! <stage>(Садится у окна, повеся голо-ву.)</stage> Вот
+              кабы такая влюбилась в меня да вышла за меня замуж, что бы я сделал!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>А что?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А вот: во-первых, сшил бы себе голубой плащ на черной бархатной подкладке. Надо
+              только вообразить, маменька, как мне голубой цвет к лицу! Купил бы себе серую лошадь и
+              беговые дрожки и ездил бы по Зацепе, маменька, и сам правил...</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Все-то вздор у тебя.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да, я вам и забыл сказать, какой я сон видел! Вот разга-дайте-ка.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ну, говори, какой?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(берет стул и садится подле матери).</stage>
+            <p>Вот, вдруг я вижу, будто я еду в хорошей коляске и одет будто я очень хорошо, со
+              вкусом: жилетка будто на мне, маменька, черная, с мелкими золотыми полосками; лошади
+              будто серые, а еду я подле реки...</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Лошади — ложь; река — речи, разговор.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Слушайте, маменька, что дальше было. Вот, вижу я, будто кучер меня уронил, во всем-то
+              в новом платье, и прямо в грязь.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Грязь — это богатство.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да какая грязь-то, маменька! Бррр... И будто я в этом... весь перепачкался. Так я и
+              обмер! Во всем-то в новом, вообразите!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Это... золото. Это тебе к большому богатству.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Кабы сбылось! Хоть бы вот насмех один сон сбылся! Уж сколько я таких снов видел: и
+              денег-то у меня много, и одет-то я очень хорошо — проснешься, хвать, ан нет ничего.
+              Один раз генералом себя видел. Как обрадовался! Нет! Перестану верить снам.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Как можно не верить.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Нет, нет! Один обман...</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>А вот подождем. Праздничный сон — до обеда сбывается: коли до обеда не сбудется, так
+              ничего не будет, — надобно его совсем из головы выкинуть.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Я, маменька, оденусь да пойду погуляю. <stage>(Уходит.)</stage></p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>А сон-то в самом деле хорош. Чего не бывает на свете! Может быть, и ему счастье
+              выйдет.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена</speaker>
+            <stage>(в дверях).</stage>
+            <p>Какая-то старуха, русачка, вас спрашивает.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ну, позови!</p>
+            <stage>Матрена уходит.</stage>
+            <p>Что ей от меня нужно? Право, не придумаю. Уж не сваха ли?</p>
+          </sp>
+          <stage>Красавина входит.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление третье</head>
+          <stage>Красавина и Бальзаминова.</stage>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Садитесь, матушка!</p>
+            <stage>Красавина садится.</stage>
+            <p>Что вам угодно?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Аль не узнали?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Не признаю, матушка.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Уж, кажется, нашу сестру из тысячи выберешь. Видна сова по полету. Где сын-то?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Одевается.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Ну, уж кавалер, нечего сказать! С налету бьет! Крикнул это, гаркнул: сивка, бурка,
+              вещая каурка, стань передо мной, как лист перед травой! В одно ухо влез, в другое
+              вылез, стал молодец молодцом. Сидит королевишна в своем новом тереме на двенадцати
+              венцах. Подскочил на все двенадцать венцов, поцеловал королевишну во сахарны уста, а
+              та ему именной печатью в лоб и запеча-тала для памяти.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Теперь, матушка, понимаю. Миша, Миша!</p>
+          </sp>
+          <stage>Бальзаминов входит во фраке.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление четвертое</head>
+          <stage>Те же и Бальзаминов.</stage>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Красота моя неописанная! Младой вьюнош, чем дарить будешь?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Кого?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Меня.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>За что?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Много будешь знать, скоро состареешься. Ты подарок-то готовь.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(сконфузившись).</stage>
+            <p>Чем тебя дарить-то? <stage>(Шарит в карманах.)</stage> Право... эх... ничего-то у
+              меня нет.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>На нет — суда нет. Теперь нет, после будет. Смотри же, уговор лучше денег. Мне
+              многого не надо, ты сам человек бедный, только вдруг счастье-то тебе такое вышло. Ты
+              мне подари кусок материи на платье да платок пукетовый, французский.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да уж хорошо, уж что толковать!</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Что разгорячился больно! Надо толком поговорить. Ты свое возьмешь, и мне надо свое
+              взять. Так смотри же, французский. А то ты подаришь, пожалуй, платок-то по нетовой
+              земле пустыми цветами.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да уж все, уж все, только говори.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Аль сказать?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Говори, говори! Маменька, вот сон-то!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Да, Миша.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Разве видел что?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Видел, видел.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Ну, вот тебе и вышло.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да что вышло-то?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Ишь ты какой проворный! Так тебе вдруг и сказать! Вы хоть бы меня попотчевали
+              чем-нибудь. Уж, одно слово, обрадую.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Маменька, что ж вы сидите в самом деле! Всего-то один сын у вас, и то не хлопочете об
+              его счастье!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Что ты, с ума, что ли, сошел!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да как же, маменька! Сами теперь видите, какая линия мне выходит. Вдруг человеком
+              могу сделаться... Поневоле с ума сойдешь.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Чаю не хотите ли?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Пила, матушка, раза четыре уж нынче пила. Форму-то эту соблюдаешь, а проку-то от него
+              немного.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Так не прикажете ли водочки?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Праздничный день — можно. Я от добра не отказываюсь; во мне нет этого.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова</speaker>
+            <stage>(достает из шкафа водку).</stage>
+            <p>Матрена! Сбегай в лавочку, возьми колбасы.</p>
+            <stage>Матрена из кухни: "Что бегать-то, коли дома есть!"</stage>
+            <p>Так подавай поскорее.</p>
+          </sp>
+          <stage>Матрена из кухни: "Подам! над нами не каплет".</stage>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ведь вот удавить Матрену — ведь мало.</p>
+          </sp>
+          <stage>Бальзаминова идет в кухню и приносит на двух тарелках хлеб и колбасу и ставит на
+            стол.</stage>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Кушайте.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Я ни от чего не отказываюсь. Все добро, все на пользу. Ничем не брезгаю. В одном доме
+              хотели надо мной насмешку сделать, поднесли вместо водки рюмку ладиколону.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Скажите! Какая насмешка!</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Ничего. Я выпила да еще поблагодарила. От него ведь вреда нет, от ладиколону-то. С
+              праздником! <stage>(Пьет и закусывает.)</stage></p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Кушайте на здоровье! Как вас звать?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Акулина Гавриловна. Между народом-то Говорилихой прозвали, так Говорилихой и
+              кличут.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Чем же, Акулина Гавриловна, обрадуете?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Будто не знаешь! Ты ведь заполонил-то, так должен знать.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Право, не знаю.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Каков молодец! Ох, глаза твои плутовские, больно завистливы! Высоко глаза-то
+              закидываешь! А девка-то теперь сохнет, по стенам мечется. Видит беду неминучую, за
+              Говорилихой сейчас: "Выручай, Говорилиха!" — А Говорилихе-то и на руку. Посольскую
+              должность мне не в первый раз править. Ноги с подходом, голова с поклоном, язык с
+              приговором.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да от кого?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>От кого! Тебе все скажи. Сам догадайся. Где с утра до ночи основу-то снуешь, аль не
+              знаешь? Он-то ходит под окнами манирует, а она ему из второго этажа пленирует.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Так неужто Ничкина?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина</speaker>
+            <stage>(ударив рукой по столу).</stage>
+            <p>В самую центру!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(ухватив себя за голову, вскакивает).</stage>
+            <p>О-ох, маменька! <stage>(Стоит в оцепенении.)</stage></p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Что с ним?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>От любви. Еще хуже бывает. Любовь — ведь она жестокая для сердец. Нет ее ужасней. За
+              неверность кровь проливают.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ах! <stage>(Садится на стул.)</stage></p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>С чем же они, матушка, вас к нам прислали, с каким предложением?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Насчет знакомства. Надо прежде познакомиться.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Разумеется.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Познакомиться! Боже мой!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Как же, матушка, это сделать?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>А вот пошлите молодца-то ужо, после вечерен, будто попросить-ся в сад погулять, да
+              вечером и приходите, — они вас деликатным манером пригласят чай кушать.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ну, и прекрасно, мы так и сделаем.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Маменька, я с ума сойду! Мне уж что-то казаться начинает.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Глупенький, глупенький!</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Любовь действует. Так что ж мне своим-то сказать?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Миша что скачать?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Скажи, что я умираю от любви; что, может быть, умру к вечеру.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ну, что за глупости ты говоришь.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Зачем умирать! Надо жить, а мы на вас будем радоваться!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Нет, нет, пускай сберут все розы и лилеи и насыплют на гроб мой.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Эх, Миша, уж не говорил бы ты лучше, не стыдил бы ты меня!.. Так мы придем. А
+              позвольте спросить... конечно, еще все это, как бог даст, а все-таки интересно знать,
+              как насчет приданого?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Золотая невеста! У нее своих денег — после отца достались — триста тысяч серебра.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(вскочив).</stage>
+            <p>Охо, хо, хо! <stage>(Ходит по комнате.)</stage></p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Ишь его схватывает!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Что это ты, Миша, не умеешь вести себя!.. Уж извините его, — от радости.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Обрадуешься! Деньги-то деньгами, да и собой-то уж очень красавица: телом сахар, из
+              себя солидна, во всей полноте; как одевается, две девки насилу застегнут. Даже
+              несколько совестится. Чего же, я говорю, совеститься, коли бог дал. Аккурат пельсик.
+              Ну, прощайте! Вечерком увидимся.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Прощайте! На дорожку-то. <stage>(Наливает.)</stage></p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>И то выпить; об одной-то хромать будешь. <stage>(Пьет и закусывает.)</stage> Прощай,
+              победитель!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Прощай! <stage>(Кидается к ней на шею.)</stage></p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Рад, рад, уж вижу, что рад; только смотри, под силу ль дерево-то рубишь? Ну, прощай,
+              развозжай, разиня уж уехал. <stage>(Уходит.)</stage></p>
+          </sp>
+          <stage>Бальзаминова провожает ее до кухни и возвращается.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление пятое</head>
+          <stage>Бальзаминов, Бальзаминова и потом Матрена.</stage>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Где мой крандаш, где мой крандаш?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>На что тебе крандаш?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Надо, маменька. Матрена! Матрена!</p>
+            <stage>Матрена входит.</stage>
+            <p>Где мой крандаш?</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>А я почем знаю. Какой же ты писарь после этого, когда крандаш потерял.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Писарь! писарь!</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>Ведь крандаш у тебя все равно что у солдата ружье. Так нешто солдаты ружья
+              теряют?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Какой я писарь! Я скоро барин буду.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>Ты барин? Непохоже.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А вот увидишь, как триста тысяч получу.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>Триста тысяч! Не верю. У кого ж это такие деньги бешеные, чтоб за тебя триста тысяч
+              дали. Да ты их счесть-то не умеешь.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ну, да что с тобой разговаривать! Ты ничего не понимаешь.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>Где понимать! А еще жених, жениться хочет, а сам крандаш потерял. Бесстыдник!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(шарит в боковом кармане).</stage>
+            <p>Вот он, нашел.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ну, что ж будет?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А вот сейчас. <stage>(Берет с комода бумажку и садится у стола.)</stage> Я теперь
+              получаю жалованья сто двадцать рублей в год, мы их и проживаем; а как будет триста
+              тысяч <stage>(пишет триста тысяч)</stage>, так если по тысяче в год... все-таки мне на
+              триста лет хватит.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена</speaker>
+            <stage>(всплеснув руками).</stage>
+            <p>Батюшки!</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Неужли ж ты триста лет хочешь прожить!..</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ну, позвольте! Если по две в год <stage>(пишет)</stage>, все на полтораста лет
+              хватит.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ты рехнулся совсем.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Что ж, маменька, при хорошей-то жизни, может быть и про-живешь.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>Как не прожить!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ах, я о процентах-то и забыл. Сколько, маменька, процентов с трехсот тысяч?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Да, чай, тысяч двенадцать.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Кажется, маменька, с чем-то двенадцать тысяч.</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>С денежкой.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>С какой денежкой! Что ты врешь!</p>
+          </sp>
+          <sp who="#matrena">
+            <speaker>Матрена.</speaker>
+            <p>Что считать-то, чего нет. Смотреть-то скучно. Ты вот сочти лучше: девять веников, по
+              денежке веник, много ли денег? И того не счесть. <stage>(Уходит.)</stage></p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(встает).</stage>
+            <p>Пойду погулять, пусть немного ветром обдует; а то уж очень много мыслей в голове об
+              жизни.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Ты бы пока слова-то подбирал, какие ужо говорить с невестой.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А вот я во время прогулки и буду слова подбирать.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>А я платье приготовлю, надо ужо одеться хорошенько.</p>
+          </sp>
+          <stage>Уходят.</stage>
+        </div>
+      </div>
+      <div type="tableau">
+        <head>КАРТИНА ВТОРАЯ</head>
+        <stage>В доме купчихи Ничкиной: богатая купеческая гостиная, хорошо меблированная;
+          рояль.</stage>
+        <div type="scene">
+          <head>Явление первое</head>
+          <stage>Ничкина в широкой блузе, Капочка тоже и Маланья входят.</stage>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Как жарко! А пообедаешь, так еще пуще разморит... так разморит... разморин такой
+              нападет, не глядела б ни на что! <stage>(Садится на диван.)</stage></p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Давай, Малаша, споем.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ну вас, и так жарко.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Мы, маменька, потихоньку. <stage>(Садится за рояль.)</stage></p>
+          </sp>
+          <stage>Капочка и Малаша запевают: "Вот на пути село большое". Немного погодя Ничкина
+            пристает к ним.</stage>
+          <sp who="#nichkina">
+            <speaker>Ничкина</speaker>
+            <stage>(перестав петь).</stage>
+            <p>Бросьте, а то и меня взманили. Устала.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Что это, маменька, как вы капризны! Вдруг на меня нашла фантазия петь, а вы не
+              даете.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да жарко, Капочка.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>В другой раз сами будете просить, а у меня фантазии не будет. Кто ж виноват, что вам
+              жарко. Это даже довольно странно с вашей стороны!</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ну, уж ты!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Чем же мне развлекаться прикажете? Кавалеров у нас не бывает. Только и делаем, что по
+              целым дням с Малашей в окно глядим. Вы, пожалуй, и этого не позволите.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Делай что хочешь, только не тревожь ты меня.</p>
+          </sp>
+          <stage>Устинька входит в шляпке.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление второе</head>
+          <stage>Те же и Устинька. [Устинька немного картавит. (Примеч. авт.)]</stage>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Здравствуйте, Клеопатра Ивановна!</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Здравствуй, Устинька! Что, жарко на дворе?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Жарко.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Что это за наказанье!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Здравствуй, Капочка! <stage>(Снимает шляпку.)</stage> Сейчас видела твой предмет,
+              ходит по набережной в забвении чувств.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! Одно сердце страдает, а другое не знает.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Что же, Клеопатра Ивановна, вы посылали к нему Гавриловну?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да... вот... баловница я. И не надо б мне вас слушать-то, а я послала нынче. Кто меня
+              похвалит за это! Всякий умный человек заругает. Да вот пристала, ну я по слабости и
+              послушалась. Кто его знает, какой он там! Придет в дом... как жених... страм.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Над сердцем нельзя шутить.</p>
+          </sp>
+          <sp who="#malanya">
+            <speaker>Маланья.</speaker>
+            <p>В сердце-то замирание бывает, сударыня.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Какое сердце! Так, с жиру... Знаем мы это сердце-то... сама была в девках... Другая б
+              строгая мать-то пришила б хвост-то тебе, да сама б нашла жениха-то хорошего, а не
+              сволочь какую-нибудь.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Нынче уж тиранство-то не в моде.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Какое тиранство! Не то что тиранство, у меня и рассудку-то не хватает... да и
+              жарко-то... Батюшки!.. говорить-то, и то тяжело... так уж и махнула рукой — что хочет,
+              то и делает.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Самые нынешние понятия.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>А в чахотку-то, маменька, разве не приходят от родителей?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Разве есть законы для чувств?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Разве не бегают из дому-то в слуховое окно?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Или в форточку.</p>
+          </sp>
+          <sp who="#malanya">
+            <speaker>Маланья.</speaker>
+            <p>А то и в подворотню, барышня.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Так-то так... да уж и воли-то вам большой дать нельзя... с вами стыда-то и не
+              оберешься... на все Замоскворечье...</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Однако какой сюжет вы об нас имеете! Мы, кажется, себя ничем не доказали с такой
+              стороны.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Уж маменька скажет словечко — одолжит. Вот этак при людях отпечатает, ведь осрамит,
+              куда деться от стыда! Подумают, что мы и в самом деле такие.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Разве нет баловниц-то? Неправду, что ль, я говорю?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Хотя и есть, но все-таки это до нас не относится.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Все больше от родителей, потому что запирают.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Нельзя и не запирать-то... вас...</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Напрасно так полагаете. Одно суеверие.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Никакого толку-то нет от запиранья.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Все-таки спишь спокойнее... не думается... не то, что на свободе.</p>
+            <stage>Капочка, Устинька и Маланья хохочут.</stage>
+            <p>Чему вы смеетесь-то? Известно, присмотр лучше... Без присмотру нельзя.</p>
+            <stage>Капочка, Устинька и Маланья хохочут.</stage>
+            <p>Чему вы?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Своему смеху.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Что вы меня насмех, что ли, подымаете? Не глупей я вас... Батюш-ки, жарко!
+                <stage>(Маланье.)</stage> Ты чему, дура?</p>
+          </sp>
+          <sp who="#malanya">
+            <speaker>Маланья.</speaker>
+            <p>Я на барышень глядя.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Да как же не смеяться? Разве можно за девушкой усмотреть! Что вы говорите-то!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Хоть тысяча глаз гляди, все равно.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Есть чем хвалиться! Куда как хорошо!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Мы и не хвалимся и совсем это не про себя говорим; напрасно вы так понимаете об нас.
+              Мы вообще говорим про девушек, что довольно смешно их запирать, потому что можно найти
+              тысячу средств... и кто ж их не знает. А об нас и разговору нет. Кто может подумать
+              даже! Мы с Капочкой оченно себя знаем и совсем не тех правил. Кажется, держим себя
+              довольно гордо и деликатно.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Случаю-то вам нет...</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Ах, боже мой! Разве можно так обижать девушек!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Да ведь маменька судит по-старому, как в ее время было.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да разве давно это время было-то!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Нынче уж девушки стали гораздо благороднее во всех напра-влениях.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Уж я не знаю, что вы говорите, маменька. Неужели я, при всей моей кротости в жизни,
+              не могла угодить вам?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ах, отстаньте от меня, и без вас тошно! Куда деться-то от жару? Батюшки!</p>
+          </sp>
+          <sp who="#malanya">
+            <speaker>Маланья.</speaker>
+            <p>Шли бы, сударыня, на погребицу.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>И то на погребицу.</p>
+          </sp>
+          <stage>Входит Красавина.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление третье</head>
+          <stage>Те же и Красавина.</stage>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Здравствуйте! Все справила и ответ принесла. Что, Калюпатра Ивановна, аль
+              неможется?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ничего... Садись... только подальше, а то жарко...</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Какой же ответ?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Загорелось! И подождешь, не велика важность. <stage>(Ничкиной.)</stage> Коли жарко,
+              ты бы пивца велела подать с леднику: говорят, прохлаждает.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Все говорят — прохлаждает... ничего не прохлаждает.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>А то чайку...</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ничего не прохлаждает... Поди, Маланья, поставь самовар.</p>
+          </sp>
+          <stage>Маланья уходит.</stage>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Но, однако, скажите, вы должны же дать ответ об том, зачем вас посылали.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>А мой ответ будет короткий. По щучьему веленью, по моему прошенью, извольте
+              снаряжаться, — к вечеру гости будут.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ты чего лишнего не сболтнула ли?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Ничего я лишнего не сказала; сказала только: пожалуйте в наш сад вечером погулять,
+              вишенье, орешенье щипать. Он так обрадовался, ровно лунатик какой сделался.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, я боюсь.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Чего же ты боишься, душа моя? Довольно непонятно для меня.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Я всегда боюсь мужчин, особенно в кого влюблена.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Что его бояться-то, не укусит.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Уж лучше б они прямо говорили; а то заведут такие разговоры, издалека, не знаешь, что
+              отвечать.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Как можно прямо-то! Нехорошо! Стыдно! Известно, для прилику нужно сначала об
+              чем-нибудь об другом поговорить.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Отчего же не сказать прямо, когда что чувствуешь. Ах, Устинька, я ужасть как боюсь.
+              Ну, сконфузишься? Я никак не могу воздержать своих чувств... Вдруг могу сделать
+              что-нибудь... могу все чувства потерять...</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Не бойся, я буду с тобой. Я уж тебя не выдам.</p>
+          </sp>
+          <stage>Говорят шепотом.</stage>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Нового нет ли чего?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Что бы тебе новое-то сказать? Да вот, говорят, что царь Фараон стал по ночам из моря
+              выходить, и с войском; покажется и опять уйдет. Говорят, это перед последним
+              концом.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Как страшно!</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Да говорят, белый арап на нас подымается, двести миллионтов войска ведет.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Откуда же он, белый арап?</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Из Белой Арапии.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Как будет на свете-то жить! Такие страсти! Времена-то такие тяжелые!</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>Да говорят еще, какая-то комета ли, планида ли идет; так ученые в митроскоп смотрели
+              на небо и рассчитали по цифрам, в который день и в котором часу она на землю
+              сядет.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Разве можно знать божью планиду! У всякого человека есть своя планида... Батюшки, как
+              жарко! Разделась бы, да нельзя — праздничный день, в окошки народ смотрит; в сад
+              войдешь — соседи в забор глядят.</p>
+          </sp>
+          <sp who="#krasavina">
+            <speaker>Красавина.</speaker>
+            <p>А ставни закрыть.</p>
+          </sp>
+          <stage>Маланья входит.</stage>
+          <sp who="#malanya">
+            <speaker>Маланья.</speaker>
+            <p>Братец приехал.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Батюшки! В такой жар...</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Как бы, маменька, он у нас дела не расстроил! Дяденька такой необразованный!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Уж какие могут быть понятия, из степи приехал!</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Не из степи, а из Коломны.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Все равно, одно образование, один вкус.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Маменька, вы ему командовать-то не давайте.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Разве с ним сговоришь!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Вот наказанье-то!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Нет, вообрази, что может Бальзаминов подумать о вас, видя такое невежество!</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина</speaker>
+            <stage>(Маланье).</stage>
+            <p>Поди проводи его прямо в столовую. Да обедать подать, — чай, с дороги-то есть
+              захочет. Пойти принять его.</p>
+          </sp>
+          <stage>Ничкина, Маланья и Красавина уходят.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление четвертое</head>
+          <stage>Капочка и Устинька.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Вот принесло вовремя! Теперь все в доме на русский манер пойдет. Ах, я чувствую свою
+              судьбу; расстроит он маменьку. Ну, как он да научит маменьку отдать меня за купца с
+              бородой! Тогда я умру от любви.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Зачем такие жестокие слова говорить!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Нет, Устинька, ты не знаешь моего сердца! Мое сердце самое горячее к любви.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Капочка, скажи, душка, как ты влюбилась? Я ужасть как люблю открытия в любви от своих
+              подруг.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! одна минута — и навек все кончено! Шла я вечером откуда-то с Маланьей, вдруг нам
+              навстречу молодой человек, в голубом галстуке; посмотрел на меня с такой душой в
+              глазах, даже уму непостижимо! А потом взял опустил глаза довольно гордо. Я вдруг
+              почувствовала, но никакого виду не подала. Он пошел за нами до дому и раза три прошел
+              мимо окон. Голубой цвет так идет к нему, что я уж и не знаю, что со мной было!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Знаков он тебе никаких не показывает, когда ходит мимо?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Нет. Только всегда так жалко смотрит, как самый постоянный.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>И часто ходит?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, Устинька, каждый день. Ах!.. Разве уж очень грязно...</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Это значит, он просто сгорает... И должно быть, самый, самый пламенный к любви.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! Я не знаю, что со мной будет, когда я его увижу! Для моих чувств нет границ.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Однако все-таки нужно себя удерживать немного.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! Сверх сил моих.</p>
+          </sp>
+          <stage>Неуеденов, Юша и Ничкина входят.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление пятое</head>
+          <stage>Капочка, Устинька, Ничкина, Неуеденов и Юша.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Здравствуйте, дяденька! <stage>(Подходит и целует дядю.)</stage></p>
+          </sp>
+          <stage>Устинька кланяется.</stage>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Здравствуйте-с. <stage>(Подходит к Капочке, кланяется, целуются три раза, опять
+                кланяется и встряхивает головой; так же и с Устинькой. Потом садится в углу на самый
+                последний стул и сидит потупя глаза.)</stage></p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Как живешь, Капочка? <stage>(Садится.)</stage></p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Слава богу, дяденька. Покорно вас благодарю.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Весело ли?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ничего, весело-с.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Женихи есть ли? Чай, так у ворот на разные голоса и воют.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Какой разговор!</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>А что ж разговор! Чем, барышня, нехорош?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Неприлично при барышнях так говорить; нынче не принято.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Да-с! Я ведь с племянницей разговариваю, а до других прочих мне дела нет.
+                <stage>(Ничкиной.)</stage> Чья такая?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Подруга Капочки.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Из благородных, что ль?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Нет, из купеческих.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ну, так невелика птица... А ведь и то, сестра, жарко.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>И то, братец, жарко.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Юфим!</p>
+            <stage>Юша подходит.</stage>
+            <p>На-ка, возьми мой кафтан-то. <stage>(Снимает кафтан.)</stage> Снеси его к нам в
+              комнату.</p>
+          </sp>
+          <stage>Юша берет и уходит.</stage>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Какое необразование!</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ничего-с! Не взыщут!</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Вы, братец, соснуть не хотите ли?</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Нет. Я б теперь орешков пощелкал. А потом можно и соснуть.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Маланья!</p>
+            <stage>Входят Маланья и Юша.</stage>
+            <p>Принеси поди братцу орехов.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Юфим! Поди поищи на дворе камень; поглаже выбери, да потяжеле.</p>
+          </sp>
+          <stage>Юша уходит.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Зачем вам, дяденька, камень?</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Что ты испугалась? Небось! я орехи...</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Боже мой!</p>
+          </sp>
+          <stage>Входит Маланья с орехами.</stage>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Пожалуйте, братец.</p>
+          </sp>
+          <stage>Маланья подносит ему орехи на тарелке.</stage>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Поставь на окно. <stage>(Подходит к окну, открывает и садится против
+              него.)</stage></p>
+            <stage>Маланья ставит орехи на окно, Юша входит с камнем.</stage>
+            <p>Подай сюда!</p>
+            <stage>Юша подает.</stage>
+            <p>Здесь-то лучше продувает. <stage>(Кладет на окно по ореху и по два и разбивает их
+                камнем.)</stage></p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Дяденька, что это вы с камнем-то у окна сидите! Вы этак испугаете у меня жениха,
+              когда он пойдет.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов</speaker>
+            <stage>(продолжая колотить орехи).</stage>
+            <p>Какого жениха?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да... вот... такая жара, а мы сватовство затеяли... какая теперь свадьба... в такой
+              жар...</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>А вот дай срок, я посмотрю, что за жених.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка</speaker>
+            <stage>(берет дядю за плечи).</stage>
+            <p>Дяденька, право, испугаете!</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Поди прочь! <stage>(Продолжает стучать.)</stage></p>
+          </sp>
+          <stage>Капочка подходит к Устиньке, обнимается с ней и смотрит с презреньем на
+            дядю.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Какой страм!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Какое невежество!</p>
+          </sp>
+        </div>
+      </div>
+      <div type="tableau">
+        <head>КАРТИНА ТРЕТЬЯ</head>
+        <stage>Сад: направо сарай с голубятней и калитка; прямо забор и за ним деревья другого сада;
+          налево беседка, за беседкой деревья; посередине сцены, в кустах, стол и скамейки; подле
+          сарая куст и скамейка.</stage>
+        <div type="scene">
+          <head>Явление первое</head>
+          <stage>Капочка, Устинька и Юша входят.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ох! Ох! Я умру!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Что ты так вздыхаешь! Смотри, что-нибудь лопнет.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ох! Он сейчас придет.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Разумеется, придет. Его маменька пошла к твоей, а он сюда придет.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ох!</p>
+          </sp>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Что, это голубятня у вас?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ох! голубятня.</p>
+          </sp>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Так первым долгом слазить надоть, проминовать нельзя. <stage>(Уходит.)</stage></p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Ну, и прекрасно; а то он только мешает.</p>
+          </sp>
+          <stage>Бальзаминов входит в калитку.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, идет!</p>
+          </sp>
+          <stage>Гуляют, обнявшись, по авансцене, как будто не замечая его.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление второе</head>
+          <stage>Те же и Бальзаминов.</stage>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(несколько времени ходит молча, потом встречается будто нечаянно с Капочкой и
+              Устинькой).</stage>
+            <p>Здравствуйте-с. <stage>(Кланяется.)</stage></p>
+            <stage>Капочка и Устинька кланяются и идут дальше. Бальзаминов за ними.</stage>
+            <p>Какой приятный запах у вас в саду.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Да-с.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Продаете яблоки или сами кушаете?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Сами-с.</p>
+          </sp>
+          <stage>Юша показывается на голубятне.</stage>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Я когда-нибудь ночью приду к вам в сад яблоки воровать.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>У них собаки злые.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Как прикажете понимать ваши слова?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Слова эти совсем не до вас касаются, а до воров; вы и так завсегда можете здесь
+              гулять, вам завсегда будут рады.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Да-с.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Покорнейше вас благодарю за ваше приглашение.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Здесь в окружности ужасть как мало хороших кавалеров для знакомства с барышнями.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>И всего только двое: Толкачев да Кирпичев.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Какие же это кавалеры? Разве хорошая девушка может иметь с ними знакомство или
+              любовь. Себя страмить! Один — антриган, все говорит из-под политики и в насмешку;
+              другой — антиресан, знакомится с дамами из антиресу. Вы лучше всех.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Да-с.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Вот вам от нас привелегия!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Я даже не знаю, как вас благодарить за все ваши сни-схождения!</p>
+          </sp>
+          <stage>Капочка садится на скамейку с правой стороны. Устинька стоит подле нее. Бальзаминов
+            поодаль.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка</speaker>
+            <stage>(Устиньке тихо).</stage>
+            <p>Что он говорит? Уж лучше б прямо.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька</speaker>
+            <stage>(тихо).</stage>
+            <p>А вот погоди, я ему сейчас скажу.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка</speaker>
+            <stage>(тихо).</stage>
+            <p>Ах, не говори.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Нельзя же! <stage>(Подходит к Бальзаминову и отводит его в сторону.)</stage> Капочка
+              просила вам сказать, чтобы вы были с ней посмелее, а то она сама очень робка. Вы
+              ничего, не конфузьтесь, у нас просто. А я пойду постерегу: как войдет кто, я дам вам
+              знать. Что же вы стоите! Ступайте к ней скорей.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(откашливается).</stage>
+            <p>Гм... Гм... Сейчас. <stage>(Стоит.)</stage></p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Сейчас, а сами ни с места. <stage>(Толкает его.)</stage> Ступайте скорей, а то
+              помешают.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Гм... Гм... <stage>(Громко.)</stage> Гм... Сейчас.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Это даже неучтиво с вашей стороны — заставлять себя дожидаться.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Сейчас-с! <stage>(Медленно идет к Капочке.)</stage></p>
+          </sp>
+          <stage>Устинька становится у калитки.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка</speaker>
+            <stage>(Бальзаминову).</stage>
+            <p>Садитесь!</p>
+          </sp>
+          <stage>Бальзаминов садится довольно далеко от Капочки, смотрит в землю и изредка
+            откашливается.</stage>
+          <stage>Капочка смотрит на забор. Юша наблюдает за ними с голубятни. Довольно долгое
+            молчание.</stage>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Что вам лучше нравится, зима или лето?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Лето лучше-с. Летом можно гулять.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А зимой кататься.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Летом всякие цветы расцветают.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А зимой очень весело на святках и на масленице.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>А летом весело в семик-с.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Вы на масленице с которого дня начинаете кушать блины?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Со вторника-с... А летом всякие ягоды поспевают.</p>
+          </sp>
+          <stage>Молчание. Бальзаминов тянется к Капочке, она к нему, целуются и потупляют глаза в
+            землю.</stage>
+          <sp who="#yusha">
+            <speaker>Юша</speaker>
+            <stage>(на голубятне).</stage>
+            <p>Раз!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька</speaker>
+            <stage>(грозит ему).</stage>
+            <p>Молчи!</p>
+          </sp>
+          <stage>Молчание.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Какие ягоды вы больше любите?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А вы какие?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Клубнику со сливками.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>А я крыжовник.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Вы шутите! Как можно крыжовник... он колется.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Я этого не боюсь-с. А вы разве боитесь-с?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! Что вы говорите? Я вас не понимаю.</p>
+          </sp>
+          <stage>Капочка начинает склоняться в сторону Бальзаминова, Бальзаминов в ее сторону;
+            целуются и опять опускают глаза в землю.</stage>
+          <sp who="#yusha">
+            <speaker>Юша</speaker>
+            <stage>(с голубятни).</stage>
+            <p>Два!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька</speaker>
+            <stage>(Юше).</stage>
+            <p>Молчи, говорю я тебе.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>А вообще, что вы больше всего любите?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Вас-с. А вы?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Можете сами догадаться.</p>
+          </sp>
+          <stage>Целуются.</stage>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Три! <stage>(Бежит с голубятни.)</stage></p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька</speaker>
+            <stage>(подходит к Бальзаминову).</stage>
+            <p>Подите за беседку. Когда можно будет, я вас позову.</p>
+          </sp>
+          <stage>Бальзаминов уходит за беседку.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, какой милый!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Юша все с голубятни видел.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, он дяденьке скажет!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Погоди, мы его уговорим.</p>
+          </sp>
+          <stage>Юша входит.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ты, Юша, смотри, никому не сказывай, что видел.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Это нужды нет — целоваться, только сказывать не надо. Я, пожалуй, и тебя поцелую.
+                <stage>(Целует Юшу.)</stage></p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>И я. <stage>(Целует.)</stage></p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>И еще поцелуем. <stage>(Целует его с жаром.)</stage></p>
+          </sp>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Да не надо! <stage>(Отсторанивает их руками.)</stage> Что пристали! Закричу! Ай! Ну
+              вас! Ай! Пустите, я опять на голубятню пойду. Караул!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Нет, уж я тебя не пущу на голубятню. Пойдем со мной в беседку.</p>
+          </sp>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Я, пожалуй, пойду, только не приставай, а то закричу.</p>
+          </sp>
+          <stage>Устинька берет его за руку и ведет в беседку.</stage>
+          <sp who="#ustinka">
+            <speaker>Устинька</speaker>
+            <stage>(подходя к беседке).</stage>
+            <p>Выходите! Теперь можно.</p>
+          </sp>
+          <stage>Бальзаминов выходит из-за беседки.</stage>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, не подходите ко мне близко!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>За что такие немилости-с?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Мужчинам доверять никак нельзя.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Но я могу себя ограничить-с.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Все так говорят; но на деле выходит совсем противное. Я мужчин не виню, для них все
+              легко и доступно; но наша сестра всегда должна опасаться по своей горячности к любви.
+              Ах! я вас боюсь! Лучше оставьте меня.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Какие жестокости для моего сердца!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Оставьте, оставьте меня!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Умерла моя надежда и скончалася любовь!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах, для чего только мы рождены с такою слабостью! Мужчина все может над нами...
+              ах!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Как же я могу без вашего расположения-с? <stage>(Садится возле Капочки.)</stage></p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! Что вы со мной сделали!</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Извините, я был вне себя-с.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Что может противиться любви! <stage>(Приклоняется к Бальзаминову. Целуются)</stage>.
+              Навеки!</p>
+          </sp>
+          <stage>Устинька и Юша выходят из беседки.</stage>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Идут, идут.</p>
+          </sp>
+          <stage>Капочка подходит к Устиньке. В калитку входят Ничкина, Бальзаминова и Маланья с
+            чайным прибором, который ставит на стол.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление третье</head>
+          <stage>Бальзаминов, Капочка, Устинька, Юша, Ничкина, Бальзаминова и Маланья.</stage>
+          <sp who="#nichkina">
+            <speaker>Ничкина</speaker>
+            <stage>(Маланье).</stage>
+            <p>А самовар принесешь, когда братец встанет.</p>
+            <stage>Маланья уходит.</stage>
+            <stage>(Бальзаминовой.)</stage>
+            <p>Сядемте... жарко. <stage>(Садятся у стола. Бальзаминову.)</stage> Садитесь с нами...
+              побеседуемте!</p>
+            <stage>Бальзаминов садится. Барышни и Юша тоже садятся возле стола.</stage>
+            <stage>(Капочке.)</stage>
+            <p>Ишь, как тебя стянули... в такой жар.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Оставьте, вы конфузите.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Вы читаете газеты?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Читаю-с.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Он мне всякие новости рассказывает.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>А мы не читаем... ничего не знаем... что там делается. Вот я у вас хотела спросить,
+              не читали ли вы чего про Наполеона? Говорят, опять на Москву идти хочет.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Где же ему теперь-с! Он еще внове, не успел еще у себя устроиться. Пишут, что все
+              дворцы да комнаты отделывает.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>А как отделает, так, чай, пойдет на Москву-то с двунадесять языков?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Не знаю-с. В газетах как-то глухо про это пишут-с.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да вот еще, скажите вы мне: говорят, царь Фараон стал по ночам с войском из моря
+              выходить.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Очень может быть-с.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>А где это море?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Должно быть, недалеко от Палестины.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>А большая Палестина?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Большая-с.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Далеко от Царьграда?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Не очень далеко-с.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Должно быть, шестьдесят верст... Ото всех от таких мест шесть-десят верст, говорят...
+              только Киев дальше.</p>
+          </sp>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <p>Царьград, тетенька, это — пуп земли?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да, миленький. <stage>(Пристально оглядывает Бальзаминова.)</stage></p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов</speaker>
+            <stage>(жмется).</stage>
+            <p>Что вы так на меня смотрите?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Узко как платье-то на вас сшито.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Это по моде-с.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Он у меня всегда по моде одевается.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Какая уж мода в такую жару?.. Чай, вам жарко... ну, а по улице-то ходить в таком
+              платье, просто угореть можно.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Ничего-с. Покорно вас благодарю за внимание!</p>
+          </sp>
+          <stage>Молчание.</stage>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Двужильные лошади, говорят, бывают... и не устают никогда, и не надорвутся.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Что за разговор об лошадях!</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Так об чем же говорить-то?.. Ну, скажи, коли ты умна.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Есть разные разговоры. А то вы разговариваете, а мы должны молчать. Куда как приятно!
+              Вот два самые благородные разговора — один: что лучше — мужчина или женщина?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ну, уж нашла сравнение! Уж что женщина! Куда она годится! Курица не птица, женщина не
+              человек!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Ах нет, зачем же! Пускай мужчины защищают свое звание, а жен-щины свое; вот и пойдет
+              разговор. А другой разговор еще антиресней. Что тяжеле: ждать и не дождаться или иметь
+              и потерять?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Это самый приятный для общества разговор.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Уж этого я ни в жизнь не пойму.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Что вы, маменька! Не страмите себя.</p>
+          </sp>
+          <stage>Входят Неуеденов и Маланья с самоваром, ставит его на стол и уходит.</stage>
+        </div>
+        <div type="scene">
+          <head>Явление четвертое</head>
+          <stage>Те же и Неуеденов. [Сидят в следующем порядке: справа, ближе к зрителям, на стуле
+            Неуеденов; с правой стороны стола Ничкина и Бальзаминова; за столом Юша; слева, у стола,
+            Капочка и Устинька; слева, ближе к зрителям, на стуле Бальзаминов. (Примеч.
+            авт.)]</stage>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Соснул малым делом.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Братец, садитесь! Вот наши новые знакомые!</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов</speaker>
+            <stage>(кланяется Бальзаминовой).</stage>
+            <p>Здравствуйте!</p>
+            <stage>Бальзаминова кланяется.</stage>
+            <p>Здравствуйте, милостивый государь! <stage>(Протягивает Бальзаминову руку, тот робко
+                подает свою.)</stage> Служить изволите? <stage>(Садится.)</stage></p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Служу-с.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Хорошее дело-с. Всякому свое-с: купец торгуй, чиновник служи, шатун шатайся.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Не угодно ли, господа, чайку?</p>
+          </sp>
+          <stage>Маланья подает на подносе.</stage>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Я с вами буду, сударь, про наше дело купеческое говорить. Вот у меня сестра — она
+              женщина богатая, а ведь глупая — с деньгами-то не знает, что делать. А в нашем, в
+              купеческом деле — деньги важная вещь.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Неужли только одним купцам деньги нужны?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Деньги всякому приятно иметь-с.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Никому, сударь, и не запрещается. Кому приятно иметь, тот наживи.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Трудно наживать-то по нынешним временам.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Особенно если человек со вкусом-с, просто должен страдать. Хочется жить прилично, а
+              способов никаких нет-с. Вот хоть бы я...</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Зачем же жить-то прилично такому человеку, который не имеет способов деньги
+              достать?</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>А коли человек не имеет способностей ни к службе, ни к чему, коли бог не дал, чем же
+              он виноват?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Да-с. А в мечтах все представляется богатство и даже во сне снится; притом же вкусу
+              много.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>А по-моему — такому человеку, который не умеет достать ничего, не то что в богатстве
+              жить, а и вовсе жить незачем.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Куда ж их девать-то?</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>В черную работу, землю копать. Это дело всякий умеет. Сколько выработал, столько и
+              денег бери.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Этак будет на свете жить нельзя.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Не у всех такие понятия.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Какой, сударь, чин носите на себе?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Первый-с.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ну, вам до генерала еще далеко. А много ли жалованья по своим трудам получаете?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Сто двадцать рублей-с.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Это, по-нашему, значит: в одном кармане смеркается, а в другом заря занимается;
+              по-татарски — ёк, а по-русски — нет ничего.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Маланья, прими чашки, я налью еще.</p>
+          </sp>
+          <stage>Маланья принимает пустые чашки. Ничкина наливает. Маланья разносит и отходит с
+            подно-сом к стороне.</stage>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Так вот, сударь, я уж вам говорил, что сестра у меня дура набитая.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Ну, уж... ты, братец... ну, право! С тобой не сговоришь... право, ну!</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Что ты нукаешь-то? — не запрягла еще... Так докладывал я вам, что сестра у меня
+              глупа-с. Больше всего я боюсь, что она и зятя-то такого же дурака найдет, как сама. У
+              баб волос долог, да ум короток. Тогда уж все дело брось.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>У них такое состояние, что ввек и с зятем не прожить; а бедного человека могут
+              осчастливить.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Да ведь деньги-то ее муж наживал не для того. чтоб она их мотала да проживала с
+              разными прожектёрами. На деньги-то надо дело делать. Купеческий капитал, сударыня,
+              важное дело. Хороший-то купец, с большим капита-лом, и себе пользу делает, да и
+              обществу вдвое.</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Не все наживать, надо когда-нибудь и проживать для своего удовольствия.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>А разве мы не проживаем! Да проживать-то надобно с толком. Я, сударь мой, вот за
+              сестру теперь очень опасаюсь. Подвернется ей фертик во фрачке с пуговками или какой с
+              эполетками, а она, сдуру-то, и обрадуется, как невесть какому счастью. Дочь-то отдаст
+              — нужды нет, а вот денег-то жалко...</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Да, братец, точно жалко.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Вы, кажется, маменька, меня уморить хотите?</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька.</speaker>
+            <p>Сказали, да и на попятный.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Да ведь, Капочка, у них совести очень мало. Другой сунется в службу, в какую бы то ни
+              на есть, послужит без году неделю, повиляет хвостом, видит: не тяга — умишка-то не
+              хватает, учился-то плохо, двух перечесть не умеет, лень-то прежде его родилась, а
+              побарствовать-то хочется: вот он и пойдет бродить по улицам да по гуляньям, — не
+              объявится ли какая дура с деньгами. Так нешто честно это?</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина</speaker>
+            <stage>(тихо).</stage>
+            <p>Перестаньте, братец... поймут.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ничего, я обиняком. А по-моему, так и грех таким людям денег-то дать. Наши деньги-то
+              на распутство пойдут да на важность глупую. Нос-то подымет, станет издеваться да
+              величаться над своим братом, который гроши-то трудом достает, в поте лица. Коли
+              счесть, сколько наша братия, по своей глупости, денег роздали за дочерьми разным
+              аферистам, — так, право, сердце повернется. Что добра-то бы можно на эти деньги
+              сделать! Боже мой! Эти деньги, я так считаю, у общества украдены. Как вы об этом
+              думаете, сударь мой?</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Не все же в таких направлениях, как вы говорите.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Нет, сударь, уж кто взялся за такую спекуляцию, я тому гроша не поверю. Хорошие люди
+              во всяком звании есть. И разбирать нечего, беден кто или богат — я этого сестре не
+              советую. Смотри на человека, умеет ли он дело делать. Коли умеет, так давай ему денег,
+              сколько хочешь, все на пользу. А вот щелкопёры-то, извините вы меня, больно нам не к
+              масти. Другому и вся цена-то две копейки ассигнациями, а он успеет оходить дуру какую,
+              так еще форс показывает. Мне, говорит, вот столько-то денег давай, приданое давай
+              самое лучшее.</p>
+          </sp>
+          <sp who="#yusha">
+            <speaker>Юша.</speaker>
+            <l>Соболий салоп атласный,</l>
+            <l>Воротник суконный красный!</l>
+          </sp>
+          <sp who="#ustinka #kapochka">
+            <speaker>Устинька и Капочка</speaker>
+            <stage>(Юше).</stage>
+            <p>Молчи!</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов</speaker>
+            <stage>(Юше).</stage>
+            <p>Юшка, молчи! Наши-то бабы сдуру батистовых рубашек ему нашьют, того-сего, с ног до
+              головы оденут; а он-то после ломается перед публикой, и ничего ему — не совестно!
+              Везде деньги бросает, чтоб его добрым барином звали.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Вы, дяденька, оттого так рассуждаете, что вы совсем необразованны.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Именно, мой друг, необразованны. Не одна ты это говоришь. Вот и те голые-то, которых
+              мы обуваем да одеваем, да на беспутную их жизнь деньги даем, тоже нас необразованными
+              зовут. Им бы только от нас деньги-то взять, а родни-то хоть век не видать.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова</speaker>
+            <stage>(встает).</stage>
+            <p>После таких слов нам с тобой, Миша, кажется, здесь нечего делать.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Да, похоже на то. На воре-то, видно, шапка горит.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Я этих слов, маменька, на свой счет не принимаю.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Нет, я на ваш счет. Вот маменька-то ваша поумнее — сейчас поняла.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Я за большим, пожалуй, не погонюсь: мне хоть бы что-нибудь дали.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ведь у тебя ни гроша нет, так тебе все барыш, что ни дай.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>В таком случае, прощайте-с. <stage>(Кланяется всем.)</stage> Я не ожидал-с.</p>
+          </sp>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Благодарим за угощенье.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Не на чем-с.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ходите почаще, без вас веселей.</p>
+          </sp>
+          <stage>Бальзаминов и Бальзаминова подходят к калитке. Юша за ними.</stage>
+          <sp who="#balzaminova">
+            <speaker>Бальзаминова.</speaker>
+            <p>Я говорила тебе, Миша, что праздничный сон — до обеда.</p>
+          </sp>
+          <sp who="#balzaminov">
+            <speaker>Бальзаминов.</speaker>
+            <p>Кабы я его в будни видел, совсем бы другое дело было.</p>
+          </sp>
+          <stage>Уходят.</stage>
+          <sp who="#yusha">
+            <speaker>Юша</speaker>
+            <stage>(в калитку).</stage>
+            <p>Заходите! Нам без дураков скучно.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Юшка, молчи!</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ох, я умру!</p>
+          </sp>
+          <sp who="#ustinka">
+            <speaker>Устинька</speaker>
+            <stage>(тихо).</stage>
+            <p>Сделайся как без чувств.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Ах! <stage>(Падает на скамейку.)</stage></p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Батюшки! Что это с ней?</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ничего, пройдет. Маланья, поди-ка вели принести ушат воды.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка</speaker>
+            <stage>(встает).</stage>
+            <p>Нет уж, извините, я этого не позволю.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Ожила! Эх, сестра! Как тебя не ругать-то! Какую было штуку выкинула! Такой товар
+                <stage>(показывая на Капочку)</stage>, да еще с деньгами, за стрекулиста было
+              отдала. А я тебе уж и жениха приготовил. Молодого русачка, здорового, свежего, умницу.
+              А уж какой делец-то! Да и с капиталом.</p>
+          </sp>
+          <sp who="#nichkina">
+            <speaker>Ничкина.</speaker>
+            <p>Посватайте, братец.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Посватать, Капочка?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Он с бородой?</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>С маленькой.</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка.</speaker>
+            <p>Да ведь она вырастет.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Эка глупая! Пока она вырастет, так уж ты привыкнешь... А какой красавец-то!
+              Посватать, что ли?</p>
+          </sp>
+          <sp who="#kapochka">
+            <speaker>Капочка</speaker>
+            <stage>(потупившись).</stage>
+            <p>Посватайте.</p>
+          </sp>
+          <sp who="#neuedenov">
+            <speaker>Неуеденов.</speaker>
+            <p>Так-то лучше. Вот и по рукам.</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
