@@ -1,0 +1,4456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ru">Шутники</title>
+        <title type="main" xml:lang="en">The Jesters</title>
+        <title type="sub" xml:lang="ru">Картины московской жизни, в четырех действиях</title>
+        <title type="sub" xml:lang="en">Pictures from Moscow Life, in Four Acts</title>
+        <author key="Wikidata:Q171976">Островский, Александр Николаевич</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rus000181</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q4528067</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Библиотека Максима Мошкова (lib.ru)</name>
+          <idno type="URL">http://az.lib.ru/o/ostrowskij_a_n/text_0090.shtml</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Москва, ГИХЛ, 1959, Собрание сочинений в десяти томах, т. 3</title>
+            <date type="print"/>
+            <date type="premiere" when="1864">"В Петербурге премьера «Шутников» состоялась 9 октября
+              1864 г." (books.google.com)</date>
+            <date type="written" when="1864">" Год создания — 1864." (ru.wikipedia.org)</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="obroshenov" sex="MALE">
+            <persName>Оброшенов</persName>
+            <persName xml:lang="de">Obroschenow</persName>
+          </person>
+          <person xml:id="anna_pavlovna" sex="FEMALE">
+            <persName>Анна Павловна</persName>
+            <persName xml:lang="de">Anna Pawlowna</persName>
+          </person>
+          <person xml:id="golcov" sex="MALE">
+            <persName>Гольцов</persName>
+            <persName xml:lang="de">Golzow</persName>
+          </person>
+          <person xml:id="verochka" sex="FEMALE">
+            <persName>Верочка</persName>
+            <persName xml:lang="de">Werotschka</persName>
+          </person>
+          <person xml:id="hryukov" sex="MALE">
+            <persName>Хрюков</persName>
+            <persName xml:lang="de">Chrjukow</persName>
+          </person>
+          <person xml:id="nedonoskov" sex="MALE">
+            <persName>Недоносков</persName>
+            <persName xml:lang="de">Nedonoskow</persName>
+          </person>
+          <person xml:id="nedorostkov" sex="MALE">
+            <persName>Недоростков</persName>
+            <persName xml:lang="de">Nedorostkow</persName>
+          </person>
+          <person xml:id="pervyj_chinovnik" sex="MALE">
+            <persName>Первый чиновник</persName>
+            <persName xml:lang="de">Erster Beamter</persName>
+          </person>
+          <person xml:id="vtoroj_chinovnik" sex="MALE">
+            <persName>Второй чиновник</persName>
+            <persName xml:lang="de">Zweiter Beamter</persName>
+          </person>
+          <person xml:id="devushka" sex="FEMALE">
+            <persName>Девушка</persName>
+            <persName xml:lang="de">Das Mädchen</persName>
+          </person>
+          <person xml:id="molodoj_chelovek" sex="MALE">
+            <persName>Молодой человек</persName>
+            <persName xml:lang="de">Der junge Mann</persName>
+          </person>
+          <person xml:id="solidnyj_chelovek" sex="MALE">
+            <persName>Солидный человек</persName>
+            <persName xml:lang="de">Der solide Mann</persName>
+          </person>
+          <person xml:id="shilohvostov" sex="MALE">
+            <persName>Шилохвостов</persName>
+            <persName xml:lang="de">Schilochwostow</persName>
+          </person>
+          <person xml:id="mamenka" sex="FEMALE">
+            <persName>Маменька</persName>
+            <persName xml:lang="de">Mamachen</persName>
+          </person>
+          <person xml:id="dochka" sex="FEMALE">
+            <persName>Дочка</persName>
+            <persName xml:lang="de">Tochter</persName>
+          </person>
+          <person xml:id="tatarin" sex="MALE">
+            <persName>Татарин</persName>
+            <persName xml:lang="de">Tatar</persName>
+          </person>
+          <person xml:id="lakej" sex="MALE">
+            <persName>Лакей</persName>
+            <persName xml:lang="de">Der Diener</persName>
+          </person>
+          <person xml:id="vazhnaya_osoba" sex="MALE">
+            <persName>Важная особа</persName>
+            <persName xml:lang="de">Die wichtige Persönlichkeit</persName>
+          </person>
+          <person xml:id="salopnica" sex="FEMALE">
+            <persName>Салопница</persName>
+            <persName xml:lang="de">Die Bettlerin</persName>
+          </person>
+          <person xml:id="odin_iz_tolpy" sex="MALE">
+            <persName>Один из толпы</persName>
+            <persName xml:lang="de">Einer aus der Volksmenge</persName>
+          </person>
+          <person xml:id="drugoj" sex="MALE">
+            <persName>Другой</persName>
+            <persName xml:lang="de">Ein Anderer</persName>
+          </person>
+          <person xml:id="pevica" sex="FEMALE">
+            <persName>Певица</persName>
+            <persName xml:lang="de">Die Sängerin</persName>
+          </person>
+          <person xml:id="sharmanshchik" sex="MALE">
+            <persName>Шарманщик</persName>
+            <persName xml:lang="de">Der Leierkastenmann</persName>
+          </person>
+          <person xml:id="ulita_prohorovna" sex="FEMALE">
+            <persName>Улита Прохоровна</persName>
+            <persName xml:lang="de">Ulita Prochorowna</persName>
+          </person>
+          <person xml:id="molodec" sex="MALE">
+            <persName>Молодец</persName>
+            <persName xml:lang="de">Der Bursche</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Картины московской жизни, в четырех действиях</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2018-11-16">(eg) convert from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Шутники</titlePart>
+        <titlePart type="sub">Картины московской жизни, в четырех действиях</titlePart>
+      </docTitle>
+    </front>
+    <body>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Павел Прохорович Оброшенов, отставной чиновник.</castItem>
+          <castItem>Анна Павловна, 25-ти лет, Верочка, 17-ти лет, дочери его.</castItem>
+          <castItem>Александр Петрович Гольцов, очень молодой человек, чиновник.</castItem>
+          <castItem>Филимон Протасьич Хрюков, богатый купец, 60-ти лет.</castItem>
+          <castItem>Недоносков, Недоростков, молодые люди, одетые по последней моде.</castItem>
+        </castList>
+        <stage>Небольшой садик, направо крылечко и окно дома; прямо забор; в нем, рядом с домом,
+          калитка; налево забор. Под деревом круглый стол и несколько стульев.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Анна Павловна сидит у стола с работой и Павел Прохорович Оброшенов сходит с
+            крыльца.</stage>
+          <stage>В руках у него лист бумаги и чернильница с пером.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну, секретарь мой, пиши!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что прикажете?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Пиши: "В сем доме отдаются три комнаты в мезонине, о цене узнать от хозяина оного
+              дома". Пиши крупнее! Что ты будешь делать! Пятую записку срывают. Уж теперь повыше
+              прибью, не достанут. Вот так! Вот хорошо, разборчиво. Теперь всякий прочтет. Ну, а
+              прочитают, может и наймут. Сама ты посуди, четвертый месяц квартира пустая стоит; а
+              ведь она шесть рублей в месяц ходит; а шесть рублей для нас деньги. <stage>(Подымает
+                руку с запиской.)</stage> Если ее вот так прибить, можно будет прочесть? </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Можно, папенька.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>А ты читай, читай!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да ведь я сама же и писала.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Нужды нет, а ты все-таки читай!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(читает).</stage>
+            <p>"В сем доме отдаются три комнаты в мезонине, о цене узнать от хозяина оного
+              дома".</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну да, от хозяина; хозяин сейчас покажет комнаты, уговорит, умаслит. Хе, хе, хе! Вот!
+              у нас и наймут, вот мы и богаты. Другой, может быть, давно ищет квартиры, ну, бедный
+              человек какой-нибудь ходит по улицам, ему и нужно три комнаты, а записки на воротах
+              нет, сорвана, он и не знает, что здесь отдается, и идет мимо. Нет, уж теперь кончено!
+              Как поймаю, сейчас к квартальному сведу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Кто же это, папенька, срывает?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Соседи, соседские ребята, богатых отцов дети озорничают. То ли еще они делают! От них
+              проходу нет по улицам: понаделают трубок, через забор на прохожих водой брызгают;
+              краской шляпы мажут; женщинам к платкам записочки прикалывают. А отцы только утешаются
+              на своих чадов.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Или утешаются, или бьют чем ни попало.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>А поди жаловаться, над тобой же насмеются. "У тебя, видно, говорят, такой же ум-то,
+              как у ребенка. Мол -- глуп, ну и балует; вырастет, умнее будет, перестанет баловать".
+              Только неправда это, Аннушка, неправда! Умней они не бывают. Я сорок лет здесь живу,
+              всех знаю; вырасть -- вырастут, и рукой его не достанешь, а ум все тот же. А то вот
+              одному недавно стал жаловаться на сына; а он мне что сказал! "Я, говорит, до семи бед
+              коплю, у меня положёное, это еще третья. Как семь бед сделает, так отстегаю". А другой
+              говорит: "Ты служил?" -- "Служил, говорю". -- "Отчего ж на тебе кавалерии нет? Кабы
+              была кавалерия, никто б тебя не посмел тронуть; значит, ты сам виноват". Вот с ними и
+              толкуй! Да и жаловаться-то нельзя. "Ты, говорят, все с претензиями, ты неспокойный
+              сосед, ты претендент!" Аннушка, какой же я претендент! Какой я претендент! Ну, и
+              терпишь, потому что ссориться с ними нельзя, кушать будет нечего. Мы от них же крохами
+              побираемся. Поссорься с одним, с другим, так и придется зубы на полку положить. А вот
+              я со всеми в ладу, я все больше шуточкой, шуточкой, а где так и поклонами. Оно точно,
+              что на тебя как на шута смотрят, да зато кормимся.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что, дочка?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Неужли нельзя обойтись без этого?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Без чего? Без шутовства-то?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да, папенька, без унижения. Нам жалко вас.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Не жалко вам, а стыдно за меня, стыдно, вот что. Ты думаешь, я не вижу? Вижу,
+              Аннушка, давно вижу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы, папенька, в таких летах! Мы вас так любим. Нам с сестрой хотелось бы, чтобы вас
+              все уважали.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Мало ль чего нет! Где уж нам! Какое уважение! Были бы сыты, и то слава богу. Не до
+              жиру, дочка, не до жиру, быть бы живу!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А каково смотреть-то на вас!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну, что ж делать-то! И рад бы в рай, да грехи не пускают. Ты, может, думаешь, что я
+              всегда такой был? Ну, нет, брат. Смолоду я сам был горд. Как еще горд-то, Аннушка!
+              Ужас как горд! Как женился я на вашей матери да взял вот этот домишко в приданое, так
+              думал, что богаче да лучше меня и людей нет. Фертом ходил! Ну, а там пошли дети, ты
+              вот родилась, доходов стало недоставать, надобно было постороннюю работишку искать;
+              тут мне форс-то и сбили. Сразу, Аннушка, сбили. Первое дело я сделал нашему соседу, и
+              дело-то небольшое: опеку ему неподходящую дали, надо было ее с рук сбыть! Обделал я
+              ему это дело, позвал он меня да еще секретаря с чиновниками из суда в трактир обедом
+              угощать. И какой чудак, право ведь чудак! Сидит, ничего не говорит, весь обед молчал;
+              только посидит-посидит да всей пятерней меня по волосам и по лицу и проведет. Ах ты,
+              батюшки мои! Что ты будешь с ним делать? Я было в амбицию. Только тут один чиновник,
+              постарше, мне и говорит: ты обидеться не вздумай! Ни копейки не получишь: он не любит,
+              когда обижаются. Нечего делать, стерпел: ну и принес жене три золотых; а не стерпи я,
+              так больше пяти рублей ассигнациями бы не дал. Много я после с него денег перебрал.
+              Вот так-то меня сразу и озадачили. Ну, а потом, как пошел я по делам ходить, спознался
+              с богатыми купцами, там уж всякая амбиция пропала. Тому так потрафляй, другому этак.
+              Тот тебе рыло сажей мажет, другой плясать заставляет, третий в пуху всего вываляет.
+              Сначала самому не сладко было, а там и привык, и сам стал паясничать и людей стыдиться
+              перестал. Изломался, исковеркался, исказил себя всего, и рожа-то какая-то обезьянья
+              сделалась.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ах, папенька!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что "папенька"! А ты, дочка, не суди! Вот кабы я паясничал да пропивал деньги-то, вот
+              тогда бы я был виноват. А то я деньги-то домой носил, все до копеечки. Делового
+              народу, ученого тогда меньше было, наш брат, горемыка-подьячий, был в ходу, деньги так
+              и огребали. Много ли я тогда получал, знаешь ли? Тысяч шесть ассигнациями. Ого-го-го!
+              Вот оно что! И теперь еще все говорят, что у меня много денег, что я их спрятал. А ты
+              знаешь, есть ли у меня деньги. Ваша мать хозяйка была отличная, дома у меня рай был.
+              На стороне, в людях, я шут, я паяц; а ты меня дома посмотри! Тут я отец семейства,
+              жену мою все уважали, дети -- ангелы. Эка важность, что меня шутом зовут! Ты и не
+              жалей меня, Аннушка! Я таковский! Что я такое? Дрянной старичишка, никуда негодящий!
+              Пускай смеются, коли им нравится, мне все равно. Они смеются, а я, как птица в гнездо,
+              таскаю, прибираю свое гнездышко да детей кормлю. Для меня только ты да Верочка на
+              свете и людей-то, больше я и знать никого не хочу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Мы оба с вами, папенька, для одной Верочки живем.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Избаловали мы ее с тобой. Хе-хе-хе! Вот теперь и нянчись с ней!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да как же не баловать-то ее! Она такая милочка. Кого же нам с вами и любить-то, как
+              не ее? больше некого. А ведь кого-нибудь надо любить, без этого жить нельзя.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну да, само собой. <stage>(Делает серьезную мину.)</stage> А что ты скажешь насчет
+              жениха? То есть насчет Саши? </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Кажется, хорош.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Хорош, хорош. Это я сам нашел. Ну уж и хлопот было. Трудно нынче хорошего-то найти. А
+              ей нравится?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ведь она еще ребенок. Кто же ее знает; кажется, нравится.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(таинственно).</stage>
+            <p>Хожу я это по судам-то, приглядываю; ходил долго; вдруг вижу, мальчик такой смирный
+              сидит. Я стороной узнавать. Говорят, сирота; поведения, сказывают, хорошего,
+              воспитывался у матери в строгости; с приказными не водится, по трактирам не ходит.
+              Его-то, мол, нам и нужно. Познакомился, да вот дело и вышло. Ведь хорош?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Хорош, папенька.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(таинственно).</stage>
+            <p>Руки просил третьего дня. Я было отнекиваться стал -- нарочно; так в слезы: умираю,
+              говорит, от любви.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что же вы?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну, я и рад; велел с Верочкой поговорить. О приданом не заикается. Денег бы, говорит,
+              нужно мне рублей триста. Ну, денег, говорю, не припасено для тебя. Дом, говорю, вам
+              купил в две тысячи, вот и будет с тебя, а денег ни копейки. А я и дом-то, Аннушка,
+              нарочно купить поторопился; не хватало денег, так призанял; потому деньги они могут
+              истратить, люди еще молодые; а дом-то им на всю жизнь. Очень приставал об деньгах: я,
+              говорит, вам после отдам; ну, да нет, так где же взять? Самому до крайности нужны, да
+              нет, и занять не у кого. Я понимаю, на что ему нужны деньги. Ему на свадьбу, перед
+              товарищами хочет себя показать. Так нет, брат, шалишь! На мотовство денег, хоть бы и
+              были, так не дам. Нам пышности не нужно: чем скромнее, тем лучше. Коли понадобится что
+              к свадьбе, так, говорю, у казначея вперед возьми, -- не откажет. Говорил он с Верочкой
+              или нет?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет еще.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Так сегодня скажет. Да неужто она спит до сих пор?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, должно быть, встала.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(у окна).</stage>
+            <p>Верочка!</p>
+            <stage>Голос Верочки за сценой: "Сейчас, папаша! Я одеваюсь."</stage>
+            <p>Ну как же, есть мне время тебя дожидаться! Высунь сюда рыльце! <stage>(Верочка
+                выглядывает из окна, он ее целует.)</stage> Не спи долго, жениха проспишь!
+                <stage>(Идет к калитке и читает.)</stage> "В сем доме отдаются три комнаты в
+              мезонине".</p>
+            <stage>Входит Гольцов.</stage>
+            <p>А, Саша, здравствуй! Верочка! Саша пришел!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <stage>Верочка за сценой: "Подождет, я еще не причесана!"</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Анна Павловна и Гольцов.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Садитесь!</p>
+            <stage>Гольцов садится.</stage>
+            <p>Что вы скучный такой?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Дела плохи-с.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Стыдитесь! Разве женихи скучают?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>А вы уж знаете?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Сейчас папенька сказывал.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Он-то меня обнадежил; не знаю, как Вера Павловна!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Это вы ее-то боитесь?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Не то что боюсь, а как-то робко. Ну, как Вера Павловна мне откажет!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Быть не может.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Дай-то бог! Смелости у меня нет, боюсь с барышнями разговаривать, очень я
+              неловок.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ведь разговариваете же вы?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>О пустяках разговариваю, а как сказать, что влюблен?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ничего, не робейте! Это не так страшно, как кажется. Только и горя у вас?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Нет-с. Никак не могу денег достать, а мне очень нужно.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>На что вам?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Этого я не могу вам сказать-с; а только до зарезу нужны, хоть живой в гроб
+              ложись.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Живете вы аккуратно...</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Очень аккуратно-с, и в трактир никогда не хожу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Много ли вы в год жалованья получаете?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Уж теперь полные триста рублей получаю.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Чего ж вам еще?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Не стал бы я напрасно говорить-с. Ей-богу, нужно-с, а достать негде.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>У нас теперь тоже нет; мы сами нуждаемся.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да верно ли это-с?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что верно ли?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что у Павла Прохорыча денег нет? Мне все говорят, что у него денег много, только он
+              скупится, дать не хочет. А кабы он знал, какая мне надобность!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Как же вы можете сомневаться? Неужели мы вас станем обманывать!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вы меня извините-с! Есть у меня один случай, да не знаю, удастся ли. Тут, по
+              соседству у вас, живут два молодые человека, очень богатые, они родственники.
+              Недоносков и Недоростков.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Знаю.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Обещали дать денег-с. Велели сегодня к ним завтракать приходить.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вот и подите!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Пойду; только надежды мало, люди-то пустые; вернее, что от них ничего не получишь.
+              Что тогда делать! Куда мне деваться! Анна Павловна, скажите мне по совести, как перед
+              богом, есть у Павла Прохорыча деньги? Меня что-то сомнение берет.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Как вам не стыдно! Перестаньте! Что вы!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(закрывая лицо руками).</stage>
+            <p>Ах, боже мой!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что вы? Уж не плачете ли?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Кабы вы знали, что у меня на душе!</p>
+          </sp>
+          <stage>Входит Верочка и закрывает ему глаза.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Анна Павловна, Гольцов и Верочка.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ах, Вера Павловна, это вы-с!</p>
+            <stage>Верочка опускает руки.</stage>
+            <p>Я и не слыхал, как вы вошли.</p>
+            <stage>(Целует руку.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(целуя сестру).</stage>
+            <p>Что вы оба такие сердитые? Поссорились, что ли?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Какие ты глупости, душенька, говоришь! Из чего нам ссориться?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(Гольцову).</stage>
+            <p>Зачем вы так рано приходите? Не смейте так рано приходить!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>А вы зачем так долго спите?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Оттого долго, что я очень люблю спать. Когда спишь, всё лучше, а проснешься, всё
+              хуже.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нельзя же всю жизнь спать, душа моя!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Отчего же нельзя? Так бы все спали, всякий бы видел во сне, что ему хочется, все бы
+              были счастливы.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ты забываешь, душа моя, что надо кушать что-нибудь.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ничего бы этого не нужно.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А что ж тебе нужно?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>А вот что: чтобы все, кто кого любит, всегда были вместе. Вот бы я, папаша, ты,
+              Александр Петрович всегда бы и сидели вместе в одной комнате.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Немного же тебе нужно.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>А разве вы меня любите?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Вас? Да. Будто вы не знаете?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Почем же ему знать?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Разве я вам не говорила? Так я вам скажу: я вас очень, очень люблю.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Какие ты глупости говоришь!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Совсем не глупости. Как вас ваша маменька называла?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Саша.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(шепотом).</stage>
+            <p>Саша, Саша! <stage>(Громко.)</stage> Саша! </p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что вам угодно?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(смеется).</stage>
+            <p>Нет, это я не вас. Я вас не могу так называть. Это я про себя. А вы меня любите?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Скажите, что нет.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Зачем же я буду лгать? Уж я лучше им правду скажу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да разве с ней можно серьезно разговаривать? А впрочем, говорите, пожалуй.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Отчего же со мной серьезно нельзя разговаривать? Нет, вы говорите со мной серьезно! Я
+              умею и серьезно разговаривать.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Я вас тоже очень люблю-с и уж говорил об этом вашему папеньке и сестрице, теперь
+              остается только вам сказать.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папаше говорили и сестре говорили, теперь мне говорите!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да-с, я и желаю с вами говорить! Я просил у папаши руки вашей, он мне велел к вам
+              обратиться.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Как? Что такое?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Руки вашей прошу-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(задумчиво).</stage>
+            <p>Нет, не надо.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, вот видите!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Зачем же вы, Вера Павловна, хотите меня сделать несчастным?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, нет, я не хочу, чтоб вы были несчастны!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Так отчего же вы не хотите идти за меня?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, нет, ни за что не пойду! Вот еще! Зачем замуж идти? Я не хочу. Вы лучше так
+              просто к нам приходите каждый день.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вот и толкуйте с ней. <stage>(Уходя.)</stage> Не слушайте ее, она вздор говорит. </p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Гольцов и Верочка.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Может быть, вы не верите любви моей?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, верю.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Или я сам вам не нравлюсь?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, нравитесь.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Так отчего же вы не хотите меня осчастливить?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Оттого, что не хочу.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ну, бог с вами!</p>
+            <stage>(Отходит к стороне.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(про себя).</stage>
+            <p>Саша, Саша!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вы смеетесь?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>И не думала смеяться. Подите сюда! Что я вам скажу!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что вам угодно?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Садитесь подле меня.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Извольте.</p>
+            <stage>(Садится.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Если я соглашусь за вас идти замуж, тогда вы будете моим женихом?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да-с, сначала женихом, а потом мужем.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Когда вы будете женихом, вы будете к нам каждый день ходить?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Каждый день-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что же вы будете делать?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>То же, что и теперь-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>То же, что и теперь?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Только тогда мы будем короче знакомы, я буду называть вас Верочкой.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>А еще что?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(смеясь).</stage>
+            <p>Целовать вас буду-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Как целовать?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Как? Известно, как-с. Приду и скажу: здравствуй, Верочка! И поцелую.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Как?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да как же, право-с! <stage>(Конфузясь.)</stage> Вот так-с! </p>
+            <stage>(Целует ее.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(помолчав).</stage>
+            <p>А говорить что будете?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Буду называть вас ангелом, милочкой. Будем сидеть обнявшись.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Как?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Какие вы-с! <stage>(Обнимает ее.)</stage> Душенька моя, Верочка, я для твоего счастья
+              жизни своей не пожалею! </p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>И мы всегда будем так?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Всегда-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Всю жизнь?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Всю жизнь-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(с легким присутствием слез в голосе).</stage>
+            <p>Правду вы говорите?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Как перед богом-с! Поверьте душе моей!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(несколько времени молчит, потом обнимает и целует Гольцова).</stage>
+            <p>Саша, я хочу быть твоей женой!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(целуя руку).</stage>
+            <p>Благодарю вас, Вера Павловна!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, не Вера Павловна, а Верочка.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ну, хорошо, Верочка! Ах, как я рад, как я рад! А потом ты не скажешь, что не хочу
+              замуж идти?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, никогда теперь не скажу, никогда!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ну, Верочка, надо папеньке сказать! Ты меня извини, я тебя теперь оставлю на минуту.
+              У меня еще дело есть. Я скоро приду. Прощай, Верочка!</p>
+            <stage>(Целует ее.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Прощай, Саша!</p>
+          </sp>
+          <stage>Входит Анна Павловна.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Гольцов, Верочка и Анна Павловна.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что она, все еще упрямится?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Нет-с, она согласна. Позвольте, Анна Павловна, ручку поцеловать! <stage>(Целует
+                руку.)</stage> Теперь мы скоро родные будем-с. Я, Анна Павловна, пойду, куда
+              говорил-с! Если бы еще это удалось, я бы сегодня был совершенно счастлив-с. </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, дай бог вам успеха. Прощайте!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Прощай, Саша!</p>
+            <stage>(Целует Гольцова.)</stage>
+          </sp>
+          <stage>Он уходит.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Верочка! Верочка! Это что еще за новости! Что-то скоро, моя милая!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я всегда его буду Сашей звать и целовать.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Понравилось?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Да, понравилось.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Верочка, слушай, душа моя! Согласись сама, ведь это неловко.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, очень ловко. Не знаю, как тебе, а мне очень ловко.</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(вслед ей).</stage>
+            <p>При мне-то нужды нет; только ты при чужих людях не вздумай!</p>
+          </sp>
+          <stage>Входит Хрюков, Анна Павловна кланяется ему.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ШЕСТОЕ</head>
+          <stage>Анна Павловна и Хрюков.</stage>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А крыса приказная дома аль нет?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, должно быть, в комнате. Я позову его.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков</speaker>
+            <stage>(садясь).</stage>
+            <p>Мне ведь не родить: я и подождать могу. А может, тебе моя компания не нравится? Ну,
+              уж позови отца, коль тебе противно со мной сидеть!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нисколько не противно.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Разве я не вижу, что ты нос-то отворачиваешь? Не красавец я, это что говорить!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Мне решительно все равно.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Я вот прожил век и без красоты, стало быть без нее обойтись можно. Как ты об этом
+              думаешь? А насчет того, что ежели полюбить меня, так это только стоит мне захотеть. За
+              тем только и дело стало, чтоб мне захотеть. Вот и все!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Не понимаю я вас.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Я не маленький, вашу братью хорошо раскусил: знаю, что вам нужно. Ты не сердись! Ты
+              меня узнай прежде! Я человек дорогой, когда захочу мошной тряхнуть. Меня в те поры
+              ничто не удержит, ни на кого не посмотрю! Про меня говорят, что я скуп; так это врут.
+              Я для себя, для своего удовольствия, денег не жалел. Да ежели и теперь какая блажь в
+              голову придет, тоже не пожалею.</p>
+            <stage>Молчание.</stage>
+            <p>Я молодца тут встретил, у ворот; у вас, что ль, был?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>У нас.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков</speaker>
+            <stage>(строго).</stage>
+            <p>А зачем он у вас был?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Он Верочкин жених.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Писарек, должно быть, из суда, какой-нибудь плохенький? По обличью-то показывает.
+              Так, что ли?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да, он служит.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну уж, я сейчас вижу, что за птица. Парнишка из себя не видный, гляди не каждый день
+              досыта и ест-то.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Молод еще очень.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Голь, надо полагать, непокрытая. Грабить еще не знает как. Где ему знать, как надо
+              грабить! А вы за такого отдавайте, который грабить знает.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Зачем ему грабить? Он жалованье получает.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А много ли?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Триста рублей. Да мы за Верочкой дом даем. Жить можно будет. Вот только бы ему теперь
+              к свадьбе очень нужно деньжонок.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А сколько?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Только триста рублей.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Только! Шутила ты, что ли! Триста рублей! Ведь это по старому счету тысяча с
+              лишком.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Конечно, у кого нет, тому и рубль дорог; а все-таки, по нынешнему времени, триста
+              рублей небольшие деньги.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А ты попробуй-ка их достать, так вот тогда и узнаешь, велики ли деньги. Вот пусть он,
+              жених-то ваш, сунется к кому-нибудь просить: тогда и увидишь, что ему скажут.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ведь ему нужда крайняя. Если б у меня были деньги, я, кажется, сейчас бы все
+              отдала.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Как нет-то денег, так все так рассуждают.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А если б мы у вас попросили? Что для вас значат триста рублей!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Может, для меня и триста тысяч ничего не значат; а все-таки я не дам. Взаймы я не
+              даю, на это есть процентщики. Тому принеси верный залог, так сколько хочешь денег
+              даст. А ежели дать так, на бедность, так по триста рублей я тоже не подаю. Рубля три
+              дам к празднику, к большому. Ведь ишь ты каторжный народ какой! Жалованья грош,
+              деньжонок своих нет, а он жениться да на бедность побираться! Точно для него так у
+              всякого деньги и приготовлены. Пожалуйте, мол, берите! Не нужно ли вам еще
+              чего-нибудь? Оглашенные, право оглашенные!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ему обещали дать.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Как же, дадут! Держи карман-то! Обыкновенно посмеяться хотят, насмешку сделать.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что же тут смешного?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Да как же не смешно! Человек бегает по улицам, ищет триста рублей! Самому-то цена
+              грош, а он воображает, что ему кто-нибудь триста рублей поверит. Как тут не смеяться!
+              Это ужасно смешно! "Дайте триста рублей!" А сам-то ты много ли стоишь? Ничего! Вот
+              увидишь, что над ним шутку какую-нибудь сделают. Уж очень способно, сам лезет.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Какую же шутку?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Дураком поставят! Да и за дело! Не будь глуп, не смеши людей.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Он коли займет, так отдаст непременно</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Да, может, и отдаст; да кто ж поверит, что он отдаст. А ведь я было подумал, что он к
+              тебе ходит.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Зачем ко мне?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Зачем? Кто тебя знает? Я думал, уж не ты ль хочешь замуж идти, аль, может, так по
+              душе пришелся.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Я замуж не пойду.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков</speaker>
+            <stage>(подходит к ней).</stage>
+            <p>Не пойдешь? Что ты?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, не пойду. Во-первых, уж я в летах; во-вторых, папеньку не захочу одного
+              оставить. Верочка выйдет замуж, переедет от нас, с кем же папенька останется?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Да, и не оставляй отца! Не оставляй! Что хорошего! Грех будет, грех! И живите тут
+              скромненько, солидно.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Я и всегда так живу.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну, и умница! умница! <stage>(Гладит ее по голове.)</stage> И чтоб не ходил к вам
+              никто, особенно молодые люди, чтоб разговору не было! </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Какой может быть про меня разговор!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну да, ты скромная, умная девушка! Нешто я не вижу! А все-таки лучше. Нет, ты не ходи
+              замуж, не ходи! Так лучше проживешь, я тебе говорю. А денег, что ты говорила, я дам.
+              Отцу не дам и жениху не дам, тебе дам. Никому не дам, а тебе дам, в твои руки. Что
+              хочешь, то и делай с ними. Я завтра зайду поговорить с тобой. Ну, вот и понимай, как
+              хочешь!</p>
+          </sp>
+          <stage>Входит Оброшенов.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ СЕДЬМОЕ</head>
+          <stage>Анна Павловна, Хрюков и Оброшенов.</stage>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Эй, ты, приказная строка! Мне тебя нужно, брат.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что нужно, батюшка, Филимон Протасьич? Батюшка, что нужно? приказывайте!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Да ты полно по-сорочьи-то разговаривать! Дело есть.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Приказывайте рабу вашему, приказывайте!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Где ты пропадал? А вот теперь, видишь ты, мне некогда с тобой разговаривать. Ты
+              забеги как-нибудь!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вы только вздумайте дома: "вот кабы Павел Прохоров пришел!" И посылать не надо. Вы
+              только вздумаете, а я тут, тут, тут.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ах ты тетерев лохматый! Посмотри-ка в калитку, нет ли кого на улице?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Зачем, батюшка, родной ты мой?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Зачем? Ах ты голова с мозгом! А затем вот, чтоб не видали, что я у тебя был.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Отец и благодетель! Да что ж я, прокаженный, что ли, какой?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Эх! До старости ты, брат, дожил, а ума не нажил. Неужели кто подумает, что я к тебе
+              хожу! Зачем я к тебе пойду, какие такие у нас дела с тобой! Нужно мне тебя, так только
+              свистнуть стоит, ты и прибежишь как угорелый. Всякий это понимает. Вон что подумают!
+              -- видишь? <stage>(Показывает на дочь)</stage>. Скажут: "Старый шут любовницу завел".
+              А у нас народ какой? Сейчас на смех подымут. А для меня это мараль. </p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Шутник, шутник, шутник! Я не сержусь. <stage>(Дочери.)</stage> И ты не сердись!
+              Шутник, шутник! <stage>(Отворяет калитку.)</stage> Есть ли в поле жив человек? Ни души
+              не видно. </p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну, прощайте!</p>
+            <stage>(Идет к калитке.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Прощайте!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(на ухо Хрюкову).</stage>
+            <p>Кукареку!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ах, ты! Провалиться тебе! Испугал как! Отец-то у тебя шут с гороху!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВОСЬМОЕ</head>
+          <stage>Анна Павловна и Оброшенов.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Лучше б он к нам не ходил.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ты, что ты, бог с тобой! Он благодетель, кормилец наш. Случится, деньги все
+              подойдут, взять негде, а это с нами часто бывает, я сейчас к нему, как в свой карман.
+              Конечно, я ему после заработаю; да где ж ты теперь таких людей найдешь! Ты знаешь ли,
+              сколько я у него по мелочам-то забрал? То-то оно и есть!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Отчего же он со мной так дурно обращается?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Отчего? Оттого, что благодетель всему семейству. Как ты не понимаешь! А ты смейся!
+              Вот как я. Он тебе скажет что-нибудь, а ты: хи-хи-хи да ха-ха-ха! Оно все легче, не
+              так обидно.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, мне что-то странно: он мне денег предлагал.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Каких денег?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Давеча Александр Петрович говорил, что ему необходимо нужно денег. Я проговорилась
+              при Хрюкове; он обещал дать мне: отцу, говорит, не дам, а тебе дам.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Гм... Нет, брат, лучше не бери!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Я и не возьму.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Они денег-то дадут, да потом не рад будешь жизни, что взял у них. Эх, благодетели,
+              благодетели! А все-таки без них нам жить нельзя на свете. Уж разумеется, если б я был
+              с состоянием, я б этого благодетеля к себе на порог не пустил. Однако пойти к нему;
+              что ему там надо. Фрак надену для учтивости; вот, мол, как тебя уважают.</p>
+          </sp>
+          <stage>Уходят в дом.</stage>
+          <stage>В калитку входят: Гольцов, выпивши;</stage>
+          <stage>Недоносков и Недоростков, заглянув в калитку и видя, что никого нет,
+            входят.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ДЕВЯТОЕ</head>
+          <stage>Гольцов, Недоносков и Недоростков.</stage>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Ты, Саша, не робь!</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Валяй, значит, да и кончено дело!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Я робею? Никогда! Я сейчас ему все...</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Что тебе занимать? Ведь отдавать надо будет.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Мы бы дали, слова не сказали; да зачем у чужих, когда у него много?</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Он тебя надуть хотел.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Да не на того напал. Ты ведь, Саша, голова!</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Еще бы Сашу-то обмануть! Да тот трех дней не проживет, кто его обманет.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Сашка плут!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Нет, уж меня не надуешь! Шалишь!</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Он видит, что ты влюблен, ну и прижимает.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Он воображает, что на дурака напал.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Ты ему прямо: давай, мол, денег; а то так и не надо. У него денег много, он сам
+              сказывал.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>У меня, мол, другая невеста есть, и шабаш.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да, ишь вы разгулялись! Чтоб я Верочку-то оставил? Да никогда!</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Да что -- Верочка, Верочка! Ты поедем с нами; мы тебе такую невесту, значит,
+              покажем... на редкость.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Не поеду.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Съедят, что ль, тебя? Ты погляди только! Примут как! Первый сорт.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да ну, хорошо.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>А ты, Сашка, бедовый!</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Уж я тебе говорил, что парень -- нашего поля ягода. Ты скорее, мы ждем.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Еще б ему стаканчик!</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Нет, в самую припорцию. У меня на это размер верный: в самый раз.</p>
+          </sp>
+          <stage>Уходят.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Он думает, что я влюблен, а как же мне? У меня такая крайность!.. Где ж я?.. Я не
+              могу.</p>
+          </sp>
+          <stage>Входят Оброшенов и Анна Павловна.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ДЕСЯТОЕ</head>
+          <stage>Гольцов, Оброшенов и Анна Павловна.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>А, Саша, друг любезный, ты здесь?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Я за деньгами.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>За деньгами.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>За какими деньгами?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Какие деньги? Ха-ха-ха! Триста рублей.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Триста рублей.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Молчите! Что вы! Завтра я вам, может быть, денег достану; а теперь ступайте
+              домой!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Завтра! Значит, правда, что у вас есть деньги. Завтра! Нет, это дудки!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Перестаньте! Ступайте домой!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Оставьте, пожалуйста, я с вами не разговариваю.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, что с ним сделалось?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Саша! Саша! Не надо, не надо! Всякие шутки прочь! Ты еще молод, молод, любезный!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да-с, обмануть хотели. Он влюблен... без денег возьмет, а у вас денег много...
+              Пожалуйте денег, а не то...</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>А то что? Ну, что? говори.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Не надо ничего... вот и все...</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>А кто плакал вот здесь, на этом месте, руки мои целовал, чтоб я Верочку отдал? А
+              теперь не надо?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, потише; а то Верочка услышит.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что я тебе говорил? Что я тебе говорил? Что ты молод, не умеешь на свете жить. Вот
+              так оно и вышло. Еще ничего не видя, ты пьяный в дом лезешь да шумишь тут! Что же это
+              ты делаешь с своей головой?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что вы с моей головой делаете? Мне теперь либо повеситься, либо... другую невесту
+              искать с деньгами.</p>
+          </sp>
+          <stage>Верочка сходит с крыльца.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ОДИННАДЦАТОЕ</head>
+          <stage>Оброшенов, Анна Павловна, Гольцов и Верочка.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Хорошо, Саша, хорошо! Ну, бог с тобой! Нам, брат, денег взять больше негде.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Павел Прохорыч, дайте денег, не скупитесь... а то смотрите: мне сватают.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я сама не пойду за него ни за что на свете! Папаша, я с тобой останусь, я ни за кого
+              не пойду.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>А давеча-то что?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папаша, прогони его.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Кого это? Меня-то?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папаша, он меня давеча здесь целовал, обнимал, говорил, что всю жизнь так любить
+              будет. Что же он теперь делает?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Как же ты, мальчишка...</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я его так полюбила...</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Слышишь ты, полюбила.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папаша, я сама виновата. Зачем я такая глупенькая девочка, что меня можно обманывать!
+              Теперь уж я никому не буду верить. И ты, папаша, не верь! А то и тебя будут
+              обманывать.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Слышишь ты, слышишь?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>И вам ее не жалко!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>А ему разве нас с Верочкой жалко? Деньги есть, а не хочет дать.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Как ты смеешь...</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Кабы не было денег! А то есть, и не дает. А я так люблю, так люблю.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Молчи, молчи! Видим мы, как ты любишь-то! Поди отсюда!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что ж это такое? Вы меня гоните, и вы меня гоните? Вам не жалко меня, что я совсем
+              погибаю. Я ведь погибаю!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, мне вас жалко. Папаша, не гони его. Он сам сейчас уйдет.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Зачем же я уйду?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Вам очень стыдно станет, что вы нас обманули.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы только вспомните, что вы наговорили.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Боже мой! Что же это со мной сделали? <stage>(Стоит молча.)</stage> Простите меня.
+              Прощайте! </p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вот поди, узнай человека-то! Эка беда-то! Где ж бы мне теперь тебе жениха-то
+              поискать?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я, папаша, не пойду ни за кого, кроме него! <stage>(Бросается на грудь отцу.)</stage>
+              А за него тоже не пойду... он не стоит. </p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Оброшенов.</castItem>
+          <castItem>Гольцов.</castItem>
+          <castItem>Недоносков.</castItem>
+          <castItem>Недоростков.</castItem>
+          <castItem>Шилохвостов, лавочник в короткой люстриновой сибирке, сапоги
+            бутылками.</castItem>
+          <castItem>Важная особа, в шинели нараспашку, на шее орден, тугой белый галстук и очень
+            высокие воротнички.</castItem>
+          <castItem>Солидный человек, низенький, толстый; на шее толстая золотая цепь, на руках
+            перстни, палка с золотым набалдашником.</castItem>
+          <castItem>Маменька, в темном шелковом салопе, покрыта темным платком.</castItem>
+          <castItem>Дочка, одетая по моде, в маленькой соломенной шляпке.</castItem>
+          <castItem>Девушка, в бурнусе, покрыта платочком, с картоном.</castItem>
+          <castItem>Молодой человек.</castItem>
+          <castItem>Чиновник 1-й.</castItem>
+          <castItem>Чиновник 2-й</castItem>
+          <castItem>Салопница, в руках завернутое свидетельство о бедности.</castItem>
+          <castItem>Шарманка.</castItem>
+          <castItem>Певица.</castItem>
+          <castItem>Лакей в ливрее.</castItem>
+          <castItem>Лица разных наций, званий и пола: военные, чиновники, купцы, приказчики,
+            мальчики, разносчики, татары, армяне, евреи, барыни, купчихи, мастерички,
+            торговки.</castItem>
+        </castList>
+        <stage>Ворота, где торгуют картинками.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Разные лица стоят группами, некоторые приходят, некоторые уходят, многие под
+            зонтиками.</stage>
+          <stage>Солидный человек на видном месте. Входят первый и второй чиновники.</stage>
+          <sp who="#pervyj_chinovnik">
+            <speaker>Первый чиновник.</speaker>
+            <p>Так женился Пыжиков-то?</p>
+          </sp>
+          <sp who="#vtoroj_chinovnik">
+            <speaker>Второй чиновник.</speaker>
+            <p>Женился.</p>
+          </sp>
+          <sp who="#pervyj_chinovnik">
+            <speaker>Первый чиновник.</speaker>
+            <p>Так это верно?</p>
+          </sp>
+          <sp who="#vtoroj_chinovnik">
+            <speaker>Второй чиновник.</speaker>
+            <p>Верно.</p>
+          </sp>
+          <sp who="#pervyj_chinovnik">
+            <speaker>Первый чиновник.</speaker>
+            <p>Да неужто так, как говорили? За пару платья только?</p>
+          </sp>
+          <sp who="#vtoroj_chinovnik">
+            <speaker>Второй чиновник.</speaker>
+            <p>Да, за пару платья. Что ж делать-то! Не в чем было в суд ходить; а теща сшила ему
+              все.</p>
+          </sp>
+          <sp who="#pervyj_chinovnik">
+            <speaker>Первый чиновник.</speaker>
+            <p>И больше ничего?</p>
+          </sp>
+          <sp who="#vtoroj_chinovnik">
+            <speaker>Второй чиновник.</speaker>
+            <p>Больше ничего.</p>
+          </sp>
+          <sp who="#pervyj_chinovnik">
+            <speaker>Первый чиновник.</speaker>
+            <p>А как износит?</p>
+          </sp>
+          <sp who="#vtoroj_chinovnik">
+            <speaker>Второй чиновник.</speaker>
+            <p>Ну уж тогда как хочешь.</p>
+          </sp>
+          <stage>Отходят в толпу.</stage>
+          <stage>Входят девушка, покрытая платочком, с картоном, и молодой человек.</stage>
+          <sp who="#devushka">
+            <speaker>Девушка.</speaker>
+            <p>Вы отстанете от меня или нет?</p>
+          </sp>
+          <sp who="#molodoj_chelovek">
+            <speaker>Молодой человек.</speaker>
+            <p>Да за что вы сердитесь?</p>
+          </sp>
+          <sp who="#devushka">
+            <speaker>Девушка.</speaker>
+            <p>Вы видите, что не хотят с вами говорить, а вы все пристаете! Это должно к стыду к
+              вашему относиться.</p>
+          </sp>
+          <sp who="#solidnyj_chelovek">
+            <speaker>Солидный человек.</speaker>
+            <p>Именно к стыду. Нынче в молодых людях нравственности не ищи, пристают ко всем без
+              разбору. Вы, милая, станьте сюда, поближе.</p>
+          </sp>
+          <sp who="#devushka">
+            <speaker>Девушка.</speaker>
+            <p>Покорно вас благодарю.</p>
+            <stage>(Переходит к солидному человеку.)</stage>
+          </sp>
+          <stage>Молодой человек за ней. Входит Шилохвостов, снимает и отряхивает картуз.</stage>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов</speaker>
+            <stage>(обращаясь ко всем).</stage>
+            <p>Дождик-с... Ничего не поделаешь! До лобного дошел -- ничего-с, а там стало так
+              понуждать, что заячьей рысью действовать пришлось... Одеяние легкое-с! Этого струменту
+                <stage>(показывая на зонтик)</stage> с собой не захватил; ну, значит, и удирай до
+              первых ворот. </p>
+            <stage>Входят маменька с дочкой.</stage>
+            <p>Наше почтение-с!</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Здравствуй, батюшка!</p>
+          </sp>
+          <sp who="#dochka">
+            <speaker>Дочка.</speaker>
+            <p>Кто такой, маменька?</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>А кто его знает.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Пожалуйте, вот здесь к сторонке-с! Покупки изволили сделать?</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Да, батюшка. <stage>(Дочери тихо.)</stage> Не гляди ты по сторонам, говорю я тебе!
+            </p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Из каких предметов, из шерстяных или из шелковых-с?</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Шерстяное, батюшка! <stage>(Дочери.)</stage> Чтой-то ты, страмница, все головой-то
+              вертишь! </p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Позвольте полюбопытствовать-с! Мы сами кругом этого товару ходим-с.</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Уж ты нам, батюшка, и цену скажи, настоящую.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов</speaker>
+            <stage>(развертывает и разглядывает).</stage>
+            <p>Оченно во вкусе-с. Гривенок на шесть-с?</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Что ты, батюшка! по три четвертака платила!</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Не дорого-с. Дешевле копейки взять нельзя-с. Позвольте, заверну-с.</p>
+            <stage>(Завертывает с ловкостью и отдает.)</stage>
+          </sp>
+          <sp who="#devushka">
+            <speaker>Девушка</speaker>
+            <stage>(молодому человеку).</stage>
+            <p>Я вам сказала, чтоб вы отстали от меня. Чего ж вам еще нужно?</p>
+          </sp>
+          <stage>Молодой человек отворачивается, как будто не ему говорят, и начинает
+            переглядываться с дочкой.</stage>
+          <sp who="#solidnyj_chelovek">
+            <speaker>Солидный человек.</speaker>
+            <p>Вам лучше бы уйти отсюда. И я бы... пошел.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов</speaker>
+            <stage>(девушке).</stage>
+            <p>В мастеричках изволите жить?</p>
+          </sp>
+          <sp who="#devushka">
+            <speaker>Девушка.</speaker>
+            <p>А вам какое дело?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>А вы не будьте так довольно горды! В вашем звании оно нейдет-с.</p>
+          </sp>
+          <sp who="#devushka">
+            <speaker>Девушка.</speaker>
+            <p>А вы почем знаете мое звание? Может быть, вы оченно ошибаетесь?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>По мундиру-то по вашему оно сейчас видно-с.</p>
+          </sp>
+          <stage>Все смеются. Девушка уходит. Солидный человек за ней. Молодой человек подвигается к
+            дочке, вынимает бумажку и пишет карандашом записку.</stage>
+          <sp who="#mamenka">
+            <speaker>Маменька</speaker>
+            <stage>(дочке).</stage>
+            <p>Перестанешь ты вертеться али нет?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Это от малодушества-с.</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Какое малодушество! Как она себе шею-то не свернет!</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов</speaker>
+            <stage>(подходя к татарину).</stage>
+            <p>Что это, мыло у тебя?</p>
+          </sp>
+          <sp who="#tatarin">
+            <speaker>Татарин.</speaker>
+            <p>Сама настоящя, казанскя. Хорош товар, купи для вечера.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Сами, брат, этим товаром торгуем.</p>
+          </sp>
+          <stage>Входит важная особа с лакеем.</stage>
+          <sp who="#lakej">
+            <speaker>Лакей.</speaker>
+            <p>Посторонитесь, господа, посторонитесь!</p>
+          </sp>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа</speaker>
+            <stage>(чуйке).</stage>
+            <p>Посторонись же, любезный!</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Пожалуйте, ваше превосходительство! Вот здесь просторно-с!</p>
+          </sp>
+          <stage>Важная особа становится и все время стоит неподвижно, поднявши голову. Дочка роняет
+            платок; молодой человек поднимает и вместе с запиской отдает ей.</stage>
+          <sp who="#dochka">
+            <speaker>Дочка.</speaker>
+            <p>Мерси-с!</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Ну уж, дай ты мне только домой прийти! Вот ты тогда увидишь!</p>
+          </sp>
+          <sp who="#dochka">
+            <speaker>Дочка.</speaker>
+            <p>На учтивость обнакновенно надобно учтивостью ответить. Нешто вы что понимаете!</p>
+          </sp>
+          <sp who="#mamenka">
+            <speaker>Маменька.</speaker>
+            <p>Ну, ладно!</p>
+          </sp>
+          <stage>Входят Оброшенов и Гольцов.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Те же, Оброшенов и Гольцов.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Мне, право, совестно и глядеть-то на вас.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну ничего, ничего! <stage>(Гладит его по плечу.)</stage> Ишь ты вымочил сертучок-то!
+            </p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Они мне приказали прийти к ним, сказали, что денег дадут. Вот я от вас и зашел; они
+              завтракают сидят. Налили мне стакан шампанского. Вы знаете, я не пью.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>И не пей, Саша, не пей!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Я и отказывался, да насильно заставили, в рот влили; хотели облить всего. Я бы и
+              ушел, да они все останавливали, обещали сейчас денег дать. Потом другой таким же
+              манером заставили выпить, а уж третий, должно быть, я и не отказывался. Тут, уж как я
+              захмелел-то, они и стали мне говорить: "Мы бы тебе и дали денег, да зачем тебе у чужих
+              занимать, после отдавать надо будет; ты попроси у нареченного тестя". Я говорю, что у
+              вас денег нет, что вы все на дом истратили. "Он, говорят, тебя обманывает, у него
+              денег много награблено: это всем известно; он сам сказывал".</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ах, разбойники! Ах, разбойники!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>"Вот, говорят, ты теперь выпил для храбрости и ступай к нему. Припугни его
+              хорошенько, он тебе сейчас и даст денег непременно. А не даст, так и не надо; у нас,
+              говорят, есть невеста и лучше, и денег больше". <stage>(Махнув рукой.)</stage> И
+              говорить-то совестно. </p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ничего, говори, говори!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что у вас делал, сами знаете. Провалиться сквозь землю легче. Как ушел я от вас,
+              повезли они меня к невесте. Привезли меня куда-то в дом, стали еще потчевать, народу
+              сошлось много, вывели невесту. Только как я ни был пьян, а сейчас заметил, что это
+              горничная переряженная. Так мне стыдно и обидно стало! А что ж делать! Сам виноват.
+              Схватил шляпу, да бежать без оглядки. А они мне вслед кричат: "Ну, Саша, потешил ты
+              нас сегодня!" Потешил я их... А каково мне!.. Как я к вам глаза покажу!..</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну ничего, ничего. Ты почем это сукно-то брал?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да что сукно! Не утешайте вы меня, Павел Прохорыч! Не стою я этого. Какими глазами
+              мне теперь смотреть на Веру Павловну!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Велика птица Вера Павловна! С кем греха не бывает! Ну, виноват, да и конец! Не век же
+              будет помнить!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Как сказать-то, что виноват? Кажется, от стыда слова не выговоришь. Они могут
+              подумать, что со мной это часто случается.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Могут подумать! Ничего она не подумает, она и думать-то еще ничего не умеет. Ты ведь
+              ее любишь? Будешь беречь? Ведь это ребенок, Саша! Ангельская душка!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Уж поверьте, Павел Прохормч, жизни своей не пожалею для Веры Павловны! Это только
+              случай со мной несчастный, за который я всю жизнь буду казниться.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну и хорошо, Саша, хорошо! Я тебе верю. Ты уж не бойся, я вас помирю; я тебе это дело
+              устрою. Ах, Саша, Саша! А ты сокрушаться вздумал, что об тебе девчонка подумает!
+              Хе-хе-хе! Право, девчонка: так, дрянь какая-то! У нас есть дела поважнее, есть о чем
+              думать, кроме этого. Тебе на что деньги-то нужны, ты мне скажи!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>И не спрашивайте, Павел Прохорыч!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Как не спрашивать! Как не спрашивать! Коли нужно, так поискать надо будет,
+              похлопотать.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вот как нужно, Павел Прохорыч, хоть в петлю полезай.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Да скажи, чудак-человек!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Я чужие деньги затратил.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ты! Господь с тобой!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Крайность заставила, Павел Прохорыч. Делал я кое-какие делишки одному помещику,
+              исправлял поручения, в Совет деньги вносил.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну, ну!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вот он и прислал мне денег в Совет внести за имение: триста рублей. Тут у меня
+              матушка умерла, на похороны было взять негде: за квартиру нужно было за четыре месяца
+              отдавать... я больше половины денег-то и истратил.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Да ведь уж это, никак, с полгода?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Больше полугоду-с. Я думал, что из жалованья я пополню; а тут начали за чин вычитать.
+              Думал, награду дадут к празднику, не дали... Теперь последний срок приходит. Ну, как
+              имение-то в опись назначат или вдруг сам приедет. Пожалуется председателю, ведь из
+              суда выгонят. Да стыд-то какой! Боже мой!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ж ты мне прежде не сказал?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Совестно было.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ж ты это, Саша, наделал! Как теперь быть-то? Где денег-то взять? Вот беда-то! Ну
+              уж не ожидал я от тебя, не ожидал!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Как хотите, так меня и судите, Павел Прохорыч!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Да я тебя не виню, не виню. Полно ты! Какая тут вина, коли крайность. Только вот что,
+              Саша, обидно, что между нас, бедных людей, не найдешь ты ни одного человека, у
+              которого бы какой-нибудь беды не было. Ах ты, грех какой! Ума не приложу.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да что вам беспокоиться, Павел Прохорыч! У вас своей заботы много. Ищите себе другого
+              жениха, а меня оставьте. Выпутаюсь -- хорошо, не выпутаюсь -- туда мне и дорога.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Нет, Саша, как можно, чтоб я тебя оставил! Нет, я попытаюсь, побегаю. Что мне значит
+              побегать! Богатых людей много знакомых; знаешь, этак, дурачком, дурачком, паясом;
+              может, и достану тебе денег. Ты очень-то не горюй!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Выручите, Павел Прохорыч! Спасите меня!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Бог милостив, Саша, бог милостив! Отчаяваться не надо.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Однако ко щам начинает поталкивать. Нечего и на Спасских смотреть, и без того знаю,
+              что время.</p>
+          </sp>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа.</speaker>
+            <p>Сегодня никто так не заслужил своего обеда, как я.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Тэк-с!</p>
+            <stage>Салопница подходит и шепчет что-то на ухо.</stage>
+            <p>Чего-с? Я в Ирбитской плачу-с.</p>
+          </sp>
+          <sp who="#salopnica">
+            <speaker>Салопница.</speaker>
+            <p>Как изволили сказать?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Я всегда вам всем в Ирбитской ярмарке плачу. Пора вам знать.</p>
+            <stage>Все смеются. Салопница шепчет что-то.</stage>
+            <p>Что же вы ко мне пристаете! Я сказал, что в Ирбитской! А то можно и Лютова позвать.
+              Да, никак, это он идет; да, Лютов и есть.</p>
+          </sp>
+          <stage>Все смеются. Салопница быстро скрывается.</stage>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа.</speaker>
+            <p>Кто такой Лютов?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Чего-с?</p>
+          </sp>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа.</speaker>
+            <p>Кто такой Лютов? я тебя спрашиваю.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Ундер, ваше превосходительство! Эти просящие особенный страх к нему имеют.</p>
+          </sp>
+          <stage>Входят Недоносков и Недоростков.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Те же, Недоносков и Недоростков.</stage>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Сашка тут.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Опять его накалить.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Нет, теперь эта штука не выгорит; старик с ним.</p>
+            <stage>(Отворачиваются в сторону.)</stage>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вот они пришли.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вот бы отчитать их хорошенько, Саша, да при народе! -- они этого терпеть не могут.
+              Да, может быть, Саша, они твои благодетели? Они тебе прежде помогали чем-нибудь?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Никогда я от них ни одной копейки не видал; кроме насмешки, ничего.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ну, так что ж на них смотреть! Вот кабы благодетели, тогда нельзя. Право, ты бы им
+              выговорил -- так, легонько, поучтивее. Ну, что хорошего! Только что издеваются, а
+              пользы от них никакой. Диви б маленькие. Коли ты хочешь утешаться, так ты бедному
+              человеку сначала помоги, да потом и утешайся над ним. Так ведь я говорю, Саша?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Конечно, правда.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Нет, ты им скажи: "Напрасно, мол, вы, господа, себе такие шутки позволяете!" Так и
+              скажи! Вот и пусть они знают. А то всякий станет над тобой издеваться, и на свете жить
+              нельзя будет.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(Недоноскову и Недоросткову).</stage>
+            <p>Здравствуйте, господа! <stage>(Раскланиваются.)</stage> Покорно благодарю за
+              угощение! </p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Не на чем.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Насилу до дому дошел.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Ты бы пил больше!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да вы меня насильно заставляли.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Всякий сам об себе понимать должен.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Кто ежели этому не подвержен, насильно не заставишь.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Я не то что подвержен, я и в рот не беру.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Оно и по глазам видно.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Значит, у тебя совести нет, когда ты при людях сам говоришь, что вчера пьян был.
+              Другой бы скрывал.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Еще говоришь, что тебя насильно напоили. Кто же может теперича этому поверить? Кому
+              нужно заниматься с тобой? Никто и внимания не возьмет. Антиресная канпания!</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Кому ты можешь канпанию составить? И выходит, что ты пустой человек, не стоящий
+              внимания.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вам тятенька много ли денег-то оставил на забавы?</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Это в состав не входит.</p>
+          </sp>
+          <stage>Отворачиваются и разговаривают между собою.</stage>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Вот и я тоже, как домой пьяный приду, сейчас жене и говорю: запутали, мол, ничего не
+              поделаешь.</p>
+          </sp>
+          <stage>Все смеются и поглядывают на Гольцова.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Меня ж пристыдили! Не знаю, как и на людей смотреть. Я уж лучше пойду.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Куда?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>К вам. Хочется поскорей увидаться с Верой Павловной. У меня как камень на сердце
+              лежит. Уж что-нибудь одно: либо пан, либо пропал.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Да ты не бойся! Эх, какой ты, право! Ничего, ступай смелей! А я после приду; мне тут
+              нужно забежать на минуту. Скажи дома, что сейчас, мол, придет. Да скажи Верочке, что я
+              приказал ей с тобой помириться. А с этими молодцами я еще поговорю.</p>
+          </sp>
+          <stage>Гольцов идет к выходу.</stage>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Не хочешь ли опохмелиться опосля вчерашнего?</p>
+          </sp>
+          <stage>Все смеются.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Опохмеляйтесь сами!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Те же, без Гольцова.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Эх, господа! Как не грех вам бедного малого обижать! Он человек хороший, смирный!</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Его смиренства никто и не снимает с него.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Так это при нем и останется.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Смиренство еще не важное какое дело! В столице живешь, так поневоле будешь смирен.
+              Потому что ежели драться станешь, сейчас лопатки скрутят.</p>
+          </sp>
+          <stage>Смех.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Он вина-то и в рот не брал, а вы вчера...</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Вина не пьет, с воды пьян живет.</p>
+          </sp>
+          <stage>Смех.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ты к чему пристал? Туда же: "пьян живет"! Видал ты его пьяным?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Слухом земля полнится.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>От кого ты слышал? Ну, сказывай!</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Мне теща сказывала; она теперича в Астрахань уехала.</p>
+          </sp>
+          <stage>Смех.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Выжига ты, вот что!</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Уж и видно, что стракулист: так и цепляется.</p>
+          </sp>
+          <stage>Смех.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что? что? что ты сказал?</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Ничего-с. Это я не про вас, а про мать кресну: она свой человек -- не обидится.</p>
+            <stage>(Отходит к Недоноскову.)</stage>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вот нынче народ-то какой стал! Ни за что мальчика обругали да облаяли. Вот эти
+              господа что вчера с ним сделали.</p>
+            <stage>Начинают прислушиваться и подходить.</stage>
+            <p>Он вина в рот не брал, а они его насильно напоили да комедию себе на потеху
+              состроили. Еще какую комедию-то!</p>
+          </sp>
+          <stage>Народ подвигается.</stage>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Что он там за разговоры развел!</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>При людях срамить вздумал!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Видят, что человек ничего уж не понимает, в чужой дом повезли; там горничную девку
+              невестой одели...</p>
+          </sp>
+          <sp who="#odin_iz_tolpy">
+            <speaker>Один из толпы.</speaker>
+            <p>Что он говорит?</p>
+          </sp>
+          <sp who="#drugoj">
+            <speaker>Другой.</speaker>
+            <p>Горничную невестой одели.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Он на нас мараль пущает.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков</speaker>
+            <stage>(громко).</stage>
+            <p>Разговаривать-то можно, слушать-то только нечего.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вот чем утешаются, знать дела-то другого нет у них! Коли есть дело, так глупости не
+              пойдут на ум. Да и нашли кого обидеть! Парень безответный... Ведь этак они до того
+              дошутятся, что могут совсем человека погубить. Разума-то у них хватит.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Я бы с него ничего не взял за такие его разговоры.</p>
+          </sp>
+          <sp who="#nedorostkov">
+            <speaker>Недоростков.</speaker>
+            <p>Надоть бы его хорошенько!</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Штуку какую-нибудь над ним сочинить почуднее! Надо заняться придумать.</p>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков</speaker>
+            <stage>(Шилохвостову).</stage>
+            <p>Что придумывать-то? Поди сюда! <stage>(Шепчет ему на ухо. Шилохвостов
+                хохочет.)</stage> Вот тебе конверт! Поди положи газетной бумаги, в серединку положи
+              записку; напиши... <stage>(Шепчет. Шилохвостов хохочет до истерики. Важная особа
+                улыбается.)</stage> да и подкинь ему. </p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Я духом!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <stage>Шарманщик с певицей играет "Под вечер осенью ненастной".</stage>
+          <sp who="#pevica">
+            <speaker>Певица</speaker>
+            <stage>(поет).</stage>
+            <l>Под вечер, осенью ненастной,</l>
+            <l>Пустынным дева шла местам,</l>
+            <l>И тайный плод любви несчастной</l>
+            <l>Держала трепетным рукам.</l>
+            <l>Все были тихи, лес и горы,</l>
+            <l>Все спали в сумерки ночной,</l>
+            <l>Она внимательные взоры</l>
+            <l>Водила с ужасом вокруг...</l>
+          </sp>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа.</speaker>
+            <p>Довольно!</p>
+          </sp>
+          <sp who="#pevica">
+            <speaker>Певица.</speaker>
+            <l>И на невинном сим творенье...</l>
+          </sp>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа.</speaker>
+            <p>Довольно, я говорю!</p>
+          </sp>
+          <stage>Шарманка перестает. Шилохвостов входит.</stage>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов</speaker>
+            <stage>(шарманщику).</stage>
+            <p>Тяжеленько носить изволите.</p>
+          </sp>
+          <sp who="#sharmanshchik">
+            <speaker>Шарманщик.</speaker>
+            <p>Своя ноша не тянет.</p>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Другой подумает, что его за непочитание родителей заставили этакую штуку таскать.</p>
+            <stage>Смех. Шарманка уходит.</stage>
+            <p>Готово-с.</p>
+            <stage>(Показывает конверт.)</stage>
+          </sp>
+          <sp who="#nedonoskov">
+            <speaker>Недоносков.</speaker>
+            <p>Ну, теперь не зевай! Дождик-то проходит.</p>
+          </sp>
+          <stage>Оброшенов уходит. Шилохвостов убегает вперед, потом скоро возвращается.</stage>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Поднял-с!</p>
+          </sp>
+          <stage>Оброшенов вбегает бледный.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Боже мой! <stage>(Вынимает конверт из кармана и смотрит.)</stage> Что это? Не во сне
+              ли я вижу! Шестьдесят тысяч... объявить... третья часть -- двадцать тысяч... Я
+              задыхаюсь... Батюшки!.. Отлегло. Саша! Верочка! Вот они, деньги-то, вот они! </p>
+            <stage>(Убегает.)</stage>
+          </sp>
+          <sp who="#shilohvostov">
+            <speaker>Шилохвостов.</speaker>
+            <p>Держи его!</p>
+            <stage>(Хохочет.)</stage>
+          </sp>
+          <stage>Все смеются.</stage>
+          <sp who="#vazhnaya_osoba">
+            <speaker>Важная особа</speaker>
+            <stage>(уходя, останавливается).</stage>
+            <p>Вот вам всем пример наказанного корыстолюбия.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Оброшенов.</castItem>
+          <castItem>Анна Павловна.</castItem>
+          <castItem>Верочка.</castItem>
+          <castItem>Гольцов.</castItem>
+          <castItem>Улита Прохоровна, сестра Оброшенова, в чепчике, в салопе, с большим мешком в
+            руках.</castItem>
+        </castList>
+        <stage>Комната в доме Оброшенова.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Анна Павловна сидит за работой, Улита Прохоровна сидит подле нее, и Верочка смотрит
+            в окно.</stage>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Они его подбили, они; больше некому. Это у них первое удовольствие заманить к себе да
+              напоить. Они ведь меня тоже вчера как испугали! Иду я мимо их дому-то, не помню об
+              чем-то задумалась; вдруг наверху, над моей головой, кто-то кричит во все горло, я ажно
+              присела. Взглянула это я наверх-то, а оттуда мне кулек на голову, так ноженьки и
+              подкосились. Насилу выпуталась из кулька-то. Отошла на другую сторону, смотрю: а у
+              окна эти два балбеса, да и Гольцов с ними. Думала тут же зайти к вам да рассказать,
+              так не хотела вас расстроивать. Ну, прощайте!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да вы бы, тетенька, пообедать у нас остались!</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Как же, нужно очень! Мало вас без меня! И так семья порядочная. Я не хочу брату в
+              тягость быть. Я найду, где пообедать. Ты посмотри-ка, как меня везде принимают! А
+              отчего? А оттого, что я смолоду в княжеских и в графских домах жила, хорошие порядки
+              видела. Тому научу дураков-то, другому; так вот мне все и рады. Я таким манером
+              двадцать лет из дому в дом брожу, к вам-то только повидаться захожу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Право, тетенька, останьтесь.</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Зачем дома обедать, коли в чужих людях можно? Ну, право! Вот кабы я набивалась, так
+              бы худо; а то везде с честью принимают. Когда негде будет, надоем всем, ну уж тогда,
+              нечего делать, дома обедать буду. А теперь что мне вас в лишний расход вводить! От вас
+              к Хрюковым пойду. Хоть сам-то старик и плут, да мне все равно; у сыновей жены хороши,
+              бабы добрые.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А как обеда не застанете?</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>А мешок-то на что? Тут у меня целый дом. Тут у меня и чай, и сахар, и ситец на
+              платье, и свечи стеариновые, и лоскутки разные, вот воротник меховой подарили недавно,
+              а вот две котлетки завернуты. Я ничем не брезгую; все прячу, что дают. Ну,
+              прощайте!</p>
+            <stage>(Целуется с обеими и уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Анна Павловна и Верочка.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ты что все в окно смотришь? Целое утро не отходишь!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папашу дожидаюсь.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папашу ли?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>А то кого же еще? Мне больше некого дожидаться.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Уж и некого?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Разумеется, некого. Ну, кого я стану ждать? скажи.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, что ты со мной-то хитришь!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ты, может, думаешь, что я Сашу...</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(смеясь).</stage>
+            <p>Кого?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я ошиблась, а ты уж и рада. Ты думаешь, что я Александра Петровича дожидаюсь? Так нет
+              же, нет, нет, нет!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, верю, верю.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я об нем и думать-то забыла.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Очень жаль.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Кого?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Разумеется, тебя; а то кого же?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Отчего тебе меня жаль?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Очень просто, душа моя: вчера ты называла Александра Петровича своим женихом, Сашей,
+              целовала его; а сегодня забыла и думать. Значит, у тебя дурное сердце.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я тогда не знала, что он такой противный.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Может быть, он совсем и не противный.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Уж ты, пожалуйста, за него не заступайся.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А мне что за него заступаться? он -- твой жених, а не мой.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ну уж это извините-с.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А вот увидим.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет уж, я лучше умру, а не пойду за него.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Зачем умирать! Тебя никто и не принуждает идти за него. Можешь выйти за кого
+              угодно.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>И за другого не пойду.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Как хочешь, душа моя; твоя воля.</p>
+          </sp>
+          <stage>Молчание.</stage>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Аннушка!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Душенька, что я у тебя спрошу, ты мне скажешь?</p>
+            <stage>(Плачет.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Конечно, скажу. О чем же ты, милочка, плачешь?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Мне очень скучно.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, что же ты хотела спросить?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Придет он к нам еще когда-нибудь или нет?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Не знаю, душенька. У него ума-то тоже немного больше твоего. С неделю от стыда не
+              пойдет, а потом будет совеститься, что долго не был. Это всегда так бывает. А тебе
+              хотелось бы, чтобы он пришел?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Да, очень хотелось бы. Мне так скучно, так скучно!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Кто ж его знает! Может быть, возьмется за ум и придет.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет уж, я знаю, что не придет.</p>
+            <stage>(Плачет.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Надолго ли твоего сердца-то хватило?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ты думаешь, я ему прощу? Нет, нет, я ему никогда не прощу; я только хочу, чтоб он
+              пришел.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Один раз?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, чтоб и еще приходил.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А вот подождем денька три.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Денька три! Что это ты! Нет, я не хочу. Я хочу, чтоб нынче пришел.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, это едва ли.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Знаешь что, душенька, Аннушка! Если он сегодня не придет, я к нему тетеньку
+              пошлю.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Как это можно! Что ты выдумываешь! Надо подождать еще хоть два дня.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ну как он, в самом деле, долго не придет -- с тоски умрешь. Уж как бы я была рада,
+              кабы он пришел; кажется, и сердиться бы на него перестала. <stage>(Смотрит в
+                окно.)</stage> Идет! Уйду, уйду, в свою комнату уйду! И чтоб он не смел туда ходить!
+              Ты слышишь, что я тебе говорю, сестрица! </p>
+            <stage>(Убегает.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ах, молодость, молодость! Блаженное время! И я была молода, да нечем мне вспомнить
+              мою молодость! <stage>(Утирает глаза.)</stage> Что ж это? Неужели я завидую ей!
+              Сестре-то! Нет, какая зависть! А как-то невольно, когда видишь чужое счастье, хочется
+              и себе хоть немножко. Ну, что ж делать! Мое время прошло. Теперь остается только мне
+              всех любить, а меня уж никто не полюбит. Отец скоро совсем состареется, у сестры будут
+              дети; вот и ухаживай за всеми. Ей, скажут, и делать-то больше нечего, это ее прямая
+              обязанность. </p>
+          </sp>
+          <stage>Входит Гольцов и останавливается у двери.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Анна Павловна и Гольцов.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Войдите! Что же вы стали?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Если позволите? Мне, право, так совестно-с.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Перестаньте! Что за вздор! Мы уж и забыли. Садитесь! Видели папеньку?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Видел-с. Он сейчас придет; мы вместе шли из городу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Где же он теперь?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Хотел зайти насчет денег похлопотать.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Для вас?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Для меня-с.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Однако вы очень деньги любите. Я не знала, что вы такой корыстолюбивый.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Какое корыстолюбие, Анна Павловна! Просто мне нужны деньги до зарезу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, в самом деле? Вы не шутя говорите?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Плохие шутки! Если я не достану денег, я могу лишиться и службы, да и больше того, и
+              чести.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что вы говорите! Это ужасно. Но, послушайте, вы не беспокойтесь очень-то, не
+              расстроивайте себя! Еще дело может поправиться. Только вы не говорите, ради бога,
+              Верочке, не пугайте ее!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что вы! Помилуйте! А можно мне их видеть-с?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Не знаю. Она сейчас только убежала в свою комнату и велела сказать вам, чтобы вы туда
+              не ходили.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>И сами не выдут-с?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Право, не могу вам сказать. Кто же ее знает!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что я наделал! Ведь теперь Вера Павловна ни за что моей любви не поверит-с, как я ни
+              уверяй. А я, Анна Павловна, ей-богу, влюблен, так влюблен, что я уж и не знаю как. Я
+              давеча плакал все утро.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы думаете, что она вас разлюбила?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что ж мудреного, после этакого случая.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(с улыбкой).</stage>
+            <p>Да, конечно.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ах, боже мой! Желал ли я когда обидеть Веру Павловну! А вот что вышло!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы говорили с папенькой о Верочке?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Как же-с! Об чем же мне говорить-то!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что ж он?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Он-то ничего-с. Обнадеживал очень. "Поди, говорит, скажи Верочке, что я приказал ей с
+              тобой помириться".</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(смеясь).</stage>
+            <p>Ну так чего же вам бояться?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Все-таки-с...</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(громко).</stage>
+            <p>Верочка!</p>
+            <stage>Верочка за сценой: "Что тебе?"</stage>
+            <p>Поди сюда!</p>
+            <stage>Верочка за сценой: "Зачем?"</stage>
+            <p>Папенька приказал тебе помириться с Александром Петровичем.</p>
+          </sp>
+          <stage>Верочка за сценой: "Хорошо, я сейчас приду!"</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вы меня поддержите!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, я вас оставлю вдвоем. Это, мне кажется, лучше будет.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Нет, что вы! Помилуйте!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А еще жених! Боитесь с невестой остаться!</p>
+            <stage>Верочка входит.</stage>
+            <p>Ты слышала, что папенька приказал? <stage>(Гольцову.)</stage> Ну, вот мы и посмотрим,
+              как она не послушает отца. </p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Гольцов и Верочка.</stage>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Простите меня, Вера Павловна!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Я не могу вас не простить.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Отчего же-с?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Так папаше угодно.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Только потому-с?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Разумеется. Я бы и не вышла к вам ни за что на свете.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>В этом радости для меня не много-с. Я бы желал знать, что вы сами обо мне
+              думаете-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что вы ко мне пристаете!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(хочет взять руку).</stage>
+            <p>Позвольте-с!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Это что еще?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ручку поцеловать.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>С чего это вы выдумали!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ведь уж вы меня простили?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Да, я вас простила, а руки не дам.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>И вы долго будете сердиться-с?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Долго! Вот новости! Всю жизнь.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да помилуйте, как же это можно-с, когда вы...</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что я?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да как же, вы изволили обещать-с...</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что такое?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да вчера изволили... быть столько добры-с... за меня замуж...</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>За вас замуж? Кто же это вам сказал?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да и Павел Прохорыч говорит-с...</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папаша может мне приказать помириться с вами, а этого не может.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Значит, мне нельзя никакой и надежды иметь?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Никакой.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Извините, что я вас побеспокоил. Делать мне здесь нечего-с. Прощайте-с!</p>
+            <stage>Молчание.</stage>
+            <p>Честь имею кланяться. <stage>(Хочет идти.)</stage>
+            </p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Послушайте, куда же вы?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Домой-с. Засвидетельствуйте мое почтение Павлу Прохоровичу.</p>
+            <stage>(Идет к двери.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Не ходите!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(в дверях).</stage>
+            <p>Помилуйте, Вера Павловна! Что же мне здесь оставаться! Только одно мучение.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Если вы уйдете, я так рассержусь, так рассержусь, что...</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ведь уж как ни сердитесь, хуже этого для меня не будет-с. Чего же еще! Вы даже и
+              надежды не позволяете иметь.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Еще бы позволить! Нет, вы вот что скажите: если вы уйдете теперь, вы уж никогда
+              больше не придете?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Зачем же я пойду, рассудите сами-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Так никогда?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Никогда-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ну и прекрасно! И не надо вас! Не приходите! Прощайте!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Прощайте! Бог с вами!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Прощайте! <stage>(Вырывает у Гольцова шляпу.)</stage> Уходите! Что ж вы нейдете? </p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что ж это за насмешки-с! Пожалуйте шляпу-с!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет уж, теперь не отдам.</p>
+            <stage>(Прячет шляпу за себя.)</stage>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ах, позвольте! Изломаете, право изломаете.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ни за что, ни за что не отдам! Ну, уж возьмите!</p>
+            <stage>(Гольцов протягивет руку, она прячет шляпу.)</stage>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вы уж лучше простите меня; помиримтесь как следует, тогда я сам останусь.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Отымите у меня шляпу, тогда помирюсь.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Ведь захочу, так отниму-с.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Попробуйте!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Извольте!</p>
+            <stage>(Обхватывает руками Верочку, она сопротивляется, он ее целует.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Это что еще! <stage>(Топает ногой.)</stage> Кто вам позволил? Вы хотите, чтоб я вас
+              прогнала? </p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Виноват-с! Пожалуйте шляпу, я сам уйду.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Возьмите!</p>
+            <stage>(Отдает шляпу.)</stage>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Прощайте!</p>
+            <stage>(Идет к дверям.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(тихо).</stage>
+            <p>Саша!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что вам угодно-с?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что вы воротились? Я совсем вас не звала. Это я про себя.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Извините-с!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(кричит все громче и громче).</stage>
+            <p>Саша! Саша! Саша! Ах, какой противный! Он, пожалуй, в самом деле уйдет. <stage>(У
+                окна.)</stage> Саша! Саша, воротись! Воротился, воротился! </p>
+            <stage>(Прыгает от радости.)</stage>
+            <stage>Гольцов входит.</stage>
+            <p>Ты, Саша, такой... такой... нехороший! Ты не стоишь, чтоб тебя любили! Ты хотел уйти
+              и никогда не приходить. И выходит, что ты злой, а я добрая.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Значит, вы меня совсем прощаете?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Совсем.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>И я опять смею называть вас Верочкой?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Нет, не смеешь. Ну, да называй, пожалуй.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>И ручку поцеловать можно?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Можно. На!</p>
+            <stage>(Протягивает ему руку.)</stage>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(целуя руку).</stage>
+            <p>Мы уж, Верочка, об этой ссоре и поминать не будем.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Не будем.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>И замуж, Верочка, пойдешь за меня?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Пойду. Только ты не уходи.</p>
+          </sp>
+          <stage>Гольцов целует руку. Входит Анна Павловна.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Гольцов, Верочка и Анна Павловна.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Целуйтесь, целуйтесь, я не помешаю. Это лучше, чем ссориться.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Уж теперь кончено-с.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну и прекрасно!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Он теперь опять мой жених.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Очень рада твоей радости.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>А вот калитка стукнула, должно быть папаша.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(взглянув в окно).</stage>
+            <p>Он и есть.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Не денег ли несет! Вот бы счастливый-то день для меня.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Должно быть, что-нибудь есть; что-то он очень весел.</p>
+          </sp>
+          <stage>Входит Оброшенов, дочери целуют его.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ШЕСТОЕ</head>
+          <stage>Оброшенов, Гольцов, Анна Павловна и Верочка.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(гладит дочерей по головам).</stage>
+            <p>Ну, козы, прыгайте!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Зачем, папаша?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>От радости. Я бы и сам прыгал, да ноги устарели. <stage>(Оглядывая всех.)</stage> Ах,
+              дурочки вы мои, дурочки! Право, дурочки! </p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Папаша, за что ты бранишься?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Нет, он-то, он-то! Плачет; несчастие, говорит; чужие деньги затратил. Ха-ха-ха,
+              хи-хи!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, я вижу, вы денег достали?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Нет, что он-то, Аннушка, говорит! Погибаю, говорит, из суда выгонят! Ах чудак,
+              чудак!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Да вы говорите! Достали, что ли?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Голенький ох, а за голеньким бог! Никогда не отчаявайся! Помни: голенький ох, а за
+              голеньким бог.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Значит, достали?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Еще бы! Я-то не достану! Ах ты, Саша, Саша! Кто ж и достанет, как не я!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Много ли?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>На всех хватит. Еще дом купим; лошадей тебе пару куплю.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Откуда же это, папаша?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Много будешь знать, скоро состареешься.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Разве ты не видишь, папенька шутит.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Шучу? Нет, уж будет шутить! Что? Удивил вас? Удивил? Погодите, еще так ли вас удивлю!
+              Вицмундир мне надо, Аннушка. Там он?</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>На что вам, папаша, вицмундир?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Еду, еду! Нельзя в этом ехать, неприлично.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>А обедать?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Какой теперь обед! Пойдет ли на ум! Надо скорей ехать! Скорей объявить...
+                <stage>(Вынимает из кармана конверт, завернутый в платок, кладет его на стол и
+                накрывает шляпой.)</stage> Шш! Шш! Никто! Пальцем никто! Слышите! </p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что ж это такое? Я ничего не понимаю.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Саша, что это такое? Что там под шляпой?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Не знаю. Должно быть, нашел на дороге деньги. Хочет поехать объявить и получить
+              третью часть.</p>
+          </sp>
+          <stage>Входит Оброшенов.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(снимая шляпу и вынимая из платка конверт).</stage>
+            <p>Ах, дурачки вы мои, дурачки! Много тут денег, много! Вы столько никогда и не
+              видывали. Вот они! Ну-ка, посмотрите! <stage>(Читает.)</stage> "Со вложением
+              шестидесяти тысяч банковыми билетами". Может быть, тут есть билетик в двадцать тысяч
+              на имя неизвестного. Вот его-то мне и пожалуйте. Третья часть! Имею право... по закону
+              могу требовать. Видишь ты, конверт подрезан! Это всегда так. Вот и поглядим!
+                <stage>(Осторожно вынимает из конверта газеты.)</stage> Это не то. Ишь ты, завернули
+              в бумагу для осторожности. <stage>(Вертит газетную бумагу.)</stage> Где же тут? Где
+              же? На пол как не упали ли? Поглядите хорошенько! А! Да!.. <stage>(Ударяет себя по
+                лбу.)</stage> А еще старик! Осторожный человек! Это я, Аннушка, конверт-то вот
+              так... вот этой стороной... в карман-то... понимаешь ты? Тут разрезано... вот они и
+              вывалились туда... в карман-то. Они там... в сертуке... в кармане-то, в боковом-то...
+              Понимаете вы? Ну да, там, там! А то где же им быть-то? ну где же им быть-то? Ну,
+              рассудите! Вот сейчас пойду и принесу вам... принесу вам. Экой я! Экой я неосторожный!
+              Сейчас сюда принесу, и положим... положим в конверт-то. </p>
+            <stage>(Уходит.)</stage>
+            <stage>Гольцов рассматривает газетную бумагу, на стол выпадает записка.</stage>
+            <stage>Оброшенов возвращается, отталкивает Гольцова.</stage>
+            <p>Что я там ищу! Они тут.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Тут нет, уж вы искали.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(растерявшись).</stage>
+            <p>Где ж они? Неужели я потерял? <stage>(Хватается рукой за голову.)</stage> Вспомнил,
+              вспомнил! Вынимал я конверт дорогой-то, любовался все на печати, тут и потерял. Чужие
+              деньги! Шестьдесят тысяч! Побежим, Саша! Может, еще никто не поднял. Спрашивать будем,
+              не поднимал ли кто? Шестьдесят тысяч! </p>
+            <stage>(Плачет.)</stage>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(взяв со стола записку).</stage>
+            <p>Тут денег и не было. Вот и записка безграмотная: "Не ганис за чужим добром!"</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(смотрит записку).</stage>
+            <p>О, боже мой! Как над мальчишкой насмеялись! Над стариком-то! Над родительским
+              чувством насмеялись! Да нет! Вы все лжете! Этак не шутят. Таких шуток не бывает! Какая
+              это записка! Это вздор! Тут ничего и не написано! Шестьдесят ведь тысяч! Шестьдесят
+              тысяч! Они там! Там в кармане... за подкладку как-нибудь завалились.</p>
+            <stage>(Идет шатаясь в другую комнату, за ним дочери; Верочка сейчас же
+              возвращается.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(падает на шею Гольцову).</stage>
+            <p>Ах, папаша! Что с ним? Ему дурно!</p>
+          </sp>
+          <stage>Анна Павловна входит.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Бегите за доктором! Я боюсь, что он помешается. Не оставьте нас в несчастии,
+              Александр Петрович! Верочка может сиротой остаться. Вы свое горе забудьте! Денег я вам
+              достану, выпрошу у Хрюкова. Какого бы мне это унижения ни стоило, а уж выпрошу.</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Беги, Саша, за доктором, беги!</p>
+          </sp>
+          <stage>Гольцов уходит.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</head>
+        <castList>
+          <head>ЛИЦА:</head>
+          <castItem>Оброшенов.</castItem>
+          <castItem>Анна Павловна.</castItem>
+          <castItem>Верочка.</castItem>
+          <castItem>Гольцов.</castItem>
+          <castItem>Хрюков.</castItem>
+          <castItem>Улита Прохоровна.</castItem>
+          <castItem>Молодец от Хрюкова.</castItem>
+        </castList>
+        <stage>Комната третьего действия.</stage>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЕРВОЕ</head>
+          <stage>Анна Павловна и Улита Прохоровна (выходят из боковой двери).</stage>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Ишь ты какие шутки глупые! Нечего им делать-то, вот они и озорничают. Еще слава богу,
+              что так обошлось. Долго ли старику совсем с ума свихнуться!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Да, мы вчера очень боялись. После припадка он заснул, и с ним сильный бред сделался.
+              Впрочем, доктор сказал, что опасности нет никакой, что ему нужно только денька два
+              успокоиться.</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Ну, а сегодня-то он что?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ничего. Поутру гулять ходил, теперь прилег заснуть.</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Да, вот тоже и со мной тогда такую же штуку сделали! Уж я их ругала-ругала; да
+              стыда-то у них нет в глазах, так им все равно.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что ж вы, тетенька, так скоро ушли от Хрюковых? Что не погостили?</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Аль я вам надоела?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, тетенька! Я так спрашиваю.</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Ушла я от безобразия от ихнего! Там теперь не то что посторонним, и своим-то
+              приходится бежать из дому. Старик сыновей гонит; дом хочет заново отделывать, чтоб ему
+              одному жить.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Зачем же?</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Говорят, жениться хочет.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>В шестьдесят-то лет?</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Да разве для них закон какой писан! Что чудней, то и делают. Спальню да женину
+              уборную штофом да бархатом обивает, на окна кружевных занавесок накупил.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Кто ж за него пойдет?</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Пойтить-то пойдут. Которая за деньги, а другую сиротку и так отдадут, не спросясь.
+              Сыновья теперь по квартирам разъезжаются. Срам! Из своего-то дома! Я старику говорила:
+              "Жила я в княжеских и в графских домах, нигде такого безобразия не видала".</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что же он?</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Известно, что. Обругал как нельзя хуже. Чего ж от него ждать-то!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Интересно бы узнать, кто его невеста.</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Как же, узнаешь! Он прескрытный старичишка! Его мыслей никто не знает. Уж такой
+              хитрый. Ну, я теперь пойду.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Куда же вы? Посидите!</p>
+          </sp>
+          <sp who="#ulita_prohorovna">
+            <speaker>Улита Прохоровна.</speaker>
+            <p>Ну вот еще! Я вас и так часто вижу. Пойду где-нибудь в чужих людях пообедаю; все-таки
+              вам расходу меньше. А коли хорошо примут, так и погощу. Вон к вам Хрюков идет. Какого
+              ему еще рожна нужно! Я с ним и встречаться-то не хочу, я через кухню пройду.
+              Прощай!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Прощайте, тетенька!</p>
+          </sp>
+          <stage>Улита Прохоровна уходит в боковую дверь, входит Хрюков.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВТОРОЕ</head>
+          <stage>Анна Павловна и Хрюков.</stage>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Здравствуй, душа моя!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Здравствуйте! Садитесь!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>И без просьбы твоей сяду. Ты думаешь, буду стоять перед тобой? Уж это много чести для
+              тебя. <stage>(Садится.)</stage> А что ж крапивное-то семя вчера не приходил? ведь я
+              ему приказывал. </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька нездоров.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>С перепою, должно быть?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Как вам не стыдно! что вы говорите!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>То и говорю, что знаю. Уж есть ли таких пьяниц, как стракулистов! В самом деле, что
+              ль, болен?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Теперь поправляется.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А кляузы строчить может?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Он спит теперь. Как проснется, тогда с самим поговорите.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну что ж, этот, как его? Жених-то ваш? Нашел денег?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(печально).</stage>
+            <p>Нет.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>И вы-то хороши! Отдаете за голоногого за какого-то! Польстились, что молод. Вы бы
+              лучше хоть постарше, да попристойнее искали.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нам и этот хорош.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Сядет он на вашу шею. Еще наплачетесь с ним.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Там что бог даст. Уж это дело решенное.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Зять-то бы кормить должен семью, а тут ему денег подавай. И пойдете побираться по
+              знакомым, занимать у того и у другого.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Они будут совсем обеспечены; папенька им дом купил.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Слышал я, слышал. У меня ж денег-то брали. Уж и дом! Стань к лесу задом, ко мне
+              передом.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>По деньгам и дом.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Разумеется. Не каменные же палаты вам на две-то тысячи купить!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>И две-то тысячи насилу набрали. Теперь бы нам только триста рублей на короткое время
+              призанять.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Знаю я это короткое-то время. Дай я вам теперь триста рублей -- через неделю еще
+              столько же просить придете, а то так и больше.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Не придем. И эти деньги возвратим вам с благодарностию. Я вам ручаюсь за это.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ты ручаешься? А что с тебя взять-то?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Я вам словом ручаюсь.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А что из твоего слова сделаешь? Шубу не сошьешь. Да оно отчего бы не дать! Деньги не
+              велики. Кабы вы только могли чувствовать.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что это значит? Как чувствовать?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Так и чувствовать. Уважать своих благодетелев; вот как чувствовать.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Мы вас и уважаем и будем уважать.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А вот посмотрю я! <stage>(Подходит. Гладит по голове Анну Павловну.)</stage> Ишь ты
+              как гладко причесана: волосок к волоску! Так много ли ж тебе денег-то нужно? </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Триста рублей.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А двести нельзя?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, нельзя.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Двухсот не возьмешь?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Возьму, только еще сто рублей надобно занимать будет.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Уж так будто нужно ровно триста, ни копейки меньше?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нужно ровно.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну, а ежели я дам двести девяносто?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Сколько бы ни дали, мы будем вам благодарны. Только мне нужно ровно триста.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Уж так в обрез? Чудно что-то! <stage>(Смеется.)</stage> Капрыз! </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ничуть не каприз.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну да что ж! Я и капрыз твой уважу. <stage>(Вынимает бумажник.)</stage> Вот они
+              деньги-то! Хочешь, все отдам? </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Не нужно мне.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Что больно горда! Другая бы взяла, право взяла. Есть такие. Да и ты глупа, что не
+              берешь. Могу жертвовать. Эй, бери, а то спрячу!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы мне дайте только то, что я прошу у вас.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>На, возьми сама, сколько нужно.</p>
+            <stage>(Подает бумажник.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нет, зачем! Вы сами дайте.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Триста?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Триста.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Я могу тебе и больше дать.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ни больше, ни меньше.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ну, право, возьми! Чего боишься? Я никому не скажу. Сколько хочешь бери. Хочешь
+              пятьсот -- пятьсот бери. Я денег не жалею; а для тебя хошь все отдам.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Мне нужно только триста!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Триста да триста! Наладила! <stage>(Кладет деньги на стол.)</stage> Ну, на тебе твои
+              триста! Я с тебя и расписки не беру! </p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(встает и кланяется).</stage>
+            <p>Вы меня так одолжили, Филимон Протасьич, что я и не знаю, как благодарить вас! Вы
+              будьте уверены, что при первой возможности мы вам заплатим.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Что мне, крайность, что ли, в деньгах-то! Хошь и не заплатишь -- не разорюсь.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы, конечно, не разоритесь, да мы-то должны отдать долг.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А может, я прощу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы нас обидите.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Все ты не то толкуешь! Вот видишь ты, я на деньги все могу иметь и все имел, то есть
+              всякое удовольствие, и любили меня всякие красавицы, да всё из такого круга, что
+              образования никакого нет, ну и скромности. Чтобы по-благородному вести себя, так не
+              умеют. А мне надо, чтоб по-благородному, потому это самое необразование мне
+              надоело.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Не понимаю я вас.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков</speaker>
+            <stage>(тихо).</stage>
+            <p>Чего тут не понимать-то! Ну, просто тебе говорю, осыплю тебя золотом, да и все
+              тут.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что такое?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Да ты тише, а то отца разбудишь.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что вы говорите?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А вот что! Ты мне понравилась. Если ты меня полюбишь, так я всему вашему семейству
+              могу благодетелем быть. В экономки ко мне хочешь?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Как вы смеете такие вещи говорить!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Тише, я тебе говорю! Что шумишь? Услышит кто-нибудь. И этих денег с вас не потребую и
+              еще дам, сколько хочешь. Вот он, бумажник-то, со мной!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(бросает деньги).</stage>
+            <p>Возьмите ваши деньги и ступайте вон!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков</speaker>
+            <stage>(поднимает деньги).</stage>
+            <p>Что ты бросаешь? -- ведь это не щепки. Что ты развоевалась!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Подите вон, я вам говорю!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Постой! Разве я тебя чем обидел? Я тебе обидного не сказал. На все это есть твоя
+              воля: хочешь -- ладно; не хочешь, так и скажи: тебя никто не принуждает. За что ж тут
+              обижаться!</p>
+          </sp>
+          <stage>Входит Оброшенов.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ТРЕТЬЕ</head>
+          <stage>Анна Павловна, Хрюков и Оброшенов.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Аннушка, что с тобой? Что с тобой, моя милая?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, прикажите ему уйти. Можно ли переносить, что он говорит! Я уйду, я не могу
+              видеть его!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Погоди, погоди! Благодетель мой! За что же девушку-то обижать? Ну я таковский, уж
+              надо мной бы над одним и тешили свою душу. А она к этому непривычна: я их берег,
+              лелеял, обижать никому не позволял.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Что ты ее слушаешь! Она врет. Я ей ничего обидного не сказал. Вольно ей
+              горячиться-то! Ишь она какая сердитая у тебя!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Уж даром она, благодетель мой, Филимон Протасьич, не рассердится. А вы вот что!
+              Попросите у ней извинения за невежество, ручку поцелуйте, как следует у барышни, она
+              вас и простит по своей ангельской доброте. Хе-хе-хе! Так ведь я говорю, Аннушка?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Ручку поцелуйте! Выдумывай еще! Ты слушай, старая тетеря! Мои резонты слушай! Должен
+              ты мне много! Теперь она еще просит триста рублей. Что ж, у меня для вас яма
+              бездонная, что ли, денег-то приготовлена?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Так не давайте! А зачем обижать-то?</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Не давайте! А я вот хочу дать. Да ты слушай! Девушка она в летах, замуж не пойдет,
+              поведенья скромного; а мне это и нужно. Пусть переезжает ко мне в экономки. Обиды ей
+              не будет, и вам всем будет хорошо.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, вот слышите, папенька, что он говорит. Можно это слушать равнодушно?</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ЧЕТВЕРТОЕ</head>
+          <stage>Оброшенов и Хрюков.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Не ждал я, Филимон Протасьич, от вас, от благодетеля, такого сраму на свою седую
+              голову.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Какой тут страм! Мне страм, что я с вами связался. Я ей добра желал, а она обиделась;
+              еще, пожалуй, рассказывать будет. Значит, разговор пойдет, и будет страм для меня, а
+              не для вас. Про меня пойдет мараль; а вам что?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>А если про нас будут говорить, значит, вам до этого дела нет!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Сравнял ты себя со мной! Вы люди ничтожные! Про тебя с дочерьми с твоими как хочешь
+              дурно разговаривай, так в этом важности ровно никакой нет. Потому цена вам всем грош.
+              А я человек известный. Понял ты?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Мне цена грош, я и не спорю; а дочерей моих я не позволю обидеть ни за миллионы. Тебе
+              честь дорога, а мне дороже твоего.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Что за честь, коли нечего есть! Видимая твоя бедность или нет? Всякому видимая. Я
+              тебе ж, убогому, помочь хотел; ты бы должен это чувствовать! А велика важность, что
+              про твою дочь поговорят дурно. Поговорят, да и перестанут.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Я чести своей не продавал; слышишь ты, не продавал!</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Да что за бесчестье, что дочь твоя будет жить в моем доме? Разве только скажут, что
+              она любовница моя. Так и то не беда. Всякий умный человек рассудит, что она это от
+              бедности.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Молчи! Задушу! Молчи! Ты этого от меня еще не слыхивал, так вот слушай теперь! Ты
+              думал, что я шут! Ну да, я шут и есть, только за дочерей убью, всякого убью!</p>
+            <stage>(Хватает стул.)</stage>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Скотина не узнала своего господина. Что ты, повредился, что ли? Ты мне деньги-то
+              отдай, которые забрал.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Отдам, отдам...</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>А за грубость я тебя в сибирку посажу.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Я сам с тебя бесчестье потребую, а за дочь по закону вчетверо заплатишь.</p>
+          </sp>
+          <sp who="#hryukov">
+            <speaker>Хрюков.</speaker>
+            <p>Держи карман-то! Свидетелев не было. Ты деньги-то принеси!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(вслед ему).</stage>
+            <p>Принесу, завтра же принесу.</p>
+          </sp>
+          <stage>Входят Анна Павловна и Верочка.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ПЯТОЕ</head>
+          <stage>Оброшенов, Анна Павловна и Верочка.</stage>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, успокойтесь! Не расстроивайте себя.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ты, папаша, опять захвораешь.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов</speaker>
+            <stage>(в изнеможении садится на стул).</stage>
+            <p>Ах ты, анафема! Нет, теперь хворать нельзя, некогда. Захворай теперь, так с голоду
+              умрешь. Надо сейчас денег доставать. Саше нужно, да этому лешему отдать. Вот отдохну и
+              побегу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Куда вы, папенька, пойдете? Вы так слабы. Вы у кого хотите просить денег-то? Вы лучше
+              напишите ему записочку, я снесу.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ты! Можно ли это? Позволю я тебе идти милостыню просить! Чтоб опять такая же
+              история вышла.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Саша сходит.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>И ему нельзя, стыдно -- он молодой человек. А мне ничего не стыдно; у меня уж давно
+              стыда нет. Я бы теперь украл для вас и не постыдился бы. Пуще всего надо Хрюкову
+              отдать. А то после этой ссоры он меня со свету сживет.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Много вы ему должны, папенька?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Много. Не разделаться всю жизнь. Все по распискам; уж некоторым и срок вышел. Надо
+              его укланять как-нибудь, чтобы, вместо денег, хоть документ взял на год сроком. Будем
+              выплачивать понемногу.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вот несчастие-то!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Пугнул я его, а теперь уж и самому страшно. Кругом я обязан человеку, пропасть
+              должен, -- и вдруг выгнал из дому, убить хотел. Кого? Благодетеля своего.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Он, папенька, стоил этого.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Стоил-то стоил. Его б отсюда не в дверь, а в окно надо было проводить! Да то-то вот,
+              Аннушка, душа-то у меня коротка. Давеча погорячился, поступил с ним, как следует
+              благородному человеку, а теперь вот и струсил. Бедность-то нас изуродовала. Тебя
+              оскорбляют, ругаются над детьми твоими, а ты гнись да гнись да кланяйся. Покипит
+              сердце-то, покипит, да и перестанет. Вот что я сделал дурного? Вступился за дочь,
+              выгнал невежу вон. Что ж бы я был за отец, если б этого не сделал? Кто ж допустит
+              такое нахальство в своем доме? Стало быть, я хорошо сделал, что прогнал его; а у меня
+              вот от страху ноги трясутся. Вот так и жду, что он пришлет за мной. А ведь надо будет
+              идти; упрямиться-то нельзя; надо будет кланяться, чтоб пообождал немного. А сколько
+              брани-то я от него услышу! Как в глаза позорить-то станет! А мне и языком пошевелить
+              нельзя. Нагни голову да слушай! Уж он теперь дома, -- далёко ль ему, только через
+              улицу перейти. Пришлет! Чувствует мое сердце, что пришлет!</p>
+            <stage>Входит молодец от Хрюкова.</stage>
+            <p>Ты зачем?</p>
+          </sp>
+          <sp who="#molodec">
+            <speaker>Молодец.</speaker>
+            <p>Филимон Протасьич приказали вам сейчас прийти к ним.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Зачем?</p>
+          </sp>
+          <sp who="#molodec">
+            <speaker>Молодец.</speaker>
+            <p>Это, выходит, я не знаю; а только приказывали, чтоб сейчас.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ж! Надо идти. Право, лучше идти. Скажи, что сейчас буду.</p>
+            <stage>Молодец уходит.</stage>
+            <p>Подай шляпу!</p>
+            <stage>Верочка подает.</stage>
+            <p>Пойду!</p>
+          </sp>
+          <stage>Входит Гольцов.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ШЕСТОЕ</head>
+          <stage>Оброшенов, Анна Павловна, Верочка и Гольцов.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Вот, Саша, беда у нас, право беда!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(не слушая).</stage>
+            <p>Денег не достали-с?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Какие тебе деньги! С меня с самого долг тянут. Вот сейчас иду умаливать, чтоб
+              подождали.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(схватывается за голову).</stage>
+            <p>Ах, боже мой!</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Что ты, Саша, что ты?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Сейчас письмо получил-с.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Какое?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(тихо).</stage>
+            <p>Этот помещик, чьи я деньги затратил, через два дни будет в Москве.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ничего, Саша, ничего! Не тужи! Вот я сбегаю по своему делу, а ты тут подожди меня,
+              поболтай! Старайся не думать! Забудь об этом! А я ворочусь, потолкуем: может быть, что
+              и придумаем. Ну, прощайте!</p>
+            <stage>(Уходит.)</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ СЕДЬМОЕ</head>
+          <stage>Анна Павловна, Верочка и Гольцов.</stage>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(целуя Гольцова).</stage>
+            <p>Здравствуй, Саша! Ты уж и не видишь меня.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Здравствуй, Верочка! Извини! Что же, Анна Павловна?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>У меня сейчас в руках были триста рублей, да я их сама назад отдала.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Что же вы сделали! Ведь я погибаю.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А вы бы послушали, с каким гнусным предложением мне их давали!</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Неужели-с? Ну, разумеется, взять нельзя-с. Кто же это?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Старик Хрюков.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Вы бы ему в лицо их бросили!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Я так и сделала.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что такое вы про Хрюкова говорите? Я не понимаю ничего.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Нечего тебе и понимать-то, душа моя.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что он такое обидное тебе сказал? Папенька рассердился, ты тоже.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Совсем не нужно тебе знать этого, Верочка.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Сестрица, голубушка, скажи!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну, изволь! Он хотел, чтоб я пошла к нему в экономки.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Ах, сестрица! Как же он смел! Ведь это все равно что в услужение идти и жалованье от
+              него получать?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ну да, да!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>За дело его папенька прогнал.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Так вот, Александр Петрович! А мы ему должны очень много; он теперь деньги требует.
+              Вот какое положение.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(тихо).</stage>
+            <p>А мое-то положение! Знаете ли, я давеча было за бритву ухватился.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что вы! Что вы! А Верочка-то?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>Только она-с, а то бы кончено дело.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что вы! Страшно слушать.</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов.</speaker>
+            <p>А каково мне будет, как выгонят из суда, да осрамят на всю Москву, да судить будут,
+              как вора!</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что вы шепчетесь! Должно быть, что-нибудь нехорошо, что вы шепчетесь?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ты сама знаешь, что дела наши очень плохи.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(хватаясь за Гольцова).</stage>
+            <p>А он! С ним ничего не будет? Он с нами останется?</p>
+          </sp>
+          <sp who="#golcov">
+            <speaker>Гольцов</speaker>
+            <stage>(закрывая лицо руками).</stage>
+            <p>Я не знаю, Верочка, где я буду.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка</speaker>
+            <stage>(кидается ему на шею).</stage>
+            <p>Саша! Саша!</p>
+          </sp>
+          <stage>Голос Оброшенова за сценой: "Молитесь богу! Молитесь богу!" Вбегает.</stage>
+        </div>
+        <div type="scene">
+          <head>ЯВЛЕНИЕ ВОСЬМОЕ</head>
+          <stage>Анна Павловна, Верочка, Гольцов и Оброшенов.</stage>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Молитесь богу! Молитесь богу!</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Что вы, папенька?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Аннушка! Аннушка! <stage>(Гольцову и Верочке.)</stage> Вы! Становитесь! Оба
+              становитесь на колени! И я стану. </p>
+            <stage>(Хочет становиться на колени.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Папенька, что вы делаете?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Ты наша спасительница! Ты! Нет, еще не все! Что же я обрадовался! Еще не все. Нет, я
+              стану перед тобой на колени.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Ах, папенька! Что вы это! Зачем?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Просить тебя, просить великое дело для нас сделать. И вы становитесь! Вот она! Она
+              одна может.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Я ничего не понимаю.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Нет, я стану... Это стоит, чтоб стать на колени. Злодей твой не станет того просить,
+              что отец просить будет.</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>Вы меня пугаете.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Будь тверже, Аннушка, будь тверже! Хрюков просит руки твоей и двадцать тысяч на
+              приданое дает! Падайте! Аннушка! Падаем, падаем к ногам твоим!</p>
+            <stage>(Хочет стать на колени.)</stage>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна</speaker>
+            <stage>(удерживает его).</stage>
+            <p>И вы думаете, что я откажусь? Вы боитесь, папенька? Нет. Вы больны, вы стары: вам
+              нужен покой. А вы для нас работаете, убиваете последние силы... Я буду иметь
+              возможность ходить за вами, покоить вас, баловать, как малого ребенка... и вы
+              подумали, что я откажусь от этого! <stage>(Обнимает Верочку.)</stage> И ее, мою куклу,
+              я могу рядить, во что мне захочется, могу ее тешить, доставлять ей удовольствия... И я
+              откажусь! Папенька, что вы! Я умереть для вас готова, только бы вы были счастливы!
+            </p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Да, да, да! Я так и знал. Вот она дочь-то какая! Вот с такими дочерьми хорошо жить на
+              свете! Ну, спасибо тебе! Спасибо! <stage>(Целует ее.)</stage> Вот я здоров и весел. Я
+              и плясать буду на твоей свадьбе. </p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>А что ж он давеча-то говорил: в экономки?</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Да, да! Я его бранил за это. Ужас как бранил! А он говорит: я шутил, я только
+              испытать хотел. Я, говорит, уж давно жениться задумал за непочтение детей. И много
+              невест смотрел, да все не по сердцу; а твоя по сердцу пришла. А это, говорит, я шутил,
+              шутил; пусть не сердится: я шутил с ней.</p>
+          </sp>
+          <sp who="#verochka">
+            <speaker>Верочка.</speaker>
+            <p>Что это с нами все шутят?</p>
+          </sp>
+          <sp who="#anna_pavlovna">
+            <speaker>Анна Павловна.</speaker>
+            <p>А вот, Верочка, будем жить богато да весело, а главное, не будем ни в ком нуждаться,
+              так перестанут над нами шутить.</p>
+          </sp>
+          <sp who="#obroshenov">
+            <speaker>Оброшенов.</speaker>
+            <p>Перестанут, милые мои, родные мои, перестанут!</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
