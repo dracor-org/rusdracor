@@ -278,7 +278,7 @@
         <head>Действие первое</head>
         <div type="scene">
           <head>Сцена первая</head>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Игроки, князь Звездич, Казарин и Шприх. За столом мечут банк и понтируют...
               Кругом стоят.</stage>
@@ -421,7 +421,7 @@
             </sp>
             <stage>Князь холодно кланяется и отворачивается. Шприх с неудовольствием уходит.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <stage>Арбенин и прочие.</stage>
             <stage>Арбенин входит, кланяется, подходя к столу, потом делает некоторые знаки и
@@ -1026,7 +1026,7 @@
             </sp>
             <stage>Уходят.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Те же, кроме Арбенина и князя Звездича.</stage>
             <sp who="#PervyjjIgrok_VyhodTretij">
@@ -1073,7 +1073,7 @@
         <div type="scene">
           <head>Сцена вторая</head>
           <stage>Маскерад.</stage>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Маски, Арбенин, потом князь Звездич. Толпа проходит взад и вперед по сцене;
               налево канапе.</stage>
@@ -1131,7 +1131,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <stage>Князь и женская маска.</stage>
             <stage>Одно домино подходит и останавливается. Князь стоит в задумчивости.</stage>
@@ -1356,7 +1356,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Арбенин и две маски.</stage>
             <stage>Арбенин тащит за руку мужскую маску.</stage>
@@ -1414,7 +1414,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Шприх и Арбенин.</stage>
             <stage>Шприх является.</stage>
@@ -1523,7 +1523,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход пятый</head>
             <stage>1-я маска, одна.</stage>
             <stage>1-я маска входит быстро в волнении и падает на канапе.</stage>
@@ -1550,7 +1550,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход шестой</head>
             <stage>1-я маска и князь Звездич.</stage>
             <stage>Князь с лорнетом торопливо продирается.</stage>
@@ -1672,7 +1672,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход седьмой</head>
             <stage>Князь, потом Арбенин.</stage>
             <sp who="#KnjazZvezdich">
@@ -1803,7 +1803,7 @@
         </div>
         <div type="scene">
           <head>Сцена третья</head>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Евгений Арбенин входит; слуга.</stage>
             <sp who="#Arbenin">
@@ -1864,7 +1864,7 @@
             </sp>
             <stage>Слуга уходит; он садится в кресла.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <sp who="#Arbenin">
               <speaker>Арбенин</speaker>
@@ -1902,7 +1902,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Арбенин и Нина.</stage>
             <stage>Нина входит на цыпочках и целует его в лоб сзади.</stage>
@@ -2200,7 +2200,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Прежние и слуга.</stage>
             <sp who="#Arbenin">
@@ -2284,7 +2284,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход пятый</head>
             <stage>Прежние, кроме слуги.</stage>
             <sp who="#Arbenin">
@@ -2565,7 +2565,7 @@
         <head>Действие второе</head>
         <div type="scene">
           <head>Сцена первая</head>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Баронесса сидит на креслах в усталости. Бросает книгу.</stage>
             <sp who="#Baronessa">
@@ -2602,7 +2602,7 @@
               <stage>Входит Нина.</stage>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <sp who="#Nina">
               <speaker>Нина</speaker>
@@ -2634,7 +2634,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Входит князь Звездич.</stage>
             <sp who="#Baronessa">
@@ -2731,7 +2731,7 @@
             </sp>
             <stage>Входит чиновник.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Прежние и чиновник.</stage>
             <sp who="#Baronessa">
@@ -2997,7 +2997,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход пятый</head>
             <stage>Прежние, кроме Нины и чиновника.</stage>
             <sp who="#KnjazZvezdich">
@@ -3130,7 +3130,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход шестой</head>
             <sp who="#Baronessa">
               <speaker>Баронесса</speaker>
@@ -3156,7 +3156,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход седьмой</head>
             <stage>Баронесса и Шприх.</stage>
             <stage>Шприх входит, раскланивается.</stage>
@@ -3277,7 +3277,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход осьмой</head>
             <sp who="#Shprih">
               <speaker>Шприх</speaker>
@@ -3298,7 +3298,7 @@
         </div>
         <div type="scene">
           <head>Сцена вторая</head>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Кабинет Арбенина.</stage>
             <stage>Арбенин один, потом слуга.</stage>
@@ -3342,7 +3342,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <stage>Афанасий Павлович Казарин и слуга.</stage>
             <sp who="#Sluga_Arbenina">
@@ -3397,7 +3397,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Казарин и Шприх.</stage>
             <stage>Входит Шприх.</stage>
@@ -3665,7 +3665,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Прежние и Арбенин.</stage>
             <sp who="#Arbenin">
@@ -3731,7 +3731,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход пятый</head>
             <stage>Прежние, кроме Шприха.</stage>
             <stage>Шприх уходит незамечен.</stage>
@@ -4002,7 +4002,7 @@
         <div type="scene">
           <head>Сцена третья</head>
           <stage>Комната у князя. Дверь в другую растворена. Он в другой спит на диване.</stage>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Иван, потом Арбенин.</stage>
             <stage>Слуга смотрит на часы.</stage>
@@ -4076,7 +4076,7 @@
               <stage>Слуга уходит.</stage>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <sp who="#Arbenin">
               <speaker>Арбенин</speaker>
@@ -4128,7 +4128,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Арбенин и баронесса.</stage>
             <stage>Идет к двери, сталкивается с дамой в вуале.</stage>
@@ -4372,7 +4372,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Баронесса, одна.</stage>
             <sp who="#Baronessa">
@@ -4390,7 +4390,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход пятый</head>
             <stage>Баронесса и князь.</stage>
             <sp who="#KnjazZvezdich">
@@ -4600,7 +4600,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход шестой</head>
             <stage>Князь, один.</stage>
             <sp who="#KnjazZvezdich">
@@ -4632,7 +4632,7 @@
         <div type="scene">
           <head>Сцена четвертая</head>
           <stage>Комната у N.</stage>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Казарин, хозяин и Арбенин, садятся играть.</stage>
             <sp who="#Kazarin">
@@ -4705,7 +4705,7 @@
             </sp>
             <stage>Князь входит.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <stage>Прежние и князь.</stage>
             <sp who="#Hozjain_N">
@@ -5105,7 +5105,7 @@
         <div type="scene">
           <head>Сцена первая</head>
           <stage>Бал.</stage>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <sp who="#Hozjajka">
               <speaker>Хозяйка</speaker>
@@ -5303,7 +5303,7 @@
             </sp>
             <stage>Уходят.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <sp who="#Arbenin">
               <speaker>Арбенин</speaker>
@@ -5360,7 +5360,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Хозяйка, Нина, несколько дам и кавалеров. Во время последних строк
               входят.</stage>
@@ -5432,7 +5432,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Прежние и Арбенин.</stage>
             <stage>В конце 3-го куплета муж входит и облокачивается на фортепиано. Она, увидев,
@@ -5680,7 +5680,7 @@
         </div>
         <div type="scene">
           <head>Сцена вторая</head>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <stage>Спальня Арбенина.</stage>
             <stage>Входит Нина, за ней служанка.</stage>
@@ -5763,7 +5763,7 @@
             </sp>
             <stage>Уходит. Он запирает дверь.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <stage>Арбенин и Нина.</stage>
             <sp who="#Arbenin">
@@ -6255,7 +6255,7 @@
         <head>Действие четвертое</head>
         <div type="scene">
           <head>Сцена первая</head>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход первый</head>
             <sp who="#Arbenin">
               <speaker>Арбенин</speaker>
@@ -6283,7 +6283,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход второй</head>
             <sp who="#Kazarin">
               <speaker>Казарин</speaker>
@@ -6311,7 +6311,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход третий</head>
             <stage>Родственники приходят.</stage>
             <sp who="#Dama_ma_tante">
@@ -6342,7 +6342,7 @@
             </sp>
             <stage>Уходят.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход четвертый</head>
             <stage>Выходят из комнаты покойницы доктор и старик.</stage>
             <sp who="#Starik">
@@ -6369,7 +6369,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход пятый</head>
             <sp who="#Doktor">
               <speaker>Доктор</speaker>
@@ -6438,7 +6438,7 @@
               </lg>
             </sp>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход шестой</head>
             <stage>Входят: Неизвестный и князь.</stage>
             <sp who="#Maska_Neizvestnyj">
@@ -6528,7 +6528,7 @@
             </sp>
             <stage>Доктор уходит.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход седьмой</head>
             <sp who="#KnjazZvezdich">
               <speaker>Князь</speaker>
@@ -6629,7 +6629,7 @@
             </sp>
             <stage>Князь отходит в сторону.</stage>
           </div>
-          <div type="enter">
+          <div type="subscene">
             <head>Выход осьмой</head>
             <stage>Арбенин со свечой.</stage>
             <sp who="#Arbenin">
