@@ -9,7 +9,7 @@
         <title type="main" xml:lang="en">Batum</title>
         <title type="sub" xml:lang="ru">Пьеса в четырех действиях</title>
         <title type="sub" xml:lang="en">A Play in Four Acts</title>
-        <author key="wikidata:Q835">Михаил, Булгаков</author>
+        <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -82,7 +82,7 @@
           </person>
           <person xml:id="teofil" sex="MALE">
             <persName>Теофил</persName>
-            <persName xml:lang="de">TEofil</persName>
+            <persName xml:lang="de">Teofil</persName>
           </person>
           <person xml:id="kandelaki" sex="MALE">
             <persName>Канделаки</persName>
