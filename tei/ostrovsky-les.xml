@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
     <fileDesc>
@@ -109,6 +109,13 @@
     </revisionDesc>
   </teiHeader>
   <text>
+    <front>
+      <docAuthor>А. Н. Островский</docAuthor>
+      <docTitle>
+        <titlePart type="main">Лес</titlePart>
+        <titlePart type="sub">Комедия в пяти действиях</titlePart>
+      </docTitle>
+    </front>
     <body>
       <div type="act">
         <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
