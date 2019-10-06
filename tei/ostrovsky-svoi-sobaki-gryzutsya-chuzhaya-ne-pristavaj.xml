@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
     <fileDesc>
@@ -9,7 +9,7 @@
         <title type="main" xml:lang="en">When Your Own Dogs Are Fighting, a Strange Dog Should Not
           Meddle</title>
         <title type="sub" xml:lang="ru">Картины московской жизни</title>
-        <title type="sub" xml:lang="en">Pictures of the life in Moscow</title>
+        <title type="sub" xml:lang="en">Pictures from Moscow Life</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>
