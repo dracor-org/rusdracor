@@ -53,7 +53,7 @@ time, you could feed the metadata table into R:
 library(data.table)
 library(ggplot2)
 rusdracor <- fread("https://dracor.org/api/corpora/rus/metadata.csv")
-ggplot(rusdracor[], aes(x = year, y = numOfSpeakers)) + geom_point()
+ggplot(rusdracor[], aes(x = yearNormalized, y = numOfSpeakers)) + geom_point()
 ```
 
 Result:
