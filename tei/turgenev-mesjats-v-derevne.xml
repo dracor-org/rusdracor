@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
   <teiHeader>
     <fileDesc>
@@ -2632,7 +2632,7 @@
         </sp>
         <sp who="#natalja_petrovna">
           <speaker>Наталья Петровна.</speaker>
-          <p>Да, да, Болынинцов.</p>
+          <p>Да, да, Большинцов.</p>
         </sp>
         <sp who="#rakitin">
           <speaker>Ракитин.</speaker>
