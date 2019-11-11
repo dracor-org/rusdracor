@@ -45,33 +45,43 @@
         <listPerson>
           <person xml:id="trofim" sex="MALE">
             <persName>Трофим</persName>
+            <persName xml:lang="de">Trofim</persName>
           </person>
           <person xml:id="mavra" sex="FEMALE">
             <persName>Мавра</persName>
+            <persName xml:lang="de">Mawra</persName>
           </person>
           <person xml:id="sobrina" sex="FEMALE">
             <persName>Собрина</persName>
+            <persName xml:lang="de">Frau Sobrin</persName>
           </person>
           <person xml:id="sobrin" sex="MALE">
             <persName>Собрин</persName>
+            <persName xml:lang="de">Pankrat Sobrin</persName>
           </person>
           <person xml:id="prelesta" sex="FEMALE">
             <persName>Прелеста</persName>
+            <persName xml:lang="de">Prelesta Pankratjewna</persName>
           </person>
           <person xml:id="ivan_sobrin" sex="MALE">
             <persName>Иван Собрин</persName>
+            <persName xml:lang="de">Johann Pankratjewitsch</persName>
           </person>
           <person xml:id="takkov" sex="MALE">
             <persName>Такков</persName>
+            <persName xml:lang="de">Jamann</persName>
           </person>
           <person xml:id="predyn" sex="MALE">
             <persName>Предын</persName>
+            <persName xml:lang="de">Predin</persName>
           </person>
           <person xml:id="dvorabrod" sex="MALE">
             <persName>Двораброд</persName>
+            <persName xml:lang="de">Hauslöffer</persName>
           </person>
           <person xml:id="dobrin" sex="MALE">
             <persName>Добрин</persName>
+            <persName xml:lang="de">Dobrin</persName>
           </person>
         </listPerson>
       </particDesc>
