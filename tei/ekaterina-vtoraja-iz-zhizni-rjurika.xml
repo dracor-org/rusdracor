@@ -46,72 +46,95 @@
         <listPerson>
           <person xml:id="gostomysl" sex="MALE">
             <persName>Гостомысл</persName>
+            <persName xml:lang="de">Goßtomyßl</persName>
           </person>
           <person xml:id="vadim" sex="MALE">
             <persName>Вадим</persName>
+            <persName xml:lang="de">Wadim</persName>
           </person>
           <person xml:id="rulav" sex="MALE">
             <persName>Рулав</persName>
+            <persName xml:lang="de">Rulaw</persName>
           </person>
           <person xml:id="trijan" sex="MALE">
             <persName>Триян</persName>
+            <persName xml:lang="de">Trijan</persName>
           </person>
           <person xml:id="raguil" sex="MALE">
             <persName>Рагуил</persName>
+            <persName xml:lang="de">Raguil</persName>
           </person>
           <person xml:id="dobrynin" sex="MALE">
             <persName>Добрынин</persName>
+            <persName xml:lang="de">Dobrynin</persName>
           </person>
-          <personGrp xml:id="starejshiny" sex="MALE">
-            <name>Старейшины</name>
-          </personGrp>
           <person xml:id="pervyj_starejshina" sex="MALE">
             <persName>1-й старейшина</persName>
+            <persName xml:lang="de">Erster Ober-Ältester</persName>
           </person>
           <person xml:id="vtoroj_starejshina" sex="MALE">
             <persName>2-й старейшина</persName>
+            <persName xml:lang="de">Zweiter Ober-Ältester</persName>
           </person>
           <person xml:id="tretij_starejshina" sex="MALE">
             <persName>3-й старейшина</persName>
+            <persName xml:lang="de">Dritter Ober-Ältester</persName>
           </person>
           <person xml:id="umila" sex="FEMALE">
             <persName>Умила</persName>
+            <persName xml:lang="de">Umila</persName>
           </person>
           <person xml:id="ljudbrat" sex="MALE">
             <persName>Людбрат</persName>
+            <persName xml:lang="de">Ljudbrat</persName>
           </person>
           <person xml:id="edvinda" sex="FEMALE">
             <persName>Едвинда</persName>
+            <persName xml:lang="de">Edwinda</persName>
           </person>
           <person xml:id="gorlom" sex="MALE">
             <persName>Горлом</persName>
+            <persName xml:lang="de">Gorlom</persName>
           </person>
           <person xml:id="radbrat" sex="MALE">
             <persName>Радбрат</persName>
+            <persName xml:lang="de">Radbrat</persName>
           </person>
           <person xml:id="rjurik" sex="MALE">
             <persName>Рюрик</persName>
+            <persName xml:lang="de">Rjurik</persName>
           </person>
           <person xml:id="sineus" sex="MALE">
             <persName>Синеус</persName>
+            <persName xml:lang="de">Sineus</persName>
           </person>
           <person xml:id="truvor" sex="MALE">
             <persName>Трувор</persName>
+            <persName xml:lang="de">Truvor</persName>
           </person>
           <person xml:id="oleg" sex="MALE">
             <persName>Олег</persName>
+            <persName xml:lang="de">Oleg</persName>
           </person>
           <person xml:id="oskold" sex="MALE">
             <persName>Оскольд</persName>
+            <persName xml:lang="de">Oskold</persName>
           </person>
           <person xml:id="rohvold" sex="MALE">
             <persName>Рохволд</persName>
+            <persName xml:lang="de">Rochwold</persName>
           </person>
-          <person xml:id="vestnik" sex="MALE">
-            <persName>Вестник</persName>
+          <person xml:id="vestnik_4-5" sex="MALE">
+            <persName>Вестник (IV/5)</persName>
+            <persName xml:lang="de">Erster Eilbote</persName>
           </person>
           <person xml:id="dan" sex="MALE">
             <persName>Дан</persName>
+            <persName xml:lang="de">Dan</persName>
+          </person>
+          <person xml:id="vestnik_5-3" sex="MALE">
+            <persName>Вестник (V/3)</persName>
+            <persName xml:lang="de">Zweiter Eilbote</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -305,7 +328,7 @@
               противоречит, тот со мною прогласит: да здравствует Рюрик, великий князь новогородский
               и варягорусский!</p>
           </sp>
-          <sp who="#starejshiny">
+          <sp who="#pervyj_starejshina #vtoroj_starejshina #tretij_starejshina">
             <speaker>Все старейшины.</speaker>
             <p>Да здравствует Рюрик, великий князь новогородский и варягорусский!</p>
           </sp>
@@ -1234,7 +1257,7 @@
           <head>ЯВЛЕНИЕ V.</head>
           <stage>Рюрик, Синеус, Трувор, Олег, Оскольд, Рохволд, Добрынин, Триян, Рулав, бояре
             новогородские, варягорусские и 1-й вестник.</stage>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник</speaker>
             <stage>(Рюрику).</stage>
             <p>Государь, я прислан к тебе из Новагорода от воеводы Рагуила.</p>
@@ -1243,7 +1266,7 @@
             <speaker>Рюрик.</speaker>
             <p>Что вестей?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>Не весьма приятны на сей час.</p>
           </sp>
@@ -1251,7 +1274,7 @@
             <speaker>Добрынин.</speaker>
             <p>Что тамо сделалось?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>Беспокойства в народе заводятся.</p>
           </sp>
@@ -1259,7 +1282,7 @@
             <speaker>Рюрик.</speaker>
             <p>От кого?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>От славянского князя Вадима.</p>
           </sp>
@@ -1275,7 +1298,7 @@
             <speaker>Добрынин.</speaker>
             <p>При отъезде моем все спокойно было.</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник</speaker>
             <stage>(Добрынину).</stage>
             <p>В день отъезда твоего Рагуил известился, что князь Вадим начинает рассевать в народе:
@@ -1291,7 +1314,7 @@
             <speaker>Трувор.</speaker>
             <p>Слухи таковые какой имели успех?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>Сперва мало кто на оные делал примечание потом Славяне день ото дня начали более
               приходить в город под разными предлогами, собираясь малыми толпами во всех пяти
@@ -1302,7 +1325,7 @@
             <speaker>Добрынин.</speaker>
             <p>Рагуил, взял ли какие меры к усмирению беспокойства?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>Он, прислав меня сюда с вестию, прибавил только что будет стараться.</p>
           </sp>
@@ -1310,7 +1333,7 @@
             <speaker>Рохволд.</speaker>
             <p>Где же князь Вадим находится?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>Того точно не могу сказать, только он между Славянами видим был; унимал ли, или
               поощрял, того не ведаю.</p>
@@ -1319,7 +1342,7 @@
             <speaker>Оскольд.</speaker>
             <p>Чего же они хотят?</p>
           </sp>
-          <sp who="#vestnik">
+          <sp who="#vestnik_4-5">
             <speaker>Вестник.</speaker>
             <p>Чтоб Варяг не допустить до города, до знатных мест; чтоб иметь князя рода
               славянского.</p>
@@ -1470,7 +1493,7 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ III.</head>
           <stage>Рюрик, Едвинда, Олег, Добрынин, 2-й вестник.</stage>
-          <sp who="#vestnik">
+          <sp who="#vestnik_5-3">
             <speaker>Вестник.</speaker>
             <p>Многие Славяне бегут из Новаграда к Киеву, говорят, что не хотим яко рабы быть
               Варягам.</p>
@@ -1597,7 +1620,7 @@
           <sp who="#rjurik">
             <speaker>[Рюрик.</speaker>
             <p>Поедем теперь в Новгород, а потом объеду я западные свои границы].<note place="foot"
-                >Поставленных в скобки слов в рукописи нет.</note>)</p>
+                >Поставленных в скобки слов в рукописи нет.</note></p>
           </sp>
         </div>
       </div>
