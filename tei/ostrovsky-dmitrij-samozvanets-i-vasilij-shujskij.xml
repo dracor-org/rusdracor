@@ -80,9 +80,10 @@
           </person>
           <person xml:id="kalachnik" sex="MALE">
             <persName>Калачник</persName>
+            <persName type="variant">Голос калачника</persName>
           </person>
           <person xml:id="jurodivyj" sex="MALE">
-            <persName>Юродивый</persName>
+            <persName>Юродивый (Афоня)</persName>
           </person>
           <person xml:id="melochnoj_torgovets" sex="MALE">
             <persName>Мелочной торговец</persName>
@@ -95,18 +96,13 @@
           </person>
           <person xml:id="vasilij_shujskij" sex="MALE">
             <persName>Василий Шуйский</persName>
-          </person>
-          <person xml:id="pervyj_kupets_1-1" sex="MALE">
-            <persName>1-й купец (I/1)</persName>
-          </person>
-          <person xml:id="vtoroj_kupets_1-1" sex="MALE">
-            <persName>2-й купец (I/1)</persName>
+            <persName type="variant">Шуйский</persName>
           </person>
           <personGrp xml:id="kuptsy" sex="MALE">
             <name>Купцы</name>
           </personGrp>
-          <person xml:id="kupets" sex="MALE">
-            <persName>Купец</persName>
+          <person xml:id="kupets_1-1" sex="MALE">
+            <persName>Купец (I/1)</persName>
           </person>
           <person xml:id="dmitrij_shujskij" sex="MALE">
             <persName>Дмитрий Шуйский</persName>
@@ -123,8 +119,8 @@
           <person xml:id="basmanov" sex="MALE">
             <persName>Басманов</persName>
           </person>
-          <person xml:id="desjatskij" sex="MALE">
-            <persName>Десятский</persName>
+          <person xml:id="desjatskij_1-2" sex="MALE">
+            <persName>Десятский (I/2)</persName>
           </person>
           <person xml:id="mstislavskij" sex="MALE">
             <persName>Мстиславский</persName>
@@ -147,9 +143,10 @@
           <personGrp xml:id="desjatskie" sex="MALE">
             <name>Десятские</name>
           </personGrp>
-          <person xml:id="ves_narod" sex="UNKNOWN">
-            <persName>Весь народ</persName>
-          </person>
+          <personGrp xml:id="ves_narod_1-2" sex="UNKNOWN">
+            <name>Весь народ (I/2)</name>
+            <name type="variant">Народ</name>
+          </personGrp>
           <person xml:id="dmitrij" sex="MALE">
             <persName>Дмитрий</persName>
           </person>
@@ -165,9 +162,6 @@
           <personGrp xml:id="nemtsy" sex="MALE">
             <name>Немцы</name>
           </personGrp>
-          <personGrp xml:id="narod" sex="UNKNOWN">
-            <name>Народ</name>
-          </personGrp>
           <person xml:id="iezuit" sex="MALE">
             <persName>Иезуит</persName>
           </person>
@@ -180,16 +174,13 @@
           <person xml:id="schelkalov" sex="MALE">
             <persName>Щелкалов</persName>
           </person>
-          <person xml:id="shujskij" sex="MALE">
-            <persName>Шуйский</persName>
-          </person>
-          <personGrp xml:id="golosa" sex="UNKNOWN">
-            <name>Голоса</name>
+          <personGrp xml:id="golosa_1-4" sex="UNKNOWN">
+            <name>Голоса (I/4)</name>
           </personGrp>
-          <person xml:id="velskij" sex="MALE">
-            <persName>Вельский</persName>
+          <person xml:id="odin_golos_1-4a" sex="UNKNOWN">
+            <persName>Один голос</persName>
           </person>
-          <person xml:id="odin_golos" sex="UNKNOWN">
+          <person xml:id="odin_golos_1-4b" sex="UNKNOWN">
             <persName>Один голос</persName>
           </person>
           <person xml:id="tsaritsa_marfa" sex="FEMALE">
@@ -198,15 +189,15 @@
           <person xml:id="skopin-shujskij" sex="MALE">
             <persName>Скопин-Шуйский</persName>
           </person>
+          <personGrp xml:id="narod_1-5" sex="UNKNOWN">
+            <name>Народ (I/5)</name>
+          </personGrp>
           <person xml:id="tatischev" sex="MALE">
             <persName>Татищев</persName>
           </person>
           <person xml:id="vlasev" sex="MALE">
             <persName>Власьев</persName>
           </person>
-          <personGrp xml:id="nemtsy_zagorazhivajut_osipovu_dorogu" sex="MALE">
-            <name>Немцы загораживают Осипову дорогу</name>
-          </personGrp>
           <person xml:id="marina" sex="FEMALE">
             <persName>Марина</persName>
           </person>
@@ -216,6 +207,9 @@
           <person xml:id="kameristka" sex="FEMALE">
             <persName>Камеристка</persName>
           </person>
+          <personGrp xml:id="golosa_2-3" sex="UNKNOWN">
+            <name>Голоса (II/3)</name>
+          </personGrp>
           <person xml:id="odin_iz_tolpy" sex="MALE">
             <persName>Один из толпы</persName>
           </person>
@@ -225,8 +219,17 @@
           <personGrp xml:id="pskovskie_streltsy" sex="MALE">
             <name>Псковские стрельцы</name>
           </personGrp>
-          <person xml:id="sotnik" sex="MALE">
-            <persName>Сотник</persName>
+          <person xml:id="sotnik_2-3" sex="MALE">
+            <persName>Сотник (II/3)</persName>
+          </person>
+          <person xml:id="kupets_2-3" sex="MALE">
+            <persName>Купец (II/3)</persName>
+          </person>
+          <person xml:id="pervyj_kupets" sex="MALE">
+            <persName>1-й купец</persName>
+          </person>
+          <person xml:id="vtoroj_kupets" sex="MALE">
+            <persName>2-й купец</persName>
           </person>
           <person xml:id="tretij_kupets" sex="MALE">
             <persName>3-й купец</persName>
@@ -236,6 +239,10 @@
           </person>
           <personGrp xml:id="poljaki" sex="MALE">
             <name>Поляки</name>
+          </personGrp>
+          <personGrp xml:id="golosa_2-4" sex="UNKNOWN">
+            <name>Голоса (II/4)</name>
+            <name type="variant">Голоса в толпе</name>
           </personGrp>
           <personGrp xml:id="malchishki" sex="MALE">
             <name>Мальчишки</name>
@@ -255,6 +262,9 @@
           <person xml:id="pjatyj_posadskij" sex="MALE">
             <persName>5-й посадский</persName>
           </person>
+          <person xml:id="desjatskij_2-4" sex="MALE">
+            <persName>Десятский (II/4)</persName>
+          </person>
           <person xml:id="povar" sex="MALE">
             <persName>Повар</persName>
           </person>
@@ -270,14 +280,20 @@
           <person xml:id="starik" sex="MALE">
             <persName>Старик</persName>
           </person>
-          <person xml:id="golos_iz_tolpy" sex="UNKNOWN">
-            <persName>Голос из толпы</persName>
+          <person xml:id="golos_iz_tolpy_2-4a" sex="UNKNOWN">
+            <persName>Голос из толпы (II/4)</persName>
           </person>
-          <personGrp xml:id="golosa_v_tolpe" sex="UNKNOWN">
-            <name>Голоса в толпе</name>
-          </personGrp>
-          <person xml:id="golos" sex="UNKNOWN">
-            <persName>Голос</persName>
+          <person xml:id="golos_iz_tolpy_2-4b" sex="UNKNOWN">
+            <persName>Голос из толпы (II/4)</persName>
+          </person>
+          <person xml:id="golos_2-4c" sex="UNKNOWN">
+            <persName>Голос (II/4)</persName>
+          </person>
+          <person xml:id="kupets_2-4" sex="MALE">
+            <persName>Купец (II/4)</persName>
+          </person>
+          <person xml:id="golos_2-4d" sex="UNKNOWN">
+            <persName>Голос (II/4)</persName>
           </person>
           <person xml:id="ivan" sex="MALE">
             <persName>Иван</persName>
@@ -291,9 +307,16 @@
           <person xml:id="vishnevetskij" sex="MALE">
             <persName>Вишневецкий</persName>
           </person>
+          <person xml:id="golos_2-6" sex="UNKNOWN">
+            <persName>Голос (II/6)</persName>
+          </person>
           <person xml:id="molchanov" sex="MALE">
             <persName>Молчанов</persName>
           </person>
+          <personGrp xml:id="golosa_tolpa_2-6" sex="UNKNOWN">
+            <name>Голоса/Толпа (II/6)</name>
+            <name type="variant">Голоса в толпе</name>
+          </personGrp>
           <personGrp xml:id="streltsy" sex="MALE">
             <name>Стрельцы</name>
           </personGrp>
@@ -302,19 +325,14 @@
           </personGrp>
           <person xml:id="sotnik_streletskij" sex="MALE">
             <persName>Сотник стрелецкий</persName>
+            <persName type="variant">Сотник</persName>
           </person>
           <person xml:id="valuev" sex="MALE">
             <persName>Валуев</persName>
           </person>
-          <personGrp xml:id="tolpa" sex="UNKNOWN">
-            <name>Толпа</name>
+          <personGrp xml:id="neskolko_golosov" sex="UNKNOWN">
+            <name>Несколько голосов</name>
           </personGrp>
-          <person xml:id="neskolko_golosov" sex="UNKNOWN">
-            <persName>Несколько голосов</persName>
-          </person>
-          <person xml:id="golos_kalachnika" sex="UNKNOWN">
-            <persName>Голос калачника</persName>
-          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -326,6 +344,7 @@
     <revisionDesc>
       <listChange>
         <change when="2019-06-03">(eg) convert from source</change>
+        <change when="2019-11-27">(ff) fix character IDs</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -768,7 +787,7 @@
             <l>Да не чета бездельным нашим требам.</l>
           </sp>
           <sp
-            who="#pervyj_kupets_moskovskij #vtoroj_kupets_moskovskij #konev #pervyj_krestjanin #vtoroj_krestjanin #tretij_krestjanin #kupets_novgorodskij #krestjanin #strannik_1-1 #pop #kalachnik #jurodivyj #melochnoj_torgovets #osipov">
+            who="#pervyj_kupets_moskovskij #vtoroj_kupets_moskovskij #konev #pervyj_krestjanin #vtoroj_krestjanin #tretij_krestjanin #kupets_novgorodskij #strannik_1-1 #pop #kalachnik #jurodivyj #melochnoj_torgovets #osipov">
             <speaker>Все</speaker>
             <l>Да знамо, знамо, что и говорить! --</l>
             <l>Такие ли его дела!</l>
@@ -1059,7 +1078,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="I">Какое ваше дело?</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">Мы -- сироты,</l>
             <l>За спасеньем пришли к тебе, боярин.</l>
@@ -1068,13 +1087,13 @@
             <speaker>Василий Шуйский</speaker>
             <l part="I">Я вам не поп!</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">К святому патриарху</l>
             <l>Ходили мы, бывало, за советом</l>
             <l>О всех делах, духовных и мирских...</l>
           </sp>
-          <sp who="#vtoroj_kupets_1-1">
+          <sp who="#vtoroj_kupets_moskovskij">
             <speaker>2-й купец</speaker>
             <l>Женить ли сына, дочь ли выдать замуж,</l>
             <l>Когда купить, когда продать товары</l>
@@ -1084,12 +1103,12 @@
             <speaker>Василий Шуйский</speaker>
             <l part="I">Чего же вам?</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">Пришли за утвержденьем.</l>
             <l part="I">На чем стоять...</l>
           </sp>
-          <sp who="#vtoroj_kupets_1-1">
+          <sp who="#vtoroj_kupets_moskovskij">
             <speaker>2-й купец</speaker>
             <l part="F">Ты вместо патриарха</l>
             <l>Отцом нам будь! Наставь и накажи!</l>
@@ -1099,7 +1118,7 @@
             <l>Какого же вы, братцы, наказанья</l>
             <l part="I">Желаете?</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">Доподлинный царевич</l>
             <l>В Коломенском иль вор и чернокнижник --</l>
@@ -1112,7 +1131,7 @@
             <l>Богданов сын, Отрепьев, по совету</l>
             <l>Дияволю на царстве утвердился.</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="I">Боярин, так?</l>
           </sp>
@@ -1120,7 +1139,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="F">Чего же вам еще!</l>
           </sp>
-          <sp who="#vtoroj_kupets_1-1">
+          <sp who="#vtoroj_kupets_moskovskij">
             <speaker>2-й купец</speaker>
             <l part="I">Отрепьев ли?</l>
           </sp>
@@ -1128,7 +1147,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="M">Отрепьев.</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">Побожися!</l>
             <l part="I">Дай руку!</l>
@@ -1143,7 +1162,7 @@
             <speaker>Конёв</speaker>
             <l part="I">Ну, слышали?</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">Спасибо, князь Василий</l>
             <l>Иванович! Не погневись за нашу</l>
@@ -1151,7 +1170,7 @@
             <l>Боярскую челом тебе! Напредки</l>
             <l part="I">Не оставляй нас, мужиков...</l>
           </sp>
-          <sp who="#vtoroj_kupets_1-1">
+          <sp who="#vtoroj_kupets_moskovskij">
             <speaker>2-й купец</speaker>
             <l part="F">Боярин,</l>
             <l>А жить-то как? Приказывай! Что скажешь,</l>
@@ -1162,7 +1181,7 @@
             <l part="F">Живите как хотите.</l>
             <l part="I">Терпи, поколь потерпится.</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l part="F">А если...</l>
           </sp>
@@ -1170,7 +1189,7 @@
             <speaker>Василий Шуйский</speaker>
             <l>Никто, как бог, и кончен разговор.</l>
           </sp>
-          <sp who="#pervyj_kupets_1-1">
+          <sp who="#pervyj_kupets_moskovskij">
             <speaker>1-й купец</speaker>
             <l>Мы в Старицу сбираемся, боярин,</l>
             <l>В темнице патриарха навестить.</l>
@@ -1191,7 +1210,7 @@
             <l>И нерушимое благословенье</l>
             <l part="I">Мне попросите!</l>
           </sp>
-          <sp who="#konev #pervyj_kupets_1-1 #vtoroj_kupets_1-1">
+          <sp who="#konev #pervyj_kupets_moskovskij #vtoroj_kupets_moskovskij">
             <speaker>Конёв и купцы</speaker>
             <l part="F">С миром оставайся!</l>
             <stage>Уходят.</stage>
@@ -1350,7 +1369,7 @@
             <stage>(Отдает свиток )</stage>
             <l>Ты через гол приди, и почитаю.</l>
           </sp>
-          <sp who="#kupets">
+          <sp who="#kupets_1-1">
             <speaker>Купец</speaker>
             <l>Кругом царя мы иноверцев видим;</l>
             <l>Дозволь спросить, прилежен ли Димитрий</l>
@@ -1619,7 +1638,7 @@
             <l part="F">Я, робята,</l>
             <l part="I">Вам помогать.</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_1-2">
             <speaker>Десятский</speaker>
             <l part="F">Ну ладно, встань вот здеся,</l>
             <l>Поталкивай, осаживай назад!</l>
@@ -1818,7 +1837,7 @@
             <stage>Дмитрий выходит из собора, за ним бояре и дворяне, Бучинский, поляки, венгры,
               запорожские и донские атаманы Корела и Куцька. Звон и музыка.</stage>
           </sp>
-          <sp who="#ves_narod">
+          <sp who="#ves_narod_1-2">
             <speaker>Весь народ</speaker>
             <l>Отец ты наш! ты наше солнце красно!</l>
           </sp>
@@ -1942,7 +1961,7 @@
             <l>Гуляйте все с утра до поздней ночи</l>
             <l>На радости о нашем возвращенье.</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#ves_narod_1-2">
             <speaker>Народ</speaker>
             <l>Храни тебя Господь на многи лета</l>
             <l>И одоленье даруй над врагом!</l>
@@ -2026,7 +2045,7 @@
             <stage>Подходит десятский.</stage>
             <l part="I">Чего тебе? Что надо?</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_1-2">
             <speaker>Десятский</speaker>
             <l part="F">Мы, боярин</l>
             <l>Петр Федорыч, купчину изымали:</l>
@@ -2037,7 +2056,7 @@
             <speaker>Басманов</speaker>
             <l part="I">Кто он такой?</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_1-2">
             <speaker>Десятский</speaker>
             <l part="F">Прозванием -- Конёв.</l>
           </sp>
@@ -2465,7 +2484,7 @@
             <l>Пусть он оправится, коль прав, винится --</l>
             <l part="I">Коль виноват.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Благодарю за милость!</l>
             <l>Невинному защита: суд да Бог.</l>
@@ -2487,7 +2506,7 @@
               раз..."</l>
             <stage>(Останавливается.)</stage>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="I">А дальше что?</l>
           </sp>
@@ -2496,7 +2515,7 @@
             <l part="F">Чего ж тебе еще!</l>
             <l>Кажись, довольно, есть за что повесить.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-4">
             <speaker>Голоса</speaker>
             <l>Изменникам царевым суд короткий! --</l>
             <l>Изменников и Бог велит казнить! --</l>
@@ -2508,7 +2527,7 @@
             <speaker>Дмитрий</speaker>
             <l>Василий, что ты скажешь в оправданье?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Царь-государь! Боярин твой великий,</l>
             <l>Петр Федорыч, слуга тебе хороший!</l>
@@ -2523,7 +2542,7 @@
             <l>Передо всем собором, признаешься</l>
             <l part="I">В своих речах бездельных?!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Государь!</l>
             <l>Обманом жить я не умею, не был</l>
@@ -2555,12 +2574,12 @@
             <l>Димитрия Иваныча положим,</l>
             <l part="I">Мы все умрем!</l>
           </sp>
-          <sp who="#basmanov #velskij #masalskij">
-            <speaker>Басманов, Вельский и Масальский</speaker>
+          <sp who="#basmanov #belskij #masalskij">
+            <speaker>Басманов, Бельский и Масальский</speaker>
             <l part="F">Мы за тебя умрем!</l>
             <stage>(Становятся у трона.)</stage>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-4">
             <speaker>Голоса</speaker>
             <l>Ты наш царевич! -- Наше солнце красно! --</l>
             <l>Казнить его, изменника, казнить!</l>
@@ -2571,12 +2590,12 @@
             <l>Твои ль слова, твоим ли наученьем</l>
             <l>Изменники в народе говорили?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Мои слова, великий государь!</l>
             <stage>(Становится на колени.)</stage>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-4">
             <speaker>Голоса</speaker>
             <l>Вести его без всякой волокиты</l>
             <l>На лобное!--На лобное его!</l>
@@ -2623,7 +2642,7 @@
             <l>Что не трепещешь? Иль тебе не страшен</l>
             <l>Ни суд мирской, ни грозный гнев царя?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Не стану я просить себе пощады.</l>
             <l>Моя вина -- слепое исполненье</l>
@@ -2634,7 +2653,7 @@
             <stage>(отдает меч Скопину-Шуйскому)</stage>
             <l part="F">Говори прямее!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Мы утверждались крестным целованьем</l>
             <l part="I">Царю Борису.</l>
@@ -2644,7 +2663,7 @@
             <stage>(Мстиславскому)</stage>
             <l part="F">Ишь куда пошло.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Ты знаешь сам, что всяка власть от Бога.</l>
             <l>Иной за страх служил, иной за совесть,</l>
@@ -2670,7 +2689,7 @@
             <speaker>Басманов</speaker>
             <l>Не верь ему, великий государь!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Я все сказал, что за собою ведал,</l>
             <l>Перед лицом царя я повинился,</l>
@@ -2696,7 +2715,7 @@
             <l>В своем дому недавно он народу</l>
             <l>Бездельные те речи говорил.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Ни слова! Стой! Заглазно сколько хочешь</l>
             <l>Нашептывай; в глаза не смей порочить</l>
@@ -2714,7 +2733,7 @@
             <l>Или у тех, что черный люд московский</l>
             <l>Не раз, не два водили бунтом в Кремль?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Наш род большой, в семье не без урода.</l>
             <l>Я б насчитал тебе десятки Шуйских,</l>
@@ -2755,11 +2774,11 @@
             <l>Другого вы. Кого вы хоронили?</l>
             <l part="I">Ну, говори!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-4">
             <speaker>Голоса</speaker>
             <l part="F">Казнить его, злодея!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Ты выслушай, великий государь!</l>
             <l>Про мой обман, про вымыслы Бориса</l>
@@ -2817,7 +2836,7 @@
             <speaker>Щелкалов</speaker>
             <l>Честной собор, чему повинен Шуйский?</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-4">
             <speaker>Голоса</speaker>
             <l>Казнить его! -- Повинен смертной казни. --</l>
             <l>Изменник он! Ему и смерти мало! --</l>
@@ -2829,7 +2848,7 @@
             <speaker>Мстиславский</speaker>
             <l>А тех за что? Они не виноваты.</l>
           </sp>
-          <sp who="#odin_golos">
+          <sp who="#odin_golos_1-4a">
             <speaker>Один голос</speaker>
             <l>Чай, Дмитрий-то свояки с Годуновым,</l>
             <l part="I">Вот и вина.</l>
@@ -2842,7 +2861,7 @@
             <speaker>Щелкалов</speaker>
             <l part="I">Так что ж писать?</l>
           </sp>
-          <sp who="#odin_golos">
+          <sp who="#odin_golos_1-4b">
             <speaker>Один голос</speaker>
             <l part="F">Пиши: казнить Василья,</l>
             <l>А Дмитрию с Иваном снять боярство</l>
@@ -2852,7 +2871,7 @@
             <speaker>Щелкалов</speaker>
             <l part="I">Согласны все?</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_1-4">
             <speaker>Голоса</speaker>
             <l part="F">Согласны! -- Ладно, ладно! --</l>
             <l>Чтоб так и быть тому без перемены!</l>
@@ -3380,7 +3399,7 @@
             <l>Могучие тебе опорой будут.</l>
             <stage>Выходят к народу.</stage>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_1-5">
             <speaker>Народ</speaker>
             <l>Царица! -- Мать родная! -- Ты сиротам,</l>
             <l>Рабам твоим, покров и заступленье!</l>
@@ -4670,10 +4689,10 @@
             <castItem>Пан Юрий Мнишек, воевода Сендомирский.</castItem>
             <castItem>Марина Юрьевна, его дочь.</castItem>
             <castItem>Камеристка.</castItem>
-            <castItem>Деревянная келья в Москве.</castItem>
-            <castItem>(5 мая 1606 года)</castItem>
-            <castItem>Входят Мнишек и Марина.</castItem>
           </castList>
+          <stage>Деревянная келья в Москве.</stage>
+          <stage>(5 мая 1606 года)</stage>
+          <stage>Входят Мнишек и Марина.</stage>
           <sp who="#marina">
             <speaker>Марина</speaker>
             <l>Скажи, отец, зачем меня, как птичку,</l>
@@ -5213,7 +5232,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="F">Закройте западни!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="I">Челом тебе, боярин</l>
           </sp>
@@ -5240,7 +5259,7 @@
             <l>Совет держать украдкой, по ночам,</l>
             <l>Не стали б мы и люд честной тревожить.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Само собой! -- Известно, что не стали б.</l>
           </sp>
@@ -5255,7 +5274,7 @@
             <l part="F">Мне царевич</l>
             <l>Известен был -- я хоронил его.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Ну, как тебе не знать! -- Известно, страхом</l>
             <l>Заставили расстриге поклониться.</l>
@@ -5316,7 +5335,7 @@
             <l>Так вот дела! Как знаете, судите,</l>
             <l part="I">Друзья мои!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="F">Не нам судить! -- Не наша --</l>
             <l>Боярская забота думу думать. --</l>
@@ -5361,7 +5380,7 @@
             <l>Латинские обедни слушать силой!</l>
             <l>Терпеть ли нам? Судите как хотите!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Нельзя терпеть! -- Нельзя терпеть, боярин!</l>
             <l>Избыть беды! -- Избыть! Чего тут думать!</l>
@@ -5372,7 +5391,7 @@
             <l>Я раз лежал под топором на плахе,</l>
             <l>Народ молчал, никто не шелохнулся.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Прости ты нас, боярин! -- Нам расстригу</l>
             <l>Доподлинным царевичем казали.</l>
@@ -5401,7 +5420,7 @@
             <l>Уж умирать, так всем: мы смертью купим</l>
             <l part="I">Живот себе.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="F">Мы все умрем, боярин!</l>
             <l>Какая жизнь у нехристей под властью!</l>
@@ -5432,7 +5451,7 @@
             <l>За веру стать, что больше православным</l>
             <l part="I">Терпеть нельзя.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="F">Да ладно, ладно! -- Знаем,</l>
             <l>Кому и как сказать. -- Святое дело</l>
@@ -5442,7 +5461,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="I">Так по рукам!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="F">Ударимся, бояре!</l>
             <stage>Бояре встают и подходят к народу.</stage>
@@ -5452,20 +5471,20 @@
             <l>Давай друг другу! Помните: где руки,</l>
             <l>Там -- головы. Рука божбы дороже!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Моя рука! -- Еще рука! -- За братьев,</l>
             <l part="I">За всех своих товарищев!</l>
           </sp>
-          <sp who="#sotnik">
+          <sp who="#sotnik_2-3">
             <speaker>Сотник</speaker>
             <l part="F">За сотню!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="I">За тысячу!</l>
           </sp>
-          <sp who="#kupets">
+          <sp who="#kupets_2-3">
             <speaker>Купец</speaker>
             <l part="F">За весь иконный ряд!</l>
           </sp>
@@ -5490,7 +5509,7 @@
             <speaker>Василий Шуйский</speaker>
             <l>И разом в сход, как загудет набатный.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="I">В набат!--В набат!</l>
           </sp>
@@ -5523,7 +5542,7 @@
             <speaker>Калачник</speaker>
             <l part="I">Всю ночь сиди, набата жди!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l part="F">Услышим!</l>
             <l>Глухие, что ль! -- Невесть отколь нагрянем!</l>
@@ -5532,7 +5551,7 @@
             <speaker>Голицын</speaker>
             <l>Поможет Бог, врагов врасплох застанем!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Зачем сбирать большую рать и силу!</l>
             <l>Один с копьем, другой с дубьем под силу!</l>
@@ -5556,7 +5575,7 @@
             <l>Иконами, крестами ополчимся,</l>
             <l>Помолимся и скажем: с нами Бог!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Ты всем глава. -- Что скажешь, то и будет.</l>
           </sp>
@@ -5567,7 +5586,7 @@
             <l>Бог помочь вам и нам! Ступайте с Богом,</l>
             <l>По одному, без шума, не спеша!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-3">
             <speaker>Голоса</speaker>
             <l>Челом тебе, боярин, за науку! --</l>
             <l>Челом тебе за ласковое слово!--</l>
@@ -5684,7 +5703,7 @@
             <speaker>Поляки</speaker>
             <l part="I">Эй, хлопы! Прочь с дороги!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-4">
             <speaker>Голоса</speaker>
             <l part="F">Разойдемся!</l>
             <l>Простор велик в Москве, гуляй где хочешь! --</l>
@@ -5702,7 +5721,7 @@
             <l>Пучки, глаголи, лысые затылки!</l>
             <stage>Поляки бросаются с саблями на мальчишек.</stage>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-4">
             <speaker>Голоса</speaker>
             <l>У нас не так; по-нашему-то вот как! --</l>
             <l>Валяйте их каменьями, робята.</l>
@@ -5787,7 +5806,7 @@
             <l>Да за душу миряне подавали;</l>
             <l>А их возьмут, полякам раздадут.</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_2-4">
             <speaker>Десятский</speaker>
             <l>Чего вы тут! Зачем собрались кучей?</l>
             <l>Петр Федорыч толпиться не велел</l>
@@ -5941,7 +5960,7 @@
             <l>Лубочные -- потешиться: по Волге</l>
             <l>Любил пускать...</l>
           </sp>
-          <sp who="#golos_iz_tolpy">
+          <sp who="#golos_iz_tolpy_2-4a">
             <speaker>Голос из толпы</speaker>
             <l>Ступай к нему; он вспомнит,</l>
             <l part="I">Пожалует тебя.</l>
@@ -5959,7 +5978,7 @@
             <l>И с той поры наш Углич запустел;</l>
             <l>Унес с собой царевич наше счастье.</l>
           </sp>
-          <sp who="#golosa_v_tolpe">
+          <sp who="#golosa_2-4">
             <speaker>Голоса в толпе</speaker>
             <l>Болтай еще! -- В застенке побываешь! --</l>
             <l>Пойдемте прочь; мы глухи, не слыхали.</l>
@@ -5971,7 +5990,7 @@
             <l>Еще ста лет не проживу; о лишнем</l>
             <l>Десятке дней и спорить нет расчета.</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_2-4">
             <speaker>Десятский</speaker>
             <l>Вязать его! Робята, помогите!</l>
             <l part="I">Десятские!</l>
@@ -5985,7 +6004,7 @@
             <l>Учливости я выучу тебя.</l>
             <stage>(Хватает его за ворот.)</stage>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_2-4">
             <speaker>Десятский</speaker>
             <l>Ты что шумишь? Ты сам-то что за птица?</l>
           </sp>
@@ -5999,7 +6018,7 @@
             <l>Возьмем дубье, и вам, с панами вместе,</l>
             <l>Достанется, басмановские псы!</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_2-4">
             <speaker>Десятский</speaker>
             <l>Тебя, дружок, вязать-то! Эй, робята,</l>
             <l part="I">Держи его!</l>
@@ -6013,17 +6032,17 @@
             <l>Убьем его до смерти! Жил собакой,</l>
             <l>И умирать ему собачьей смертью!</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_2-4">
             <speaker>Десятский</speaker>
             <l>Да смилуйся! И сам не стану трогать</l>
             <l>Честной народ, и закажу другим.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_2-4">
             <speaker>Голоса</speaker>
             <l>Убей его! -- Туда ему дорога! --</l>
             <l part="I">Кончай его скорей!</l>
           </sp>
-          <sp who="#desjatskij">
+          <sp who="#desjatskij_2-4">
             <speaker>Десятский</speaker>
             <l part="F">Пустите душу</l>
             <l part="I">Покаяться!</l>
@@ -6036,7 +6055,7 @@
             <l part="I">Не жить тебе!</l>
             <stage>Входит юродивый в польской шапке.</stage>
           </sp>
-          <sp who="#golos_iz_tolpy">
+          <sp who="#golos_iz_tolpy_2-4b">
             <speaker>Голос из толпы</speaker>
             <l part="F">Афоня, ты отколе?</l>
           </sp>
@@ -6045,7 +6064,7 @@
             <l>На свадьбе был и мед и пиво пил.</l>
             <l part="I">Невесело!</l>
           </sp>
-          <sp who="#golos">
+          <sp who="#golos_2-4c">
             <speaker>Голос</speaker>
             <l part="F">Зачем ты в польской шапке?</l>
           </sp>
@@ -6080,7 +6099,7 @@
             <l part="I">Проигрывать полякам.</l>
             <stage>Вбегает купец.</stage>
           </sp>
-          <sp who="#kupets">
+          <sp who="#kupets_2-4">
             <speaker>Купец</speaker>
             <l part="F">Защитите,</l>
             <l>Родимые! Напали полячишки</l>
@@ -6090,7 +6109,7 @@
             <speaker>Калачник</speaker>
             <l part="I">А где они?</l>
           </sp>
-          <sp who="#kupets">
+          <sp who="#kupets_2-4">
             <speaker>Купец</speaker>
             <l part="F">Да вон бегут! Родную</l>
             <l part="I">К себе тащат.</l>
@@ -6107,7 +6126,7 @@
             <speaker>Калачник</speaker>
             <l>С пищалями?! Скликай народ, робята!</l>
           </sp>
-          <sp who="#golos">
+          <sp who="#golos_2-4d">
             <speaker>Голос</speaker>
             <l>Вались, народ! Обидели поляки!</l>
             <stage>Прибегают несколько человек и Иван-дурачок.</stage>
@@ -6733,7 +6752,7 @@
             <l>Речей не слышно... Ась!.. Зачем в набат</l>
             <l part="I">Ударили?</l>
           </sp>
-          <sp who="#golos">
+          <sp who="#golos_2-6">
             <speaker>Голос</speaker>
             <stage>(за сценой)</stage>
             <l part="F">Горит неподалеку.</l>
@@ -6855,7 +6874,7 @@
             <l>Не вы меня на царство посадили,</l>
             <l>Я с бою взял его и вас, холопов.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_tolpa_2-6">
             <speaker>Голоса</speaker>
             <l>Руби его! -- Стреляй! -- Да бейте немцев.</l>
             <stage>Выстрелы.</stage>
@@ -6889,7 +6908,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="F">Про то мы сами знаем,</l>
             <l>Кто нужен нам, да только лишь не вор.</l>
-            <stage>митрий бросается на Шуйского; народ загораживает его. Басманов насильно уводит
+            <stage>Дмитрий бросается на Шуйского; народ загораживает его. Басманов насильно уводит
               Дмитрия; немцы загораживают собою дверь, запирают ее и заваливают мебелью.</stage>
           </sp>
           <sp who="#dmitrij">
@@ -6912,7 +6931,7 @@
             <l>Поклонами! Вы дали львиной силе</l>
             <l>Уснуть у ног небесной красоты!</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_tolpa_2-6">
             <speaker>Голоса</speaker>
             <stage>(за дверями)</stage>
             <l>Ломайте дверь! -- Рубите топорами!</l>
@@ -6942,7 +6961,7 @@
             <l>Пожалует, лишь чернь остановите!</l>
             <stage>Толпа опрокидывает немцев. Бояре входят в комнату.</stage>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_tolpa_2-6">
             <speaker>Голоса</speaker>
             <l>Показывай, где царь твой самозванный! --</l>
             <l>Давай его! -- Веди его к народу!</l>
@@ -6989,7 +7008,7 @@
             <l>Уйдет от нас, тогда не ждать пощады,</l>
             <l>Огнем спалит, живых зароет в землю.</l>
           </sp>
-          <sp who="#golosa">
+          <sp who="#golosa_tolpa_2-6">
             <speaker>Голоса</speaker>
             <stage>(на -галерее)</stage>
             <l>Он там, внизу, на Житном. -- Обступили</l>
@@ -7071,7 +7090,7 @@
             <l>Еретика? Москвы не удержать мне!</l>
             <l>На чьей душе кроворазлитье будет?</l>
           </sp>
-          <sp who="#sotnik">
+          <sp who="#sotnik_streletskij">
             <speaker>Сотник</speaker>
             <l>Да как-то все, боярин.. Нет, ты лучше</l>
             <l part="I">Посторонись!</l>
@@ -7089,7 +7108,7 @@
             <l>А мы детей и жен изгубим ваших</l>
             <l>И на ветер подымем ваши домы!</l>
           </sp>
-          <sp who="#sotnik">
+          <sp who="#sotnik_streletskij">
             <speaker>Сотник</speaker>
             <l>Постой, постой! Боярин, мы поверим</l>
             <l>Словам твоим; а на душу возьмешь ли</l>
@@ -7099,7 +7118,7 @@
             <speaker>Василий Шуйский</speaker>
             <l part="M">Возьму.</l>
           </sp>
-          <sp who="#sotnik">
+          <sp who="#sotnik_streletskij">
             <speaker>Сотник</speaker>
             <l part="F">Теперь в ответе</l>
             <l>Пред господом не мы. За мной, робята!</l>
@@ -7211,7 +7230,7 @@
             <stage>(в окно)</stage>
             <l part="I">Покончили!</l>
           </sp>
-          <sp who="#tolpa">
+          <sp who="#golosa_tolpa_2-6">
             <speaker>Толпа</speaker>
             <stage>(окружает Дмитрия)</stage>
             <l part="F">Тащи его, робята,</l>
@@ -7228,7 +7247,7 @@
             <l>Великий князь и государь Василий</l>
             <l part="I">Иванович!</l>
           </sp>
-          <sp who="#golos_kalachnika">
+          <sp who="#kalachnik">
             <speaker>Голос калачника</speaker>
             <l part="F">Кричите: многи лета</l>
             <l>Великому царю и государю!</l>
