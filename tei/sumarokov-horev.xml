@@ -83,6 +83,12 @@
           <person xml:id="edinyj_voin" sex="MALE">
             <persName>Единый воин</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#zavloh" passive="#osnelda" />
+            <relation name="parent_of" active="#astrada" passive="#osnelda" />
+            <relation name="siblings" mutual="#kij #horev"/>
+            <relation name="associated_with" active="#horev" passive="#velkar" />
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -75,6 +75,12 @@
           <person xml:id="voin" sex="MALE">
             <persName>Воин</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#otan" passive="#orkant" />
+            <relation name="parent_of" active="#otan" passive="#fedima" />
+            <relation name="associated_with" active="#artistona" passive="#zanida" />
+            <relation name="associated_with" active="#fedima" passive="#malmira" />
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
