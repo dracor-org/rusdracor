@@ -79,6 +79,14 @@
           <person xml:id="finist" sex="MALE">
             <persName>Финист</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#barmas #gidima"/>
+            <relation name="parent_of" active="#barmas" passive="#infimena" />
+            <relation name="parent_of" active="#gidima" passive="#infimena" />
+            <relation name="lover_of" active="#valer" passive="#infimena" />
+            <relation name="associated_with" active="#barmas" passive="#finetta" />
+            <relation name="associated_with" active="#barmas" passive="#malmira" />
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
