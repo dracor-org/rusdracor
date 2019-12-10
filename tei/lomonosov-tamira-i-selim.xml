@@ -63,7 +63,7 @@
           <person xml:id="vestnik_2-6" sex="MALE">
             <persName>Вестник (II/6)</persName>
           </person>
-          <person xml:id="mamaj" sex="MALE">
+          <person xml:id="mamaj" sex="MALE" ana="http://www.wikidata.org/entity/Q333218">
             <persName>Мамай</persName>
           </person>
           <person xml:id="vestnik_5-3" sex="MALE">

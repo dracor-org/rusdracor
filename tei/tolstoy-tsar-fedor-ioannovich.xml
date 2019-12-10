@@ -70,7 +70,7 @@
             <persName>Князь Иван Петрович Шуйский</persName>
             <persName xml:lang="de">Fürst Ivan Petrovič Šujskij</persName>
           </person>
-          <person xml:id="vasilij_shujskij" sex="MALE">
+          <person xml:id="vasilij_shujskij" sex="MALE" ana="http://www.wikidata.org/entity/Q193232">
             <persName>Князь Василий Иванович Шуйский</persName>
             <persName xml:lang="de">Fürst Vasilij Ivanovič Šujskij</persName>
           </person>
@@ -107,7 +107,7 @@
             <persName>Клешнин</persName>
             <persName xml:lang="de">Klešnin</persName>
           </person>
-          <person xml:id="boris_godunov" sex="MALE">
+          <person xml:id="boris_godunov" sex="MALE" ana="http://www.wikidata.org/entity/Q170172">
             <persName>Борис Федорович Годунов</persName>
             <persName xml:lang="de">Boris Fedorovič Godunov</persName>
           </person>

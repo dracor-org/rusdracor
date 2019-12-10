@@ -149,7 +149,7 @@
             <persName>Откупщик</persName>
             <persName xml:lang="de">Pächter</persName>
           </person>
-          <person xml:id="napoleon" sex="MALE">
+          <person xml:id="napoleon" sex="MALE" ana="http://www.wikidata.org/entity/Q517">
             <persName>Наполеон</persName>
             <persName xml:lang="de">Napoleon</persName>
           </person>
@@ -217,7 +217,7 @@
             <persName>Адъютант</persName>
             <persName xml:lang="de">Adjutant</persName>
           </person>
-          <person xml:id="kutuzov" sex="MALE">
+          <person xml:id="kutuzov" sex="MALE" ana="http://www.wikidata.org/entity/Q185801">
             <persName>Кутузов</persName>
             <persName xml:lang="de">Kutusow</persName>
           </person>
@@ -241,7 +241,7 @@
             <persName>Вольцоген</persName>
             <persName xml:lang="de">Wolzogen</persName>
           </person>
-          <person xml:id="raevskij" sex="MALE">
+          <person xml:id="raevskij" sex="MALE" ana="http://www.wikidata.org/entity/Q444438">
             <persName>Раевский</persName>
             <persName xml:lang="de">Rajewski</persName>
           </person>

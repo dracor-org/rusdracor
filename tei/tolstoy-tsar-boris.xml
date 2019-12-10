@@ -53,7 +53,7 @@
             <persName>Воейков</persName>
             <persName xml:lang="de">Voejkov</persName>
           </person>
-          <person xml:id="boris_godunov" sex="MALE">
+          <person xml:id="boris_godunov" sex="MALE" ana="http://www.wikidata.org/entity/Q170172">
             <persName>Царь Борис Федорович Годунов</persName>
             <persName xml:lang="de">Boris Godunov</persName>
           </person>
