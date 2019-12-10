@@ -94,7 +94,7 @@
           <person xml:id="dvoretskij" sex="MALE">
             <persName>Дворецкий</persName>
           </person>
-          <person xml:id="vasilij_shujskij" sex="MALE">
+          <person xml:id="vasilij_shujskij" sex="MALE" ana="http://www.wikidata.org/entity/Q193232">
             <persName>Василий Шуйский</persName>
             <persName type="variant">Шуйский</persName>
           </person>
@@ -147,7 +147,7 @@
             <name>Весь народ (I/2)</name>
             <name type="variant">Народ</name>
           </personGrp>
-          <person xml:id="dmitrij" sex="MALE">
+          <person xml:id="dmitrij" sex="MALE" ana="http://www.wikidata.org/entity/Q4149091">
             <persName>Дмитрий</persName>
           </person>
           <person xml:id="marzheret" sex="MALE">

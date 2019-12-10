@@ -51,7 +51,7 @@
           <person xml:id="zhenschina" sex="FEMALE">
             <persName>Женщина</persName>
           </person>
-          <person xml:id="mihail_lomonosov" sex="MALE">
+          <person xml:id="mihail_lomonosov" sex="MALE" ana="http://www.wikidata.org/entity/Q58720">
             <persName>Михаил (Ломоносов)</persName>
           </person>
           <person xml:id="izvozchik" sex="MALE">

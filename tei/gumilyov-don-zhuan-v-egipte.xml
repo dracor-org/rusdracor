@@ -49,7 +49,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="DonZhuan" sex="MALE">
+          <person xml:id="DonZhuan" sex="MALE" ana="http://www.wikidata.org/entity/Q210372">
             <persName>Дон Жуан</persName>
           </person>
           <person xml:id="Leporello" sex="MALE">

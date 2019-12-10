@@ -43,7 +43,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="goncharova" sex="FEMALE">
+          <person xml:id="goncharova" sex="FEMALE" ana="http://www.wikidata.org/entity/Q274331">
             <persName>Гончарова</persName>
             <persName xml:lang="de">Gončarova</persName>
           </person>
@@ -103,7 +103,7 @@
             <persName>Воронцова</persName>
             <persName xml:lang="de">Voroncova</persName>
           </person>
-          <person xml:id="nikolaj" sex="MALE">
+          <person xml:id="nikolaj" sex="MALE" ana="http://www.wikidata.org/entity/Q130734">
             <persName>Николай I</persName>
             <persName xml:lang="de">Nikolaj I.</persName>
           </person>
@@ -111,7 +111,7 @@
             <persName>Камер-юнкер</persName>
             <persName xml:lang="de">Kammerjunker</persName>
           </person>
-          <person xml:id="zhukovskij" sex="MALE">
+          <person xml:id="zhukovskij" sex="MALE" ana="http://www.wikidata.org/entity/Q157623">
             <persName>Жуковский</persName>
             <persName xml:lang="de">Žukovskij</persName>
           </person>
@@ -135,7 +135,7 @@
             <persName>Василий Максимович</persName>
             <persName xml:lang="de">Vasilij Maksimovič</persName>
           </person>
-          <person xml:id="benkendorf" sex="MALE">
+          <person xml:id="benkendorf" sex="MALE" ana="http://www.wikidata.org/entity/Q25672">
             <persName>Бенкендорф</persName>
             <persName xml:lang="de">Benkendorf</persName>
           </person>
@@ -147,7 +147,7 @@
             <persName>Строганов</persName>
             <persName xml:lang="de">Stroganov</persName>
           </person>
-          <person xml:id="danzas" sex="MALE">
+          <person xml:id="danzas" sex="MALE" ana="http://www.wikidata.org/entity/Q473613">
             <persName>Данзас</persName>
             <persName xml:lang="de">Danzas</persName>
           </person>
@@ -155,7 +155,7 @@
             <persName>Горничная девушка</persName>
             <persName xml:lang="de">Zimmermädchen</persName>
           </person>
-          <person xml:id="dal" sex="MALE">
+          <person xml:id="dal" sex="MALE" ana="http://www.wikidata.org/entity/Q326499">
             <persName>Даль</persName>
             <persName xml:lang="de">Dal’</persName>
           </person>

@@ -52,7 +52,7 @@
             <persName>Александр</persName>
             <persName xml:lang="de">Alexander</persName>
           </person>
-          <person xml:id="pavel" sex="MALE">
+          <person xml:id="pavel" sex="MALE" ana="http://www.wikidata.org/entity/Q15189">
             <persName>Павел</persName>
             <persName xml:lang="de">Paul</persName>
           </person>

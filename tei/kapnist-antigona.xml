@@ -48,13 +48,13 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="kreont" sex="MALE">
+          <person xml:id="kreont" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
             <persName>Креонт</persName>
           </person>
           <person xml:id="forbat" sex="MALE">
             <persName>Форбат</persName>
           </person>
-          <person xml:id="antigona" sex="FEMALE">
+          <person xml:id="antigona" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
             <persName>Антигона</persName>
           </person>
           <person xml:id="ehgina" sex="FEMALE">

@@ -48,7 +48,7 @@
             <persName>Ректор</persName>
             <persName xml:lang="de">Rektor</persName>
           </person>
-          <person xml:id="stalin" sex="MALE">
+          <person xml:id="stalin" sex="MALE" ana="http://www.wikidata.org/entity/Q855">
             <persName>Сталин</persName>
             <persName xml:lang="de">Stalin</persName>
           </person>

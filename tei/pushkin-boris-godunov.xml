@@ -48,7 +48,7 @@
             <persName>Воротынский</persName>
             <persName xml:lang="de">Vorotynskij</persName>
           </person>
-          <person xml:id="shujskij" sex="MALE">
+          <person xml:id="shujskij" sex="MALE" ana="http://www.wikidata.org/entity/Q193232">
             <persName>Шуйский</persName>
             <persName xml:lang="de">Šujskij</persName>
           </person>
@@ -72,7 +72,7 @@
             <persName>Щелкалов</persName>
             <persName xml:lang="de">Ŝelkalov</persName>
           </person>
-          <person xml:id="tsar_boris" sex="MALE">
+          <person xml:id="tsar_boris" sex="MALE" ana="http://www.wikidata.org/entity/Q170172">
             <persName>Борис</persName>
             <persName xml:lang="de">Boris</persName>
           </person>
@@ -84,7 +84,7 @@
             <persName>Пимен</persName>
             <persName xml:lang="de">Vater Pimen</persName>
           </person>
-          <person xml:id="grigorij_dimitrij_lzhedimitrij_samozvanets" sex="MALE">
+          <person xml:id="grigorij_dimitrij_lzhedimitrij_samozvanets" sex="MALE" ana="http://www.wikidata.org/entity/Q4149091">
             <persName>Григорий</persName>
             <persName xml:lang="de">Grigorij</persName>
           </person>

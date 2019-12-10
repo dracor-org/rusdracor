@@ -48,7 +48,7 @@
           <person xml:id="fabricius" sex="MALE">
             <persName>Фабрициус</persName>
           </person>
-          <person xml:id="rembrandt" sex="MALE">
+          <person xml:id="rembrandt" sex="MALE" ana="http://www.wikidata.org/entity/Q5598">
             <persName>Рембрандт</persName>
           </person>
           <person xml:id="saskiya" sex="FEMALE">

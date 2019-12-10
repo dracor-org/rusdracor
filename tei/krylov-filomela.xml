@@ -52,7 +52,7 @@
           <person xml:id="linsej" sex="MALE">
             <persName>Линсей</persName>
           </person>
-          <person xml:id="kalhant" sex="MALE">
+          <person xml:id="kalhant" sex="MALE" ana="http://www.wikidata.org/entity/Q725527">
             <persName>Калхант</persName>
           </person>
           <person xml:id="agamet" sex="MALE">
