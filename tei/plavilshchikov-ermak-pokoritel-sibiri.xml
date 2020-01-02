@@ -76,6 +76,10 @@
           <personGrp xml:id="vse_5-8" sex="UNKNOWN">
             <name>Все (V/8)</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#kuchum" passive="#irta"/>
+            <relation name="associated_with" active="#grubej" passive="#ermak"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

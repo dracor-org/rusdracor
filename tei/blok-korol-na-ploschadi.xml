@@ -159,6 +159,10 @@
             <persName>Голос нищего</persName>
             <persName xml:lang="eng">Voice of a beggar</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="lover_of" active="#poet" passive="#doch_zodchego"/>
+            <relation name="associated_with" active="#poet" passive="#zodchij"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -94,6 +94,11 @@
             <persName xml:lang="eng">Voice of the watchman (Efim)</persName>
             <persName xml:lang="ger">Stimme des Nachtwächters (Efim)</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#marija_vasilevna" passive="#vojnitskij"/>
+            <relation name="parent_of" active="#serebrjakov" passive="#sonja"/>
+            <relation name="spouses" mutual="#elena_andreevna #serebrjakov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

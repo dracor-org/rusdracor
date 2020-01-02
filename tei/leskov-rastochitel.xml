@@ -167,6 +167,15 @@
           <person xml:id="odin_iz_meshan" sex="MALE">
             <persName>Один из мещан</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#drosida" passive="#alena"/>
+            <relation name="related_with" active="#miakishev" passive="#molchanov"/>
+            <relation name="related_with" active="#drobadonov" passive="#molchanov"/>
+            <relation name="associated_with" active="#slujanka" passive="#miakishev"/>
+            <relation name="spouses" mutual="#marja_parmenova #molchanov"/>
+            <relation name="spouses" mutual="#anna_semenovna #miakishev"/>
+            <relation name="friends" mutual="#kolokolcov #molchanov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -136,6 +136,10 @@
           <person xml:id="Maksim" sex="MALE">
             <persName>Максим</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#Talberg #Elena"/>
+            <relation name="siblings" mutual="#Elena #Nikolka #Aleksej"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

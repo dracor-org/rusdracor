@@ -168,6 +168,9 @@
             <persName xml:lang="ger">Šatala</persName>
             <persName xml:lang="eng">Šatala</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#Raspljuev" passive="#Vanechka"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

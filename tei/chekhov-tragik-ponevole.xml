@@ -55,6 +55,9 @@
             <persName xml:lang="eng">Tolkačov</persName>
             <persName xml:lang="ger">Tolkačov</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="friends" mutual="#Tolkachov #Murashkin"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

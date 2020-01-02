@@ -129,6 +129,13 @@
             <persName>Слуга</persName>
             <persName xml:lang="ger">Der Diener (IV/1/2)</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#kuroslepov" passive="#parasha"/>
+            <relation name="related_with" active="#silan" passive="#kuroslepov"/>
+            <relation name="associated_with" active="#narkis" passive="#kuroslepov"/>
+            <relation name="associated_with" active="#gavrilo" passive="#kuroslepov"/>
+            <relation name="spouses" mutual="#matrena #kuroslepov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

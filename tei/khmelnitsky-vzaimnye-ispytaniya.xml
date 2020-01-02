@@ -58,6 +58,9 @@
           <person xml:id="ehledin" sex="MALE">
             <persName>Эледин</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="siblings" mutual="#grafinya #svetlana"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

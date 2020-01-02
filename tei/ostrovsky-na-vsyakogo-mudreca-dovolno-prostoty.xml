@@ -110,6 +110,12 @@
             <persName>Человек Крутицкого</persName>
             <persName xml:lang="ger">Krutizkijs Diener</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#glumova" passive="#glumov"/>
+            <relation name="related_with" active="#mamaeva" passive="#glumov"/>
+            <relation name="associated_with" active="#chelovek_mamaeva" passive="#mamaev"/>
+            <relation name="associated_with" active="#chelovek_krutickogo" passive="#krutickij"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

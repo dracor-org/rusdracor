@@ -88,6 +88,13 @@
             <persName>Почтальон</persName>
             <persName xml:lang="ger">Der Briefträger</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#prjazhkina" passive="#masha"/>
+            <relation name="associated_with" active="#malanja" passive="#moshkin"/>
+            <relation name="associated_with" active="#mitka" passive="#vilitskij"/>
+            <relation name="associated_with" active="#stratilat" passive="#moshkin"/>
+            <relation name="friends" mutual="#sozomenos #fonk"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

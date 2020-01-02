@@ -84,6 +84,20 @@
           <person xml:id="sluga_lukavina" sex="MALE">
             <persName>Слуга Лукавина</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#dosazhaeva" passive="#masha"/>
+            <relation name="parent_of" active="#dosazhaev" passive="#masha"/>
+            <relation name="related_with" active="#zdravosudov" passive="#lukavin"/>
+            <relation name="related_with" active="#zdravosudov" passive="#vetron"/>
+            <relation name="related_with" active="#porfirij" passive="#lukavin"/>
+            <relation name="related_with" active="#porfirij" passive="#vetron"/>
+            <relation name="associated_with" active="#sluga_lukavina" passive="#lukavin"/>
+            <relation name="associated_with" active="#sluga_vetrona" passive="#vetron"/>
+            <relation name="siblings" mutual="#lukavin #vetron"/>
+            <relation name="spouses" mutual="#dosazhaev #dosazhaeva"/>
+            <relation name="friends" mutual="#zmejkin #vetron"/>
+            <relation name="friends" mutual="#usladov #vetron"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

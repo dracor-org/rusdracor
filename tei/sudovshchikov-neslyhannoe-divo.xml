@@ -70,6 +70,12 @@
           <person xml:id="pryamikov" sex="MALE">
             <persName>Прямиков</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#krivosudov" passive="#milena"/>
+            <relation name="related_with" active="#pryamikov" passive="#milena"/>
+            <relation name="related_with" active="#pryamikov" passive="#krivosudov"/>
+            <relation name="associated_with" active="#strela" passive="#milena"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

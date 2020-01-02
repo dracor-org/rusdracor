@@ -92,6 +92,12 @@
           <person xml:id="vtoroj_chinovnik" sex="MALE">
             <persName>2-й чиновник</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#belogubov" passive="#yusov"/>
+            <relation name="related_with" active="#zhadov" passive="#vyshnevskij"/>
+            <relation name="associated_with" active="#yusov" passive="#vyshnevskij"/>
+            <relation name="spouses" mutual="#vyshnevskij #vyshnevskaya"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

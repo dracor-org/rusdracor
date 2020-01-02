@@ -72,6 +72,15 @@
           <person xml:id="potap" sex="MALE">
             <persName>Потап</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#uzhima #vspyshkin"/>
+            <relation name="parent_of" active="#vspyshkin" passive="#prelesta"/>
+            <relation name="parent_of" active="#uzhima" passive="#prelesta"/>
+            <relation name="lover_of" active="#milon" passive="#uzhima"/>
+            <relation name="lover_of" active="#fatyuev" passive="#prelesta"/>
+            <relation name="associated_with" active="#dasha" passive="#prelesta"/>
+            <relation name="associated_with" active="#vanka" passive="#fatyuev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

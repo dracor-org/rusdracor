@@ -142,6 +142,11 @@
             <persName>Молодец</persName>
             <persName xml:lang="ger">Der Bursche</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#obroshenov" passive="#anna_pavlovna"/>
+            <relation name="parent_of" active="#obroshenov" passive="#verochka"/>
+            <relation name="siblings" mutual="#anna_pavlovna #verochka"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

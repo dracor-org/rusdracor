@@ -85,6 +85,16 @@
           <person xml:id="svirelkin" sex="MALE">
             <persName>Свирелкин</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#lentjagina" passive="#ulinka"/>
+            <relation name="parent_of" active="#lentjagin" passive="#ulinka"/>
+            <relation name="lover_of" active="#prijat" passive="#ulinka"/>
+            <relation name="associated_with" active="#vysonos" passive="#vetromah"/>
+            <relation name="associated_with" active="#prolaz" passive="#prijat"/>
+            <relation name="associated_with" active="#marina" passive="#lentjagin"/>
+            <relation name="associated_with" active="#marina" passive="#lentjagina"/>
+            <relation name="spouses" mutual="#lentjagin #lentjagina"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

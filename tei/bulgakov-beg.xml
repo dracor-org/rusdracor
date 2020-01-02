@@ -207,6 +207,13 @@
             <persName>Антуан</persName>
             <persName xml:lang="ger">Antoine</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#golovan" passive="#hludov"/>
+            <relation name="associated_with" active="#antuan" passive="#korzuhin"/>
+            <relation name="spouses" mutual="#ljuska #charnota"/>
+            <relation name="spouses" mutual="#nikolaevna #nachalnik_stantsii"/>
+            <relation name="spouses" mutual="#korzuhin #serafima"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

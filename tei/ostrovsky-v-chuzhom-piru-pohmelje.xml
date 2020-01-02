@@ -84,6 +84,10 @@
             <persName>Захар Захарыч</persName>
             <persName xml:lang="ger">Sachar Sacharytsch</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#ivan_ksenofontych" passive="#lizaveta_ivanovna"/>
+            <relation name="parent_of" active="#tit_titych" passive="#andrej_titych"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

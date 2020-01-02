@@ -75,6 +75,15 @@
           <person xml:id="negligentov" sex="MALE">
             <persName>Неглигентов</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#ulanbekova" passive="#leonid"/>
+            <relation name="associated_with" active="#vasilisa_peregrinovna" passive="#ulanbekova"/>
+            <relation name="associated_with" active="#potapych" passive="#ulanbekova"/>
+            <relation name="associated_with" active="#nadya" passive="#ulanbekova"/>
+            <relation name="associated_with" active="#gavrilovna" passive="#ulanbekova"/>
+            <relation name="associated_with" active="#grisha" passive="#ulanbekova"/>
+            <relation name="associated_with" active="#liza" passive="#ulanbekova"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

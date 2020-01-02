@@ -98,6 +98,9 @@
             <name type="variant">Вся прислуга</name>
             <name xml:lang="eng">All the Servants</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#lizaveta_platonovna" passive="#chupurlina"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

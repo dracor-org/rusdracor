@@ -73,6 +73,12 @@
           <person xml:id="MinaHristianovna" sex="FEMALE">
             <persName>Мина Христиановна</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#Shishkengolm" passive="#Liza"/>
+            <relation name="parent_of" active="#MinaHristianovna" passive="#Liza"/>
+            <relation name="associated_with" active="#Ivanov" passive="#Shishkengolm"/>
+            <relation name="spouses" mutual="#MinaHristianovna #Shishkengolm"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

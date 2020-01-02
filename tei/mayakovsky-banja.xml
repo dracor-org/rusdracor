@@ -144,6 +144,10 @@
             <persName>Милиционер</persName>
             <persName xml:lang="ger">Ein Milizionär</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#optimistenko" passive="#pobedonosikov"/>
+            <relation name="spouses" mutual="#polja #pobedonosikov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
