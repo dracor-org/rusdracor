@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Вишневый сад</title>
-        <title type="main" xml:lang="en">The Cherry Orchard</title>
-        <title type="sub" xml:lang="ru">Комедия в 4-х действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Four Acts</title>
+        <title type="main">Вишневый сад</title>
+        <title type="main" xml:lang="eng">The Cherry Orchard</title>
+        <title type="sub">Комедия в 4-х действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Four Acts</title>
         <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
@@ -47,73 +47,73 @@
         <listPerson>
           <person xml:id="Lopahin" sex="MALE">
             <persName>Лопахин</persName>
-            <persName xml:lang="en">Lopahin</persName>
-            <persName xml:lang="de">Lopahin</persName>
+            <persName xml:lang="eng">Lopahin</persName>
+            <persName xml:lang="ger">Lopahin</persName>
           </person>
           <person xml:id="Dunjasha" sex="FEMALE">
             <persName>Дуняша</persName>
-            <persName xml:lang="en">Dunâša</persName>
-            <persName xml:lang="de">Dunâša</persName>
+            <persName xml:lang="eng">Dunâša</persName>
+            <persName xml:lang="ger">Dunâša</persName>
           </person>
           <person xml:id="Epihodov" sex="MALE">
             <persName>Епиходов</persName>
-            <persName xml:lang="en">Epihodov</persName>
-            <persName xml:lang="de">Epihodov</persName>
+            <persName xml:lang="eng">Epihodov</persName>
+            <persName xml:lang="ger">Epihodov</persName>
           </person>
           <person xml:id="Anja" sex="FEMALE">
             <persName>Аня</persName>
-            <persName xml:lang="en">Anâ</persName>
-            <persName xml:lang="de">Anâ</persName>
+            <persName xml:lang="eng">Anâ</persName>
+            <persName xml:lang="ger">Anâ</persName>
           </person>
           <person xml:id="LjubovAndreevna" sex="FEMALE">
             <persName>Любовь Андреевна</persName>
-            <persName xml:lang="en">Lûbovʹ Andreevna</persName>
-            <persName xml:lang="de">Lûbovʹ Andreevna</persName>
+            <persName xml:lang="eng">Lûbovʹ Andreevna</persName>
+            <persName xml:lang="ger">Lûbovʹ Andreevna</persName>
           </person>
           <person xml:id="Varja" sex="FEMALE">
             <persName>Варя</persName>
-            <persName xml:lang="en">Varâ</persName>
-            <persName xml:lang="de">Varâ</persName>
+            <persName xml:lang="eng">Varâ</persName>
+            <persName xml:lang="ger">Varâ</persName>
           </person>
           <person xml:id="Gaev" sex="MALE">
             <persName>Гаев</persName>
-            <persName xml:lang="en">Gaev</persName>
-            <persName xml:lang="de">Gaev</persName>
+            <persName xml:lang="eng">Gaev</persName>
+            <persName xml:lang="ger">Gaev</persName>
           </person>
           <person xml:id="Sharlotta" sex="FEMALE">
             <persName>Шарлотта</persName>
-            <persName xml:lang="en">Šarlotta</persName>
-            <persName xml:lang="de">Šarlotta</persName>
+            <persName xml:lang="eng">Šarlotta</persName>
+            <persName xml:lang="ger">Šarlotta</persName>
           </person>
           <person xml:id="Pischik" sex="MALE">
             <persName>Пищик</persName>
-            <persName xml:lang="en">Piŝik</persName>
-            <persName xml:lang="de">Piŝik</persName>
+            <persName xml:lang="eng">Piŝik</persName>
+            <persName xml:lang="ger">Piŝik</persName>
           </person>
           <person xml:id="Jasha" sex="MALE">
             <persName>Яша</persName>
-            <persName xml:lang="en">Âša</persName>
-            <persName xml:lang="de">Âša</persName>
+            <persName xml:lang="eng">Âša</persName>
+            <persName xml:lang="ger">Âša</persName>
           </person>
           <person xml:id="Firs" sex="MALE">
             <persName>Фирс</persName>
-            <persName xml:lang="en">Firs</persName>
-            <persName xml:lang="de">Firs</persName>
+            <persName xml:lang="eng">Firs</persName>
+            <persName xml:lang="ger">Firs</persName>
           </person>
           <person xml:id="Trofimov" sex="MALE">
             <persName>Трофимов</persName>
-            <persName xml:lang="en">Trofimov</persName>
-            <persName xml:lang="de">Trofimov</persName>
+            <persName xml:lang="eng">Trofimov</persName>
+            <persName xml:lang="ger">Trofimov</persName>
           </person>
           <person xml:id="Prohozhij" sex="MALE">
             <persName>Прохожий</persName>
-            <persName xml:lang="en">A tramp</persName>
-            <persName xml:lang="de">Ein angeheiterter Mann</persName>
+            <persName xml:lang="eng">A tramp</persName>
+            <persName xml:lang="ger">Ein angeheiterter Mann</persName>
           </person>
           <person xml:id="NachalnikStantsii" sex="MALE">
             <persName>Начальник станции</persName>
-            <persName xml:lang="en">Stationmaster</persName>
-            <persName xml:lang="de">Der Stationsvorsteher</persName>
+            <persName xml:lang="eng">Stationmaster</persName>
+            <persName xml:lang="ger">Der Stationsvorsteher</persName>
           </person>
         </listPerson>
       </particDesc>

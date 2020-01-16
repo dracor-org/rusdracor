@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Дни Турбиных</title>
-        <title type="main" xml:lang="en">The Days of the Turbins</title>
-        <title type="sub" xml:lang="ru">Пьеса в четырех действиях</title>
-        <title type="sub" xml:lang="en">A Play in Four Acts</title>
+        <title type="main">Дни Турбиных</title>
+        <title type="main" xml:lang="eng">The Days of the Turbins</title>
+        <title type="sub">Пьеса в четырех действиях</title>
+        <title type="sub" xml:lang="eng">A Play in Four Acts</title>
         <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
       </titleStmt>
       <publicationStmt>

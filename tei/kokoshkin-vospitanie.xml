@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Воспитание, или вот приданое</title>
-        <title type="main" xml:lang="en">Education, or Here Comes the Dowry</title>
-        <title type="sub" xml:lang="ru">Комедия в четырех действиях, в стихах</title>
-        <title type="sub" xml:lang="en">A Comedy in Four Acts, in Verse</title>
+        <title type="main">Воспитание, или вот приданое</title>
+        <title type="main" xml:lang="eng">Education, or Here Comes the Dowry</title>
+        <title type="sub">Комедия в четырех действиях, в стихах</title>
+        <title type="sub" xml:lang="eng">A Comedy in Four Acts, in Verse</title>
         <author key="wikidata:Q4227412">Кокошкин, Фёдор Фёдорович</author>
       </titleStmt>
       <publicationStmt>

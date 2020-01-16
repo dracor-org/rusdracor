@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Лакейская</title>
-        <title type="main" xml:lang="en">The Servants' Hall</title>
-        <title type="sub" xml:lang="ru">–</title>
-        <title type="sub" xml:lang="en">–</title>
+        <title type="main">Лакейская</title>
+        <title type="main" xml:lang="eng">The Servants' Hall</title>
+        <title type="sub">–</title>
+        <title type="sub" xml:lang="eng">–</title>
         <author key="wikidata:Q43718">Гоголь, Николай Васильевич</author>
       </titleStmt>
       <publicationStmt>
@@ -44,49 +44,49 @@
         <listPerson>
           <person xml:id="Grigorij" sex="MALE">
             <persName>Григорий</persName>
-            <persName xml:lang="de">Grigorij</persName>
-            <persName xml:lang="en">Grigorij</persName>
+            <persName xml:lang="ger">Grigorij</persName>
+            <persName xml:lang="eng">Grigorij</persName>
           </person>
           <person xml:id="Petr" sex="MALE">
             <persName>Петр</persName>
-            <persName xml:lang="de">Petr</persName>
-            <persName xml:lang="en">Petr</persName>
+            <persName xml:lang="ger">Petr</persName>
+            <persName xml:lang="eng">Petr</persName>
           </person>
           <person xml:id="Ivan" sex="MALE">
             <persName>Иван</persName>
-            <persName xml:lang="de">Ivan</persName>
-            <persName xml:lang="en">Ivan</persName>
+            <persName xml:lang="ger">Ivan</persName>
+            <persName xml:lang="eng">Ivan</persName>
           </person>
           <person xml:id="ChuzhojSluga" sex="MALE">
             <persName>Чужой слуга</persName>
             <persName type="variant">Чужой лакей</persName>
-            <persName xml:lang="de">Fremder Diener</persName>
-            <persName xml:lang="en">Servant-stranger</persName>
+            <persName xml:lang="ger">Fremder Diener</persName>
+            <persName xml:lang="eng">Servant-stranger</persName>
           </person>
           <person xml:id="Barin" sex="MALE">
             <persName>Барин</persName>
-            <persName xml:lang="de">Herr</persName>
-            <persName xml:lang="en">Master</persName>
+            <persName xml:lang="ger">Herr</persName>
+            <persName xml:lang="eng">Master</persName>
           </person>
           <person xml:id="GospodinVShube" sex="MALE">
             <persName>Господин в шубе</persName>
-            <persName xml:lang="de">Herr im Pelz</persName>
-            <persName xml:lang="en">Gentleman in fur coat</persName>
+            <persName xml:lang="ger">Herr im Pelz</persName>
+            <persName xml:lang="eng">Gentleman in fur coat</persName>
           </person>
           <person xml:id="Devushka" sex="FEMALE">
             <persName>Девушка</persName>
-            <persName xml:lang="de">Zofe</persName>
-            <persName xml:lang="en">Servant girl</persName>
+            <persName xml:lang="ger">Zofe</persName>
+            <persName xml:lang="eng">Servant girl</persName>
           </person>
           <person xml:id="PuzatyjDvoretskij" sex="MALE">
             <persName>Пузатый дворецкий</persName>
-            <persName xml:lang="de">Der dicke Haushofmeister</persName>
-            <persName xml:lang="en">The pot-bellied majordomo</persName>
+            <persName xml:lang="ger">Der dicke Haushofmeister</persName>
+            <persName xml:lang="eng">The pot-bellied majordomo</persName>
           </person>
           <person xml:id="Annushka" sex="FEMALE">
             <persName>Аннушка</persName>
-            <persName xml:lang="de">Annuška</persName>
-            <persName xml:lang="en">Annuška</persName>
+            <persName xml:lang="ger">Annuška</persName>
+            <persName xml:lang="eng">Annuška</persName>
           </person>
         </listPerson>
       </particDesc>

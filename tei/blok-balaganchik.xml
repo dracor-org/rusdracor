@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Балаганчик</title>
-        <title type="main" xml:lang="en">A Puppet Show</title>
-        <title type="sub" xml:lang="ru">–</title>
-        <title type="sub" xml:lang="en">–</title>
+        <title type="main">Балаганчик</title>
+        <title type="main" xml:lang="eng">A Puppet Show</title>
+        <title type="sub">–</title>
+        <title type="sub" xml:lang="eng">–</title>
         <author key="wikidata:Q164765">Блок, Александр Александрович</author>
       </titleStmt>
       <publicationStmt>
@@ -47,67 +47,67 @@
         <listPerson>
           <person xml:id="pervyj_mistik" sex="MALE">
             <persName>Первый мистик</persName>
-            <persName xml:lang="de">Erster Mystiker</persName>
+            <persName xml:lang="ger">Erster Mystiker</persName>
           </person>
           <person xml:id="vtoroj_mistik" sex="MALE">
             <persName>Второй мистик</persName>
-            <persName xml:lang="de">Zweiter Mystiker</persName>
+            <persName xml:lang="ger">Zweiter Mystiker</persName>
           </person>
           <person xml:id="tretij_mistik" sex="MALE">
             <persName>Третий мистик</persName>
-            <persName xml:lang="de">Dritter Mystiker</persName>
+            <persName xml:lang="ger">Dritter Mystiker</persName>
           </person>
           <person xml:id="pero" sex="MALE">
             <persName>Пьеро</persName>
-            <persName xml:lang="de">Pierrot</persName>
+            <persName xml:lang="ger">Pierrot</persName>
           </person>
           <person xml:id="avtor" sex="MALE">
             <persName>Автор</persName>
-            <persName xml:lang="de">Autor</persName>
+            <persName xml:lang="ger">Autor</persName>
           </person>
           <person xml:id="predsedatel" sex="MALE">
             <persName>Председатель</persName>
-            <persName xml:lang="de">Vorsitzender</persName>
+            <persName xml:lang="ger">Vorsitzender</persName>
           </person>
           <person xml:id="kolombina" sex="FEMALE">
             <persName>Коломбина</persName>
-            <persName xml:lang="de">Columbine</persName>
+            <persName xml:lang="ger">Columbine</persName>
           </person>
           <person xml:id="arlekin" sex="MALE">
             <persName>Арлекин</persName>
-            <persName xml:lang="de">Harlekin</persName>
+            <persName xml:lang="ger">Harlekin</persName>
           </person>
           <person xml:id="ona_1" sex="FEMALE">
             <persName>Она</persName>
-            <persName xml:lang="de">Sie</persName>
+            <persName xml:lang="ger">Sie</persName>
           </person>
           <person xml:id="on_1" sex="MALE">
             <persName>Он</persName>
-            <persName xml:lang="de">Er</persName>
+            <persName xml:lang="ger">Er</persName>
           </person>
           <person xml:id="on_2" sex="MALE">
             <persName>Он</persName>
-            <persName xml:lang="de">Er</persName>
+            <persName xml:lang="ger">Er</persName>
           </person>
           <person xml:id="ona_2" sex="FEMALE">
             <persName>Она</persName>
-            <persName xml:lang="de">Sie</persName>
+            <persName xml:lang="ger">Sie</persName>
           </person>
           <person xml:id="on_3" sex="MALE">
             <persName>Он</persName>
-            <persName xml:lang="de">Er</persName>
+            <persName xml:lang="ger">Er</persName>
           </person>
           <person xml:id="ona_3" sex="FEMALE">
             <persName>Она</persName>
-            <persName xml:lang="de">Sie</persName>
+            <persName xml:lang="ger">Sie</persName>
           </person>
           <person xml:id="pajats" sex="MALE">
             <persName>Паяц</persName>
-            <persName xml:lang="de">Bajazzo</persName>
+            <persName xml:lang="ger">Bajazzo</persName>
           </person>
           <personGrp xml:id="hor" sex="UNKNOWN">
             <name>Хор</name>
-            <name xml:lang="de">Chor</name>
+            <name xml:lang="ger">Chor</name>
           </personGrp>
         </listPerson>
       </particDesc>

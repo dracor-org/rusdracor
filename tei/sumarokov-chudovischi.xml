@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Чудовищи</title>
-        <title type="main" xml:lang="en">Monsters</title>
-        <title type="sub" xml:lang="ru">Комедия</title>
-        <title type="sub" xml:lang="en">A Comedy</title>
+        <title type="main">Чудовищи</title>
+        <title type="main" xml:lang="eng">Monsters</title>
+        <title type="sub">Комедия</title>
+        <title type="sub" xml:lang="eng">A Comedy</title>
         <author key="wikidata:Q429915">Сумароков, Александр Петрович</author>
       </titleStmt>
       <publicationStmt>
@@ -99,9 +99,7 @@
         <titlePart type="main">Чудовищи</titlePart>
         <titlePart type="sub">Комедия</titlePart>
       </docTitle>
-      <div>
-        <dateline>Сия комедия сочинена в июне месяце 1750 года, на Приморском дворе.</dateline>
-      </div>
+      <dateline>Сия комедия сочинена в июне месяце 1750 года, на Приморском дворе.</dateline>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
         <castItem>Бармас.</castItem>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Татьяна Репина</title>
-        <title type="main" xml:lang="en">Tatyana Repina</title>
-        <title type="sub" xml:lang="ru">Драма в 1 действии</title>
-        <title type="sub" xml:lang="en">Drama in 1 Act</title>
+        <title type="main">Татьяна Репина</title>
+        <title type="main" xml:lang="eng">Tatyana Repina</title>
+        <title type="sub">Драма в 1 действии</title>
+        <title type="sub" xml:lang="eng">Drama in 1 Act</title>
         <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
@@ -46,143 +46,143 @@
         <listPerson>
           <person xml:id="OIvan" sex="MALE">
             <persName>О. Иван</persName>
-            <persName xml:lang="en">Father Ivan</persName>
-            <persName xml:lang="de">Vater Ivan</persName>
+            <persName xml:lang="eng">Father Ivan</persName>
+            <persName xml:lang="ger">Vater Ivan</persName>
           </person>
           <person xml:id="ArhierejskijHor" sex="UNKNOWN">
             <persName>Архиерейский хор</persName>
-            <persName xml:lang="en">Arch Bishop's Choir</persName>
-            <persName xml:lang="de">Eparchialchor</persName>
+            <persName xml:lang="eng">Arch Bishop's Choir</persName>
+            <persName xml:lang="ger">Eparchialchor</persName>
           </person>
           <person xml:id="Patronnikov" sex="MALE">
             <persName>Патронников</persName>
-            <persName xml:lang="en">Patronnikov</persName>
-            <persName xml:lang="de">Patronnikov</persName>
+            <persName xml:lang="eng">Patronnikov</persName>
+            <persName xml:lang="ger">Patronnikov</persName>
           </person>
           <person xml:id="Zonenshtejn" sex="MALE">
             <persName>Зоненштейн</persName>
-            <persName xml:lang="en">Zonenštejn</persName>
-            <persName xml:lang="de">Zonenštejn</persName>
+            <persName xml:lang="eng">Zonenštejn</persName>
+            <persName xml:lang="ger">Zonenštejn</persName>
           </person>
           <person xml:id="Djakon" sex="MALE">
             <persName>Дьякон</persName>
-            <persName xml:lang="en">Deacon</persName>
-            <persName xml:lang="de">Diakon</persName>
+            <persName xml:lang="eng">Deacon</persName>
+            <persName xml:lang="ger">Diakon</persName>
           </person>
           <personGrp xml:id="SobornyjHor" sex="UNKNOWN">
             <name>Соборный хор</name>
-            <name xml:lang="en">Cathedral Choir</name>
-            <name xml:lang="de">Domchor</name>
+            <name xml:lang="eng">Cathedral Choir</name>
+            <name xml:lang="ger">Domchor</name>
           </personGrp>
           <person xml:id="ONikolaj" sex="MALE">
             <persName>О. Николай</persName>
-            <persName xml:lang="en">Father Nikolaj</persName>
-            <persName xml:lang="de">Vater Nikolaj</persName>
+            <persName xml:lang="eng">Father Nikolaj</persName>
+            <persName xml:lang="ger">Vater Nikolaj</persName>
           </person>
           <person xml:id="Baryshnja" sex="FEMALE">
             <persName>Барышня</persName>
-            <persName xml:lang="en">A young lady</persName>
-            <persName xml:lang="de">Ein Fräulein</persName>
+            <persName xml:lang="eng">A young lady</persName>
+            <persName xml:lang="ger">Ein Fräulein</persName>
           </person>
           <person xml:id="VTolpe" sex="UNKNOWN">
             <persName>В толпе</persName>
-            <persName xml:lang="en">From the congregation</persName>
-            <persName xml:lang="de">In der Menge</persName>
+            <persName xml:lang="eng">From the congregation</persName>
+            <persName xml:lang="ger">In der Menge</persName>
           </person>
           <person xml:id="Kotelnikov" sex="MALE">
             <persName>Котельников</persName>
-            <persName xml:lang="en">Kotelʹnikov</persName>
-            <persName xml:lang="de">Kotelʹnikov</persName>
+            <persName xml:lang="eng">Kotelʹnikov</persName>
+            <persName xml:lang="ger">Kotelʹnikov</persName>
           </person>
           <person xml:id="Volgin" sex="MALE">
             <persName>Волгин</persName>
-            <persName xml:lang="en">Volgin</persName>
-            <persName xml:lang="de">Volgin</persName>
+            <persName xml:lang="eng">Volgin</persName>
+            <persName xml:lang="ger">Volgin</persName>
           </person>
           <person xml:id="TovarischProkurora" sex="MALE">
             <persName>Товарищ прокурора</persName>
-            <persName xml:lang="en">The Assistant Prosecutor</persName>
-            <persName xml:lang="de">Der Stellvertretende Staatsanwalt</persName>
+            <persName xml:lang="eng">The Assistant Prosecutor</persName>
+            <persName xml:lang="ger">Der Stellvertretende Staatsanwalt</persName>
           </person>
           <person xml:id="Kokoshkina" sex="FEMALE">
             <persName>Кокошкина</persName>
-            <persName xml:lang="en">Kokoškina</persName>
-            <persName xml:lang="de">Kokoškina</persName>
+            <persName xml:lang="eng">Kokoškina</persName>
+            <persName xml:lang="ger">Kokoškina</persName>
           </person>
           <person xml:id="Kokoshkin" sex="MALE">
             <persName>Кокошкин</persName>
-            <persName xml:lang="en">Kokoškin</persName>
-            <persName xml:lang="de">Kokoškin</persName>
+            <persName xml:lang="eng">Kokoškin</persName>
+            <persName xml:lang="ger">Kokoškin</persName>
           </person>
           <person xml:id="Djachok" sex="MALE">
             <persName>Дьячок</persName>
-            <persName xml:lang="en">Sexton</persName>
-            <persName xml:lang="de">Küster</persName>
+            <persName xml:lang="eng">Sexton</persName>
+            <persName xml:lang="ger">Küster</persName>
           </person>
           <person xml:id="Sabinin" sex="MALE">
             <persName>Сабинин</persName>
-            <persName xml:lang="en">Sabinin</persName>
-            <persName xml:lang="de">Sabinin</persName>
+            <persName xml:lang="eng">Sabinin</persName>
+            <persName xml:lang="ger">Sabinin</persName>
           </person>
           <personGrp xml:id="Hor" sex="UNKNOWN">
             <name>Хор</name>
-            <name xml:lang="en">Choir</name>
-            <name xml:lang="de">Chor</name>
+            <name xml:lang="eng">Choir</name>
+            <name xml:lang="ger">Chor</name>
           </personGrp>
           <person xml:id="KtoTo" sex="UNKNOWN">
             <persName>Кто-то</persName>
-            <persName xml:lang="en">Somebody</persName>
-            <persName xml:lang="de">Jemand</persName>
+            <persName xml:lang="eng">Somebody</persName>
+            <persName xml:lang="ger">Jemand</persName>
           </person>
           <person xml:id="DamaVChernom" sex="FEMALE">
             <persName>Дама в черном</persName>
-            <persName xml:lang="en">The Lady in Black</persName>
-            <persName xml:lang="de">Die Dame in Schwarz</persName>
+            <persName xml:lang="eng">The Lady in Black</persName>
+            <persName xml:lang="ger">Die Dame in Schwarz</persName>
           </person>
           <person xml:id="Damy" sex="FEMALE">
             <persName>Дамы</persName>
-            <persName xml:lang="en">Ladies</persName>
-            <persName xml:lang="de">Damen</persName>
+            <persName xml:lang="eng">Ladies</persName>
+            <persName xml:lang="ger">Damen</persName>
           </person>
           <person xml:id="OAleksej" sex="MALE">
             <persName>О. Алексей</persName>
-            <persName xml:lang="en">Father Aleksej</persName>
-            <persName xml:lang="de">Vater Aleksej</persName>
+            <persName xml:lang="eng">Father Aleksej</persName>
+            <persName xml:lang="ger">Vater Aleksej</persName>
           </person>
           <person xml:id="Matveev" sex="MALE">
             <persName>Матвеев</persName>
-            <persName xml:lang="en">Matveev</persName>
-            <persName xml:lang="de">Matveev</persName>
+            <persName xml:lang="eng">Matveev</persName>
+            <persName xml:lang="ger">Matveev</persName>
           </person>
           <person xml:id="Student" sex="MALE">
             <persName>Студент</persName>
-            <persName xml:lang="en">A student</persName>
-            <persName xml:lang="de">Ein Student</persName>
+            <persName xml:lang="eng">A student</persName>
+            <persName xml:lang="ger">Ein Student</persName>
           </person>
           <person xml:id="MolodojAkter" sex="MALE">
             <persName>Молодой актер</persName>
-            <persName xml:lang="en">A young actor</persName>
-            <persName xml:lang="de">Ein junger Schauspieler</persName>
+            <persName xml:lang="eng">A young actor</persName>
+            <persName xml:lang="ger">Ein junger Schauspieler</persName>
           </person>
           <person xml:id="Olenina" sex="FEMALE">
             <persName>Оленина</persName>
-            <persName xml:lang="en">Olenina</persName>
-            <persName xml:lang="de">Olenina</persName>
+            <persName xml:lang="eng">Olenina</persName>
+            <persName xml:lang="ger">Olenina</persName>
           </person>
           <person xml:id="Komik" sex="MALE">
             <persName>Комик</persName>
-            <persName xml:lang="en">A comic actor</persName>
-            <persName xml:lang="de">Komiker</persName>
+            <persName xml:lang="eng">A comic actor</persName>
+            <persName xml:lang="ger">Komiker</persName>
           </person>
           <person xml:id="Kuzma" sex="MALE">
             <persName>Кузьма</persName>
-            <persName xml:lang="en">Kuzʹma</persName>
-            <persName xml:lang="de">Kuzʹma</persName>
+            <persName xml:lang="eng">Kuzʹma</persName>
+            <persName xml:lang="ger">Kuzʹma</persName>
           </person>
           <person xml:id="OfitserIzTolpy" sex="MALE">
             <persName>Офицер из толпы</persName>
-            <persName xml:lang="en">A police officer from the congregation</persName>
-            <persName xml:lang="de">Offizier aus der Menge</persName>
+            <persName xml:lang="eng">A police officer from the congregation</persName>
+            <persName xml:lang="ger">Offizier aus der Menge</persName>
           </person>
         </listPerson>
       </particDesc>

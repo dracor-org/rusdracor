@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Черепослов, сиречь Френолог</title>
-        <title type="main" xml:lang="en">The Lore of the Skull, or Phrenology</title>
-        <title type="sub" xml:lang="ru">Оперетта в трех картинах</title>
-        <title type="sub" xml:lang="en">Operetta in Three Scenes</title>
+        <title type="main">Черепослов, сиречь Френолог</title>
+        <title type="main" xml:lang="eng">The Lore of the Skull, or Phrenology</title>
+        <title type="sub">Оперетта в трех картинах</title>
+        <title type="sub" xml:lang="eng">Operetta in Three Scenes</title>
         <author key="wikidata:Q1784989">Прутков, Козьма</author>
       </titleStmt>
       <publicationStmt>

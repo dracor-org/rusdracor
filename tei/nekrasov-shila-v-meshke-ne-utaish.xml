@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Шила в мешке не утаишь – девушки под замком не
+        <title type="main">Шила в мешке не утаишь – девушки под замком не
           удержишь</title>
-        <title type="main" xml:lang="en">There is No Hiding a Needle in a Sack</title>
-        <title type="sub" xml:lang="ru">Водевиль в двух картинах</title>
-        <title type="sub" xml:lang="en">A Vaudeville in Two Scenes</title>
+        <title type="main" xml:lang="eng">There is No Hiding a Needle in a Sack</title>
+        <title type="sub">Водевиль в двух картинах</title>
+        <title type="sub" xml:lang="eng">A Vaudeville in Two Scenes</title>
         <author key="wikidata:Q208003">Некрасов, Николай Алексеевич</author>
       </titleStmt>
       <publicationStmt>

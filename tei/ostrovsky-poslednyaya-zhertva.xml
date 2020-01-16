@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Последняя жертва</title>
-        <title type="main" xml:lang="en">The Last Sacrifice</title>
-        <title type="sub" xml:lang="ru">Комедия в пяти действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Five Acts</title>
+        <title type="main">Последняя жертва</title>
+        <title type="main" xml:lang="eng">The Last Sacrifice</title>
+        <title type="sub">Комедия в пяти действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Five Acts</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -47,58 +47,58 @@
         <listPerson>
           <person xml:id="mihevna" sex="FEMALE">
             <persName>Михевна</persName>
-            <persName xml:lang="en">Mikheyevna</persName>
+            <persName xml:lang="eng">Mikheyevna</persName>
           </person>
           <person xml:id="glafira_firsovna" sex="FEMALE">
             <persName>Глафира Фирсовна</persName>
-            <persName xml:lang="en">Glafira Firsovna</persName>
+            <persName xml:lang="eng">Glafira Firsovna</persName>
           </person>
           <person xml:id="yuliya" sex="FEMALE">
             <persName>Юлия</persName>
-            <persName xml:lang="en">Julia</persName>
+            <persName xml:lang="eng">Julia</persName>
           </person>
           <person xml:id="dergachev" sex="MALE">
             <persName>Дергачев</persName>
-            <persName xml:lang="en">Dergachev</persName>
+            <persName xml:lang="eng">Dergachev</persName>
           </person>
           <person xml:id="flor_fedulych" sex="MALE">
             <persName>Флор Федулыч</persName>
-            <persName xml:lang="en">Flor Fedulych</persName>
+            <persName xml:lang="eng">Flor Fedulych</persName>
           </person>
           <person xml:id="dulchin" sex="MALE">
             <persName>Дульчин</persName>
-            <persName xml:lang="en">Dulchin</persName>
+            <persName xml:lang="eng">Dulchin</persName>
           </person>
           <person xml:id="vasilij" sex="MALE">
             <persName>Василий</persName>
-            <persName xml:lang="en">Vasily</persName>
+            <persName xml:lang="eng">Vasily</persName>
           </person>
           <person xml:id="lavr_mironych" sex="MALE">
             <persName>Лавр Мироныч</persName>
-            <persName xml:lang="en">Lavr Mironych</persName>
+            <persName xml:lang="eng">Lavr Mironych</persName>
           </person>
           <person xml:id="irina" sex="FEMALE">
             <persName>Ирина</persName>
-            <persName xml:lang="en">Irina</persName>
+            <persName xml:lang="eng">Irina</persName>
           </person>
           <person xml:id="raznoschik_vestej" sex="MALE">
             <persName>Разносчик вестей</persName>
-            <persName xml:lang="en">Gossip</persName>
+            <persName xml:lang="eng">Gossip</persName>
           </person>
           <person xml:id="odin_iz_gruppy" sex="MALE">
             <persName>Один из группы</persName>
           </person>
           <person xml:id="golos_iz_vtoroj_gruppy" sex="UNKNOWN">
             <persName>Голос из второй группы</persName>
-            <persName xml:lang="en">A Voice from the Second Group</persName>
+            <persName xml:lang="eng">A Voice from the Second Group</persName>
           </person>
           <person xml:id="golos_iz_tretej_gruppy" sex="UNKNOWN">
             <persName>Голос из третьей группы</persName>
-            <persName xml:lang="en">A Voice from the Third Group</persName>
+            <persName xml:lang="eng">A Voice from the Third Group</persName>
           </person>
           <person xml:id="nablyudatel" sex="MALE">
             <persName>Наблюдатель</persName>
-            <persName xml:lang="en">Observer</persName>
+            <persName xml:lang="eng">Observer</persName>
           </person>
           <person xml:id="inogorodnyj" sex="MALE">
             <persName>Иногородный</persName>

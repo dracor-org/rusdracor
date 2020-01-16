@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Кабала святош (Мольер)</title>
-        <title type="main" xml:lang="en">The Cabal of Hypocrites (Molière)</title>
-        <title type="sub" xml:lang="ru">Драма в четырех действиях</title>
-        <title type="sub" xml:lang="en">A Drama in Four Acts</title>
+        <title type="main">Кабала святош (Мольер)</title>
+        <title type="main" xml:lang="eng">The Cabal of Hypocrites (Molière)</title>
+        <title type="sub">Драма в четырех действиях</title>
+        <title type="sub" xml:lang="eng">A Drama in Four Acts</title>
         <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
       </titleStmt>
       <publicationStmt>
@@ -49,99 +49,99 @@
         <listPerson>
           <person xml:id="moler" sex="MALE">
             <persName>Мольер</persName>
-            <persName xml:lang="de">Molʹer</persName>
+            <persName xml:lang="ger">Molʹer</persName>
           </person>
           <person xml:id="buton" sex="MALE">
             <persName>Бутон</persName>
-            <persName xml:lang="de">Buton</persName>
+            <persName xml:lang="ger">Buton</persName>
           </person>
           <person xml:id="dju_kruazi" sex="MALE">
             <persName>Дю Круази</persName>
-            <persName xml:lang="de">Dû Kruazi</persName>
+            <persName xml:lang="ger">Dû Kruazi</persName>
           </person>
           <person xml:id="sufler" sex="MALE">
             <persName>Суфлер</persName>
-            <persName xml:lang="de">Souffleur</persName>
+            <persName xml:lang="ger">Souffleur</persName>
           </person>
           <person xml:id="madlena" sex="FEMALE">
             <persName>Мадлена</persName>
-            <persName xml:lang="de">Madlena</persName>
+            <persName xml:lang="ger">Madlena</persName>
           </person>
           <person xml:id="sharlatan" sex="MALE">
             <persName>Шарлатан</persName>
-            <persName xml:lang="de">Scharlatan</persName>
+            <persName xml:lang="ger">Scharlatan</persName>
           </person>
           <person xml:id="ljudovik" sex="MALE">
             <persName>Людовик</persName>
-            <persName xml:lang="de">Lûdovik</persName>
+            <persName xml:lang="ger">Lûdovik</persName>
           </person>
           <person xml:id="rival" sex="FEMALE">
             <persName>Риваль</persName>
-            <persName xml:lang="de">Rivalʹ</persName>
+            <persName xml:lang="ger">Rivalʹ</persName>
           </person>
           <person xml:id="lagranzh" sex="MALE">
             <persName>Лагранж</persName>
-            <persName xml:lang="de">Lagranž</persName>
+            <persName xml:lang="ger">Lagranž</persName>
           </person>
           <person xml:id="armanda" sex="FEMALE">
             <persName>Арманда</persName>
-            <persName xml:lang="de">Armanda</persName>
+            <persName xml:lang="ger">Armanda</persName>
           </person>
           <person xml:id="odnoglazyj" sex="MALE">
             <persName>Одноглазый</persName>
-            <persName xml:lang="de">Einäugiger</persName>
+            <persName xml:lang="ger">Einäugiger</persName>
           </person>
           <person xml:id="muarron" sex="MALE">
             <persName>Муаррон</persName>
-            <persName xml:lang="de">Muarron</persName>
+            <persName xml:lang="ger">Muarron</persName>
           </person>
           <person xml:id="de_lessak" sex="MALE">
             <persName>Де Лессак</persName>
-            <persName xml:lang="de">De Lessak</persName>
+            <persName xml:lang="ger">De Lessak</persName>
           </person>
           <person xml:id="pridvornye" sex="MALE">
             <persName>Придворные</persName>
-            <persName xml:lang="de">Höflinge</persName>
+            <persName xml:lang="ger">Höflinge</persName>
           </person>
           <person xml:id="spravedlivyj_sapozhnik" sex="MALE">
             <persName>Справедливый сапожник</persName>
-            <persName xml:lang="de">Gerechter Schuster</persName>
+            <persName xml:lang="ger">Gerechter Schuster</persName>
           </person>
           <person xml:id="sharron" sex="MALE">
             <persName>Шаррон</persName>
-            <persName xml:lang="de">Šarron</persName>
+            <persName xml:lang="ger">Šarron</persName>
           </person>
           <person xml:id="varfolomej" sex="MALE">
             <persName>Варфоломей</persName>
-            <persName xml:lang="de">Varfolomej</persName>
+            <persName xml:lang="ger">Varfolomej</persName>
           </person>
           <person xml:id="brat_vernost" sex="MALE">
             <persName>Брат Верность</persName>
-            <persName xml:lang="de">Bruder Treue</persName>
+            <persName xml:lang="ger">Bruder Treue</persName>
           </person>
           <person xml:id="brat_sila" sex="MALE">
             <persName>Брат Сила</persName>
-            <persName xml:lang="de">Bruder Kraft</persName>
+            <persName xml:lang="ger">Bruder Kraft</persName>
           </person>
           <person xml:id="neznakomka_v_maske" sex="FEMALE">
             <persName>Незнакомка в маске</persName>
-            <persName xml:lang="de">Maskierte Unbekannte</persName>
+            <persName xml:lang="ger">Maskierte Unbekannte</persName>
           </person>
           <person xml:id="chleny_kabaly" sex="UNKNOWN">
             <persName>Члены Кабалы</persName>
-            <persName xml:lang="de">Mitglieder der Kabele</persName>
+            <persName xml:lang="ger">Mitglieder der Kabele</persName>
           </person>
           <person xml:id="rene" sex="FEMALE">
             <persName>Ренэ</persName>
-            <persName xml:lang="de">Renè</persName>
+            <persName xml:lang="ger">Renè</persName>
           </person>
           <person xml:id="hor_vrachej" sex="MALE">
             <persName>Хор врачей</persName>
-            <persName xml:lang="de">Chor der Ärzte</persName>
+            <persName xml:lang="ger">Chor der Ärzte</persName>
           </person>
           <person xml:id="monashka" sex="FEMALE">
             <persName>Монашка</persName>
-            <persName xml:lang="de">Nonne</persName>
+            <persName xml:lang="ger">Nonne</persName>
           </person>
         </listPerson>
       </particDesc>

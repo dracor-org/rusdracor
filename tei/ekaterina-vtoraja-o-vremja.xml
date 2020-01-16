@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">О время!</title>
-        <title type="main" xml:lang="en">Oh, Time!</title>
-        <title type="sub" xml:lang="ru">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
+        <title type="main">О время!</title>
+        <title type="main" xml:lang="eng">Oh, Time!</title>
+        <title type="sub">Комедия в трех действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
         <author key="wikidata:Q36450">Екатерина II</author>
       </titleStmt>
       <publicationStmt>

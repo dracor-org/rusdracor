@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Закат</title>
-        <title type="main" xml:lang="en">Sunset</title>
-        <title type="sub" xml:lang="ru">Пьеса в 8 сценах</title>
-        <title type="sub" xml:lang="en">A Play in Eight Scenes</title>
+        <title type="main">Закат</title>
+        <title type="main" xml:lang="eng">Sunset</title>
+        <title type="sub">Пьеса в 8 сценах</title>
+        <title type="sub" xml:lang="eng">A Play in Eight Scenes</title>
         <author key="wikidata:Q49080">Бабель, Исаак Эммануилович</author>
       </titleStmt>
       <publicationStmt>
@@ -45,189 +45,189 @@
         <listPerson>
           <person xml:id="arie_leib" sex="MALE">
             <persName>Арье-Лейб</persName>
-            <persName xml:lang="en">Arye-Leib</persName>
-            <persName xml:lang="de">Arje-Lejb</persName>
+            <persName xml:lang="eng">Arye-Leib</persName>
+            <persName xml:lang="ger">Arje-Lejb</persName>
           </person>
           <person xml:id="lyovka" sex="MALE">
             <persName>Лёвка</persName>
-            <persName xml:lang="en">Lyovka</persName>
-            <persName xml:lang="de">Ljowka</persName>
+            <persName xml:lang="eng">Lyovka</persName>
+            <persName xml:lang="ger">Ljowka</persName>
           </person>
           <person xml:id="dvoyra" sex="FEMALE">
             <persName>Двойра</persName>
-            <persName xml:lang="en">Dvoira</persName>
-            <persName xml:lang="de">Dwojra</persName>
+            <persName xml:lang="eng">Dvoira</persName>
+            <persName xml:lang="ger">Dwojra</persName>
           </person>
           <person xml:id="nekhama" sex="FEMALE">
             <persName>Нехама</persName>
-            <persName xml:lang="en">Nekhama</persName>
-            <persName xml:lang="de">Nechama</persName>
+            <persName xml:lang="eng">Nekhama</persName>
+            <persName xml:lang="ger">Nechama</persName>
           </person>
           <person xml:id="benya" sex="MALE">
             <persName>Беня</persName>
-            <persName xml:lang="en">Benya</persName>
-            <persName xml:lang="de">Benja</persName>
+            <persName xml:lang="eng">Benya</persName>
+            <persName xml:lang="ger">Benja</persName>
           </person>
           <person xml:id="boyarskiy" sex="MALE">
             <persName>Мосье Боярский</persName>
-            <persName xml:lang="en">Monsieur Lazar Boyarsky</persName>
-            <persName xml:lang="de">Monsieur Bojarskij</persName>
+            <persName xml:lang="eng">Monsieur Lazar Boyarsky</persName>
+            <persName xml:lang="ger">Monsieur Bojarskij</persName>
           </person>
           <person xml:id="mendel" sex="MALE">
             <persName>Мендель Крик</persName>
-            <persName xml:lang="en">Mendel Krik</persName>
-            <persName xml:lang="de">Mendel Krik</persName>
+            <persName xml:lang="eng">Mendel Krik</persName>
+            <persName xml:lang="ger">Mendel Krik</persName>
           </person>
           <person xml:id="nikifor" sex="MALE">
             <persName>Никифор</persName>
-            <persName xml:lang="en">Nikifor</persName>
-            <persName xml:lang="de">Nikifor</persName>
+            <persName xml:lang="eng">Nikifor</persName>
+            <persName xml:lang="ger">Nikifor</persName>
           </person>
           <person xml:id="mitya" sex="MALE">
             <persName>Митя</persName>
-            <persName xml:lang="en">Mitya</persName>
-            <persName xml:lang="de">Mitja</persName>
+            <persName xml:lang="eng">Mitya</persName>
+            <persName xml:lang="ger">Mitja</persName>
           </person>
           <person xml:id="ryabtsov" sex="MALE">
             <persName>Рябцов</persName>
-            <persName xml:lang="en">Ryabtsov</persName>
-            <persName xml:lang="de">Rjabzow</persName>
+            <persName xml:lang="eng">Ryabtsov</persName>
+            <persName xml:lang="ger">Rjabzow</persName>
           </person>
           <person xml:id="urusov" sex="MALE">
             <persName>Урусов</persName>
-            <persName xml:lang="en">Urusov</persName>
-            <persName xml:lang="de">Urussow</persName>
+            <persName xml:lang="eng">Urusov</persName>
+            <persName xml:lang="ger">Urussow</persName>
           </person>
           <person xml:id="potapovna" sex="FEMALE">
             <persName>Евдокия Потаповна Холоденко</persName>
-            <persName xml:lang="en">Evdokiya Potapovna Kholodenko</persName>
-            <persName xml:lang="de">Jewdokija Potapowna Cholodenko</persName>
+            <persName xml:lang="eng">Evdokiya Potapovna Kholodenko</persName>
+            <persName xml:lang="ger">Jewdokija Potapowna Cholodenko</persName>
           </person>
           <person xml:id="golos_iz_traktira" sex="UNKNOWN">
             <persName>Голос из трактира</persName>
-            <persName xml:lang="en">A Voice from the Tavern</persName>
-            <persName xml:lang="de">Stimme in der Gaststube</persName>
+            <persName xml:lang="eng">A Voice from the Tavern</persName>
+            <persName xml:lang="ger">Stimme in der Gaststube</persName>
           </person>
           <person xml:id="pyatirubel" sex="MALE">
             <persName>Иван Пятирубель</persName>
-            <persName xml:lang="en">Ivan Pyatirubel</persName>
-            <persName xml:lang="de">Iwan Pjatirubel</persName>
+            <persName xml:lang="eng">Ivan Pyatirubel</persName>
+            <persName xml:lang="ger">Iwan Pjatirubel</persName>
           </person>
           <person xml:id="slepoi_zapevala" sex="MALE">
             <persName>Слепой</persName>
             <persName type="variant">Запевала</persName>
-            <persName xml:lang="en">The Blind Man (Lead Singer)</persName>
-            <persName xml:lang="de">Der Blinde (Vorsänger)</persName>
+            <persName xml:lang="eng">The Blind Man (Lead Singer)</persName>
+            <persName xml:lang="ger">Der Blinde (Vorsänger)</persName>
           </person>
           <personGrp xml:id="sleptsy" sex="MALE">
             <name>Слепцы</name>
-            <name xml:lang="en">The Blind Men</name>
-            <persName xml:lang="de">Die Blinden</persName>
+            <name xml:lang="eng">The Blind Men</name>
+            <persName xml:lang="ger">Die Blinden</persName>
           </personGrp>
           <personGrp xml:id="golosa_iz_traktira" sex="UNKNOWN">
             <name>Голоса из трактира</name>
-            <name xml:lang="en">Voices from the Tavern</name>
-            <persName xml:lang="de">Stimmen in der Gaststube</persName>
+            <name xml:lang="eng">Voices from the Tavern</name>
+            <persName xml:lang="ger">Stimmen in der Gaststube</persName>
           </personGrp>
           <person xml:id="matros" sex="MALE">
             <persName>Матрос</persName>
-            <persName xml:lang="en">Sailor</persName>
-            <persName xml:lang="de">Matrose</persName>
+            <persName xml:lang="eng">Sailor</persName>
+            <persName xml:lang="ger">Matrose</persName>
           </person>
           <person xml:id="fomin" sex="MALE">
             <persName>Фомин</persName>
-            <persName xml:lang="en">Fomin</persName>
-            <persName xml:lang="de">Fomin</persName>
+            <persName xml:lang="eng">Fomin</persName>
+            <persName xml:lang="ger">Fomin</persName>
           </person>
           <person xml:id="golos_sosedki" sex="FEMALE">
             <persName>Голос соседки</persName>
-            <persName xml:lang="en">Neighbor's Voice</persName>
-            <persName xml:lang="de">Stimme der Nachbarin</persName>
+            <persName xml:lang="eng">Neighbor's Voice</persName>
+            <persName xml:lang="ger">Stimme der Nachbarin</persName>
           </person>
           <person xml:id="marusya" sex="FEMALE">
             <persName>Маруся</persName>
-            <persName xml:lang="en">Marusia</persName>
-            <persName xml:lang="de">Marusja</persName>
+            <persName xml:lang="eng">Marusia</persName>
+            <persName xml:lang="ger">Marusja</persName>
           </person>
           <person xml:id="kantor" sex="MALE">
             <persName>Кантор Цвибак</persName>
-            <persName xml:lang="en">Cantor Zwieback</persName>
-            <persName xml:lang="de">Kantor Zwieback</persName>
+            <persName xml:lang="eng">Cantor Zwieback</persName>
+            <persName xml:lang="ger">Kantor Zwieback</persName>
           </person>
           <person xml:id="pervyy_evrey" sex="MALE">
             <persName>Первый еврей</persName>
-            <persName xml:lang="en">First Jew</persName>
-            <persName xml:lang="de">Erster Jude</persName>
+            <persName xml:lang="eng">First Jew</persName>
+            <persName xml:lang="ger">Erster Jude</persName>
           </person>
           <person xml:id="vtoroy_evrey" sex="MALE">
             <persName>Второй еврей</persName>
-            <persName xml:lang="en">Second Jew</persName>
-            <persName xml:lang="de">Zweiter Jude</persName>
+            <persName xml:lang="eng">Second Jew</persName>
+            <persName xml:lang="ger">Zweiter Jude</persName>
           </person>
           <person xml:id="senka" sex="MALE">
             <persName>Сенька Топун</persName>
-            <persName xml:lang="en">Senka Topun</persName>
-            <persName xml:lang="de">Senjka Topun</persName>
+            <persName xml:lang="eng">Senka Topun</persName>
+            <persName xml:lang="ger">Senjka Topun</persName>
           </person>
           <person xml:id="tolstyak" sex="MALE">
             <persName>Толстяк с пушистыми щёками</persName>
-            <persName xml:lang="en">The Fat Man with the Flushed Cheeks</persName>
-            <persName xml:lang="de">Der Dickwanst</persName>
+            <persName xml:lang="eng">The Fat Man with the Flushed Cheeks</persName>
+            <persName xml:lang="ger">Der Dickwanst</persName>
           </person>
           <person xml:id="malchik" sex="MALE">
             <persName>Мальчик</persName>
-            <persName xml:lang="en">The Boy</persName>
-            <persName xml:lang="de">Knabe</persName>
+            <persName xml:lang="eng">The Boy</persName>
+            <persName xml:lang="ger">Knabe</persName>
           </person>
           <person xml:id="bobrinets" sex="MALE">
             <persName>Бобринец</persName>
-            <persName xml:lang="en">Bobrinets</persName>
-            <persName xml:lang="de">Bobrinez</persName>
+            <persName xml:lang="eng">Bobrinets</persName>
+            <persName xml:lang="ger">Bobrinez</persName>
           </person>
           <person xml:id="semyon" sex="MALE">
             <persName>Семён</persName>
-            <persName xml:lang="en">Semyon</persName>
-            <persName xml:lang="de">Semjon</persName>
+            <persName xml:lang="eng">Semyon</persName>
+            <persName xml:lang="ger">Semjon</persName>
           </person>
           <person xml:id="madam_popyatnik" sex="FEMALE">
             <persName>Мадам Попятник</persName>
-            <persName xml:lang="en">Madame Popyatnik</persName>
-            <persName xml:lang="de">Madame Popjatnik</persName>
+            <persName xml:lang="eng">Madame Popyatnik</persName>
+            <persName xml:lang="ger">Madame Popjatnik</persName>
           </person>
           <person xml:id="mayor" sex="MALE">
             <persName>Мирон Попятник (Майор)</persName>
-            <persName xml:lang="en">Miron Popyatnik (Major)</persName>
-            <persName xml:lang="de">Miron Popjatnik (Major)</persName>
+            <persName xml:lang="eng">Miron Popyatnik (Major)</persName>
+            <persName xml:lang="ger">Miron Popjatnik (Major)</persName>
           </person>
           <person xml:id="klasha" sex="FEMALE">
             <persName>Клаша Зубарева</persName>
-            <persName xml:lang="en">Klasha Zubaryeva</persName>
-            <persName xml:lang="de">Klascha Subarewa</persName>
+            <persName xml:lang="eng">Klasha Zubaryeva</persName>
+            <persName xml:lang="ger">Klascha Subarewa</persName>
           </person>
           <person xml:id="paren_s_tolstymi_nogami" sex="MALE">
             <persName>Парень с толстыми ногами</persName>
-            <persName xml:lang="en">Thick-Legged Young Man</persName>
-            <persName xml:lang="de">Dickbeiniger Bursche</persName>
+            <persName xml:lang="eng">Thick-Legged Young Man</persName>
+            <persName xml:lang="ger">Dickbeiniger Bursche</persName>
           </person>
           <person xml:id="prasol" sex="MALE">
             <persName>Прасол</persName>
-            <persName xml:lang="en">Cattle Dealer</persName>
-            <persName xml:lang="de">Viehhändler</persName>
+            <persName xml:lang="eng">Cattle Dealer</persName>
+            <persName xml:lang="ger">Viehhändler</persName>
           </person>
           <person xml:id="madam_vayner" sex="FEMALE">
             <persName>Мадам Вайнер</persName>
-            <persName xml:lang="en">Madame Weiner</persName>
-            <persName xml:lang="de">Madame Wajner</persName>
+            <persName xml:lang="eng">Madame Weiner</persName>
+            <persName xml:lang="ger">Madame Wajner</persName>
           </person>
           <person xml:id="zharia" sex="MALE">
             <persName>Бен Зхарья</persName>
-            <persName xml:lang="en">Ben Zkharia</persName>
-            <persName xml:lang="de">Ben Zacharja</persName>
+            <persName xml:lang="eng">Ben Zkharia</persName>
+            <persName xml:lang="ger">Ben Zacharja</persName>
           </person>
           <person xml:id="vayner" sex="MALE">
             <persName>Вайнер</persName>
-            <persName xml:lang="en">Weiner</persName>
-            <persName xml:lang="de">Wajner</persName>
+            <persName xml:lang="eng">Weiner</persName>
+            <persName xml:lang="ger">Wajner</persName>
           </person>
         </listPerson>
       </particDesc>

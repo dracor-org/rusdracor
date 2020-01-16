@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Дмитрий Самозванец и Василий Шуйский</title>
-        <title type="main" xml:lang="en">Dmitry the Pretender and Vasily Shuisky</title>
-        <title type="sub" xml:lang="ru">Драматическая хроника в двух частях</title>
-        <title type="sub" xml:lang="en">Dramatic Chronicle in Two Parts</title>
+        <title type="main">Дмитрий Самозванец и Василий Шуйский</title>
+        <title type="main" xml:lang="eng">Dmitry the Pretender and Vasily Shuisky</title>
+        <title type="sub">Драматическая хроника в двух частях</title>
+        <title type="sub" xml:lang="eng">Dramatic Chronicle in Two Parts</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Фантазия</title>
-        <title type="main" xml:lang="en">Fantasy</title>
-        <title type="sub" xml:lang="ru">Комедия в одном действии, соч. Y и Z</title>
-        <title type="sub" xml:lang="en">A Comedy in One Act</title>
+        <title type="main">Фантазия</title>
+        <title type="main" xml:lang="eng">Fantasy</title>
+        <title type="sub">Комедия в одном действии, соч. Y и Z</title>
+        <title type="sub" xml:lang="eng">A Comedy in One Act</title>
         <author key="wikidata:Q1784989">Прутков, Козьма</author>
       </titleStmt>
       <publicationStmt>
@@ -47,56 +47,56 @@
         <listPerson>
           <person xml:id="kutilo-zavaldajskij" sex="MALE">
             <persName>Кутило-Завалдайский</persName>
-            <persName xml:lang="en">Kutilo-Zavaldaisky</persName>
+            <persName xml:lang="eng">Kutilo-Zavaldaisky</persName>
           </person>
           <person xml:id="razorvaki" sex="MALE">
             <persName>Разорваки</persName>
-            <persName xml:lang="en">Razorvaki</persName>
+            <persName xml:lang="eng">Razorvaki</persName>
           </person>
           <person xml:id="knyaz_batog-batyev" sex="MALE">
             <persName>Кн. Батог-Батыев</persName>
-            <persName xml:lang="en">Prince Batog-Batyev</persName>
+            <persName xml:lang="eng">Prince Batog-Batyev</persName>
           </person>
           <person xml:id="milovidov" sex="MALE">
             <persName>Миловидов</persName>
-            <persName xml:lang="en">Milovidov</persName>
+            <persName xml:lang="eng">Milovidov</persName>
           </person>
           <person xml:id="bespardonnyj" sex="MALE">
             <persName>Беспардонный</persName>
-            <persName xml:lang="en">Bespardonny</persName>
+            <persName xml:lang="eng">Bespardonny</persName>
           </person>
           <person xml:id="libental" sex="MALE">
             <persName>Либенталь</persName>
-            <persName xml:lang="en">Liebenthal</persName>
+            <persName xml:lang="eng">Liebenthal</persName>
           </person>
           <person xml:id="chupurlina" sex="FEMALE">
             <persName>Чупурлина</persName>
-            <persName xml:lang="en">Chupurlina</persName>
+            <persName xml:lang="eng">Chupurlina</persName>
           </person>
           <person xml:id="lizaveta_platonovna" sex="FEMALE">
             <persName>Лизавета Платоновна</persName>
-            <persName xml:lang="en">Lizaveta Platonovna</persName>
+            <persName xml:lang="eng">Lizaveta Platonovna</persName>
           </person>
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="en">A Footman</persName>
+            <persName xml:lang="eng">A Footman</persName>
           </person>
           <person xml:id="gornichnaya" sex="FEMALE">
             <persName>Горничная</persName>
-            <persName xml:lang="en">A Parlor-Maid</persName>
+            <persName xml:lang="eng">A Parlor-Maid</persName>
           </person>
           <person xml:id="akulina" sex="FEMALE">
             <persName>Акулина</persName>
-            <persName xml:lang="en">Akulina</persName>
+            <persName xml:lang="eng">Akulina</persName>
           </person>
           <person xml:id="povar" sex="MALE">
             <persName>Повар</persName>
-            <persName xml:lang="en">Cook</persName>
+            <persName xml:lang="eng">Cook</persName>
           </person>
           <personGrp xml:id="dvornya" sex="UNKNOWN">
             <name>Дворня</name>
             <name type="variant">Вся прислуга</name>
-            <name xml:lang="en">All the Servants</name>
+            <name xml:lang="eng">All the Servants</name>
           </personGrp>
         </listPerson>
       </particDesc>

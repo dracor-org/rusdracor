@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Вечер в Сорренте</title>
-        <title type="main" xml:lang="en">An Evening in Sorrento</title>
-        <title type="sub" xml:lang="ru">Сцена</title>
-        <title type="sub" xml:lang="en">Scene</title>
+        <title type="main">Вечер в Сорренте</title>
+        <title type="main" xml:lang="eng">An Evening in Sorrento</title>
+        <title type="sub">Сцена</title>
+        <title type="sub" xml:lang="eng">Scene</title>
         <author key="wikidata:Q42831">Тургенев, Иван Сергеевич</author>
       </titleStmt>
       <publicationStmt>
@@ -58,31 +58,31 @@
         <listPerson>
           <person xml:id="avakov" sex="MALE">
             <persName>Аваков</persName>
-            <persName xml:lang="de">Awakow</persName>
+            <persName xml:lang="ger">Awakow</persName>
           </person>
           <person xml:id="sluga" sex="MALE">
             <persName>Слуга</persName>
-            <persName xml:lang="de">Kellner</persName>
+            <persName xml:lang="ger">Kellner</persName>
           </person>
           <person xml:id="mr_popelin" sex="MALE">
             <persName>M-r Рореlin</persName>
-            <persName xml:lang="de">Monsieur Popelin</persName>
+            <persName xml:lang="ger">Monsieur Popelin</persName>
           </person>
           <person xml:id="nadezhda_pavlovna" sex="FEMALE">
             <persName>Надежда Павловна</persName>
-            <persName xml:lang="de">Nadjeshda Pawlowna</persName>
+            <persName xml:lang="ger">Nadjeshda Pawlowna</persName>
           </person>
           <person xml:id="belskij" sex="MALE">
             <persName>Бельский</persName>
-            <persName xml:lang="de">Bjelskij</persName>
+            <persName xml:lang="ger">Bjelskij</persName>
           </person>
           <person xml:id="marija_petrovna" sex="FEMALE">
             <persName>Мария Петровна</persName>
-            <persName xml:lang="de">Marja Petrowna</persName>
+            <persName xml:lang="ger">Marja Petrowna</persName>
           </person>
           <person xml:id="golos_pevtsa" sex="MALE">
             <persName>Голос певца</persName>
-            <persName xml:lang="de">Stimme des Sängers</persName>
+            <persName xml:lang="ger">Stimme des Sängers</persName>
           </person>
         </listPerson>
       </particDesc>

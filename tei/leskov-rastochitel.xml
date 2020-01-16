@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Расточитель</title>
-        <title type="main" xml:lang="en">The Spendthrift</title>
-        <title type="sub" xml:lang="ru">Драма в пяти действиях</title>
-        <title type="sub" xml:lang="en">Drama in Five Acts</title>
+        <title type="main">Расточитель</title>
+        <title type="main" xml:lang="eng">The Spendthrift</title>
+        <title type="sub">Драма в пяти действиях</title>
+        <title type="sub" xml:lang="eng">Drama in Five Acts</title>
         <author key="wikidata:Q209004">Лесков, Николай Семенович</author>
       </titleStmt>
       <publicationStmt>

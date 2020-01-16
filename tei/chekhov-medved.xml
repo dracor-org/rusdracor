@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Медведь</title>
-        <title type="main" xml:lang="en">The Bear</title>
-        <title type="sub" xml:lang="ru">Шутка в одном действии</title>
-        <title type="sub" xml:lang="en">A Joke in One Act</title>
+        <title type="main">Медведь</title>
+        <title type="main" xml:lang="eng">The Bear</title>
+        <title type="sub">Шутка в одном действии</title>
+        <title type="sub" xml:lang="eng">A Joke in One Act</title>
         <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
@@ -52,18 +52,18 @@
         <listPerson>
           <person xml:id="Luka" sex="MALE">
             <persName>Лука</persName>
-            <persName xml:lang="en">Luka</persName>
-            <persName xml:lang="de">Luka</persName>
+            <persName xml:lang="eng">Luka</persName>
+            <persName xml:lang="ger">Luka</persName>
           </person>
           <person xml:id="Popova" sex="FEMALE">
             <persName>Попова</persName>
-            <persName xml:lang="en">Popova</persName>
-            <persName xml:lang="de">Popova</persName>
+            <persName xml:lang="eng">Popova</persName>
+            <persName xml:lang="ger">Popova</persName>
           </person>
           <person xml:id="Smirnov" sex="MALE">
             <persName>Смирнов</persName>
-            <persName xml:lang="en">Smirnov</persName>
-            <persName xml:lang="de">Smirnov</persName>
+            <persName xml:lang="eng">Smirnov</persName>
+            <persName xml:lang="ger">Smirnov</persName>
           </person>
         </listPerson>
       </particDesc>

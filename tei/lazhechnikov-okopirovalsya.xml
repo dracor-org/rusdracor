@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Окопировался</title>
-        <title type="main" xml:lang="en">Okopirovalsya</title>
-        <title type="sub" xml:lang="ru">Комедия в трех актах</title>
-        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
+        <title type="main">Окопировался</title>
+        <title type="main" xml:lang="eng">Okopirovalsya</title>
+        <title type="sub">Комедия в трех актах</title>
+        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
         <author key="wikidata:Q922027">Лажечников, Иван Иванович</author>
       </titleStmt>
       <publicationStmt>

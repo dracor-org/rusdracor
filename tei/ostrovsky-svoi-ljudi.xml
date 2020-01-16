@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Свои люди – сочтемся</title>
-        <title type="main" xml:lang="en">It's a Family Affair – We'll Settle It Ourselves</title>
-        <title type="sub" xml:lang="ru">Комедия в четырех действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Four Acts</title>
+        <title type="main">Свои люди – сочтемся</title>
+        <title type="main" xml:lang="eng">It's a Family Affair – We'll Settle It Ourselves</title>
+        <title type="sub">Комедия в четырех действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Four Acts</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>

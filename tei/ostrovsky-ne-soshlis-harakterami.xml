@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Не сошлись характерами!</title>
-        <title type="main" xml:lang="en">Incompatibility of Temper</title>
-        <title type="sub" xml:lang="ru">Картины московской жизни</title>
-        <title type="sub" xml:lang="en">Pictures from Moscow Life</title>
+        <title type="main">Не сошлись характерами!</title>
+        <title type="main" xml:lang="eng">Incompatibility of Temper</title>
+        <title type="sub">Картины московской жизни</title>
+        <title type="sub" xml:lang="eng">Pictures from Moscow Life</title>
         <author key="Wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Menschen und Leidenschaften</title>
-        <title type="main" xml:lang="en">People and Passions</title>
-        <title type="sub" xml:lang="ru">Ein Trauerspiel</title>
-        <title type="sub" xml:lang="en">A Tragedy</title>
+        <title type="main">Menschen und Leidenschaften</title>
+        <title type="main" xml:lang="eng">People and Passions</title>
+        <title type="sub">Ein Trauerspiel</title>
+        <title type="sub" xml:lang="eng">A Tragedy</title>
         <author key="wikidata:Q46599">Лермонтов, Михаил Юрьевич</author>
       </titleStmt>
       <publicationStmt>

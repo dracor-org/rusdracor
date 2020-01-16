@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Корион</title>
-        <title type="main" xml:lang="en">Korion</title>
-        <title type="sub" xml:lang="ru">Комедия в трех актах</title>
-        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
+        <title type="main">Корион</title>
+        <title type="main" xml:lang="eng">Korion</title>
+        <title type="sub">Комедия в трех актах</title>
+        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
         <author key="wikidata:Q315885">Фонвизин, Денис Иванович</author>
       </titleStmt>
       <publicationStmt>
@@ -47,23 +47,23 @@
         <listPerson>
           <person xml:id="andrej" sex="MALE">
             <persName>Андрей</persName>
-            <persName xml:lang="en">Andrei</persName>
+            <persName xml:lang="eng">Andrei</persName>
           </person>
           <person xml:id="krestjanin" sex="MALE">
             <persName>Крестянин</persName>
-            <persName xml:lang="en">A peasant</persName>
+            <persName xml:lang="eng">A peasant</persName>
           </person>
           <person xml:id="korion" sex="MALE">
             <persName>Корион</persName>
-            <persName xml:lang="en">Korion</persName>
+            <persName xml:lang="eng">Korion</persName>
           </person>
           <person xml:id="menandr" sex="MALE">
             <persName>Менандр</persName>
-            <persName xml:lang="en">Menander</persName>
+            <persName xml:lang="eng">Menander</persName>
           </person>
           <person xml:id="zenovija" sex="FEMALE">
             <persName>Зеновия</persName>
-            <persName xml:lang="en">Zenovia</persName>
+            <persName xml:lang="eng">Zenovia</persName>
           </person>
         </listPerson>
       </particDesc>

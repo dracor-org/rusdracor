@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Мысль</title>
-        <title type="main" xml:lang="en">A Thought</title>
-        <title type="sub" xml:lang="ru">Современная трагедия в трех действиях и шести
+        <title type="main">Мысль</title>
+        <title type="main" xml:lang="eng">A Thought</title>
+        <title type="sub">Современная трагедия в трех действиях и шести
           картинах</title>
-        <title type="sub" xml:lang="en">A Modern Tragedy in Three Acts and Six Scenes</title>
+        <title type="sub" xml:lang="eng">A Modern Tragedy in Three Acts and Six Scenes</title>
         <author key="wikidata:Q310866">Андреев, Леонид Николаевич</author>
       </titleStmt>
       <publicationStmt>

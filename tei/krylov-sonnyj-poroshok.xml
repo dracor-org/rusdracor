@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Сонный порошок или похищенная крестьянка</title>
-        <title type="main" xml:lang="en">The Sleeping Powder or the Abducted Peasant Woman</title>
-        <title type="sub" xml:lang="ru">Опера в трех действиях</title>
-        <title type="sub" xml:lang="en">Opera in Three Acts</title>
+        <title type="main">Сонный порошок или похищенная крестьянка</title>
+        <title type="main" xml:lang="eng">The Sleeping Powder or the Abducted Peasant Woman</title>
+        <title type="sub">Опера в трех действиях</title>
+        <title type="sub" xml:lang="eng">Opera in Three Acts</title>
         <author key="wikidata:Q191480">Крылов, Иван Андреевич</author>
       </titleStmt>
       <publicationStmt>

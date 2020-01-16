@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Волки и овцы</title>
-        <title type="main" xml:lang="en">Wolves and Sheep</title>
-        <title type="sub" xml:lang="ru">Комедия в пяти действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Five Acts</title>
+        <title type="main">Волки и овцы</title>
+        <title type="main" xml:lang="eng">Wolves and Sheep</title>
+        <title type="sub">Комедия в пяти действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Five Acts</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -126,31 +126,30 @@
     <body>
       <div type="act">
         <head>Действие первое</head>
-        <ab type="Dramatis_Personae">
-          <castList>
-            <head>Лица:</head>
-            <castItem>Меропия Давыдовна Мурзавецкая, девица лет 65-ти, помещица большого, но
-              расстроенного имения; особа, имеющая большую силу в губернии.</castItem>
-            <castItem>Аполлон Викторович Мурзавецкий, молодой человек лет 24-х, прапорщик в
-              отставке, племянник Мурзавецкой</castItem>
-            <castItem>Глафира Алексеевна, бедная девица, родственница Мурзавецкой.</castItem>
-            <castItem>Евлампия Николаевна Купавина, богатая молодая вдова.</castItem>
-            <castItem>Анфуса Тихоновна, ее тетка, старуха.</castItem>
-            <castItem>Вукол Наумович Чугунов, бывший член уездного суда, лет 60-ти.</castItem>
-            <castItem>Михаил Борисович Лыняев, богатый, ожиревший барин, лет под 50, почетный
-              мировой судья.</castItem>
-            <castGroup>
-              <castItem>Павлин Савельич, дворецкий</castItem>
-              <castItem>Влас, буфетчик</castItem>
-              <castItem>Корнилий, лакей</castItem>
-              <castItem>Стропилин, подрядчик.</castItem>
-              <roleDesc>Мурзавецкой.</roleDesc>
-            </castGroup>
-            <castItem>Маляр.</castItem>
-            <castItem>Столяр.</castItem>
-            <castItem>Крестьянин, бывший староста Мурзавецкой.</castItem>
-            <castItem>Мастеровые, крестьяне и приживалки Мурзавецкой.</castItem>
-          </castList></ab>
+        <castList>
+          <head>Лица:</head>
+          <castItem>Меропия Давыдовна Мурзавецкая, девица лет 65-ти, помещица большого, но
+            расстроенного имения; особа, имеющая большую силу в губернии.</castItem>
+          <castItem>Аполлон Викторович Мурзавецкий, молодой человек лет 24-х, прапорщик в отставке,
+            племянник Мурзавецкой</castItem>
+          <castItem>Глафира Алексеевна, бедная девица, родственница Мурзавецкой.</castItem>
+          <castItem>Евлампия Николаевна Купавина, богатая молодая вдова.</castItem>
+          <castItem>Анфуса Тихоновна, ее тетка, старуха.</castItem>
+          <castItem>Вукол Наумович Чугунов, бывший член уездного суда, лет 60-ти.</castItem>
+          <castItem>Михаил Борисович Лыняев, богатый, ожиревший барин, лет под 50, почетный мировой
+            судья.</castItem>
+          <castGroup>
+            <castItem>Павлин Савельич, дворецкий</castItem>
+            <castItem>Влас, буфетчик</castItem>
+            <castItem>Корнилий, лакей</castItem>
+            <castItem>Стропилин, подрядчик.</castItem>
+            <roleDesc>Мурзавецкой.</roleDesc>
+          </castGroup>
+          <castItem>Маляр.</castItem>
+          <castItem>Столяр.</castItem>
+          <castItem>Крестьянин, бывший староста Мурзавецкой.</castItem>
+          <castItem>Мастеровые, крестьяне и приживалки Мурзавецкой.</castItem>
+        </castList>
         <stage>Действие в губернском городе, в доме Мурзавецкой.</stage>
         <stage>Зала, меблированная по-старинному, с правой стороны (от зрителей) три окна, в
           простенках узкие длинные зеркала с подзеркальниками. У первого окна ближе к авансцене,
@@ -2274,18 +2273,16 @@
       </div>
       <div type="act">
         <head>Действие второе</head>
-        <ab type="Dramatis_Personae">
-          <castList>
-            <head>Лица:</head>
-            <castItem>Купавина.</castItem>
-            <castItem>Анфуса.</castItem>
-            <castItem>Чугунов.</castItem>
-            <castItem>Лыняев.</castItem>
-            <castItem>Мурзавецкая.</castItem>
-            <castItem>Мурзавецкий.</castItem>
-            <castItem>Глафира.</castItem>
-          </castList>
-        </ab>
+        <castList>
+          <head>Лица:</head>
+          <castItem>Купавина.</castItem>
+          <castItem>Анфуса.</castItem>
+          <castItem>Чугунов.</castItem>
+          <castItem>Лыняев.</castItem>
+          <castItem>Мурзавецкая.</castItem>
+          <castItem>Мурзавецкий.</castItem>
+          <castItem>Глафира.</castItem>
+        </castList>
         <stage>Изящно меблированная комната в усадьбе Купавиной. Дамский письменный стол со всем
           прибором; в глубине растворенная дверь в залу, две двери по сторонам.</stage>
         <div type="scene">
@@ -3682,20 +3679,18 @@
       </div>
       <div type="act">
         <head>Действие третье</head>
-        <ab type="Dramatis_Personae">
-          <castList>
-            <head>Лица:</head>
-            <castItem>Купавина.</castItem>
-            <castItem>Глафира.</castItem>
-            <castItem>Анфуса.</castItem>
-            <castItem>Лыняев.</castItem>
-            <castItem>Мурзавецкий.</castItem>
-            <castItem>Чугунов.</castItem>
-            <castItem>Клавдий Горецкий, племянник Чугунова, красивый молодой человек, кудрявый, с
-              румяным, загорелым лицом; одет в легком летнем сюртуке, застегнутом на все пуговицы;
-              рубашка русская, цветная, без галстука; панталоны в сапоги.</castItem>
-          </castList>
-        </ab>
+        <castList>
+          <head>Лица:</head>
+          <castItem>Купавина.</castItem>
+          <castItem>Глафира.</castItem>
+          <castItem>Анфуса.</castItem>
+          <castItem>Лыняев.</castItem>
+          <castItem>Мурзавецкий.</castItem>
+          <castItem>Чугунов.</castItem>
+          <castItem>Клавдий Горецкий, племянник Чугунова, красивый молодой человек, кудрявый, с
+            румяным, загорелым лицом; одет в легком летнем сюртуке, застегнутом на все пуговицы;
+            рубашка русская, цветная, без галстука; панталоны в сапоги.</castItem>
+        </castList>
         <stage>Через всю сцену садовая решетка с калиткой посередине. У калитки скамья. За решеткой
           виден густой парк усадьбы Купавиной. Вечереет.</stage>
         <div type="scene">
@@ -5254,19 +5249,17 @@
       </div>
       <div type="act">
         <head>Действие четвертое</head>
-        <ab type="Dramatis_Personae">
-          <castList>
-            <head>Лица:</head>
-            <castItem>Купавина.</castItem>
-            <castItem>Глафира.</castItem>
-            <castItem>Анфуса.</castItem>
-            <castItem>Лыняев.</castItem>
-            <castItem>Василий Иванович Беркутов, помещик, сосед Купавиной; представительный мужчина,
-              средних лет, с лысиной, но очень живой и ловкий.</castItem>
-            <castItem>Горецкий.</castItem>
-            <castItem>Лакей Купавиной.</castItem>
-          </castList>
-        </ab>
+        <castList>
+          <head>Лица:</head>
+          <castItem>Купавина.</castItem>
+          <castItem>Глафира.</castItem>
+          <castItem>Анфуса.</castItem>
+          <castItem>Лыняев.</castItem>
+          <castItem>Василий Иванович Беркутов, помещик, сосед Купавиной; представительный мужчина,
+            средних лет, с лысиной, но очень живой и ловкий.</castItem>
+          <castItem>Горецкий.</castItem>
+          <castItem>Лакей Купавиной.</castItem>
+        </castList>
         <stage>Комната в азиатском вкусе в доме Купавиной, с одним выходом на террасу; стеклянная
           растворенная дверь с портьерами; по сторонам двери два больших окна, закрытые
           драпировками; по стенам и под окнами мягкие диваны. За балюстрадой террасы виден сад и за
@@ -6515,19 +6508,17 @@
       </div>
       <div type="act">
         <head>Действие пятое</head>
-        <ab type="Dramatis_Personae">
-          <castList>
-            <head>Лица:</head>
-            <castItem>Мурзавецкая.</castItem>
-            <castItem>Мурзавецкий.</castItem>
-            <castItem>Чугунов.</castItem>
-            <castItem>Беркутов.</castItem>
-            <castItem>Купавина Анфуса.</castItem>
-            <castItem>Глафира.</castItem>
-            <castItem>Лыняев.</castItem>
-            <castItem>Павлин.</castItem>
-          </castList>
-        </ab>
+        <castList>
+          <head>Лица:</head>
+          <castItem>Мурзавецкая.</castItem>
+          <castItem>Мурзавецкий.</castItem>
+          <castItem>Чугунов.</castItem>
+          <castItem>Беркутов.</castItem>
+          <castItem>Купавина Анфуса.</castItem>
+          <castItem>Глафира.</castItem>
+          <castItem>Лыняев.</castItem>
+          <castItem>Павлин.</castItem>
+        </castList>
         <stage>Декорация первого действия.</stage>
         <div type="scene">
           <head>Явление первое</head>

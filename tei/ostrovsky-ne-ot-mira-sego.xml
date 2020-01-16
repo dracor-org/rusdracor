@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Не от мира сего</title>
-        <title type="main" xml:lang="en">Not of This World</title>
-        <title type="sub" xml:lang="ru">Семейные сцены в 3 действиях</title>
-        <title type="sub" xml:lang="en">Family Scenes in Three Acts</title>
+        <title type="main">Не от мира сего</title>
+        <title type="main" xml:lang="eng">Not of This World</title>
+        <title type="sub">Семейные сцены в 3 действиях</title>
+        <title type="sub" xml:lang="eng">Family Scenes in Three Acts</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>

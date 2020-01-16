@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Старый друг лучше новых двух</title>
-        <title type="main" xml:lang="en">An Old Friend Is Better than Two New Ones</title>
-        <title type="sub" xml:lang="ru">Картины из московской жизни, в трех действиях</title>
-        <title type="sub" xml:lang="en">Pictures from Moscow Life, in Three Acts</title>
+        <title type="main">Старый друг лучше новых двух</title>
+        <title type="main" xml:lang="eng">An Old Friend Is Better than Two New Ones</title>
+        <title type="sub">Картины из московской жизни, в трех действиях</title>
+        <title type="sub" xml:lang="eng">Pictures from Moscow Life, in Three Acts</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -47,43 +47,43 @@
         <listPerson>
           <person xml:id="olenka" sex="FEMALE">
             <persName>Оленька</persName>
-            <persName xml:lang="de">Olinka</persName>
+            <persName xml:lang="ger">Olinka</persName>
           </person>
           <person xml:id="tatyana_nikonovna" sex="FEMALE">
             <persName>Татьяна Никоновна</persName>
-            <persName xml:lang="de">Tatjana Nikonowna</persName>
+            <persName xml:lang="ger">Tatjana Nikonowna</persName>
           </person>
           <person xml:id="pulheriya_andrevna" sex="FEMALE">
             <persName>Пульхерия Андревна</persName>
-            <persName xml:lang="de">Pulcheria Andrejewna</persName>
+            <persName xml:lang="ger">Pulcheria Andrejewna</persName>
           </person>
           <person xml:id="vasyutin" sex="MALE">
             <persName>Васютин</persName>
-            <persName xml:lang="de">Wassjutin</persName>
+            <persName xml:lang="ger">Wassjutin</persName>
           </person>
           <person xml:id="prohor_gavrilych" sex="MALE">
             <persName>Прохор Гаврилыч</persName>
-            <persName xml:lang="de">Prochor Gawrilytsch</persName>
+            <persName xml:lang="ger">Prochor Gawrilytsch</persName>
           </person>
           <person xml:id="orest" sex="MALE">
             <persName>Орест</persName>
-            <persName xml:lang="de">Orest</persName>
+            <persName xml:lang="ger">Orest</persName>
           </person>
           <person xml:id="anfisa_karpovna" sex="FEMALE">
             <persName>Анфиса Карповна</persName>
-            <persName xml:lang="de">Anfissa Karpowna</persName>
+            <persName xml:lang="ger">Anfissa Karpowna</persName>
           </person>
           <person xml:id="gavrila_prohorych" sex="MALE">
             <persName>Гаврила Прохорыч</persName>
-            <persName xml:lang="de">Gawrila Prochorytsch</persName>
+            <persName xml:lang="ger">Gawrila Prochorytsch</persName>
           </person>
           <person xml:id="kupec" sex="MALE">
             <persName>Купец</persName>
-            <persName xml:lang="de">Der Kaufmann</persName>
+            <persName xml:lang="ger">Der Kaufmann</persName>
           </person>
           <person xml:id="prositel" sex="MALE">
             <persName>Проситель</persName>
-            <persName xml:lang="de">Der Bittsteller</persName>
+            <persName xml:lang="ger">Der Bittsteller</persName>
           </person>
         </listPerson>
       </particDesc>

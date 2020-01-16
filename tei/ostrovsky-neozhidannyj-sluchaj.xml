@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Неожиданный случай</title>
-        <title type="main" xml:lang="en">An Unexpected Event</title>
-        <title type="sub" xml:lang="ru">Драматический этюд</title>
-        <title type="sub" xml:lang="en">A Dramatic Etude</title>
+        <title type="main">Неожиданный случай</title>
+        <title type="main" xml:lang="eng">An Unexpected Event</title>
+        <title type="sub">Драматический этюд</title>
+        <title type="sub" xml:lang="eng">A Dramatic Etude</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>

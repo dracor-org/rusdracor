@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Смерть Пазухина</title>
-        <title type="main" xml:lang="en">Pazukhin's Death</title>
-        <title type="sub" xml:lang="ru">Комедия в 4-х действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Four Acts</title>
+        <title type="main">Смерть Пазухина</title>
+        <title type="main" xml:lang="eng">Pazukhin's Death</title>
+        <title type="sub">Комедия в 4-х действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Four Acts</title>
         <author key="wikidata:Q211785">Салтыков-Щедрин, Михаил Евграфович</author>
       </titleStmt>
       <publicationStmt>
@@ -49,63 +49,63 @@
         <listPerson>
           <person xml:id="veleglasnyj" sex="MALE">
             <persName>Велегласный</persName>
-            <persName xml:lang="en">Veleglasny</persName>
+            <persName xml:lang="eng">Veleglasny</persName>
           </person>
           <person xml:id="mavra_grigorevna" sex="FEMALE">
             <persName>Мавра Григорьевна</persName>
-            <persName xml:lang="en">Mavra Grigoryevna</persName>
+            <persName xml:lang="eng">Mavra Grigoryevna</persName>
           </person>
           <person xml:id="vasilisa_parfentevna" sex="FEMALE">
             <persName>Василиса Парфентьевна</persName>
-            <persName xml:lang="en">Vasilisa Parfentyevna</persName>
+            <persName xml:lang="eng">Vasilisa Parfentyevna</persName>
           </person>
           <person xml:id="baev" sex="MALE">
             <persName>Баев</persName>
-            <persName xml:lang="en">Bayev</persName>
+            <persName xml:lang="eng">Bayev</persName>
           </person>
           <person xml:id="prokofij_ivanych" sex="MALE">
             <persName>Прокофий Иваныч</persName>
-            <persName xml:lang="en">Prokofy Ivanych</persName>
+            <persName xml:lang="eng">Prokofy Ivanych</persName>
           </person>
           <person xml:id="lobastov" sex="MALE">
             <persName>Лобастов</persName>
-            <persName xml:lang="en">Lobastov</persName>
+            <persName xml:lang="eng">Lobastov</persName>
           </person>
           <person xml:id="zhivnovskij" sex="MALE">
             <persName>Живновский</persName>
-            <persName xml:lang="en">Zhivnovsky</persName>
+            <persName xml:lang="eng">Zhivnovsky</persName>
           </person>
           <person xml:id="furnachev" sex="MALE">
             <persName>Фурначев</persName>
-            <persName xml:lang="en">Furnachyov</persName>
+            <persName xml:lang="eng">Furnachyov</persName>
           </person>
           <person xml:id="nastasya_ivanovna" sex="FEMALE">
             <persName>Настасья Ивановна</persName>
-            <persName xml:lang="en">Nastasya Ivanovna</persName>
+            <persName xml:lang="eng">Nastasya Ivanovna</persName>
           </person>
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="en">A Footman</persName>
+            <persName xml:lang="eng">A Footman</persName>
           </person>
           <person xml:id="zhivoedova" sex="FEMALE">
             <persName>Живоедова</persName>
-            <persName xml:lang="en">Zhivoyedova</persName>
+            <persName xml:lang="eng">Zhivoyedova</persName>
           </person>
           <person xml:id="ivan_prokofich" sex="MALE">
             <persName>Иван Прокофьич</persName>
-            <persName xml:lang="en">Ivan Prokofich</persName>
+            <persName xml:lang="eng">Ivan Prokofich</persName>
           </person>
           <person xml:id="lenochka" sex="FEMALE">
             <persName>Леночка</persName>
-            <persName xml:lang="en">Lenochka</persName>
+            <persName xml:lang="eng">Lenochka</persName>
           </person>
           <person xml:id="dmitrij" sex="MALE">
             <persName>Дмитрий</persName>
-            <persName xml:lang="en">Dmitry</persName>
+            <persName xml:lang="eng">Dmitry</persName>
           </person>
           <person xml:id="mavra_gornichnaya" sex="FEMALE">
             <persName>Мавра (горничная)</persName>
-            <persName xml:lang="en">Mavra (parlor-maid)</persName>
+            <persName xml:lang="eng">Mavra (parlor-maid)</persName>
           </person>
         </listPerson>
       </particDesc>

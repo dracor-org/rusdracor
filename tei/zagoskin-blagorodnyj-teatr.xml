@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Благородный театр</title>
-        <title type="main" xml:lang="en">The Noble Theatre</title>
-        <title type="sub" xml:lang="ru">Комедия в четырех действиях, в стихах</title>
-        <title type="sub" xml:lang="en">A Comedy in Four Act, in Verse</title>
+        <title type="main">Благородный театр</title>
+        <title type="main" xml:lang="eng">The Noble Theatre</title>
+        <title type="sub">Комедия в четырех действиях, в стихах</title>
+        <title type="sub" xml:lang="eng">A Comedy in Four Act, in Verse</title>
         <author key="wikidata:Q629784">Загоскин, Михаил Николаевич</author>
       </titleStmt>
       <publicationStmt>

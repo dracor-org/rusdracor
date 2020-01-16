@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Венецианская монахиня</title>
-        <title type="main" xml:lang="en">The Venetian Nun</title>
-        <title type="sub" xml:lang="ru">Трагедия в трех действиях</title>
-        <title type="sub" xml:lang="en">A Tragedy in Three Acts</title>
+        <title type="main">Венецианская монахиня</title>
+        <title type="main" xml:lang="eng">The Venetian Nun</title>
+        <title type="sub">Трагедия в трех действиях</title>
+        <title type="sub" xml:lang="eng">A Tragedy in Three Acts</title>
         <author key="wikidata:Q1930316">Херасков, Михаил Матвеевич</author>
       </titleStmt>
       <publicationStmt>

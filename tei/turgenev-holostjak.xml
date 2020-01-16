@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Холостяк</title>
-        <title type="main" xml:lang="en">The Bachelor</title>
-        <title type="sub" xml:lang="ru">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
+        <title type="main">Холостяк</title>
+        <title type="main" xml:lang="eng">The Bachelor</title>
+        <title type="sub">Комедия в трех действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
         <author key="wikidata:Q42831">Тургенев, Иван Сергеевич</author>
       </titleStmt>
       <publicationStmt>
@@ -46,47 +46,47 @@
         <listPerson>
           <person xml:id="stratilat" sex="MALE">
             <persName>Стратилат</persName>
-            <persName xml:lang="de">Stratilat</persName>
+            <persName xml:lang="ger">Stratilat</persName>
           </person>
           <person xml:id="moshkin" sex="MALE">
             <persName>Мошкин</persName>
-            <persName xml:lang="de">Moschkin</persName>
+            <persName xml:lang="ger">Moschkin</persName>
           </person>
           <person xml:id="malanja" sex="FEMALE">
             <persName>Маланья</persName>
-            <persName xml:lang="de">Malanja</persName>
+            <persName xml:lang="ger">Malanja</persName>
           </person>
           <person xml:id="shpundik" sex="MALE">
             <persName>Шпуньдик</persName>
-            <persName xml:lang="de">Schpunjdik</persName>
+            <persName xml:lang="ger">Schpunjdik</persName>
           </person>
           <person xml:id="prjazhkina" sex="FEMALE">
             <persName>Пряжкина</persName>
-            <persName xml:lang="de">Prjaschkin</persName>
+            <persName xml:lang="ger">Prjaschkin</persName>
           </person>
           <person xml:id="masha" sex="FEMALE">
             <persName>Маша</persName>
-            <persName xml:lang="de">Marja</persName>
+            <persName xml:lang="ger">Marja</persName>
           </person>
           <person xml:id="vilitskij" sex="MALE">
             <persName>Вилицкий</persName>
-            <persName xml:lang="de">Wilizky</persName>
+            <persName xml:lang="ger">Wilizky</persName>
           </person>
           <person xml:id="fonk" sex="MALE">
             <persName>Фонк</persName>
-            <persName xml:lang="de">Fonk</persName>
+            <persName xml:lang="ger">Fonk</persName>
           </person>
           <person xml:id="mitka" sex="MALE">
             <persName>Митька</persName>
-            <persName xml:lang="de">Mitjka</persName>
+            <persName xml:lang="ger">Mitjka</persName>
           </person>
           <person xml:id="sozomenos" sex="MALE">
             <persName>Созомэнос</persName>
-            <persName xml:lang="de">Sozomenos</persName>
+            <persName xml:lang="ger">Sozomenos</persName>
           </person>
           <person xml:id="pochtalon" sex="MALE">
             <persName>Почтальон</persName>
-            <persName xml:lang="de">Der Briefträger</persName>
+            <persName xml:lang="ger">Der Briefträger</persName>
           </person>
         </listPerson>
       </particDesc>

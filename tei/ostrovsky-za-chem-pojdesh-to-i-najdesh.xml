@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">За чем пойдешь, то и найдешь (Женитьба
+        <title type="main">За чем пойдешь, то и найдешь (Женитьба
           Бальзаминова)</title>
-        <title type="main" xml:lang="en">What You Seek, You Will Find (The Marriage of
+        <title type="main" xml:lang="eng">What You Seek, You Will Find (The Marriage of
           Balzaminov)</title>
-        <title type="sub" xml:lang="ru">Картины московской жизни</title>
-        <title type="sub" xml:lang="en">Pictures from Moscow Life</title>
+        <title type="sub">Картины московской жизни</title>
+        <title type="sub" xml:lang="eng">Pictures from Moscow Life</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -50,39 +50,39 @@
         <listPerson>
           <person xml:id="balzaminova" sex="FEMALE">
             <persName>Бальзаминова</persName>
-            <persName xml:lang="de">Pawla Petrowna Balsaminowa</persName>
+            <persName xml:lang="ger">Pawla Petrowna Balsaminowa</persName>
           </person>
           <person xml:id="matrena" sex="FEMALE">
             <persName>Матрена</persName>
-            <persName xml:lang="de">Matrjona</persName>
+            <persName xml:lang="ger">Matrjona</persName>
           </person>
           <person xml:id="balzaminov" sex="MALE">
             <persName>Бальзаминов</persName>
-            <persName xml:lang="de">Balsaminow</persName>
+            <persName xml:lang="ger">Balsaminow</persName>
           </person>
           <person xml:id="krasavina" sex="FEMALE">
             <persName>Красавина</persName>
-            <persName xml:lang="de">Akulina Gawrilowna Krassawina</persName>
+            <persName xml:lang="ger">Akulina Gawrilowna Krassawina</persName>
           </person>
           <person xml:id="chebakov" sex="MALE">
             <persName>Чебаков</persName>
-            <persName xml:lang="de">Tschebakow</persName>
+            <persName xml:lang="ger">Tschebakow</persName>
           </person>
           <person xml:id="belotelova" sex="FEMALE">
             <persName>Белотелова</persName>
-            <persName xml:lang="de">Domna Belotelowa</persName>
+            <persName xml:lang="ger">Domna Belotelowa</persName>
           </person>
           <person xml:id="raisa" sex="FEMALE">
             <persName>Раиса</persName>
-            <persName xml:lang="de">Raissa Panfilowna Peschonowa</persName>
+            <persName xml:lang="ger">Raissa Panfilowna Peschonowa</persName>
           </person>
           <person xml:id="anfisa" sex="FEMALE">
             <persName>Анфиса</persName>
-            <persName xml:lang="de">Anfissa Panfilowna Peschonowa</persName>
+            <persName xml:lang="ger">Anfissa Panfilowna Peschonowa</persName>
           </person>
           <person xml:id="himka" sex="FEMALE">
             <persName>Химка</persName>
-            <persName xml:lang="de">Chimka</persName>
+            <persName xml:lang="ger">Chimka</persName>
           </person>
         </listPerson>
       </particDesc>

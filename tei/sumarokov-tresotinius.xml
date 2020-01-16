@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Тресотиниус</title>
-        <title type="main" xml:lang="en">Tresotinius</title>
-        <title type="sub" xml:lang="ru">Комедия</title>
-        <title type="sub" xml:lang="en">A Comedy</title>
+        <title type="main">Тресотиниус</title>
+        <title type="main" xml:lang="eng">Tresotinius</title>
+        <title type="sub">Комедия</title>
+        <title type="sub" xml:lang="eng">A Comedy</title>
         <author key="wikidata:Q429915">Сумароков, Александр Петрович</author>
       </titleStmt>
       <publicationStmt>
@@ -99,9 +99,7 @@
         <titlePart type="main">Тресотиниус</titlePart>
         <titlePart type="sub">Комедия</titlePart>
       </docTitle>
-      <div>
-        <dateline>Зачата 12 генваря 1750, окончена генваря 13 1750. С. Петербург.</dateline>
-      </div>
+      <dateline>Зачата 12 генваря 1750, окончена генваря 13 1750. С. Петербург.</dateline>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
         <castItem>Оронт.</castItem>

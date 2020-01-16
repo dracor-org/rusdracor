@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Трагик поневоле (Из дачной жизни)</title>
-        <title type="main" xml:lang="en">A Tragedian in Spite of Himself (A Holiday Episode)</title>
-        <title type="sub" xml:lang="ru">Шутка в одном действии</title>
-        <title type="sub" xml:lang="en">A Joke in One Act</title>
+        <title type="main">Трагик поневоле (Из дачной жизни)</title>
+        <title type="main" xml:lang="eng">A Tragedian in Spite of Himself (A Holiday Episode)</title>
+        <title type="sub">Шутка в одном действии</title>
+        <title type="sub" xml:lang="eng">A Joke in One Act</title>
         <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
       </titleStmt>
       <publicationStmt>
@@ -47,13 +47,13 @@
         <listPerson>
           <person xml:id="Murashkin" sex="MALE">
             <persName>Мурашкин</persName>
-            <persName xml:lang="en">Muraškin</persName>
-            <persName xml:lang="de">Muraškin</persName>
+            <persName xml:lang="eng">Muraškin</persName>
+            <persName xml:lang="ger">Muraškin</persName>
           </person>
           <person xml:id="Tolkachov" sex="MALE">
             <persName>Толкачов</persName>
-            <persName xml:lang="en">Tolkačov</persName>
-            <persName xml:lang="de">Tolkačov</persName>
+            <persName xml:lang="eng">Tolkačov</persName>
+            <persName xml:lang="ger">Tolkačov</persName>
           </person>
         </listPerson>
       </particDesc>

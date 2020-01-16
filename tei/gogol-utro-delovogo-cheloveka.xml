@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Утро делового человека</title>
-        <title type="main" xml:lang="en">The Morning of a Busy Man</title>
-        <title type="sub" xml:lang="ru">–</title>
-        <title type="sub" xml:lang="en">–</title>
+        <title type="main">Утро делового человека</title>
+        <title type="main" xml:lang="eng">The Morning of a Busy Man</title>
+        <title type="sub">–</title>
+        <title type="sub" xml:lang="eng">–</title>
         <author key="wikidata:Q43718">Гоголь, Николай Васильевич</author>
       </titleStmt>
       <publicationStmt>

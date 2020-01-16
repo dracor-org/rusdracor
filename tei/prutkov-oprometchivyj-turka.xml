@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Опрометчивый Турка, или: Приятно ли быть внуком?</title>
-        <title type="main" xml:lang="en">The Reckless Turk, or: Is it Pleasant to Be a
+        <title type="main">Опрометчивый Турка, или: Приятно ли быть внуком?</title>
+        <title type="main" xml:lang="eng">The Reckless Turk, or: Is it Pleasant to Be a
           Grandson?</title>
-        <title type="sub" xml:lang="ru">Естественно-разговорное представление</title>
-        <title type="sub" xml:lang="en">A Naturalistic-Conversational Play</title>
+        <title type="sub">Естественно-разговорное представление</title>
+        <title type="sub" xml:lang="eng">A Naturalistic-Conversational Play</title>
         <author key="wikidata:Q1784989">Прутков, Козьма</author>
       </titleStmt>
       <publicationStmt>
@@ -44,31 +44,31 @@
         <listPerson>
           <person xml:id="izvestnyj_pisatel" sex="MALE">
             <persName>Известный писатель</persName>
-            <persName xml:lang="de">Berühmter Schriftsteller</persName>
+            <persName xml:lang="ger">Berühmter Schriftsteller</persName>
           </person>
           <person xml:id="ivan_semenych" sex="MALE">
             <persName>Иван Семеныч</persName>
-            <persName xml:lang="de">Ivan Semënyč</persName>
+            <persName xml:lang="ger">Ivan Semënyč</persName>
           </person>
           <person xml:id="milovidov" sex="MALE">
             <persName>Миловидов</persName>
-            <persName xml:lang="de">Milovidov</persName>
+            <persName xml:lang="ger">Milovidov</persName>
           </person>
           <person xml:id="kutilo-zavaldajskij" sex="MALE">
             <persName>Кутило-Завалдайский</persName>
-            <persName xml:lang="de">Kutilo-Zavaldajskij</persName>
+            <persName xml:lang="ger">Kutilo-Zavaldajskij</persName>
           </person>
           <person xml:id="knyaz_batog-batyev" sex="MALE">
             <persName>Кн. Батог-Батыев</persName>
-            <persName xml:lang="de">Fürst Batog-Batyev</persName>
+            <persName xml:lang="ger">Fürst Batog-Batyev</persName>
           </person>
           <person xml:id="libental" sex="MALE">
             <persName>Либенталь</persName>
-            <persName xml:lang="de">Liebenthal</persName>
+            <persName xml:lang="ger">Liebenthal</persName>
           </person>
           <person xml:id="razorvaki" sex="FEMALE">
             <persName>Г-жа Разорваки</persName>
-            <persName xml:lang="de">Frau Razorvaki</persName>
+            <persName xml:lang="ger">Frau Razorvaki</persName>
           </person>
         </listPerson>
       </particDesc>

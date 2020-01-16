@@ -1,12 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">К звёздам</title>
-        <title type="main" xml:lang="en">To the Stars</title>
+        <title type="main">К звёздам</title>
+        <title type="main" xml:lang="eng">To the Stars</title>
+        <title type="sub">–</title>
+        <title type="sub" xml:lang="eng">–</title>
         <author key="wikidata:Q310866">Андреев, Леонид Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -42,55 +44,55 @@
         <listPerson>
           <person xml:id="inna_aleksandrovna" sex="FEMALE">
             <persName>Инна Александровна</persName>
-            <persName xml:lang="en">Inna Alexandrovna</persName>
+            <persName xml:lang="eng">Inna Alexandrovna</persName>
           </person>
           <person xml:id="petja" sex="MALE">
             <persName>Петя</persName>
-            <persName xml:lang="en">Petia</persName>
+            <persName xml:lang="eng">Petia</persName>
           </person>
           <person xml:id="zhitov" sex="MALE">
             <persName>Житов</persName>
-            <persName xml:lang="en">Zhitoff</persName>
+            <persName xml:lang="eng">Zhitoff</persName>
           </person>
           <person xml:id="lunts" sex="MALE">
             <persName>Лунц</persName>
-            <persName xml:lang="en">Luntz</persName>
+            <persName xml:lang="eng">Luntz</persName>
           </person>
           <person xml:id="minna" sex="FEMALE">
             <persName>Минна</persName>
-            <persName xml:lang="en">Minna</persName>
+            <persName xml:lang="eng">Minna</persName>
           </person>
           <person xml:id="pollak" sex="MALE">
             <persName>Поллак</persName>
-            <persName xml:lang="en">Pollock</persName>
+            <persName xml:lang="eng">Pollock</persName>
           </person>
           <person xml:id="anna" sex="FEMALE">
             <persName>Анна</persName>
-            <persName xml:lang="en">Anna</persName>
+            <persName xml:lang="eng">Anna</persName>
           </person>
           <person xml:id="trejch" sex="MALE">
             <persName>Трейч</persName>
-            <persName xml:lang="en">Treitch</persName>
+            <persName xml:lang="eng">Treitch</persName>
           </person>
           <person xml:id="verhovtsev" sex="MALE">
             <persName>Верховцев</persName>
-            <persName xml:lang="en">Verchovtzeff</persName>
+            <persName xml:lang="eng">Verchovtzeff</persName>
           </person>
           <person xml:id="frants" sex="MALE">
             <persName>Франц</persName>
-            <persName xml:lang="en">Frantz</persName>
+            <persName xml:lang="eng">Frantz</persName>
           </person>
           <person xml:id="sergej_nikolaevich" sex="MALE">
             <persName>Сергей Николаевич</persName>
-            <persName xml:lang="en">Sergius Nikolaievitch</persName>
+            <persName xml:lang="eng">Sergius Nikolaievitch</persName>
           </person>
           <person xml:id="marusja" sex="FEMALE">
             <persName>Маруся</persName>
-            <persName xml:lang="en">Marusia</persName>
+            <persName xml:lang="eng">Marusia</persName>
           </person>
           <person xml:id="shmidt" sex="MALE">
             <persName>Шмидт</persName>
-            <persName xml:lang="en">Schmidt</persName>
+            <persName xml:lang="eng">Schmidt</persName>
           </person>
         </listPerson>
       </particDesc>

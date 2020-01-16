@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Остров мира</title>
-        <title type="main" xml:lang="en">The Island of Peace</title>
-        <title type="sub" xml:lang="ru">Комедия в 4 актах</title>
-        <title type="sub" xml:lang="en">Comedy in 4 Acts</title>
+        <title type="main">Остров мира</title>
+        <title type="main" xml:lang="eng">The Island of Peace</title>
+        <title type="sub">Комедия в 4 актах</title>
+        <title type="sub" xml:lang="eng">Comedy in 4 Acts</title>
         <author key="wikidata:Q714739">Петров, Евгений Петрович</author>
       </titleStmt>
       <publicationStmt>
@@ -45,111 +45,111 @@
         <listPerson>
           <person xml:id="majkroft" sex="MALE">
             <persName>Майкрофт</persName>
-            <persName xml:lang="de">Mycroft</persName>
+            <persName xml:lang="ger">Mycroft</persName>
           </person>
           <person xml:id="ekonomka" sex="FEMALE">
             <persName>Экономка</persName>
-            <persName xml:lang="de">Wirtschafterin</persName>
+            <persName xml:lang="ger">Wirtschafterin</persName>
           </person>
           <person xml:id="m-ss_dzhekobs" sex="FEMALE">
             <persName>М-сс Джекобс</persName>
-            <persName xml:lang="de">Mrs. Jacobs</persName>
+            <persName xml:lang="ger">Mrs. Jacobs</persName>
           </person>
           <person xml:id="doktor" sex="MALE">
             <persName>Доктор</persName>
-            <persName xml:lang="de">Doktor</persName>
+            <persName xml:lang="ger">Doktor</persName>
           </person>
           <person xml:id="m-r_dzhekobs" sex="MALE">
             <persName>М-р Джекобс</persName>
-            <persName xml:lang="de">Mr. Jacobs junior</persName>
+            <persName xml:lang="ger">Mr. Jacobs junior</persName>
           </person>
           <person xml:id="golos_iz_radio_1-6" sex="UNKNOWN">
             <persName>Голос из радио (I/6)</persName>
-            <persName xml:lang="de">Stimme im Radio (I/6)</persName>
+            <persName xml:lang="ger">Stimme im Radio (I/6)</persName>
           </person>
           <person xml:id="polkovnik" sex="MALE">
             <persName>Полковник</persName>
-            <persName xml:lang="de">Oberst Ellis A. Goodman</persName>
+            <persName xml:lang="ger">Oberst Ellis A. Goodman</persName>
           </person>
           <person xml:id="pamela" sex="FEMALE">
             <persName>Памела</persName>
-            <persName xml:lang="de">Pamela</persName>
+            <persName xml:lang="ger">Pamela</persName>
           </person>
           <person xml:id="lamperti" sex="MALE">
             <persName>Ламперти</persName>
-            <persName xml:lang="de">Lamperti</persName>
+            <persName xml:lang="ger">Lamperti</persName>
           </person>
           <person xml:id="frenk" sex="MALE">
             <persName>Фрэнк</persName>
-            <persName xml:lang="de">Frank</persName>
+            <persName xml:lang="ger">Frank</persName>
           </person>
           <person xml:id="artur" sex="MALE">
             <persName>Артур</persName>
-            <persName xml:lang="de">Arthur</persName>
+            <persName xml:lang="ger">Arthur</persName>
           </person>
           <person xml:id="m-ss_simpson" sex="FEMALE">
             <persName>М-сс Симпсон</persName>
-            <persName xml:lang="de">Mrs. Simpson</persName>
+            <persName xml:lang="ger">Mrs. Simpson</persName>
           </person>
           <person xml:id="admiral" sex="MALE">
             <persName>Адмирал</persName>
-            <persName xml:lang="de">Admiral James Jacobs</persName>
+            <persName xml:lang="ger">Admiral James Jacobs</persName>
           </person>
           <person xml:id="m-r_dzhekobs-starshij" sex="MALE">
             <persName>М-р Джекобс-старший</persName>
-            <persName xml:lang="de">Mr. Jacobs senior</persName>
+            <persName xml:lang="ger">Mr. Jacobs senior</persName>
           </person>
           <person xml:id="m-r_simpson" sex="MALE">
             <persName>М-р Симпсон</persName>
-            <persName xml:lang="de">Mr. Simpson</persName>
+            <persName xml:lang="ger">Mr. Simpson</persName>
           </person>
           <person xml:id="politsejskij_ofitser" sex="MALE">
             <persName>Полицейский офицер</persName>
-            <persName xml:lang="de">Polizeioffizier</persName>
+            <persName xml:lang="ger">Polizeioffizier</persName>
           </person>
           <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса (I/20)</name>
-            <name xml:lang="de">Stimmen (I/20)</name>
+            <name xml:lang="ger">Stimmen (I/20)</name>
           </personGrp>
           <person xml:id="golos_iz_radio_2-2" sex="UNKNOWN">
             <persName>Голос из радио (II/2)</persName>
-            <persName xml:lang="de">Stimme im Radio (II/2)</persName>
+            <persName xml:lang="ger">Stimme im Radio (II/2)</persName>
           </person>
           <person xml:id="tsar" sex="MALE">
             <persName>Царь</persName>
-            <persName xml:lang="de">Häuptling</persName>
+            <persName xml:lang="ger">Häuptling</persName>
           </person>
           <person xml:id="baba" sex="MALE">
             <persName>Баба</persName>
-            <persName xml:lang="de">O-Ma</persName>
+            <persName xml:lang="ger">O-Ma</persName>
           </person>
           <person xml:id="golos_iz_radio_3-0" sex="UNKNOWN">
             <persName>Голос из радио (III)</persName>
-            <persName xml:lang="de">Stimme im Radio (III)</persName>
+            <persName xml:lang="ger">Stimme im Radio (III)</persName>
           </person>
           <person xml:id="gornichnaja" sex="FEMALE">
             <persName>Горничная</persName>
-            <persName xml:lang="de">Das Zimmermädchen</persName>
+            <persName xml:lang="ger">Das Zimmermädchen</persName>
           </person>
           <person xml:id="dzhefris" sex="MALE">
             <persName>Джефрис</persName>
-            <persName xml:lang="de">Jaffreys</persName>
+            <persName xml:lang="ger">Jaffreys</persName>
           </person>
           <person xml:id="svjaschennik" sex="MALE">
             <persName>Священник</persName>
-            <persName xml:lang="de">Der Geistliche</persName>
+            <persName xml:lang="ger">Der Geistliche</persName>
           </person>
           <person xml:id="golos_iz_radio_4-2" sex="UNKNOWN">
             <persName>Голос из радио (IV/2)</persName>
-            <persName xml:lang="de">Stimme im Radio (IV/2)</persName>
+            <persName xml:lang="ger">Stimme im Radio (IV/2)</persName>
           </person>
           <person xml:id="majkl" sex="MALE">
             <persName>Майкл</persName>
-            <persName xml:lang="de"/>
+            <persName xml:lang="ger"/>
           </person>
           <person xml:id="soldat" sex="MALE">
             <persName>Солдат</persName>
-            <persName xml:lang="de">Soldat</persName>
+            <persName xml:lang="ger">Soldat</persName>
           </person>
         </listPerson>
       </particDesc>

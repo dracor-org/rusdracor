@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Скупой рыцарь</title>
-        <title type="main" xml:lang="en">The Miserly Knight</title>
-        <title type="sub" xml:lang="ru">(Сцены из Ченстоновой трагикомедии: The covetous
+        <title type="main">Скупой рыцарь</title>
+        <title type="main" xml:lang="eng">The Miserly Knight</title>
+        <title type="sub">(Сцены из Ченстоновой трагикомедии: The covetous
           Knight)</title>
-        <title type="sub" xml:lang="en">(Scenes from Shenstone's Tragicomedy: The Covetous
+        <title type="sub" xml:lang="eng">(Scenes from Shenstone's Tragicomedy: The Covetous
           Knight)</title>
         <author key="wikidata:Q7200">Пушкин, Александр Сергеевич</author>
       </titleStmt>

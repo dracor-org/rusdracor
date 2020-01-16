@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Ссора у мужа с женой</title>
-        <title type="main" xml:lang="en">A Husband's Quarrel with His Wife</title>
-        <title type="sub" xml:lang="ru">Комедия</title>
-        <title type="sub" xml:lang="en">A Comedy</title>
+        <title type="main">Ссора у мужа с женой</title>
+        <title type="main" xml:lang="eng">A Husband's Quarrel with His Wife</title>
+        <title type="sub">Комедия</title>
+        <title type="sub" xml:lang="eng">A Comedy</title>
         <author key="wikidata:Q429915">Сумароков, Александр Петрович</author>
       </titleStmt>
       <publicationStmt>
@@ -107,9 +107,7 @@
         <castItem>Кимар, слуга Оронтов</castItem>
         <castItem>Финета, служанка Деламиды</castItem>
       </castList>
-      <div>
-        <dateline>В ПЕРВОЙ РАЗ ПРЕДСТАВЛЕНА НА ПРИДВОРНОМ ТЕАТРЕ 1751 ГОДА ГЕНВАРЯ ДНЯ</dateline>
-      </div>
+      <dateline>В ПЕРВОЙ РАЗ ПРЕДСТАВЛЕНА НА ПРИДВОРНОМ ТЕАТРЕ 1751 ГОДА ГЕНВАРЯ ДНЯ</dateline>
     </front>
     <body>
       <div type="scene">

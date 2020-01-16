@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Вельзен, или освобожденная Голландия</title>
-        <title type="main" xml:lang="en">Velzen, or Holland Liberated</title>
-        <title type="sub" xml:lang="ru">Трагедия в 5 действиях</title>
-        <title type="sub" xml:lang="en">A Tragedy in 5 Acts</title>
+        <title type="main">Вельзен, или освобожденная Голландия</title>
+        <title type="main" xml:lang="eng">Velzen, or Holland Liberated</title>
+        <title type="sub">Трагедия в 5 действиях</title>
+        <title type="sub" xml:lang="eng">A Tragedy in 5 Acts</title>
         <author key="wikidata:Q180545">Глинка, Фёдор Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -469,7 +469,7 @@
           </sp>
           <trailer>Конец первого действия.</trailer>
         </div>
-        <div type="intermission">
+        <div type="entracte">
           <stage>В продолжение 1-го антракта музыка изображает смятение и тревогу; по временам
             раздаются звуки набатных колоколов.</stage>
         </div>
@@ -1659,7 +1659,7 @@
           </sp>
           <trailer>Конец третьего действия</trailer>
         </div>
-        <div type="intermission">
+        <div type="entracte">
           <stage>Между сим и 4-м действием военная музыка изображает ратный шум.</stage>
         </div>
       </div>
@@ -2079,7 +2079,7 @@
           </sp>
           <trailer>Конец четвертого действия</trailer>
         </div>
-        <div type="intermission">
+        <div type="entracte">
           <stage>В антракте играет унылая музыка, подражающая шуму отдаленных бурь и порывам
             свистящих ветров.</stage>
         </div>

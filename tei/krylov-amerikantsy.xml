@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Американцы</title>
-        <title type="main" xml:lang="en">The Americans</title>
-        <title type="sub" xml:lang="ru">Опера комическая в двух действиях</title>
-        <title type="sub" xml:lang="en">A Comic Opera in Two Acts</title>
+        <title type="main">Американцы</title>
+        <title type="main" xml:lang="eng">The Americans</title>
+        <title type="sub">Опера комическая в двух действиях</title>
+        <title type="sub" xml:lang="eng">A Comic Opera in Two Acts</title>
         <author key="wikidata:Q191480">Крылов, Иван Андреевич</author>
       </titleStmt>
       <publicationStmt>
@@ -111,7 +111,7 @@
         </cit>
         <bibl>(Ж. Батист Руссо)</bibl>
       </epigraph>
-      <div>
+      <div type="preface">
         <head>ПРЕДИСЛОВИЕ</head>
         <p>Г. Крылов, известный публике своими сочинениями, сделал основание оперы «Американцы».
           Молодость, живость воображения и, смею сказать, некоторая небрежность в слоге и в

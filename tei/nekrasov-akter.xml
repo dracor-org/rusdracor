@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Актер</title>
-        <title type="main" xml:lang="en">The Actor</title>
-        <title type="sub" xml:lang="ru">Шутка-водевиль в одном действии</title>
-        <title type="sub" xml:lang="en">A Joke-Vaudeville in One Act</title>
+        <title type="main">Актер</title>
+        <title type="main" xml:lang="eng">The Actor</title>
+        <title type="sub">Шутка-водевиль в одном действии</title>
+        <title type="sub" xml:lang="eng">A Joke-Vaudeville in One Act</title>
         <author key="wikidata:Q208003">Некрасов, Николай Алексеевич</author>
       </titleStmt>
       <publicationStmt>

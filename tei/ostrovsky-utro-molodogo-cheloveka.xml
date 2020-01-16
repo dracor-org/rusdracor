@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Утро молодого человека</title>
-        <title type="main" xml:lang="en">A Young Man's Morning</title>
-        <title type="sub" xml:lang="ru">Сцены</title>
-        <title type="sub" xml:lang="en">Scenes</title>
+        <title type="main">Утро молодого человека</title>
+        <title type="main" xml:lang="eng">A Young Man's Morning</title>
+        <title type="sub">Сцены</title>
+        <title type="sub" xml:lang="eng">Scenes</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>

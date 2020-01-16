@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Лукавин</title>
-        <title type="main" xml:lang="en">Lukavin</title>
-        <title type="sub" xml:lang="ru">Комедия в пяти действиях, в стихах, переделанная с
+        <title type="main">Лукавин</title>
+        <title type="main" xml:lang="eng">Lukavin</title>
+        <title type="sub">Комедия в пяти действиях, в стихах, переделанная с
           английского</title>
-        <title type="sub" xml:lang="en">A Comedy in Five Acts, in Verse, Adapted from the
+        <title type="sub" xml:lang="eng">A Comedy in Five Acts, in Verse, Adapted from the
           English</title>
         <author key="wikidata:Q4363527">Писарев, Александр Иванович</author>
       </titleStmt>

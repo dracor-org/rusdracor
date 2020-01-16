@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Мистерия-буфф</title>
-        <title type="main" xml:lang="en">Mystery-Bouffe</title>
-        <title type="sub" xml:lang="ru">Героическое, эпическое и сатирическое изображение нашей
+        <title type="main">Мистерия-буфф</title>
+        <title type="main" xml:lang="eng">Mystery-Bouffe</title>
+        <title type="sub">Героическое, эпическое и сатирическое изображение нашей
           эпохи / Второй вариант</title>
-        <title type="sub" xml:lang="en">A Heroic, Epic, and Satiric Representation of Our Era /
+        <title type="sub" xml:lang="eng">A Heroic, Epic, and Satiric Representation of Our Era /
           Second Version</title>
         <author key="wikidata:Q132964">Маяковский, Владимир Владимирович</author>
       </titleStmt>
@@ -52,277 +52,277 @@
         <listPerson>
           <person xml:id="nechistyj" sex="MALE">
             <persName>Нечистый</persName>
-            <persName xml:lang="de">Ein Unreiner</persName>
+            <persName xml:lang="ger">Ein Unreiner</persName>
           </person>
           <person xml:id="iz-za_sceny" sex="UNKNOWN">
             <persName>Из-за сцены</persName>
-            <persName xml:lang="de">Hinter der Szene</persName>
+            <persName xml:lang="ger">Hinter der Szene</persName>
           </person>
           <person xml:id="ohotnik" sex="MALE">
             <persName>Охотник</persName>
             <persName type="variant">Эскимос</persName>
-            <persName xml:lang="de">Der Eskimo-Jäger</persName>
+            <persName xml:lang="ger">Der Eskimo-Jäger</persName>
           </person>
           <person xml:id="rybak" sex="MALE">
             <persName>Рыбак</persName>
-            <persName xml:lang="de">Der Eskimo-Fischer</persName>
+            <persName xml:lang="ger">Der Eskimo-Fischer</persName>
           </person>
           <person xml:id="nemec" sex="MALE">
             <persName>Немец</persName>
-            <persName xml:lang="de">Der Deutsche</persName>
+            <persName xml:lang="ger">Der Deutsche</persName>
           </person>
           <person xml:id="avstraliec" sex="MALE">
             <persName>Австралиец</persName>
-            <persName xml:lang="de">Der Australier</persName>
+            <persName xml:lang="ger">Der Australier</persName>
           </person>
           <person xml:id="avstralijka" sex="FEMALE">
             <persName>Австралийка</persName>
-            <persName xml:lang="de">Die Australierin</persName>
+            <persName xml:lang="ger">Die Australierin</persName>
           </person>
           <person xml:id="anglichanin" sex="MALE">
             <persName>Англичанин (Ллойд-Джордж)</persName>
             <persName type="variant">Первый голос</persName>
             <persName type="variant">Ллойд-Джордж</persName>
-            <persName xml:lang="de">Der Engländer (David Lloyd George)</persName>
+            <persName xml:lang="ger">Der Engländer (David Lloyd George)</persName>
           </person>
           <person xml:id="francuz" sex="MALE">
             <persName>Француз (Клемансо)</persName>
             <persName type="variant">Второй голос</persName>
             <persName type="variant">Клемансо</persName>
-            <persName xml:lang="de">Der Franzose (Georges Clemenceau)</persName>
+            <persName xml:lang="ger">Der Franzose (Georges Clemenceau)</persName>
           </person>
           <person xml:id="kupec" sex="MALE">
             <persName>Купец</persName>
             <persName type="variant">Купчина</persName>
-            <persName xml:lang="de">Der Kaufherr</persName>
+            <persName xml:lang="ger">Der Kaufherr</persName>
           </person>
           <person xml:id="negus" sex="MALE">
             <persName>Негус</persName>
-            <persName xml:lang="de">Der Negus</persName>
+            <persName xml:lang="ger">Der Negus</persName>
           </person>
           <person xml:id="kitaec" sex="MALE">
             <persName>Китаец</persName>
             <persName type="variant">Голос китайца</persName>
-            <persName xml:lang="de">Der Mandarin</persName>
+            <persName xml:lang="ger">Der Mandarin</persName>
           </person>
           <person xml:id="pers" sex="MALE">
             <persName>Перс</persName>
-            <persName xml:lang="de">Der Perser</persName>
+            <persName xml:lang="ger">Der Perser</persName>
           </person>
           <person xml:id="radzha" sex="MALE">
             <persName>Раджа</persName>
-            <persName xml:lang="de">Der Radscha</persName>
+            <persName xml:lang="ger">Der Radscha</persName>
           </person>
           <person xml:id="pasha" sex="MALE">
             <persName>Паша</persName>
-            <persName xml:lang="de">Der Pascha</persName>
+            <persName xml:lang="ger">Der Pascha</persName>
           </person>
           <person xml:id="dama" sex="FEMALE">
             <persName>Дама</persName>
-            <persName xml:lang="de">Die Dame</persName>
+            <persName xml:lang="ger">Die Dame</persName>
           </person>
           <person xml:id="golos_iz_tolpy_chistyh" sex="UNKNOWN">
             <persName>Голос (из толпы чистых)</persName>
-            <persName xml:lang="de">Eine Stimme (aus der Menge der Reinen)</persName>
+            <persName xml:lang="ger">Eine Stimme (aus der Menge der Reinen)</persName>
           </person>
           <person xml:id="soglashatel" sex="MALE">
             <persName>Соглашатель</persName>
-            <persName xml:lang="de">Der Versöhnler</persName>
+            <persName xml:lang="ger">Der Versöhnler</persName>
           </person>
           <personGrp xml:id="nechistye" sex="UNKNOWN">
             <name>Нечистые</name>
             <name type="variant">Голоса нечистых</name>
             <name type="variant">Некоторые нечистые</name>
-            <name xml:lang="de">Die Unreinen</name>
+            <name xml:lang="ger">Die Unreinen</name>
           </personGrp>
           <personGrp xml:id="chistye" sex="UNKNOWN">
             <name>Чистые</name>
-            <name xml:lang="de">Die Reinen</name>
+            <name xml:lang="ger">Die Reinen</name>
           </personGrp>
           <person xml:id="kuznec" sex="MALE">
             <persName>Кузнец</persName>
             <persName type="variant">Незлобивый кузнец</persName>
-            <persName xml:lang="de">Der Schmied</persName>
+            <persName xml:lang="ger">Der Schmied</persName>
           </person>
           <person xml:id="prachka" sex="FEMALE">
             <persName>Прачка</persName>
-            <persName xml:lang="de">Die Waschfrau</persName>
+            <persName xml:lang="ger">Die Waschfrau</persName>
           </person>
           <person xml:id="krasnoarmeec" sex="MALE">
             <persName>Красноармеец</persName>
-            <persName xml:lang="de">Der Rotarmist</persName>
+            <persName xml:lang="ger">Der Rotarmist</persName>
           </person>
           <person xml:id="pop" sex="MALE">
             <persName>Поп</persName>
-            <persName xml:lang="de">Der Pope</persName>
+            <persName xml:lang="ger">Der Pope</persName>
           </person>
           <person xml:id="diplomat" sex="MALE">
             <persName>Дипломат</persName>
-            <persName xml:lang="de">Der Diplomat</persName>
+            <persName xml:lang="ger">Der Diplomat</persName>
           </person>
           <person xml:id="intelligenciya" sex="MALE">
             <persName>Интеллигенция</persName>
             <persName type="variant">Интеллигент</persName>
-            <persName xml:lang="de">Der Intelligenzler</persName>
+            <persName xml:lang="ger">Der Intelligenzler</persName>
           </person>
           <person xml:id="plotnik" sex="MALE">
             <persName>Плотник</persName>
             <persName type="variant">Голос плотника</persName>
-            <persName xml:lang="de">Der Zimmermann</persName>
+            <persName xml:lang="ger">Der Zimmermann</persName>
           </person>
           <person xml:id="amerikanec" sex="MALE">
             <persName>Американец</persName>
-            <persName xml:lang="de">Der Amerikaner</persName>
+            <persName xml:lang="ger">Der Amerikaner</persName>
           </person>
           <person xml:id="batrak" sex="MALE">
             <persName>Батрак</persName>
-            <persName xml:lang="de">Der Landarbeiter</persName>
+            <persName xml:lang="ger">Der Landarbeiter</persName>
           </person>
           <person xml:id="shveya" sex="FEMALE">
             <persName>Швея</persName>
-            <persName xml:lang="de">Die Näherin</persName>
+            <persName xml:lang="ger">Die Näherin</persName>
           </person>
           <person xml:id="fonarschik" sex="MALE">
             <persName>Фонарщик</persName>
-            <persName xml:lang="de">Der Laternenputzer</persName>
+            <persName xml:lang="ger">Der Laternenputzer</persName>
           </person>
           <person xml:id="bulochnik" sex="MALE">
             <persName>Булочник</persName>
-            <persName xml:lang="de">Der Bäcker</persName>
+            <persName xml:lang="ger">Der Bäcker</persName>
           </person>
           <person xml:id="sapozhnik" sex="MALE">
             <persName>Сапожник</persName>
-            <persName xml:lang="de">Der Schuster</persName>
+            <persName xml:lang="ger">Der Schuster</persName>
           </person>
           <person xml:id="sluga" sex="MALE">
             <persName>Слуга</persName>
-            <persName xml:lang="de">Der Dienstmann</persName>
+            <persName xml:lang="ger">Der Dienstmann</persName>
           </person>
           <person xml:id="shahter" sex="MALE">
             <persName>Шахтер</persName>
             <persName type="variant">Рудокоп</persName>
-            <persName xml:lang="de">Der Bergmann</persName>
+            <persName xml:lang="ger">Der Bergmann</persName>
           </person>
           <person xml:id="golos" sex="UNKNOWN">
             <persName>Голос (II)</persName>
-            <persName xml:lang="de">Stimme (II)</persName>
+            <persName xml:lang="ger">Stimme (II)</persName>
           </person>
           <person xml:id="trubochist" sex="MALE">
             <persName>Трубочист</persName>
-            <persName xml:lang="de">Ein Schornsteinfeger</persName>
+            <persName xml:lang="ger">Ein Schornsteinfeger</persName>
           </person>
           <person xml:id="shofer" sex="MALE">
             <persName>Шофер</persName>
-            <persName xml:lang="de">Der Kraftfahrer</persName>
+            <persName xml:lang="ger">Der Kraftfahrer</persName>
           </person>
           <person xml:id="chelovek" sex="UNKNOWN">
             <persName>Человек</persName>
-            <persName xml:lang="de">Der Mensch</persName>
+            <persName xml:lang="ger">Der Mensch</persName>
           </person>
           <personGrp xml:id="cherti" sex="UNKNOWN">
             <name>Черти</name>
-            <name xml:lang="de">Die Teufel</name>
+            <name xml:lang="ger">Die Teufel</name>
           </personGrp>
           <person xml:id="pervyj_vestovoj" sex="UNKNOWN">
             <persName>1-й вестовой</persName>
-            <persName xml:lang="de">Der erste Meldeteufel</persName>
+            <persName xml:lang="ger">Der erste Meldeteufel</persName>
           </person>
           <person xml:id="vtoroj_vestovoj" sex="UNKNOWN">
             <persName>2-й вестовой</persName>
-            <persName xml:lang="de">Der zweite Meldeteufel</persName>
+            <persName xml:lang="ger">Der zweite Meldeteufel</persName>
           </person>
           <person xml:id="chert-ceremonijmejster" sex="UNKNOWN">
             <persName>Черт-церемониймейстер</persName>
-            <persName xml:lang="de">Der Zeremonienmeisterteufel</persName>
+            <persName xml:lang="ger">Der Zeremonienmeisterteufel</persName>
           </person>
           <person xml:id="velzevul" sex="UNKNOWN">
             <persName>Вельзевул</persName>
-            <persName xml:lang="de">Beelzebub</persName>
+            <persName xml:lang="ger">Beelzebub</persName>
           </person>
           <person xml:id="golos_iz_tolpy_chertej_3a" sex="UNKNOWN">
             <persName>Голос (из толпы чертей)</persName>
-            <persName xml:lang="de">Eine Stimme (aus der Menge der Teufel)</persName>
+            <persName xml:lang="ger">Eine Stimme (aus der Menge der Teufel)</persName>
           </person>
           <person xml:id="golos_iz_tolpy_chertej_3b" sex="UNKNOWN">
             <persName>Голос (из толпы чертей)</persName>
-            <persName xml:lang="de">Eine Stimme (aus der Menge der Teufel)</persName>
+            <persName xml:lang="ger">Eine Stimme (aus der Menge der Teufel)</persName>
           </person>
           <person xml:id="golos_iz_tolpy_chertej_3c" sex="UNKNOWN">
             <persName>Голос (из толпы чертей)</persName>
-            <persName xml:lang="de">Eine Stimme (aus der Menge der Teufel)</persName>
+            <persName xml:lang="ger">Eine Stimme (aus der Menge der Teufel)</persName>
           </person>
           <person xml:id="mafusail" sex="MALE">
             <persName>Мафусаил</persName>
-            <persName xml:lang="de">Methusalem</persName>
+            <persName xml:lang="ger">Methusalem</persName>
           </person>
           <personGrp xml:id="svyatye" sex="UNKNOWN">
             <name>Святые</name>
             <name type="variant">Райские</name>
-            <name xml:lang="de">Die Seligen</name>
+            <name xml:lang="ger">Die Seligen</name>
           </personGrp>
           <person xml:id="angel" sex="UNKNOWN">
             <persName>Ангел</persName>
-            <persName xml:lang="de">Der Engel</persName>
+            <persName xml:lang="ger">Der Engel</persName>
           </person>
           <person xml:id="angelskij_golos" sex="UNKNOWN">
             <persName>Ангельский голос</persName>
-            <persName xml:lang="de">Eine Engelstimme</persName>
+            <persName xml:lang="ger">Eine Engelstimme</persName>
           </person>
           <personGrp xml:id="angely" sex="UNKNOWN">
             <name>Ангелы</name>
-            <name xml:lang="de">Die Engel</name>
+            <name xml:lang="ger">Die Engel</name>
           </personGrp>
           <person xml:id="odin_iz_angelov" sex="UNKNOWN">
             <persName>Один из ангелов</persName>
-            <persName xml:lang="de">Einer der Engel</persName>
+            <persName xml:lang="ger">Einer der Engel</persName>
           </person>
           <person xml:id="vtoroj_angel" sex="UNKNOWN">
             <persName>Второй ангел</persName>
-            <persName xml:lang="de">Der zweite Engel</persName>
+            <persName xml:lang="ger">Der zweite Engel</persName>
           </person>
           <person xml:id="savaof" sex="MALE">
             <persName>Саваоф</persName>
-            <persName xml:lang="de">Der Herr Zebaoth</persName>
+            <persName xml:lang="ger">Der Herr Zebaoth</persName>
           </person>
           <person xml:id="mashinist" sex="MALE">
             <persName>Машинист</persName>
-            <persName xml:lang="de">Der Maschinist</persName>
+            <persName xml:lang="ger">Der Maschinist</persName>
           </person>
           <person xml:id="parovoz" sex="UNKNOWN">
             <persName>Паровоз</persName>
-            <persName xml:lang="de">Die Lokomotive</persName>
+            <persName xml:lang="ger">Die Lokomotive</persName>
           </person>
           <person xml:id="parohod" sex="UNKNOWN">
             <persName>Пароход</persName>
-            <persName xml:lang="de">Das Seeschiff</persName>
+            <persName xml:lang="ger">Das Seeschiff</persName>
           </person>
           <person xml:id="razruha" sex="UNKNOWN">
             <persName>Разруха</persName>
-            <persName xml:lang="de">Der Ruin</persName>
+            <persName xml:lang="ger">Der Ruin</persName>
           </person>
           <personGrp xml:id="vojsko" sex="UNKNOWN">
             <name>Войско</name>
-            <name xml:lang="de">Chor der Spekulanten</name>
+            <name xml:lang="ger">Chor der Spekulanten</name>
           </personGrp>
           <personGrp xml:id="veschi" sex="UNKNOWN">
             <name>Вещи</name>
-            <name xml:lang="de">Die Sachen</name>
+            <name xml:lang="ger">Die Sachen</name>
           </personGrp>
           <personGrp xml:id="mashiny" sex="UNKNOWN">
             <name>Машины</name>
-            <name xml:lang="de">Die Maschinen</name>
+            <name xml:lang="ger">Die Maschinen</name>
           </personGrp>
           <personGrp xml:id="edy" sex="UNKNOWN">
             <name>Еды</name>
-            <name xml:lang="de">Die Speisen</name>
+            <name xml:lang="ger">Die Speisen</name>
           </personGrp>
           <person xml:id="pila" sex="UNKNOWN">
             <persName>Пила</persName>
-            <persName xml:lang="de">Die Säge</persName>
+            <persName xml:lang="ger">Die Säge</persName>
           </person>
           <person xml:id="molot" sex="UNKNOWN">
             <persName>Молот</persName>
-            <persName xml:lang="de">Der Hammer</persName>
+            <persName xml:lang="ger">Der Hammer</persName>
           </person>
         </listPerson>
       </particDesc>

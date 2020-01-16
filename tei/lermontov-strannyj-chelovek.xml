@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Странный человек</title>
-        <title type="main" xml:lang="en">A Strange Man</title>
-        <title type="sub" xml:lang="ru">Романтическая драма</title>
-        <title type="sub" xml:lang="en">Romantic Drama</title>
+        <title type="main">Странный человек</title>
+        <title type="main" xml:lang="eng">A Strange Man</title>
+        <title type="sub">Романтическая драма</title>
+        <title type="sub" xml:lang="eng">Romantic Drama</title>
         <author key="wikidata:Q46599">Лермонтов, Михаил Юрьевич</author>
       </titleStmt>
       <publicationStmt>

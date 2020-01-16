@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Демофонт</title>
-        <title type="main" xml:lang="en">Demophon</title>
-        <title type="sub" xml:lang="ru">–</title>
-        <title type="sub" xml:lang="en">–</title>
+        <title type="main">Демофонт</title>
+        <title type="main" xml:lang="eng">Demophon</title>
+        <title type="sub">–</title>
+        <title type="sub" xml:lang="eng">–</title>
         <author key="wikidata:Q58720">Ломоносов, Михаил Васильевич</author>
       </titleStmt>
       <publicationStmt>
@@ -86,7 +86,7 @@
       <docTitle>
         <titlePart type="main">Демофонт</titlePart>
       </docTitle>
-      <div>
+      <div type="preface">
         <head>Краткое изъяснение</head>
         <p>После разорения Трои Демофонт, сын Тезея, царя Афинского, возвращаясь от Трои в
           отечество, противною бурею занесен был к берегам фракийским и с разбитого флота принят

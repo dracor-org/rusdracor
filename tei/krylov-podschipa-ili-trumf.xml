@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Подщипа или Трумф</title>
-        <title type="main" xml:lang="en">Podshchipa or Trumf</title>
-        <title type="sub" xml:lang="ru">Шуто-трагедия в двух действиях, в стихах</title>
-        <title type="sub" xml:lang="en">A Mock-Tragedy in Two Acts, in Verse</title>
+        <title type="main">Подщипа или Трумф</title>
+        <title type="main" xml:lang="eng">Podshchipa or Trumf</title>
+        <title type="sub">Шуто-трагедия в двух действиях, в стихах</title>
+        <title type="sub" xml:lang="eng">A Mock-Tragedy in Two Acts, in Verse</title>
         <author key="wikidata:Q191480">Крылов, Иван Андреевич</author>
       </titleStmt>
       <publicationStmt>

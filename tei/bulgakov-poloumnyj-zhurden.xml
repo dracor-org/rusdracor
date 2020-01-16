@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Полоумный Журден</title>
-        <title type="main" xml:lang="en">Half-Witted Jourdain</title>
-        <title type="sub" xml:lang="ru">Мольериана в трех действиях</title>
-        <title type="sub" xml:lang="en">Molièriana in Three Acts</title>
+        <title type="main">Полоумный Журден</title>
+        <title type="main" xml:lang="eng">Half-Witted Jourdain</title>
+        <title type="sub">Мольериана в трех действиях</title>
+        <title type="sub" xml:lang="eng">Molièriana in Three Acts</title>
         <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
       </titleStmt>
       <publicationStmt>
@@ -46,91 +46,91 @@
         <listPerson>
           <person xml:id="bezhar" sex="MALE">
             <persName>Бежар</persName>
-            <persName xml:lang="de">Béjart</persName>
+            <persName xml:lang="ger">Béjart</persName>
           </person>
           <person xml:id="brendavuan" sex="MALE">
             <persName>Брэндавуан</persName>
-            <persName xml:lang="de">Brindavouen</persName>
+            <persName xml:lang="ger">Brindavouen</persName>
           </person>
           <person xml:id="juber" sex="MALE">
             <persName>Юбер</persName>
-            <persName xml:lang="de">Hubert</persName>
+            <persName xml:lang="ger">Hubert</persName>
           </person>
           <person xml:id="dju_kruazi" sex="MALE">
             <persName>Дю Круази</persName>
-            <persName xml:lang="de">du Croisy</persName>
+            <persName xml:lang="ger">du Croisy</persName>
           </person>
           <person xml:id="uchitel_tantsev" sex="MALE">
             <persName>Учитель танцев</persName>
-            <persName xml:lang="de">Tanzmeister</persName>
+            <persName xml:lang="ger">Tanzmeister</persName>
           </person>
           <person xml:id="uchitel_muzyki" sex="MALE">
             <persName>Учитель музыки</persName>
-            <persName xml:lang="de">Musikmeister</persName>
+            <persName xml:lang="ger">Musikmeister</persName>
           </person>
           <person xml:id="zhurden" sex="MALE">
             <persName>Журден</persName>
-            <persName xml:lang="de">Jourdain</persName>
+            <persName xml:lang="ger">Jourdain</persName>
           </person>
           <person xml:id="uchitel_fehtovanija" sex="MALE">
             <persName>Учитель фехтования</persName>
-            <persName xml:lang="de">Fechtmeister</persName>
+            <persName xml:lang="ger">Fechtmeister</persName>
           </person>
           <person xml:id="pevets" sex="MALE">
             <persName>Певец</persName>
-            <persName xml:lang="de">Sänger</persName>
+            <persName xml:lang="ger">Sänger</persName>
           </person>
           <person xml:id="pevitsa" sex="FEMALE">
             <persName>Певица</persName>
-            <persName xml:lang="de">Sängerin</persName>
+            <persName xml:lang="ger">Sängerin</persName>
           </person>
           <person xml:id="nikol" sex="FEMALE">
             <persName>Николь</persName>
-            <persName xml:lang="de">Nicole</persName>
+            <persName xml:lang="ger">Nicole</persName>
           </person>
           <person xml:id="pankrass" sex="MALE">
             <persName>Панкрасс</persName>
-            <persName xml:lang="de">Pancrace</persName>
+            <persName xml:lang="ger">Pancrace</persName>
           </person>
           <person xml:id="statuja" sex="MALE">
             <persName>Статуя</persName>
-            <persName xml:lang="de">Statue</persName>
+            <persName xml:lang="ger">Statue</persName>
           </person>
           <person xml:id="don_zhuan" sex="MALE">
             <persName>Дон Жуан</persName>
-            <persName xml:lang="de">Don Juan</persName>
+            <persName xml:lang="ger">Don Juan</persName>
           </person>
           <person xml:id="gospozha_zhurden" sex="FEMALE">
             <persName>Госпожа Журден</persName>
-            <persName xml:lang="de">Madame Jourdain</persName>
+            <persName xml:lang="ger">Madame Jourdain</persName>
           </person>
           <person xml:id="dorant" sex="MALE">
             <persName>Дорант</persName>
-            <persName xml:lang="de">Dorante</persName>
+            <persName xml:lang="ger">Dorante</persName>
           </person>
           <person xml:id="kleont" sex="MALE">
             <persName>Клеонт</persName>
-            <persName xml:lang="de">Cleonte</persName>
+            <persName xml:lang="ger">Cleonte</persName>
           </person>
           <person xml:id="kovel" sex="MALE">
             <persName>Ковьель</persName>
-            <persName xml:lang="de">Covielle</persName>
+            <persName xml:lang="ger">Covielle</persName>
           </person>
           <person xml:id="ljusil" sex="FEMALE">
             <persName>Люсиль</persName>
-            <persName xml:lang="de">Lucile</persName>
+            <persName xml:lang="ger">Lucile</persName>
           </person>
           <person xml:id="dorimena" sex="FEMALE">
             <persName>Доримена</persName>
-            <persName xml:lang="de">Dorimène</persName>
+            <persName xml:lang="ger">Dorimène</persName>
           </person>
           <person xml:id="portnoj" sex="MALE">
             <persName>Портной</persName>
-            <persName xml:lang="de">Schneider</persName>
+            <persName xml:lang="ger">Schneider</persName>
           </person>
           <person xml:id="notarius" sex="MALE">
             <persName>Нотариус</persName>
-            <persName xml:lang="de">Notarius</persName>
+            <persName xml:lang="ger">Notarius</persName>
           </person>
         </listPerson>
       </particDesc>

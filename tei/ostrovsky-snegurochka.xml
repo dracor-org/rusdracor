@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Снегурочка</title>
-        <title type="main" xml:lang="en">The Snow Maiden</title>
-        <title type="sub" xml:lang="ru">Весенняя сказка</title>
-        <title type="sub" xml:lang="en">A Spring Fairy Tale</title>
+        <title type="main">Снегурочка</title>
+        <title type="main" xml:lang="eng">The Snow Maiden</title>
+        <title type="sub">Весенняя сказка</title>
+        <title type="sub" xml:lang="eng">A Spring Fairy Tale</title>
         <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
       </titleStmt>
       <publicationStmt>
@@ -44,171 +44,171 @@
         <listPerson>
           <person xml:id="leshij" sex="MALE">
             <persName>Леший</persName>
-            <persName xml:lang="de">Der Waldschratt</persName>
+            <persName xml:lang="ger">Der Waldschratt</persName>
           </person>
           <person xml:id="vesna_krasna" sex="FEMALE">
             <persName>Весна-Красна</persName>
-            <persName xml:lang="de">Die Lenzkönigin</persName>
+            <persName xml:lang="ger">Die Lenzkönigin</persName>
           </person>
           <person xml:id="hor_ptits" sex="UNKNOWN">
             <persName>Хор птиц</persName>
-            <persName xml:lang="de">Chor der Vögel</persName>
+            <persName xml:lang="ger">Chor der Vögel</persName>
           </person>
           <person xml:id="moroz" sex="MALE">
             <persName>Мороз</persName>
-            <persName xml:lang="de">Vater Frost</persName>
+            <persName xml:lang="ger">Vater Frost</persName>
           </person>
           <person xml:id="snegurochka" sex="FEMALE">
             <persName>Снегурочка</persName>
-            <persName xml:lang="de">Schneeflöckchen</persName>
+            <persName xml:lang="ger">Schneeflöckchen</persName>
           </person>
           <person xml:id="golosa_leshih" sex="UNKNOWN">
             <persName>Голоса леших</persName>
-            <persName xml:lang="de">Stimmen aus dem Walde</persName>
+            <persName xml:lang="ger">Stimmen aus dem Walde</persName>
           </person>
           <person xml:id="perviy_hor_berendeev" sex="UNKNOWN">
             <persName>1-й хор берендеев</persName>
-            <persName xml:lang="de">Erster Halbchor der Berendejer</persName>
+            <persName xml:lang="ger">Erster Halbchor der Berendejer</persName>
           </person>
           <person xml:id="vtoroj_hor_berendeev" sex="UNKNOWN">
             <persName>2-й хор берендеев</persName>
-            <persName xml:lang="de">Zweiter Halbchor der Berendejer</persName>
+            <persName xml:lang="ger">Zweiter Halbchor der Berendejer</persName>
           </person>
           <person xml:id="chuchelo_masljanitsy" sex="UNKNOWN">
             <persName>Чучело Масляницы</persName>
-            <persName xml:lang="de">Die Fastnacht</persName>
+            <persName xml:lang="ger">Die Fastnacht</persName>
           </person>
           <person xml:id="bobyliha" sex="FEMALE">
             <persName>Бобылиха</persName>
-            <persName xml:lang="de">Kätnersfrau</persName>
+            <persName xml:lang="ger">Kätnersfrau</persName>
           </person>
           <person xml:id="bobyl" sex="MALE">
             <persName>Бобыль</persName>
-            <persName xml:lang="de">Kätner</persName>
+            <persName xml:lang="ger">Kätner</persName>
           </person>
           <person xml:id="berendei" sex="UNKNOWN">
             <persName>Берендеи</persName>
-            <persName xml:lang="de">Die Berendejer</persName>
+            <persName xml:lang="ger">Die Berendejer</persName>
           </person>
           <person xml:id="odin_berendej" sex="MALE">
             <persName>Один берендей</persName>
-            <persName xml:lang="de">Ein Berendejer</persName>
+            <persName xml:lang="ger">Ein Berendejer</persName>
           </person>
           <person xml:id="golosa_iz_lesu" sex="UNKNOWN">
             <persName>Голоса из лесу</persName>
-            <persName xml:lang="de">Stimmen aus dem Walde</persName>
+            <persName xml:lang="ger">Stimmen aus dem Walde</persName>
           </person>
           <person xml:id="birjuch" sex="MALE">
             <persName>Бирюч</persName>
-            <persName xml:lang="de">Herold</persName>
+            <persName xml:lang="ger">Herold</persName>
           </person>
           <person xml:id="berendej" sex="MALE">
             <persName>Берендей</persName>
-            <persName xml:lang="de">Ein Berendejer</persName>
+            <persName xml:lang="ger">Ein Berendejer</persName>
           </person>
           <person xml:id="murash" sex="MALE">
             <persName>Мураш</persName>
-            <persName xml:lang="de">Murasch</persName>
+            <persName xml:lang="ger">Murasch</persName>
           </person>
           <person xml:id="lel" sex="MALE">
             <persName>Лель</persName>
-            <persName xml:lang="de">Lel</persName>
+            <persName xml:lang="ger">Lel</persName>
           </person>
           <person xml:id="malusha" sex="FEMALE">
             <persName>Малуша</persName>
-            <persName xml:lang="de">Maluscha</persName>
+            <persName xml:lang="ger">Maluscha</persName>
           </person>
           <person xml:id="radushka" sex="FEMALE">
             <persName>Радушка</persName>
-            <persName xml:lang="de">Raduschka</persName>
+            <persName xml:lang="ger">Raduschka</persName>
           </person>
           <person xml:id="brusilo" sex="MALE">
             <persName>Брусило</persName>
-            <persName xml:lang="de">Brusilo</persName>
+            <persName xml:lang="ger">Brusilo</persName>
           </person>
           <person xml:id="kurilka" sex="MALE">
             <persName>Курилка</persName>
-            <persName xml:lang="de">Kurilka</persName>
+            <persName xml:lang="ger">Kurilka</persName>
           </person>
           <person xml:id="kupava" sex="FEMALE">
             <persName>Купава</persName>
-            <persName xml:lang="de">Kupawa</persName>
+            <persName xml:lang="ger">Kupawa</persName>
           </person>
           <person xml:id="mizgir" sex="MALE">
             <persName>Мизгирь</persName>
-            <persName xml:lang="de">Misgir</persName>
+            <persName xml:lang="ger">Misgir</persName>
           </person>
           <person xml:id="malysh" sex="MALE">
             <persName>Малыш</persName>
-            <persName xml:lang="de">Malysch</persName>
+            <persName xml:lang="ger">Malysch</persName>
           </person>
           <person xml:id="vse_1-8" sex="UNKNOWN">
             <persName>Все (I/8)</persName>
-            <persName xml:lang="de">Alle (I/8)</persName>
+            <persName xml:lang="ger">Alle (I/8)</persName>
           </person>
           <person xml:id="gusljary" sex="UNKNOWN">
             <persName>Гусляры</persName>
-            <persName xml:lang="de">Die Blinden</persName>
+            <persName xml:lang="ger">Die Blinden</persName>
           </person>
           <person xml:id="perviy_skomoroh" sex="MALE">
             <persName>1-й скоморох</persName>
-            <persName xml:lang="de">Erster Narr</persName>
+            <persName xml:lang="ger">Erster Narr</persName>
           </person>
           <person xml:id="vtoroj_skomoroh" sex="MALE">
             <persName>2-й скоморох</persName>
-            <persName xml:lang="de">Zweiter Narr</persName>
+            <persName xml:lang="ger">Zweiter Narr</persName>
           </person>
           <person xml:id="tsar" sex="MALE">
             <persName>Царь</persName>
-            <persName xml:lang="de">Zar</persName>
+            <persName xml:lang="ger">Zar</persName>
           </person>
           <person xml:id="bermjata" sex="MALE">
             <persName>Бермята</persName>
-            <persName xml:lang="de">Bermiata</persName>
+            <persName xml:lang="ger">Bermiata</persName>
           </person>
           <person xml:id="otrok" sex="MALE">
             <persName>Отрок</persName>
-            <persName xml:lang="de">Edelknabe</persName>
+            <persName xml:lang="ger">Edelknabe</persName>
           </person>
           <person xml:id="perviy_birjuch" sex="MALE">
             <persName>1-й бирюч</persName>
-            <persName xml:lang="de">Erster Herold</persName>
+            <persName xml:lang="ger">Erster Herold</persName>
           </person>
           <person xml:id="vtoroj_birjuch" sex="MALE">
             <persName>2-й бирюч</persName>
-            <persName xml:lang="de">Zweiter Herold</persName>
+            <persName xml:lang="ger">Zweiter Herold</persName>
           </person>
           <person xml:id="elena_prekrasnaja" sex="FEMALE">
             <persName>Елена Прекрасная</persName>
-            <persName xml:lang="de">Die schöne Jelena</persName>
+            <persName xml:lang="ger">Die schöne Jelena</persName>
           </person>
           <person xml:id="hor_naroda" sex="UNKNOWN">
             <persName>Хор народа</persName>
-            <persName xml:lang="de">Das Volk (im Chor)</persName>
+            <persName xml:lang="ger">Das Volk (im Chor)</persName>
           </person>
           <person xml:id="narod" sex="UNKNOWN">
             <persName>Народ</persName>
-            <persName xml:lang="de">Das Volk</persName>
+            <persName xml:lang="ger">Das Volk</persName>
           </person>
           <person xml:id="devushki_i_parni" sex="UNKNOWN">
             <persName>Девушки и парни</persName>
-            <persName xml:lang="de">Mädchen und Burschen</persName>
+            <persName xml:lang="ger">Mädchen und Burschen</persName>
           </person>
           <person xml:id="obschij_hor" sex="UNKNOWN">
             <persName>Общий хор</persName>
-            <persName xml:lang="de">Gemeinsamer Chor</persName>
+            <persName xml:lang="ger">Gemeinsamer Chor</persName>
           </person>
           <person xml:id="odna_storona" sex="UNKNOWN">
             <persName>Одна сторона</persName>
-            <persName xml:lang="de">Erste Gruppe</persName>
+            <persName xml:lang="ger">Erste Gruppe</persName>
           </person>
           <person xml:id="drugaja_storona" sex="UNKNOWN">
             <persName>Другая сторона</persName>
-            <persName xml:lang="de">Zweite Gruppe</persName>
+            <persName xml:lang="ger">Zweite Gruppe</persName>
           </person>
           <person xml:id="golosa_iz_naroda" sex="UNKNOWN">
             <persName>Голоса из народа</persName>
-            <persName xml:lang="de">Stimmen im Volk</persName>
+            <persName xml:lang="ger">Stimmen im Volk</persName>
           </person>
         </listPerson>
       </particDesc>

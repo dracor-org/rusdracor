@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Егор Булычов и другие</title>
-        <title type="main" xml:lang="en">Yegor Bulichov and Others</title>
-        <title type="sub" xml:lang="ru">Сцены</title>
-        <title type="sub" xml:lang="en">Scenes</title>
+        <title type="main">Егор Булычов и другие</title>
+        <title type="main" xml:lang="eng">Yegor Bulichov and Others</title>
+        <title type="sub">Сцены</title>
+        <title type="sub" xml:lang="eng">Scenes</title>
         <author key="wikidata:Q12706">Горький, Максим</author>
       </titleStmt>
       <publicationStmt>

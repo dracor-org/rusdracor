@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Филомела</title>
-        <title type="main" xml:lang="en">Philomela</title>
-        <title type="sub" xml:lang="ru">Трагедия в пяти действиях, в стихах</title>
-        <title type="sub" xml:lang="en">A Tragedy in Five Acts, in Verse</title>
+        <title type="main">Филомела</title>
+        <title type="main" xml:lang="eng">Philomela</title>
+        <title type="sub">Трагедия в пяти действиях, в стихах</title>
+        <title type="sub" xml:lang="eng">A Tragedy in Five Acts, in Verse</title>
         <author key="wikidata:Q191480">Крылов, Иван Андреевич</author>
       </titleStmt>
       <publicationStmt>

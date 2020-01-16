@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Иван Васильевич</title>
-        <title type="main" xml:lang="en">Ivan Vasilievich</title>
-        <title type="sub" xml:lang="ru">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
+        <title type="main">Иван Васильевич</title>
+        <title type="main" xml:lang="eng">Ivan Vasilievich</title>
+        <title type="sub">Комедия в трех действиях</title>
+        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
         <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
       </titleStmt>
       <publicationStmt>
@@ -47,67 +47,67 @@
         <listPerson>
           <person xml:id="timofeev" sex="MALE">
             <persName>Тимофеев</persName>
-            <persName xml:lang="de">Timofeev</persName>
+            <persName xml:lang="ger">Timofeev</persName>
           </person>
           <person xml:id="zinaida" sex="FEMALE">
             <persName>Зинаида</persName>
-            <persName xml:lang="de">Zinaida</persName>
+            <persName xml:lang="ger">Zinaida</persName>
           </person>
           <person xml:id="uljana" sex="FEMALE">
             <persName>Ульяна</persName>
-            <persName xml:lang="de">Ulʹâna</persName>
+            <persName xml:lang="ger">Ulʹâna</persName>
           </person>
           <person xml:id="miloslavskij" sex="MALE">
             <persName>Милославский</persName>
-            <persName xml:lang="de">Miloslavskij</persName>
+            <persName xml:lang="ger">Miloslavskij</persName>
           </person>
           <person xml:id="bunsha" sex="MALE">
             <persName>Бунша</persName>
-            <persName xml:lang="de">Bunša</persName>
+            <persName xml:lang="ger">Bunša</persName>
           </person>
           <person xml:id="ioann" sex="MALE" ana="http://www.wikidata.org/entity/Q7996">
             <persName>Иоанн Грозный</persName>
-            <persName xml:lang="de">Ioann Groznyj</persName>
+            <persName xml:lang="ger">Ioann Groznyj</persName>
           </person>
           <person xml:id="djak" sex="MALE">
             <persName>Дьяк</persName>
-            <persName xml:lang="de">Geheimschreiber</persName>
+            <persName xml:lang="ger">Geheimschreiber</persName>
           </person>
           <person xml:id="oprichnik" sex="MALE">
             <persName>Опричник</persName>
-            <persName xml:lang="de">Tafelaufseher</persName>
+            <persName xml:lang="ger">Tafelaufseher</persName>
           </person>
           <person xml:id="shpak" sex="MALE">
             <persName>Шпак</persName>
-            <persName xml:lang="de">Špak</persName>
+            <persName xml:lang="ger">Špak</persName>
           </person>
           <person xml:id="jakin" sex="MALE">
             <persName>Якин</persName>
-            <persName xml:lang="de">Âkin</persName>
+            <persName xml:lang="ger">Âkin</persName>
           </person>
           <personGrp xml:id="oprichniki" sex="MALE">
             <name>Опричники</name>
-            <name xml:lang="de">Leibwächter</name>
+            <name xml:lang="ger">Leibwächter</name>
           </personGrp>
           <person xml:id="posol" sex="MALE">
             <persName>Шведский посол</persName>
-            <persName xml:lang="de">Schwedischer Gesandter</persName>
+            <persName xml:lang="ger">Schwedischer Gesandter</persName>
           </person>
           <person xml:id="patriarh" sex="MALE">
             <persName>Патриарх</persName>
-            <persName xml:lang="de">Patriarch</persName>
+            <persName xml:lang="ger">Patriarch</persName>
           </person>
           <person xml:id="tsaritsa" sex="FEMALE">
             <persName>Царица</persName>
-            <persName xml:lang="de">Zarin</persName>
+            <persName xml:lang="ger">Zarin</persName>
           </person>
           <personGrp xml:id="gusljary" sex="MALE">
             <name>Гусляры</name>
-            <name xml:lang="de">Guslispieler</name>
+            <name xml:lang="ger">Guslispieler</name>
           </personGrp>
           <person xml:id="militsija" sex="MALE">
             <persName>Милиция</persName>
-            <persName xml:lang="de">Milizionär</persName>
+            <persName xml:lang="ger">Milizionär</persName>
           </person>
         </listPerson>
       </particDesc>

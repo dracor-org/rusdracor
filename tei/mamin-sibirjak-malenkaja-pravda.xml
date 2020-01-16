@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Маленькая правда</title>
-        <title type="main" xml:lang="en">Little Truth</title>
-        <title type="sub" xml:lang="ru">Драма в 4-рех действиях.</title>
-        <title type="sub" xml:lang="en">Drama in Four Acts</title>
+        <title type="main">Маленькая правда</title>
+        <title type="main" xml:lang="eng">Little Truth</title>
+        <title type="sub">Драма в 4-рех действиях.</title>
+        <title type="sub" xml:lang="eng">Drama in Four Acts</title>
         <author key="wikidata:Q2207346">Мамин-Сибиряк, Дмитрий Наркисович</author>
       </titleStmt>
       <publicationStmt>

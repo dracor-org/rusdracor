@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Неудачный примиритель, или Без обеду домой поеду</title>
-        <title type="main" xml:lang="en">The Unsuccessful Peacemaker, or I Shall Go Home Without
+        <title type="main">Неудачный примиритель, или Без обеду домой поеду</title>
+        <title type="main" xml:lang="eng">The Unsuccessful Peacemaker, or I Shall Go Home Without
           Dinner</title>
-        <title type="sub" xml:lang="ru">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="en">Comedy in Three Acts</title>
+        <title type="sub">Комедия в трех действиях</title>
+        <title type="sub" xml:lang="eng">Comedy in Three Acts</title>
         <author key="wikidata:Q354505">Княжнин, Яков Борисович</author>
       </titleStmt>
       <publicationStmt>

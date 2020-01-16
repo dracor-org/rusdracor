@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Не любо – не слушай, а лгать не мешай</title>
-        <title type="main" xml:lang="en">Don't Listen if You Don't Want to, But Don't Interfere with
+        <title type="main">Не любо – не слушай, а лгать не мешай</title>
+        <title type="main" xml:lang="eng">Don't Listen if You Don't Want to, But Don't Interfere with
           Lying</title>
-        <title type="sub" xml:lang="ru">Комедия в одном действии, в вольных стихах</title>
-        <title type="sub" xml:lang="en">A Comedy in One Act, in Free Verse</title>
+        <title type="sub">Комедия в одном действии, в вольных стихах</title>
+        <title type="sub" xml:lang="eng">A Comedy in One Act, in Free Verse</title>
         <author key="wikidata:Q3740432">Шаховской, Александр Александрович</author>
       </titleStmt>
       <publicationStmt>

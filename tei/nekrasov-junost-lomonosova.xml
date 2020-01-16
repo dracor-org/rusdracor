@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Юность Ломоносова</title>
-        <title type="main" xml:lang="en">Lomonosov's Youth</title>
-        <title type="sub" xml:lang="ru">Драматическая фантазия в стихах в одном действии с
+        <title type="main">Юность Ломоносова</title>
+        <title type="main" xml:lang="eng">Lomonosov's Youth</title>
+        <title type="sub">Драматическая фантазия в стихах в одном действии с
           эпилогом</title>
-        <title type="sub" xml:lang="en">Dramatic Fantasy in Verse, in One Act With Epilogue</title>
+        <title type="sub" xml:lang="eng">Dramatic Fantasy in Verse, in One Act With Epilogue</title>
         <author key="wikidata:Q208003">Некрасов, Николай Алексеевич</author>
       </titleStmt>
       <publicationStmt>

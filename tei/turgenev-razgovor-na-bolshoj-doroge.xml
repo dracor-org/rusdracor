@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Разговор на большой дороге</title>
-        <title type="main" xml:lang="en">A Conversation on the Highway</title>
-        <title type="sub" xml:lang="ru">Сцена</title>
-        <title type="sub" xml:lang="en">Scene</title>
+        <title type="main">Разговор на большой дороге</title>
+        <title type="main" xml:lang="eng">A Conversation on the Highway</title>
+        <title type="sub">Сцена</title>
+        <title type="sub" xml:lang="eng">Scene</title>
         <author key="wikidata:Q42831">Тургенев, Иван Сергеевич</author>
       </titleStmt>
       <publicationStmt>
@@ -1178,49 +1178,6 @@
         </sp>
         <stage>(Тарантас въезжает в березовую рощу.)</stage>
         <dateline>1851 г.</dateline>
-      </div>
-      <div type="dictionary">
-        <head>Орловские слова, которые попадаются в «Разговоре»:</head>
-        <entry>
-          <form>Лядащий</form>
-          <sense>— <def>никуда не годный, дрянной</def>.</sense>
-        </entry>
-        <entry>
-          <form>Божевольный</form>
-          <sense>— <def>шаловливый, пугливый</def>.</sense>
-        </entry>
-        <entry>
-          <form>Вохляк</form>
-          <sense>— <def>неловкий, мешок</def>.</sense>
-        </entry>
-        <entry>
-          <form>Очунеть</form>
-          <sense>— <def>притти в себя</def>.</sense>
-        </entry>
-        <entry>
-          <form>Спапашиться</form>
-          <sense>— <def>справиться, изловчиться</def>.</sense>
-        </entry>
-        <entry>
-          <form>Лытки</form>
-          <sense>— <def>мышцы под коленками</def>.</sense>
-        </entry>
-        <entry>
-          <form>Верх</form>
-          <sense>— <def>овраг</def>.</sense>
-        </entry>
-        <entry>
-          <form>Взлобок, взлобочек</form>
-          <sense>— <def>выдающийся мыс между двумя оврагами</def>.</sense>
-        </entry>
-        <entry>
-          <form>Взлыз</form>
-          <sense>— <def>покатое место, pente douce</def>.</sense>
-        </entry>
-        <entry>
-          <form>Иржы</form>
-          <sense>— <def>множественное число слова: рожь</def>.</sense>
-        </entry>
       </div>
     </body>
   </text>

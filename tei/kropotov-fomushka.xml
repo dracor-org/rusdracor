@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Фомушка – бабушкин внучек</title>
-        <title type="main" xml:lang="en">Fomushka – Granny's Boy</title>
-        <title type="sub" xml:lang="ru">Комедия</title>
-        <title type="sub" xml:lang="en">A Comedy</title>
+        <title type="main">Фомушка – бабушкин внучек</title>
+        <title type="main" xml:lang="eng">Fomushka – Granny's Boy</title>
+        <title type="sub">Комедия</title>
+        <title type="sub" xml:lang="eng">A Comedy</title>
         <author key="wikidata:Q15070549">Кропотов, Пётр Андреевич</author>
       </titleStmt>
       <publicationStmt>

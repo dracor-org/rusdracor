@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Неслыханное диво, или честный секретарь</title>
-        <title type="main" xml:lang="en">Wonder of Wonders, or an Honest Secretary</title>
-        <title type="sub" xml:lang="ru">Комедия в трех действиях, в стихах</title>
-        <title type="sub" xml:lang="en">A Comedy in Three Acts, in Verse</title>
+        <title type="main">Неслыханное диво, или честный секретарь</title>
+        <title type="main" xml:lang="eng">Wonder of Wonders, or an Honest Secretary</title>
+        <title type="sub">Комедия в трех действиях, в стихах</title>
+        <title type="sub" xml:lang="eng">A Comedy in Three Acts, in Verse</title>
         <author key="wikidata:Q21147620">Судовщиков, Николай Родионович</author>
       </titleStmt>
       <publicationStmt>

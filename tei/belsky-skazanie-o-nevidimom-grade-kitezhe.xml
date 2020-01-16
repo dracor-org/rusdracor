@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Сказание о невидимом граде Китеже и деве Февронии</title>
-        <title type="main" xml:lang="en">The Legend of the Invisible City of Kitezh and the Maiden
+        <title type="main">Сказание о невидимом граде Китеже и деве Февронии</title>
+        <title type="main" xml:lang="eng">The Legend of the Invisible City of Kitezh and the Maiden
           Fevroniya</title>
-        <title type="sub" xml:lang="ru">–</title>
-        <title type="sub" xml:lang="en">–</title>
+        <title type="sub">–</title>
+        <title type="sub" xml:lang="eng">–</title>
         <author key="wikidata:Q1259652">Бельский, Владимир Иванович</author>
       </titleStmt>
       <publicationStmt>

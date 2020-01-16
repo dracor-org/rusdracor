@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Урок дочкам</title>
-        <title type="main" xml:lang="en">A Lesson for Daughters</title>
-        <title type="sub" xml:lang="ru">Комедия в одном действии</title>
-        <title type="sub" xml:lang="en">A Comedy in One Act</title>
+        <title type="main">Урок дочкам</title>
+        <title type="main" xml:lang="eng">A Lesson for Daughters</title>
+        <title type="sub">Комедия в одном действии</title>
+        <title type="sub" xml:lang="eng">A Comedy in One Act</title>
         <author key="wikidata:Q191480">Крылов, Иван Андреевич</author>
       </titleStmt>
       <publicationStmt>
