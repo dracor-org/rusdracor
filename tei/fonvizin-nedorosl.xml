@@ -92,6 +92,16 @@
           <person xml:id="kamerdiner" sex="MALE">
             <persName>Камердинер</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#prostakov #gospozha_prostakova"/>
+            <relation name="parent_of" active="#gospozha_prostakova" passive="#mitrofan"/>
+            <relation name="parent_of" active="#prostakov" passive="#mitrofan"/>
+            <relation name="associated_with" active="#eremeevna" passive="#mitrofan"/>
+            <relation name="related_with" active="#sofja" passive="#starodum"/>
+            <relation name="associated_with" active="#sluga" passive="#prostakov"/>
+            <relation name="siblings" mutual="#skotinin #gospozha_prostakova"/>
+            <relation name="associated_with" active="#kamerdiner" passive="#starodum"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -106,6 +116,7 @@
         <change>(sl) check IDs, add dates</change>
         <change>(to) add gender info</change>
         <change when="2018-03-21">(ff) formalities; add some missing text</change>
+        <change when="2020-01-30">(ff) add listRelation</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
