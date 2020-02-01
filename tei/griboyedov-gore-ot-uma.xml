@@ -169,6 +169,17 @@
             <persName>Лакей</persName>
             <persName xml:lang="ger">Lakai (IV/4)</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#famusov" passive="#sofija"/>
+            <relation name="associated_with" active="#lizanka" passive="#famusov"/>
+            <relation name="associated_with" active="#molchalin" passive="#famusov"/>
+            <relation name="spouses" mutual="#platon_mihajlovich #natalja_dmitrievna"/>
+            <relation name="spouses" mutual="#knjaz #knjaginja"/>
+            <relation name="siblings" mutual="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
+            <relation name="parent_of" active="#knjaz #knjaginja" passive="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
+            <relation name="related_with" active="#grafinja_vnuchka" passive="#grafinja_babushka"/>
+            <relation name="related_with" active="#hlestova" passive="#famusov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -184,6 +195,7 @@
         <change when="2017-10-17">(ds) restore missing bits (last scenes of each act)</change>
         <change when="2017-10-29">(ff) more work on IDs and other corrections</change>
         <change when="2019-02-02">(ff) lowercase IDs; insert pagebreaks; add missing text</change>
+        <change when="2020-02-02">(ff) add listRelation</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
