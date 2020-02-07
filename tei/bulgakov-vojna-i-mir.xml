@@ -426,13 +426,12 @@
             <persName xml:lang="ger">Liedersänger</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#grafinja" passive="#petja"/>
-            <relation name="parent_of" active="#grafinja" passive="#rostov"/>
-            <relation name="parent_of" active="#graf" passive="#petja"/>
-            <relation name="parent_of" active="#graf" passive="#rostov"/>
-            <relation name="related_with" active="#sonja" passive="#graf"/>
-            <relation name="siblings" mutual="#petja #rostov"/>
+            <relation name="parent_of" active="#grafinja #graf" passive="#petja #rostov #natasha"/>
+            <relation name="siblings" mutual="#petja #rostov #natasha"/>
             <relation name="spouses" mutual="#grafinja #graf"/>
+            <relation name="related_with" active="#sonja" passive="#graf"/>
+            <relation name="associated_with" active="#adjutant" passive="#kutuzov"/>
+           
             <relation name="associated_with" active="#lavrushka" passive="#rostov"/>
             <relation name="associated_with" active="#tihon" passive="#bolkonskij"/>
             <relation name="associated_with" active="#dunjasha" passive="#marja"/>
@@ -447,6 +446,7 @@
             <relation name="associated_with" active="#vasilich" passive="#natasha"/>
             <relation name="associated_with" active="#vasilich" passive="#petja"/>
             <relation name="associated_with" active="#vasilich" passive="#rostov"/>
+            <relation name="associated_with" active="#matrena_timofeevna" passive="#graf #grafinja #natasha #petja #rostov"/>
             <relation name="associated_with" active="#pochtennyj_kamerdiner" passive="#andrej"/>
             <relation name="associated_with" active="#gornichnaja" passive="#grafinja"/>
             <relation name="associated_with" active="#gornichnaja" passive="#graf"/>
