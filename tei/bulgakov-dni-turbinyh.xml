@@ -139,6 +139,7 @@
           <listRelation type="personal">
             <relation name="spouses" mutual="#Talberg #Elena"/>
             <relation name="siblings" mutual="#Elena #Nikolka #Aleksej"/>
+            <relation name="associated_with" active="#Shervinskij" passive="#Getman"/>
           </listRelation>
         </listPerson>
       </particDesc>
