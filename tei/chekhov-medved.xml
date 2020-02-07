@@ -65,6 +65,9 @@
             <persName xml:lang="eng">Smirnov</persName>
             <persName xml:lang="ger">Smirnov</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#Luka" passive="#Popova"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
