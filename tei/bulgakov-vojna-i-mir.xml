@@ -431,7 +431,6 @@
             <relation name="spouses" mutual="#grafinja #graf"/>
             <relation name="related_with" active="#sonja" passive="#graf"/>
             <relation name="associated_with" active="#adjutant" passive="#kutuzov"/>
-           
             <relation name="associated_with" active="#lavrushka" passive="#rostov"/>
             <relation name="associated_with" active="#tihon" passive="#bolkonskij"/>
             <relation name="associated_with" active="#dunjasha" passive="#marja"/>
