@@ -90,6 +90,11 @@
           <person xml:id="tretiy_vrach" sex="MALE">
             <persName>Третий врач</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#tatyana_nikolaevna #savyolov"/>
+            <relation name="associated_with" active="#sasha" passive="#tatyana_nikolaevna #savyolov"/>
+            <relation name="associated_with" active="#darya_vasilyevna #vasiliy" passive="#kerzhentsev"/>
+        </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -153,6 +153,10 @@
             <persName xml:lang="eng">Nyusha</persName>
             <persName xml:lang="ger">Njuscha</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#mukovnin" passive="#lyudmila"/>
+            <relation name="associated_with" active="#nefyodovnа" passive="#mukovnin"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
