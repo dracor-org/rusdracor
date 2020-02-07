@@ -146,6 +146,7 @@
           <listRelation type="personal">
             <relation name="associated_with" active="#buton" passive="#moler"/>
             <relation name="associated_with" active="#rene" passive="#moler"/>
+            <relation name="associated_with" active="#madlena #armanda" passive="#moler"/>
           </listRelation>
         </listPerson>
       </particDesc>
