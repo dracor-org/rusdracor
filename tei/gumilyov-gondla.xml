@@ -70,7 +70,7 @@
             <persName>Вождь</persName>
           </person>
           <listRelation type="personal">
-            <relation name="associated_with" active="#gondla" passive="#konung"/>
+            <relation name="associated_with" active="#gondla #snorre #grubbe" passive="#konung"/>
           </listRelation>
         </listPerson>
       </particDesc>

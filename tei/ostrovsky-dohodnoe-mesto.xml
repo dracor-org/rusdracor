@@ -96,6 +96,7 @@
             <relation name="associated_with" active="#belogubov" passive="#yusov"/>
             <relation name="related_with" active="#zhadov" passive="#vyshnevskij"/>
             <relation name="associated_with" active="#yusov" passive="#vyshnevskij"/>
+            <relation name="associated_with" active="#anton" passive="#vyshnevskij"/>
             <relation name="spouses" mutual="#vyshnevskij #vyshnevskaya"/>
           </listRelation>
         </listPerson>

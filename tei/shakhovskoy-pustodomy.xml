@@ -82,8 +82,7 @@
           <listRelation type="personal">
             <relation name="siblings" mutual="#knjazhna #knjaz"/>
             <relation name="spouses" mutual="#knjaginja #knjaz"/>
-            <relation name="related_with" active="#radimov" passive="#knjaz"/>
-            <relation name="related_with" active="#radimov" passive="#knjazhna"/>
+            <relation name="related_with" active="#radimov" passive="#knjaz #knjazhna"/>
             <relation name="related_with" active="#grafinja" passive="#knjaginja"/>
             <relation name="parent_of" active="#grafinja" passive="#graf"/>
             <relation name="lover_of" active="#graf" passive="#knjazhna"/>

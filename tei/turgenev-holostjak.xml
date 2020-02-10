@@ -93,6 +93,7 @@
             <relation name="associated_with" active="#malanja" passive="#moshkin"/>
             <relation name="associated_with" active="#mitka" passive="#vilitskij"/>
             <relation name="associated_with" active="#stratilat" passive="#moshkin"/>
+            <relation name="associated_with" active="#masha" passive="#moshkin"/>
             <relation name="friends" mutual="#sozomenos #fonk"/>
           </listRelation>
         </listPerson>

@@ -81,7 +81,7 @@
             <persName>Нагланович</persName>
           </person>
           <listRelation type="personal">
-            <relation name="associated_with" active="#velvitskij" passive="#balagalaev"/>
+            <relation name="associated_with" active="#velvitskij" passive="#balagalaev"/> 
             <relation name="associated_with" active="#gerasim" passive="#balagalaev"/>
             <relation name="associated_with" active="#karp" passive="#kaurova"/>
             <relation name="siblings" mutual="#kaurova #bespandin"/>

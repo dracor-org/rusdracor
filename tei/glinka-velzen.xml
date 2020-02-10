@@ -113,7 +113,7 @@
           <listRelation type="personal">
             <relation name="associated_with" active="#ehdvald" passive="#floran"/>
             <relation name="parent_of" active="#inslar" passive="#godmila"/>
-            <relation name="spouses" mutual="#godmila #velzen"/>
+            <relation name="spouses" mutual="#godmila #velzen"/> 
           </listRelation>
         </listPerson>
       </particDesc>

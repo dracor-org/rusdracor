@@ -63,9 +63,7 @@
             <persName>Полковник</persName>
           </person>
           <listRelation type="personal">
-            <relation name="lover_of" active="#mishorin" passive="#grafinja"/>
             <relation name="associated_with" active="#drobinkin" passive="#grafinja"/>
-            <relation name="associated_with" active="#sluga" passive="#grafinja"/>
           </listRelation>
         </listPerson>
       </particDesc>

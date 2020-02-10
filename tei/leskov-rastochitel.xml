@@ -171,7 +171,7 @@
             <relation name="parent_of" active="#drosida" passive="#alena"/>
             <relation name="related_with" active="#miakishev" passive="#molchanov"/>
             <relation name="related_with" active="#drobadonov" passive="#molchanov"/>
-            <relation name="associated_with" active="#slujanka" passive="#miakishev"/>
+            <relation name="associated_with" active="#slujanka" passive="#miakishev #anna_semenovna"/>
             <relation name="spouses" mutual="#marja_parmenova #molchanov"/>
             <relation name="spouses" mutual="#anna_semenovna #miakishev"/>
             <relation name="friends" mutual="#kolokolcov #molchanov"/>

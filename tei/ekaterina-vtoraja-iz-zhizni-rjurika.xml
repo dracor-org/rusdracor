@@ -137,16 +137,10 @@
             <persName xml:lang="ger">Zweiter Eilbote</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#umila" passive="#truvor"/>
-            <relation name="parent_of" active="#umila" passive="#sineus"/>
-            <relation name="parent_of" active="#umila" passive="#rjurik"/>
-            <relation name="parent_of" active="#ljudbrat" passive="#truvor"/>
-            <relation name="parent_of" active="#ljudbrat" passive="#sineus"/>
-            <relation name="parent_of" active="#ljudbrat" passive="#rjurik"/>
+            <relation name="parent_of" active="#umila #ljudbrat" passive="#truvor #sineus #rjurik"/>
             <relation name="parent_of" active="#gostomysl" passive="#umila"/>
             <relation name="parent_of" active="#rjurik" passive="#oskold"/>
-            <relation name="associated_with" active="#radbrat" passive="#ljudbrat"/>
-            <relation name="associated_with" active="#gorlom" passive="#ljudbrat"/>
+            <relation name="associated_with" active="#radbrat #gorlom" passive="#ljudbrat"/>
             <relation name="associated_with" active="#rohvold" passive="#rjurik"/>
             <relation name="siblings" mutual="#oleg #edvinda"/>
             <relation name="spouses" mutual="#edvinda #rjurik"/>

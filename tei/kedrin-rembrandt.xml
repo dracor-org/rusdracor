@@ -165,6 +165,12 @@
           <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="lover_of" active="#magdalina_van_loo" passive="#rembrandt"/>
+            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink" passive="#rembrandt"/>
+            <relation name="related_with" active="#doktor_tyulp" passive="#siks"/>
+            <relation name="spouses" mutual="#rembrandt #saskiya"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

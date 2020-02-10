@@ -69,7 +69,7 @@
             <persName>Чеснодум</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#kruton" passive="#chesnodum"/>
+            <relation name="parent_of" active="#kruton" passive="#chesnodum"/> 
             <relation name="lover_of" active="#chesnodum" passive="#milana"/>
             <relation name="lover_of" active="#modstrih" passive="#milana"/>
             <relation name="related_with" active="#milana" passive="#nadmen"/>

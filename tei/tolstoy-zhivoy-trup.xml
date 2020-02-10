@@ -203,6 +203,20 @@
             <persName>Судейский</persName>
             <persName xml:lang="ger">Gerichtsdiener</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#anna_pavlovna" passive="#liza"/>
+            <relation name="parent_of" active="#anna_dmitrievna" passive="#karenin"/>
+            <relation name="parent_of" active="#ivan_makarovich #nastasja_ivanovna" passive="#masha"/>
+            <relation name="associated_with" active="#njanja" passive="#fedja #liza"/>
+            <relation name="associated_with" active="#gornichnaja" passive="#fedja #liza"/>
+            <relation name="associated_with" active="#stahovich #afremov #korotkov #butkevich" passive="#fedja"/>
+            <relation name="associated_with" active="#pismovoditel" passive="#sudebnyj_sledovatel"/>
+            <relation name="associated_with" active="#voznesenskij" passive="#karenin"/>
+            <relation name="siblings" mutual="#sasha #liza"/>
+            <relation name="spouses" mutual="#fedja #liza"/>
+            <relation name="spouses" mutual="#ivan_makarovich #nastasja_ivanovna"/>
+            <relation name="friends" mutual="#marja_vasilevna #liza"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

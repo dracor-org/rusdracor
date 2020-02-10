@@ -89,9 +89,7 @@
             <persName xml:lang="ger">Der Haushofmeister</persName>
           </person>
           <listRelation type="personal">
-            <relation name="associated_with" active="#pervyj" passive="#evgenij"/>
-            <relation name="associated_with" active="#vtorojto" passive="#evgenij"/>
-            <relation name="associated_with" active="#tretij" passive="#evgenij"/>
+            <relation name="associated_with" active="#pervyj #vtoroj #tretij" passive="#evgenij"/>
             <relation name="associated_with" active="#njanja" passive="#zoja"/>
             <relation name="associated_with" active="#evgenij" passive="#zoja"/>
             <relation name="friends" mutual="#valentin #evgenij"/>

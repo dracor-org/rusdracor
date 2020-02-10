@@ -77,7 +77,7 @@
             <persName>Огородник</persName>
           </person>
           <listRelation type="personal">
-            <relation name="lover_of" active="#slavin" passive="#sofya"/>
+            <relation name="lover_of" active="#slavin" passive="#sofya"/> 
             <relation name="related_with" active="#sofya" passive="#flyugerova"/>
             <relation name="associated_with" active="#knyaz" passive="#pryamikov"/>
             <relation name="associated_with" active="#dasha" passive="#flyugerova"/>

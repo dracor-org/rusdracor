@@ -162,10 +162,8 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#anna_petrovna" passive="#marja_andreevna"/>
             <relation name="parent_of" active="#horkova" passive="#horkov"/>
-            <relation name="associated_with" active="#merich" passive="#anna_petrovna"/>
-            <relation name="associated_with" active="#milashin" passive="#anna_petrovna"/>
-            <relation name="associated_with" active="#darja" passive="#anna_petrovna"/>
-            <relation name="associated_with" active="#darja" passive="#marja_andreevna"/>
+            <relation name="associated_with" active="#merich #milashin" passive="#anna_petrovna"/>
+            <relation name="associated_with" active="#darja" passive="#anna_petrovna #marja_andreevna"/>
             <relation name="associated_with" active="#malchik" passive="#dobrotvorskij"/>
           </listRelation>
         </listPerson>

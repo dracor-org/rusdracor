@@ -80,7 +80,7 @@
             <relation name="lover_of" active="#sljunjaj" passive="#podschipa"/>
             <relation name="associated_with" active="#durduran" passive="#vakula"/>
             <relation name="associated_with" active="#chernavka" passive="#podschipa"/>
-            <relation name="associated_with" active="#pazh" passive="#vakula"/>
+            <relation name="associated_with" active="#pazh" passive="#vakula"/> 
           </listRelation>
         </listPerson>
       </particDesc>

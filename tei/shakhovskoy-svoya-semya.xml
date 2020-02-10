@@ -70,6 +70,7 @@
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#natasha #ljubim"/>
+            <relation name="related_with" active="#major" passive="#zvonkina"/>
           </listRelation>
         </listPerson>
       </particDesc>

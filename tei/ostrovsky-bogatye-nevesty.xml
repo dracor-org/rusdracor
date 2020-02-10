@@ -63,7 +63,7 @@
             <persName>Цыплунов</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#cyplunova" passive="#cyplunova"/>
+            <relation name="parent_of" active="#cyplunova" passive="#cyplunov"/>
           </listRelation>
         </listPerson>
       </particDesc>

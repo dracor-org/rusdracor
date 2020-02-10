@@ -73,6 +73,13 @@
           <person xml:id="djufiza" sex="FEMALE">
             <persName>Дюфиза</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#oront #salmina" passive="#delamida"/>
+            <relation name="lover_of" active="#fatjuj #djulizh" passive="#delamida"/>
+            <relation name="associated_with" active="#fineta" passive="#delamida"/>
+            <relation name="associated_with" active="#kimar" passive="#oront"/>
+            <relation name="spouses" mutual="#oront #salmina"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

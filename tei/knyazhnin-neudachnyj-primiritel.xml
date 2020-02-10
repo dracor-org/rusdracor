@@ -66,13 +66,10 @@
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#gospozha_kuterma #gospodin_kuterma"/>
-            <relation name="friends" mutual="#mirotvor #gospodin_kuterma"/>
-            <relation name="friends" mutual="#mirotvor #gospozha_kuterma"/>
-            <relation name="associated_with" active="#marina" passive="#gospodin_kuterma"/>
-            <relation name="associated_with" active="#marina" passive="#gospozha_kuterma"/>
-            <relation name="associated_with" active="#jakov_roster" passive="#gospozha_kuterma"/>
-            <relation name="associated_with" active="#jakov_roster" passive="#gospodin_kuterma"/>
-            <relation name="associated_with" active="#mirotvor" passive="#sinekdohos"/>
+            <relation name="friends" mutual="#mirotvor #gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="associated_with" active="#marina" passive="#gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="associated_with" active="#jakov_roster" passive="#gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="associated_with" active="#sinekdohos" passive="#mirotvor"/>
           </listRelation>
         </listPerson>
       </particDesc>

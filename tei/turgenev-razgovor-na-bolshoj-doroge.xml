@@ -57,7 +57,7 @@
             <persName>Селивёрст</persName>
           </person>
           <listRelation type="personal">
-            <relation name="associated_with" active="#efrem" passive="#mihrjutkin"/>
+            <relation name="associated_with" active="#efrem #seliverst" passive="#mihrjutkin"/>
           </listRelation>
         </listPerson>
       </particDesc>

@@ -71,7 +71,7 @@
             <relation name="spouses" mutual="#progneya #terej"/>
             <relation name="siblings" mutual="#filomela #progneya"/>
             <relation name="lover_of" active="#linsej" passive="#filomela"/>
-            <relation name="associated_with" active="#agamet" passive="#terej"/>
+            <relation name="associated_with" active="#agamet" passive="#terej"/> 
           </listRelation>
         </listPerson>
       </particDesc>

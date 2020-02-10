@@ -437,7 +437,7 @@
             <name xml:lang="ger">Stimmen der Gäste</name>
           </personGrp>
           <listRelation type="personal">
-            <relation name="lover_of" active="#prisypkin-skripkin" passive="#elzevira"/>
+            <relation name="lover_of" active="#prisypkin-skripkin" passive="#elzevira"/> 
             <relation name="lover_of" active="#elzevira" passive="#prisypkin-skripkin"/>
           </listRelation>
         </listPerson>

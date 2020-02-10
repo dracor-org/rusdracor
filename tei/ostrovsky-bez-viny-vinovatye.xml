@@ -97,7 +97,7 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="associated_with" active="#shelavina" passive="#otradina"/>
-            <relation name="associated_with" active="#annushka" passive="#otradina"/>
+            <relation name="associated_with" active="#annushka" passive="#otradina"/> 
           </listRelation>
         </listPerson>
       </particDesc>

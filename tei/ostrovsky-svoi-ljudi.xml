@@ -70,9 +70,8 @@
             <persName>Тишка</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#agrafena_kondratevna" passive="#lipochka"/>
-            <relation name="parent_of" active="#bolshov" passive="#lipochka"/>
-            <relation name="spouses" mutual="#agrafena_kondratevna #bolshov"/>
+            <relation name="parent_of" active="#agrafena_kondratevna #bolshov" passive="#lipochka"/>
+            <relation name="spouses" mutual="#agrafena_kondratevna #bolshov"/> 
           </listRelation>
         </listPerson>
       </particDesc>

@@ -94,7 +94,6 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#ilya" passive="#petr"/>
             <relation name="parent_of" active="#spiridonovna" passive="#grusha"/>
-            <relation name="related_with" active="#afimya" passive="#petr"/>
             <relation name="spouses" mutual="#dasha #petr"/>
             <relation name="spouses" mutual="#stepanida #agafon"/>
           </listRelation>

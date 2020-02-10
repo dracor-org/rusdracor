@@ -78,6 +78,7 @@
           </person>
           <listRelation type="personal">
             <relation name="associated_with" active="#karp" passive="#babaev"/>
+            <relation name="associated_with" active="#zajchiha" passive="#babaev"/>
           </listRelation>
         </listPerson>
       </particDesc>

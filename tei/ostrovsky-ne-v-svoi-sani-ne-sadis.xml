@@ -76,7 +76,7 @@
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#rusakov" passive="#avdotya_maksimovna"/>
-            <relation name="related_with" active="#arina_fedotovna" passive="#rusakov"/>
+            <relation name="siblings" active="#arina_fedotovna" passive="#rusakov"/>
             <relation name="associated_with" active="#stepan" passive="#vihorev"/>
             <relation name="spouses" mutual="#anna_antonovna #malomalskij"/>
           </listRelation>

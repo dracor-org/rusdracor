@@ -89,6 +89,14 @@
           <person xml:id="TretijPes" sex="MALE">
             <persName>Третий</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#Kadm" passive="#Akteon"/>
+            <relation name="associated_with" active="#Krokale #Ranis #Hiale" passive="#Diana"/>
+            <relation name="associated_with" active="#PervyjJunosha #VtorojJunosha #TretijJunosha" passive="#Akteon"/>
+            <relation name="associated_with" active="#Ehion" passive="#Kadm"/>
+            <relation name="spouses" mutual="#Agava #Ehion"/>
+            <relation name="friends" mutual="#Ehion #Kadm"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

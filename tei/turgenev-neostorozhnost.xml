@@ -66,7 +66,6 @@
             <persName>Секретарь</persName>
           </person>
           <listRelation type="personal">
-            <relation name="associated_with" active="#margarita" passive="#don_baltazar"/>
             <relation name="spouses" mutual="#don_baltazar #donja_dolores"/>
             <relation name="friends" mutual="#don_pablo #don_baltazar"/>
           </listRelation>

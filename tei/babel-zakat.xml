@@ -229,6 +229,14 @@
             <persName xml:lang="eng">Weiner</persName>
             <persName xml:lang="ger">Wajner</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#mendel #nekhama" passive="#benya #lyovka #dvoyra"/>
+            <relation name="parent_of" active="#potapovna" passive="#marusya"/>
+            <relation name="associated_with" active="#nikifor" passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
+            <relation name="spouses" mutual="#madam_popyatnik #mayor"/>
+            <relation name="spouses" mutual="#mendel #nekhama"/>
+            <relation name="friends" mutual="#pyatirubel #mendel"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

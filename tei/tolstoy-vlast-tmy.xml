@@ -151,9 +151,9 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#petr" passive="#akulina"/>
             <relation name="parent_of" active="#petr" passive="#anjutka"/>
-            <relation name="parent_of" active="#akim" passive="#nikita"/>
-            <relation name="associated_with" active="#petr" passive="#nikita"/>
-            <relation name="spouses" mutual="#matrena #nikita"/>
+            <relation name="parent_of" active="#akim #matrena" passive="#nikita"/>
+            <relation name="associated_with" active="#nikita" passive="#petr"/>
+            <relation name="spouses" mutual="#matrena #akim"/>
             <relation name="spouses" mutual="#anisja #petr"/>
           </listRelation>
         </listPerson>

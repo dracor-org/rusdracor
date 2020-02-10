@@ -326,6 +326,18 @@
             <name>Крики на площади</name>
             <name xml:lang="ger">Geschrei (draußen)</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#ioann" passive="#fedor_ivanovich"/>
+            <relation name="related_with" active="#grigorij_godunov" passive="#boris_godunov"/>
+            <relation name="associated_with" active="#sluga" passive="#shujskij"/>
+            <relation name="siblings" mutual="#mihajlo_nagoj #tsaritsa #grigorij_nagoj"/>
+            <relation name="spouses" mutual="#tsaritsa #ioann"/>
+            <relation name="related_with" active="#boris_godunov" passive="#fedor_ivanovich"/>
+            <relation name="associated_with" active="#dvoretskij_godunova" passive="#boris_godunov"/>
+            <relation name="siblings" mutual="#tsarevna_irina #boris_godunov"/>
+            <relation name="spouses" mutual="#tsarevna_irina #fedor_ivanovich"/>
+            <relation name="spouses" mutual="#marija_godunova #boris_godunov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

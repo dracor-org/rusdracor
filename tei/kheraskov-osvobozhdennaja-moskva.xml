@@ -113,7 +113,7 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="parent_of" active="#knjaz_dimitrij" passive="#leon"/>
-            <relation name="siblings" mutual="#sofija #knjaz_pozharskij"/>
+            <relation name="siblings" mutual="#sofija #knjaz_pozharskij"/> 
             <relation name="associated_with" active="#parfenija" passive="#sofija"/>
             <relation name="parent_of" active="#getman_zhelkovskij" passive="#vjanko"/>
           </listRelation>

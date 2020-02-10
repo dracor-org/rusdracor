@@ -71,7 +71,7 @@
           </person>
           <listRelation type="personal">
             <relation name="associated_with" active="#ehgina" passive="#antigona"/>
-            <relation name="parent_of" active="#ehmon" passive="#kreont"/>
+            <relation name="parent_of" active="#kreont" passive="#ehmon"/>
             <relation name="associated_with" active="#forbat" passive="#kreont"/>
           </listRelation>
         </listPerson>

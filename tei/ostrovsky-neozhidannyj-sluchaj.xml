@@ -60,7 +60,7 @@
           </person>
           <listRelation type="personal">
             <relation name="associated_with" active="#masha" passive="#sofya_antonovna"/>
-            <relation name="friends" mutual="#druzhnin #rozovyj"/>
+            <relation name="associated_with" active="#druzhnin" passive="#rozovyj"/>
           </listRelation>
         </listPerson>
       </particDesc>

@@ -88,8 +88,7 @@
             <relation name="parent_of" active="#balzaminova" passive="#balzaminov"/>
             <relation name="parent_of" active="#nichkina" passive="#kapochka"/>
             <relation name="parent_of" active="#neuedenov" passive="#yusha"/>
-            <relation name="associated_with" active="#matrena" passive="#balzaminova"/>
-            <relation name="associated_with" active="#matrena" passive="#balzaminov"/>
+            <relation name="associated_with" active="#matrena" passive="#balzaminova #balzaminov"/>
             <relation name="associated_with" active="#malanya" passive="#nichkina"/>
             <relation name="siblings" mutual="#neuedenov #nichkina"/>
             <relation name="friends" mutual="#ustinka #kapochka"/>

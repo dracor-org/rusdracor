@@ -87,8 +87,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#blez" passive="#zhuleta"/>
             <relation name="lover_of" active="#filipp" passive="#zhuleta"/>
-            <relation name="siblings" mutual="#nineta #zhuleta"/>
-            <relation name="siblings" mutual="#zhaneta #zhuleta"/>
+            <relation name="siblings" mutual="#nineta #zhaneta #zhuleta"/>
           </listRelation>
         </listPerson>
       </particDesc>

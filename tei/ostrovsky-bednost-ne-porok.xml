@@ -118,16 +118,14 @@
             <persName xml:lang="ger">Koršunov</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#GordejKarpych" passive="#LjubovGordeevna"/>
-            <relation name="parent_of" active="#PelagejaEgorovna" passive="#LjubovGordeevna"/>
+            <relation name="parent_of" active="#GordejKarpych #PelagejaEgorovna" passive="#LjubovGordeevna"/>
             <relation name="related_with" active="#Guslin" passive="#GordejKarpych"/>
             <relation name="related_with" active="#Egorushka" passive="#GordejKarpych"/>
             <relation name="associated_with" active="#Arina" passive="#LjubovGordeevna"/>
             <relation name="associated_with" active="#Mitja" passive="#GordejKarpych"/>
             <relation name="siblings" mutual="#GordejKarpych #LjubimKarpych"/>
             <relation name="spouses" mutual="#PelagejaEgorovna #GordejKarpych"/>
-            <relation name="friends" mutual="#Masha #LjubovGordeevna"/>
-            <relation name="friends" mutual="#Liza #LjubovGordeevna"/>
+            <relation name="friends" mutual="#Masha #Liza #LjubovGordeevna"/>
           </listRelation>
         </listPerson>
       </particDesc>

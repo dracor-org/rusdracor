@@ -65,12 +65,12 @@
           <person xml:id="volod" sex="MALE">
             <persName>Волод</persName>
           </person>
-		  <listRelation type="personal">
-			<relation name="parent_of" active="#olga" passive="#svyatoslav" />
-			<relation name="associated_with" active="#mirved" passive="#olga" />
-			<relation name="associated_with" active="#vsevesta" passive="#olga" />
-			<relation name="associated_with" active="#zlovred" passive="#mal" />
-		  </listRelation>
+	    <listRelation type="personal">
+      	      <relation name="parent_of" active="#olga" passive="#svyatoslav" />
+	      <relation name="associated_with" active="#mirved" passive="#olga" />
+     	      <relation name="associated_with" active="#vsevesta" passive="#olga" />
+	      <relation name="associated_with" active="#zlovred" passive="#mal" />
+            </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

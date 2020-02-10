@@ -82,8 +82,7 @@
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#nadezhda_antonovna" passive="#lidiya"/>
-            <relation name="associated_with" active="#andrej" passive="#nadezhda_antonovna"/>
-            <relation name="associated_with" active="#andrej" passive="#lidiya"/>
+            <relation name="associated_with" active="#andrej" passive="#nadezhda_antonovna #lidiya"/>
             <relation name="associated_with" active="#grigorij" passive="#telyatev"/>
           </listRelation>
         </listPerson>

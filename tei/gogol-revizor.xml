@@ -167,8 +167,7 @@
             <persName xml:lang="ger">Gensdarm</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#anna_andreevna" passive="#marja_antonovna"/>
-            <relation name="parent_of" active="#gorodnichij" passive="#marja_antonovna"/>
+            <relation name="parent_of" active="#anna_andreevna #gorodnichij" passive="#marja_antonovna"/>
             <relation name="associated_with" active="#sluga" passive="#gorodnichij"/>
             <relation name="spouses" mutual="#anna_andreevna #gorodnichij"/>
             <relation name="associated_with" active="#osip" passive="#hlestakov"/>

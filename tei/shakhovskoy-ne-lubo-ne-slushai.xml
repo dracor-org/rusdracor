@@ -65,7 +65,6 @@
           <listRelation type="personal">
             <relation name="lover_of" active="#knjaginja" passive="#mezetskij"/>
             <relation name="related_with" active="#zarnitskin" passive="#handrina"/>
-            <relation name="related_with" active="#zarnitskin" passive="#mezetskij"/>
             <relation name="associated_with" active="#dashenka" passive="#handrina"/>
             <relation name="siblings" mutual="#mezetskij #handrina"/>
           </listRelation>

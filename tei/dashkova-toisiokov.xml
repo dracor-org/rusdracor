@@ -83,6 +83,7 @@
             <relation name="associated_with" active="#masha" passive="#flena_osipovna"/>
             <relation name="associated_with" active="#prolaz" passive="#reshimova"/>
             <relation name="associated_with" active="#andrej" passive="#zdravomyslov"/>
+            <relation name="spouses" mutual="#toisiokov #toisiokova"/>
             <relation name="siblings" mutual="#flena_osipovna #toisiokova"/>
             <relation name="friends" mutual="#zdravomyslov #toisiokov"/>
           </listRelation>

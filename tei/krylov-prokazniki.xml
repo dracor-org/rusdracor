@@ -75,8 +75,7 @@
           </person>
             <listRelation type="personal">
             <relation name="spouses" mutual="#taratora #rifmokrad"/>
-            <relation name="parent_of" active="#rifmokrad" passive="#priyata"/>
-            <relation name="parent_of" active="#taratora" passive="#priyata"/>
+            <relation name="parent_of" active="#rifmokrad #taratora" passive="#priyata"/>
             <relation name="related_with" active="#milon" passive="#azbukin"/>
             <relation name="siblings" mutual="#trojkina #azbukin"/>
             <relation name="associated_with" active="#plutana" passive="#priyata"/>

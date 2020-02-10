@@ -84,10 +84,10 @@
             <persName>Единый воин</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#zavloh" passive="#osnelda" />
-            <relation name="associated_with" active="#astrada" passive="#osnelda" />
+            <relation name="parent_of" active="#zavloh" passive="#osnelda"/>
+            <relation name="associated_with" active="#astrada" passive="#osnelda"/>
             <relation name="siblings" mutual="#kij #horev"/>
-            <relation name="associated_with" active="#velkar" passive="#horev" />
+            <relation name="associated_with" active="#velkar" passive="#horev"/>
           </listRelation>
         </listPerson>
       </particDesc>

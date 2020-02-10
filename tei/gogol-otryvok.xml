@@ -55,7 +55,7 @@
             <persName>Собачкин</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#Misha" passive="#MarjaAleksandrovna"/>
+            <relation name="parent_of" active="#MarjaAleksandrovna" passive="#Misha"/>
           </listRelation>
         </listPerson>
       </particDesc>

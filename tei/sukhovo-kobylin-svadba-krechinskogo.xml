@@ -103,13 +103,10 @@
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#Muromskij" passive="#Lidochka"/>
-            <relation name="lover_of" active="#Krechinskij" passive="#Lidochka"/>
             <relation name="related_with" active="#Atueva" passive="#Lidochka"/>
-            <relation name="associated_with" active="#Nelkin" passive="#Muromskij"/>
-            <relation name="associated_with" active="#Nelkin" passive="#Lidochka"/>
+            <relation name="associated_with" active="#Nelkin" passive="#Muromskij #Lidochka"/>
             <relation name="associated_with" active="#Fedor" passive="#Krechinskij"/>
-            <relation name="associated_with" active="#Tishka" passive="#Muromskij"/>
-            <relation name="associated_with" active="#Tishka" passive="#Muromskij"/>
+            <relation name="associated_with" active="#Tishka" passive="#Muromskij #Lidochka"/>
           </listRelation>
         </listPerson>
       </particDesc>

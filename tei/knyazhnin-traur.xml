@@ -70,8 +70,7 @@
             <relation name="related_with" active="#postan" passive="#vetran"/>
             <relation name="related_with" active="#vetran" passive="#postan"/>
             <relation name="associated_with" active="#evdokim" passive="#izabella"/>
-            <relation name="friends" mutual="#postan #milena"/>
-            <relation name="friends" mutual="#postan #izabella"/>
+            <relation name="friends" mutual="#postan #milena #izabella"/>
             <relation name="siblings" mutual="#milena #izabella"/>
           </listRelation>
         </listPerson>

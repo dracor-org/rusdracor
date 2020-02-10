@@ -3,7 +3,7 @@
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
   <teiHeader>
-    <fileDesc>
+    <fileDesc> 
       <titleStmt>
         <title type="main">Тяжба</title>
         <title type="main" xml:lang="eng">The Lawsuit</title>

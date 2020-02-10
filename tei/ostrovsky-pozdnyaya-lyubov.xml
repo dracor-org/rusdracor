@@ -68,7 +68,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#margaritov" passive="#lyudmila"/>
             <relation name="parent_of" active="#shablova" passive="#dormedont"/>
-            <relation name="associated_with" active="#dormedont" passive="#margaritov"/>
+            <relation name="associated_with" active="#dormedont" passive="#margaritov"/> 
           </listRelation>
         </listPerson>
       </particDesc>

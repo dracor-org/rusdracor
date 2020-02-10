@@ -373,8 +373,7 @@
             <persName xml:lang="ger">Ambrosius</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#pavel" passive="#aleksandr"/>
-            <relation name="parent_of" active="#pavel" passive="#konstantin"/>
+            <relation name="parent_of" active="#pavel" passive="#aleksandr #konstantin"/>
             <relation name="spouses" mutual="#aleksandr #elizaveta"/>
           </listRelation>
         </listPerson>

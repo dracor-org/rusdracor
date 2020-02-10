@@ -76,10 +76,9 @@
             <persName>Сидорка</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#velkarov" passive="#fekla"/>
-            <relation name="parent_of" active="#velkarov" passive="#lukerja"/>
-            <relation name="associated_with" active="#dasha" passive="#fekla"/>
-            <relation name="associated_with" active="#dasha" passive="#lukerja"/>
+            <relation name="parent_of" active="#velkarov" passive="#fekla #lukerja"/>
+            <relation name="associated_with" active="#dasha" passive="#fekla #lukerja"/>
+            <relation name="siblings" mutual="#fekla #lukerja"/>
           </listRelation>
         </listPerson>
       </particDesc>

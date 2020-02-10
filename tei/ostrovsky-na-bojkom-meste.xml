@@ -95,7 +95,7 @@
             <relation name="associated_with" active="#senya" passive="#neputevyj"/>
             <relation name="associated_with" active="#zhuk" passive="#bessudnyj"/>
             <relation name="siblings" mutual="#annushka #bessudnyj"/>
-            <relation name="spouses" mutual="#evgeniya #bessudnyj"/>
+            <relation name="spouses" mutual="#evgeniya #bessudnyj"/> 
           </listRelation>
         </listPerson>
       </particDesc>

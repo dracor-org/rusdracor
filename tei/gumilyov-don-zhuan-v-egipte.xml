@@ -62,7 +62,7 @@
             <persName>Американка</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#Amerikanets" passive="#Amerikanka"/>
+            <relation name="parent_of" active="#Amerikanets" passive="#Amerikanka"/> 
           </listRelation>
         </listPerson>
       </particDesc>

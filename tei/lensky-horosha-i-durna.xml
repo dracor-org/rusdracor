@@ -60,8 +60,7 @@
             <persName>Александр Иванович Алинской</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#stepanida_karpovna" passive="#nadenka"/>
-            <relation name="parent_of" active="#konstantin_prohorovich" passive="#nadenka"/>
+            <relation name="parent_of" active="#stepanida_karpovna #konstantin_prohorovich" passive="#nadenka"/>
             <relation name="lover_of" active="#alinskoj" passive="#nadenka"/>
             <relation name="related_with" active="#padcheretsin" passive="#nadenka"/>
             <relation name="associated_with" active="#emeljan" passive="#konstantin_prohorovich"/>

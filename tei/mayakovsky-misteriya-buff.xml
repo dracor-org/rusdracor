@@ -325,7 +325,7 @@
             <persName xml:lang="ger">Der Hammer</persName>
           </person>
           <listRelation type="personal">
-            <relation name="spouses" mutual="#avstraliec #avstralijka"/>
+            <relation name="spouses" mutual="#avstraliec #avstralijka"/> 
           </listRelation>
         </listPerson>
       </particDesc>

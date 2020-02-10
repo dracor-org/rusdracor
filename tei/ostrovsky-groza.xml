@@ -163,6 +163,7 @@
             <relation name="related_with" active="#boris" passive="#dikoj"/>
             <relation name="associated_with" active="#glasha" passive="#kabanova"/>
             <relation name="siblings" mutual="#varvara #kabanov"/>
+            <relation name="spouses" mutual="#katerina #kabanov"/>
           </listRelation>
         </listPerson>
       </particDesc>
