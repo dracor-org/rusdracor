@@ -66,7 +66,7 @@
             <persName>Слуга</persName>
           </person>
           <listRelation type="personal">
-            <relation name="related_with" active="#rosina" passive="#rupert"/> 
+            <relation name="related_with" active="#rosina" passive="#rupert"/>
             <relation name="associated_with" active="#anisia" passive="#rupert"/>
           </listRelation>
         </listPerson>

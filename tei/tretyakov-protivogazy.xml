@@ -239,7 +239,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#direktor" passive="#petya"/>
             <relation name="spouses" mutual="#foma #zhena_fomy"/>
-            <relation name="spouses" mutual="#dudin #zhena_dudina"/> 
+            <relation name="spouses" mutual="#dudin #zhena_dudina"/>
           </listRelation>
         </listPerson>
       </particDesc>

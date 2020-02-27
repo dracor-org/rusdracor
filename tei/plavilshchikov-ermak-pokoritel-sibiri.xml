@@ -78,7 +78,7 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="parent_of" active="#kuchum" passive="#irta"/>
-            <relation name="associated_with" active="#grubej" passive="#ermak"/> 
+            <relation name="associated_with" active="#grubej" passive="#ermak"/>
           </listRelation>
         </listPerson>
       </particDesc>

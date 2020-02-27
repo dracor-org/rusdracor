@@ -67,7 +67,7 @@
             <persName>Граф Любин</persName>
           </person>
           <listRelation type="personal">
-            <relation name="related_with" active="#misha" passive="#darja_ivanovna"/> 
+            <relation name="related_with" active="#misha" passive="#darja_ivanovna"/>
             <relation name="associated_with" active="#lakej" passive="#graf_ljubin"/>
             <relation name="associated_with" active="#vasilevna" passive="#stupendev"/>
             <relation name="associated_with" active="#apollon" passive="#stupendev"/>

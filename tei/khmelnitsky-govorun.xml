@@ -81,7 +81,7 @@
           </person>
           <listRelation type="personal">
             <relation name="related_with" active="#chvanova" passive="#prelestina"/>
-            <relation name="associated_with" active="#liza" passive="#prelestina"/> 
+            <relation name="associated_with" active="#liza" passive="#prelestina"/>
           </listRelation>
         </listPerson>
       </particDesc>

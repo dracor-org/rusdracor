@@ -77,7 +77,7 @@
             <persName>Станицын</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#gospozha_libanova" passive="#vera"/> 
+            <relation name="parent_of" active="#gospozha_libanova" passive="#vera"/>
             <relation name="related_with" active="#varvara_ivanovna" passive="#gospozha_libanova"/>
           </listRelation>
         </listPerson>

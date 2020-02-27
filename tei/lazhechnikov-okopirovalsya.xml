@@ -111,7 +111,7 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="parent_of" active="#rezinkina" passive="#rezinkin"/>
-            <relation name="parent_of" active="#mamaev" passive="#grunya"/> 
+            <relation name="parent_of" active="#mamaev" passive="#grunya"/>
             <relation name="parent_of" active="#poddevkina" passive="#praskovya_stepanovna"/>
             <relation name="associated_with" active="#vanechka" passive="#lipina"/>
             <relation name="associated_with" active="#kuharka" passive="#poddevkina"/>
