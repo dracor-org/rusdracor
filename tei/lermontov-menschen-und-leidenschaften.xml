@@ -85,7 +85,7 @@
             <relation name="associated_with" active="#daria" passive="#marfa_ivanovna"/>
             <relation name="parent_of" active="#vasilij_mihalyc" passive="#lubov #eliza"/>
             <relation name="associated_with" active="#ivan" passive="#yuri"/>
-            <relation name="associated_with" active="#sluga" passive="#nikolaj_mihalyc #vasilij_mihalyc"/
+            <relation name="associated_with" active="#sluga" passive="#nikolaj_mihalyc #vasilij_mihalyc"/>
             <relation name="associated_with" active="#vasilisa" passive="#lubov #eliza"/>
             <relation name="siblings" mutual="#vasilij_mihalyc #nikolaj_mihalyc"/>
           </listRelation>

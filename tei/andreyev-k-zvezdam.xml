@@ -100,7 +100,7 @@
             <relation name="siblings" mutual="#petja #anna"/>
             <relation name="parent_of" active="#sergej_nikolaevich" passive="#petja #anna"/>
             <relation name="parent_of" active="#inna_aleksandrovna" passive="#petja #anna"/>
-            <relation name="associated_with" active="#pollak" "#lunts" "#zhitov" passive="#sergej_nikolaevich"/>
+            <relation name="associated_with" active="#pollak #lunts #zhitov" passive="#sergej_nikolaevich"/>
         </listRelation>
         </listPerson>
       </particDesc>
