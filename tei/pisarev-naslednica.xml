@@ -56,6 +56,9 @@
           <person xml:id="ippolit" sex="MALE">
             <persName>Ипполит</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#lyubim" passive="#graf"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

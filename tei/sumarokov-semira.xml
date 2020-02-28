@@ -79,6 +79,14 @@
           <person xml:id="voin" sex="MALE">
             <persName>Воин</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#oleg" passive="#rostislav"/>
+            <relation name="lover_of" active="#semira" passive="#rostislav"/>
+            <relation name="associated_with" active="#vitozar" passive="#oleg"/>
+            <relation name="associated_with" active="#vozved" passive="#oskold"/>
+            <relation name="associated_with" active="#izbrana" passive="#semira"/>
+            <relation name="siblings" mutual="#oskold #semira"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

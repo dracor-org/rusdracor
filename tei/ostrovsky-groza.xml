@@ -158,6 +158,13 @@
             <persName>Другой из возвратившихся (V/6)</persName>
             <persName xml:lang="ger">Ein Anderer (V/6)</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#kabanova" passive="#kabanov"/>
+            <relation name="related_with" active="#boris" passive="#dikoj"/>
+            <relation name="associated_with" active="#glasha" passive="#kabanova"/>
+            <relation name="siblings" mutual="#varvara #kabanov"/>
+            <relation name="spouses" mutual="#katerina #kabanov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

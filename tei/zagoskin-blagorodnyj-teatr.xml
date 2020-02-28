@@ -94,6 +94,19 @@
           <person xml:id="vtoroj_sluga" sex="MALE">
             <persName>2-й слуга</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#lyubskij" passive="#olenka"/>
+            <relation name="spouses" mutual="#lyubskij #lyubskaya"/>
+            <relation name="related_with" active="#olenka" passive="#lyubskaya #lyubskij"/>
+            <relation name="lover_of" active="#velskij" passive="#olenka"/>
+            <relation name="siblings" mutual="#chestonov #lyubskij"/>
+            <relation name="related_with" active="#volgin" passive="#velskij"/>
+            <relation name="lover_of" active="#pososhkov" passive="#olenka"/>
+            <relation name="associated_with" active="#kutermina" passive="#lyubskaya #lyubskij #olenka"/>
+            <relation name="associated_with" active="#natasha" passive="#olenka"/>
+            <relation name="related_with" active="#pervyj_plemyannik #pervaja_plemyannica" passive="#kutermina"/>
+            <relation name="associated_with" active="#pervyj_sluga vtoroj_sluga" passive="#lyubskij"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

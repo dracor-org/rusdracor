@@ -104,6 +104,13 @@
             <persName xml:lang="eng">A cook</persName>
             <persName xml:lang="ger">Ein Koch</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#arkadina" passive="#treplev"/>
+            <relation name="siblings" mutual="#arkadina #sorin"/>
+            <relation name="spouses" mutual="#shamraev #polina_andreevna"/>
+            <relation name="associated_with" active="#shamraev" passive="#sorin"/>
+            <relation name="parent_of" active="#shamraev #polina_andreevna" passive="#masha"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -90,6 +90,13 @@
             <persName>Пеликан</persName>
             <persName xml:lang="eng">Pelican</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#sluga" passive="#knjaz"/>
+            <relation name="associated_with" active="#devka" passive="#knjaginja"/>
+            <relation name="associated_with" active="#njanja #drugaja_njanja #tretja_njanja" passive="#molodoj_knjaz"/>
+            <relation name="spouses" mutual="#knjaginja #knjaz"/>
+            <relation name="parent_of" active="#knjaginja #knjaz" passive="#molodoj_knjaz"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

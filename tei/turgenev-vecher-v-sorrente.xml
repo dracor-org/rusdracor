@@ -84,6 +84,9 @@
             <persName>Голос певца</persName>
             <persName xml:lang="ger">Stimme des Sängers</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#nadezhda_pavlovna" passive="#marija_petrovna"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -139,6 +139,14 @@
             <persName>Мужик</persName>
             <persName xml:lang="ger">Ein Bauer</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#matrena" passive="#lizaveta"/>
+            <relation name="related_with" active="#zolotilov" passive="#cheglov"/>
+            <relation name="associated_with" active="#burmistr" passive="#cheglov"/>
+            <relation name="associated_with" active="#ananij_jakovlev" passive="#cheglov"/>
+            <relation name="associated_with" active="#spiridonevna" passive="#matrena"/>
+            <relation name="spouses" mutual="#lizaveta #ananij_jakovlev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

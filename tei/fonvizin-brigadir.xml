@@ -69,6 +69,15 @@
           <person xml:id="dobroljubov" sex="MALE">
             <persName>Добролюбов</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#brigadir #brigadirsha" />
+            <relation name="parent_of" active="#brigadir" passive="#syn" />
+            <relation name="parent_of" active="#brigadirsha" passive="#syn" />
+            <relation name="spouses" mutual="#sovetnik #sovetnitsa" />
+            <relation name="parent_of" active="#sovetnik" passive="#sofja" />
+            <relation name="parent_of" active="#sovetnitsa" passive="#sofja" />
+            <relation name="lover_of" active="#dobroljubov" passive="#sofja" />
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -84,6 +84,9 @@
             <persName>Химка</persName>
             <persName xml:lang="ger">Chimka</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#balzaminova" passive="#balzaminov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

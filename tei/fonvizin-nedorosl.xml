@@ -94,8 +94,7 @@
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#prostakov #gospozha_prostakova"/>
-            <relation name="parent_of" active="#gospozha_prostakova" passive="#mitrofan"/>
-            <relation name="parent_of" active="#prostakov" passive="#mitrofan"/>
+            <relation name="parent_of" active="#gospozha_prostakova #prostakov" passive="#mitrofan"/>
             <relation name="associated_with" active="#eremeevna" passive="#mitrofan"/>
             <relation name="related_with" active="#sofja" passive="#starodum"/>
             <relation name="associated_with" active="#sluga" passive="#prostakov"/>

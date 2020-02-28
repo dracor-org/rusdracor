@@ -84,6 +84,11 @@
           <person xml:id="gornichnaya" sex="FEMALE">
             <persName>Горничная</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#prezhnev #prezhneva" passive="#pol"/>
+            <relation name="associated_with" active="#pereshivkina" passive="#pol"/>
+            <relation name="spouses" mutual="#prezhneva #prezhnev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

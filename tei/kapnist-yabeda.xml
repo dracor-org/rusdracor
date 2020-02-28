@@ -91,6 +91,12 @@
           <person xml:id="parolkin" sex="MALE">
             <persName>Паролькин</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#fyokla #krivosudov"/>
+            <relation name="parent_of" active="#krivosudov #fyokla" passive="#sofia"/>
+            <relation name="associated_with" active="#anna" passive="#sofia"/>
+            <relation name="associated_with" active="#naumych #arkhip" passive="#pravolov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

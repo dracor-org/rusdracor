@@ -100,6 +100,10 @@
             <persName xml:lang="eng">Marʹâ Egorovna</persName>
             <persName xml:lang="ger">Marʹâ Egorovna</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#kucher" passive="#marja_egorovna"/>
+            <relation name="spouses" mutual="#marja_egorovna #bortsov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -80,6 +80,11 @@
             <persName>Василий</persName>
             <persName xml:lang="ger">Wassilij</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#nadezhda_antonovna" passive="#lidiya"/>
+            <relation name="associated_with" active="#andrej" passive="#nadezhda_antonovna #lidiya"/>
+            <relation name="associated_with" active="#grigorij" passive="#telyatev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

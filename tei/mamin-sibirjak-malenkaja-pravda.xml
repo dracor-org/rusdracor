@@ -83,6 +83,16 @@
           <person xml:id="vavochka" sex="FEMALE">
             <persName>Вавочка</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#chumakov" passive="#aleksej #tanja"/>
+            <relation name="friends" mutual="#evgenija_pavlovna #tanja"/>
+            <relation name="parent_of" active="#osipova" passive="#evgenija_pavlovna #andrej"/>
+            <relation name="spouses" mutual="#ljudmila #andrej"/>
+            <relation name="friends" mutual="#sharov #aleksej"/>
+            <relation name="friends" mutual="#ametistov #chumakov"/>
+            <relation name="parent_of" active="#veleneva" passive="#velenev"/>
+            <relation name="siblings" mutual="#vavochka #velenev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

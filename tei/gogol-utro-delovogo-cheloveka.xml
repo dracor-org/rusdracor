@@ -58,6 +58,9 @@
           <person xml:id="katerina_aleksandrovna" sex="FEMALE">
             <persName>Катерина Александровна, жена Ивана Петровича</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#katerina_aleksandrovna #ivan_petrovich"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

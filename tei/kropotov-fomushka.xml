@@ -74,6 +74,12 @@
           <person xml:id="notarius" sex="MALE">
             <persName>Нотариус</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#dobrovidov" passive="#malania"/>
+            <relation name="related_with" active="#havronia" passive="#foma"/>
+            <relation name="associated_with" active="#marina" passive="#malania"/>
+            <relation name="associated_with" active="#mitrofan" passive="#dobrovidov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

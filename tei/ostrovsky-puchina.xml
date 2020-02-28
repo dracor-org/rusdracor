@@ -123,6 +123,10 @@
             <persName type="variant">Голос за сценой</persName>
             <persName xml:lang="ger">Ein Unbekannter</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#borovcov #borovcova" passive="#glafira"/>
+            <relation name="spouses" mutual="#borovcova #borovcov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

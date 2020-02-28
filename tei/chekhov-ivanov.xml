@@ -131,6 +131,15 @@
             <name xml:lang="eng">Voices from the ball-room</name>
             <name xml:lang="ger">Stimmen im Saal</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#Lebedev" passive="#Sasha"/>
+            <relation name="parent_of" active="#ZinaidaSavishna" passive="#Sasha"/>
+            <relation name="related_with" active="#Shabelskij" passive="#Ivanov"/>
+            <relation name="related_with" active="#Borkin" passive="#Ivanov"/>
+            <relation name="spouses" mutual="#Ivanov #AnnaPetrovna"/>
+            <relation name="spouses" mutual="#Lebedev #ZinaidaSavishna"/>
+            <relation name="associated_with" active="#Egorushka" passive="#Lebedev #ZinaidaSavishna"/>
+        </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

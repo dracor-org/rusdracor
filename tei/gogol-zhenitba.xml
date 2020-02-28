@@ -94,6 +94,10 @@
             <persName>Голос извозчика</persName>
             <persName xml:lang="ger">Stimme des Kutschers</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#stepan" passive="#podkolesin"/>
+            <relation name="friends" mutual="#kochkarev #podkolesin"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

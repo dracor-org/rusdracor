@@ -96,6 +96,12 @@
             <persName>Большинцов</persName>
             <persName xml:lang="ger">Bolschynzow</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#anna_semenovna" passive="#islaev"/>
+            <relation name="parent_of" active="#natalja_petrovna #islaev" passive="#kolja"/>
+            <relation name="associated_with" active="#beljaev" passive="#kolja"/>
+            <relation name="spouses" mutual="#natalja_petrovna #islaev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

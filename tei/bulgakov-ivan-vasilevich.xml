@@ -109,6 +109,9 @@
             <persName>Милиция</persName>
             <persName xml:lang="ger">Milizionär</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#uljana #bunsha"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

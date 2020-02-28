@@ -83,6 +83,10 @@
             <persName>Пионова</persName>
             <persName xml:lang="ger">Anna Proklowna Pionowa</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#balzaminova" passive="#balzaminov"/>
+            <relation name="associated_with" active="#ustrashimov" passive="#balzaminov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

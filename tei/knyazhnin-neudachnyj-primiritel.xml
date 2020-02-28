@@ -64,6 +64,13 @@
           <person xml:id="sinekdohos" sex="MALE">
             <persName>Синекдохос</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="friends" mutual="#mirotvor #gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="associated_with" active="#marina" passive="#gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="associated_with" active="#jakov_roster" passive="#gospozha_kuterma #gospodin_kuterma"/>
+            <relation name="associated_with" active="#sinekdohos" passive="#mirotvor"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

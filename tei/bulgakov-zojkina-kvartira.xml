@@ -151,6 +151,9 @@
             <persName>Мертвое тело</persName>
             <persName xml:lang="ger">Toter Körper</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#manjushka" passive="#zoja"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

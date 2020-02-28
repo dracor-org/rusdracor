@@ -73,6 +73,9 @@
           <person xml:id="kapitolina" sex="FEMALE">
             <persName>Капитолина</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#kseniya #kochuev"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

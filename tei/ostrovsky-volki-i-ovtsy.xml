@@ -98,6 +98,11 @@
           <person xml:id="berkutov" sex="MALE">
             <persName>Беркутов</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#murzavetskij" passive="#murzavetskaja"/>
+            <relation name="related_with" active="#glafira" passive="#murzavetskaja"/>
+            <relation name="related_with" active="#anfusa" passive="#kupavina"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

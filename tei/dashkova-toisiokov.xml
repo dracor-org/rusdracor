@@ -78,6 +78,15 @@
           <person xml:id="kupets" sex="MALE">
             <persName>Купец</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#flena_osipovna" passive="#reshimova"/>
+            <relation name="associated_with" active="#masha" passive="#flena_osipovna"/>
+            <relation name="associated_with" active="#prolaz" passive="#reshimova"/>
+            <relation name="associated_with" active="#andrej" passive="#zdravomyslov"/>
+            <relation name="spouses" mutual="#toisiokov #toisiokova"/>
+            <relation name="siblings" mutual="#flena_osipovna #toisiokova"/>
+            <relation name="friends" mutual="#zdravomyslov #toisiokov"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -81,6 +81,14 @@
           <person xml:id="cheprakov" sex="MALE">
             <persName>Чепраков</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#marfa_lukinishna #molokov"/>
+            <relation name="parent_of" active="#molokov #marfa_lukinishna" passive="#anisja_tihonovna"/>
+            <relation name="parent_of" active="#zasypkin" passive="#lena"/>
+            <relation name="associated_with" active="#vorotov" passive="#zasypkin"/>
+            <relation name="associated_with" active="#mosevna" passive="#lena"/>
+            <relation name="associated_with" active="#cheprakov" passive="#zasypkin"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

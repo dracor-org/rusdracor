@@ -62,6 +62,9 @@
           <person xml:id="drobinkin" sex="MALE">
             <persName>Полковник</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#drobinkin" passive="#grafinja"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

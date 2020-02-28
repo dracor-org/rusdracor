@@ -90,6 +90,14 @@
           <person xml:id="karpachov" sex="MALE">
             <persName>Карпачов</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#kuzovkin" passive="#olga #eletskij"/>
+            <relation name="associated_with" active="#tropachev" passive="#olga #eletskij"/>
+            <relation name="associated_with" active="#ivanov" passive="#olga #eletskij"/>
+            <relation name="associated_with" active="#karpachov" passive="#olga #eletskij"/>
+            <relation name="associated_with" active="#trembinskij" passive="#olga #eletskij"/>
+            <relation name="spouses" mutual="#eletskij #olga"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

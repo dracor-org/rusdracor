@@ -132,6 +132,10 @@
             <persName>Нотариус</persName>
             <persName xml:lang="ger">Notarius</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#kovel" passive="#kleont"/>
+            <relation name="associated_with" active="#brendavuan" passive="#zhurden"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -77,6 +77,14 @@
           <person xml:id="blagochinnyj" sex="MALE">
             <persName>Благочинный</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="#polist" passive="#verholet"/>
+            <relation name="related_with" active="#prostodum" passive="#verholet"/>
+            <relation name="parent_of" active="#chvankina" passive="#milena"/>
+            <relation name="lover_of" active="#zamir" passive="#milena"/>
+            <relation name="associated_with" active="#marina" passive="#chvankina"/>
+            <relation name="parent_of" active="#cheston" passive="#zamir"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

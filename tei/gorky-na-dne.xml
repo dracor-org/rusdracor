@@ -97,6 +97,12 @@
           <person xml:id="KrivojZob" sex="MALE">
             <persName>Кривой Зоб</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#Medvedev" passive="#Natasha #Vasilisa"/>
+            <relation name="siblings" mutual="#Natasha #Vasilisa"/>
+            <relation name="spouses" mutual="#Kostylev #Vasilisa"/>
+            <relation name="spouses" mutual="#Klesch #Anna"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

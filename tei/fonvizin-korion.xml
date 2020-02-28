@@ -65,6 +65,11 @@
             <persName>Зеновия</persName>
             <persName xml:lang="eng">Zenovia</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="friends" mutual="#korion #menandr"/>
+            <relation name="lover_of" active="#zenovija" passive="#korion"/>
+            <relation name="associated_with" active="#andrej" passive="#korion"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

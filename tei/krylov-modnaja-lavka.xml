@@ -87,6 +87,13 @@
             <persName>Офицер</persName>
             <persName xml:lang="eng">Officer</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#sumburova #sumburov"/>
+            <relation name="parent_of" active="#sumburov" passive="#liza"/>
+            <relation name="lover_of" active="#lestov" passive="#liza"/>
+            <relation name="associated_with" active="#andrej" passive="#lestov"/>
+            <relation name="associated_with" active="#Antropka" passive="#sumburov #sumburova"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

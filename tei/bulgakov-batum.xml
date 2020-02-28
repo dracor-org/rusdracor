@@ -188,6 +188,12 @@
             <persName>Министр</persName>
             <persName xml:lang="ger">Minister</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#silvestr" passive="#natasha"/>
+            <relation name="parent_of" active="#silvestr" passive="#porfirij"/>
+            <relation name="associated_with" active="#odnoklassnik", passive="#stalin"/>
+            <relation name="siblings" mutual="#porfirij #natasha"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

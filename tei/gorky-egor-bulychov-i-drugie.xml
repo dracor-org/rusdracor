@@ -110,6 +110,16 @@
           <person xml:id="propotej" sex="MALE">
             <persName>Пропотей</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#ksenija" passive="#varvara"/>
+            <relation name="associated_with" active="#laptev" passive="#bulychov"/>
+            <relation name="related_with" active="#tjatin" passive="#zvontsov"/>
+            <relation name="associated_with" active="#taisja" passive="#melanija"/>
+            <relation name="siblings" mutual="#melanija #ksenija"/>
+            <relation name="spouses" mutual="#bulychov #ksenija"/>
+            <relation name="spouses" mutual="#melanija #zvontsov"/>
+            <relation name="spouses" mutual="#dostigaev #elizaveta"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

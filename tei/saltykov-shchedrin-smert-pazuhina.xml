@@ -107,6 +107,11 @@
             <persName>Мавра (горничная)</persName>
             <persName xml:lang="eng">Mavra (parlor-maid)</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#vasilisa_parfentevna" passive="#mavra_gornichnaya"/>
+            <relation name="parent_of" active="#lobastov" passive="#prokofij_ivanych"/>
+            <relation name="spouses" mutual="#prokofij_ivanych #mavra_grigorevna"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

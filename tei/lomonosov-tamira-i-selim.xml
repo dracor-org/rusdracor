@@ -72,6 +72,13 @@
           <person xml:id="narsim" sex="MALE">
             <persName>Нарсим</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#mumet" passive="#tamira" />
+            <relation name="associated_with" active="#kleona" passive="#tamira" />
+            <relation name="siblings" mutual="#narsim #tamira"/>
+            <relation name="siblings" mutual="#nadir #mumet"/>
+            <relation name="associated_with" active="#zaisan" passive="#mumet" />
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

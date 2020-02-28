@@ -91,6 +91,12 @@
           <personGrp xml:id="devushki" sex="FEMALE">
             <name>Девушки</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#ilya" passive="#petr"/>
+            <relation name="parent_of" active="#spiridonovna" passive="#grusha"/>
+            <relation name="spouses" mutual="#dasha #petr"/>
+            <relation name="spouses" mutual="#stepanida #agafon"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

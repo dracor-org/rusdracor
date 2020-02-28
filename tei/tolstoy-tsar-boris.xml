@@ -453,6 +453,15 @@
             <name>Несколько голосов</name>
             <name xml:lang="ger">Einige Stimmen</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#tsaritsa_marija #boris_godunov" passive="#ksenija #fedor"/>
+            <relation name="lover_of" active="#hristian" passive="#ksenija"/>
+            <relation name="associated_with" active="#resheto #nakovalnja" passive="#hlopko"/>
+            <relation name="associated_with" active="#golk #brage" passive="#hristian"/>
+            <relation name="siblings" mutual="#ksenija #fedor"/>
+            <relation name="spouses" mutual="#tsaritsa_marija #boris_godunov"/>
+            <relation name="siblings" mutual="#boris_godunov #irina"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

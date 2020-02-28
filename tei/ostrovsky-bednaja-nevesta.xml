@@ -159,6 +159,13 @@
             <persName>Женщина</persName>
             <persName xml:lang="eng">A Woman</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#anna_petrovna" passive="#marja_andreevna"/>
+            <relation name="parent_of" active="#horkova" passive="#horkov"/>
+            <relation name="associated_with" active="#merich #milashin" passive="#anna_petrovna"/>
+            <relation name="associated_with" active="#darja" passive="#anna_petrovna #marja_andreevna"/>
+            <relation name="associated_with" active="#malchik" passive="#dobrotvorskij"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

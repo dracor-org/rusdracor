@@ -94,6 +94,9 @@
             <persName>Павлов</persName>
             <persName xml:lang="ger">Pawlow</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="siblings" mutual="#tuller_vtoroj #tuller_pervyj"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

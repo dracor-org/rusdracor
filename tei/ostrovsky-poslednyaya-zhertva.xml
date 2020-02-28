@@ -130,6 +130,11 @@
           <person xml:id="mardarij" sex="MALE">
             <persName>Мардарий</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="related_with" active="#glafira_firsovna" passive="#yuliya"/>
+            <relation name="associated_with" active="#mihevna" passive="#yuliya"/>
+            <relation name="friends" mutual="#dergachev #dulchin"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

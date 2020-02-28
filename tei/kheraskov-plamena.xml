@@ -86,6 +86,12 @@
           <person xml:id="vestnik" sex="MALE">
             <persName>Вестник</persName>
           </person>
+	  <listRelation type="personal">
+	    <relation name="siblings" mutual="#mstislav #pozvezd"/>
+	    <relation name="parent_of" active="#prevzyd" passive="#plamena"/>
+	    <relation name="associated_with" active="#ostana" passive="#plamena"/>
+	    <relation name="associated_with" active="#virsan" passive="#prevzyd"/>
+	  </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

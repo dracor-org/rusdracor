@@ -81,6 +81,15 @@
             <persName>Добрин</persName>
             <persName xml:lang="ger">Dobrin</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#sobrin" passive="#prelesta #ivan_sobrin"/>
+            <relation name="lover_of" active="#dobrin" passive="#prelesta"/>
+            <relation name="related_with" active="#takkov" passive="#dobrin"/>
+            <relation name="associated_with" active="#mavra" passive="#sobrina #sobrin"/>
+            <relation name="associated_with" active="#trofim #dvorabrod" passive="#sobrin"/>
+            <relation name="spouses" mutual="#sobrin #sobrina"/>
+            <relation name="friends" mutual="#predyn #sobrin"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

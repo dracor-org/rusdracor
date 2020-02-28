@@ -63,6 +63,12 @@
           <person xml:id="shiryalov" sex="MALE">
             <persName>Ширялов</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#stepanida_trofimovna" passive="#antip_antipych"/>
+            <relation name="associated_with" active="#darya" passive="#matrena_savishna #antip_antipych"/>
+            <relation name="siblings" mutual="#marya_antipovna #antip_antipych"/>
+            <relation name="spouses" mutual="#matrena_savishna #antip_antipych"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -361,6 +361,18 @@
             <persName>Ратник</persName>
             <persName xml:lang="ger">Ein Reisiger</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="lover_of" active="#knjazhna_mstislavskaja" passive="#shahovskoj"/>
+            <relation name="related_with" active="#ivan_ivanovich_shujskij #andrej_shujskij #knjazhna_mstislavskaja" passive="#ivan_petrovich_shujskij"/>
+            <relation name="related_with" active="#vasilij_shujskij #knjazhna_mstislavskaja" passive="#ivan_petrovich_shujskij"/>
+            <relation name="associated_with" active="#sluga_godunova" passive="#boris_godunov"/>
+            <relation name="associated_with" active="#starkov" passive="#ivan_petrovich_shujskij"/>
+            <relation name="associated_with" active="#turenin" passive="#boris_godunov"/>
+            <relation name="associated_with" active="#duhovnik" passive="#fedor_ivanovich"/>
+            <relation name="associated_with" active="#golovin" passive="#andrej_shujskij #dmitrij_shujskij"/>
+            <relation name="siblings" mutual="#irina #boris_godunov"/>
+            <relation name="spouses" mutual="#irina #fedor_ivanovich"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
