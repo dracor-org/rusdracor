@@ -70,7 +70,7 @@
             <persName>Князь Мстиславский</persName>
             <persName xml:lang="ger">Mstislavskij</persName>
           </person>
-          <personGrp xml:id="bojare" sex="MALE">
+          <personGrp xml:id="bojare_smert_ioanna_groznogo" sex="MALE">
             <name>Бояре</name>
             <name xml:lang="ger">Bojaren</name>
           </personGrp>
@@ -78,7 +78,7 @@
             <persName>Бельский</persName>
             <persName xml:lang="ger">Belʹskij</persName>
           </person>
-          <person xml:id="shujskij" sex="MALE">
+          <person xml:id="vasilij_shujskij" sex="MALE" ana="http://www.wikidata.org/entity/Q193232">
             <persName>Князь Шуйский</persName>
             <persName xml:lang="ger">Šujskij</persName>
           </person>
@@ -126,7 +126,7 @@
             <persName>Слуга</persName>
             <persName xml:lang="ger">Ein Diener</persName>
           </person>
-          <person xml:id="tsaritsa" sex="FEMALE">
+          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE" ana="http://www.wikidata.org/entity/Q151623">
             <persName>Царица Мария Федоровна</persName>
             <persName xml:lang="ger">Die Zarin</persName>
           </person>
@@ -222,7 +222,7 @@
             <persName>Пятый из народа (4)</persName>
             <persName xml:lang="ger">Fünfter aus dem Volk (4)</persName>
           </person>
-          <personGrp xml:id="narod" sex="UNKNOWN">
+          <personGrp xml:id="narod_smert_ioanna_groznogo" sex="UNKNOWN">
             <name>Народ</name>
             <name xml:lang="ger">Das Volk</name>
           </personGrp>
@@ -329,9 +329,9 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#ioann" passive="#fedor_ivanovich"/>
             <relation name="related_with" active="#grigorij_godunov" passive="#boris_godunov"/>
-            <relation name="associated_with" active="#sluga" passive="#shujskij"/>
-            <relation name="siblings" mutual="#mihajlo_nagoj #tsaritsa #grigorij_nagoj"/>
-            <relation name="spouses" mutual="#tsaritsa #ioann"/>
+            <relation name="associated_with" active="#sluga" passive="#vasilij_shujskij"/>
+            <relation name="siblings" mutual="#mihajlo_nagoj #tsaritsa_mariya_fedorovna_nagaya #grigorij_nagoj"/>
+            <relation name="spouses" mutual="#tsaritsa_mariya_fedorovna_nagaya #ioann"/>
             <relation name="related_with" active="#boris_godunov" passive="#fedor_ivanovich"/>
             <relation name="associated_with" active="#dvoretskij_godunova" passive="#boris_godunov"/>
             <relation name="siblings" mutual="#tsarevna_irina #boris_godunov"/>
@@ -502,7 +502,7 @@
             <l>Вот я да Шереметев, всех мы больше,</l>
             <l part="I">А о местах не спорим!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l part="F">Нас вы больше?</l>
             <l part="I">А чем вы больше нас?</l>
@@ -549,7 +549,7 @@
             <speaker>Бельский</speaker>
             <l part="F">Без мест, пожалуй!</l>
           </sp>
-          <sp who="#mihajlo_nagoj #saltykov #golitsyn #scherbatyj #zaharin #mstislavskij #bojare">
+          <sp who="#mihajlo_nagoj #saltykov #golitsyn #scherbatyj #zaharin #mstislavskij #bojare_smert_ioanna_groznogo">
             <speaker>Все</speaker>
             <l part="I">Без мест! Без мест!</l>
           </sp>
@@ -566,7 +566,7 @@
             <l>А покориться надо царской воле!</l>
             <l part="I">Пойдем на голоса!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Позволь, боярин,</l>
             <l>Последнее ль то слово государя?</l>
@@ -592,7 +592,7 @@
             <l>Пока не топнул он на нас ногою</l>
             <l>И не велел мне Думу собирать.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Когда его такая воля – что ж?</l>
           </sp>
@@ -637,7 +637,7 @@
             <speaker>Сицкий</speaker>
             <l>Завидное теперь меж нас согласье!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>к Татищеву</stage>
             <l part="I">К чему ж ты речь, боярин, вел?</l>
@@ -674,14 +674,14 @@
             <l>Теперь же позабыл он и о Курбском,</l>
             <l>И кроток стал, и милостив в речах.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Не нам царю указывать. От Бога</l>
             <l>Его и гнев и милость. Что ж, бояре?</l>
             <l part="I">Приступим к избиранию!</l>
           </sp>
           <sp
-            who="#mihajlo_nagoj #saltykov #golitsyn #scherbatyj #zaharin #mstislavskij #bojare #shujskij #trubetskoj #sheremetev #tatischev #sitskij">
+            who="#mihajlo_nagoj #saltykov #golitsyn #scherbatyj #zaharin #mstislavskij #bojare_smert_ioanna_groznogo #vasilij_shujskij #trubetskoj #sheremetev #tatischev #sitskij">
             <speaker>Все</speaker>
             <l part="F">Приступим!</l>
           </sp>
@@ -726,7 +726,7 @@
             <l>Царя Ивана! От дядьев царевых</l>
             <l part="I">Избави Бог!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Не приведи Господь!</l>
           </sp>
@@ -769,7 +769,7 @@
             <l>И стелется пред нами жизнь его</l>
             <l>Без пятнышка, как снежная равнина!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l>Захарьина! Захарьина! Никиту</l>
             <l>Романыча! Захарьина на царство!</l>
@@ -783,7 +783,7 @@
             <l>Не княжеского рода – быть под ним</l>
             <l>Невместно нам, потомкам Гедимина!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Нам и подавно, Рюрика потомкам!</l>
           </sp>
@@ -833,7 +833,7 @@
             <l>Продлится облежанье; мы ж не можем</l>
             <l>И часу оставаться без царя!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="I">Так как же быть?</l>
           </sp>
@@ -841,7 +841,7 @@
             <speaker>Мстиславский</speaker>
             <l part="F">Не ведаю, бояре!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Царь ждет ответа – надо кончить выбор!</l>
           </sp>
@@ -862,7 +862,7 @@
             <l>Но если вы мне речь вести велите,</l>
             <l part="I">То я скажу, бояре…</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l part="F">Громче! Громче!</l>
             <l part="I">Не слышно!</l>
@@ -871,7 +871,7 @@
             <speaker>Годунов</speaker>
             <l part="F">Мне казалось бы, бояре…</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l part="I">Не слышим! Громче!</l>
           </sp>
@@ -909,7 +909,7 @@
             <speaker>Нагой</speaker>
             <l>Небось он даром на конце сидел!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l>Те! Тише! Смирно! Слушать Годунова!</l>
           </sp>
@@ -967,7 +967,7 @@
             <l>И вновь молить его, да не оставит</l>
             <l>Престола он и да поддержит Русь!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Говор</speaker>
             <l>Он дело говорит! – Мы без Иван</l>
             <l>Василича пропали!— Лучше прямо</l>
@@ -983,7 +983,7 @@
             <l>В сравненье с ним? Что значат мор и голод,</l>
             <l>Когда сам царь не что как лютый зверь!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Что он понес? Да он царя бесчестит!</l>
           </sp>
@@ -1028,7 +1028,7 @@
             <l>Приимет государство – не земле,</l>
             <l>Ее врагам он только будет страшен!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l>Так! Так! Он прав! Он дело говорит!</l>
           </sp>
@@ -1054,7 +1054,7 @@
             <l>Признать царем боярина Никиту</l>
             <l>Романыча или кого велите!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l>Нет, не хотим Захарьина! Не надо!</l>
           </sp>
@@ -1062,7 +1062,7 @@
             <speaker>Годунов</speaker>
             <l>Иль, может быть, Мстиславского, бояре?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l>Нет, не хотим! И сами мы не меньше</l>
             <l part="I">Мстиславского!</l>
@@ -1071,7 +1071,7 @@
             <speaker>Годунов</speaker>
             <l part="F">Иль Шуйского, бояре?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l>И Шуйского не надо! Быть под Шуйским</l>
             <l>Мы не хотим! Хотим царя Ивана!</l>
@@ -1085,7 +1085,7 @@
           </sp>
         </div>
         <div type="configuration">
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса и крики</speaker>
             <l>Он бунтовщик! Он оскорбил всю Думу!</l>
             <l>Он против всех идет! Он всем досадчик!</l>
@@ -1118,11 +1118,11 @@
             <l>Неловко мне! Сегодня на меня</l>
             <l>И без того разгневался уж царь.</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Голоса</speaker>
             <l part="I">Пусть Шуйский говорит!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">И мне неловко!</l>
           </sp>
@@ -1723,7 +1723,7 @@
             <l>Как пленника связав меня, хотите</l>
             <l>Неволей на престоле удержать?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Бояре</speaker>
             <l>Царь-государь! Ты нам дарован Богом!</l>
             <l>Иного мы владыки не хотим,</l>
@@ -1736,7 +1736,7 @@
             <l>Хотите снова на меня взвалить?</l>
             <l part="I">Оно-де так сподручней?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Государь!</l>
             <l>Не оставляй нас! Смилуйся над нами!</l>
@@ -1757,7 +1757,7 @@
             <l>Царем Руси и вашим господином!</l>
             <stage>Надевает Мономахову шапку.</stage>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Бояре</speaker>
             <stage>вставая</stage>
             <l>Да здравствует наш царь Иван Василич!</l>
@@ -2176,7 +2176,7 @@
           <head>Дом Шуйского</head>
           <stage>Шуйский, Мстиславский, Бельский, Михайло Нагой и Григорий Нагой сидят у стола за
             кубками.</stage>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>наливая им вино</stage>
             <l>Прошу вас, пейте, гости дорогие!</l>
@@ -2192,7 +2192,7 @@
             <l>Нет, князь, спасибо. Не вино, а здравье,</l>
             <l part="I">Признаться, мне не нравится.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Что так?</l>
             <l>Про Годунова, князь, ты пить не хочешь?</l>
@@ -2216,7 +2216,7 @@
             <speaker>Г. Нагой</speaker>
             <l>Нет, он не сядет – он уже сидит!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Помилуйте, бояре, Годунов-то?</l>
             <l>Его насильно ставят выше нас,</l>
@@ -2230,7 +2230,7 @@
             <l>Поддакивает, кланяется, бес,</l>
             <l>А все-таки поставит на своем!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Ну, этот раз ему за то спасибо!</l>
           </sp>
@@ -2263,7 +2263,7 @@
             <l>Нет, так нельзя; а можно бы иначе –</l>
             <l>Да, вишь, князь Шуйский за него стоит!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Я? За него? Да что ж он мне, бояре?</l>
             <l>Он мне ни кум, ни шурин, ни свояк!</l>
@@ -2273,7 +2273,7 @@
             <speaker>Бельский</speaker>
             <l part="I">Ну, слеп же ты!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Нет, я не слеп, бояре!</l>
             <l>Когда б дошло до дела, вы бы сами</l>
@@ -2291,7 +2291,7 @@
             <speaker>Г. Нагой</speaker>
             <l>Готовы крест на этом целовать!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Эх, вам охота даром в петлю лезть.</l>
           </sp>
@@ -2301,7 +2301,7 @@
             <l>Ты слеп как крот, и первого тебя</l>
             <l>Татарин этот выживет как раз!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="I">Ты думаешь?</l>
           </sp>
@@ -2309,7 +2309,7 @@
             <speaker>Бельский</speaker>
             <l part="F">Да уж наверно так!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Ну, коли так – тогда другое дело!</l>
           </sp>
@@ -2317,7 +2317,7 @@
             <speaker>Бельский</speaker>
             <l part="I">Так ты согласен?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Что ж мне одному</l>
             <l>Быть против всех! Пожалуй, я согласен –</l>
@@ -2358,7 +2358,7 @@
             <speaker>Мстиславский</speaker>
             <l part="I">А где его достать?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>отворяя дверь в другой покой</stage>
             <l part="F">Войди, Данилыч!</l>
@@ -2366,7 +2366,7 @@
         </div>
         <div type="configuration">
           <stage>Входит Битяговский.</stage>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <l>Вот он, бояре, кто теперь нам нужен!</l>
             <l>Я с ним уж говорил – он рад служить.</l>
           </sp>
@@ -2390,7 +2390,7 @@
             <l>Так он берется сладить это дело?</l>
             <l>Но кто же он? Его нам надо знать!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Он из дворян: Михайло Битяговский.</l>
             <l>Прошу любить и жаловать его;</l>
@@ -2405,7 +2405,7 @@
             <l>Тебе не в гнев, ему не в осужденье,</l>
             <l>Спросить тебя: чем отвечаешь ты?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Бояре, дело просто: в зернь да в карты</l>
             <l>Именье он до нитки проиграл;</l>
@@ -2419,7 +2419,7 @@
             <speaker>Битяговский</speaker>
             <l part="I">Да, ясен.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Если ж ты уладишь дело,</l>
             <l part="I">Мы наградим тебя.</l>
@@ -2428,7 +2428,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Само собой.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Я говорил тебе не в укоризну,</l>
             <l>А чтоб бояре лучше веру взяли.</l>
@@ -2438,7 +2438,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Могу и постоять.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="I">На, выпей чару!</l>
           </sp>
@@ -2516,7 +2516,7 @@
             <speaker>Битяговский</speaker>
             <l part="F">Разорвут.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Уж положитесь на него, бояре!</l>
             <l>Он неохоч до слов, но он на деле</l>
@@ -2532,7 +2532,7 @@
             <l>Есть на примете у меня один:</l>
             <l>Рязанский дворянин, Прокофий Кикин.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Коль за него ты можешь отвечать,</l>
             <l>Пошли его, пожалуй, от себя;</l>
@@ -2554,7 +2554,7 @@
             <speaker>Слуга</speaker>
             <l part="I">Боярин Годунов!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>про себя</stage>
             <l part="F">Ах, бес проклятый!</l>
@@ -2563,7 +2563,7 @@
         <div type="configuration">
           <stage>Входит Годунов. Гости встают в замешательстве.</stage>
           <stage>Идет навстречу Годунову с распростертыми объятиями.</stage>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <l>Борис Феодорыч! Вот гость любезный!</l>
             <l>Челом тебе на ласке бью твоей!</l>
             <stage>Обнимаются.</stage>
@@ -2580,7 +2580,7 @@
             <l>Быть может, ты с гостями дорогими</l>
             <l part="I">Был делом занят?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Делом? Нет, боярин!</l>
             <l>Мы так себе балякали. Садись,</l>
@@ -2607,7 +2607,7 @@
             <l>Пора и нам! Прости же, князь Василий</l>
             <l part="I">Иванович!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Что ж, гости дорогие?</l>
             <l part="I">Зачем так рано?</l>
@@ -2616,7 +2616,7 @@
             <speaker>М. Нагой</speaker>
             <l part="F">Дома дело есть.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Простите же, бояре! Много вас</l>
             <l part="I">За честь благодарю!</l>
@@ -2624,7 +2624,7 @@
           </sp>
         </div>
         <div type="configuration">
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <l part="F">Ну, слава Богу!</l>
             <l>Ушли! Спасибо же тебе, боярин,</l>
             <l>Что навестил меня! Ты не поверишь,</l>
@@ -2638,7 +2638,7 @@
             <l>Иванович! А я вот за советом</l>
             <l part="I">К тебе пришел.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Приказывай, боярин!</l>
           </sp>
@@ -2647,7 +2647,7 @@
             <l>Ты знаешь, князь, меня не любят в Думе –</l>
             <l part="I">Я новый человек.</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Так что же в том?</l>
             <l>Я за тебя горой стою; а правда,</l>
@@ -2662,7 +2662,7 @@
             <l>Пожалуй, на меня царю нашепчут;</l>
             <l>А до беды у нас недолго, князь!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>А я на что ж? Я за тебя готов</l>
             <l>В огонь и в воду! Ты мне тот же брат!</l>
@@ -2673,7 +2673,7 @@
             <stage>к Шуйскому</stage>
             <l>Князь, царь прислал за милостью твоей!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>встает</stage>
             <l>За мной? Теперь? Ну, не взыщи, боярин,—</l>
@@ -2773,7 +2773,7 @@
         <div type="configuration">
           <head>Покои царицы Марии Фёдоровны</head>
           <stage>Царица и мамка царевича Димитрия.</stage>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Что ж, мамка? Уложила ты его?</l>
             <l>Заснул ли он, голубчик мой, царевич?</l>
@@ -2794,7 +2794,7 @@
             <l>Подумаешь, как кончился-то он!</l>
             <l>Ах, грех какой! Не верится доселе!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Не будем говорить про это, мамка.</l>
             <l>Не присылал ли государь сказать,</l>
@@ -2805,7 +2805,7 @@
             <speaker>Мамка</speaker>
             <l part="I">Нет, матушка, не присылал.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">Бывало,</l>
             <l>Он каждый день наведывался сам!</l>
@@ -2818,7 +2818,7 @@
             <l>Брал на руки царевича, ласкал</l>
             <l part="I">И любовался им.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">И ты дала</l>
             <l>Ему ласкать царевича? Никто</l>
@@ -2832,7 +2832,7 @@
             <l>За каждый волосочек, мол, его</l>
             <l>Пред Богом и землею отвечаешь!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Послушай, мамка, этак не годится</l>
             <l>Болтать со всяким. Никому вперед</l>
@@ -2844,7 +2844,7 @@
             <l>Романович к нам подходил намедни –</l>
             <l>И с этим, значит, говорить нельзя?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Нет, с этим можно! Этому я верю,</l>
             <l>Он все равно мне что родной отец!</l>
@@ -2855,7 +2855,7 @@
             <l>Царица! Может ли к тебе Никита</l>
             <l>Романович взойти, Захарьин-Юрьев?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Он здесь? Проси, проси его скорей!</l>
           </sp>
@@ -2867,7 +2867,7 @@
             <l>Царица Марья Федоровна, здравствуй!</l>
             <l part="I">Как можешь?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <stage>идет к нему навстречу</stage>
             <l part="F">Здравствуй, дядюшка Никита</l>
@@ -2896,7 +2896,7 @@
             <l>Из берегов уж выступила вон</l>
             <l part="I">И топит все кругом себя!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">Скажи,</l>
             <l part="I">Что он задумал?</l>
@@ -2905,7 +2905,7 @@
             <speaker>Захарьин</speaker>
             <l part="F">Бог ему судья!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>О чем-то страшном шепчут во дворце –</l>
             <l>Он с английским послом наедине</l>
@@ -2918,7 +2918,7 @@
             <speaker>Захарьин</speaker>
             <l>Будь, дитятко, готова ко всему!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Недаром сердце у меня щемило!</l>
           </sp>
@@ -2938,7 +2938,7 @@
             <l>Приму удар, скажу ему открыто,</l>
             <l part="I">Что он бессовестно чинит!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">Боярин,</l>
             <l>Спаси меня! Не за себя мне страшно!</l>
@@ -2970,7 +2970,7 @@
             <l>Здоровья Годунову! Он один</l>
             <l>Еще его удерживать умеет!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>О дядюшка! Не верь ты Годунову!</l>
             <l>Нет, он не тот! Его смиренный вид,</l>
@@ -2992,7 +2992,7 @@
             <l part="F">Царь идет!</l>
             <l part="I">Сейчас здесь будет!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <stage>с испугом</stage>
             <l part="F">Дядюшка! Мне страшно!</l>
@@ -3004,7 +3004,7 @@
             <l>Чтоб не заметил он чего! Отри</l>
             <l part="I">Скорей глаза!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">Ох, сердце замирает!</l>
           </sp>
@@ -3159,7 +3159,7 @@
             <stage>Царица молчит, потупя взор.</stage>
             <l>Ты слышишь ли? Что сталося с тобою?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="I">Мой господин, прости меня… я…</l>
           </sp>
@@ -3167,7 +3167,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Ну?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="I">Я видела недобрый сон.</l>
           </sp>
@@ -3175,7 +3175,7 @@
             <speaker>Иоанн</speaker>
             <l part="F">Какой?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Мне снилось, государь… мне снилось, что…</l>
             <l part="I">Я разлучаюся с тобой!</l>
@@ -3187,7 +3187,7 @@
             <l>Тебе пришел, что ты отныне боле</l>
             <l part="I">Мне не жена.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">Так это правда? Правда?</l>
             <l>Меня с Димитрием ты бросить хочешь?</l>
@@ -3198,7 +3198,7 @@
             <l part="F">Тише!</l>
             <l>Я бабьих слез и криков не люблю!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Нет, господин мой,— я не плачу – нет –</l>
             <l>Ты видишь, я не плачу – но скажи,</l>
@@ -3217,7 +3217,7 @@
             <l>Иль я уж в доме у себя не властен?</l>
             <l part="I">Иль ты царица по себе?</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">Прости,</l>
             <l>Мой господин! Прости! Я не ропщу –</l>
@@ -3871,7 +3871,7 @@
             <l>Ребята! Что ж? Когда весь Киев-город</l>
             <l>Тот слышал глас, так, стало быть, уж правда!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Говор в народе</speaker>
             <l>Вестимо, правда! Значит, Годунов</l>
             <l>Изменник! Да! Изменник и колдун!</l>
@@ -3889,7 +3889,7 @@
             <l>Опричь добра, о Годунове, братцы,</l>
             <l part="I">Мы не слыхали ничего!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Крики в народе</speaker>
             <l part="F">Вороны!</l>
             <l>Что слушать их! Они за колдуна!</l>
@@ -3937,7 +3937,7 @@
             <l>Коль не теперь? Аль не слыхали, братцы,</l>
             <l>Какую милость нам Господь явил?</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Говор</speaker>
             <l>Какую? Говори! Какую милость?</l>
           </sp>
@@ -3949,7 +3949,7 @@
             <l>В смоле кипеть!— задумали царя</l>
             <l part="I">Отравой извести!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Говор</speaker>
             <l part="F">Слышь, слышь, ребята!</l>
           </sp>
@@ -3963,7 +3963,7 @@
             <l>Собаке бросил. Та его как съела –</l>
             <l part="I">Так и издохла!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Народ</speaker>
             <l part="F">Ах они,злодеи!</l>
             <l>Ах окаянные! Да кто, сказал ты,</l>
@@ -4054,7 +4054,7 @@
             <l>Его вяжите! Он от Годунова</l>
             <l part="I">Сюда подослан!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Народ</speaker>
             <l part="F">Кто их разберет!</l>
             <l>Один из двух морочит нас! – Ребята!</l>
@@ -4087,7 +4087,7 @@
             <l>Раздать их вам безденежно, а вас</l>
             <l>Молиться просит о его здоровье!</l>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_smert_ioanna_groznogo">
             <speaker>Народ</speaker>
             <l>Отец он наш! – Дай Бог ему здоровья! –</l>
             <l>Кормилец наш!— Слышь, Годунов нам даром</l>
@@ -4133,7 +4133,7 @@
             <l>Глядеть на это долго не годится;</l>
             <l part="I">Оно ведь не к добру!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <stage>к Федору</stage>
             <l part="F">Где государь?</l>
@@ -4147,7 +4147,7 @@
             <l>Все молча смотрит, а кругом бояре</l>
             <l>Очей поднять не смеют на него.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <stage>задумчиво</stage>
             <l>Уже который вечер ходит он</l>
@@ -4189,7 +4189,7 @@
             <l>Собрать велел, чтобы они ему</l>
             <l>Поведали, зачем она явилась.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Волхвов? Помилуй Бог! Царь видел их?</l>
           </sp>
@@ -4213,7 +4213,7 @@
             <l>Затворником живет он. У него</l>
             <l>Царь-батюшка спросить совета хочет.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l>Дай Бог, чтоб схимник дал ему совет!</l>
           </sp>
@@ -4613,7 +4613,7 @@
             <stage>тихо к Шуйскому</stage>
             <l part="I">Помилуй нас Господь!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>тихо к Бельскому</stage>
             <l part="F">Остережемся –</l>
@@ -4628,7 +4628,7 @@
             <l>Простите ж мне! Ты, Бельский,— ты, Захарьин,—</l>
             <l>Ты, князь Мстиславский,— ты, князь Шуйский,— ты…</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Помилуй, государь! Тебе ль у нас</l>
             <l part="I">Прощения просить?..</l>
@@ -6200,7 +6200,7 @@
             <l>Кончины день узнать вперед! Никто!</l>
             <l part="I">Вы! Слышите ли?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Слышим, государь.</l>
           </sp>
@@ -6219,7 +6219,7 @@
             <l part="F">Ну, то-то ж! Что же вы</l>
             <l part="I">Молчите, а?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Великий государь,</l>
             <l>И день и ночь мы о твоем здоровье</l>
@@ -6256,7 +6256,7 @@
             <l>Волхвов за ложь на казнь я осудил.</l>
             <l part="I">Неправ мой суд, по-вашему?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Бояре</speaker>
             <l part="F">Прав, царь!</l>
           </sp>
@@ -6265,7 +6265,7 @@
             <l>А коли прав, так что же языки</l>
             <l part="I">Связало вам?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Бояре</speaker>
             <l part="F">Великий государь!</l>
             <l>Помилуй нас! Не знаем, что сказать!</l>
@@ -6276,7 +6276,7 @@
             <l>На казнь обрек? Так, стало, не солгали</l>
             <l part="I">Ворожеи?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Бояре</speaker>
             <l part="F">Солгали, государь!</l>
             <l>Они солгали! По вине им мука!</l>
@@ -6289,7 +6289,7 @@
             <stage>Молчанье.</stage>
             <l part="I">Что шепчетесь вы там?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Нет, государь,</l>
             <l part="I">Мы не шептались!</l>
@@ -6371,7 +6371,7 @@
             <l>С своей перчаткой! Чай,теперь идти</l>
             <l part="I">На Новгород раздумали!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Куда им!</l>
           </sp>
@@ -6397,7 +6397,7 @@
             <stage>заслоняется слоном</stage>
             <l part="F">Шах ферязи твоей!</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>к Бельскому, смеясь</stage>
             <l>Что, взял, боярин? Ферязь-то пропала!</l>
@@ -6493,7 +6493,7 @@
             <l part="I">Не верь ему! – А!</l>
             <stage>Падает навзничь на пол.</stage>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>бросается к нему и поддерживает его голову</stage>
             <l part="F">Боже! Он отходит!</l>
@@ -6520,7 +6520,7 @@
             <l>Ой, жги, жги, жги!</l>
             <l>Тащи козла за рога!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_smert_ioanna_groznogo">
             <speaker>Бояре</speaker>
             <l>Что это? Что? Назад! Побойтесь Бога!</l>
           </sp>
@@ -6604,7 +6604,7 @@
             <stage>бросаясь к трупу</stage>
             <l part="I">Царь-батюшка!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <l part="F">О Господи, помилуй!</l>
           </sp>
@@ -6659,7 +6659,7 @@
             <l part="F">А, вот ты наконец!</l>
           </sp>
           <stage>Крики на площади, между которыми слышны имена Шуйского и Бельского.</stage>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <stage>к Федору</stage>
             <l part="I">Решайся, государь!</l>
@@ -6684,7 +6684,7 @@
             <l>Ссылает их далеко от Москвы!</l>
           </sp>
           <stage>Гул на площади.</stage>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l>Борис Феодорыч! Помилуй! Что ты?</l>
           </sp>
@@ -6697,7 +6697,7 @@
             <l part="F">Вы вольны остаться –</l>
             <l part="I">Хотите ль выйти на крыльцо?</l>
           </sp>
-          <sp who="#shujskij">
+          <sp who="#vasilij_shujskij">
             <speaker>Шуйский</speaker>
             <l part="F">Помилуй!</l>
             <l part="I">Нас разорвут!</l>
@@ -6751,7 +6751,7 @@
             <stage>К царице, указывая на Битяговского.</stage>
             <l>Вас всех блюсти вот этот наряжен!</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <stage>к Федору</stage>
             <l>Не верь ему! Не верь ему, Феодор!</l>
@@ -6782,7 +6782,7 @@
             <l part="F">Мой отец,</l>
             <l>Тебя царь просит оставаться с ним.</l>
           </sp>
-          <sp who="#tsaritsa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Царица</speaker>
             <stage>К Захарьину</stage>
             <l>Спаси меня! Спаси меня, боярин!</l>

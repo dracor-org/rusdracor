@@ -74,7 +74,7 @@
             <persName>Князь Василий Иванович Шуйский</persName>
             <persName xml:lang="ger">Fürst Vasilij Ivanovič Šujskij</persName>
           </person>
-          <personGrp xml:id="bojare" sex="MALE">
+          <personGrp xml:id="bojare_tsar_fedor_ioannovich" sex="MALE">
             <name>Бояре</name>
             <name xml:lang="ger">Die Bojaren</name>
           </personGrp>
@@ -123,7 +123,7 @@
             <persName>Стремянный</persName>
             <persName xml:lang="ger">Der Stallmeister des Zaren</persName>
           </person>
-          <person xml:id="irina" sex="FEMALE">
+          <person xml:id="tsarevna_irina" sex="FEMALE">
             <persName>Царица Ирина Федоровна</persName>
             <persName xml:lang="ger">Zarin Irina Fedorovna</persName>
           </person>
@@ -217,11 +217,11 @@
             <persName>Посадский</persName>
             <persName xml:lang="ger">Ein Bürger</persName>
           </person>
-          <person xml:id="drugoj_posadskij" sex="MALE">
+          <person xml:id="drugoj_posadskij_4-4" sex="MALE">
             <persName>Другой посадский</persName>
             <persName xml:lang="ger">Ein zweiter Bürger</persName>
           </person>
-          <person xml:id="tretij_posadskij" sex="MALE">
+          <person xml:id="tretij_posadskij_4-4" sex="MALE">
             <persName>Третий посадский</persName>
             <persName xml:lang="ger">Ein dritter Bürger</persName>
           </person>
@@ -309,7 +309,7 @@
             <persName>Четвертый</persName>
             <persName xml:lang="ger">Vierter</persName>
           </person>
-          <personGrp xml:id="narod" sex="UNKNOWN">
+          <personGrp xml:id="narod_tsar_fedor_ioannovich" sex="UNKNOWN">
             <name>Народ</name>
             <name xml:lang="ger">Das Volk</name>
           </personGrp>
@@ -370,8 +370,8 @@
             <relation name="associated_with" active="#turenin" passive="#boris_godunov"/>
             <relation name="associated_with" active="#duhovnik" passive="#fedor_ivanovich"/>
             <relation name="associated_with" active="#golovin" passive="#andrej_shujskij #dmitrij_shujskij"/>
-            <relation name="siblings" mutual="#irina #boris_godunov"/>
-            <relation name="spouses" mutual="#irina #fedor_ivanovich"/>
+            <relation name="siblings" mutual="#tsarevna_irina #boris_godunov"/>
+            <relation name="spouses" mutual="#tsarevna_irina #fedor_ivanovich"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -586,7 +586,7 @@
             <l>Все ли</l>
             <l>Согласны подписаться?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_tsar_fedor_ioannovich">
             <speaker>Бояре</speaker>
             <l>Все согласны!</l>
           </sp>
@@ -1125,7 +1125,7 @@
             <stage>Из другой двери входит ЦАРИЦА ИРИНА.</stage>
             <l>Аринушка, здорово!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Здорово, свет! Никак ты уморился?</l>
           </sp>
@@ -1138,7 +1138,7 @@
             <l>Так он и стих. Аринушка, я чаю,</l>
             <l>Обед готов?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Готов, свет-государь,</l>
             <l>Покушай на здоровье!</l>
@@ -1167,7 +1167,7 @@
             <l>Высокая, и стройная такая,</l>
             <l>И белая!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Да у тебя уж, Федор,</l>
             <l>Зазнобы нет ли к ней?</l>
@@ -1177,7 +1177,7 @@
             <l>И брови, знаешь,</l>
             <l>Какие у нее!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Да ты и впрям</l>
             <l>Уж много говоришь о ней!</l>
@@ -1189,7 +1189,7 @@
             <l>Аринушка? Ведь я еще не стар,</l>
             <l>Ведь я еще поправиться могу!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Стыдись, она невеста!</l>
           </sp>
@@ -1243,7 +1243,7 @@
             <l>А ведь Мстиславская-то на меня</l>
             <l>Смотрела в церкви!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>что ж мне делать, Федор,</l>
             <l>Такая, видно, горькая уж доля</l>
@@ -1471,7 +1471,7 @@
             <l>А женщина попросит, иль ребенок,</l>
             <l>Все сделать рад!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Мой царь и господин,</l>
             <l>Как ты велишь, так мы и будем делать;</l>
@@ -1596,7 +1596,7 @@
             <speaker>Федор</speaker>
             <l>Кто?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_tsar_fedor_ioannovich">
             <speaker>Бояре</speaker>
             <stage>— смотрят в окно.</stage>
             <l>Шуйские идут!</l>
@@ -1918,7 +1918,7 @@
             <l>Тому не верит. Что же ты молчишь,</l>
             <l>Аринушка?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— продолжая вышивать.</stage>
             <l>Не верится мне вправду,</l>
@@ -1946,7 +1946,7 @@
             <l>Покойный царь так беззаботно отдал</l>
             <l>Из рук своих в чужие руки власть!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Когда во Пскове, князь Иван Петрович,</l>
             <l>Ты, окружен литовцами, сидел,</l>
@@ -2028,7 +2028,7 @@
             <stage>— к боярам пришедшим с ним.</stage>
             <l>Как мыслите?</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_tsar_fedor_ioannovich">
             <speaker>Бояре</speaker>
             <l>На что согласен ты,</l>
             <l>Мы все согласны!</l>
@@ -2440,7 +2440,7 @@
             <speaker>Голубь</speaker>
             <l>Соболью шапку!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— к Федору.</stage>
             <l>Свет-государь, не позволяй им биться;</l>
@@ -3627,7 +3627,7 @@
             <l>Сестра-царица, здравствуй!</l>
             <l>Еще не вышел государь?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Недавно</l>
             <l>С иконой духовник в опочивальню</l>
@@ -3870,7 +3870,7 @@
             <l>Да житие святого Иоанна</l>
             <l>Ветхопещерника прочла бы мне!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Дозволь сперва мне, Федор, челобитье</l>
             <l>Тебе подать. Письмо я получила</l>
@@ -3886,7 +3886,7 @@
             <l>Ведь я давно прошу о том Бориса,</l>
             <l>Ведь я бы рад…!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>А как сегодня ты</l>
             <l>Опальников простил своих литовских,</l>
@@ -3900,7 +3900,7 @@
             <stage>Показывая на Годунова.</stage>
             <l>Вот кому скажи!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Я знаю, Федор, что правленье царством</l>
             <l>Ты справедливо брату поручил;</l>
@@ -4028,7 +4028,7 @@
             <speaker>Годунов</speaker>
             <l>Правда.</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Помилуй, брат!</l>
           </sp>
@@ -4205,7 +4205,7 @@
             <l>Тебе еще? Ничем он не доволен!</l>
             <l>Арина, слышишь?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Князь Иван Петрович,</l>
             <l>Мне кажется —</l>
@@ -4529,7 +4529,7 @@
             <l>Ты, может быть, винишь меня за то,</l>
             <l>Что я теперь его не удержал?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Нет, Федор, нет! Ты сделал так, как должно!</l>
             <l>Ты ангела лишь слушай своего,</l>
@@ -4541,7 +4541,7 @@
             <l>Так думаю, Аринушка. Что ж делать,</l>
             <l>Что не рожден я государем быть!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Ты весь дрожишь, и сердце у тебя</l>
             <l>Так сильно бьется!</l>
@@ -5069,7 +5069,7 @@
           <head>Царский терем. Половина Царицы.</head>
           <stage>ФЕДОР сидит за кипою бумаг и обтирает пот с лица. — Перед ним стоят государственные
             печати, большая и малая. — ИРИНА подходит и кладет ему руку па плечо.</stage>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Ты отдохнул бы, Федор.</l>
           </sp>
@@ -5083,7 +5083,7 @@
             <l>Подарок мне: шесть обезьян мне шлет.</l>
             <l>Аринушка, я их отправлю к Мите!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Так ты его не выпишешь?</l>
           </sp>
@@ -5093,7 +5093,7 @@
             <l>Аринушка, когда бы согласился</l>
             <l>Борис остаться —</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>На его ты место</l>
             <l>Еще не выбрал никого?</l>
@@ -5288,7 +5288,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <l>Уволь меня!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>—которая не спускала глаз с Шуйского.</stage>
             <l>Свет-государь,</l>
@@ -5313,7 +5313,7 @@
             <stage>Про себя.</stage>
             <l>А по иконе было бы вернее!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— к Федору.</stage>
             <l>Свет-государь —</l>
@@ -5481,7 +5481,7 @@
             <l>Скажи ему, что участь государства</l>
             <l>В приказе сем!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>В нем нет уже нужды!</l>
             <l>Гроза прошла, не враг нам боле Шуйский!</l>
@@ -5617,7 +5617,7 @@
             <l>Аринушка — он подписался!</l>
             <stage>Падает в кресла и закрывает лицо руками.</stage>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Федор —</l>
           </sp>
@@ -5627,7 +5627,7 @@
             <l>Нас разлучить с тобой!</l>
             <stage>Плачет.</stage>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Опомнись, Федор!</l>
           </sp>
@@ -5635,7 +5635,7 @@
             <speaker>Федор</speaker>
             <l>Тебя сослать!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Мой царь и господин!</l>
             <l>Не ведаю сама, что это значит —</l>
@@ -5649,7 +5649,7 @@
             <l>Тебя — мою Ирину —</l>
             <l>Тебя постричь!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Ведь этого не будет!</l>
           </sp>
@@ -5660,7 +5660,7 @@
             <l>Пускай прийдут! Пусть с пушками прийдут!</l>
             <l>Пусть попытаются!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Свет-государь,</l>
             <l>Напрасно ты тревожишься. Кто может</l>
@@ -5674,7 +5674,7 @@
             <stage>Бежит к столу и прикладывает печать к приказу.</stage>
             <l>На! На! Отдай Борису!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Что сделал ты —</l>
           </sp>
@@ -5682,7 +5682,7 @@
             <speaker>Федор</speaker>
             <l>Под стражу их! В тюрьму!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Мой господин! Мой царь! Не торопись!</l>
           </sp>
@@ -5724,7 +5724,7 @@
             <l>Что сделал я!</l>
             <stage>Убегает.</stage>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Свет-государь, послушай —</l>
             <l>Верни его! Верни ты Клешнина!</l>
@@ -5777,11 +5777,11 @@
             <speaker>Курюков</speaker>
             <p>— Близко, слышно.</p>
           </sp>
-          <sp who="#drugoj_posadskij">
+          <sp who="#drugoj_posadskij_4-4">
             <speaker>Другой посадский</speaker>
             <p>— А кого на встречу пошлют?</p>
           </sp>
-          <sp who="#tretij_posadskij">
+          <sp who="#tretij_posadskij_4-4">
             <speaker>Третий посадский</speaker>
             <p>— Чай, опять князь Иван Петровича?</p>
           </sp>
@@ -5798,7 +5798,7 @@
             <stage>— злобно.</stage>
             <p>— А что? Чем Годунов вам не воевода?</p>
           </sp>
-          <sp who="#tretij_posadskij">
+          <sp who="#tretij_posadskij_4-4">
             <speaker>Третий</speaker>
             <p>— Где ж ему супротив Иван Петровича?</p>
           </sp>
@@ -5972,7 +5972,7 @@
             <p>— Родился, православные, родился! Родился он окаянный! Сломил он Иван Петровича!
               Сковал его, света нашего! По рукам и по ногам сковал!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Что ты, дедушка, Господь с тобой! Кто смеловал обидеть Иван Петровича!</p>
           </sp>
@@ -5994,7 +5994,7 @@
             <speaker>Курюков</speaker>
             <p>— Так отобьем же его у Годунова, православные, да на руках домой понесем!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Отобьем!</p>
           </sp>
@@ -6015,7 +6015,7 @@
             <p>— Батюшка, князь Иван Петрович! Говорил я тебе не мирись! Говорил, родимый, не мирись
               с Годуновым!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Правое твое дело, Иван Петрович, а мы за тебя!</p>
           </sp>
@@ -6023,7 +6023,7 @@
             <speaker>Туренин</speaker>
             <p>— Раздайтесь, смерды! По царскому указу Шуйских в тюрьму ведем!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— По царскому? Не правда! По Годунова указу!</p>
           </sp>
@@ -6036,7 +6036,7 @@
             <speaker>Курюков</speaker>
             <p>— Стойте дружно, православные! Кричите: Шуйские живут!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Шуйские живут! Выручим отца нашего!</p>
           </sp>
@@ -6045,7 +6045,7 @@
             <p>— Ну, теперь за мной, как при Олёне Васильевне! Шуйские! Шуйские!</p>
           </sp>
           <stage>Бросается с бердышем на стрельцов.</stage>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <stage>— бросаясь за ним.</stage>
             <p>— Шуйские! Шуйские!</p>
@@ -6065,7 +6065,7 @@
             <speaker>Кн. Иван Петрович</speaker>
             <p>— Смирно, детушки! Слушайте меня!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Отец ты наш! Не дадим тебя в обиду!</p>
           </sp>
@@ -6091,7 +6091,7 @@
             <stage>К Туренину.</stage>
             <p>Ну, теперь, князь, идем. Простите, московские люди!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Батюшка! Отец наш! На кого ты нас, сирот, покидаешь!</p>
           </sp>
@@ -6137,7 +6137,7 @@
             <speaker>Шаховской</speaker>
             <p>— К тюрьме, ребята! Шуйские живут!</p>
           </sp>
-          <sp who="#narod">
+          <sp who="#narod_tsar_fedor_ioannovich">
             <speaker>Народ</speaker>
             <p>— Шуйские! Шуйские!</p>
           </sp>
@@ -6265,7 +6265,7 @@
             <l>Великая царица — я не ждал</l>
             <l>Прихода твоего —</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— к боярыням.</stage>
             <l>Оставьте нас.</l>
@@ -6279,7 +6279,7 @@
             <l>Сестра,</l>
             <l>Зачем ко мне пришла ты без доклада?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Прости меня — мне дорог каждый миг —</l>
             <l>Тебя вросить пришла я, брат!</l>
@@ -6288,7 +6288,7 @@
             <speaker>Годунов</speaker>
             <l>О чем?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Ужели ты погубишь князь Ивана?</l>
           </sp>
@@ -6296,7 +6296,7 @@
             <speaker>Годунов</speaker>
             <l>В своей измене сам сознался он.</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Он в ней раскаялся! Его мы слову</l>
             <l>Поверить можем. Благостью царевой</l>
@@ -6364,7 +6364,7 @@
             <l>И при таком царе, каков царь Федор,</l>
             <l>Им места нет, быть места не должно!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Ты прав, Борис, тебе помехой долго</l>
             <l>Был князь Иван; но ты уж торжествуешь;</l>
@@ -6380,7 +6380,7 @@
             <l>Не потрясет — но думаешь ли ты</l>
             <l>Перечить мне он также отказался?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Ты поборол его, тобой он сломан;</l>
             <l>В темнице он; ужели мщенья ты</l>
@@ -6394,7 +6394,7 @@
             <l>И не своих, но дела моего</l>
             <l>Гублю врагов.</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Подумай о его</l>
             <l>Заслугах, брат!</l>
@@ -6403,7 +6403,7 @@
             <speaker>Годунов</speaker>
             <l>За них приял он честь.</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>К стенам Москвы с ордою подступает</l>
             <l>Ногайский хан. Кто даст ему отпор?</l>
@@ -6412,7 +6412,7 @@
             <speaker>Годунов</speaker>
             <l>Не в первый раз Москва увидит хана.</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>От Шуйского от одного она</l>
             <l>Спасенья ждет.</l>
@@ -6445,7 +6445,7 @@
             <l>Склонить теперь, чтоб отказался он</l>
             <l>От всякого вступательства за Шуйских!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Когда б могла я думать, что нужна</l>
             <l>Погибель их для блага государства,</l>
@@ -6464,7 +6464,7 @@
             <l>Со мною хочешь снова</l>
             <l>Ты врозь идти?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Пути различны наши.</l>
           </sp>
@@ -6477,7 +6477,7 @@
             <l>Зовет своих боярынь!</l>
             <stage>Боярыни входят.</stage>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Брат, прости!</l>
           </sp>
@@ -6559,7 +6559,7 @@
             <stage>Нищие сторонятся. — ИРИНА подходит со МСТИСЛАВСКОЙ; за ней боярыни. — Стольник
               идет впереди и раздает милостыню.</stage>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <p>— Стой здесь, княжна. Выйдет царь, поклонись ему в ноги и проси за дядю.</p>
           </sp>
@@ -6567,7 +6567,7 @@
             <speaker>Княжна</speaker>
             <p>— Государыня-царица, награди тебя Господь, что привела ты мена!</p>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <p>— Не бойся, дитятко, царь милостив. Что же ты так дрожишь? Дай, я тебе поднизи
               поправлю; и косу-то растрепала ты свою!</p>
@@ -6576,7 +6576,7 @@
             <speaker>Княжна</speaker>
             <p>— Царица-матушка, сердце замирает; научи меня, как царю сказать?</p>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <p>— Как у тебя на сердце, так и скажи, дитятко. Где жених твой? Ему бы теперь с тобою
               быть!</p>
@@ -6586,7 +6586,7 @@
             <p>— Не видала я его, царица, с той самой ночи, с того часа, как —</p>
           </sp>
           <stage>Закрывает лицо и рыдает.</stage>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <p>— Бедная ты! И ему-то каково! Чай, теперь умереть бы рад, чтобы свое дело
               поправить!</p>
@@ -6602,7 +6602,7 @@
             <stage>— вполголоса.</stage>
             <p>— Теперь, царица?</p>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <p>— Нет еще, подождем, дитятко; видишь, он помолиться хочет.</p>
           </sp>
@@ -6617,7 +6617,7 @@
             <l>И быть царем меня ты научи!</l>
             <stage>Встает и хочет идти.</stage>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— ко Мстиславской.</stage>
             <l>Княжна, теперь!</l>
@@ -6649,7 +6649,7 @@
             <l>Так ты княжна Мстиславская? Да, да,</l>
             <l>Я узнаю тебя!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— становятся на колени.</stage>
             <l>Свет-государь!</l>
@@ -6664,7 +6664,7 @@
             <l>Но надобно, чтобы в тюрьме немного</l>
             <l>Он посидел!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Свет-государь, прости</l>
             <l>Его теперь! Пошли за ним сейчас же!</l>
@@ -6820,7 +6820,7 @@
             <l>Не так прочел — в глазах моих рябит —</l>
             <l>Прочти ты лучше!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <stage>— взглянув в грамоту.</stage>
             <l>Боже милосердый!</l>
@@ -6829,7 +6829,7 @@
             <speaker>Федор</speaker>
             <l>Что там, Арина? Что?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Царевич Дмитрий —</l>
           </sp>
@@ -6837,7 +6837,7 @@
             <speaker>Федор</speaker>
             <l>Упал на нож? И закололся? Так ли?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Так, Федор, так!</l>
           </sp>
@@ -6852,7 +6852,7 @@
             <l>Брат Дмитрий мне заместо сына был —</l>
             <l>У нас с тобой ведь нет детей, Арина?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Всю Русь Господь бедою посетил!</l>
           </sp>
@@ -6945,7 +6945,7 @@
             <l>Жених застрелен — дядя</l>
             <l>В тюрьме удавлен —</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Дитятко, тебя</l>
             <l>К себе возьму я, будешь ты отныне</l>
@@ -6965,7 +6965,7 @@
             <l>Спаси меня, Арина!</l>
           </sp>
           <stage>Боярыни уводят КНЯЖНУ.</stage>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Свет мой, Федор,</l>
             <l>В молитве мы у Бога утешенья</l>
@@ -6977,7 +6977,7 @@
             <l>Я в монастырь пойду, молиться буду —</l>
             <l>Посхимлюсь там —</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Нельзя тебе, свет-Федор!</l>
             <l>Венец наследный некому тебе</l>
@@ -6988,7 +6988,7 @@
             <l>Да, я последний в роде —</l>
             <l>Последний я. Что ж делать мне, Арина?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Свет-государь, нет выбора тебе;</l>
             <l>Один Борис лишь царством править может,</l>
@@ -7005,7 +7005,7 @@
             <stage>— тихо к Ирине.</stage>
             <l>Пути сошлися наши!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>О, если б им сойтись не довелось!</l>
             <stage>Звон труб. Входит МСТИСЛАВСКИЙ в броне и в шлеме. Оружничий Годунова приносит ему

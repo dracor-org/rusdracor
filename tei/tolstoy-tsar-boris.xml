@@ -105,11 +105,11 @@
             <persName>Архимандрит Кирилл</persName>
             <persName xml:lang="ger">Archimandrit Kirill</persName>
           </person>
-          <personGrp xml:id="bojare" sex="MALE">
+          <personGrp xml:id="bojare_tsar_boris" sex="MALE">
             <name>Бояре</name>
             <name xml:lang="ger">Bojaren</name>
           </personGrp>
-          <person xml:id="tsaritsa_marija" sex="FEMALE">
+          <person xml:id="marija_godunova" sex="FEMALE">
             <persName>Царица Мария Григорьевна</persName>
             <persName xml:lang="ger">Zariza Mariâ</persName>
           </person>
@@ -137,11 +137,11 @@
             <persName>Крилошанка</persName>
             <persName xml:lang="ger">Klosterfrau</persName>
           </person>
-          <person xml:id="vasilij_shujskij" sex="MALE">
+          <person xml:id="vasilij_shujskij" sex="MALE" ana="http://www.wikidata.org/entity/Q193232">
             <persName>Князь Василий Иванович Шуйский</persName>
             <persName xml:lang="ger">Vasilij Šujskij</persName>
           </person>
-          <person xml:id="irina" sex="FEMALE">
+          <person xml:id="tsarevna_irina" sex="FEMALE">
             <persName>Царица Ирина Федоровна</persName>
             <persName xml:lang="ger">Zariza Irina</persName>
           </person>
@@ -389,7 +389,7 @@
             <persName>Пятый</persName>
             <persName xml:lang="ger">Fünfter</persName>
           </person>
-          <person xml:id="marfa" sex="FEMALE">
+          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE" ana="http://www.wikidata.org/entity/Q151623">
             <persName>Царица Мария Федоровна Нагая</persName>
             <persName xml:lang="ger">Zariza Mariâ Fedorovna Nagaâ</persName>
           </person>
@@ -454,13 +454,13 @@
             <name xml:lang="ger">Einige Stimmen</name>
           </personGrp>
           <listRelation type="personal">
-            <relation name="parent_of" active="#tsaritsa_marija #boris_godunov" passive="#ksenija #fedor"/>
+            <relation name="parent_of" active="#marija_godunova #boris_godunov" passive="#ksenija #fedor"/>
             <relation name="lover_of" active="#hristian" passive="#ksenija"/>
             <relation name="associated_with" active="#resheto #nakovalnja" passive="#hlopko"/>
             <relation name="associated_with" active="#golk #brage" passive="#hristian"/>
             <relation name="siblings" mutual="#ksenija #fedor"/>
-            <relation name="spouses" mutual="#tsaritsa_marija #boris_godunov"/>
-            <relation name="siblings" mutual="#boris_godunov #irina"/>
+            <relation name="spouses" mutual="#marija_godunova #boris_godunov"/>
+            <relation name="siblings" mutual="#boris_godunov #tsarevna_irina"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -802,7 +802,7 @@
             <l>Я вас прошу!</l>
           </sp>
           <stage>Федор кланяется.</stage>
-          <sp who="#bojare">
+          <sp who="#bojare_tsar_boris">
             <speaker>Бояре</speaker>
             <l>Да здравствует царевич!</l>
             <l>Живет царевич!</l>
@@ -1361,14 +1361,14 @@
             <l>С царевною пришли принять, бояре,</l>
             <l>Здорование ваше!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_tsar_boris">
             <speaker>Бояре</speaker>
             <l>Бьем челом</l>
             <l>Царице и царевне! Им на царском</l>
             <l>Здороваем венчанье! Много лет</l>
             <l>Вам, матушки вы наши!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <stage>с поклоном</stage>
             <l>Государи,</l>
@@ -1376,7 +1376,7 @@
             <l>Прошу любить и жаловать меня</l>
             <l>С царевною!</l>
           </sp>
-          <sp who="#bojare">
+          <sp who="#bojare_tsar_boris">
             <speaker>Бояре</speaker>
             <l>Господь благослови</l>
             <l>Тебя, царевна наша! Божья пташка!</l>
@@ -1762,7 +1762,7 @@
           </sp>
           <stage>Семен Годунов и Шуйский уходят. Дверь отворяется. Две инокини становятся по обе ее
             стороны. За ними входит царица Ирина, во иночестве Александра.</stage>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Прости меня, великий государь,</l>
             <l>Я не ждала тебя сегодня. В церкви</l>
@@ -1786,7 +1786,7 @@
             <l>Вошли в него — и ими поделиться</l>
             <l>Оно с тобою хочет!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Мир тебе!</l>
           </sp>
@@ -1801,7 +1801,7 @@
             <l>Когда б из уст твоих услышал я,</l>
             <l>Что делишь ты ее со мною!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Брат,</l>
             <l>Я радуюсь, что всей земли желанье</l>
@@ -1836,7 +1836,7 @@
             <l>Услышать оправдание мое</l>
             <l>И от тебя, Ирина!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Оправданья</l>
             <l>Ты ожидаешь, брат? В тот страшный день,</l>
@@ -1880,7 +1880,7 @@
             <l>Не может то мне помешать на славу</l>
             <l>Руси царить!</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Цари на славу ей!</l>
             <l>Будь окружен любовью и почетом!</l>
@@ -1920,7 +1920,7 @@
             <l>Мою открыл — еще ли не оправдан</l>
             <l>Я пред тобой?</l>
           </sp>
-          <sp who="#irina">
+          <sp who="#tsarevna_irina">
             <speaker>Ирина</speaker>
             <l>Все ту же на тебе</l>
             <l>Я вижу тень. Куда бы ни пошел ты,</l>
@@ -2617,7 +2617,7 @@
         <div type="scene">
           <head>ПОКОЙ ЦАРИЦЫ МАРИИ ГРИГОРЬЕВНЫ</head>
           <stage>Царица и дьяк Власьев.</stage>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Скажи мне все; не бойся молвить правду;</l>
             <l>Твои слова не выйдут из покоя</l>
@@ -2632,7 +2632,7 @@
             <l>Как слышал, так и отписал к царю,</l>
             <l>Не утаил ни слова.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Не хитри</l>
             <l>Со мной, голубчик. Ты, чай, боле знаешь,</l>
@@ -2643,7 +2643,7 @@
             <speaker>Власьев</speaker>
             <l>Не ведаю, великая царица.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Я ведаю. Король не почитал</l>
             <l>Его за сына. Так ли?</l>
@@ -2653,7 +2653,7 @@
             <l>Видит Бог,</l>
             <l>О том не знаю.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Афанасий Власьич,</l>
             <l>Тебе со мной ломаться не расчет.</l>
@@ -2670,7 +2670,7 @@
             <speaker>Власьев</speaker>
             <l>Были толки.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ну, видишь ли!</l>
           </sp>
@@ -2683,7 +2683,7 @@
             <l>Он при дворе с своим со старшим братом,</l>
             <l>Как королевский сын!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Не зауряд ли?</l>
             <l>И старший брат, теперешний король,</l>
@@ -2698,7 +2698,7 @@
             <l>В согласии; король его зовет</l>
             <l>Своим любезным братом.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>А когда</l>
             <l>Захочет царь, как он уже задумал,</l>
@@ -2717,7 +2717,7 @@
             <l>Что толковать, когда царевна Ксенья</l>
             <l>Помолвлена!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Помолвка не венец.</l>
             <l>Когда бы ты, голубчик, согласился</l>
@@ -2728,7 +2728,7 @@
             <l>Побойся Бога, матушка-царица,</l>
             <l>Я ничего не говорил тебе!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ну, ну, добро! Мы знаем то, что знаем;</l>
             <l>Ступай, дружок, не бойся ничего!</l>
@@ -2741,7 +2741,7 @@
             <stage>входя</stage>
             <l>Здесь, матушка-царица!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ну, что ты там про них узнала?</l>
           </sp>
@@ -2757,7 +2757,7 @@
             <l>Сам будто рад; души, вишь, в нареченном</l>
             <l>Не чает зяте!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>С толку вовсе немчин</l>
             <l>Его уж сбил.</l>
@@ -2769,7 +2769,7 @@
             <l>В покое царском вместе оставались,</l>
             <l>Как царь поволил.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Новые порядки</l>
             <l>Заводит царь. Он с ними, что ль, сидел?</l>
@@ -2781,7 +2781,7 @@
             <l>Они ж ушли: царевич с женихом,</l>
             <l>Царевна во светлицу.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>А часок</l>
             <l>Таки сидели вместе? Ну конечно,</l>
@@ -2795,7 +2795,7 @@
             <l>Из Киева. Твои повидеть очи</l>
             <l>Ждет позволенья.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Милости прошу.</l>
             <l>Пускай войдет.</l>
@@ -2809,7 +2809,7 @@
             <l>Терпит</l>
             <l>Господь грехам, великая царица!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Что ж? Видела Печерскую ты лавру?</l>
             <l>Чай, хорошо?</l>
@@ -2823,7 +2823,7 @@
             <l>За упокой родителя твого,</l>
             <l>Григория Лукьяныча!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Спасибо,</l>
             <l>Голубушка. Ну, что путем-дорогой</l>
@@ -2842,7 +2842,7 @@
             <l>И скоро-де совсем не будет можно</l>
             <l>Узнать Руси!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Да. И теперь ее,</l>
             <l>Пожалуй, не узнаешь. Чай, слыхала?</l>
@@ -2854,7 +2854,7 @@
             <l>От радости, поверишь ли, царица,</l>
             <l>И ноги подкосились!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ну, немного</l>
             <l>Тут радости.</l>
@@ -2863,7 +2863,7 @@
             <speaker>Волохова</speaker>
             <l>Как, матушка?</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Да разве</l>
             <l>Своих князей-то не было? Не то</l>
@@ -2876,7 +2876,7 @@
             <l>А еще бы!</l>
             <l>Еще б не рад!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Чем немчина Бог весть</l>
             <l>Отколь выписывать.</l>
@@ -2888,7 +2888,7 @@
             <l>Что немчин он, так и кольнуло в сердце!</l>
             <l>Ей-Богу, право!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Слушай, Василиса:</l>
             <l>Ведь неспроста оно могло случиться!</l>
@@ -2898,7 +2898,7 @@
             <l>А именно, что неспроста, царица!</l>
             <l>Не с ветру, матушка!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Он, окаянный,</l>
             <l>Приворожил царевну. И царя</l>
@@ -2915,7 +2915,7 @@
             <l>И говорю: «Владычица святая!</l>
             <l>Тут приворот!»</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>А как по-твоему?</l>
             <l>Помочь нельзя?</l>
@@ -2928,7 +2928,7 @@
             <l>И сокрушить. Следок его, царица,</l>
             <l>Дай вынуть мне и погадать на нем.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ну, а потом?</l>
           </sp>
@@ -2937,7 +2937,7 @@
             <l>Потом его и силу</l>
             <l>Мы сокрушим. Есть корешок такой.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Спасибо, мать. Прости ж теперь. Об этом</l>
             <l>С тобою после потолкуем мы.</l>
@@ -3968,7 +3968,7 @@
             <l>Оставьте, дети,нас!</l>
           </sp>
           <stage>Федор, Ксения и Христиан уходят. Входят боярыни, а за ними царица.</stage>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <stage>с поклоном</stage>
             <l>Не прогневись, свет-государь Борис</l>
@@ -3984,7 +3984,7 @@
             <l>Какой тебя, царица,</l>
             <l>Приводит спех?</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ох, свет мой государь,</l>
             <l>Мы все спешим! Ты Ксеньюшку посватать</l>
@@ -4002,7 +4002,7 @@
             <l>Не властен помешать; все ж речи их</l>
             <l>Мне ведомы.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Все ль, свет мой? А вот мне</l>
             <l>Оно не так сдается. Не смекнул ли</l>
@@ -4014,7 +4014,7 @@
             <l>Не мнишь ли ты, он слухам</l>
             <l>Поверил тем?</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Где мнить мне, государь!</l>
             <l>Ты лучше знаешь. Не хотел ты слушать,</l>
@@ -4030,7 +4030,7 @@
             <l>Куда ты гнешь? Коли что знаешь ты,</l>
             <l>Скажи мне прямо!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Батюшки мои!</l>
             <l>Что ж я скажу? Ты разве сам не видишь?</l>
@@ -4045,7 +4045,7 @@
             <l>Я запретил тебе напоминать</l>
             <l>Об этом мне!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Я, батюшка, молчу;</l>
             <l>Четырнадцать вот скоро лет молчала,</l>
@@ -4057,7 +4057,7 @@
             <speaker>Борис</speaker>
             <l>Чего ж ты хочешь?</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Мне ль чего хотеть,</l>
             <l>Свет-государь! Свое я место знаю.</l>
@@ -4071,7 +4071,7 @@
             <l>В Христиане</l>
             <l>Уверен я.</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Уверен, так и ладно.</l>
             <l>По моему ж, по бабьему уму,</l>
@@ -4090,7 +4090,7 @@
             <l>Не твоему то племени понять,</l>
             <l>Что для Руси величия пригодно!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Где, батюшка, нам это понимать!</l>
             <l>Родитель мой служил царю Ивану</l>
@@ -5689,7 +5689,7 @@
         <div type="scene">
           <head>ПОКОЙ ВО ДВОРЦЕ С НИЗКИМ СВОДОМ И РЕШЕТЧАТЫМ ОКНОМ</head>
           <stage>Вдовая царица Мария Нагая, во иночестве Марфа, одна.</stage>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Четырнадцать минуло долгих лет</l>
             <l>Со дня, как ты, мой сын, мой ангел Божий,</l>
@@ -5735,7 +5735,7 @@
             <l>Царица Марья Федоровна, бью</l>
             <l>Тебе челом!</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Пострижена царица</l>
             <l>По твоему указу. Пред тобой</l>
@@ -5749,7 +5749,7 @@
             <l>Как некогда благоговел, когда</l>
             <l>Сидела ты с царем Иваном рядом.</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Благодарю.</l>
           </sp>
@@ -5758,7 +5758,7 @@
             <l>Царица, до тебя</l>
             <l>Уж весть дошла…</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Что сын мой отыскался?</l>
             <l>Дошла, дошла! Благословен Господь!</l>
@@ -5771,7 +5771,7 @@
             <l>Четырнадцать уж лет тому, в недуге</l>
             <l>Упал на нож…</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Зарезан был. Ты то ли</l>
             <l>Хотел сказать? Но я лишилась чувств,</l>
@@ -5784,7 +5784,7 @@
             <l>Он мертв, царица,— он убился, в том</l>
             <l>Сомнений нет…</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Так мнила я сама…</l>
           </sp>
@@ -5792,7 +5792,7 @@
             <speaker>Борис</speaker>
             <l>Его весь Углич мертвым видел…</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Я</l>
             <l>Не видела его!</l>
@@ -5802,7 +5802,7 @@
             <l>На панихиде</l>
             <l>Ты у его молилась трупа…</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Слезы</l>
             <l>Мои глаза мрачили; я другого</l>
@@ -5820,7 +5820,7 @@
             <l>Обманут я?</l>
           </sp>
           <stage>Входит царица Мария Григорьевна.</stage>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Не прогневись, Борис</l>
             <l>Феодорыч. Твой разговор с царицей</l>
@@ -5835,7 +5835,7 @@
             <l>Так, стало, тот, кто в Угличе убился,</l>
             <l>Тебе не сын?</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Не знаю, кто убился,—</l>
             <l>Димитрий жив! От ваших рук он Божьим</l>
@@ -5852,7 +5852,7 @@
             <l>Где он досель скрывался? Чтобы веру</l>
             <l>Тебе я дал, я должен ведать все!</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Какое дело мне, ты веришь, нет ли?</l>
             <l>Верь или нет — довольно: жив мой сын —</l>
@@ -5864,7 +5864,7 @@
             <l>Не может быть!Неправда! Быть не может!</l>
             <l>Как спасся он?</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Дрожишь ты наконец!</l>
           </sp>
@@ -5874,27 +5874,27 @@
             <l>Тебя могу заставить я сказать</l>
             <l>Всю правду мне!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Свет-государь Борис</l>
             <l>Феодорыч, быть может, обойдемся</l>
             <l>Без пытки мы! Ты, матушка-царица,</l>
             <l>Его убитым не видала?</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Нет!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>А полно, так ли, матушка? Подумай.</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Могла ль его убитым видеть я,</l>
             <l>Когда убит он не был?</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>А посмотрим.</l>
             <stage>Отворяя дверь.</stage>
@@ -5903,24 +5903,24 @@
             <stage>К Марфе.</stage>
             <l>Знаешь ты ее?</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Она! Она! Прочь, прочь ее возьмите!</l>
             <l>Возьмите прочь!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Что, матушка, с тобой?</l>
             <l>Что взволновалася ты так? Зачем</l>
             <l>Тебя приводит в ужас Василиса?</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Прочь! Прочь ее! Кровь на ее руках!</l>
             <l>Кровь Дмитрия! Будь проклята вовеки!</l>
             <l>Будь проклята!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <stage>к Волоховой</stage>
             <l>Довольно, Василиса,</l>
@@ -5959,7 +5959,7 @@
             <l>Что Дмитрий мертв и погребен. Согласна ль</l>
             <l>На это ты?</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Я выдала себя —</l>
             <l>Мой сын убит. Но как о том народу</l>
@@ -5973,7 +5973,7 @@
             <l>Клянусь,</l>
             <l>Я не приказывал того!</l>
           </sp>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <l>Мой сын</l>
             <l>Тобой убит. Судьба другого сына</l>
@@ -5991,7 +5991,7 @@
             <l>Примкнутого тебя, его убийцу,</l>
             <l>Влекут на казнь!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Пророчит гибель нам</l>
             <l>Твоя гортань?</l>
@@ -6019,7 +6019,7 @@
             <l>Даю тебе — прости! Свети мне, Марья!</l>
           </sp>
           <stage>Уходит с царицей.</stage>
-          <sp who="#marfa">
+          <sp who="#tsaritsa_mariya_fedorovna_nagaya">
             <speaker>Марфа</speaker>
             <stage>одна</stage>
             <l>Ушли — и жало жгучее уносят</l>
@@ -7642,7 +7642,7 @@
             <l>Мой настает…</l>
           </sp>
           <stage>Его сажают в кресла.</stage>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <l>Ах, Господи! Не просто</l>
             <l>Случился грех! Знать, тут была отрава!</l>
@@ -7690,7 +7690,7 @@
             <l>Себе ль мы им служить хотим иль царству —</l>
             <l>Оно ни нам, ни царству впрок нейдет!</l>
           </sp>
-          <sp who="#tsaritsa_marija">
+          <sp who="#marija_godunova">
             <speaker>Царица</speaker>
             <stage>кланяясь в ноги</stage>
             <l>Свет-государь! Прости меня, в чем я</l>
