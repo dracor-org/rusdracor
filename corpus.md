@@ -1,1 +1,0 @@
-Edited by Frank Fischer and Daniil Skorinkin. Features 210 Russian plays from the 1740s to the 1940s. For a corpus description and full credits please see the [README on GitHub](https://github.com/dracor-org/rusdracor). Corpus licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
