@@ -20,7 +20,7 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q6545811</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q99391305</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -78,6 +78,10 @@
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
           </person>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#sergej_petrovich #elena_nikolaevna"/>
+            <relation name="spouses" mutual="#klavdіja_mihajlovna #semen_semenovich"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
