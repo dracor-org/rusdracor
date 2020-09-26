@@ -47,36 +47,47 @@
         <listPerson>
           <person xml:id="sergej_petrovich" sex="MALE">
             <persName>Сергѣй Петровичъ</persName>
+            <persName xml:lang="ger">Sergej Petrowitsch</persName>
           </person>
           <person xml:id="doktor" sex="MALE">
             <persName>Докторъ</persName>
+            <persName xml:lang="ger">Doktor Kowalenko</persName>
           </person>
           <person xml:id="andrej_ivanovich" sex="MALE">
             <persName>Андрей Ивановичъ</persName>
+            <persName xml:lang="ger">Andrej Iwanowitsch</persName>
           </person>
           <person xml:id="serezha" sex="MALE">
             <persName>Сережа</persName>
+            <persName xml:lang="ger">Serjoscha</persName>
           </person>
           <person xml:id="poruchik" sex="MALE">
             <persName>Поручикъ</persName>
+            <persName xml:lang="ger">Oberleutnant Iwanow</persName>
           </person>
           <person xml:id="sonja" sex="FEMALE">
             <persName>Соня</persName>
+            <persName xml:lang="ger">Sonja</persName>
           </person>
           <person xml:id="knjaz" sex="MALE">
             <persName>Князь</persName>
+            <persName xml:lang="ger">Fürst Darbeljani</persName>
           </person>
           <person xml:id="elena_nikolaevna" sex="FEMALE">
             <persName>Елена Николаевна</persName>
+            <persName xml:lang="ger">Jelena Nikolajewna</persName>
           </person>
           <person xml:id="klavdіja_mihajlovna" sex="FEMALE">
             <persName>Клавдія Михайловна</persName>
+            <persName xml:lang="ger">Klawdija Michajlowna (Blonda)</persName>
           </person>
           <person xml:id="semen_semenovich" sex="MALE">
             <persName>Семенъ Семеновичъ</persName>
+            <persName xml:lang="ger">Semjon Semjonowitsch</persName>
           </person>
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
+            <persName xml:lang="ger">Pjotr (Lakai)</persName>
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#sergej_petrovich #elena_nikolaevna"/>
@@ -1628,7 +1639,7 @@
             Танецъ кончаете я).</stage>
         </sp>
         <sp
-          who="#sonja #knjaz #poruchik #serezha #elena_nikolaevna #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
+          who="#sonja #poruchik #serezha #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
           <speaker>Всѣ.</speaker>
           <p>Браво, браво!.. Бисъ!.. Еще!..</p>
           <stage>(Елена Николаевна, тяжело дыша, останавливается, и не то въ забывчивости, не то отъ
@@ -1640,7 +1651,7 @@
           <p>Устала...</p>
         </sp>
         <sp
-          who="#sonja #knjaz #poruchik #serezha #elena_nikolaevna #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
+          who="#sonja #poruchik #serezha #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
           <speaker>Всѣ.</speaker>
           <p>Браво! Браво!.. Бисъ, бисъ!.. Еще!.. Голубушка, Елена Николаевна, еще!.. Молодецъ,
             князь!..</p>
