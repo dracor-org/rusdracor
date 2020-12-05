@@ -6,8 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Не любо – не слушай, а лгать не мешай</title>
-        <title type="main" xml:lang="eng">Don't Listen if You Don't Want to, But Don't Interfere with
-          Lying</title>
+        <title type="main" xml:lang="eng">Don't Listen if You Don't Want to, But Don't Interfere
+          with Lying</title>
         <title type="sub">Комедия в одном действии, в вольных стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act, in Free Verse</title>
         <author key="wikidata:Q3740432">Шаховской, Александр Александрович</author>
@@ -72,8 +72,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в одном действии, в вольных стихах</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

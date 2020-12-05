@@ -64,16 +64,17 @@
           <person xml:id="nachalnik" sex="MALE">
             <persName>Начальник</persName>
           </person>
-	  <listRelation type="personal">
-	    <relation name="parent_of" active="#shujskij" passive="#ksenija" />
-	    <relation name="associated_with" active="#parmen" passive="#dimitrij" />
-	  </listRelation>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#shujskij" passive="#ksenija"/>
+            <relation name="associated_with" active="#parmen" passive="#dimitrij"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

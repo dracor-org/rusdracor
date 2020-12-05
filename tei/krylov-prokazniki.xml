@@ -34,8 +34,8 @@
               худож. лит., 1945—1946. Т. 2, с. 221—338.</title>
             <date type="print" when="1793">"Написана в 1788 году, напечатана в «Российском Феатре»,
               1793, ч. XL." (rvb.ru)</date>
-            <date type="written" when="1788"/>
             <date type="premiere"/>
+            <date type="written" when="1788"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -73,7 +73,7 @@
           <person xml:id="rifmokrad" sex="MALE">
             <persName>Рифмокрад</persName>
           </person>
-            <listRelation type="personal">
+          <listRelation type="personal">
             <relation name="spouses" mutual="#taratora #rifmokrad"/>
             <relation name="parent_of" active="#rifmokrad #taratora" passive="#priyata"/>
             <relation name="related_with" active="#milon" passive="#azbukin"/>
@@ -85,8 +85,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в пяти действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

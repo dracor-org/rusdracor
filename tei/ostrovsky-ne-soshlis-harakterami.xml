@@ -36,8 +36,8 @@
               (ru.wikipedia.org)</date>
             <date type="premiere" when="1858">"Впервые поставлена 1 сентября 1858 года в Петербурге
               в Александринском театре." (ru.wikipedia.org)</date>
-            <date type="written" when="1857">"Пьеса задумана в феврале 1856 г., начата 13 ноября и
-              окончена 29 ноября 1857 г." (lib.ru)</date>
+            <date type="written" notBefore="1856" notAfter="1857">"Пьеса задумана в феврале 1856 г.,
+              начата 13 ноября и окончена 29 ноября 1857 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -93,7 +93,7 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">Картины московской жизни</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

@@ -35,8 +35,8 @@
             <date type="print" when="1879">"Пьеса впервые опубликована в журнале «Отечественные
               записки» (1879, № 1)." (Wikipedia)</date>
             <date type="premiere" when="1878">"осенью 1878 года" (Wikipedia)</date>
-            <date type="written" when="1878">"Работа над ней продолжалась в течение четырёх лет — с
-              1874 по 1878 год." (Wikipedia)</date>
+            <date type="written" notBefore="1874" notAfter="1878">"Работа над ней продолжалась в
+              течение четырёх лет — с 1874 по 1878 год." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,7 +106,7 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="drama">Драма в четырех действиях</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

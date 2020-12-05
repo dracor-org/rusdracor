@@ -389,7 +389,8 @@
             <persName>Пятый</persName>
             <persName xml:lang="ger">Fünfter</persName>
           </person>
-          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE" ana="http://www.wikidata.org/entity/Q151623">
+          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q151623">
             <persName>Царица Мария Федоровна Нагая</persName>
             <persName xml:lang="ger">Zariza Mariâ Fedorovna Nagaâ</persName>
           </person>
@@ -466,8 +467,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия в пяти действиях</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

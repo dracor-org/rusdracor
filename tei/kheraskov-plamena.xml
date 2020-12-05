@@ -86,18 +86,19 @@
           <person xml:id="vestnik" sex="MALE">
             <persName>Вестник</persName>
           </person>
-	  <listRelation type="personal">
-	    <relation name="siblings" mutual="#mstislav #pozvezd"/>
-	    <relation name="parent_of" active="#prevzyd" passive="#plamena"/>
-	    <relation name="associated_with" active="#ostana" passive="#plamena"/>
-	    <relation name="associated_with" active="#virsan" passive="#prevzyd"/>
-	  </listRelation>
+          <listRelation type="personal">
+            <relation name="siblings" mutual="#mstislav #pozvezd"/>
+            <relation name="parent_of" active="#prevzyd" passive="#plamena"/>
+            <relation name="associated_with" active="#ostana" passive="#plamena"/>
+            <relation name="associated_with" active="#virsan" passive="#prevzyd"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

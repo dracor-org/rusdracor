@@ -36,7 +36,7 @@
               (rvb.ru)</date>
             <date type="premiere" when="1785">"Таким образом, датой написания и первых представлений
               «Хвастуна» был не 1786 г., а 1785 или, может быть, даже 1784." (rvb.ru)</date>
-            <date type="written" when="1785">"1784 или 1785" (rvb.ru)</date>
+            <date type="written" notBefore="1784" notAfter="1785">"1784 или 1785" (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -89,8 +89,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в стихах, в пяти действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

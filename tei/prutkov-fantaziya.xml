@@ -105,8 +105,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в одном действии</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -123,25 +124,45 @@
       </docTitle>
       <castList>
         <head>Действующие лица</head>
-        <castItem><role>Аграфена Панкратьевна Чупурлина, богатая, но самолюбивая
-            старуха.</role><actor>Г-жа Громова.</actor></castItem>
-        <castItem><role>Лизавета Платоновна, ее воспитанница</role><actor>Г-жа
-          Левкеева.</actor></castItem>
-        <castItem><role>Адам Карлович Либенталь, молодой немец<note place="foot">Слово «немец» было
-              заменено в афише словом «человек».</note>, не без резвости.</role><actor>Г.
-            Марковецкий.</actor></castItem>
-        <castItem><role>Фемистокл Мильтиадович Разорваки, человек отчасти лукавый и
-            вероломный</role><actor>Г. Каратыгин 2.</actor></castItem>
-        <castItem><role>Князь Касьян Родионович Батог-Батыев, человек, торгующий мылом<note
-              place="foot">Титул «князь» был исключен цензором в перечне действующих лиц и повсюду в
-              тексте.</note></role><actor>Г. Прусаков.</actor></castItem>
-        <castItem><role>Мартын Мартынович Кутило-Завалдайский, человек приличный</role><actor>Г.
-            Мартынов.</actor></castItem>
-        <castItem><role>Георгий Александрович Беспардонный, человек застенчивый</role><actor>Г.
-            Смирнов 2.</actor></castItem>
-        <castItem><role>Фирс Евгеньевич Миловидов, человек прямой</role><actor>Г. Толченов
-            1.</actor></castItem>
-        <castItem><role>Акулина, нянька</role><actor>Г-жа ***.</actor></castItem>
+        <castItem>
+          <role>Аграфена Панкратьевна Чупурлина, богатая, но самолюбивая старуха.</role>
+          <actor>Г-жа Громова.</actor>
+        </castItem>
+        <castItem>
+          <role>Лизавета Платоновна, ее воспитанница</role>
+          <actor>Г-жа Левкеева.</actor>
+        </castItem>
+        <castItem>
+          <role>Адам Карлович Либенталь, молодой немец<note place="foot">Слово «немец» было заменено
+              в афише словом «человек».</note>, не без резвости.</role>
+          <actor>Г. Марковецкий.</actor>
+        </castItem>
+        <castItem>
+          <role>Фемистокл Мильтиадович Разорваки, человек отчасти лукавый и вероломный</role>
+          <actor>Г. Каратыгин 2.</actor>
+        </castItem>
+        <castItem>
+          <role>Князь Касьян Родионович Батог-Батыев, человек, торгующий мылом<note place="foot"
+              >Титул «князь» был исключен цензором в перечне действующих лиц и повсюду в
+              тексте.</note></role>
+          <actor>Г. Прусаков.</actor>
+        </castItem>
+        <castItem>
+          <role>Мартын Мартынович Кутило-Завалдайский, человек приличный</role>
+          <actor>Г. Мартынов.</actor>
+        </castItem>
+        <castItem>
+          <role>Георгий Александрович Беспардонный, человек застенчивый</role>
+          <actor>Г. Смирнов 2.</actor>
+        </castItem>
+        <castItem>
+          <role>Фирс Евгеньевич Миловидов, человек прямой</role>
+          <actor>Г. Толченов 1.</actor>
+        </castItem>
+        <castItem>
+          <role>Акулина, нянька</role>
+          <actor>Г-жа ***.</actor>
+        </castItem>
         <castGroup rend="braced">
           <roleDesc>Без речей<note place="foot">Эти действующие лица «без речей» не были одобрены
               цензором в перечне действующих лиц на афише.</note>:</roleDesc>

@@ -36,8 +36,8 @@
               читанных в отделении русского языка и словесности Академии Наук, т. VI."
               (rvb.ru)</date>
             <date type="premiere"/>
-            <date type="written" when="1801">"Написана в селе Казацком в годы 1799–1801."
-              (rvb.ru)</date>
+            <date type="written" notBefore="1799" notAfter="1801">"Написана в селе Казацком в годы
+              1799–1801." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -84,8 +84,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в одном действии</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -37,8 +37,8 @@
               представленной Капнистом в столичную цензуру в 1797 г." (rvb.ru)</date>
             <date type="premiere" when="1798">"в 1798 г. она была издана и одновременно поставлена
               на петербургской сцене" (http://istlit.ru)</date>
-            <date type="written" when="1798">"Время написания «Ябеды» может быть отнесено к
-              1791–1798 гг." (rvb.ru)</date>
+            <date type="written" notBefore="1791" notAfter="1798">"Время написания «Ябеды» может
+              быть отнесено к 1791–1798 гг." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -101,8 +101,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в пяти действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

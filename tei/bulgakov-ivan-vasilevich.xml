@@ -37,7 +37,7 @@
             <date type="premiere" when="1967">Первые постановки были осуществлены в Омском театре
               драмы (1967), Театре киноактёра (1967), Русском драматическом театре имени Самеда
               Вургуна (1968).</date>
-            <date type="written" when="1936">"в 1934—1936 годах" (Wikipedia)</date>
+            <date type="written" notBefore="1934" notAfter="1936">"в 1934—1936 годах" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -116,8 +116,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в трех действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

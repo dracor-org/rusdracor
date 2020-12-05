@@ -33,9 +33,9 @@
             <title>Серия "Библиотека поэта". Большая серия. Второе издание. М.-Л., "Советский
               писатель", 1964</title>
             <date type="print" when="1824">"Впервые - М., 1824." (lib.ru)</date>
-            <date type="written" when="1823">"1823" (lib.ru)</date>
             <date type="premiere" when="1824">"Представлена впервые в московском театре, в бенефис
               артистки М. Д. Львовой-Синецкой, 24 января 1824 г." (lib.ru)</date>
+            <date type="written" when="1823">"1823" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -89,8 +89,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в четырех действиях, в стихах</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

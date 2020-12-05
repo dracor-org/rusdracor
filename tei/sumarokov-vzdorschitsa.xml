@@ -67,17 +67,18 @@
           <person xml:id="vorozheja" sex="FEMALE">
             <persName>Ворожея</persName>
           </person>
-	  <listRelation type="personal">
-	    <relation name="spouses" mutual="#asir #burda"/>
-	    <relation name="parent_of" active="#asir №burda" passive="#rozalija"/>
-	    <relation name="lover_of" active="#erast" passive="#rozalija"/>
-	  </listRelation>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#asir #burda"/>
+            <relation name="parent_of" active="#asir №burda" passive="#rozalija"/>
+            <relation name="lover_of" active="#erast" passive="#rozalija"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term subtype="comedy" type="genreTitle">Комедия</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

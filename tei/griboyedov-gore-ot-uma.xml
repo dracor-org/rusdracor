@@ -36,7 +36,8 @@
             <date type="print" when="1825">"Дата первой публикации: 1825 (первая полная – 1862)"
               (Wikipedia)</date>
             <date type="premiere"/>
-            <date type="written" when="1824">"Дата написания: 1822–1824" (Wikipedia)</date>
+            <date type="written" notBefore="1822" notAfter="1824">"Дата написания: 1822–1824"
+              (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -184,8 +185,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle"/>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

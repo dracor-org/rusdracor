@@ -7,8 +7,7 @@
       <titleStmt>
         <title type="main">Лукавин</title>
         <title type="main" xml:lang="eng">Lukavin</title>
-        <title type="sub">Комедия в пяти действиях, в стихах, переделанная с
-          английского</title>
+        <title type="sub">Комедия в пяти действиях, в стихах, переделанная с английского</title>
         <title type="sub" xml:lang="eng">A Comedy in Five Acts, in Verse, Adapted from the
           English</title>
         <author key="wikidata:Q4363527">Писарев, Александр Иванович</author>
@@ -98,9 +97,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term subtype="comedy" type="genreTitle">Комедия в пяти действиях, в стихах, переделанная
-            с английского</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

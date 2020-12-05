@@ -72,7 +72,12 @@
           </listRelation>
         </listPerson>
       </particDesc>
-      <textClass> </textClass>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Comedy</term>
+        </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <listChange>

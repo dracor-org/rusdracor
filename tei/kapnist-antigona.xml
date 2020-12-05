@@ -38,9 +38,9 @@
               БУАН. До нас дошло свидетельство современника о том, что Капнист в 1815 г. издал свою
               трагедию (см. Н. Горчаков, Воспоминание о Капнисте. — «Москвитянин», 1846, № 7, с.
               28–29). Однако ни одного экземпляра такого издания не обнаружено." (rvb.ru)</date>
-            <date type="written"/>
             <date type="premiere" when="1814">"Премьера «Антигоны» состоялась 21 сентября 1814 г. на
               сцене Петербургского Малого театра." (rvb.ru)</date>
+            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -78,8 +78,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия в пяти действиях</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -34,7 +34,8 @@
               1994.</title>
             <date type="print" when="1842">"Дата первой публикации: 1842" (Wikipedia)</date>
             <date type="premiere" when="1843">"5 февраля 1843 — Малый театр" (Wikipedia)</date>
-            <date type="written" when="1842">"Даты написания: 1836—1842 гг." (ilibrary.ru)</date>
+            <date type="written" notBefore="1836" notAfter="1842">"Даты написания: 1836—1842 гг."
+              (ilibrary.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -73,8 +74,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle"/>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

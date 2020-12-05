@@ -35,8 +35,8 @@
             <date type="print" when="1837">"Напечатана после смерти Пушкина в VI книге журнала
               'Современник' за 1837 г." (rvb.ru)</date>
             <date type="premiere"/>
-            <date type="written" when="1832">"Начата в 1829 г.; в 1832 г. Пушкин продолжал ее, но
-              оставил недоконченной." (rvb.ru)</date>
+            <date type="written" notBefore="1829" notAfter="1832">"Начата в 1829 г.; в 1832 г.
+              Пушкин продолжал ее, но оставил недоконченной." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>

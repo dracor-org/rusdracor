@@ -41,7 +41,7 @@
               (bulgakov.ru)</date>
             <date type="premiere" when="1926">"Премьера состоялась во МХАТе 5 октября 1926 г. В
               апреле 1929 г." (bulgakov.ru)</date>
-            <date type="written" when="1926">"1925–1926 гг." (ilibrary)</date>
+            <date type="written" notBefore="1925" notAfter="1926">"1925–1926 гг." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -145,7 +145,7 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">Пьеса в четырех действиях</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

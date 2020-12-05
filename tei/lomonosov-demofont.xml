@@ -34,7 +34,8 @@
               (Библиотека поэта; Большая серия).</title>
             <date type="print" when="1752"/>
             <date type="premiere"/>
-            <date type="written" when="1751">"Между декабрем 1750 и ноябрем 1751" (rvb.ru)</date>
+            <date type="written" notBefore="1750" notAfter="1751">"Между декабрем 1750 и ноябрем
+              1751" (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -75,8 +76,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle"/>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

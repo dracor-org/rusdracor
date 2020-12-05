@@ -101,12 +101,12 @@
             <relation name="parent_of" active="#sergej_nikolaevich" passive="#petja #anna"/>
             <relation name="parent_of" active="#inna_aleksandrovna" passive="#petja #anna"/>
             <relation name="associated_with" active="#pollak #lunts #zhitov" passive="#sergej_nikolaevich"/>
-        </listRelation>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">"Драматургия" (lib.ru)</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

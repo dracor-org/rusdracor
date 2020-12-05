@@ -5,8 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Шила в мешке не утаишь – девушки под замком не
-          удержишь</title>
+        <title type="main">Шила в мешке не утаишь – девушки под замком не удержишь</title>
         <title type="main" xml:lang="eng">There is No Hiding a Needle in a Sack</title>
         <title type="sub">Водевиль в двух картинах</title>
         <title type="sub" xml:lang="eng">A Vaudeville in Two Scenes</title>
@@ -73,8 +72,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Водевиль в двух картинах</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -556,8 +556,12 @@
               <l>Отыскание квартир!</l>
               <l>Не одни тут ювелиры</l>
               <l>Присмирели, обожглись:</l>
-              <l><emph>Петербургские квартиры</emph></l>
-              <l><emph>Многим солоно пришлись!</emph></l>
+              <l>
+                <emph>Петербургские квартиры</emph>
+              </l>
+              <l>
+                <emph>Многим солоно пришлись!</emph>
+              </l>
             </lg>
             <stage>(Ходит по комнате и рассуждает про себя.)</stage>
             <p>Надо мне поселиться на Невском или хоть около того... в Грязной... вывеску большую

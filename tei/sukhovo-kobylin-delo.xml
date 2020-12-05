@@ -38,7 +38,7 @@
               экземпляров; в России в 1869 году в Москве в книге «Картины прошедшего. Писал с натуры
               А. Сухово-Кобылин»." (Wikisource)</date>
             <date type="premiere"/>
-            <date type="written" when="1861">"1856–1861" (Wikisource)</date>
+            <date type="written" notBefore="1856" notAfter="1861">"1856–1861" (Wikisource)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -150,7 +150,7 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="drama">Драма в пяти действиях</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

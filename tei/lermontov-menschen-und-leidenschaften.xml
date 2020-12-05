@@ -93,8 +93,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Ein Trauerspiel</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -337,7 +338,9 @@
               и мыслях, во всем был первый; и я завидовал ему! Но он скоро будет — я послал сказать
               ему, что старый его приятель здесь. Посмотрим, вспомнит ли он меня?</p>
             <p><stage>(Пьет.)</stage> Славное вино. То-то попотчеваю.</p>
-            <stage><stage>(Берет гитару и играет и поет. Гитара лежала на столе.)</stage></stage>
+            <stage>
+              <stage>(Берет гитару и играет и поет. Гитара лежала на столе.)</stage>
+            </stage>
             <stage>Или 1</stage>
             <l>Если жизнь тебя обманет,</l>
             <l>Не печалься, не сердись, </l>

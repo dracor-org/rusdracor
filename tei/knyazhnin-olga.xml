@@ -66,17 +66,18 @@
             <persName>Волод</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#olga" passive="#svyatoslav" />
-            <relation name="associated_with" active="#mirved" passive="#olga" />
-            <relation name="associated_with" active="#vsevesta" passive="#olga" />
-            <relation name="associated_with" active="#zlovred" passive="#mal" />
+            <relation name="parent_of" active="#olga" passive="#svyatoslav"/>
+            <relation name="associated_with" active="#mirved" passive="#olga"/>
+            <relation name="associated_with" active="#vsevesta" passive="#olga"/>
+            <relation name="associated_with" active="#zlovred" passive="#mal"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

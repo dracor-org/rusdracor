@@ -59,7 +59,7 @@
           <person xml:id="alnaskarov" sex="MALE">
             <persName>Альнаскаров</persName>
           </person>
-            <listRelation type="personal">
+          <listRelation type="personal">
             <relation name="associated_with" active="#viktor" passive="#aglaeva"/>
             <relation name="associated_with" active="#sasha" passive="#aglaeva"/>
           </listRelation>
@@ -67,8 +67,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в одном действии, в стихах</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

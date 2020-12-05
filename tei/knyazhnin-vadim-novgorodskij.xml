@@ -35,8 +35,8 @@
             <date type="print" when="1793">"Впервые — отдельное издание, СПб., 1793, и — с того же
               набора, но с исправлением некоторых опечаток — РФ, ч. 39, 1793, стр. 123."
               (rvb.ru)</date>
-            <date type="written" when="1789">"Трагедия была закончена Княжниным в конце 1788 или в
-              начале 1789 г." (rvb.ru)</date>
+            <date type="written" notBefore="1788" notAfter="1789">"Трагедия была закончена Княжниным
+              в конце 1788 или в начале 1789 г." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -74,8 +74,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия в стихах, в пяти действиях</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

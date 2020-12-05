@@ -34,7 +34,8 @@
             <date type="print" when="1842">"опубл.: 1842" (Wikisource)</date>
             <date type="premiere" when="1852">"Первый раз пьесу поставили в 1852 году в бенефис
               актрисы М. Валберховой (Александринский театр)." (Wikipedia)</date>
-            <date type="written" when="1836">"Даты написания: 1835–1836 гг.." (ilibrary.ru)</date>
+            <date type="written" notBefore="1835" notAfter="1836">"Даты написания: 1835–1836 гг.."
+              (ilibrary.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -242,7 +243,7 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="drama">Драма в 4-х действиях, в стихах</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

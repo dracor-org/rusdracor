@@ -35,8 +35,8 @@
             <date type="print" when="1810">"Впервые — отдельным изданием, Смоленск, 1810, со
               стихотворным посвящением гр. М.А. Милорадовичу, датированным: '15 сентября 1808 г.,
               село Сутоки'." (lib.ru)</date>
-            <date type="written" when="1808">"15 сентября 1808 г., село Сутоки" (lib.ru)</date>
             <date type="premiere"/>
+            <date type="written" when="1808">"15 сентября 1808 г., село Сутоки" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -113,14 +113,15 @@
           <listRelation type="personal">
             <relation name="associated_with" active="#ehdvald" passive="#floran"/>
             <relation name="parent_of" active="#inslar" passive="#godmila"/>
-            <relation name="spouses" mutual="#godmila #velzen"/> 
+            <relation name="spouses" mutual="#godmila #velzen"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term subtype="tragedy" type="genreTitle">Трагедия в 5 действиях</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -92,14 +92,15 @@
             <relation name="parent_of" active="#sumburov" passive="#liza"/>
             <relation name="lover_of" active="#lestov" passive="#liza"/>
             <relation name="associated_with" active="#andrej" passive="#lestov"/>
-            <relation name="associated_with" active="#Antropka" passive="#sumburov #sumburova"/>
+            <relation name="associated_with" active="#antrop" passive="#sumburov #sumburova"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в трех действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

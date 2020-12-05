@@ -36,9 +36,9 @@
               марте 1889 г." (Wikipedia)</date>
             <date type="premiere" when="1889">"Первая постановка: 19 ноября 1887 — Театр Корша." –
               "1889 — Театр Корша (вторая редакция пьесы)." (Wikipedia)</date>
-            <date type="written" when="1888">"написанная в 1887 году", "В октябре 1888 года, готовя
-              пьесу к публикации в «Северном вестнике» и к постановке в Александринском театре,
-              Чехов значительно переработал текст." (Wikipedia)</date>
+            <date type="written" notBefore="1887" notAfter="1888">"написанная в 1887 году", "В
+              октябре 1888 года, готовя пьесу к публикации в «Северном вестнике» и к постановке в
+              Александринском театре, Чехов значительно переработал текст." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -139,12 +139,12 @@
             <relation name="spouses" mutual="#Ivanov #AnnaPetrovna"/>
             <relation name="spouses" mutual="#Lebedev #ZinaidaSavishna"/>
             <relation name="associated_with" active="#Egorushka" passive="#Lebedev #ZinaidaSavishna"/>
-        </listRelation>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="drama">Драма в четырех действиях</term>
+          <term type="genreTitle"/>
         </keywords>
       </textClass>
     </profileDesc>

@@ -35,7 +35,8 @@
             <date type="print" when="1947">"Новый мир (1947, № 6)" (ru.wikipedia.org)</date>
             <date type="premiere" when="1947">"Поставлена в 1947 году на сцене Ленинградского театра
               комедии" (ru.wikipedia.org)</date>
-            <date type="written" when="1940">1939—1940 (ru.wikipedia.org)</date>
+            <date type="written" notBefore="1939" notAfter="1940">1939—1940
+              (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -163,8 +164,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term subtype="comedy" type="genreTitle">Комедия в 4 актах</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

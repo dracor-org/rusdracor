@@ -76,16 +76,17 @@
             <persName>Воин</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#otan" passive="#orkant #fedima" />
-            <relation name="associated_with" active="#zanida" passive="#artistona" />
-            <relation name="associated_with" active="#malmira" passive="#fedima" />
+            <relation name="parent_of" active="#otan" passive="#orkant #fedima"/>
+            <relation name="associated_with" active="#zanida" passive="#artistona"/>
+            <relation name="associated_with" active="#malmira" passive="#fedima"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -78,8 +78,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Шутка-водевиль в одном действии</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -1465,7 +1466,9 @@
           <l>Он нас очень насмешил,</l>
           <l>И от смеха удержаться</l>
           <l>Не стает уж наших сил.</l>
-          <l><stage>(К публике.)</stage></l>
+          <l>
+            <stage>(К публике.)</stage>
+          </l>
           <l>Но для нас всего важнее</l>
           <l>Ваш серьезный приговор,--</l>
           <l>Так решите поскорее,</l>

@@ -39,7 +39,7 @@
             <date type="print"/>
             <date type="premiere" when="1800">"Первая постановк: 8 (19) февраля 1800"
               (Wikipedia)</date>
-            <date type="written" when="1788">"1787–1788"
+            <date type="written" notBefore="1787" notAfter="1788">"1787–1788"
               (https://biography.wikireading.ru/165843)</date>
           </bibl>
         </bibl>
@@ -88,8 +88,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">Опера комическая в двух действиях</term>
+          <term type="genreTitle">Libretto</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q131084</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

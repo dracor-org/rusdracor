@@ -6,7 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Трагик поневоле (Из дачной жизни)</title>
-        <title type="main" xml:lang="eng">A Tragedian in Spite of Himself (A Holiday Episode)</title>
+        <title type="main" xml:lang="eng">A Tragedian in Spite of Himself (A Holiday
+          Episode)</title>
         <title type="sub">Шутка в одном действии</title>
         <title type="sub" xml:lang="eng">A Joke in One Act</title>
         <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
@@ -62,8 +63,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Шутка в одном действии</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

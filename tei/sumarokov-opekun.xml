@@ -69,16 +69,17 @@
             <persName>Секретарь</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#chuzhehvat" passive="#sostrata" />
-            <relation name="lover_of" active="#valerij" passive="#sostrata" />
-            <relation name="associated_with" active="#nisa #paskvin" passive="#chuzhehvat" />
+            <relation name="parent_of" active="#chuzhehvat" passive="#sostrata"/>
+            <relation name="lover_of" active="#valerij" passive="#sostrata"/>
+            <relation name="associated_with" active="#nisa #paskvin" passive="#chuzhehvat"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term subtype="comedy" type="genreTitle">Комедия</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

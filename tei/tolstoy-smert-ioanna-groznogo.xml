@@ -126,7 +126,8 @@
             <persName>Слуга</persName>
             <persName xml:lang="ger">Ein Diener</persName>
           </person>
-          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE" ana="http://www.wikidata.org/entity/Q151623">
+          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q151623">
             <persName>Царица Мария Федоровна</persName>
             <persName xml:lang="ger">Die Zarin</persName>
           </person>
@@ -342,8 +343,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия в пяти действиях</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -549,7 +551,8 @@
             <speaker>Бельский</speaker>
             <l part="F">Без мест, пожалуй!</l>
           </sp>
-          <sp who="#mihajlo_nagoj #saltykov #golitsyn #scherbatyj #zaharin #mstislavskij #bojare_smert_ioanna_groznogo">
+          <sp
+            who="#mihajlo_nagoj #saltykov #golitsyn #scherbatyj #zaharin #mstislavskij #bojare_smert_ioanna_groznogo">
             <speaker>Все</speaker>
             <l part="I">Без мест! Без мест!</l>
           </sp>

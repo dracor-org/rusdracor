@@ -63,14 +63,15 @@
             <persName>Евгений</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#ramirskij" passive="#evgeniya"/> 
+            <relation name="parent_of" active="#ramirskij" passive="#evgeniya"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в одном действии, в стихах</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

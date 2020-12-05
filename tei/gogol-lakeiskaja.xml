@@ -34,7 +34,7 @@
               1994.</title>
             <date type="print" when="1842">"1842 год" (Wikipedia)</date>
             <date type="premiere"/>
-            <date type="written" when="1840">"1839–1840 гг." (ilibrary)</date>
+            <date type="written" notBefore="1839" notAfter="1840">"1839–1840 гг." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>

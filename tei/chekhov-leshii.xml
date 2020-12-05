@@ -119,13 +119,14 @@
             <relation name="siblings" mutual="#Zheltuhin #Julja"/>
             <relation name="parent_of" active="#Orlovskij" passive="#FedorIvanovich"/>
             <relation name="associated_with" active="#Vasilij" passive="#Zheltuhin"/>
-           </listRelation>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в 4-х действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

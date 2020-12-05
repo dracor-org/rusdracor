@@ -7,8 +7,8 @@
       <titleStmt>
         <title type="main">Забракованные</title>
         <title type="main" xml:lang="eng">Rejected</title>
-        <title type="sub">Трагедия в трех действиях, с эпилогом, с национальными
-          песнями и плясками и великолепным бенгальским огнем</title>
+        <title type="sub">Трагедия в трех действиях, с эпилогом, с национальными песнями и плясками
+          и великолепным бенгальским огнем</title>
         <title type="sub" xml:lang="eng">A Tragedy in Three Acts</title>
         <author key="wikidata:Q208003">Некрасов, Николай Алексеевич</author>
       </titleStmt>
@@ -80,9 +80,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Трагедия в трех действиях, с эпилогом, с
-            национальными песнями и плясками и великолепным бенгальским огнем</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

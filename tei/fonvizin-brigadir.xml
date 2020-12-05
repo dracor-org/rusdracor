@@ -36,7 +36,7 @@
               1745–1792</date>
             <date type="premiere" when="1772">источник: Коровин В. Л., Денис Иванович Фонвизин
               1745–1792</date>
-            <date type="written" when="1769">1765–1769
+            <date type="written" notBefore="1765" notAfter="1769">1765–1769
               (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/14_tom_XVIII/Gorbacheva/Gorbacheva.pdf)</date>
           </bibl>
         </bibl>
@@ -70,20 +70,21 @@
             <persName>Добролюбов</persName>
           </person>
           <listRelation type="personal">
-            <relation name="spouses" mutual="#brigadir #brigadirsha" />
-            <relation name="parent_of" active="#brigadir" passive="#syn" />
-            <relation name="parent_of" active="#brigadirsha" passive="#syn" />
-            <relation name="spouses" mutual="#sovetnik #sovetnitsa" />
-            <relation name="parent_of" active="#sovetnik" passive="#sofja" />
-            <relation name="parent_of" active="#sovetnitsa" passive="#sofja" />
-            <relation name="lover_of" active="#dobroljubov" passive="#sofja" />
+            <relation name="spouses" mutual="#brigadir #brigadirsha"/>
+            <relation name="parent_of" active="#brigadir" passive="#syn"/>
+            <relation name="parent_of" active="#brigadirsha" passive="#syn"/>
+            <relation name="spouses" mutual="#sovetnik #sovetnitsa"/>
+            <relation name="parent_of" active="#sovetnik" passive="#sofja"/>
+            <relation name="parent_of" active="#sovetnitsa" passive="#sofja"/>
+            <relation name="lover_of" active="#dobroljubov" passive="#sofja"/>
           </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="comedy">Комедия в пяти действиях</term>
+          <term type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>

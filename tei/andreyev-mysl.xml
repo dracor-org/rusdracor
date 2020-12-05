@@ -7,8 +7,7 @@
       <titleStmt>
         <title type="main">Мысль</title>
         <title type="main" xml:lang="eng">A Thought</title>
-        <title type="sub">Современная трагедия в трех действиях и шести
-          картинах</title>
+        <title type="sub">Современная трагедия в трех действиях и шести картинах</title>
         <title type="sub" xml:lang="eng">A Modern Tragedy in Three Acts and Six Scenes</title>
         <author key="wikidata:Q310866">Андреев, Леонид Николаевич</author>
       </titleStmt>
@@ -94,14 +93,14 @@
             <relation name="spouses" mutual="#tatyana_nikolaevna #savyolov"/>
             <relation name="associated_with" active="#sasha" passive="#tatyana_nikolaevna #savyolov"/>
             <relation name="associated_with" active="#darya_vasilyevna #vasiliy" passive="#kerzhentsev"/>
-        </listRelation>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle" subtype="tragedy">Современная трагедия в трех действиях и шести
-            картинах</term>
+          <term type="genreTitle">Tragedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
     </profileDesc>
     <revisionDesc>
