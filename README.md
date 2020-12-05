@@ -2,7 +2,7 @@
 ## Corpus Description
 We are building a Russian Drama Corpus with files encoded in
 [TEI-P5](http://www.tei-c.org/Guidelines/P5/). Our corpus comprises
-**190 plays** to date, originating from [ilibrary](https://ilibrary.ru/),
+**211 plays** to date, originating from [ilibrary](https://ilibrary.ru/),
 [Wikisource](https://ru.wikisource.org/), [РВБ](https://rvb.ru/),
 [lib.ru](http://lib.ru/), [ФЕБ](http://feb-web.ru/),
 [СовЛит](http://www.ruthenia.ru/sovlit/) and
@@ -11,7 +11,7 @@ and enhanced by us. There will be more.
 
 If you want to cite the corpus, please use this publication:
 
-- **Skorinkin D., Fischer F., Palchikov G. (2018)**: Building a Corpus for the Quantitative Research of Russian Drama: Composition, Structure, Case Studies. *Proceedings of the International Conference "Dialogue 2018"*, pp. 662–682. (**[PDF](http://www.dialog-21.ru/media/4332/skorinkind.pdf)**)
+- **Fischer, Frank, et al. (2019)**. Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In *Proceedings of DH2019: "Complexities"*, Utrecht University, [doi:10.5281/zenodo.4284002](https://doi.org/10.5281/zenodo.4284002).
 
 RusDraCor was first presented on June 29, 2017, at the [Corpora 2017
 conference](https://events.spbu.ru/events/anons/corpora-2017/?lang=Eng) in St.
@@ -32,8 +32,8 @@ do this:
 ## API
 
 An easy way to download the network data (instead of the actual TEI files) is
-to use our API ([documentation here](https://dracor.org/documentation/api/)).
-If you have [jq](http://blog.librato.com/posts/jq-json) installed, it would work
+to use our API ([documentation here](https://dracor.org/doc/api)).
+If you have [jq](https://blog.appoptics.com/jq-json/) installed, it would work
 like this:
 
 ```
@@ -62,6 +62,6 @@ Result:
 
 Here is a barplot showing the number of plays per decade:
 
-![number of speakers per play over time](playsPerDecade.png)
+![number of plays per decade](playsPerDecade.png)
 
-(README last updated on September 1, 2019.)
+(README last updated on December 5, 2020.)
