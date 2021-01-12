@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Krechinsky's Wedding</title>
         <title type="sub">Комедия в трех действиях</title>
         <title type="sub" xml:lang="eng">Comedy in Three Acts</title>
-        <author key="wikidata:Q2640236">Сухово-Кобылин, Александр Васильевич</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Васильевич</forename>
+            <surname>Сухово-Кобылин</surname>
+          </persName>
+          <idno type="wikidata">Q2640236</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

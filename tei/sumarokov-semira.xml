@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Semira</title>
         <title type="sub">Трагедия</title>
         <title type="sub" xml:lang="eng">Tragedy</title>
-        <author key="wikidata:Q429915">Сумароков, Александр Петрович</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Петрович</forename>
+            <surname>Сумароков</surname>
+          </persName>
+          <idno type="wikidata">Q429915</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

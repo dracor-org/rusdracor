@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">The Lore of the Skull, or Phrenology</title>
         <title type="sub">Оперетта в трех картинах</title>
         <title type="sub" xml:lang="eng">Operetta in Three Scenes</title>
-        <author key="wikidata:Q1784989">Прутков, Козьма</author>
+        <author>
+          <persName>
+            <forename>Козьма</forename>
+            <surname>Прутков</surname>
+          </persName>
+          <idno type="wikidata">Q1784989</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

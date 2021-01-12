@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Castles in the Air</title>
         <title type="sub">Комедия в одном действии, в стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act, in Verse</title>
-        <author key="wikidata:Q5608019">Хмельницкий, Николай Иванович</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Иванович</forename>
+            <surname>Хмельницкий</surname>
+          </persName>
+          <idno type="wikidata">Q5608019</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

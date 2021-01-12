@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">Silk Lace</title>
         <title type="sub">Драматическая пословица, в одном действии</title>
         <title type="sub" xml:lang="eng">Dramatic Proverb, in One Act</title>
-        <author key="wikidata:Q1784989">Прутков, Козьма</author>
+        <author>
+          <persName>
+            <forename>Козьма</forename>
+            <surname>Прутков</surname>
+          </persName>
+          <idno type="wikidata">Q1784989</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

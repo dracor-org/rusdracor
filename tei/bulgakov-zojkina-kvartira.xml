@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Zoya's Apartment</title>
         <title type="sub">Пьеса в трех актах</title>
         <title type="sub" xml:lang="eng">A Play in Three Acts</title>
-        <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Афанасьевич</forename>
+            <surname>Булгаков</surname>
+          </persName>
+          <idno type="wikidata">Q835</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

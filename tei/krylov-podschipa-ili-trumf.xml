@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Podshchipa or Trumf</title>
         <title type="sub">Шуто-трагедия в двух действиях, в стихах</title>
         <title type="sub" xml:lang="eng">A Mock-Tragedy in Two Acts, in Verse</title>
-        <author key="wikidata:Q191480">Крылов, Иван Андреевич</author>
+        <author>
+          <persName>
+            <forename>Иван</forename>
+            <forename type="patronym">Андреевич</forename>
+            <surname>Крылов</surname>
+          </persName>
+          <idno type="wikidata">Q191480</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Unsociable Woman</title>
         <title type="sub">Драма в пяти действиях</title>
         <title type="sub" xml:lang="eng">A Drama in Five Acts</title>
-        <author key="wikidata:Q1959117">Ростопчина, Евдокия Петровна</author>
+        <author>
+          <persName>
+            <forename>Евдокия</forename>
+            <forename type="patronym">Петровна</forename>
+            <surname>Ростопчина</surname>
+          </persName>
+          <idno type="wikidata">Q1959117</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

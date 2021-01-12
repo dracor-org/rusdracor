@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Maria</title>
         <title type="sub">Пьеса в 8 картинах</title>
         <title type="sub" xml:lang="eng">A Play in Eight Acts</title>
-        <author key="wikidata:Q49080">Бабель, Исаак Эммануилович</author>
+        <author>
+          <persName>
+            <forename>Исаак</forename>
+            <forename type="patronym">Эммануилович</forename>
+            <surname>Бабель</surname>
+          </persName>
+          <idno type="wikidata">Q49080</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

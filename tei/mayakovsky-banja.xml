@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Bathhouse</title>
         <title type="sub">Драма в шести действиях с цирком и фейерверком</title>
         <title type="sub" xml:lang="eng">Drama in Six Acts with a Circus and Fireworks</title>
-        <author key="wikidata:Q132964">Маяковский, Владимир Владимирович</author>
+        <author>
+          <persName>
+            <forename>Владимир</forename>
+            <forename type="patronym">Владимирович</forename>
+            <surname>Маяковский</surname>
+          </persName>
+          <idno type="wikidata">Q132964</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

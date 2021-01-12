@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">Fantasy</title>
         <title type="sub">Комедия в одном действии, соч. Y и Z</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act</title>
-        <author key="wikidata:Q1784989">Прутков, Козьма</author>
+        <author>
+          <persName>
+            <forename>Козьма</forename>
+            <surname>Прутков</surname>
+          </persName>
+          <idno type="wikidata">Q1784989</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

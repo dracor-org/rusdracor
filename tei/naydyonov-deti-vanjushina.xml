@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Vanyushin's Children</title>
         <title type="sub">Драма в четырех действиях</title>
         <title type="sub" xml:lang="eng">A Drama in Four Acts</title>
-        <author key="wikidata:Q4312417">Найдёнов, Сергей Александрович</author>
+        <author>
+          <persName>
+            <forename>Сергей</forename>
+            <forename type="patronym">Александрович</forename>
+            <surname>Найдёнов</surname>
+          </persName>
+          <idno type="wikidata">Q4312417</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

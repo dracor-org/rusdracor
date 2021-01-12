@@ -11,7 +11,14 @@
           вариант</title>
         <title type="sub" xml:lang="eng">A Heroic, Epic, and Satiric Representation of Our Era /
           Second Version</title>
-        <author key="wikidata:Q132964">Маяковский, Владимир Владимирович</author>
+        <author>
+          <persName>
+            <forename>Владимир</forename>
+            <forename type="patronym">Владимирович</forename>
+            <surname>Маяковский</surname>
+          </persName>
+          <idno type="wikidata">Q132964</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

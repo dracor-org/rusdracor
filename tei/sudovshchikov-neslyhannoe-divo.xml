@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Wonder of Wonders, or an Honest Secretary</title>
         <title type="sub">Комедия в трех действиях, в стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in Three Acts, in Verse</title>
-        <author key="wikidata:Q21147620">Судовщиков, Николай Родионович</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Родионович</forename>
+            <surname>Судовщиков</surname>
+          </persName>
+          <idno type="wikidata">Q21147620</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

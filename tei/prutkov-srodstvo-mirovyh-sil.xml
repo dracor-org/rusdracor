@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">The Affinity of Universal Forces</title>
         <title type="sub">Мистерия в одиннадцати явлениях</title>
         <title type="sub" xml:lang="eng">A Mystery in Eleven Scenes</title>
-        <author key="wikidata:Q1784989">Прутков, Козьма</author>
+        <author>
+          <persName>
+            <forename>Козьма</forename>
+            <surname>Прутков</surname>
+          </persName>
+          <idno type="wikidata">Q1784989</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

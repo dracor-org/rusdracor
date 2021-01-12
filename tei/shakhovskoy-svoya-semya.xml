@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">His Own Family, or a Married Bride</title>
         <title type="sub">Комедия в трех действиях, в стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in Three Acts, in Verse</title>
-        <author key="wikidata:Q3740432">Шаховской, Александр Александрович</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Александрович</forename>
+            <surname>Шаховской</surname>
+          </persName>
+          <idno type="wikidata">Q3740432</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

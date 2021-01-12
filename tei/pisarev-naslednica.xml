@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Heiress</title>
         <title type="sub">Комедия в одном действии, в стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act, in Verse</title>
-        <author key="wikidata:Q4363527">Писарев, Александр Иванович</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Иванович</forename>
+            <surname>Писарев</surname>
+          </persName>
+          <idno type="wikidata">Q4363527</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

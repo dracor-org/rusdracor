@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Tamira and Selim</title>
         <title type="sub">–</title>
         <title type="sub" xml:lang="eng">–</title>
-        <author key="wikidata:Q58720">Ломоносов, Михаил Васильевич</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Васильевич</forename>
+            <surname>Ломоносов</surname>
+          </persName>
+          <idno type="wikidata">Q58720</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

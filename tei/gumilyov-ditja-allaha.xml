@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Child of Allah</title>
         <title type="sub">–</title>
         <title type="sub" xml:lang="eng">–</title>
-        <author key="wikidata:Q311033">Гумилёв, Николай Степанович</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Степанович</forename>
+            <surname>Гумилёв</surname>
+          </persName>
+          <idno type="wikidata">Q311033</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

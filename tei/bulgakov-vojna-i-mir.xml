@@ -11,7 +11,14 @@
           сцен)</title>
         <title type="sub" xml:lang="eng">Dramatisation of the Novel by Lev Tolstoy, in Four Acts (30
           Scenes)</title>
-        <author key="wikidata:Q835">Булгаков, Михаил Афанасьевич</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Афанасьевич</forename>
+            <surname>Булгаков</surname>
+          </persName>
+          <idno type="wikidata">Q835</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

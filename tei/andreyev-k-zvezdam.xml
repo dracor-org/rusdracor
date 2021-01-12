@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">To the Stars</title>
         <title type="sub">–</title>
         <title type="sub" xml:lang="eng">–</title>
-        <author key="wikidata:Q310866">Андреев, Леонид Николаевич</author>
+        <author>
+          <persName>
+            <forename>Леонид</forename>
+            <forename type="patronym">Николаевич</forename>
+            <surname>Андреев</surname>
+          </persName>
+          <idno type="wikidata">Q310866</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -100,7 +107,8 @@
             <relation name="siblings" mutual="#petja #anna"/>
             <relation name="parent_of" active="#sergej_nikolaevich" passive="#petja #anna"/>
             <relation name="parent_of" active="#inna_aleksandrovna" passive="#petja #anna"/>
-            <relation name="associated_with" active="#pollak #lunts #zhitov" passive="#sergej_nikolaevich"/>
+            <relation name="associated_with" active="#pollak #lunts #zhitov"
+              passive="#sergej_nikolaevich"/>
           </listRelation>
         </listPerson>
       </particDesc>

@@ -9,7 +9,16 @@
         <title type="main" xml:lang="eng">Oh, Time!</title>
         <title type="sub">Комедия в трех действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
-        <author key="wikidata:Q36450">Екатерина II</author>
+        <author>
+          <persName type="nobility">Екатерина II</persName>
+          <persName>
+            <forename>София</forename>
+            <forename>Августа</forename>
+            <forename>Фредерика</forename>
+            <surname>Ангальт-Цербстская</surname>
+          </persName>
+          <idno type="wikidata">Q36450</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

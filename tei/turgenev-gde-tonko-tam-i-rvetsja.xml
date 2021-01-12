@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Where It Is Thin, There It Breaks</title>
         <title type="sub">Комедия в одном действии</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act</title>
-        <author key="wikidata:Q42831">Тургенев, Иван Сергеевич</author>
+        <author>
+          <persName>
+            <forename>Иван</forename>
+            <forename type="patronym">Сергеевич</forename>
+            <surname>Тургенев</surname>
+          </persName>
+          <idno type="wikidata">Q42831</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

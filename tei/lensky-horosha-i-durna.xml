@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">She's Both Good and Bad, and Silly and Smart</title>
         <title type="sub">Водевиль в одном действии</title>
         <title type="sub" xml:lang="eng">A Vaudeville in One Act</title>
-        <author key="wikidata:Q4258582">Ленский, Дмитрий Тимофеевич</author>
+        <author>
+          <persName>
+            <forename>Дмитрий</forename>
+            <forename type="patronym">Тимофеевич</forename>
+            <surname>Ленский</surname>
+          </persName>
+          <idno type="wikidata">Q4258582</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -60,7 +67,8 @@
             <persName>Александр Иванович Алинской</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#stepanida_karpovna #konstantin_prohorovich" passive="#nadenka"/>
+            <relation name="parent_of" active="#stepanida_karpovna #konstantin_prohorovich"
+              passive="#nadenka"/>
             <relation name="lover_of" active="#alinskoj" passive="#nadenka"/>
             <relation name="related_with" active="#padcheretsin" passive="#nadenka"/>
             <relation name="associated_with" active="#emeljan" passive="#konstantin_prohorovich"/>

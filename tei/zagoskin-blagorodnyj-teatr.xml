@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Noble Theatre</title>
         <title type="sub">Комедия в четырех действиях, в стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in Four Act, in Verse</title>
-        <author key="wikidata:Q629784">Загоскин, Михаил Николаевич</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Николаевич</forename>
+            <surname>Загоскин</surname>
+          </persName>
+          <idno type="wikidata">Q629784</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -102,10 +109,13 @@
             <relation name="siblings" mutual="#chestonov #lyubskij"/>
             <relation name="related_with" active="#volgin" passive="#velskij"/>
             <relation name="lover_of" active="#pososhkov" passive="#olenka"/>
-            <relation name="associated_with" active="#kutermina" passive="#lyubskaya #lyubskij #olenka"/>
+            <relation name="associated_with" active="#kutermina"
+              passive="#lyubskaya #lyubskij #olenka"/>
             <relation name="associated_with" active="#natasha" passive="#olenka"/>
-            <relation name="related_with" active="#pervyj_plemyannik #pervaja_plemyannica" passive="#kutermina"/>
-            <relation name="associated_with" active="#pervyj_sluga vtoroj_sluga" passive="#lyubskij"/>
+            <relation name="related_with" active="#pervyj_plemyannik #pervaja_plemyannica"
+              passive="#kutermina"/>
+            <relation name="associated_with" active="#pervyj_sluga vtoroj_sluga" passive="#lyubskij"
+            />
           </listRelation>
         </listPerson>
       </particDesc>

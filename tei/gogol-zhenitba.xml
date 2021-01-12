@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Marriage</title>
         <title type="sub">Совершенно невероятное событие в двух действиях</title>
         <title type="sub" xml:lang="eng">A Completely Improbable Event in Two Acts</title>
-        <author key="wikidata:Q43718">Гоголь, Николай Васильевич</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Васильевич</forename>
+            <surname>Гоголь</surname>
+          </persName>
+          <idno type="wikidata">Q43718</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

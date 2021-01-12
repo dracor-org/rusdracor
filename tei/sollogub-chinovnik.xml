@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Civil Servant</title>
         <title type="sub">Комедия в одном действии</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act</title>
-        <author key="wikidata:Q720198">Соллогуб, Владимир Александрович</author>
+        <author>
+          <persName>
+            <forename>Владимир</forename>
+            <forename type="patronym">Александрович</forename>
+            <surname>Соллогуб</surname>
+          </persName>
+          <idno type="wikidata">Q720198</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

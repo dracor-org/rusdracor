@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Island of Peace</title>
         <title type="sub">Комедия в 4 актах</title>
         <title type="sub" xml:lang="eng">Comedy in 4 Acts</title>
-        <author key="wikidata:Q714739">Петров, Евгений Петрович</author>
+        <author>
+          <persName>
+            <forename>Евгений</forename>
+            <forename type="patronym">Петрович</forename>
+            <surname>Петров</surname>
+          </persName>
+          <idno type="wikidata">Q714739</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

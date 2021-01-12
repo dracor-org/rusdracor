@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Young Married Couple</title>
         <title type="sub">Комедия в одном действии, в стихах</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act, in Verse</title>
-        <author key="wikidata:Q15001">Грибоедов, Александр Сергеевич</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Сергеевич</forename>
+            <surname>Грибоедов</surname>
+          </persName>
+          <idno type="wikidata">Q15001</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

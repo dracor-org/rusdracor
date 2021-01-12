@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Mashenka</title>
         <title type="sub">Пьеса в 3-х актах 7-ми сценах</title>
         <title type="sub" xml:lang="eng">A Play in 3 Acts, 7 Scenes</title>
-        <author key="wikidata:Q729569">Афиногенов, Александр Николаевич</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Николаевич</forename>
+            <surname>Афиногенов</surname>
+          </persName>
+          <idno type="wikidata">Q729569</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

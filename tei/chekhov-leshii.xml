@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Wood Demon</title>
         <title type="sub">Комедия в 4-х действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in Four Acts</title>
-        <author key="wikidata:Q5685">Чехов, Антон Павлович</author>
+        <author>
+          <persName>
+            <forename>Антон</forename>
+            <forename type="patronym">Павлович</forename>
+            <surname>Чехов</surname>
+          </persName>
+          <idno type="wikidata">Q5685</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

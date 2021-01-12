@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Choice of a Tutor</title>
         <title type="sub">Комедия в трех действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
-        <author key="wikidata:Q315885">Фонвизин, Денис Иванович</author>
+        <author>
+          <persName>
+            <forename>Денис</forename>
+            <forename type="patronym">Иванович</forename>
+            <surname>Фонвизин</surname>
+          </persName>
+          <idno type="wikidata">Q315885</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

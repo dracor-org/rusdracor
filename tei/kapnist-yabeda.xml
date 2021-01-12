@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Slander</title>
         <title type="sub">Комедия в пяти действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in Five Acts</title>
-        <author key="wikidata:Q713704">Капнист, Василий Васильевич</author>
+        <author>
+          <persName>
+            <forename>Василий</forename>
+            <forename type="patronym">Васильевич</forename>
+            <surname>Капнист</surname>
+          </persName>
+          <idno type="wikidata">Q713704</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

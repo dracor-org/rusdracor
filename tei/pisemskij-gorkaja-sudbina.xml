@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">A Bitter Fate</title>
         <title type="sub">Драма в четырех действиях</title>
         <title type="sub" xml:lang="eng">A Drama in Four Acts</title>
-        <author key="wikidata:Q470371">Писемский, Алексей Феофилактович</author>
+        <author>
+          <persName>
+            <forename>Алексей</forename>
+            <forename type="patronym">Феофилактович</forename>
+            <surname>Писемский</surname>
+          </persName>
+          <idno type="wikidata">Q470371</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

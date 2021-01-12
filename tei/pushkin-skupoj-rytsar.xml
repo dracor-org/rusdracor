@@ -10,7 +10,14 @@
         <title type="sub">(Сцены из Ченстоновой трагикомедии: The covetous Knight)</title>
         <title type="sub" xml:lang="eng">(Scenes from Shenstone's Tragicomedy: The Covetous
           Knight)</title>
-        <author key="wikidata:Q7200">Пушкин, Александр Сергеевич</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Сергеевич</forename>
+            <surname>Пушкин</surname>
+          </persName>
+          <idno type="wikidata">Q7200</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

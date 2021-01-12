@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Jealousy</title>
         <title type="sub">Драма въ 5-ти дѣйствіяхъ</title>
         <title type="sub" xml:lang="eng">Drama in 5 Acts</title>
-        <author key="wikidata:Q448143">Арцыбашев, Михаил Петрович</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Петрович</forename>
+            <surname>Арцыбашев</surname>
+          </persName>
+          <idno type="wikidata">Q448143</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

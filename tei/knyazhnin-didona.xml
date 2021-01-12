@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Dido</title>
         <title type="sub">Трагедия в пяти действиях</title>
         <title type="sub" xml:lang="eng">A Tragedy in Five Acts</title>
-        <author key="wikidata:Q354505">Княжнин, Яков Борисович</author>
+        <author>
+          <persName>
+            <forename>Яков</forename>
+            <forename type="patronym">Борисович</forename>
+            <surname>Княжнин</surname>
+          </persName>
+          <idno type="wikidata">Q354505</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

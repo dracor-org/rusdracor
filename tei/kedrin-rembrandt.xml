@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Rembrandt</title>
         <title type="sub">Драма в стихах</title>
         <title type="sub" xml:lang="eng">Drama in Verse</title>
-        <author key="wikidata:Q4218868">Кедрин, Дмитрий Борисович</author>
+        <author>
+          <persName>
+            <forename>Дмитрий</forename>
+            <forename type="patronym">Борисович</forename>
+            <surname>Кедрин</surname>
+          </persName>
+          <idno type="wikidata">Q4218868</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -167,7 +174,8 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="lover_of" active="#magdalina_van_loo" passive="#rembrandt"/>
-            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink" passive="#rembrandt"/>
+            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink"
+              passive="#rembrandt"/>
             <relation name="related_with" active="#doktor_tyulp" passive="#siks"/>
             <relation name="spouses" mutual="#rembrandt #saskiya"/>
           </listRelation>

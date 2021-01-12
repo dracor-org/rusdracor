@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Pazukhin's Death</title>
         <title type="sub">Комедия в 4-х действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in Four Acts</title>
-        <author key="wikidata:Q211785">Салтыков-Щедрин, Михаил Евграфович</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Евграфович</forename>
+            <surname>Салтыков-Щедрин</surname>
+          </persName>
+          <idno type="wikidata">Q211785</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

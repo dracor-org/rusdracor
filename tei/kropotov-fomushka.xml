@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Fomushka – Granny's Boy</title>
         <title type="sub">Комедия</title>
         <title type="sub" xml:lang="eng">A Comedy</title>
-        <author key="wikidata:Q15070549">Кропотов, Пётр Андреевич</author>
+        <author>
+          <persName>
+            <forename>Пётр</forename>
+            <forename type="patronym">Андреевич</forename>
+            <surname>Кропотов</surname>
+          </persName>
+          <idno type="wikidata">Q15070549</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

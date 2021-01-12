@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Paul the First</title>
         <title type="sub">–</title>
         <title type="sub" xml:lang="eng">–</title>
-        <author key="wikidata:Q326459">Мережковский, Дмитрий Сергеевич</author>
+        <author>
+          <persName>
+            <forename>Дмитрий</forename>
+            <forename type="patronym">Сергеевич</forename>
+            <surname>Мережковский</surname>
+          </persName>
+          <idno type="wikidata">Q326459</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

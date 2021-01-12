@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Spendthrift</title>
         <title type="sub">Драма в пяти действиях</title>
         <title type="sub" xml:lang="eng">Drama in Five Acts</title>
-        <author key="wikidata:Q209004">Лесков, Николай Семенович</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Семенович</forename>
+            <surname>Лесков</surname>
+          </persName>
+          <idno type="wikidata">Q209004</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

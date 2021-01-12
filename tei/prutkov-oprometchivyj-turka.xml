@@ -10,7 +10,13 @@
           Grandson?</title>
         <title type="sub">Естественно-разговорное представление</title>
         <title type="sub" xml:lang="eng">A Naturalistic-Conversational Play</title>
-        <author key="wikidata:Q1784989">Прутков, Козьма</author>
+        <author>
+          <persName>
+            <forename>Козьма</forename>
+            <surname>Прутков</surname>
+          </persName>
+          <idno type="wikidata">Q1784989</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

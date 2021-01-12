@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Woe from Wit</title>
         <title type="sub">Комедия в четырех действиях, в стихах</title>
         <title type="sub" xml:lang="eng">Comedy in 4 Acts, in Verse</title>
-        <author key="wikidata:Q15001">Грибоедов, Александр Сергеевич</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Сергеевич</forename>
+            <surname>Грибоедов</surname>
+          </persName>
+          <idno type="wikidata">Q15001</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -176,8 +183,10 @@
             <relation name="associated_with" active="#molchalin" passive="#famusov"/>
             <relation name="spouses" mutual="#platon_mihajlovich #natalja_dmitrievna"/>
             <relation name="spouses" mutual="#knjaz #knjaginja"/>
-            <relation name="siblings" mutual="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
-            <relation name="parent_of" active="#knjaz #knjaginja" passive="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
+            <relation name="siblings"
+              mutual="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
+            <relation name="parent_of" active="#knjaz #knjaginja"
+              passive="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
             <relation name="related_with" active="#grafinja_vnuchka" passive="#grafinja_babushka"/>
             <relation name="related_with" active="#hlestova" passive="#famusov"/>
           </listRelation>

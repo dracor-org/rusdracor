@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">The Actor</title>
         <title type="sub">Шутка-водевиль в одном действии</title>
         <title type="sub" xml:lang="eng">A Joke-Vaudeville in One Act</title>
-        <author key="wikidata:Q208003">Некрасов, Николай Алексеевич</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Алексеевич</forename>
+            <surname>Некрасов</surname>
+          </persName>
+          <idno type="wikidata">Q208003</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

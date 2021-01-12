@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">Yegor Bulichov and Others</title>
         <title type="sub">Сцены</title>
         <title type="sub" xml:lang="eng">Scenes</title>
-        <author key="wikidata:Q12706">Горький, Максим</author>
+        <author>
+          <persName>
+            <forename>Максим</forename>
+            <surname>Горький</surname>
+          </persName>
+          <idno type="wikidata">Q12706</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

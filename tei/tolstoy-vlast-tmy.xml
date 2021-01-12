@@ -10,7 +10,14 @@
           Lost</title>
         <title type="sub">Драма в пяти действиях</title>
         <title type="sub" xml:lang="eng">Drama in Five Acts</title>
-        <author key="wikidata:Q7243">Толстой, Лев Николаевич</author>
+        <author>
+          <persName>
+            <forename>Лев</forename>
+            <forename type="patronym">Николаевич</forename>
+            <surname>Толстой</surname>
+          </persName>
+          <idno type="wikidata">Q7243</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

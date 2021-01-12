@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">There is No Hiding a Needle in a Sack</title>
         <title type="sub">Водевиль в двух картинах</title>
         <title type="sub" xml:lang="eng">A Vaudeville in Two Scenes</title>
-        <author key="wikidata:Q208003">Некрасов, Николай Алексеевич</author>
+        <author>
+          <persName>
+            <forename>Николай</forename>
+            <forename type="patronym">Алексеевич</forename>
+            <surname>Некрасов</surname>
+          </persName>
+          <idno type="wikidata">Q208003</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

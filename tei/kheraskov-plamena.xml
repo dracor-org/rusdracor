@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Plamena</title>
         <title type="sub">Трагедия</title>
         <title type="sub" xml:lang="eng">Tragedy</title>
-        <author key="wikidata:Q1930316">Херасков, Михаил Матвеевич</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Матвеевич</forename>
+            <surname>Херасков</surname>
+          </persName>
+          <idno type="wikidata">Q1930316</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

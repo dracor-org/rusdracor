@@ -10,7 +10,14 @@
           Balzaminov)</title>
         <title type="sub">Картины московской жизни</title>
         <title type="sub" xml:lang="eng">Pictures from Moscow Life</title>
-        <author key="wikidata:Q171976">Островский, Александр Николаевич</author>
+        <author>
+          <persName>
+            <forename>Александр</forename>
+            <forename type="patronym">Николаевич</forename>
+            <surname>Островский</surname>
+          </persName>
+          <idno type="wikidata">Q171976</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

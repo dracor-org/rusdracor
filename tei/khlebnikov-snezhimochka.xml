@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">Snowhite</title>
         <title type="sub">Рождественская сказка</title>
         <title type="sub" xml:lang="eng">A Christmas Story</title>
-        <author key="wikidata:Q35733">Хлебников, Велимир</author>
+        <author>
+          <persName>
+            <forename>Велимир</forename>
+            <surname>Хлебников</surname>
+          </persName>
+          <idno type="wikidata">Q35733</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

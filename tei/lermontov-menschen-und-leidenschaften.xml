@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">People and Passions</title>
         <title type="sub">Ein Trauerspiel</title>
         <title type="sub" xml:lang="eng">A Tragedy</title>
-        <author key="wikidata:Q46599">Лермонтов, Михаил Юрьевич</author>
+        <author>
+          <persName>
+            <forename>Михаил</forename>
+            <forename type="patronym">Юрьевич</forename>
+            <surname>Лермонтов</surname>
+          </persName>
+          <idno type="wikidata">Q46599</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

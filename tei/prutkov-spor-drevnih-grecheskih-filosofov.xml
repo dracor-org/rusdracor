@@ -11,7 +11,13 @@
         <title type="sub">Драматическая сцена из древнегреческой классической жизни в стихах</title>
         <title type="sub" xml:lang="eng">Dramatic Scene from Hellenic Classical Life in
           Verse</title>
-        <author key="wikidata:Q1784989">Прутков, Козьма</author>
+        <author>
+          <persName>
+            <forename>Козьма</forename>
+            <surname>Прутков</surname>
+          </persName>
+          <idno type="wikidata">Q1784989</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

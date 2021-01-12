@@ -10,7 +10,14 @@
           Dinner</title>
         <title type="sub">Комедия в трех действиях</title>
         <title type="sub" xml:lang="eng">Comedy in Three Acts</title>
-        <author key="wikidata:Q354505">Княжнин, Яков Борисович</author>
+        <author>
+          <persName>
+            <forename>Яков</forename>
+            <forename type="patronym">Борисович</forename>
+            <surname>Княжнин</surname>
+          </persName>
+          <idno type="wikidata">Q354505</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Toisiokov</title>
         <title type="sub">Комедия в пяти действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in Five Acts</title>
-        <author key="wikidata:Q235611">Дашкова, Екатерина Романовна</author>
+        <author>
+          <persName>
+            <forename>Екатерина</forename>
+            <forename type="patronym">Романовна</forename>
+            <surname>Дашкова</surname>
+          </persName>
+          <idno type="wikidata">Q235611</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">Olga</title>
         <title type="sub">Трагедия</title>
         <title type="sub" xml:lang="eng">A Tragedy</title>
-        <author key="wikidata:Q354505">Княжнин, Яков Борисович</author>
+        <author>
+          <persName>
+            <forename>Яков</forename>
+            <forename type="patronym">Борисович</forename>
+            <surname>Княжнин</surname>
+          </persName>
+          <idno type="wikidata">Q354505</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

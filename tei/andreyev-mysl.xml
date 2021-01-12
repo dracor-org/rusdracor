@@ -9,7 +9,14 @@
         <title type="main" xml:lang="eng">A Thought</title>
         <title type="sub">Современная трагедия в трех действиях и шести картинах</title>
         <title type="sub" xml:lang="eng">A Modern Tragedy in Three Acts and Six Scenes</title>
-        <author key="wikidata:Q310866">Андреев, Леонид Николаевич</author>
+        <author>
+          <persName>
+            <forename>Леонид</forename>
+            <forename type="patronym">Николаевич</forename>
+            <surname>Андреев</surname>
+          </persName>
+          <idno type="wikidata">Q310866</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
