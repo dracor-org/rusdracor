@@ -10,9 +10,13 @@
         <title type="sub">Оперетта в трех картинах</title>
         <title type="sub" xml:lang="eng">Operetta in Three Scenes</title>
         <author>
-          <persName>
+          <persName type="pseudo">
             <forename>Козьма</forename>
             <surname>Прутков</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Kozma</forename>
+            <surname>Prutkov</surname>
           </persName>
           <idno type="wikidata">Q1784989</idno>
         </author>
