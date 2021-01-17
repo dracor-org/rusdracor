@@ -11,14 +11,20 @@
         <title type="sub">Комедия в 5-ти действиях</title>
         <title type="sub" xml:lang="eng">A Comedy in 5 Acts</title>
         <author>
-          <persName type="nobility">Екатерина II</persName>
+          <persName type="nobility">
+            <forename>Екатерина</forename>
+            <genName>II</genName>
+          </persName>
           <persName>
             <forename>София</forename>
             <forename>Августа</forename>
             <forename>Фредерика</forename>
             <surname>Ангальт-Цербстская</surname>
           </persName>
-          <persName xml:lang="eng">Catherine II</persName>
+          <persName xml:lang="eng">
+            <forename>Catherine</forename>
+            <genName>II</genName>
+          </persName>
           <idno type="wikidata">Q36450</idno>
         </author>
       </titleStmt>
