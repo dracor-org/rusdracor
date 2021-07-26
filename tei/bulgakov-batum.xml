@@ -188,7 +188,7 @@
             <name>Уголовные</name>
             <name xml:lang="ger">Kriminelle</name>
           </personGrp>
-          <person xml:id="nikolaj" sex="MALE">
+          <person xml:id="nikolaj" sex="MALE" ana="http://www.wikidata.org/entity/Q40787">
             <persName>Николай</persName>
             <persName xml:lang="ger">Nikolaus</persName>
           </person>

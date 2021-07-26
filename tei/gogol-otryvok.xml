@@ -51,20 +51,20 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="MarjaAleksandrovna" sex="FEMALE">
+          <person xml:id="marja_aleksandrovna" sex="FEMALE">
             <persName>Марья Александровна</persName>
           </person>
-          <person xml:id="Misha" sex="MALE">
+          <person xml:id="misha" sex="MALE">
             <persName>Миша</persName>
           </person>
-          <person xml:id="Lakej" sex="MALE">
+          <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
           </person>
-          <person xml:id="Sobachkin" sex="MALE">
+          <person xml:id="sobachkin" sex="MALE">
             <persName>Собачкин</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#MarjaAleksandrovna" passive="#Misha"/>
+            <relation name="parent_of" active="#marja_aleksandrovna" passive="#misha"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -95,92 +95,92 @@
       <div type="scene">
         <head>I</head>
         <stage>Марья Александровна, пожилых лет дама, и Михал Андреевич, ее сын.</stage>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Слушай, Миша, я давно хотела с тобою переговорить: тебе должно переменить службу.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Пожалуй, хоть завтра же.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ты должен служить в военной.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша</speaker>
           <stage>(вытаращив глаза).</stage>
           <p>В военной?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Да.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Что вы, маменька? в военной?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ну что ж ты так изумился?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Помилуйте, да разве вы не знаете: ведь нужно начинать с юнкеров?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ну да, послужишь год юнкером, а потом произведут в офицеры, — уж это мое дело.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Да что вы нашли во мне военного? и фигура моя совершенно невоенная. Подумайте, матушка!
             Право, вы меня изумили этакими словами совершенно, так что я, я... я просто не знаю, что
             и подумать... Я, слава Богу, и толстенек немножко, а как надену юнкерский мундир с
             короткими хвостиками — совестно даже будет смотреть.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Нет нужды. Произведут в офицеры, будешь носить мундир с длинными фалдами и совершенно
             закроешь толщину свою, так что ничего не будет заметно. Притом это и лучше, что ты
             немножко толст, — скорее пойдет производство: им же будет совестно, что у них в полку
             такой толстый прапорщик.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Но, матушка, ведь мне год, всего год осталось до коллежского асессора. Я уже два года,
             как в чине титулярного советника.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Перестань, перестань! Это слово «титулярный» тиранит мои уши; мне так и приходит на ум
             Бог знает что. Я хочу, чтобы сын мой служил в гвардии. На штафирку просто не могу и
             смотреть теперь!</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Но посудите, матушка, рассмотрите меня хорошенько и наружность мою также: меня еще в
             школе звали хомяком. В военной службе все же нужно, чтобы и на лошади лихо ездил, и
             голос бы имел звонкий, и рост бы имел богатырский, и талию.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Приобретешь, всё приобретешь. Я хочу, чтобы ты непременно служил; на это есть очень
             важная причина.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Да какая же причина?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ну, уж причина важная.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Все же таки скажите, какая причина?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Такая причина... я не знаю даже, поймешь ли ты хорошенько. Губомазова, эта дура,
             третьего дни у Рогожинских говорит, и нарочно так, чтобы я слышала. А я сижу третьею,
@@ -193,93 +193,93 @@
             право... я не знаю, что бы я сделала с нею. А ее сын просто дурак набитый: только всего
             и умеет, что подымать ногу. Такая противная мерзавка!</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Как, матушка, так в этом вся причина?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Да, я хочу назло, чтобы мой сын тоже служил в гвардии и был бы на всех придворных
             балах.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Помилуйте, матушка, из того только, что она дура...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Нет, уж я решилась. Пусть-ка она себе треснет с досады, пусть побесится.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Однако ж...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>О! я ей покажу! Уж как она хочет, я употреблю все старанья, и мой сын будет тоже в
             гвардии. Уж хоть чрез это и потеряет, а уж непременно будет. Чтобы я позволила всякой
             мерзавке дуться передо мною и подымать и без того курносый нос свой! Нет уж, вот
             этого-то никогда не будет! Уж как вы себе хотите, Наталья Андреевна!</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Да разве этим вы ей досадите?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>О, уж этого-то не позволю!</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Если вы это требуете, маменька, я перейду в военную; только, право, мне самому будет
             смешно, когда увижу себя в мундире.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Уж, по крайней мере, гораздо благороднее этого фрачишки. Теперь второе: я хочу женить
             тебя.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>За одним разом — и переменить службу и женить?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Что же? Как будто нельзя и переменить службу и женить?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Да ведь я и намеренья еще не имел. Я еще не хочу жениться.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Захочешь, если только узнаешь на ком. Этой женитьбой доставишь ты себе счастья и в
             службе, и в семейственной жизни. Словом, я хочу женить тебя на княжне
             Шлепохвостовой.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Да ведь она, матушка, дура первоклассная.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Вовсе не первоклассная, а такая же, как и все другие. Прекрасная девушка; вот только
             что памяти нет: иной раз забывается, скажет невпопад; но это от рассеянности, а уж зато
             вовсе не сплетница и никогда ничего дурного не выдумает.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Помилуйте, куды ей сплетничать! Она насилу слово может связать, да и то такое, что
             только руки расставишь, как услышишь. Вы знаете сами, матушка, что женитьба дело
             сердечное: нужно, чтобы душа...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ну, так! я вот как будто предчувствовала. Послушай, перестань либеральничать. Тебе это
             не пристало, не пристало, я тебе двадцать раз уже говорила. Другому еще это идет как-то,
             а тебе совсем не идет.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Ах, маменька, но когда и в чем я был непослушен вам? Мне уже скоро тридцать лет, а
             между тем я, как дитя, покорен вам во всем. Вы мне велите ехать туды, куды бы мне смерть
@@ -293,18 +293,18 @@
             Клянусь вам, это больно! Я достоин за мою искреннюю любовь и привязанность к вам лучшей
             участи...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Пожалуйста, не говори этого! Будто я не знаю, что ты либерал; и знаю даже, кто тебе все
             это внушает: все этот скверный Собачкин.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Нет, матушка, это уже слишком, чтобы Собачкина я даже стал слушаться. Собачкин
             мерзавец, картежник и все что вы хотите. Но тут он невинен. Я никогда не позволю ему
             надо мною иметь и тени влияния.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ах, Боже мой, какой ужасный человек! я испугалась, когда его узнала. Без правил, без
             добродетели — какой гнусный, какой гнусный человек! Если бы ты знал, что такое он разнес
@@ -314,24 +314,24 @@
             недели была больна; я не знаю, как я могла перенести все это. Подлинно, одна вера в
             Провидение подкрепила меня.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>И этакий человек, вы думаете, может иметь надо мною власть? и думаете, я позволю?..</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Я сказала, чтоб он не смел мне на глаза показываться, и ты одним только можешь
             оправдать себя, когда без всякого упорства сделаешь княжне déclaration сегодня же.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Но, матушка, а если нельзя это сделать?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Как нельзя, это почему?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша</speaker>
           <stage>(в сторону).</stage>
           <p>Ну, решительная минута!..</p>
@@ -339,46 +339,46 @@
           <p>Позвольте мне хотя здесь иметь свой голос, хотя в деле, от которого зависит счастие
             моей будущей жизни. Вы не спросили еще меня... ну, если я влюблен в другую?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Это, признаюсь, для меня новость. Об этом я еще ничего не слышала. Да кто ж такая эта
             другая?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Ах, маменька, клянусь, никогда еще не было подобной! Ангел, ангел и лицом и душою!</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Да чьих она, кто отец ее?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Отец — Александр Александрович Одосимов.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Одосимов? фамилия неслышная! Я ничего не знаю про Одосимова... да что он, богатый
             человек?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Редкий человек, удивительный человек!</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>И богатый?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Как вам сказать? Нужно, чтобы вы его видели. Таких достоинств души не сыщешь в
             свете.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Да что он, как, в чем состоит его чин, имущество?</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Я понимаю, маменька, чего вы хотите. Позвольте мне на счет этот сказать откровенно мои
             мысли. Ведь теперь, как бы то ни было, может быть, во всей России нет жениха, который бы
@@ -393,26 +393,26 @@
             шинель, может быть, прикрыла бы чьи-нибудь плечи. Нет, маменька, это несправедливо! Отец
             пожертвовал всем имуществом на воспитанье дочери.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Довольно, довольно! Больше я не в силах слушать. Все знаю, все: влюбился в потаскушку,
             дочь какого-нибудь фурьера, которая занимается, может, публичным ремеслом.</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Матушка...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Отец — пьяница, мать — стряпуха, родня — кварташки или служащие по питейной части... И
             я должна все это слышать, все это терпеть, терпеть от родного сына, для которого я не
             щадила жизни!.. Нет, я не переживу этого!</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша.</speaker>
           <p>Но, матушка, позвольте...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Боже мой, какая теперь нравственность у молодых людей! Нет, я не переживу этого!
             клянусь, не переживу этого... Ах! что это? у меня закружилась голова!</p>
@@ -420,22 +420,22 @@
           <p>Ах, в боку колика!.. Машка, Машка, склянку!.. Я не знаю, проживу ли я до вечера.
             Жестокий сын!</p>
         </sp>
-        <sp who="#Misha">
+        <sp who="#misha">
           <speaker>Миша</speaker>
           <stage>(бросаясь).</stage>
           <p>Матушка, успокойтесь! вы сами создаете для себя...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>И все это наделал этот скверный Собачкин. Я не знаю, как не выгонят до сих пор эту
             чуму.</p>
         </sp>
-        <sp who="#Lakej">
+        <sp who="#lakej">
           <speaker>Лакей</speaker>
           <stage>(в дверях).</stage>
           <p>Собачкин приехал.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Как Собачкин? Отказать, отказать, чтоб его и духу здесь не было!</p>
         </sp>
@@ -443,63 +443,63 @@
       <div type="scene">
         <head>II</head>
         <stage>Те же и Собачкин.</stage>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Марья Александровна! извините великодушно, что так давно не был. Ей-Богу, никак не мог!
             Поверить не можете, сколько дел; знал, что будете гневаться, право, знал...</p>
           <stage>(Увидя Мишу.)</stage>
           <p>Здравствуй, брат! Как ты?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна</speaker>
           <stage>(в сторону).</stage>
           <p>У меня просто слов недостает! Каков? Еще извиняется, что давно не был!</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Как я рад, что вы, судя по лицу, так свежи и здоровы. А братца вашего как здоровье? Я
             полагал, признаюсь, и его также застать у вас.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Для этого вы бы могли отправиться к нему, а не ко мне.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин</speaker>
           <stage>(усмехаясь).</stage>
           <p>Я приехал рассказать вам один преинтересный анекдот.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Я не охотница до анекдотов.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Об Наталье Андреевне Губомазовой.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Как, об Губомазовой!..</p>
           <stage>(Стараясь скрыть любопытство.)</stage>
           <p>Так это, верно, недавно случилось?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>На днях.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Что ж такое?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Знаете ли, что она сама сечет своих девок?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Нет! что вы говорите? Ах, какой страм! можно ли это?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Вот вам крест! Позвольте же рассказать. Только один раз велит она виноватой девушке
             лечь, как следует, на кровать, а сама пошла в другую комнату, — не помню за чем-то,
@@ -508,20 +508,20 @@
             следует, с розгами, велит одной девушке сесть ему на ноги, накрыла простыней и — высекла
             мужа!</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна</speaker>
           <stage>(всплеснув руками).</stage>
           <p>Ах, Боже мой, какой страм! Как это до сих пор я ничего об этом не знала? Я вам скажу,
             что я почти всегда была уверена, что она в состоянии это сделать.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Натурально! Я это говорил всему свету. Толкуют: «Примерная жена, сидит дома, занимается
             воспитанием детей, сама учит их по-аглицки!» Какое воспитанье! Сечет всякий день мужа,
             как кошку!.. Как мне жаль, право, что я не могу пробыть у вас подолее.</p>
           <stage>(Раскланивается.)</stage>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Куда ж это вы, Андрей Кондратьевич? Не совестно ли вам, столько времени у меня не
             бывши... Я всегда привыкла вас видеть, как друга дома; останьтесь! Мне хотелось еще с
@@ -532,43 +532,43 @@
           <p>Я нарочно услала сына, чтобы переговорить с вами наедине. Скажите, вы, верно, знаете:
             есть какой-то Александр Александрович Одосимов?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Одосимов?.. Одосимов... Одосимов... Знаю, есть где-то Одосимов; а впрочем, я могу
             справиться.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Пожалуйста.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Помню, помню, есть Одосимов — столоначальник или начальник отделения... точно,
             есть.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Вообразите, вышла одна смешная история... Вы мне можете сделать большое одолжение.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Вам стоит только приказать. Для вас я готов на все, вы сами это знаете.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Вот в чем дело: мой сын влюбился, или, лучше, не влюбился, а просто зашло в голову
             сумасбродство... Ну, молодой человек... Словом, он бредит дочерью этого Одосимова.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Бредит? А, однако ж, он мне ничего об этом не сказал. Да, впрочем, конечно, бредит,
             если вы говорите.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Я хочу от вас, Андрей Кондратьевич, большой услуги: вы, я знаю, нравитесь женщинам.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Хе, хе, хе! Да вы почему это думаете? А ведь точно! Вообразите: на масленой шесть
             купчих... может быть, вы думаете, что я с своей стороны как-нибудь волочился или
@@ -576,59 +576,59 @@
             бишь его, Ермолай, Ермолай... Ах, Боже! Ермолай, вот что жил на Литейной, недалеко от
             Кирочной?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Не знаю там никого.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Ах, Боже мой! Ермолай Иванович, кажется, — вот хоть убей, позабыл фамилию. Еще жена его
             лет пять тому назад попала в историю. Ну, да вы знаете ее: Сильфида Петровна.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Совсем нет; не знаю я никакого ни Ермолая Ивановича, ни Сильфиды Петровны.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Боже мой! он еще жил недалеко от Куропаткина.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Да и Куропаткина я не знаю.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Да вы после припомните. Дочь, богачка страшная, до двухсот тысяч приданого; и не то
             чтобы с надуваньем, а еще до венца ломбардный билет в руки.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Что ж вы? не женились?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Не женился. Отец три дня на коленях стоял, упрашивал; и дочь не перенесла, теперь в
             монастыре сидит.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Почему ж вы не женились?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Да так как-то. Думаю себе: отец откупщик, родня — что ни попало. Поверите, самому,
             право, было потом жалко. Черт побери, право, как устроен свет: всё условия да приличия.
             Скольких людей уже погубили!</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ну, да что же вам смотреть на свет?</p>
           <stage>(В сторону.)</stage>
           <p>Прошу покорно! Теперь всякая чуть вылезшая козявка уже думает, что он аристократ. Вот
             всего какой-нибудь титулярный, а послушай-ка, как говорит!</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Ну, да нельзя, Марья Александровна, право, нельзя, всё как-то... Ну, понимаете...
             Станут говорить: «Ну вот, женился черт знает на ком...» Да со мной, впрочем, всегда
@@ -639,17 +639,17 @@
             молчу, потому что в такую еще впутаешься историю!.. Да, любят; а ведь за что бы,
             кажется? лицом нельзя сказать, чтобы очень...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Полно, будто вы сами не знаете, что вы хорош.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин</speaker>
           <stage>(усмехается).</stage>
           <p>А ведь вообразите, что, еще как был мальчишкой, ни одна, бывало, не пройдет без того,
             чтобы не ударить пальцем под подбородок и не сказать: «Плутишка, как хорош!»</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна</speaker>
           <stage>(в сторону).</stage>
           <p>Прошу покорно! Ведь вот насчет красоты тоже — ведь моська совершенная, а воображает,
@@ -661,52 +661,52 @@
             немножко замарать? Если вы, положим, не произведете на нее действия и она не сойдет с
             ума от вас...</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Марья Александровна, сойдет! Не спорьте, сойдет! Я голову дам отрубить, если не сойдет.
             Я вам скажу, Марья Александровна, со мной не такие бывали истории... Вот еще на
             днях...</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Ну, как бы то ни было, сойдет или не сойдет, только нужно, чтобы по городу разнеслись
             слухи, что вы с нею в связи... и чтобы это дошло до моего сына.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>До вашего сына?</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Да, до моего сына.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Да.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Что «да»?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Ничего, я так сказал «да».</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>Разве вы находите, что это для вас трудно?</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>О нет, ничего. Но все эти влюбленные... вы не поверите, какие у них несообразности,
             неуместные ребячества разные: то пистолеты, то... черт знает что такое... Конечно, я не
             то чтобы этим как-нибудь... но, знаете, неприлично в хорошем обществе.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна.</speaker>
           <p>О! насчет этого будьте покойны. Положитесь на меня, я не допущу его до того.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Впрочем, я так только заметил. Поверьте, Марья Александровна, я для вас, если бы
             пришлось точно порисковать где жизнью, то с удовольствием, ей-Богу, с удовольствием... Я
@@ -717,7 +717,7 @@
             нарочно положил на стол перед глазами. Что прикажете: всё взял — табакерку взял, платок
             даже лишний взял, а книжка осталась на столе.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна</speaker>
           <stage>(в сторону).</stage>
           <p>Что с ним делать? Дашь — замотает, а не дашь — распустит по городу такую чепуху, что
@@ -726,16 +726,16 @@
           <stage>(Вслух.)</stage>
           <p>Извольте, Андрей Кондратьевич; обождите только здесь, я вам их сейчас принесу.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин.</speaker>
           <p>Очень хорошо, я посижу здесь.</p>
         </sp>
-        <sp who="#MarjaAleksandrovna">
+        <sp who="#marja_aleksandrovna">
           <speaker>Марья Александровна</speaker>
           <stage>(уходя, в сторону).</stage>
           <p>Без денег ничего, мерзавец, не может сделать.</p>
         </sp>
-        <sp who="#Sobachkin">
+        <sp who="#sobachkin">
           <speaker>Собачкин</speaker>
           <stage>(один).</stage>
           <p>Да, эти две тысячи теперь мне и очень пригодятся. Долгов-то я отдавать не буду: и
