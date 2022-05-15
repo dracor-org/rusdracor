@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -33,7 +33,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q68641153</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,10 +43,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собрание сочинений в десяти томах. Том 6. М., "Голос", 1999.</title>
-            <date type="print" when="1986">"Впервые: Булгаков М. Пьесы. М.: Советский Писатель,
-              1986." (http://bulgakov.lit-info.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1932">"25.11.1932 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -483,6 +478,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1986">
+        <desc>"Впервые: Булгаков М. Пьесы. М.: Советский Писатель,
+              1986." (http://bulgakov.lit-info.ru)</desc>
+      </event>
+      <event type="written" when="1932">
+        <desc>"25.11.1932 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q68641153"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1607,8 +1614,7 @@
           </sp>
           <sp who="#napoleon">
             <speaker>Наполеон.</speaker>
-            <p>...donner la liberte, comme a oiseau qu'on rend aux champs, qui l'ont vu naitre!<note
-                place="foot">...дать ему свободу, как птице, которую возвращают ее родным
+            <p>...donner la liberte, comme a oiseau qu'on rend aux champs, qui l'ont vu naitre!<note place="foot">...дать ему свободу, как птице, которую возвращают ее родным
                 полям!</note></p>
           </sp>
           <stage>Бертье дает Лаврушке деньги.</stage>
@@ -2968,8 +2974,7 @@
           <sp who="#rambal">
             <speaker>Рамбаль</speaker>
             <stage>(ощупывая себя).</stage>
-            <p>Je crois que non, mais je l'ai manque belle cette fois-ci. Quel est cet homme?<note
-                place="foot">Кажется, нет, но на этот раз близко было. Кто этот человек?</note></p>
+            <p>Je crois que non, mais je l'ai manque belle cette fois-ci. Quel est cet homme?<note place="foot">Кажется, нет, но на этот раз близко было. Кто этот человек?</note></p>
           </sp>
           <stage>Морель схватывает Макара Алексеевича.</stage>
           <sp who="#per">
@@ -3359,8 +3364,7 @@
           </sp>
           <sp who="#ofitser-ulan">
             <speaker>Офицер-улан.</speaker>
-            <p>Oh, oh, за m'a bien l'air d'un des incendiaires. Demandez-lui ce qu'il est<note
-                place="foot">О, о, он очень похож на поджигателя. Спросите его, кто он.</note>.</p>
+            <p>Oh, oh, за m'a bien l'air d'un des incendiaires. Demandez-lui ce qu'il est<note place="foot">О, о, он очень похож на поджигателя. Спросите его, кто он.</note>.</p>
           </sp>
           <sp who="#malenkij_chelovechek">
             <speaker>Маленький человечек.</speaker>
@@ -3368,8 +3372,7 @@
           </sp>
           <sp who="#per">
             <speaker>Пьер.</speaker>
-            <p>Je ne vous dirai pas qui je suis. Je suis votre prisonnier. Emmenez-moi<note
-                place="foot">Я не скажу вам, кто я. Я ваш пленный. Уведите меня.</note>.</p>
+            <p>Je ne vous dirai pas qui je suis. Je suis votre prisonnier. Emmenez-moi<note place="foot">Я не скажу вам, кто я. Я ваш пленный. Уведите меня.</note>.</p>
           </sp>
           <sp who="#ofitser-ulan">
             <speaker>Офицер-улан</speaker>
@@ -3429,8 +3432,7 @@
           </sp>
           <sp who="#per">
             <speaker>Пьер.</speaker>
-            <p>Mon general, vous ne pouvez pas me connaitre, je ne vous al jamais vu...<note
-                place="foot">Вы не могли меня знать, генерал, я никогда не видал вас.</note></p>
+            <p>Mon general, vous ne pouvez pas me connaitre, je ne vous al jamais vu...<note place="foot">Вы не могли меня знать, генерал, я никогда не видал вас.</note></p>
           </sp>
           <sp who="#davu">
             <speaker>Даву.</speaker>
@@ -3687,8 +3689,7 @@
             <p>Позвольте вас поцеловать, голубчик. <stage>(Целует Денисова.)</stage> Bosse!
               Vincent!</p>
             <stage>Босс подходит.</stage>
-            <p>Voulez-vous manger? N'ayez pas peur, on ne vous fera pas de mal<note place="foot"
-                >Хотите есть? Не бойтесь, вам ничего не сделают.</note>. <stage>(Вынимает из сумки
+            <p>Voulez-vous manger? N'ayez pas peur, on ne vous fera pas de mal<note place="foot">Хотите есть? Не бойтесь, вам ничего не сделают.</note>. <stage>(Вынимает из сумки
                 еду подает.)</stage></p>
           </sp>
           <sp who="#boss">
@@ -3927,10 +3928,8 @@
           <sp who="#frantsuzskij_konvoir">
             <speaker>Французский конвоир</speaker>
             <stage>(отнимает у него мясо).</stage>
-            <p>Vous avez compris, sacre nom! За lui est bien egal! Brigand! Va!<note place="foot"
-                >Понимаешь ты, черт тебя дери! Ему все равно! Разбойник, право!</note></p>
-            <stage>Дальний топот конницы, свист, выстрелы. Крики: "Les cosaques!"<note place="foot"
-                >Казаки!</note>
+            <p>Vous avez compris, sacre nom! За lui est bien egal! Brigand! Va!<note place="foot">Понимаешь ты, черт тебя дери! Ему все равно! Разбойник, право!</note></p>
+            <stage>Дальний топот конницы, свист, выстрелы. Крики: "Les cosaques!"<note place="foot">Казаки!</note>
             </stage>
             <stage>(Бросая шомпол с мясом.)</stage>
             <p>Les cosaques!</p>
@@ -4286,8 +4285,7 @@
           <sp who="#rambal">
             <speaker>Рамбаль</speaker>
             <stage>(обнимая их шеи).</stage>
-            <p>Oh mes braves, oh mes bons amis. Voila des hommes! Oh mes braves, mes bons amis!<note
-                place="foot">О молодцы! О мои добрые, добрые друзья! Вот люди! О мои добрые
+            <p>Oh mes braves, oh mes bons amis. Voila des hommes! Oh mes braves, mes bons amis!<note place="foot">О молодцы! О мои добрые, добрые друзья! Вот люди! О мои добрые
                 друзья!</note></p>
           </sp>
           <sp who="#morel">

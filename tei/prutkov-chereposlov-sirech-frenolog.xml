@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -30,13 +30,11 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19235533</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Wikisource</name>
-          <idno type="URL"
-            >https://ru.wikisource.org/wiki/Черепослов,_сиречь_Френолог_(Прутков)</idno>
+          <idno type="URL">https://ru.wikisource.org/wiki/Черепослов,_сиречь_Френолог_(Прутков)</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>
@@ -45,10 +43,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1860">"Было напечатано в журн. «Современник» 1860 г."
-              (kozma.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1856"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,6 +103,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1860">
+        <desc>"Было напечатано в журн. «Современник» 1860 г."
+              (kozma.ru)</desc>
+      </event>
+      <event type="written" when="1856">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19235533"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -607,7 +613,7 @@
           <l>От маковки… до самых пят…</l>
           <l>Я… ощущаю… страсть такую,</l>
           <l>Что ночь переживу навряд.</l>
-          <l></l>
+          <l/>
         </sp>
         <sp who="#Ivanov">
           <speaker>Иванов</speaker>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4080620</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>А. Н. Островский. Полное собрание сочинений. Том 1. — М.: Гослитиздат,
               1949.</title>
-            <date type="print" when="1854">"Напечатана отдельным изданием в начале 1854 г."
-              (Wikipedia)</date>
-            <date type="premiere" when="1854">"Премьера в Москве состоялась в Малом театре 25 января
-              1854 года; в Петербурге, на сцене Александринского театра, — 9 сентября того же года."
-              (Wikipedia)</date>
-            <date type="written" when="1853">"Написана в 1853 году." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -156,6 +149,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1854">
+        <desc>"Напечатана отдельным изданием в начале 1854 г."
+              (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1854">
+        <desc>"Премьера в Москве состоялась в Малом театре 25 января
+              1854 года; в Петербурге, на сцене Александринского театра, — 9 сентября того же года."
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1853">
+        <desc>"Написана в 1853 году." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4080620"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

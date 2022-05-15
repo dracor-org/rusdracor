@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19153895</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собрание сочинений в четырех томах (https://gumilev.ru/biblio/31/)</title>
-            <date type="print" when="1917">"1917 году, пьеса была опубликована на страницах
-              «Аполлона» (№ 6-7)." (Wikipedia)</date>
-            <date type="premiere" when="1922">"Первым появлением пьесы на сцене можно считать
-              берлинскую постановку 1922 года." (Wikipedia)</date>
-            <date type="written" when="1916">"Точное время создания пьесы неизвестно, обычно она
-              датируется зимой 1916 года." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -133,6 +126,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1917">
+        <desc>"1917 году, пьеса была опубликована на страницах
+              «Аполлона» (№ 6-7)." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1922">
+        <desc>"Первым появлением пьесы на сцене можно считать
+              берлинскую постановку 1922 года." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1916">
+        <desc>"Точное время создания пьесы неизвестно, обычно она
+              датируется зимой 1916 года." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19153895"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

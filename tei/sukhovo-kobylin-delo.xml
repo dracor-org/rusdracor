@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4157104</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,11 +44,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1861">"Была издана в 1861 году в Лейпциге тиражом в 25
-              экземпляров; в России в 1869 году в Москве в книге «Картины прошедшего. Писал с натуры
-              А. Сухово-Кобылин»." (Wikisource)</date>
-            <date type="premiere"/>
-            <date type="written" notBefore="1856" notAfter="1861">"1856–1861" (Wikisource)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -173,6 +167,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1861">
+        <desc>"Была издана в 1861 году в Лейпциге тиражом в 25
+              экземпляров; в России в 1869 году в Москве в книге «Картины прошедшего. Писал с натуры
+              А. Сухово-Кобылин»." (Wikisource)</desc>
+      </event>
+      <event type="written" notBefore="1856" notAfter="1861">
+        <desc>"1856–1861" (Wikisource)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4157104"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

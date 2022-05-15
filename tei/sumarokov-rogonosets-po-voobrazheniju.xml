@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q66361434</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. П. Сумароков. Драматические произведения. Л., "Искусство", 1990</title>
-            <date type="print" when="1787">"Впервые - ПСВС (ч. VI, с. 1-56; 2-е изд. М., 1787, с.
-              1-52)." (lib.ru)</date>
-            <date type="premiere" when="1782">"Известно о постановке ее на сцене этого театра 2
-              ноября 1782 г." (lib.ru)</date>
-            <date type="written" when="1772">"Сочинена около 1772 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -95,6 +89,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1787">
+        <desc>"Впервые - ПСВС (ч. VI, с. 1-56; 2-е изд. М., 1787, с.
+              1-52)." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1782">
+        <desc>"Известно о постановке ее на сцене этого театра 2
+              ноября 1782 г." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1772">
+        <desc>"Сочинена около 1772 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q66361434"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

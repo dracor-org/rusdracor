@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19153209</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,13 +44,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print">Драматургия "Знания". Сборник пьес. Серия "Библиотека драматурга" М.,
-              "Искусство, 1964</date>
-            <date type="premiere" when="1901">"10 декабря 1901 года в Санкт-Петербурге в частном
-              театре Литературно-художественного общества состоялась премьера пьесы «Дети Ванюшина»
-              в постановке Е. Карпова." (Wikipedia)</date>
-            <date type="written" when="1901">"В 1901 году в Москве 33-летний Сергей Найдёнов написал
-              свою первую и самую лучшую пьесу — «Дети Ванюшина»." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -133,6 +125,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1901">
+        <desc>"10 декабря 1901 года в Санкт-Петербурге в частном
+              театре Литературно-художественного общества состоялась премьера пьесы «Дети Ванюшина»
+              в постановке Е. Карпова." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1901">
+        <desc>"В 1901 году в Москве 33-летний Сергей Найдёнов написал
+              свою первую и самую лучшую пьесу — «Дети Ванюшина»." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19153209"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1947,8 +1953,7 @@
           <speaker>Алексей.</speaker>
           <p>Папаша, меня выгнали из гимназии.</p>
         </sp>
-        <sp
-          who="#arina_ivanovna #lena #konstantin #schetkin #vanjushin #katja #klavdija #anja #ljudmila">
+        <sp who="#arina_ivanovna #lena #konstantin #schetkin #vanjushin #katja #klavdija #anja #ljudmila">
           <speaker>Все.</speaker>
           <p>Что?</p>
         </sp>

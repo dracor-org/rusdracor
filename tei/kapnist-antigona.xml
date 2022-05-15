@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58426660</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,14 +43,6 @@
             <title>В.В. Капнист. Антигона. Трагедия в пяти действиях // Капнист В.В. Избранные
               произведения. Л.: Советский писатель, 1973. С. 469–516. (Библиотека поэта; Большая
               серия).</title>
-            <date type="print" when="1849">"В смягченном виде вторая редакция «Антигоны» была
-              напечатана не только и изд. 1849, по и в Собр. соч., т. 1. Автограф первой редакции —
-              БУАН. До нас дошло свидетельство современника о том, что Капнист в 1815 г. издал свою
-              трагедию (см. Н. Горчаков, Воспоминание о Капнисте. — «Москвитянин», 1846, № 7, с.
-              28–29). Однако ни одного экземпляра такого издания не обнаружено." (rvb.ru)</date>
-            <date type="premiere" when="1814">"Премьера «Антигоны» состоялась 21 сентября 1814 г. на
-              сцене Петербургского Малого театра." (rvb.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -101,6 +92,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1849">
+        <desc>"В смягченном виде вторая редакция «Антигоны» была
+              напечатана не только и изд. 1849, по и в Собр. соч., т. 1. Автограф первой редакции —
+              БУАН. До нас дошло свидетельство современника о том, что Капнист в 1815 г. издал свою
+              трагедию (см. Н. Горчаков, Воспоминание о Капнисте. — «Москвитянин», 1846, № 7, с.
+              28–29). Однако ни одного экземпляра такого издания не обнаружено." (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1814">
+        <desc>"Премьера «Антигоны» состоялась 21 сентября 1814 г. на
+              сцене Петербургского Малого театра." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58426660"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -110,7 +117,7 @@
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦA</head>
         <castItem>Креонт, царь фивский.</castItem>
-        <castItem>Антигона, дочь Эдипа, &#60;покойного&#62; царя фивского.</castItem>
+        <castItem>Антигона, дочь Эдипа, &lt;покойного&gt; царя фивского.</castItem>
         <castItem>Эгина, наперсница ее.</castItem>
         <castItem>Эмон, сын Креонта.</castItem>
         <castItem>Димас.</castItem>

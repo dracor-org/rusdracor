@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q143688</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,10 +40,6 @@
           <bibl type="originalSource">
             <title>А.С. Пушкин. Собрание сочинений в 10 томах. Том 4. Государственное издательство
               художественной литературы. М. 1960.</title>
-            <date type="print" when="1839">Первая публикация трагедии была осуществлена
-              книгопродавцем А. Смирдиным в сборнике «Сто русских литераторов» в 1839 г.</date>
-            <date type="premiere" when="1872">February 28, 1872</date>
-            <date type="written" when="1830">1830</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -104,6 +99,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1839">
+        <desc>Первая публикация трагедии была осуществлена
+              книгопродавцем А. Смирдиным в сборнике «Сто русских литераторов» в 1839 г.</desc>
+      </event>
+      <event type="premiere" when="1872">
+        <desc>February 28, 1872</desc>
+      </event>
+      <event type="written" when="1830">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q143688"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>Александр Пушкин</docAuthor>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19128351</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -47,11 +46,6 @@
             <title>Крылов И. А. Полное собрание сочинений: в 3 томах / Редакция текста и примечания
               Н. Л. Бродского. — М.: Государственное издательство художественной литературы, 1946. —
               Т. II. [Драматургия]. — С. 632—686.</title>
-            <date type="print"/>
-            <date type="premiere" when="1800">"Первая постановк: 8 (19) февраля 1800"
-              (Wikipedia)</date>
-            <date type="written" notBefore="1787" notAfter="1788">"1787–1788"
-              (https://biography.wikireading.ru/165843)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -114,6 +108,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1800">
+        <desc>"Первая постановк: 8 (19) февраля 1800"
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" notBefore="1787" notAfter="1788">
+        <desc>"1787–1788"
+              (https://biography.wikireading.ru/165843)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19128351"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

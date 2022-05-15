@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19189352</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,13 +40,6 @@
           <bibl type="originalSource">
             <title>Александр Блок. Собрание сочинений в шести томах. Том четвертый. Драматические
               произведения. М., "Правда", 1971</title>
-            <date type="print" when="1907">"Впервые — в журнале «Весы», 1907, № 5, с. 21—28 с
-              подзаголовком «Пьеса в трёх видениях»." (Wikisource)</date>
-            <date type="premiere" when="1913">"Начало февраля [1913 г.] – Постановка драмы
-              «Незнакомка» в Московском литературно-художественном кружке (студия С. В. Халютиной)."
-              (blok.velchel.ru)</date>
-            <date type="written" when="1906">"Блок закончил драму 11 ноября 1906 г."
-              (gumilev.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -212,6 +204,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1907">
+        <desc>"Впервые — в журнале «Весы», 1907, № 5, с. 21—28 с
+              подзаголовком «Пьеса в трёх видениях»." (Wikisource)</desc>
+      </event>
+      <event type="premiere" when="1913">
+        <desc>"Начало февраля [1913 г.] – Постановка драмы
+              «Незнакомка» в Московском литературно-художественном кружке (студия С. В. Халютиной)."
+              (blok.velchel.ru)</desc>
+      </event>
+      <event type="written" when="1906">
+        <desc>"Блок закончил драму 11 ноября 1906 г."
+              (gumilev.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19189352"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

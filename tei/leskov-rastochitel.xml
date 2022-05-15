@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19215847</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,13 +42,6 @@
           <bibl type="originalSource">
             <title>Н. С. Лесков. Расточитель // Лесков Н. С. Собрание сочинений в 11 томах. М.:
               ГИХЛ, 1957. Т. 1. С. 386–491.</title>
-            <date type="print" when="1867">"Печатается по журналу «Литературная библиотека», 1867,
-              том VII (июль, кн. 1 – 2)." (leskov.org.ru)</date>
-            <date type="premiere" when="1867">"Драма Лескова была впервые поставлена на сцене
-              Александринского театра 1 ноября 1867 года, в бенефис артистки Левкеевой, с Нильским в
-              роли Молчанова, Монаховым в роли Колокольцова и Н. Зубовым в роли Князева."
-              (leskov.org.ru)</date>
-            <date type="written" when="1867">"1867" (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -201,6 +193,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1867">
+        <desc>"Печатается по журналу «Литературная библиотека», 1867,
+              том VII (июль, кн. 1 – 2)." (leskov.org.ru)</desc>
+      </event>
+      <event type="premiere" when="1867">
+        <desc>"Драма Лескова была впервые поставлена на сцене
+              Александринского театра 1 ноября 1867 года, в бенефис артистки Левкеевой, с Нильским в
+              роли Молчанова, Монаховым в роли Колокольцова и Н. Зубовым в роли Князева."
+              (leskov.org.ru)</desc>
+      </event>
+      <event type="written" when="1867">
+        <desc>"1867" (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19215847"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2041,9 +2051,7 @@
             <p>Но как ловко-то и в то же время ведь и совершенно безвредно! Ах, друг мой, я того
               убеждения, что ведь они не мы. Их положение другое. Мы ведь гиганты... наше имя
               исполин, а исполины всегда снисходительны. Ты вот, я знаю, ты не любишь Фирса
-              Григорьича; а я его за что люблю? Я знаю что он — entre nous soit dit<note
-                place="foot">Между нами говоря (франц.).</note> — мерзавец cum eximia laude,<note
-                place="foot">С высшей похвалой (лат.).</note> но я его люблю за его прекрасную
+              Григорьича; а я его за что люблю? Я знаю что он — entre nous soit dit<note place="foot">Между нами говоря (франц.).</note> — мерзавец cum eximia laude,<note place="foot">С высшей похвалой (лат.).</note> но я его люблю за его прекрасную
               натуру — за его русскую натуру. Он русский человек, и зато посмотри, как он
               снисходительно относится к полякам. Он говорит: что поляки? это вздор, говорит,
               поляки... Так-таки и говорит: «это вздор», их нет — и я в этом с ним совершенно

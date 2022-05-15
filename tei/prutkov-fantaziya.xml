@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -30,7 +30,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19233271</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,10 +43,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Сочинения Козьмы Пруткова. — М.: Художественная литература, 1976.</title>
-            <date type="print"/>
-            <date type="premiere" when="1851">"Была исполнена на Императорском Александрийском
-              театре, 8 января 1851 г." (az.lib.ru)</date>
-            <date type="written" when="1850">"Дата создания: 1850." (Wikisource</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -126,6 +121,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1851">
+        <desc>"Была исполнена на Императорском Александрийском
+              театре, 8 января 1851 г." (az.lib.ru)</desc>
+      </event>
+      <event type="written" when="1850">
+        <desc>"Дата создания: 1850." (Wikisource</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19233271"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -152,8 +159,7 @@
           <actor>Г. Каратыгин 2.</actor>
         </castItem>
         <castItem>
-          <role>Князь Касьян Родионович Батог-Батыев, человек, торгующий мылом<note place="foot"
-              >Титул «князь» был исключен цензором в перечне действующих лиц и повсюду в
+          <role>Князь Касьян Родионович Батог-Батыев, человек, торгующий мылом<note place="foot">Титул «князь» был исключен цензором в перечне действующих лиц и повсюду в
               тексте.</note>
           </role>
           <actor>Г. Прусаков.</actor>
@@ -348,8 +354,7 @@
         <stage>Те же и Чупурлина с Лизаветой. Чупурлина с Лизаветой сходят с крыльца в сад.
           Чупурлина ведет на ленточке моську. Женихи сидят на местах и поют на голос «Frère
           Jacques». Разорваки начинает.</stage>
-        <sp
-          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(поют)</stage>
           <l>Вот куплеты,</l>
@@ -395,8 +400,7 @@
           <speaker>Разорваки</speaker>
           <l>Довольно… довольно!..</l>
         </sp>
-        <sp
-          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(хором)</stage>
           <l>Всякий час!</l>
@@ -412,8 +416,7 @@
           <stage>(тоже)</stage>
           <l>И нас обнимите!</l>
         </sp>
-        <sp
-          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #milovidov #bespardonnyj #libental">
           <speaker>Все</speaker>
           <stage>(хором)</stage>
           <l>А мы вас!</l>
@@ -527,8 +530,7 @@
           <speaker>Кутило-Завалдайский.</speaker>
           <p>У меня, сударыня, более нравственный капитал! Вы на это не смотрите, что мое такое имя:
             Кутило-Завалдайский. Иной подумает и бог знает что; а я совсем не то! Это мой батюшка
-            был такой, и вот дядя есть еще; а я нет! Я человек целомудренный и стыдливый<note
-              place="foot">Здесь цензор вычеркнул слово «целомудренный» и написал
+            был такой, и вот дядя есть еще; а я нет! Я человек целомудренный и стыдливый<note place="foot">Здесь цензор вычеркнул слово «целомудренный» и написал
               «нравственный».</note>. Меня даже хотели сделать брандмейстером<note place="foot">Эти
               слова: «Меня даже хотели сделать брандмейстером» — вычеркнуты цензором.</note>.</p>
         </sp>
@@ -1554,8 +1556,7 @@
         <sp who="#chupurlina">
           <speaker>Чупурлина.</speaker>
           <p>Что это, батюшка? скорее на барана похоже!.. Ну видано ли, слыхано ли, чтобы этакое
-            могло стоить Фантазии?! Фу! Право, сказала бы неприличное слово, да в пятницу<note
-              place="foot">Цензор вычеркнул слово: «в пятницу».</note> как-то совестно!.. А как его
+            могло стоить Фантазии?! Фу! Право, сказала бы неприличное слово, да в пятницу<note place="foot">Цензор вычеркнул слово: «в пятницу».</note> как-то совестно!.. А как его
             зовут, батюшка?</p>
         </sp>
         <sp who="#razorvaki">
@@ -1676,8 +1677,7 @@
             механикой).</stage>
           <p>Вот мое! Смотрите только издали!</p>
         </sp>
-        <sp
-          who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #bespardonnyj #chupurlina #lizaveta_platonovna">
+        <sp who="#kutilo-zavaldajskij #razorvaki #knyaz_batog-batyev #bespardonnyj #chupurlina #lizaveta_platonovna">
           <speaker>Все.</speaker>
           <p>Что это?! что это?!</p>
         </sp>
@@ -1709,8 +1709,7 @@
         <sp who="#chupurlina">
           <speaker>Чупурлина.</speaker>
           <p>Ах ты, бесстыдник!<note place="foot">Слова: «Ах ты, бесстыдник» вычеркнуты
-              цензором</note> Да как у тебя язык поворотился говорить этакое!<note place="foot"
-              >Вместо слова «этакое» цензор написал: «этакой вздор».</note></p>
+              цензором</note> Да как у тебя язык поворотился говорить этакое!<note place="foot">Вместо слова «этакое» цензор написал: «этакой вздор».</note></p>
         </sp>
         <sp who="#milovidov">
           <speaker>Миловидов.</speaker>
@@ -1723,8 +1722,7 @@
           <stage>(громко).</stage>
           <p>Игрушка! просто игрушка!</p>
         </sp>
-        <sp
-          who="#kutilo-zavaldajskij #knyaz_batog-batyev #bespardonnyj #chupurlina #lizaveta_platonovna">
+        <sp who="#kutilo-zavaldajskij #knyaz_batog-batyev #bespardonnyj #chupurlina #lizaveta_platonovna">
           <speaker>Все</speaker>
           <stage>(кроме Миловидова).</stage>
           <p>Просто игрушка!.. Какая Фантазия!.. Какая Фантазия!.. Просто игрушка!</p>
@@ -1884,8 +1882,7 @@
         <sp who="#chupurlina">
           <speaker>Чупурлина</speaker>
           <stage>(приподымаясь, но еще не вставая на ноги).</stage>
-          <p>Кто это?.. Зачем я здесь?.. Отчего я мокра?! Что со мною хотели сделать?!<note
-              place="foot">Цензор вычеркнул слова: «Что со мною хотели сделать?»</note>
+          <p>Кто это?.. Зачем я здесь?.. Отчего я мокра?! Что со мною хотели сделать?!<note place="foot">Цензор вычеркнул слова: «Что со мною хотели сделать?»</note>
             <stage>(Увидя моську в своих руках.)</stage> Собачка моя! моська моя!.. Это не
             обман?</p>
         </sp>
@@ -1973,8 +1970,7 @@
         <sp who="#chupurlina">
           <speaker>Чупурлина</speaker>
           <stage>(обращаясь к прислуге, стоящей с фонарями).</stage>
-          <p>Эй! пошлите за полицией!.. Жандармов приведите сюда, побольше и посильнее!<note
-              place="foot">Слова: «Жандармов приведите сюда, побольше и посильнее» — цензор
+          <p>Эй! пошлите за полицией!.. Жандармов приведите сюда, побольше и посильнее!<note place="foot">Слова: «Жандармов приведите сюда, побольше и посильнее» — цензор
               вычеркнул.</note></p>
         </sp>
         <stage>Прислуга поспешно уходит.</stage>
@@ -2070,19 +2066,16 @@
             Это значит осторожность! Это значит совесть не чиста… А должен быть человек самый
             безнравственный!.. Я, право, не понимаю даже, как дирекция могла допустить такую
               пьесу?<note place="foot">Цензор вычеркнул слова: «как дирекция могла допустить» и
-              написал: «как можно было выбрать»</note> Это очевидная пасквиль!..<note place="foot"
-              >Слова: «Это очевидная пасквиль» — вычеркнуты цензором.</note> Я, по крайней мере, тем
+              написал: «как можно было выбрать»</note> Это очевидная пасквиль!..<note place="foot">Слова: «Это очевидная пасквиль» — вычеркнуты цензором.</note> Я, по крайней мере, тем
             доволен, что, с своей стороны, не позволил себе никакой неприличности, несмотря на все
             старания автора! Уж чего мне суфлер ни подсказывал?.. То есть, если б я хоть раз
             повторил громко, что он мне говорил, все бы из театра вышли вон! Но я, назло ему,
             говорил все противное. Он мне шепчет одно, а я говорю другое. И прочие актеры тоже
             совсем другое говорили; от этого и пьеса вышла немного лучше. А то нельзя было б играть!
-            Такой, право, нехороший сюжет!.. Уж будто нельзя было выбрать другого?<note place="foot"
-              >Вместо слов: «выбрать другого» — цензор написал «придумать что-либо получше».</note>
+            Такой, право, нехороший сюжет!.. Уж будто нельзя было выбрать другого?<note place="foot">Вместо слов: «выбрать другого» — цензор написал «придумать что-либо получше».</note>
             Например: что вот там один молодой человек любит одну девицу… их родители соглашаются на
             брак; и в то время, как молодые идут по коридору, из чулана выходит тень прабабушки и
-            мимоходом их благословляет! Или вот что намедни случилось, после венгерской войны<note
-              place="foot">Слова: «после венгерской войны» — цензор вычеркнул.</note>: что один
+            мимоходом их благословляет! Или вот что намедни случилось, после венгерской войны<note place="foot">Слова: «после венгерской войны» — цензор вычеркнул.</note>: что один
             офицер, будучи обручен с одною девицей, отправился с отрядом одного очень хорошего
             генерала и был ранен пулею в нос; потом пуля заросла; и, когда кончилась война, он
             возвратился в Вышний Волочок<note place="foot">Название города: «Вышний Волочок» —

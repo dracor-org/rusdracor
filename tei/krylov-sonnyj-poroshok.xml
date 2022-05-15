@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,13 +31,11 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19221273</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Wikisource</name>
-          <idno type="URL"
-            >https://ru.wikisource.org/wiki/Сонный_порошок_или_похищенная_крестьянка_(Крылов)</idno>
+          <idno type="URL">https://ru.wikisource.org/wiki/Сонный_порошок_или_похищенная_крестьянка_(Крылов)</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>
@@ -48,16 +46,6 @@
             <title>Крылов И. А. Полное собрание сочинений: в 3 томах / Редакция текста и примечания
               Н. Л. Бродского. — М.: Государственное издательство художественной литературы, 1946. —
               Т. II. [Драматургия]. — С. 689—743.</title>
-            <date type="print" when="1905">«Известия Отделения русского языка и словесности Академии
-              Наук», 1905 (Source: Бродский Н.Л. Комментарии: И. А. Крылов. Переводы. Сонный порошок
-              или похищенная крестьянка // И.А. Крылов. Полное собрание сочинений. М.: Гос. изд-во
-              худож. лит., 1945—1946. Т. 2, с. 762.)</date>
-            <date type="premiere" when="1800">9 февраля 1800 года эта опера шла в Москве «в пользу
-              актера и актрисы Сандуновых» (ЛитМир - Электронная Библиотека &gt; Крылов Иван
-              Андреевич &gt; Том 2. Драматургия &gt; Стр.129)</date>
-            <date type="written" when="1798">1798 (Source: Бродский Н.Л. Комментарии: И. А. Крылов.
-              Переводы. Сонный порошок или похищенная крестьянка // И.А. Крылов. Полное собрание
-              сочинений. М.: Гос. изд-во худож. лит., 1945—1946. Т. 2, с. 762.)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -122,6 +110,27 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1905">
+        <desc>«Известия Отделения русского языка и словесности Академии
+              Наук», 1905 (Source: Бродский Н.Л. Комментарии: И. А. Крылов. Переводы. Сонный порошок
+              или похищенная крестьянка // И.А. Крылов. Полное собрание сочинений. М.: Гос. изд-во
+              худож. лит., 1945—1946. Т. 2, с. 762.)</desc>
+      </event>
+      <event type="premiere" when="1800">
+        <desc>9 февраля 1800 года эта опера шла в Москве «в пользу
+              актера и актрисы Сандуновых» (ЛитМир - Электронная Библиотека &gt; Крылов Иван
+              Андреевич &gt; Том 2. Драматургия &gt; Стр.129)</desc>
+      </event>
+      <event type="written" when="1798">
+        <desc>1798 (Source: Бродский Н.Л. Комментарии: И. А. Крылов.
+              Переводы. Сонный порошок или похищенная крестьянка // И.А. Крылов. Полное собрание
+              сочинений. М.: Гос. изд-во худож. лит., 1945—1946. Т. 2, с. 762.)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19221273"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

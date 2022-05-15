@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q16686899</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собр. соч. в 10 т. Т.6, М.: Голос, 1999.</title>
-            <date type="print" when="1965">"Дата первой публикации: 1965" (ru.wikipedia.org)</date>
-            <date type="premiere"/>
-            <date type="written" when="1932">"В начале осени 1932 года Булгаков, по предложению Ю.
-              А. Завадского, руководителя Государственного театра, приступает к переводу и адаптации
-              пьесы «Мещанин по дворянстве» Мольера. Уже в ноябре 1932 года работа была закончена."
-              (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -161,6 +154,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1965">
+        <desc>"Дата первой публикации: 1965" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1932">
+        <desc>"В начале осени 1932 года Булгаков, по предложению Ю.
+              А. Завадского, руководителя Государственного театра, приступает к переводу и адаптации
+              пьесы «Мещанин по дворянстве» Мольера. Уже в ноябре 1932 года работа была закончена."
+              (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q16686899"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -3398,8 +3405,7 @@
               <stage>(Срывает чалму с Учителя танцев.)</stage> Учитель танцев! Что происходит
             здесь?! Не верю ничему! Не верю никому! </p>
         </sp>
-        <sp
-          who="#brendavuan #kovel #uchitel_tantsev #dorant #kleont #dorimena #ljusil #notarius #nikol #gospozha_zhurden #pankrass #uchitel_fehtovanija #uchitel_muzyki">
+        <sp who="#brendavuan #kovel #uchitel_tantsev #dorant #kleont #dorimena #ljusil #notarius #nikol #gospozha_zhurden #pankrass #uchitel_fehtovanija #uchitel_muzyki">
           <speaker>Учителя. Актеры.</speaker>
           <stage>(хором).</stage>
           <p>Поздравляем вас, господин Журден, и желаем счастья молодым!</p>
@@ -3421,8 +3427,7 @@
             жена! <stage>(Срывает женский наряд с госпожи Журден.)</stage> Конечно, нет, это Юбер! Я
             действительно, кажется, схожу с ума! Держите меня! </p>
         </sp>
-        <sp
-          who="#brendavuan #kovel #uchitel_tantsev #dorant #kleont #dorimena #ljusil #notarius #nikol #gospozha_zhurden #pankrass #uchitel_fehtovanija #uchitel_muzyki">
+        <sp who="#brendavuan #kovel #uchitel_tantsev #dorant #kleont #dorimena #ljusil #notarius #nikol #gospozha_zhurden #pankrass #uchitel_fehtovanija #uchitel_muzyki">
           <speaker>Все.</speaker>
           <p>Успокойтесь, господин Журден.</p>
         </sp>

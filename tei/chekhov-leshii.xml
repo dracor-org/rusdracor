@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q129936</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,14 +42,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 12.
               М., "Наука", 1986.</title>
-            <date type="print" when="1890">"Впервые опубликовано в отдельном литографированном
-              издании: Леший. Комедия в 4-х действиях А. П. Чехова. — М.: Литография комиссионера
-              Общества русских драматических писателей С. Ф. Рассохина (цензурное разрешение 1 мая
-              1890 года; вышло в свет с 16 по 23 августа 1890 года; напечатано 110 экземпляров)."
-              (Wikipedia)</date>
-            <date type="premiere" when="1889">"В 1889 году впервые поставлена в Москве частным
-              театром Абрамовой." (Wikipedia)</date>
-            <date type="written" when="1889">"Написана в 1889 году." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -151,6 +142,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1890">
+        <desc>"Впервые опубликовано в отдельном литографированном
+              издании: Леший. Комедия в 4-х действиях А. П. Чехова. — М.: Литография комиссионера
+              Общества русских драматических писателей С. Ф. Рассохина (цензурное разрешение 1 мая
+              1890 года; вышло в свет с 16 по 23 августа 1890 года; напечатано 110 экземпляров)."
+              (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1889">
+        <desc>"В 1889 году впервые поставлена в Москве частным
+              театром Абрамовой." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1889">
+        <desc>"Написана в 1889 году." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q129936"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

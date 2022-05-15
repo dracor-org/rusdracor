@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19177465</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,10 +40,6 @@
           <bibl type="originalSource">
             <title>Александр Блок. Собрание сочинений в шести томах. Том четвертый. Драматические
               произведения. М., "Правда", 1971</title>
-            <date type="print" when="1907">в апреле 1907 напечатана в №4 московского журнала
-              "Золотое Руно" (teatr-lib.ru/Library/Volkov/Blok/)</date>
-            <date type="premiere"/>
-            <date type="written" when="1906">летом 1906 (teatr-lib.ru/Library/Volkov/Blok/)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -193,6 +188,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1907">
+        <desc>в апреле 1907 напечатана в №4 московского журнала
+              "Золотое Руно" (teatr-lib.ru/Library/Volkov/Blok/)</desc>
+      </event>
+      <event type="written" when="1906">
+        <desc>летом 1906 (teatr-lib.ru/Library/Volkov/Blok/)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19177465"/>
+  </standOff>
   <text>
     <front>
       <div type="front">

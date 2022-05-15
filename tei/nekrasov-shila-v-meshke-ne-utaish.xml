@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63952025</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,12 +43,6 @@
             <title>Н.А. Некрасов. Полное собрание сочинений и писем в пятнадцати томах
               Художественные произведения. Тома 1-10 Том шестой. Драматические произведения
               1840-1859 гг. Л., "Наука", 1983</title>
-            <date type="print" when="1841">"Впервые опубликовано: Репертуар русского театра, 1841,
-              т. I, No 4, с. 1--20, с подписью 'Н. Перепельский'." (lib.ru)</date>
-            <date type="premiere" when="1841">"Водевиль был впервые поставлен на сцене
-              Александрийского театра 24 апреля 1841 г. в бенефис А. М. Максимова (Максимова 1-го)."
-              (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -94,6 +87,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1841">
+        <desc>"Впервые опубликовано: Репертуар русского театра, 1841,
+              т. I, No 4, с. 1--20, с подписью 'Н. Перепельский'." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1841">
+        <desc>"Водевиль был впервые поставлен на сцене
+              Александрийского театра 24 апреля 1841 г. в бенефис А. М. Максимова (Максимова 1-го)."
+              (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63952025"/>
+  </standOff>
   <text>
     <pb n="217"/>
     <front>
@@ -572,8 +579,7 @@
             </lg>
             <stage>(Ходит по комнате и рассуждает про себя.)</stage>
             <p>Надо мне поселиться на Невском или хоть около того... в Грязной... вывеску большую
-              заказать... да непременно... Да вот как бы свадьбу уладить прежде. Тут бы <pb n="225"
-              /> можно и товару прикупить. <stage>(Оборачивается и видит, что Розина смотрит в
+              заказать... да непременно... Да вот как бы свадьбу уладить прежде. Тут бы <pb n="225"/> можно и товару прикупить. <stage>(Оборачивается и видит, что Розина смотрит в
                 окно.)</stage> Племянница! я сказал -- ни в окно, ни около того не смотреть!</p>
           </sp>
           <sp who="#rosina">

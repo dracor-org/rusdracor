@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4089062</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>Москва, Государственное изд-во Художественной Литературы, 1960, Собрание
               сочинений в десяти томах, т. 7</title>
-            <date type="print" when="1876">"Впервые опубликовано во втором номере «Отечественных
-              записок» за 1876 год (вышел 22 февраля 1876 года)." (ru.wikipedia.org)</date>
-            <date type="premiere" when="1875">"«Богатые невесты» (премьера 28 ноября 1875 г.)"
-              (books.google.com)</date>
-            <date type="written" when="1875">"Написана в 1875 году." (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -91,6 +85,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1876">
+        <desc>"Впервые опубликовано во втором номере «Отечественных
+              записок» за 1876 год (вышел 22 февраля 1876 года)." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1875">
+        <desc>"«Богатые невесты» (премьера 28 ноября 1875 г.)"
+              (books.google.com)</desc>
+      </event>
+      <event type="written" when="1875">
+        <desc>"Написана в 1875 году." (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4089062"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

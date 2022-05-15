@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58875639</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,11 +40,6 @@
           <bibl type="originalSource">
             <title>В.И. Майков. Избранные произведения. М.; Л.: Советский писатель, 1966. С.
               383—433. (Библиотека поэта; Второе издание).</title>
-            <date type="print" when="1775">"Отдельное издание, М., 1775, с указанием имен актеров:
-              Магомет — Дмитревский, Иеронима — Троепольская, Фемист — Попов, Клит — Бахтурин, Осман
-              — Лапин." (rvb.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1773">"Написано Майковым в 1773 г." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -90,6 +84,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1775">
+        <desc>"Отдельное издание, М., 1775, с указанием имен актеров:
+              Магомет — Дмитревский, Иеронима — Троепольская, Фемист — Попов, Клит — Бахтурин, Осман
+              — Лапин." (rvb.ru)</desc>
+      </event>
+      <event type="written" when="1773">
+        <desc>"Написано Майковым в 1773 г." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58875639"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

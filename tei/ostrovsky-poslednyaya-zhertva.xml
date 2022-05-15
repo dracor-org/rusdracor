@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4373851</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,13 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Москва, ГИХЛ, 1960, Собрание сочинений в десяти томах, т. 7</title>
-            <date type="print" when="1878">"По просьбе Михаила Салтыкова-Щедрина драматург отдал
-              «Последнюю жертву» в журнал «Отечественные записки»; комедия была впервые опубликована
-              в январском номере за 1878 год. " (ru.wikipedia.org)</date>
-            <date type="premiere" when="1877">"Премьера состоялась 8 ноября 1877 года в Малом
-              театре, в бенефис артиста Музиля. В качестве режиссёра выступил сам Островский."
-              (ru.wikipedia.org)</date>
-            <date type="written" when="1877">"1877" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -161,6 +153,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1878">
+        <desc>"По просьбе Михаила Салтыкова-Щедрина драматург отдал
+              «Последнюю жертву» в журнал «Отечественные записки»; комедия была впервые опубликована
+              в январском номере за 1878 год. " (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1877">
+        <desc>"Премьера состоялась 8 ноября 1877 года в Малом
+              театре, в бенефис артиста Музиля. В качестве режиссёра выступил сам Островский."
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1877">
+        <desc>"1877" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4373851"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>

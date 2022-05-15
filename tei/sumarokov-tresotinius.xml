@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q66361268</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,14 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. П. Сумароков. Драматические произведения. Л., "Искусство", 1990</title>
-            <date type="print" when="1750">"Впервые, по сведениям П. Рулина (см.: Изв. Отд. рус. яз.
-              и словесн., 1923, т. XXVIII. Л., 1924, с. 14), опубликована отдельным изданием в 1750
-              г.; текст этого издания не сохранился." (lib.ru)</date>
-            <date type="premiere" when="1750">"Уже вскоре после первой постановки на сцене,
-              состоявшейся, по всей вероятности, в феврале 1750 г., комедия подверглась
-              переработке." (lib.ru)</date>
-            <date type="written" when="1750">"Зачата 12 генваря 1750, окончена генваря 13 1750. С.
-              Петербург." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -110,6 +101,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1750">
+        <desc>"Впервые, по сведениям П. Рулина (см.: Изв. Отд. рус. яз.
+              и словесн., 1923, т. XXVIII. Л., 1924, с. 14), опубликована отдельным изданием в 1750
+              г.; текст этого издания не сохранился." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1750">
+        <desc>"Уже вскоре после первой постановки на сцене,
+              состоявшейся, по всей вероятности, в феврале 1750 г., комедия подверглась
+              переработке." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1750">
+        <desc>"Зачата 12 генваря 1750, окончена генваря 13 1750. С.
+              Петербург." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q66361268"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

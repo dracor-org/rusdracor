@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q377536</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>В. В. Маяковский. Полное собрание сочинений: В 13-ти тт. Т. 11. М.: Гослитиздат,
               1958.</title>
-            <date type="print" when="1929">"Пьеса впервые опубликована в журнале «Молодая гвардия»
-              (1929, № 3 и 4)." (Wikipedia)</date>
-            <date type="premiere" when="1929">"Премьера спектакля «Клоп» состоялась в
-              Государственном театре имени Мейерхольда 13 февраля 1929 года." (Wikipedia)</date>
-            <date type="written" when="1928">"написанная осенью 1928 года" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -466,6 +460,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1929">
+        <desc>"Пьеса впервые опубликована в журнале «Молодая гвардия»
+              (1929, № 3 и 4)." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1929">
+        <desc>"Премьера спектакля «Клоп» состоялась в
+              Государственном театре имени Мейерхольда 13 февраля 1929 года." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1928">
+        <desc>"написанная осенью 1928 года" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q377536"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

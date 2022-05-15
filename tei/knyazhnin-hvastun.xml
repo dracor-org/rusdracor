@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59360450</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>Я.Б. Княжнин. Хвастун // Княжнин Я.Б. Избранные произведения. Л.: Советский
               писатель, 1961. С. 305–427. (Библиотека поэта; Большая серия).</title>
-            <date type="print" when="1786">"Впервые — отдельное издание, СПб., 1786."
-              (rvb.ru)</date>
-            <date type="premiere" when="1785">"Таким образом, датой написания и первых представлений
-              «Хвастуна» был не 1786 г., а 1785 или, может быть, даже 1784." (rvb.ru)</date>
-            <date type="written" notBefore="1784" notAfter="1785">"1784 или 1785" (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -111,6 +105,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1786">
+        <desc>"Впервые — отдельное издание, СПб., 1786."
+              (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1785">
+        <desc>"Таким образом, датой написания и первых представлений
+              «Хвастуна» был не 1786 г., а 1785 или, может быть, даже 1784." (rvb.ru)</desc>
+      </event>
+      <event type="written" notBefore="1784" notAfter="1785">
+        <desc>"1784 или 1785" (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59360450"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

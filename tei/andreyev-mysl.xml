@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59355429</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Леонид Андреев. Пьесы М., "Советский писатель", 1981</title>
-            <date type="print" when="1914">"Впервые опубликовано отдельной книгой (без указания
-              издательства), СПб, 1914." (lib.ru)</date>
-            <date type="premiere" when="1914">"Премьера "Мысли" в постановке Вл. И.
-              Немировича-Данченко состоялась в марте 1914 г." (lib.ru)</date>
-            <date type="written" when="1913">"Андреев задумал драму 'Мысль' -- по мотивам своего
-              раннего одноименного рассказа -- в конце октября 1913 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -120,6 +113,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1914">
+        <desc>"Впервые опубликовано отдельной книгой (без указания
+              издательства), СПб, 1914." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1914">
+        <desc>"Премьера "Мысли" в постановке Вл. И.
+              Немировича-Данченко состоялась в марте 1914 г." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1913">
+        <desc>"Андреев задумал драму 'Мысль' -- по мотивам своего
+              раннего одноименного рассказа -- в конце октября 1913 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59355429"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

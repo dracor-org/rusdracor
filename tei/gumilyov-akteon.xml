@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19127855</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,9 +42,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собрание сочинений в четырех томах (https://gumilev.ru/biblio/31/)</title>
-            <date type="print" when="1913">1913 («Гиперборей», 1913, № 7)</date>
-            <date type="premiere"/>
-            <date type="written" when="1913">1913</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -101,8 +97,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#kadm" passive="#akteon"/>
             <relation name="associated_with" active="#krokale #ranis #hiale" passive="#diana"/>
-            <relation name="associated_with"
-              active="#pervyj_junosha #vtoroj_junosha #tretij_junosha" passive="#akteon"/>
+            <relation name="associated_with" active="#pervyj_junosha #vtoroj_junosha #tretij_junosha" passive="#akteon"/>
             <relation name="associated_with" active="#ehion" passive="#kadm"/>
             <relation name="spouses" mutual="#agava #ehion"/>
             <relation name="friends" mutual="#ehion #kadm"/>
@@ -125,6 +120,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1913">
+        <desc>1913 («Гиперборей», 1913, № 7)</desc>
+      </event>
+      <event type="written" when="1913">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19127855"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

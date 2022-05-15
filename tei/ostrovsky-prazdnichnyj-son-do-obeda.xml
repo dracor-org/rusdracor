@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4376382</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Москва, Изд-во "Книжная палата", 2001</title>
-            <date type="print"/>
-            <date type="premiere" when="1857">"Первая постановка пьесы состоялась 28 октября 1857
-              года на сцене Александринского театра." (ru.wikipedia.org)</date>
-            <date type="written" when="1857">"Написана в январе 1857 года: 6 января Александр
-              Островский её задумал, 8 января — начал, 18 января — закончил."
-              (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -118,6 +111,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1857">
+        <desc>"Первая постановка пьесы состоялась 28 октября 1857
+              года на сцене Александринского театра." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1857">
+        <desc>"Написана в январе 1857 года: 6 января Александр
+              Островский её задумал, 8 января — начал, 18 января — закончил."
+              (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4376382"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

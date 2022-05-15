@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59106651</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,10 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>М., Правда, 1990</title>
-            <date type="print" when="1940">"Впервые 'Рембрандт' был опубликован в трех номерах
-              журнала 'Октябрь' за 1940 год." (lib.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1938">"Июнь-сентябрь 1938" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -178,8 +173,7 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="lover_of" active="#magdalina_van_loo" passive="#rembrandt"/>
-            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink"
-              passive="#rembrandt"/>
+            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink" passive="#rembrandt"/>
             <relation name="related_with" active="#doktor_tyulp" passive="#siks"/>
             <relation name="spouses" mutual="#rembrandt #saskiya"/>
           </listRelation>
@@ -197,6 +191,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1940">
+        <desc>"Впервые 'Рембрандт' был опубликован в трех номерах
+              журнала 'Октябрь' за 1940 год." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1938">
+        <desc>"Июнь-сентябрь 1938" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59106651"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2065,8 +2071,7 @@
       <div type="act">
         <head>Картина третья</head>
         <head>"НОЧНОЙ ДОЗОР"</head>
-        <stage>Комната первой картины. Посреди на мольберте картина "Ночной дозор"<note place="foot"
-            >Групповой портрет офицеров корпорации стрелков. На нем среди беспорядочной толпы
+        <stage>Комната первой картины. Посреди на мольберте картина "Ночной дозор"<note place="foot">Групповой портрет офицеров корпорации стрелков. На нем среди беспорядочной толпы
             стрелков изображена карлица.}</note>, Рембрандт кладет на нее последние мазки. Флинк
           смотрит.</stage>
         <div type="scene">

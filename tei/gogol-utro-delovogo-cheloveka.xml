@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4478991</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,10 +40,6 @@
           <bibl type="originalSource">
             <title>Н. В. Гоголь. Собрание сочинений в 9 т. Т. 4 Повести. М.: Русская книга,
               1994.</title>
-            <date type="print" when="1836">"Напечатана в журнале Александра Пушкина «Современник» в
-              1836 году (т. I.) с подзаголовком «Петербургские сцены»." (Wikipedia)</date>
-            <date type="premiere"/>
-            <date type="written" when="1836">"1836 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -88,6 +83,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1836">
+        <desc>"Напечатана в журнале Александра Пушкина «Современник» в
+              1836 году (т. I.) с подзаголовком «Петербургские сцены»." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1836">
+        <desc>"1836 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4478991"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

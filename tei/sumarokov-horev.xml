@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19126019</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -46,11 +45,6 @@
           <bibl type="originalSource">
             <title>А.П.Сумароков. Избранные произведения. Л.: Советский писатель, 1957. С.
               317—364.</title>
-            <date type="print" when="1747">1747 (Впервые — отдельным изданием под тем же
-              заглавием)</date>
-            <date type="premiere" when="1750">В начале 1750 года в Императорском театре в
-              Санкт-Петербурге</date>
-            <date type="written" when="1747">1747?</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -121,6 +115,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1747">
+        <desc>1747 (Впервые — отдельным изданием под тем же
+              заглавием)</desc>
+      </event>
+      <event type="premiere" when="1750">
+        <desc>В начале 1750 года в Императорском театре в
+              Санкт-Петербурге</desc>
+      </event>
+      <event type="written" when="1747">
+        <label>1747?</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19126019"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

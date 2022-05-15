@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q650063</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 13.
               М., "Наука", 1986.</title>
-            <date type="print" when="1896">"впервые опубликованная в журнале «Русская мысль», в № 12
-              за 1896 год" (Wikipedia)</date>
-            <date type="premiere" when="1896">Премьера состоялась 17 октября 1896 года на сцене
-              петербургского Александринского театра. (Wikipedia)</date>
-            <date type="written" when="1895">"1895 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -143,6 +137,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1896">
+        <desc>"впервые опубликованная в журнале «Русская мысль», в № 12
+              за 1896 год" (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1896">
+        <desc>Премьера состоялась 17 октября 1896 года на сцене
+              петербургского Александринского театра. (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1895">
+        <desc>"1895 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q650063"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

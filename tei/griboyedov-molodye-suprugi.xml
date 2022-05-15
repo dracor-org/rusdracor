@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63719167</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,13 +42,6 @@
           <bibl type="originalSource">
             <title>А.С. Грибоедов. Сочинения. ГИХЛ, М.-Л., 1959 Подготовка текста, предисловии и
               комментарии Вл. Орлова</title>
-            <date type="print" when="1815">"Печатается по тексту первого издания (СПБ., 1815,
-              цензурное разрешение - 18 июня 1815 г.)." (lib.ru)</date>
-            <date type="premiere" when="1815">"В первый раз "Молодые супруги" были представлены в
-              Петербурге 29 сентября 1815 г. (при участии Е. С. Семеновой, И. И. Сосницкого и Я. Г.
-              Брянского); в Московском театре первое представление состоялось 4 июня 1816 г."
-              (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -81,6 +73,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1815">
+        <desc>"Печатается по тексту первого издания (СПБ., 1815,
+              цензурное разрешение - 18 июня 1815 г.)." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1815">
+        <desc>"В первый раз "Молодые супруги" были представлены в
+              Петербурге 29 сентября 1815 г. (при участии Е. С. Семеновой, И. И. Сосницкого и Я. Г.
+              Брянского); в Московском театре первое представление состоялось 4 июня 1816 г."
+              (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63719167"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. С. Грибоедов</docAuthor>

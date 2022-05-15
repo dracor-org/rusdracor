@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4315424</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,12 +43,6 @@
             <title>А. Н. Островский. Полное собрание сочинений. Том IX. Пьесы 1882-1885. М., ГИХЛ,
               1951. Составитель тома В. А. Филиппов. Подготовка текста пьесы и комментарии к ней Р.
               П. Моториной.</title>
-            <date type="print" when="1885">"Впервые опубликован в журнале «Русская мысль», 1885, No
-              2." (ru.wikipedia.org)</date>
-            <date type="premiere" when="1885">"Премьера пьесы состоялась 9 января 1885 года в
-              Петербурге на сцене Александринского театра в бенефис П. А. Стрепетовой."
-              (ru.wikipedia.org)</date>
-            <date type="written" when="1884">"20 декабря 1884 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -101,6 +94,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1885">
+        <desc>"Впервые опубликован в журнале «Русская мысль», 1885, No
+              2." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1885">
+        <desc>"Премьера пьесы состоялась 9 января 1885 года в
+              Петербурге на сцене Александринского театра в бенефис П. А. Стрепетовой."
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1884">
+        <desc>"20 декабря 1884 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4315424"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

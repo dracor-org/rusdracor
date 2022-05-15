@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4086090</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -40,12 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>??? (lib.ru)</title>
-            <date type="print" when="1870">"Напечатана в журнале «Отечественные записки», № 2, 1870
-              г." (ru.wikipedia.org)</date>
-            <date type="premiere" when="1870">"Премьера состоялась 16 апреля 1870 года в
-              Александринском театре; в московском Малом театре — 6 октября того же года. "
-              (ru.wikipedia.org)</date>
-            <date type="written" when="1869">"1869" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,6 +102,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1870">
+        <desc>"Напечатана в журнале «Отечественные записки», № 2, 1870
+              г." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1870">
+        <desc>"Премьера состоялась 16 апреля 1870 года в
+              Александринском театре; в московском Малом театре — 6 октября того же года. "
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1869">
+        <desc>"1869" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4086090"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -4886,8 +4896,7 @@
           <sp who="#kuchumov">
             <speaker>Кучумов</speaker>
             <stage>(грозя пальцем).</stage>
-            <p>Но, но, но, господа! Я по правам старой дружбы... Ноnni soit qui mal y pense!<note
-                place="foot">Да будет стыдно тому, кто плохо об этом думает!</note></p>
+            <p>Но, но, но, господа! Я по правам старой дружбы... Ноnni soit qui mal y pense!<note place="foot">Да будет стыдно тому, кто плохо об этом думает!</note></p>
           </sp>
           <sp who="#vasilkov">
             <speaker>Васильков</speaker>

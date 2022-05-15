@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q7641201</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Бабель И. Избранное. Фрунзе, Адабият, 1989. С.415-450.</title>
-            <date type="print" when="1928">"Пьеса «Закат» была впервые опубликована в журнале «Новый
-              мир», 1928, № 2, февраль, с.5-35." (Wikilivres)</date>
-            <date type="premiere" when="1927">"В 1927 году «Закат» был поставлен двумя театрами в
-              Одессе — русским и украинским,[…]" (Wikipedia)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -243,8 +237,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#mendel #nekhama" passive="#benya #lyovka #dvoyra"/>
             <relation name="parent_of" active="#potapovna" passive="#marusya"/>
-            <relation name="associated_with" active="#nikifor"
-              passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
+            <relation name="associated_with" active="#nikifor" passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
             <relation name="spouses" mutual="#madam_popyatnik #mayor"/>
             <relation name="spouses" mutual="#mendel #nekhama"/>
             <relation name="friends" mutual="#pyatirubel #mendel"/>
@@ -263,6 +256,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1928">
+        <desc>"Пьеса «Закат» была впервые опубликована в журнале «Новый
+              мир», 1928, № 2, февраль, с.5-35." (Wikilivres)</desc>
+      </event>
+      <event type="premiere" when="1927">
+        <desc>"В 1927 году «Закат» был поставлен двумя театрами в
+              Одессе — русским и украинским,[…]" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q7641201"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -323,8 +329,7 @@
           празднике, вывязывает перед зеркалом галстук.</stage>
         <sp who="#arie_leib">
           <speaker>Арье-Лейб.</speaker>
-          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot"
-              >Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
+          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot">Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
             Сначала рубят лозу, потом рубят человека... Матери в нашей жизни роли не играют... Но
             объясни мне, Лёвка, почему такому гусару, как ты, нельзя опоздать из отпуска на неделю,
             пока твоя сестра не сделает своего счастья?</p>

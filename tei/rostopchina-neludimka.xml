@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q61711183</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -40,11 +39,7 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <date type="print" when="1850"/>
-            <date type="premiere"/>
-            <date type="written" when="1849"/>
-          </bibl>
+          <bibl type="originalSource"></bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -120,6 +115,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1850">
+        <label/>
+      </event>
+      <event type="written" when="1849">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q61711183"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1883,8 +1889,7 @@
           </sp>
           <sp who="#mina">
             <speaker>Мина</speaker>
-            <p>Неправда! Я знаю, когда счета была кончен, я был у gnädige Frau<note place="foot"
-                >милостивой госпожи (нем.).</note>, когда ваша папинька принес счета; а я говорю про
+            <p>Неправда! Я знаю, когда счета была кончен, я был у gnädige Frau<note place="foot">милостивой госпожи (нем.).</note>, когда ваша папинька принес счета; а я говорю про
               другое время, когда im Comptoir все было заперто.</p>
           </sp>
           <sp who="#gotlib">

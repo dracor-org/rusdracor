@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q65681377</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,11 +44,6 @@
             <title>Я.Б. Княжнин. Комедии. Неудачный или Без обеду домой поеду // Княжнин Я.Б.
               Комедии и комические оперы. СПб.: Гиперион, 2003. С. 127–167. (Российская
               драматическая библиотека. Кн.3).</title>
-            <date type="print" when="1787">"Впервые: Собр. соч. Т. 3. СПб., 1787." (rvb.ru)</date>
-            <date type="premiere" when="1790">"Впервые поставлена, видимо, в Харькове в середине
-              августа 1790 г. (во время Успенской ярмарки) силами учащихся местной гимназии под
-              руководством актера И. Москвичева (все роли исполняли мужчины)." (rvb.ru)</date>
-            <date type="written">"Точное время создания неизвестно." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -97,6 +91,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1787">
+        <desc>"Впервые: Собр. соч. Т. 3. СПб., 1787." (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1790">
+        <desc>"Впервые поставлена, видимо, в Харькове в середине
+              августа 1790 г. (во время Успенской ярмарки) силами учащихся местной гимназии под
+              руководством актера И. Москвичева (все роли исполняли мужчины)." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q65681377"/>
+  </standOff>
   <text>
     <pb n="127"/>
     <front>
@@ -2860,8 +2867,7 @@
           <sp who="#gospodin_kuterma">
             <speaker>Г. Кутерьма.</speaker>
             <p>Что ж от этого радости? и я ее люблю, но любовь наша хуже иной ненависти. Сварливый
-              ее нрав принуждает меня часто даже завидовать таким супружествам, в которых <pb
-                n="161"/> муж и жена, друг друга меньше любя, или совсем не любя, оставляют один
+              ее нрав принуждает меня часто даже завидовать таким супружествам, в которых <pb n="161"/> муж и жена, друг друга меньше любя, или совсем не любя, оставляют один
               другого в покое.</p>
           </sp>
           <sp who="#mirotvor">

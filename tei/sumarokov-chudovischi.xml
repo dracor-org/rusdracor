@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q66361387</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,14 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. П. Сумароков. Драматические произведения. Л., "Искусство", 1990</title>
-            <date type="print" when="1787">"Впервые -- ПСВС (ч. V, с. 277-332; 2-е изд. М., 1787, с.
-              249-296)." (lib.ru)</date>
-            <date type="premiere" when="1750">"Представлена впервые вместе с трагедией 'Синав и
-              Трувор' 21 июля 1750 г. на сцене комедиантского дома в Петергофе силами любительской
-              труппы Придворного кадетского театра в присутствии императрицы Елизаветы Петровны
-              (Камер-фурьерский журнал за 1750 год, с. 78)." (lib.ru)</date>
-            <date type="written" when="1750">"Сия комедия сочинена в июне месяце 1750 года, на
-              Приморском дворе." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -111,6 +102,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1787">
+        <desc>"Впервые -- ПСВС (ч. V, с. 277-332; 2-е изд. М., 1787, с.
+              249-296)." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1750">
+        <desc>"Представлена впервые вместе с трагедией 'Синав и
+              Трувор' 21 июля 1750 г. на сцене комедиантского дома в Петергофе силами любительской
+              труппы Придворного кадетского театра в присутствии императрицы Елизаветы Петровны
+              (Камер-фурьерский журнал за 1750 год, с. 78)." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1750">
+        <desc>"Сия комедия сочинена в июне месяце 1750 года, на
+              Приморском дворе." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q66361387"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -394,8 +404,7 @@
           </sp>
           <sp who="#djulizh">
             <speaker>Дюлиж.</speaker>
-            <p>Что? вы думаете, что я говорю по-немецки. Quelle pensee! Quelle impertinence!<note
-                place="foot">Что за мысль! Что за наглость! (франц.).</note> Чтоб я этим языком
+            <p>Что? вы думаете, что я говорю по-немецки. Quelle pensee! Quelle impertinence!<note place="foot">Что за мысль! Что за наглость! (франц.).</note> Чтоб я этим языком
               говорить стал!</p>
           </sp>
           <sp who="#barmas">

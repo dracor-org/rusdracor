@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19220102</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -46,11 +45,6 @@
           <bibl type="originalSource">
             <title>А. В. Сухово-Кобылин. Смерть Тарелкина. Комедия-шутка в трех действиях. — М.:
               Художественная литература, 1974.</title>
-            <date type="print" when="1869"/>
-            <date type="premiere" when="1900">"Скажем, когда в 1900 году впервые шла «Смерть
-              Тарелкина», многие удивлялись, что её автор до сих пор в полном здравии! То же
-              повторилось и в 1902 г. Когда его избрали почётным академиком." (echo.msk.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -201,6 +195,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1869">
+        <label/>
+      </event>
+      <event type="premiere" when="1900">
+        <desc>"Скажем, когда в 1900 году впервые шла «Смерть
+              Тарелкина», многие удивлялись, что её автор до сих пор в полном здравии! То же
+              повторилось и в 1902 г. Когда его избрали почётным академиком." (echo.msk.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19220102"/>
+  </standOff>
   <text>
     <front>
       <div type="front">

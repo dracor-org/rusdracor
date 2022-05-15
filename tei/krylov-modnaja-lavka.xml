@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19182204</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,9 +42,6 @@
           <bibl type="originalSource">
             <title>И.А. Крылов. Полное собрание сочинений. М.: Гос. изд-во худож. лит., 1945—1946.
               Т. 2, с. 417—488.</title>
-            <date type="print" when="1807">"Опубл.: 1807." (Wikisource)</date>
-            <date type="premiere" when="1806"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -120,6 +116,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1807">
+        <desc>"Опубл.: 1807." (Wikisource)</desc>
+      </event>
+      <event type="premiere" when="1806">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19182204"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1492,8 +1499,7 @@
           <sp who="#sumburov">
             <speaker>Сумбуров</speaker>
             <p>То-то: человек-то мне близкий! — Ну да полно, это еще не уголовная беда, и поправить
-              будет можно! Сшалил, — вперед наука! Кто бабе не внук? Дело-то зашло далеко; <pb
-                n="446"/> ну да это в сторону.— <stage>(К Маше.)</stage> Послушай-ко, ты, мне
+              будет можно! Сшалил, — вперед наука! Кто бабе не внук? Дело-то зашло далеко; <pb n="446"/> ну да это в сторону.— <stage>(К Маше.)</stage> Послушай-ко, ты, мне
               кажется, девушка добрая и мне очень понравилась...</p>
           </sp>
           <sp who="#masha">

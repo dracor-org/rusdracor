@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1214669</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,17 +43,6 @@
           <bibl type="originalSource">
             <title>Л.Н. Толстой. Собрание сочинений в 22 тт. М.: Художественная литература, 1982. Т.
               11. С. 23–100.</title>
-            <date type="print" when="1887">"Впервые опубликована издательством «Посредник» в 1887
-              г." (Wikipedia)</date>
-            <date type="premiere" when="1888">"До 1895 была запрещена к постановке в России. Однако
-              11 января 1890 г. поставлена на домашней сцене в семье Приселковых в Петербурге силами
-              любителей под руководством актёра Александринского театра В. Н. Давыдова. Зрителями
-              собрались выдающиеся деятели культуры времени: актёры Александринского театра (которым
-              так и не удалось сыграть на сцене свои уже подготовленные роли), литераторы,
-              художники. К этому времени пьеса уже шла на зарубежных подмостках: в 1888 г. она была
-              показана в Свободном театре А. Антуана в Париже, в 1890 – в Свободном театре О. Брама
-              в Берлине; ставилась в театрах Италии, Швейцарии, Голландии." (Wikipedia)</date>
-            <date type="written" when="1886">"Написана в 1886 г." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -184,6 +172,28 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1887">
+        <desc>"Впервые опубликована издательством «Посредник» в 1887
+              г." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1888">
+        <desc>"До 1895 была запрещена к постановке в России. Однако
+              11 января 1890 г. поставлена на домашней сцене в семье Приселковых в Петербурге силами
+              любителей под руководством актёра Александринского театра В. Н. Давыдова. Зрителями
+              собрались выдающиеся деятели культуры времени: актёры Александринского театра (которым
+              так и не удалось сыграть на сцене свои уже подготовленные роли), литераторы,
+              художники. К этому времени пьеса уже шла на зарубежных подмостках: в 1888 г. она была
+              показана в Свободном театре А. Антуана в Париже, в 1890 – в Свободном театре О. Брама
+              в Берлине; ставилась в театрах Италии, Швейцарии, Голландии." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1886">
+        <desc>"Написана в 1886 г." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1214669"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

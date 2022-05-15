@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4206511</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,15 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собрание сочинений в десяти томах. Том 6. М., "Голос", 1999.</title>
-            <date type="print" when="1962">"В 1932 г. в Берлине вышел перевод Кабалы святош на
-              немецкий В. Грёгера. Впервые опубликована: Булгаков М. Пьесы. М.: Искусство, 1962."
-              (fantlab.ru)</date>
-            <date type="premiere" when="1936">"В марте 1932 года режиссёр Николай Горчаков приступил
-              к репетициям, но только в начале 1936 года работа над спектаклем была завершена.
-              Премьера состоялась 16 февраля 1936 года, но уже 11 февраля газета «Советское
-              искусство» поместила разносную рецензию критика О. Литовского о пьесе."
-              (Wikipedia)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -173,6 +163,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1962">
+        <desc>"В 1932 г. в Берлине вышел перевод Кабалы святош на
+              немецкий В. Грёгера. Впервые опубликована: Булгаков М. Пьесы. М.: Искусство, 1962."
+              (fantlab.ru)</desc>
+      </event>
+      <event type="premiere" when="1936">
+        <desc>"В марте 1932 года режиссёр Николай Горчаков приступил
+              к репетициям, но только в начале 1936 года работа над спектаклем была завершена.
+              Премьера состоялась 16 февраля 1936 года, но уже 11 февраля газета «Советское
+              искусство» поместила разносную рецензию критика О. Литовского о пьесе."
+              (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4206511"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

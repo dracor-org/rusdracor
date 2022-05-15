@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19223156</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,10 +40,6 @@
           <bibl type="originalSource">
             <title>А.С. Пушкин. Собрание сочинений в 10 томах. Том 4. Государственное издательство
               художественной литературы. М. 1960.</title>
-            <date type="print" when="1837">Напечатана впервые после смерти Пушкина в журнале
-              «Современник» за 1837 г., кн. V.(rvb)</date>
-            <date type="premiere"/>
-            <date type="written" when="1835">1835</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -140,6 +135,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1837">
+        <desc>Напечатана впервые после смерти Пушкина в журнале
+              «Современник» за 1837 г., кн. V.(rvb)</desc>
+      </event>
+      <event type="written" when="1835">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19223156"/>
+  </standOff>
   <text>
     <body>
       <div type="configuration">

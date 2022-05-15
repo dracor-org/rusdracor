@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q15830817</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -46,13 +45,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов Сочинения в 18 томах // Полное собрание сочинений и писем в 30 томах.
               — М.: Наука, 1978. — Т. 12. Пьесы. 1889—1891. — С. 203—220</title>
-            <date type="print" when="1892">"Впервые — в отдельном литографированном издании: Юбилей.
-              Шутка в 1-м действии А. Чехова. Литография комиссионера Общества русских драматических
-              писателей С. Ф. Рассохина. — Москва, 1892. (цензурное разрешение февраль 1892 года;
-              вышло в свет с 1 по 8 мая 1892 года; отпечатано 110 экземпляров)." (Wikisource)</date>
-            <date type="premiere" when="1900">«Юбилей» был поставлен в московском Обществе искусства
-              и литературы 28 ноября 1900 г. в программе «Чеховского вечера». (chehov.niv.ru)</date>
-            <date type="written" when="1891">"декабрь 1891" (Wikisource)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +98,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1892">
+        <desc>"Впервые — в отдельном литографированном издании: Юбилей.
+              Шутка в 1-м действии А. Чехова. Литография комиссионера Общества русских драматических
+              писателей С. Ф. Рассохина. — Москва, 1892. (цензурное разрешение февраль 1892 года;
+              вышло в свет с 1 по 8 мая 1892 года; отпечатано 110 экземпляров)." (Wikisource)</desc>
+      </event>
+      <event type="premiere" when="1900">
+        <desc>«Юбилей» был поставлен в московском Обществе искусства
+              и литературы 28 ноября 1900 г. в программе «Чеховского вечера». (chehov.niv.ru)</desc>
+      </event>
+      <event type="written" when="1891">
+        <desc>"декабрь 1891" (Wikisource)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q15830817"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19153497</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -46,10 +45,6 @@
           <bibl type="originalSource">
             <title>А.П.Сумароков. Избранные произведения. Л.: Советский писатель, 1957. С. 425—470.
               (Библиотека поэта; Второе издание).</title>
-            <date type="print" when="1771">Впервые — отдельным изданием под таким же заглавием
-              (СПб., 1771)</date>
-            <date type="premiere" when="1771">1 февраля 1771 на Императорской сцене</date>
-            <date type="written" when="1770">1770?</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -99,6 +94,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1771">
+        <desc>Впервые — отдельным изданием под таким же заглавием
+              (СПб., 1771)</desc>
+      </event>
+      <event type="premiere" when="1771">
+        <desc>1 февраля 1771 на Императорской сцене</desc>
+      </event>
+      <event type="written" when="1770">
+        <label>1770?</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19153497"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

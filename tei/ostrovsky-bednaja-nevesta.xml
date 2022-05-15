@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4080618</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,14 +42,6 @@
           <bibl type="originalSource">
             <title>А.Н.Островский. Собрание сочинений в десяти томах. Том первый. М.,
               Государственное издательство художественной литературы, 1949</title>
-            <date type="print" when="1852"> 19 февраля 1852 года было получено цензурное разрешение
-              на печатание пьесы в журнале "Москвитянин", в четвертом номере которого она и
-              появилась. (А.Н.Островский. Собрание сочинений в десяти томах. Том первый.)</date>
-            <date type="premiere" when="1853">"Бедная невеста" была в первый раз поставлена в
-              Московском Малом театре 20 августа 1853 года. (А.Н.Островский. Собрание сочинений в
-              десяти томах. Том первый.)</date>
-            <date type="written" when="1851">"1851" (А.Н.Островский. Собрание сочинений в десяти
-              томах. Том первый.)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -174,8 +165,7 @@
             <relation name="parent_of" active="#anna_petrovna" passive="#marja_andreevna"/>
             <relation name="parent_of" active="#horkova" passive="#horkov"/>
             <relation name="associated_with" active="#merich #milashin" passive="#anna_petrovna"/>
-            <relation name="associated_with" active="#darja"
-              passive="#anna_petrovna #marja_andreevna"/>
+            <relation name="associated_with" active="#darja" passive="#anna_petrovna #marja_andreevna"/>
             <relation name="associated_with" active="#malchik" passive="#dobrotvorskij"/>
           </listRelation>
         </listPerson>
@@ -194,6 +184,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1852">
+        <desc> 19 февраля 1852 года было получено цензурное разрешение
+              на печатание пьесы в журнале "Москвитянин", в четвертом номере которого она и
+              появилась. (А.Н.Островский. Собрание сочинений в десяти томах. Том первый.)</desc>
+      </event>
+      <event type="premiere" when="1853">
+        <desc>"Бедная невеста" была в первый раз поставлена в
+              Московском Малом театре 20 августа 1853 года. (А.Н.Островский. Собрание сочинений в
+              десяти томах. Том первый.)</desc>
+      </event>
+      <event type="written" when="1851">
+        <desc>"1851" (А.Н.Островский. Собрание сочинений в десяти
+              томах. Том первый.)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4080618"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

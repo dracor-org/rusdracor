@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4101840</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Москва, Изд-во "Книжная палата", 2001</title>
-            <date type="print" when="1856">"Впервые комедия была опубликована в журнале «Русский
-              вестник» в январе 1856 г." (http://museumschelykovo.ru)</date>
-            <date type="premiere" when="1856">"Пьеса впервые поставлена на сцене театра 9 января
-              1856 года в Малом театре в бенефис Прова Михайловича Садовского"
-              (ru.wikipedia.org)</date>
-            <date type="written" when="1856">"Написана в 1856 году." (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -114,6 +107,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1856">
+        <desc>"Впервые комедия была опубликована в журнале «Русский
+              вестник» в январе 1856 г." (http://museumschelykovo.ru)</desc>
+      </event>
+      <event type="premiere" when="1856">
+        <desc>"Пьеса впервые поставлена на сцене театра 9 января
+              1856 года в Малом театре в бенефис Прова Михайловича Садовского"
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1856">
+        <desc>"Написана в 1856 году." (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4101840"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

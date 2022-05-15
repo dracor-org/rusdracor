@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4179881</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title>Л.Н. Толстой. Собрание сочинений в 22 тт. М.: Художественная литература, 1982. Т.
               11. С. 274—334.</title>
-            <date type="print" when="1911">"опубликована в 1911" (http://tolstoy-lit.ru/)</date>
-            <date type="premiere" when="1911">"Премьера состоялась в Московском художественном
-              театре 23 сентября (5 октября) 1911 года." (Wikipedia)</date>
-            <date type="written" when="1900">"написанная в 1900 году" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -242,6 +237,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1911">
+        <desc>"опубликована в 1911" (http://tolstoy-lit.ru/)</desc>
+      </event>
+      <event type="premiere" when="1911">
+        <desc>"Премьера состоялась в Московском художественном
+              театре 23 сентября (5 октября) 1911 года." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1900">
+        <desc>"написанная в 1900 году" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4179881"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

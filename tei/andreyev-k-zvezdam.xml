@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19172474</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -40,10 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print"/>
-            <date type="premiere" when="1906">"Первая постановка - 21 октября 1906 г. в венском
-              Свободном театре. Режиссер – Рихард Валлентин." (lib.ru)</date>
-            <date type="written" when="1905">"1905" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,8 +104,7 @@
             <relation name="siblings" mutual="#petja #anna"/>
             <relation name="parent_of" active="#sergej_nikolaevich" passive="#petja #anna"/>
             <relation name="parent_of" active="#inna_aleksandrovna" passive="#petja #anna"/>
-            <relation name="associated_with" active="#pollak #lunts #zhitov"
-              passive="#sergej_nikolaevich"/>
+            <relation name="associated_with" active="#pollak #lunts #zhitov" passive="#sergej_nikolaevich"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -126,6 +120,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1906">
+        <desc>"Первая постановка - 21 октября 1906 г. в венском
+              Свободном театре. Режиссер – Рихард Валлентин." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1905">
+        <desc>"1905" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19172474"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

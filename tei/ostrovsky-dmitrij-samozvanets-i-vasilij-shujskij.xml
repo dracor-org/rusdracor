@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4162902</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,11 +43,6 @@
             <title>По изд. А. Н. Островский. Собрание сочинений в 10 томах. Под общ. ред. Г. И.
               Владыкина, А. И. Ревякина, В. А. Филиппова. -- М.: Гос. изд-во худ. лит-ры, 1960. --
               Том 5. -- Комментарии Н. С. Гродской.</title>
-            <date type="print" when="1867">"Впервые опубликована в журнале «Вестник Европы», 1867, №
-              1." (ru.wikipedia.org)</date>
-            <date type="premiere" when="1867">"30 января 1867, Малый театр"
-              (ru.wikipedia.org)</date>
-            <date type="written" when="1866">"1866" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -359,6 +353,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1867">
+        <desc>"Впервые опубликована в журнале «Вестник Европы», 1867, №
+              1." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1867">
+        <desc>"30 января 1867, Малый театр"
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1866">
+        <desc>"1866" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4162902"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>
@@ -797,8 +807,7 @@
             <l>Тебе нужда, а у него их двадцать,</l>
             <l>Да не чета бездельным нашим требам.</l>
           </sp>
-          <sp
-            who="#pervyj_kupets_moskovskij #vtoroj_kupets_moskovskij #konev #pervyj_krestjanin #vtoroj_krestjanin #tretij_krestjanin #kupets_novgorodskij #strannik_1-1 #pop #kalachnik #jurodivyj #melochnoj_torgovets #osipov">
+          <sp who="#pervyj_kupets_moskovskij #vtoroj_kupets_moskovskij #konev #pervyj_krestjanin #vtoroj_krestjanin #tretij_krestjanin #kupets_novgorodskij #strannik_1-1 #pop #kalachnik #jurodivyj #melochnoj_torgovets #osipov">
             <speaker>Все</speaker>
             <l>Да знамо, знамо, что и говорить! --</l>
             <l>Такие ли его дела!</l>

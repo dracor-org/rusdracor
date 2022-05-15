@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4659065</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -46,9 +45,6 @@
           <bibl type="originalSource">
             <title>Тургенев И. С. Собрание сочинений. В 12-ти томах. - М.: "Художественная
               литература", 1976-1979. Т. 10</title>
-            <date type="print" when="1851">1851</date>
-            <date type="premiere" when="1851">январь 1851 в Малом Театре</date>
-            <date type="written" when="1850">1850, опубликовано в «Отечественных записках»</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,6 +98,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1851">
+        <desc/>
+      </event>
+      <event type="premiere" when="1851">
+        <desc>январь 1851 в Малом Театре</desc>
+      </event>
+      <event type="written" when="1850">
+        <desc>1850, опубликовано в «Отечественных записках»</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4659065"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

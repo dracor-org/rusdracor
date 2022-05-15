@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19197715</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>Крылов И.А. Пирог // И.А. Крылов. Полное собрание сочинений. М.: Гос. изд-во
               худож. лит., 1945—1946. Т. 2, с. 377—416.</title>
-            <date type="print" when="1869">"Впервые была напечатана в 1869 году в Сборнике статей,
-              читанных в отделении русского языка и словесности Академии Наук, т. VI."
-              (rvb.ru)</date>
-            <date type="premiere"/>
-            <date type="written" notBefore="1799" notAfter="1801">"Написана в селе Казацком в годы
-              1799–1801." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +99,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1869">
+        <desc>"Впервые была напечатана в 1869 году в Сборнике статей,
+              читанных в отделении русского языка и словесности Академии Наук, т. VI."
+              (rvb.ru)</desc>
+      </event>
+      <event type="written" notBefore="1799" notAfter="1801">
+        <desc>"Написана в селе Казацком в годы
+              1799–1801." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19197715"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

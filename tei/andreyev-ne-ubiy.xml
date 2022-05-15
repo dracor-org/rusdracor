@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59357856</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,13 +40,6 @@
           <bibl type="originalSource">
             <title>Леонид Андреев. Собрание сочинений в шести томах. Том четвертый М.,
               "Художественная литература", 1994</title>
-            <date type="print" when="1913">"Полностью впервые -- Литературно-художественные
-              альманахи издательства 'Шиповник', кн. 22. СПб., 1913 под названием 'Каинова печать
-              (Не убий)'." (lib.ru)</date>
-            <date type="premiere" when="1913">"Андреев передает пьесу московскому театру К. Н.
-              Незлобина (премьера состоялась 20 декабря 1913 г.)." (lib.ru)</date>
-            <date type="written" when="1913">"'Не убий' Андреев писал во второй половине августа --
-              в начале сентября 1913 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -138,6 +130,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1913">
+        <desc>"Полностью впервые -- Литературно-художественные
+              альманахи издательства 'Шиповник', кн. 22. СПб., 1913 под названием 'Каинова печать
+              (Не убий)'." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1913">
+        <desc>"Андреев передает пьесу московскому театру К. Н.
+              Незлобина (премьера состоялась 20 декабря 1913 г.)." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1913">
+        <desc>"'Не убий' Андреев писал во второй половине августа --
+              в начале сентября 1913 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59357856"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

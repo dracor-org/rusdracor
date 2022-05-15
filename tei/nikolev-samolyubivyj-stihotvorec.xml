@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q48946899</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>Серия "Библиотека поэта". Большая серия. Второе издание. М.-Л., "Советский
               писатель", 1964</title>
-            <date type="print" when="1787">"Впервые - 'Российский феатр, или Полное собрание всех
-              Российских феатральных сочинений', ч. 15, 1787." (lib.ru)</date>
-            <date type="premiere" when="1781">"Комедия была впервые представлена в петербургском
-              театре 15 июня 1781 г." (lib.ru)</date>
-            <date type="written" when="1775">"1775" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,6 +96,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1787">
+        <desc>"Впервые - 'Российский феатр, или Полное собрание всех
+              Российских феатральных сочинений', ч. 15, 1787." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1781">
+        <desc>"Комедия была впервые представлена в петербургском
+              театре 15 июня 1781 г." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1775">
+        <desc>"1775" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q48946899"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

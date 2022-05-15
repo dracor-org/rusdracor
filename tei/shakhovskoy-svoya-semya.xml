@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q51497164</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,10 +43,6 @@
             <title>Стихотворная комедия, комическая опера, водевиль конца XVIII - начала XIX века: В
               2-х т. Т. 2 (Вступ. ст., биограф, справки, сост., подгот. текста и примеч. А. А.
               Гозенпуда. – Л.: Сов. писатель, 1990. – 768 с. (Б-ка поэта. Большая серия).</title>
-            <date type="print" when="1818"/>
-            <date type="premiere" when="1818">"Пьеса была впервые поставлена 24 января 1818 г. в
-              бенефис М. И. Валберховой." (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -100,6 +95,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1818">
+        <label/>
+      </event>
+      <event type="premiere" when="1818">
+        <desc>"Пьеса была впервые поставлена 24 января 1818 г. в
+              бенефис М. И. Валберховой." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q51497164"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

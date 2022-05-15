@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q75170266</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>РОССИЙСКИЙ ТЕАТР или Полное собрание всех Российских Театральных сочинений. Часть
               IV. В САНКТПЕТЕРБУРГЕ, при Императорской Академии Наук 1786 года.</title>
-            <date type="print" when="1765">"опубл. в 1765"
-              (https://books.google.com/books?id=WxosAQAAMAAJ)</date>
-            <date type="premiere"/>
-            <date type="written" when="1762">"написана не позднее 1762"
-              (https://books.google.com/books?id=WxosAQAAMAAJ)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -118,6 +112,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1765">
+        <desc>"опубл. в 1765"
+              (https://books.google.com/books?id=WxosAQAAMAAJ)</desc>
+      </event>
+      <event type="written" when="1762">
+        <desc>"написана не позднее 1762"
+              (https://books.google.com/books?id=WxosAQAAMAAJ)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q75170266"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

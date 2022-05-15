@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19218641</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -46,13 +45,6 @@
           <bibl type="originalSource">
             <title>А.П.Сумароков. Избранные произведения. Л.: Советский писатель, 1957. С.
               317—364.</title>
-            <date type="print" when="1768">Резолюция Академической комиссии о напечатании – 10
-              ноября 1768 г.; расписка Сумарокова в получении отпечатанных экземпляров трагедии – 20
-              декабря того же года.</date>
-            <date type="premiere" when="1751">"Представлена в первый раз в Санктпетербурге на
-              Императорском театре в исходе 1751 года (Представлена кадетами на придворном театре 21
-              декабря 1751 года)" (Wikisource)</date>
-            <date type="written" when="1751">1751 (Wikisource)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -119,6 +111,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1768">
+        <desc>Резолюция Академической комиссии о напечатании – 10
+              ноября 1768 г.; расписка Сумарокова в получении отпечатанных экземпляров трагедии – 20
+              декабря того же года.</desc>
+      </event>
+      <event type="premiere" when="1751">
+        <desc>"Представлена в первый раз в Санктпетербурге на
+              Императорском театре в исходе 1751 года (Представлена кадетами на придворном театре 21
+              декабря 1751 года)" (Wikisource)</desc>
+      </event>
+      <event type="written" when="1751">
+        <desc>1751 (Wikisource)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19218641"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

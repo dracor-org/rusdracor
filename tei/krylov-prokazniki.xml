@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q16055328</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title>Крылов И.А. Проказники // И.А. Крылов. Полное собрание сочинений. М.: Гос. изд-во
               худож. лит., 1945—1946. Т. 2, с. 221—338.</title>
-            <date type="print" when="1793">"Написана в 1788 году, напечатана в «Российском Феатре»,
-              1793, ч. XL." (rvb.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1788"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -107,6 +102,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1793">
+        <desc>"Написана в 1788 году, напечатана в «Российском Феатре»,
+              1793, ч. XL." (rvb.ru)</desc>
+      </event>
+      <event type="written" when="1788">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q16055328"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1816,8 +1823,7 @@
             <p>Pardonnez moi, monsieur<note place="foot">Простите меня, господин (франц.)</note>
               что, не имея чести вас знать, я рискую своими знаниями к вам адресоваться. Ваше
               познание, monsieur, и ваша слава, мадам, так фрапировала мои уши, что я сам,
-              интересуясь Парнасом, должностью почел сделать с вами connoissance<note place="foot"
-                >Знакомство (франц.)</note>.</p>
+              интересуясь Парнасом, должностью почел сделать с вами connoissance<note place="foot">Знакомство (франц.)</note>.</p>
           </sp>
           <pb n="257"/>
           <sp who="#rifmokrad">
@@ -1835,8 +1841,7 @@
           </sp>
           <sp who="#plutana">
             <speaker>Плутана</speaker>
-            <p>Я все пишу, что мне вздумается, сударь, и пишу бесподобно. Sans vanité<note
-                place="foot">Не хвастаясь (франц.)</note> сказать: я довольно умен; иные говорят,
+            <p>Я все пишу, что мне вздумается, сударь, и пишу бесподобно. Sans vanité<note place="foot">Не хвастаясь (франц.)</note> сказать: я довольно умен; иные говорят,
               что я невежа, по прошу вас им не верить, для того, что я сам анонсирую, что я умен; а
               мне ведь самому себя знать гораздо легче можно.</p>
           </sp>

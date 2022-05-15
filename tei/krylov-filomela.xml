@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19233842</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,13 +42,6 @@
           <bibl type="originalSource">
             <title>И.А. Крылов. Полное собрание сочинений. М.: Гос. изд-во худож. лит., 1945—1946.
               Т. 2, с. 63—116.</title>
-            <date type="print" when="1793">"Трагедия "Филомела" была написана Крыловым около 1786
-              г., напечатана в "Российском феатре" в 1793 г., ч. XXXIX."
-              (http://krylov.lit-info.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1786">"Трагедия "Филомела" была написана Крыловым около 1786
-              г., напечатана в "Российском феатре" в 1793 г., ч. XXXIX."
-              (http://krylov.lit-info.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -99,6 +91,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1793">
+        <desc>"Трагедия "Филомела" была написана Крыловым около 1786
+              г., напечатана в "Российском феатре" в 1793 г., ч. XXXIX."
+              (http://krylov.lit-info.ru)</desc>
+      </event>
+      <event type="written" when="1786">
+        <desc>"Трагедия "Филомела" была написана Крыловым около 1786
+              г., напечатана в "Российском феатре" в 1793 г., ч. XXXIX."
+              (http://krylov.lit-info.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19233842"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

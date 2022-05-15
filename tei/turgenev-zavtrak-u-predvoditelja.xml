@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19164018</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собрание сочинений в десяти томах. 1961 г.</title>
-            <date type="print" when="1856">"Впервые опубликована в журнале «Современник» (1856, №
-              8)." (Wikipedia)</date>
-            <date type="premiere" when="1849">"Цензурные ограничения не мешали постановке пьесы на
-              сцене; спектакль «Завтрак у предводителя» шёл в российских театрах, начиная с ноября
-              1849 года." (Wikipedia)</date>
-            <date type="written" when="1849">"написанная […] летом 1849 года" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -113,6 +106,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1856">
+        <desc>"Впервые опубликована в журнале «Современник» (1856, №
+              8)." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1849">
+        <desc>"Цензурные ограничения не мешали постановке пьесы на
+              сцене; спектакль «Завтрак у предводителя» шёл в российских театрах, начиная с ноября
+              1849 года." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1849">
+        <desc>"написанная […] летом 1849 года" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19164018"/>
+  </standOff>
   <text>
     <front>
       <div type="front">

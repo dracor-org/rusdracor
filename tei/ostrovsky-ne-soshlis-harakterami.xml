@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q12756876</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>А. Н. Островский. Полное собрание сочинений. Том II Пьесы 1856-1861 М., ГИХЛ,
               1950 (lib.ru)</title>
-            <date type="print" when="1858">"Впервые опубликована в «Современнике» в 1858 году."
-              (ru.wikipedia.org)</date>
-            <date type="premiere" when="1858">"Впервые поставлена 1 сентября 1858 года в Петербурге
-              в Александринском театре." (ru.wikipedia.org)</date>
-            <date type="written" notBefore="1856" notAfter="1857">"Пьеса задумана в феврале 1856 г.,
-              начата 13 ноября и окончена 29 ноября 1857 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -114,6 +107,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1858">
+        <desc>"Впервые опубликована в «Современнике» в 1858 году."
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1858">
+        <desc>"Впервые поставлена 1 сентября 1858 года в Петербурге
+              в Александринском театре." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" notBefore="1856" notAfter="1857">
+        <desc>"Пьеса задумана в феврале 1856 г.,
+              начата 13 ноября и окончена 29 ноября 1857 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q12756876"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>
@@ -150,8 +160,7 @@
           <sp who="#prezhneva">
             <speaker>Прежнева</speaker>
             <stage>(опустив книгу).</stage>
-            <p>Это жестоко! это ужасно! я бы никогда так не поступила! Nous autres femmes...<note
-                place="foot">Мы женщины...</note> мы... о! мы верим, мы слепо верим, мы никогда не
+            <p>Это жестоко! это ужасно! я бы никогда так не поступила! Nous autres femmes...<note place="foot">Мы женщины...</note> мы... о! мы верим, мы слепо верим, мы никогда не
               анализируем. Нет, я не стану дальше читать этот роман. Молодой человек хорошего
               происхождения, красив, умен, служит в военной службе, выражает ей свою любовь таким
               прекрасным языком... и она... она имела силы отказать ему! Нет, она не женщина!

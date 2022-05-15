@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q30887707</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,9 +40,6 @@
           <bibl type="originalSource">
             <title>Н. В. Гоголь. Собрание сочинений в 9 т. Т. 4 Повести. М.: Русская книга,
               1994.</title>
-            <date type="print" when="1842">"опубликованная в 1842 году" (Wikiquote)</date>
-            <date type="premiere"/>
-            <date type="written" notBefore="1840" notAfter="1842">"1840—1842 гг." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -82,6 +78,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1842">
+        <desc>"опубликованная в 1842 году" (Wikiquote)</desc>
+      </event>
+      <event type="written" notBefore="1840" notAfter="1842">
+        <desc>"1840—1842 гг." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q30887707"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

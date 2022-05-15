@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q65658532</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,14 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Новая Юность, номер 4, 2003 (61)</title>
-            <date type="print" when="1748">"1 декабря 1748 года трагедия вышла тиражом 1.012
-              экземпляров." (magazines.gorky.media)</date>
-            <date type="premiere" when="1757">"Самая ранняя документально подтвержденная постановка
-              “Гамлета” состоялась в Санкт-Петербурге 1 июля 1757 года."
-              (magazines.gorky.media)</date>
-            <date type="written" when="1748">"В 1748 году великий русский поэт и драматург Александр
-              Петрович Сумароков (1717 — 1777) сочинил своего “Гамлета”"
-              (magazines.gorky.media)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -111,6 +102,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1748">
+        <desc>"1 декабря 1748 года трагедия вышла тиражом 1.012
+              экземпляров." (magazines.gorky.media)</desc>
+      </event>
+      <event type="premiere" when="1757">
+        <desc>"Самая ранняя документально подтвержденная постановка
+              “Гамлета” состоялась в Санкт-Петербурге 1 июля 1757 года."
+              (magazines.gorky.media)</desc>
+      </event>
+      <event type="written" when="1748">
+        <desc>"В 1748 году великий русский поэт и драматург Александр
+              Петрович Сумароков (1717 — 1777) сочинил своего “Гамлета”"
+              (magazines.gorky.media)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q65658532"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
