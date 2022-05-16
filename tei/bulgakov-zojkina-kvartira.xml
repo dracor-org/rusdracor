@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4193071</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title>М. А. Булгаков, собрание сочинений в пяти томах, том третий. Москва,
               "Художественная литература", 1990</title>
-            <date type="print" when="1929">"1929" (ru.wikipedia.org)</date>
-            <date type="premiere" when="1926">"Премьера пьесы состоялась в Театре имени Вахтангова
-              28 октября 1926 года." (ru.wikipedia.org)</date>
-            <date type="written" when="1925">"Дата написания: 1925" (ru.wikidata.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -179,6 +174,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1929">
+        <desc>"1929" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1926">
+        <desc>"Премьера пьесы состоялась в Театре имени Вахтангова
+              28 октября 1926 года." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1925">
+        <desc>"Дата написания: 1925" (ru.wikidata.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4193071"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -4031,10 +4041,8 @@
           <sp who="#ametistov">
             <speaker>Аметистов.</speaker>
             <p>Что скажете, Борис Семенович? Моя постановочка. <stage>(Вбегает на эстраду, танцует с
-                Ивановой. В паузе показывает.)</stage> Декольте сюр ле бра<note place="foot"
-                >Dékollté sur les bras. – Декольтированные плечи (фр.).</note>. <stage>(Танцует. В
-                паузе.)</stage> Декольте... <stage>(ищет складку)</stage> сюр ле до<note
-                place="foot">Dékollté sur le dos. – Открытая спина (фр.).</note>.
+                Ивановой. В паузе показывает.)</stage> Декольте сюр ле бра<note place="foot">Dékollté sur les bras. – Декольтированные плечи (фр.).</note>. <stage>(Танцует. В
+                паузе.)</stage> Декольте... <stage>(ищет складку)</stage> сюр ле до<note place="foot">Dékollté sur le dos. – Открытая спина (фр.).</note>.
                 <stage>(Танцует.)</stage> В сущности, я очень несчастлив, мадам Иванова. Моя мечта
               уехать с любимой женщиной в Ниццу, туда, где цветут рододендроны...</p>
           </sp>
@@ -4296,8 +4304,7 @@
           <sp who="#ametistov">
             <speaker>Аметистов.</speaker>
             <p>Ах, это... В этом... Не хочу даже вспоминать, потому что мне тяжело.</p>
-            <p>Белые колонны, как сейчас помню... Эн, де, труа, фир, фюнф, зехс...<note place="foot"
-                >Un. deux. trois, vier, fiinf. sechx...-Один. два, три (фр.), четыре, пять, шесть...
+            <p>Белые колонны, как сейчас помню... Эн, де, труа, фир, фюнф, зехс...<note place="foot">Un. deux. trois, vier, fiinf. sechx...-Один. два, три (фр.), четыре, пять, шесть...
                 (нем..)</note> Семь колонн, одна красивее другой. Эх! Да что говорить! А племенной
               скот, а кирпичный завод!</p>
           </sp>
@@ -5861,8 +5868,7 @@
             <speaker>Поэт.</speaker>
             <p>Очень хорошо!</p>
           </sp>
-          <sp
-            who="#lizanka #ametistov #robber #poet #zoja #kurilschik #heruvim #fokstrotchik #ivanova #mymra #mertvoe_telo #manjushka #oboljaninov #alliluja">
+          <sp who="#lizanka #ametistov #robber #poet #zoja #kurilschik #heruvim #fokstrotchik #ivanova #mymra #mertvoe_telo #manjushka #oboljaninov #alliluja">
             <speaker>Все.</speaker>
             <p>Браво, очень хорошо!</p>
           </sp>
@@ -5915,8 +5921,7 @@
             <speaker>Гусь.</speaker>
             <p>Ну да. Оно пишется ателье, а выговаривается веселый дом!</p>
           </sp>
-          <sp
-            who="#ivanova #zoja #ametistov #oboljaninov #fokstrotchik #gus #robber #alla #manjushka #poet #heruvim #mymra #lizanka #mertvoe_telo">
+          <sp who="#ivanova #zoja #ametistov #oboljaninov #fokstrotchik #gus #robber #alla #manjushka #poet #heruvim #mymra #lizanka #mertvoe_telo">
             <speaker>Все.</speaker>
             <p>Что такое, что такое, что такое?</p>
           </sp>

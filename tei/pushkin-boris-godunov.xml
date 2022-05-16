@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q893665</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,9 +42,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1831"/>
-            <date type="premiere" when="1866"/>
-            <date type="written" when="1825"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -93,8 +89,7 @@
             <persName>Пимен</persName>
             <persName xml:lang="ger">Vater Pimen</persName>
           </person>
-          <person xml:id="grigorij_dimitrij_lzhedimitrij_samozvanets" sex="MALE"
-            ana="http://www.wikidata.org/entity/Q4149091">
+          <person xml:id="grigorij_dimitrij_lzhedimitrij_samozvanets" sex="MALE" ana="http://www.wikidata.org/entity/Q4149091">
             <persName>Григорий</persName>
             <persName xml:lang="ger">Grigorij</persName>
           </person>
@@ -401,6 +396,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1831">
+        <label/>
+      </event>
+      <event type="premiere" when="1866">
+        <label/>
+      </event>
+      <event type="written" when="1825">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q893665"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2035,8 +2044,7 @@
         </sp>
         <sp who="#grigorij_dimitrij_lzhedimitrij_samozvanets">
           <speaker>Самозванец</speaker>
-          <l part="I">
-            <emph>Amen.</emph> Кто там?</l>
+          <l part="I"><emph>Amen.</emph> Кто там?</l>
           <stage>Входит слуга.</stage>
           <l part="F">Сказать: мы принимаем.</l>
           <stage>Отворяются двери, входит толпа русских и поляков.</stage>

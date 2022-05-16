@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19199624</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -47,14 +46,6 @@
             <title>Крылов И. А. Полное собрание сочинений: в 3 томах / Редакция текста и примечания
               Н. Л. Бродского. — М.: Государственное издательство художественной литературы, 1946. —
               Т. II. [Драматургия]. — С. 341—375.</title>
-            <date type="print" when="1859">Впервые напечатана в Берлине (1859), в России
-              опубликована в журнале "Русская старина" (1871, февраль); отдельное издание – СПб.,
-              1880. (Source: Крылов И. А. Басни. Драматургия. М.: Правда, 1982.)</date>
-            <date type="premiere"/>
-            <date type="written" notBefore="1798" notAfter="1800">Принято считать, что пьеса была
-              сочинена в 1800 г., так как этой датой помечен один из самых авторитетных списков,
-              принадлежавший М. Е. Лобанову. Однако сам владелец списка называл иную дату: 1798
-              г.(Source: Крылов И. А. Басни. Драматургия. М.: Правда, 1982.)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -110,6 +101,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1859">
+        <desc>Впервые напечатана в Берлине (1859), в России
+              опубликована в журнале "Русская старина" (1871, февраль); отдельное издание – СПб.,
+              1880. (Source: Крылов И. А. Басни. Драматургия. М.: Правда, 1982.)</desc>
+      </event>
+      <event type="written" notBefore="1798" notAfter="1800">
+        <desc>Принято считать, что пьеса была
+              сочинена в 1800 г., так как этой датой помечен один из самых авторитетных списков,
+              принадлежавший М. Е. Лобанову. Однако сам владелец списка называл иную дату: 1798
+              г.(Source: Крылов И. А. Басни. Драматургия. М.: Правда, 1982.)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19199624"/>
+  </standOff>
   <text>
     <front>
       <div type="front">
@@ -716,8 +723,7 @@
             <speaker>Вакула</speaker>
             <stage>(встает и подходит к одному из вельмож)</stage>
             <l>Ну, что ж придумал ты, мой дорогой совет?</l>
-            <l>А, слышь, и в помощи нам недостатка нет! <stage>(Подает бумагу).</stage>
-            </l>
+            <l>А, слышь, и в помощи нам недостатка нет! <stage>(Подает бумагу).</stage></l>
             <l>Прочти, какую нам сосед дает помогу!</l>
             <l>Не без кумов-то вить и я здесь, слава богу!</l>
             <l>Ну что ж? прочел ли ты?</l>

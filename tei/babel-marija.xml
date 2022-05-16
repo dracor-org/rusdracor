@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q6760975</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Бабель И. Избранное. Фрунзе, Адабият, 1989. С.450-486.</title>
-            <date type="print" when="1935">Пьеса «Мария» была впервые опубликована в журнале «Театр
-              и драматургия», 1935, № 3, февраль, с.45-59. (Wikilivres)</date>
-            <date type="premiere" when="1964">"in 1964, an at the time completely unknown play,
-              Maria, received its first ever production in Italy" (web.stanford.edu)</date>
-            <date type="written" when="1934"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -182,6 +176,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1935">
+        <desc>Пьеса «Мария» была впервые опубликована в журнале «Театр
+              и драматургия», 1935, № 3, февраль, с.45-59. (Wikilivres)</desc>
+      </event>
+      <event type="premiere" when="1964">
+        <desc>"in 1964, an at the time completely unknown play,
+              Maria, received its first ever production in Italy" (web.stanford.edu)</desc>
+      </event>
+      <event type="written" when="1934">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q6760975"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1265,8 +1275,7 @@
             мужественности, в нём была кукольность... С Владимиром Баглеем мы встретились у Феликса.
             Император так до конца и не понял рыцарскую натуру этого человека. Его называли у нас
             «тевтонский рыцарь»... Фредерике был дружен с князем Сергеем... Вы знаете князя Сергея,
-            который играет на виолончели?.. На вечере был ещё номер hors programme<note place="foot"
-              >Сверх программы (франц.).</note>, архиепископ Амвросий. Старик ухаживал за мною, —
+            который играет на виолончели?.. На вечере был ещё номер hors programme<note place="foot">Сверх программы (франц.).</note>, архиепископ Амвросий. Старик ухаживал за мною, —
             можете себе представить! — подливал крюшону и делал такую постную, лукавую мину. Вначале
             я не произвела на Владимира впечатления, он признался мне в этом: «Вы были курносая, si
             démesurément russe<note place="foot">Такая бесконечно русская (франц.).</note>, с
@@ -1279,8 +1288,7 @@
             был от морганатического брака, их семья не встречалась с императрицей... Владимир
             называл эту женщину гением зла. И потом — он был поэт, мальчик, ничего не понимал в
             политике... Мы приехали в Царское. Рассвет. Над прудом где-то, совсем понизу, запел
-            соловей... Мой спутник повторяет: «Mademuaselle Boutourline c'est le passé»<note
-              place="foot">Мадемуазель Бутурлина — это прошлое (франц.).</note> — «Mon prince,
+            соловей... Мой спутник повторяет: «Mademuaselle Boutourline c'est le passé»<note place="foot">Мадемуазель Бутурлина — это прошлое (франц.).</note> — «Mon prince,
             прошлое возвращается иногда, и возвращения эти ужасны...»</p>
         </sp>
         <stage>Дымшиц гасит свет, накидывается на Муковнину, валит её на диван, борьба. Она

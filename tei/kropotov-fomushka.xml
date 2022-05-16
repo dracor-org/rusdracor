@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58436076</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,10 +43,6 @@
             <title>Русская комедия и комическая опера XVIII в. Редакция текста, вступительная статья
               и комментарии П. Н. Беркова. М.-Л., Государственное издательство "Искусство",
               1950</title>
-            <date type="print" when="1790">"Текст печатается по сборнику "Российской феатр" (СПб.,
-              1790, ч. XXXV), где эта комедия была опубликована." (lib.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1785"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +101,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1790">
+        <desc>"Текст печатается по сборнику "Российской феатр" (СПб.,
+              1790, ч. XXXV), где эта комедия была опубликована." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1785">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58436076"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -561,8 +568,7 @@
             <speaker>Хавронья.</speaker>
             <p>Нет, я его к этому не допущала; как хозяин сам будет, ин научится; а и сама, друг
               мой, до старости дожила, а подлинности, сколько на что выходит семян, не знаю, а я уже
-              вышла за покойника своего двадцати лет; он пошел в поход под Чигирин<note place="foot"
-                >Поход под Чигирин состоялся в 1676 г. X. М. Слюняева, бабушка Фомушки, говорит, что
+              вышла за покойника своего двадцати лет; он пошел в поход под Чигирин<note place="foot">Поход под Чигирин состоялся в 1676 г. X. М. Слюняева, бабушка Фомушки, говорит, что
                 ей "с небольшим десяток за сто", т. е. ей, повидимому, лет 112--113. Так как
                 действие комедии происходит в начале 1770-х годов (см. в д. II, явл. 4 упоминание о
                 том, что Остромыслов участвовал в Морейской экспедиции, состоявшейся в начале 1770-х
@@ -2229,8 +2235,7 @@
           </sp>
           <sp who="#notarius">
             <speaker>Нотариус.</speaker>
-            <p>Постойте, я прочту, авось и этот вам годится. <stage>(Читает.)</stage> 1780 года<note
-                place="foot">здесь, очевидно, ошибка. В д. IV, явл. 1 Остромыслов говорит, что ему
+            <p>Постойте, я прочту, авось и этот вам годится. <stage>(Читает.)</stage> 1780 года<note place="foot">здесь, очевидно, ошибка. В д. IV, явл. 1 Остромыслов говорит, что ему
                 двадцать лет. Если ему столько лет в 1780 г., значит, он родился в 1760 г. и
                 участвовал в битве при Чесме (1770) в чине офицера в возрасте ...десяти лет.</note>
               октября в ... день я коллежской советник Епифан Добровидов сговорил дочь свою девицу

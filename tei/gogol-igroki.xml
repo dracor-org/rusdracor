@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3233433</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,10 +40,6 @@
           <bibl type="originalSource">
             <title>Н. В. Гоголь. Собрание сочинений в 9 т. Т. 4 Повести. М.: Русская книга,
               1994.</title>
-            <date type="print" when="1842">"Дата первой публикации: 1842" (Wikipedia)</date>
-            <date type="premiere" when="1843">"5 февраля 1843 — Малый театр" (Wikipedia)</date>
-            <date type="written" notBefore="1836" notAfter="1842">"Даты написания: 1836—1842 гг."
-              (ilibrary.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -94,6 +89,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1842">
+        <desc>"Дата первой публикации: 1842" (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1843">
+        <desc>"5 февраля 1843 — Малый театр" (Wikipedia)</desc>
+      </event>
+      <event type="written" notBefore="1836" notAfter="1842">
+        <desc>"Даты написания: 1836—1842 гг."
+              (ilibrary.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q3233433"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

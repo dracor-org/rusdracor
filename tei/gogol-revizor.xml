@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q471066</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,10 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Н. В. Гоголь. Собрание сочинений в 9 т. Т. 4. М.: Русская книга, 1994.</title>
-            <date type="print" when="1836">"Дата первой публикации: 1836" (Wikipedia)</date>
-            <date type="premiere" when="1836">"Первые представления шли в первой редакции 1836
-              года." (Wikipedia)</date>
-            <date type="written" when="1835">"1835 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -178,8 +173,7 @@
             <persName xml:lang="ger">Gensdarm</persName>
           </person>
           <listRelation type="personal">
-            <relation name="parent_of" active="#anna_andreevna #gorodnichij"
-              passive="#marja_antonovna"/>
+            <relation name="parent_of" active="#anna_andreevna #gorodnichij" passive="#marja_antonovna"/>
             <relation name="associated_with" active="#sluga" passive="#gorodnichij"/>
             <relation name="spouses" mutual="#anna_andreevna #gorodnichij"/>
             <relation name="associated_with" active="#osip" passive="#hlestakov"/>
@@ -212,6 +206,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1836">
+        <desc>"Дата первой публикации: 1836" (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1836">
+        <desc>"Первые представления шли в первой редакции 1836
+              года." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1835">
+        <desc>"1835 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q471066"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -680,8 +689,7 @@
             <speaker>Добчинский.</speaker>
             <p>Неожиданное известие!</p>
           </sp>
-          <sp
-            who="#gorodnichij #ammos_fedorovich_ljapkin_tjapkin #pochtmejster #luka_lukich #artemij_filippovich_zemljanika #chastnyj_pristav #lekar">
+          <sp who="#gorodnichij #ammos_fedorovich_ljapkin_tjapkin #pochtmejster #luka_lukich #artemij_filippovich_zemljanika #chastnyj_pristav #lekar">
             <speaker>Все.</speaker>
             <p>Что, что такое?</p>
           </sp>
@@ -2971,8 +2979,7 @@
             <p>Что вы! что вы: Цицерон! Смотрите, что выдумали! Что иной раз увлечешься говоря о
               домашней своре или гончей ищейке...</p>
           </sp>
-          <sp
-            who="#artemij_filippovich_zemljanika #pochtmejster #luka_lukich #dobchinskij #bobchinskij">
+          <sp who="#artemij_filippovich_zemljanika #pochtmejster #luka_lukich #dobchinskij #bobchinskij">
             <speaker>Все</speaker>
             <stage>(пристают к нему).</stage>
             <p>Нет, вы не только о собаках, вы и о столпотворении... Нет, Аммос Федорович, не
@@ -5021,8 +5028,7 @@
             <p>Удивительное дело, господа! Чиновник, которого мы приняли за ревизора, был не
               ревизор.</p>
           </sp>
-          <sp
-            who="#gorodnichij #anna_andreevna #marja_antonovna #kuptsy #ammos_fedorovich_ljapkin_tjapkin #artemij_filippovich_zemljanika #rastakovskij #korobkin #zhena_korobkina #ljuljukov #bobchinskij #dobchinskij #luka_lukich #zhena_luki_lukicha #chastnyj_pristav #mnogie_iz_gostej #gostja">
+          <sp who="#gorodnichij #anna_andreevna #marja_antonovna #kuptsy #ammos_fedorovich_ljapkin_tjapkin #artemij_filippovich_zemljanika #rastakovskij #korobkin #zhena_korobkina #ljuljukov #bobchinskij #dobchinskij #luka_lukich #zhena_luki_lukicha #chastnyj_pristav #mnogie_iz_gostej #gostja">
             <speaker>Все.</speaker>
             <p>Как не ревизор?</p>
           </sp>
@@ -5097,8 +5103,7 @@
             <p>Эх, Антон Антонович! что Сибирь? далеко Сибирь. Вот лучше я вам прочту. Господа!
               позвольте прочитать письмо!</p>
           </sp>
-          <sp
-            who="#gorodnichij #anna_andreevna #marja_antonovna #kuptsy #ammos_fedorovich_ljapkin_tjapkin #artemij_filippovich_zemljanika #rastakovskij #korobkin #zhena_korobkina #ljuljukov #bobchinskij #dobchinskij #luka_lukich #zhena_luki_lukicha #chastnyj_pristav #mnogie_iz_gostej #gostja">
+          <sp who="#gorodnichij #anna_andreevna #marja_antonovna #kuptsy #ammos_fedorovich_ljapkin_tjapkin #artemij_filippovich_zemljanika #rastakovskij #korobkin #zhena_korobkina #ljuljukov #bobchinskij #dobchinskij #luka_lukich #zhena_luki_lukicha #chastnyj_pristav #mnogie_iz_gostej #gostja">
             <speaker>Все.</speaker>
             <p>Читайте, читайте!</p>
           </sp>
@@ -5215,8 +5220,7 @@
             <speaker>Почтмейстер.</speaker>
             <p>Нет, всё читайте! ведь прежде все читано.</p>
           </sp>
-          <sp
-            who="#gorodnichij #anna_andreevna #marja_antonovna #kuptsy #ammos_fedorovich_ljapkin_tjapkin #pochtmejster #rastakovskij #korobkin #zhena_korobkina #ljuljukov #bobchinskij #dobchinskij #luka_lukich #zhena_luki_lukicha #chastnyj_pristav #mnogie_iz_gostej #gostja">
+          <sp who="#gorodnichij #anna_andreevna #marja_antonovna #kuptsy #ammos_fedorovich_ljapkin_tjapkin #pochtmejster #rastakovskij #korobkin #zhena_korobkina #ljuljukov #bobchinskij #dobchinskij #luka_lukich #zhena_luki_lukicha #chastnyj_pristav #mnogie_iz_gostej #gostja">
             <speaker>Все.</speaker>
             <p>Отдайте, Артемий Филиппович, отдайте письмо! <stage>(Коробкину.)</stage> Читайте!</p>
           </sp>

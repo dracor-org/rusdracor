@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q502153</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,9 +42,6 @@
           <bibl type="originalSource">
             <title>А. Н. Островский. Полное собрание сочинений. Том 7. — М.: Гослитиздат,
               1950.</title>
-            <date type="print" when="1873">1873 год (wikipedia)</date>
-            <date type="premiere" when="1873">1873 год (wikipedia)</date>
-            <date type="written" when="1873">1873 год (wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -246,6 +242,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1873">
+        <desc>1873 год (wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1873">
+        <desc>1873 год (wikipedia)</desc>
+      </event>
+      <event type="written" when="1873">
+        <desc>1873 год (wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q502153"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2150,7 +2160,6 @@
               <l>Веселье там и радость.</l>
             </lg>
             <stage>(Прислушивается.)</stage>
-
             <lg>
               <l>Чу! смеются.</l>
               <l>А я стою и чуть не плачу с горя,</l>
@@ -2662,7 +2671,6 @@
               <l>Да полно вам!</l>
             </lg>
             <stage>(Мизгирю.)</stage>
-
             <lg>
               <l>Не слушай, государь!</l>
               <l>Известно, так дурачимся, для шутки,</l>
@@ -2727,7 +2735,6 @@
               <l>Любить тебя, вот горе.</l>
             </lg>
             <stage>(Девушкам.)</stage>
-
             <lg>
               <l>Запевайте,</l>
               <l>Подруженьки, веселую погромче!</l>
@@ -4976,7 +4983,6 @@
               <l>Парни за ними увяжутся.</l>
               <l>Лель, мой Лель! Лели-лели, Лель!</l>
             </lg>
-
             <lg>
               <l>В роще подруженьки врозь разбрелись,</l>
               <l>Кто по кустам, кто по ельничку.</l>
@@ -4986,7 +4992,6 @@
               <l>Нашу подружку не волк ли заел.</l>
               <l>Лель, мой Лель! Лели-лели, Лель!</l>
             </lg>
-
             <lg>
               <l>Встретился девушкам чуж-чуженин,</l>
               <l>Чуж-чуженинушко, стар-старичок.</l>
@@ -4996,7 +5001,6 @@
               <l>Вы б по кустам-то пошарили.</l>
               <l>Лель, мой Лель! Лели-лели, Лель!</l>
             </lg>
-
             <lg>
               <l>Туча со громом сговаривалась:</l>
               <l>Ты, гром, греми, а я дождь разолью,</l>
@@ -5421,9 +5425,7 @@
               <l>Сплести себе из тонких гибких веток;</l>
               <l>Вплету туда цветочки-василечки.</l>
             </lg>
-
             <stage>(В задумчивости запевает.)</stage>
-
             <lg>
               <l>Ах, цветочки-василечки!</l>
             </lg>
@@ -5436,10 +5438,7 @@
             </lg>
             <stage>(Берет ее за руку.)</stage>
           </sp>
-
           <sp who="#snegurochka">
-
-
             <speaker>Снегурочка</speaker>
             <stage>(с испугом)</stage>
             <lg>
@@ -5952,7 +5951,6 @@
           </sp>
           <sp who="#snegurochka">
             <speaker>Снегурочка</speaker>
-
             <lg>
               <l>Обманута, обижена, убита</l>
               <l>Снегурочка. О мать, Весна-Красна!</l>

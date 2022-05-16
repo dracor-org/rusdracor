@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4259312</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title>А.Н.Островский. Собрание сочинений в десяти томах. Том шестой. М.,
               Государственное издательство художественной литературы, 1960</title>
-            <date type="print" when="1871">Комедия в пяти действиях (Wikipedia)</date>
-            <date type="premiere" when="1871">1 ноября 1871 года — Александринский театр
-              (Wikipedia)</date>
-            <date type="written" when="1870">"1870" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -125,6 +120,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1871">
+        <desc>Комедия в пяти действиях (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1871">
+        <desc>1 ноября 1871 года — Александринский театр
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1870">
+        <desc>"1870" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4259312"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>

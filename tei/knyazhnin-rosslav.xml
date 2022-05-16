@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63750521</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>Я.Б. Княжнин. Росслав // Княжнин Я.Б. Избранные произведения. Л.: Советский
               писатель, 1961. С. 183–248. (Библиотека поэта; Большая серия).</title>
-            <date type="print" when="1784">"Впервые — отдельное издание: «Росслав. Tpaгедия в
-              стихах, в пяти действиях». СПб., 1784." (rvb.ru)</date>
-            <date type="premiere" when="1784">"«Росслав» был поставлен 8 февраля 1784 г."
-              (rvb.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -93,6 +87,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1784">
+        <desc>"Впервые — отдельное издание: «Росслав. Tpaгедия в
+              стихах, в пяти действиях». СПб., 1784." (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1784">
+        <desc>"«Росслав» был поставлен 8 февраля 1784 г."
+              (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63750521"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

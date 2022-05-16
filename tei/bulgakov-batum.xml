@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4079492</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,13 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собр. соч. в 5 т. Т.3. Пьесы. М.: Худож. лит., 1992.</title>
-            <date type="print" when="1977">"Дата первой публикации: 1977" (ru.wikipedia.org)</date>
-            <date type="premiere" when="1992">"«Батум» ставился только один раз, причём по первой
-              редакции и под названием «Пастырь»: в 1992 году пьесу поставил С. Е. Кургинян в МХАТе
-              имени Горького на Большой сцене. После предпремьерного показа спектакль был запрещён,
-              афиши - уничтожены." (ru.wikipedia.org)</date>
-            <date type="written" notBefore="1936" notAfter="1939">"Дата написания: 1936–1939
-              (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -220,6 +212,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1977">
+        <desc>"Дата первой публикации: 1977" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1992">
+        <desc>"«Батум» ставился только один раз, причём по первой
+              редакции и под названием «Пастырь»: в 1992 году пьесу поставил С. Е. Кургинян в МХАТе
+              имени Горького на Большой сцене. После предпремьерного показа спектакль был запрещён,
+              афиши - уничтожены." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" notBefore="1936" notAfter="1939">
+        <desc>"Дата написания: 1936–1939
+              (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4079492"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2777,7 +2787,8 @@
           <stage>В это время ветхие ворота казарм начинают трясти изнутри, а издали послышался
             приближающийся грохот барабанов, а затем солдатская песня: <l>"Барабан наш громко
               бьет,</l>
-            <l>Царский воин шибко идет..."</l></stage>
+            <l>Царский воин шибко идет..."</l>
+          </stage>
           <stage>Приближение войска взволновало толпу. Послышались крики: "Войско идет! Ой, войско
             идет!" Выбежавшая из толпы женщина кричит Сильвестру по-грузински: "Ой, войско! Стрелять
             будет!"</stage>
@@ -2792,12 +2803,14 @@
             <p>Не будут стрелять! Стойте крепко!</p>
           </sp>
           <stage>Рота поет: <l>"Шел я речкой, камышом,</l>
-            <l>Видел милку нагишом!.."</l></stage>
+            <l>Видел милку нагишом!.."</l>
+          </stage>
           <sp who="#stalin">
             <speaker>Сталин.</speaker>
             <p>Товарищи! Нельзя бежать! Стойте тесно, стеной!</p>
             <stage>Рота поет: <l>"Шел я с милкою в лесу,</l>
-              <l>Милку дернул за косу!.."</l></stage>
+              <l>Милку дернул за косу!.."</l>
+            </stage>
             <p>Иначе солдаты навалятся, озвереют! Прикладами покалечат! Пропадет народ!</p>
           </sp>
           <stage>Губернатор оборачивается в сторону войск, машет рукой, что-то показывает. Вдали
@@ -2925,7 +2938,8 @@
               <l>"Барабан наш громко бьет,</l>
             <l>Царский воин шибко идет!..</l>
             <l>Жить солдату тяжело,</l>
-            <l>Между прочим, ничего!.."</l></stage>
+            <l>Между прочим, ничего!.."</l>
+          </stage>
           <trailer>Занавес</trailer>
         </div>
         <trailer>Конец второго действия</trailer>

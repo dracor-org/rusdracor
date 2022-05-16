@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4315374</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>А. Н. Островский. Полное собрание сочинений. Том I Пьесы 1847-1854 М., ГИХЛ, 1949
               (lib.ru)</title>
-            <date type="print" when="1853">"Впервые была опубликована в журнале «Москвитянин» за
-              1853 год и в том же году вышла отдельной книжкой." (ru.wikipedia.org)</date>
-            <date type="premiere" when="1853">"В Москве, в Малом театре, первый раз поставлена 14
-              января 1853 г., в бенефис актрисы Л. П. Косицкой-Никулиной" (ru.wikipedia.org)</date>
-            <date type="written" when="1852">"написанная в 1852 году" (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +100,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1853">
+        <desc>"Впервые была опубликована в журнале «Москвитянин» за
+              1853 год и в том же году вышла отдельной книжкой." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1853">
+        <desc>"В Москве, в Малом театре, первый раз поставлена 14
+              января 1853 г., в бенефис актрисы Л. П. Косицкой-Никулиной" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1852">
+        <desc>"написанная в 1852 году" (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4315374"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>
@@ -752,8 +762,7 @@
             <p>Баранчевский! Да ты великий человек! Счастливчик просто! А мне так вот нет счастья. Я
               было в Москве тоже присватался за одну -- куш порядочный; влюбилась, сдуру, ужас как,
               просто средств нет никаких, да не отдают ни за какие благополучия. Я так, сяк, увезти
-              хотел, да с ней-то не столкуешь -- дура ужаснейшая! Дура a la lettre, mon cher,<note
-                place="foot">Буквально, мой милый.</note> такое несчастие!</p>
+              хотел, да с ней-то не столкуешь -- дура ужаснейшая! Дура a la lettre, mon cher,<note place="foot">Буквально, мой милый.</note> такое несчастие!</p>
           </sp>
           <sp who="#baranchevskij">
             <speaker>Баранчевский.</speaker>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q51396603</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,9 +43,6 @@
             <title>Стихотворная комедия, комическая опера, водевиль конца XVIII - начала XIX века: В
               2-х т. Т. 2 (Вступ. ст., биограф, справки, сост., подгот. текста и примеч. А. А.
               Гозенпуда.- Л.: Сов. писатель, 1990.- 768 с. (Б-ка поэта. Большая серия).</title>
-            <date type="print" when="1820"/>
-            <date type="premiere" when="1819"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -118,6 +114,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1820">
+        <label/>
+      </event>
+      <event type="premiere" when="1819">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q51396603"/>
+  </standOff>
   <text>
     <front>
       <castList>
@@ -144,7 +151,6 @@
     <body>
       <div type="act">
         <head>ДЕЙСТВИЕ 1</head>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Ванюша, потом Фома.</stage>
@@ -470,7 +476,6 @@
             <stage>(Уходит.)</stage>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Ванюша и Инквартус.</stage>
@@ -541,7 +546,6 @@
             <l>Князь идет.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же и князь.</stage>
@@ -656,7 +660,6 @@
             ногу.И малый опыт наш откроет мне дорогуК делам обширнейшим.(Входящему Фоме.)Ну что,
             какая весть?Что нового?</stage>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Те же и Фома.</stage>
@@ -932,7 +935,6 @@
             <l>Ой! ой!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Князь и Инквартус.</stage>
@@ -1095,7 +1097,6 @@
             <l>Ты всё мешаешь мне.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же, Ванюша и Маша.</stage>
@@ -1278,7 +1279,6 @@
             <l>Прощай!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Князь, Инквартус, потом княжна и граф.</stage>
@@ -1428,7 +1428,6 @@
           </sp>
           <stage>Уходят.</stage>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Княжна, графиня и граф.При входе графини слуги, толкая друг друга, отворяют ей
@@ -1612,10 +1611,8 @@
           </sp>
         </div>
       </div>
-
       <div type="act">
         <head>ДЕЙСТВИЕ 2</head>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Маша, Ванюша и слуги (выносят разные товары).</stage>
@@ -1745,7 +1742,6 @@
             <stage>(Указывает на товары и идет ей навстречу.)</stage>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Те же и княгиня.</stage>
@@ -2038,7 +2034,6 @@
             <l>Ах! я от радости, боюсь, занемогу!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Княгиня, Маша и графиня.</stage>
@@ -2472,7 +2467,6 @@
             <l>Чтоб князю не попасть с уликою в руках.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Княгиня и Маша.</stage>
@@ -2527,7 +2521,6 @@
             <l>О! мигом он найдет.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же и князь.</stage>
@@ -2650,7 +2643,6 @@
             <l>Так, мой друг!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же и Цаплин.</stage>
@@ -3131,10 +3123,8 @@
           </sp>
         </div>
       </div>
-
       <div type="act">
         <head>ДЕЙСТВИЕ 3</head>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <sp who="#foma">
@@ -3150,7 +3140,6 @@
             <l>Какое у тебя, под солнцем не сыскать!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Фома и Радимов.</stage>
@@ -3271,7 +3260,6 @@
             <l>Хорош.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же и Инквартус.</stage>
@@ -3560,7 +3548,6 @@
             <l>Что больше думаю, то меньше понимаю.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Инквартус, княгиня и Маша.</stage>
@@ -3599,7 +3586,6 @@
             <l>Подите.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Княгиня и Маша.</stage>
@@ -3680,7 +3666,6 @@
             <l>Ах! если б на убор мы выпросить могли!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же и князь.</stage>
@@ -3942,7 +3927,6 @@
             <l>Когда дадут.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Те же, Инквартус и Ванюша.</stage>
@@ -4009,7 +3993,6 @@
             <stage>(Уходит с Инквартусом.)</stage>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Княгиня и Маша, потом Ванюша.</stage>
@@ -4359,10 +4342,8 @@
           </sp>
         </div>
       </div>
-
       <div type="act">
         <head>ДЕЙСТВИЕ 4</head>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Радимов и Фома.</stage>
@@ -4396,7 +4377,6 @@
             <l>Давай его сюда!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Те же и Цаплин.</stage>
@@ -4602,7 +4582,6 @@
             <l>Исполнить я готов.</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же и князь.</stage>
@@ -5330,7 +5309,6 @@
             <stage>(Уходит и, встретясь с Инквартусом, толкает его.)</stage>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Князь, Инквартус и Фома.</stage>
@@ -5430,7 +5408,6 @@
             <l>Выйдешь ли?</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же, княгиня, граф и княжна.</stage>
@@ -5632,7 +5609,6 @@
             <l>И восхищаюся, как вздумаю!..</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Князь, княгиня, княжна, граф, Фома и графиня.</stage>
@@ -5703,7 +5679,6 @@
           </sp>
           <stage>Уходят.</stage>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Князь, княгиня, княжна и Фома.</stage>
@@ -5790,10 +5765,8 @@
           </sp>
         </div>
       </div>
-
       <div type="act">
         <head>ДЕЙСТВИЕ 5</head>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Радимов, Цаплин, Фома, потом слуга.</stage>
@@ -5892,7 +5865,6 @@
             <l>Несчастие сестры...</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Те же и княгиня.</stage>
@@ -6271,7 +6243,6 @@
           <stage>Цаплин плачет.</stage>
           <stage>Ага! и он туда ж!Напрасно на себя ты напускаешь блажь:Здесь князя нет.</stage>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же, Инквартус и Фома.</stage>
@@ -6305,7 +6276,6 @@
             <stage>(Идет к столу.)</stage>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Те же и князь.</stage>
@@ -6404,7 +6374,6 @@
             <l>Уж я устал терпеть, - скажи, кто ты таков?</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же и графиня.</stage>
@@ -6670,7 +6639,6 @@
             <l>Поди сюда, мой друг!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же, княжна и Фома.</stage>
@@ -6748,7 +6716,6 @@
             <l>Так дело сделано!</l>
           </sp>
         </div>
-
         <div type="scene">
           <head>ЯВЛЕНИЕ ПОСЛЕДНЕЕ</head>
           <stage>Те же и Ванюша, потом Маша.</stage>

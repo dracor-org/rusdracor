@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q753298</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 13.
               М., "Наука", 1986.</title>
-            <date type="print" when="1897">"Впервые – сборник «Пьесы». СПб., изд. А. С. Суворина,
-              1897." (ФЭБ)</date>
-            <date type="premiere" when="1897">"1897 год – состоялась премьера пьесы в
-              Ростове-на-Дону" (Wikipedia)</date>
-            <date type="written" when="1896">"1896 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -131,6 +125,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1897">
+        <desc>"Впервые – сборник «Пьесы». СПб., изд. А. С. Суворина,
+              1897." (ФЭБ)</desc>
+      </event>
+      <event type="premiere" when="1897">
+        <desc>"1897 год – состоялась премьера пьесы в
+              Ростове-на-Дону" (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1896">
+        <desc>"1896 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q753298"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -464,8 +474,7 @@
           <sp who="#astrov">
             <speaker>Астров.</speaker>
             <p>А я-то сломя голову скакал тридцать верст. Ну, да ничего, не впервой. Зато уж
-              останусь у вас до завтра и, по крайней мере, высплюсь quantum satis<note place="foot"
-                >В полную меру (лат.).</note>.</p>
+              останусь у вас до завтра и, по крайней мере, высплюсь quantum satis<note place="foot">В полную меру (лат.).</note>.</p>
           </sp>
           <sp who="#sonja">
             <speaker>Соня.</speaker>

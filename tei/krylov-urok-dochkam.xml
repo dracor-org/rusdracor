@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19232466</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -47,11 +46,6 @@
             <title>Крылов И. А. Полное собрание сочинений: в 3 томах / Редакция текста и примечания
               Н. Л. Бродского. — М.: Государственное издательство художественной литературы, 1946. —
               Т. II. [Драматургия]. — С. 357—600.</title>
-            <date type="print" when="1807">"Напечатана в 1807 году, второе издание в 1816 году."
-              (rvb.ru)</date>
-            <date type="premiere" when="1807">"18 июня 1807 года впервые была поставлена на
-              петербургской сцене комедия «Урок дочкам»." (rvb.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,6 +103,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1807">
+        <desc>"Напечатана в 1807 году, второе издание в 1816 году."
+              (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1807">
+        <desc>"18 июня 1807 года впервые была поставлена на
+              петербургской сцене комедия «Урок дочкам»." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19232466"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

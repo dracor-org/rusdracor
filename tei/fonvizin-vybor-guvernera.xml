@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q55800418</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,9 +42,6 @@
           <bibl type="originalSource">
             <title>Д.И. Фонвизин. Собрание сочинений в двух томах. М.; Л.: Гос. Изд-во
               Художественной Литературы, 1959. Т. 1, с. 187—203.</title>
-            <date type="print" when="1790"/>
-            <date type="premiere"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -123,6 +119,14 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1790">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q55800418"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -629,7 +633,8 @@
           <sp who="#knjaz">
             <speaker>Князь.</speaker>
             <p>Князь должен быть на пункте своей чести деликатнее дворянина.<note>В этом месте в
-                оригинале недостает одного листа. <emph>(Прим. ред.)</emph></note></p>
+                оригинале недостает одного листа. <emph>(Прим. ред.)</emph>
+              </note></p>
           </sp>
           <sp who="#knjaginja">
             <speaker>Княгиня.</speaker>
@@ -699,7 +704,8 @@
             <stage>(про себя).</stage>
             <p>Ах, какое счастье! Он же еще и мозольный оператор, а мне в этом такая нужда!</p>
             <p>«Цену возьмет умеренную, и вас, княгиня, так, как и князя, звать будет: votre
-                altesse!»<note>Ваше сиятельство! <emph>(франц.)</emph></note></p>
+                altesse!»<note>Ваше сиятельство! <emph>(франц.)</emph>
+              </note></p>
           </sp>
         </div>
         <div type="scene">
@@ -852,8 +858,7 @@
             <speaker>Нельстецов.</speaker>
             <p>Я никак не беру на себя решить ваш вопрос; однако готов отдать на суд ваш мое о том
               мнение; вот оно: нигде и никогда не бывали и быть не могут такие законы, кои бы
-              каждого частного человека счастливым делали. Необходимо надобно, чтоб одна <pb n="199"
-              /> часть подданных для блага целого государства чем-нибудь жертвовала; следственно,
+              каждого частного человека счастливым делали. Необходимо надобно, чтоб одна <pb n="199"/> часть подданных для блага целого государства чем-нибудь жертвовала; следственно,
               равенство состояний и быть не может. Оно есть вымысел ложных философов, кои
               красноречивыми своими умствованиями довели французов до настоящего их положения. Они,
               желая отвратить злоупотребление власти, стараются истребить тот образ правления, коим

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19133211</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>Д. И. Фонвизин. Собрание сочинений в двух томах. Т. 1. М.: "Гослитиздат",
               1959.</title>
-            <date type="print" when="1786">источник: Коровин В. Л., Денис Иванович Фонвизин
-              1745–1792</date>
-            <date type="premiere" when="1772">источник: Коровин В. Л., Денис Иванович Фонвизин
-              1745–1792</date>
-            <date type="written" notBefore="1765" notAfter="1769">1765–1769
-              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/14_tom_XVIII/Gorbacheva/Gorbacheva.pdf)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -108,6 +101,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1786">
+        <desc>источник: Коровин В. Л., Денис Иванович Фонвизин
+              1745–1792</desc>
+      </event>
+      <event type="premiere" when="1772">
+        <desc>источник: Коровин В. Л., Денис Иванович Фонвизин
+              1745–1792</desc>
+      </event>
+      <event type="written" notBefore="1765" notAfter="1769">
+        <desc>1765–1769
+              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/14_tom_XVIII/Gorbacheva/Gorbacheva.pdf)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19133211"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -30,7 +30,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4105072</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,13 +41,6 @@
           <bibl type="originalSource">
             <title>"Собрание сочинений в тридцати томах": Государственное издательство
               художественной литературы; Москва; 1949. Том 12. Пьесы 1908-1915</title>
-            <date type="print" when="1910">"Впервые напечатано в 'Сборнике товарищества 'Знание' за
-              1910 год', книга тридцать третья, СПБ. 1910, с подзаголовком 'Сцены', и одновременно
-              отдельной книгой с подзаголовками 'Мать', 'Сцены' в издательстве И.П. Ладыжникова,
-              Берлин (без обозначения года издания)." (lib.ru)</date>
-            <date type="premiere" when="1936">"была сыграна в Театре Красной Армии в 1936 году"
-              (ru.wikipedia.org)</date>
-            <date type="written" when="1910">"1910" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -112,6 +104,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1910">
+        <desc>"Впервые напечатано в 'Сборнике товарищества 'Знание' за
+              1910 год', книга тридцать третья, СПБ. 1910, с подзаголовком 'Сцены', и одновременно
+              отдельной книгой с подзаголовками 'Мать', 'Сцены' в издательстве И.П. Ладыжникова,
+              Берлин (без обозначения года издания)." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1936">
+        <desc>"была сыграна в Театре Красной Армии в 1936 году"
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1910">
+        <desc>"1910" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4105072"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -620,8 +630,7 @@
         </sp>
         <sp who="#prohor">
           <speaker>Прохор.</speaker>
-          <p>Уроду. Скотина! Опять мне на голубятню кота пустил... Риголета кособокая...<note
-              place="foot">rigoletto -- рогоносец (итал.) -- Ред.</note> Даже ноги дрожат... со
+          <p>Уроду. Скотина! Опять мне на голубятню кота пустил... Риголета кособокая...<note place="foot">rigoletto -- рогоносец (итал.) -- Ред.</note> Даже ноги дрожат... со
             зла...</p>
         </sp>
         <sp who="#semen">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q65748839</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,14 +42,6 @@
           <bibl type="originalSource">
             <title>Я.Б. Княжнин. Комедии. Траур, или Утешенная вдова // Княжнин Я.Б. Комедии и
               комические оперы. СПб.: Гиперион, 2003. С. 167–191.</title>
-            <date type="print" when="1803">"Впервые: Собр. соч. Т. 5. М., 1803." (rvb.ru)</date>
-            <date type="premiere" when="1789">"Первые известные даты постановок комедии в Петербурге
-              -- 22 мая и 11 октября 1789 г." (rvb.ru)</date>
-            <date type="written" notBefore="1787" notAfter="1788">"Написана, вероятно, не ранее
-              конца 1787 г.: в собрание сочинений 1787 г. пьеса не вошла, время действия
-              охарактеризовано как военное, а война с Турцией началась 13 (24) августа 1787 г. Еще
-              вероятнее предположить, что пьеса написана после начала войны со Швецией (21 июня (2
-              июля) 1788 г.), ведь офицер Ветран прибыл в отпуск из Выборга." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -99,6 +90,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1803">
+        <desc>"Впервые: Собр. соч. Т. 5. М., 1803." (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1789">
+        <desc>"Первые известные даты постановок комедии в Петербурге
+              -- 22 мая и 11 октября 1789 г." (rvb.ru)</desc>
+      </event>
+      <event type="written" notBefore="1787" notAfter="1788">
+        <desc>"Написана, вероятно, не ранее
+              конца 1787 г.: в собрание сочинений 1787 г. пьеса не вошла, время действия
+              охарактеризовано как военное, а война с Турцией началась 13 (24) августа 1787 г. Еще
+              вероятнее предположить, что пьеса написана после начала войны со Швецией (21 июня (2
+              июля) 1788 г.), ведь офицер Ветран прибыл в отпуск из Выборга." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q65748839"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1755,8 +1765,7 @@
             <speaker>Ветран.</speaker>
             <p>Нельзя не чувствовать: она равно и моя. Он в нас только в двух разделен, и в нас
               только будет продолжать жизнь свою по смерти. Мы всякий день будем делать то, что он
-              делал: поплачем, да и попоем; попоем да и поплачем... Какой приятный долг для <pb
-                n="188"/> печальных питать горесть беспрестанно. Мы, сударыня, живя так, скорее
+              делал: поплачем, да и попоем; попоем да и поплачем... Какой приятный долг для <pb n="188"/> печальных питать горесть беспрестанно. Мы, сударыня, живя так, скорее
               можем быть сочтены покойниками, нежели г. Добросердов, потому что мы оба будем не мы,
               а г. Добросердов.</p>
           </sp>

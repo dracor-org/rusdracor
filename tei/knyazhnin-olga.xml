@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58049691</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>Княжнин Я.Б. Избранные произведения. Л.: Советский писатель, 1961. С. 117–182.
               (Библиотека поэта; Большая серия).</title>
-            <date type="print"/>
-            <date type="premiere"/>
-            <date type="written" when="1772">"По всей вероятности, «Ольга» написана в период между
-              «Дидоной» и «Владимиром и Ярополком» (1772), то есть в самом начале 1770-х годов,
-              когда была переведена Майковым и «Меропа»." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -97,6 +91,16 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1772">
+        <desc>"По всей вероятности, «Ольга» написана в период между
+              «Дидоной» и «Владимиром и Ярополком» (1772), то есть в самом начале 1770-х годов,
+              когда была переведена Майковым и «Меропа»." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58049691"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2944,7 +2948,7 @@
           <head>Явление 4</head>
           <stage>Прежние и Волод с народом.</stage>
           <sp who="#volod">
-            <speaker>&#60;Волод&#62;</speaker>
+            <speaker>&lt;Волод&gt;</speaker>
             <l>Уже в сей истине весь град мной утвержден.</l>
             <l>Познайте вы меня, познайте вы Волода.</l>
             <l>Друзья! Се — Святослав, князей остаток рода.</l>

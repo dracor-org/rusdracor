@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4411222</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,13 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. Н. Островский. Полное собрание сочинений. Том 1.</title>
-            <date type="print" when="1850">"«Москвитянин». 1850. № 6." (Wikipedia)</date>
-            <date type="premiere" when="1861">"Пьеса была официально разрешена к постановке в
-              сокращённом виде в декабре 1860 года. Спектакль прошёл в Александринском театре в
-              Петербурге 16 января 1861 года. Впервые в первоначальной редакции пьеса была
-              поставлена 30 апреля 1881 года в частном театре Анны Алексеевны Бренко «Близ памятника
-              Пушкину» в Москве." (Wikipedia)</date>
-            <date type="written" when="1849">"1849" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -104,6 +96,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1850">
+        <desc>"«Москвитянин». 1850. № 6." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1861">
+        <desc>"Пьеса была официально разрешена к постановке в
+              сокращённом виде в декабре 1860 года. Спектакль прошёл в Александринском театре в
+              Петербурге 16 января 1861 года. Впервые в первоначальной редакции пьеса была
+              поставлена 30 апреля 1881 года в частном театре Анны Алексеевны Бренко «Близ памятника
+              Пушкину» в Москве." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1849">
+        <desc>"1849" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4411222"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2206,8 +2216,7 @@
             <stage>(садится к столу и вынимает из кармана деньги).</stage>
             <p>Полтина серебром — это нынче Лазарь дал. Да намедни, как с колокольни упал, Аграфена
               Кондратьевна гривенник дали, да четвертак в орлянку выиграл, да третёвось хозяин забыл
-              на прилавке целковый. Эвось, что денег-то! <stage>(Считает про себя.)</stage>
-            </p>
+              на прилавке целковый. Эвось, что денег-то! <stage>(Считает про себя.)</stage></p>
             <stage>Голос Фоминишны за сценой: «Тишка, а Тишка! Долго ль мне кричать-то?»</stage>
             <p>Что там еще?</p>
             <stage>«Дома, что ли-ча, Лазарь?»</stage>
@@ -3862,8 +3871,7 @@
           </sp>
           <sp who="#podhaljuzin">
             <speaker>Подхалюзин.</speaker>
-            <p>Как можно забыть-с, помним! <stage>(Вынимает бумажник и дает ей ассигнацию.)</stage>
-            </p>
+            <p>Как можно забыть-с, помним! <stage>(Вынимает бумажник и дает ей ассигнацию.)</stage></p>
           </sp>
           <sp who="#ustinja_naumovna">
             <speaker>Устинья Наумовна.</speaker>

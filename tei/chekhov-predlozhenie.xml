@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1194195</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,14 +42,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 11.
               М., "Наука", 1986.</title>
-            <date type="print" when="1889">"Впервые — литографированное издание: Предложение. Шутка
-              в одном действии А. Чехова. Литография Московской театральной библиотеки Е. Н.
-              Рассохиной (ценз. разр. 27 декабря 1888 г.). Напечатано в газете «Новое время», 1889,
-              3 мая, № 4732. Подпись: А. П. Перепечатано в журнале «Артист», 1889, кн. III, ноябрь.
-              (chehov.niv.ru)</date>
-            <date type="premiere" when="1889">"Впервые была поставлена 12 апреля 1889 г. Столичным
-              артистическим кружком в Санкт-Петербурге." (Wikipedia).</date>
-            <date type="written" when="1888">"Завершена в к ноябрю 1888 года." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -98,6 +89,25 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1889">
+        <desc>"Впервые — литографированное издание: Предложение. Шутка
+              в одном действии А. Чехова. Литография Московской театральной библиотеки Е. Н.
+              Рассохиной (ценз. разр. 27 декабря 1888 г.). Напечатано в газете «Новое время», 1889,
+              3 мая, № 4732. Подпись: А. П. Перепечатано в журнале «Артист», 1889, кн. III, ноябрь.
+              (chehov.niv.ru)</desc>
+      </event>
+      <event type="premiere" when="1889">
+        <desc>"Впервые была поставлена 12 апреля 1889 г. Столичным
+              артистическим кружком в Санкт-Петербурге." (Wikipedia).</desc>
+      </event>
+      <event type="written" when="1888">
+        <desc>"Завершена в к ноябрю 1888 года." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1194195"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

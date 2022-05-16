@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -36,7 +36,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q74536925</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -48,15 +47,6 @@
           <bibl type="originalSource">
             <title>Сочинения императрицы Екатерины II. Произведения литературные. Под редакцией Apс.
               И. Введенского. С.-Петербург. Издание А. Ф. Маркса. 1893.</title>
-            <date type="print" when="1772">"1772 г. означает скорее время издания или первой
-              постановки, но никак не время написания комедии"
-              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</date>
-            <date type="premiere" when="1772">"известно, что до 12 апреля 1772 г. пьеса был трижды
-              представлена на театре"
-              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</date>
-            <date type="written" when="1771">"это произошло, как и указано в подзаголовке, «во время
-              чумы», т. е., вероятно, в 1771 г."
-              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -104,6 +94,26 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1772">
+        <desc>"1772 г. означает скорее время издания или первой
+              постановки, но никак не время написания комедии"
+              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</desc>
+      </event>
+      <event type="premiere" when="1772">
+        <desc>"известно, что до 12 апреля 1772 г. пьеса был трижды
+              представлена на театре"
+              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</desc>
+      </event>
+      <event type="written" when="1771">
+        <desc>"это произошло, как и указано в подзаголовке, «во время
+              чумы», т. е., вероятно, в 1771 г."
+              (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q74536925"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>Екатерина II</docAuthor>

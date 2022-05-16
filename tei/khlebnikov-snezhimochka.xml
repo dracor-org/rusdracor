@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -30,7 +30,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58183681</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           <bibl type="originalSource">
             <title>Хлебников В. Снежимочка: Рождественская сказка. – Хлебников В. Творения. – М.:
               Сов. писатель, 1987. – С. 381–390.</title>
-            <date type="print" when="1915">"Впервые: Весеннее контрагентство муз, 1915"
-              (ruslit.traumlibrary.net)</date>
-            <date type="premiere"/>
-            <date type="written" when="1908">"«Снежимочка» написана во второй половине 1908 г. в
-              Петербурге; […]" (ruslit.traumlibrary.net)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -337,6 +331,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1915">
+        <desc>"Впервые: Весеннее контрагентство муз, 1915"
+              (ruslit.traumlibrary.net)</desc>
+      </event>
+      <event type="written" when="1908">
+        <desc>"«Снежимочка» написана во второй половине 1908 г. в
+              Петербурге; […]" (ruslit.traumlibrary.net)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58183681"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -346,7 +353,8 @@
     </front>
     <body>
       <div type="act">
-        <head>1-е деймо<note place="foot">Деймо — действие пьесы.</note></head>
+        <head>1-е деймо<note place="foot">Деймо — действие пьесы.</note>
+        </head>
         <stage>Лес зимой — серебряной парчой одетый.</stage>
         <sp who="#snezini">
           <speaker>Снезини.</speaker>
@@ -687,21 +695,21 @@
       <div type="act">
         <head>2-е деймо</head>
         <sp who="#hovun">
-          <speaker>&#60;Ховун.&#62;</speaker>
+          <speaker>&lt;Ховун.&gt;</speaker>
           <p>Нонче норовят все из нас книги... Старых разбойников нет. Те, что свистнут в два
             пальца, и откуда ни возьмись сивка-бурка пышет ноздрями.</p>
         </sp>
         <sp who="#pervyj_sobesednik">
-          <speaker>&#60;1-й собеседник.&#62;</speaker>
+          <speaker>&lt;1-й собеседник.&gt;</speaker>
           <p>Складно сказано, дед. Читал ты, дедушка, Каутского?</p>
         </sp>
         <sp who="#hovun">
-          <speaker>&#60;Ховун.&#62;</speaker>
+          <speaker>&lt;Ховун.&gt;</speaker>
           <p>Мы, барин, темные люди черной сотни. Живем в лесу, а и в гостях у нас либо ворон, либо
             вор. Не научены мы.</p>
         </sp>
         <sp who="#pervyj_sobesednik">
-          <speaker>&#60;1-й собеседник.&#62;</speaker>
+          <speaker>&lt;1-й собеседник.&gt;</speaker>
           <p>А, вот он, мракобес, где!</p>
         </sp>
         <sp who="#hovun">
@@ -1084,8 +1092,7 @@
           <l>Пора текущая сметала.</l>
           <l>Но нами вспомнится, чем были,</l>
           <l>Восставим гордость старой были.</l>
-          <l>И цветень<note place="foot">Цветень — май.</note> сменит сечень<note place="foot"
-              >Сечень — январь.</note>,</l>
+          <l>И цветень<note place="foot">Цветень — май.</note> сменит сечень<note place="foot">Сечень — январь.</note>,</l>
           <l>И близки, близки сечи.</l>
         </sp>
         <dateline>Конец 1908</dateline>

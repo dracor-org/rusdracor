@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q51496927</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,9 +44,6 @@
             <title>Стихотворная комедия, комическая опера, водевиль конца XVIII - начала XIX века: В
               2-х т. Т. 2 (Вступ. ст., биограф, справки, сост., подгот. текста и примеч. А. А.
               Гозенпуда.- Л.: Сов. писатель, 1990.- 768 с. (Б-ка поэта. Большая серия).</title>
-            <date type="print" when="1818"/>
-            <date type="premiere" when="1818"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -96,6 +92,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1818">
+        <label/>
+      </event>
+      <event type="premiere" when="1818">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q51496927"/>
+  </standOff>
   <text>
     <front>
       <castList>
@@ -516,7 +523,6 @@
           <l>Гей! кто-нибудь! слуга!</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 2</head>
         <stage>Те же и Митяй.</stage>
@@ -577,7 +583,6 @@
           <l>Ты слишком мил!</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 3</head>
         <sp who="#dashenka">
@@ -593,7 +598,6 @@
           <l>Но всё безделица, племянник перебьет.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 4</head>
         <stage>Дашенька и Митяй.</stage>
@@ -697,7 +701,6 @@
           <l>Так отпущу ему мой комплиман в дверях.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 5</head>
         <stage>Те же и Мезецкий.</stage>
@@ -766,7 +769,6 @@
           <stage>(Уходит.)</stage>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 6</head>
         <stage>Дашенька и Мезецкий.</stage>
@@ -853,7 +855,6 @@
           <l>А там...</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 7</head>
         <stage>Те же и Зарницкин.</stage>
@@ -930,7 +931,6 @@
           <stage>(Уходит.)</stage>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 8</head>
         <stage>Мезецкий и Зарницкин.</stage>
@@ -1230,7 +1230,6 @@
           <stage>(Уходит.)</stage>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 9</head>
         <sp who="#mezetskij">
@@ -1249,7 +1248,6 @@
           <l>Он сущий негодяй, хоть лжет, хоть и не лжет.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 10</head>
         <stage>Мезецкий и Дашенька.</stage>
@@ -1337,7 +1335,6 @@
           <l>И вот она идет.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 11</head>
         <stage>Те же и княгиня.</stage>
@@ -1668,7 +1665,6 @@
           <l>И проучу его.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 12</head>
         <stage>Те же и Митяй.</stage>
@@ -1737,7 +1733,6 @@
           <l>Покойница идет.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 13</head>
         <stage>Те же и Хандрина.</stage>
@@ -1936,7 +1931,6 @@
           <l>Вот он с подарками...</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 14</head>
         <stage>Те же и Зарницкин.</stage>
@@ -2743,7 +2737,6 @@
           <stage>(Уходит с Дашею.)</stage>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ 15</head>
         <stage>Княгиня, Мезецкий, Зарницкин и Митяй.</stage>
@@ -2846,7 +2839,6 @@
           <l>И выпросим тотчас.</l>
         </sp>
       </div>
-
       <div type="scene">
         <head>ЯВЛЕНИЕ ПОСЛЕДНЕЕ</head>
         <stage>Зарницкин и Митяй (который гадает пальцами).</stage>

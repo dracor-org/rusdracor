@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58594951</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. П. Сумароков. Драматические произведения. Л., "Искусство", 1990</title>
-            <date type="print" when="1751">"Впервые - Синав и Трувор. Трагедия Александра
-              Сумарокова. Спб., 1751." (lib.ru)</date>
-            <date type="premiere" when="1750">"Первая постановка "Синава и Трувора" состоялась 21
-              июля 1750 г. на сцене "Комедиянтского дома" в Петергофе в присутствии императрицы
-              Елизаветы Петровны." (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -92,6 +85,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1751">
+        <desc>"Впервые - Синав и Трувор. Трагедия Александра
+              Сумарокова. Спб., 1751." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1750">
+        <desc>"Первая постановка "Синава и Трувора" состоялась 21
+              июля 1750 г. на сцене "Комедиянтского дома" в Петергофе в присутствии императрицы
+              Елизаветы Петровны." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58594951"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

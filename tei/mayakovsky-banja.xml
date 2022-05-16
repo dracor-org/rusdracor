@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4077515</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,15 +42,6 @@
           <bibl type="originalSource">
             <title>В. В. Маяковский. Полное собрание сочинений. В 13-ти тт. Т. 11. М.: Гослитиздат,
               1958.</title>
-            <date type="print" when="1929">"'Баня'. Драма в 6 действиях с цирком и фейерверком,
-              журн. 'Октябрь', М. 1929, No 11, ноябрь (первое, четвертое, пятое и шестое действия;
-              'О.')" (az.lib.ru)</date>
-            <date type="premiere" when="1930">"Хотя пьеса была написана для ГосТиМа, первую
-              постановку «Бани» осуществил Владимир Люце в Драматическом театре Государственного
-              народного дома в Ленинграде; премьера состоялась 30 января 1930 года."
-              (Wikipedia)</date>
-            <date type="written" when="1929">"22 сентября 1929 года поэт впервые прочёл пьесу
-              друзьям, но закончил работу лишь в середине октября." (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -182,6 +172,26 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1929">
+        <desc>"'Баня'. Драма в 6 действиях с цирком и фейерверком,
+              журн. 'Октябрь', М. 1929, No 11, ноябрь (первое, четвертое, пятое и шестое действия;
+              'О.')" (az.lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1930">
+        <desc>"Хотя пьеса была написана для ГосТиМа, первую
+              постановку «Бани» осуществил Владимир Люце в Драматическом театре Государственного
+              народного дома в Ленинграде; премьера состоялась 30 января 1930 года."
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1929">
+        <desc>"22 сентября 1929 года поэт впервые прочёл пьесу
+              друзьям, но закончил работу лишь в середине октября." (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4077515"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

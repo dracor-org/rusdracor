@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q16057822</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,16 +43,6 @@
             <title>Лермонтов М. Ю. Странный человек: Романтическая драма // Лермонтов М. Ю. Полное
               собрание сочинений: В 5 т. — М.; Л.: Academia, 1935—1937. Т. 4. Драмы и трагедии. —
               1935. — С. 183—246.</title>
-            <date type="print" when="1860">"Впервые — в книге Сочинения Лермонтова, преведённые в
-              порядок и дополненные С. С. Дудышкиным. — СПб.: А. И. Глазунов, 1860. — Т. 2. — С.
-              199—282." (ru.wikisource.org)</date>
-            <date type="premiere" when="1916">"Известны немногие постановки драмы «Странный человек»
-              на сцене: в Московском драматическом театре Суходольских в 1916г., […]"
-              (http://lermontov-lit.ru)</date>
-            <date type="written" when="1831">"Окончательно текст драмы «Странный человек»
-              установился в октябре — декабре 1831г., когда Лермонтов переписал ее. На обложке
-              тетради, содержащей беловой текст пьесы, Лермонтов обозначил: «Странный человек.
-              Романтическая драма. Москва. 1831 года»." (http://lermontov-lit.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -219,6 +208,27 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1860">
+        <desc>"Впервые — в книге Сочинения Лермонтова, преведённые в
+              порядок и дополненные С. С. Дудышкиным. — СПб.: А. И. Глазунов, 1860. — Т. 2. — С.
+              199—282." (ru.wikisource.org)</desc>
+      </event>
+      <event type="premiere" when="1916">
+        <desc>"Известны немногие постановки драмы «Странный человек»
+              на сцене: в Московском драматическом театре Суходольских в 1916г., […]"
+              (http://lermontov-lit.ru)</desc>
+      </event>
+      <event type="written" when="1831">
+        <desc>"Окончательно текст драмы «Странный человек»
+              установился в октябре — декабре 1831г., когда Лермонтов переписал ее. На обложке
+              тетради, содержащей беловой текст пьесы, Лермонтов обозначил: «Странный человек.
+              Романтическая драма. Москва. 1831 года»." (http://lermontov-lit.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q16057822"/>
+  </standOff>
   <text>
     <front>
       <pb n="183"/>
@@ -330,8 +340,7 @@
         <sp who="#vladimir">
           <speaker>Владимир.</speaker>
           <p>О, если б вы знали, если б видели... отец мой! вы не поняли эту нежную, божественную
-            душу; или вы несправедливы, несправедливы... я повторю это перед целым миром, <pb
-              n="186"/> и так громко, что ангелы услышат и ужаснутся человеческой жестокости...</p>
+            душу; или вы несправедливы, несправедливы... я повторю это перед целым миром, <pb n="186"/> и так громко, что ангелы услышат и ужаснутся человеческой жестокости...</p>
         </sp>
         <sp who="#pavel_grigorich">
           <speaker>Павел Григ.</speaker>

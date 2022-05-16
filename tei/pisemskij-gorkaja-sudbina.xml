@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4655496</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,14 +42,6 @@
           <bibl type="originalSource">
             <title>А.Ф.Писемский. Собр. соч. в 9 томах. Том 9. Издательство "Правда" биб-ка
               "Огонек", Москва, 1959.</title>
-            <date type="print" when="1859">"Впервые драма напечатана в "Библиотеке для чтения",
-              1859, No 11." (lib.ru)</date>
-            <date type="premiere" when="1863">"В первых (любительских) постановках драмы в Москве
-              главные роли исполняли: автор (Ананий Яковлев) и Н.В.Савицкая-Батезатул (Лизавета).
-              Постановки драмы в Александринском театре в Петербурге (с 18 октября 1863 года) были
-              крайне неудачны, так как труппа театра оказалась неподготовленной к сценическому
-              воплощению крестьянской жизни." (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -172,6 +163,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1859">
+        <desc>"Впервые драма напечатана в "Библиотеке для чтения",
+              1859, No 11." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1863">
+        <desc>"В первых (любительских) постановках драмы в Москве
+              главные роли исполняли: автор (Ананий Яковлев) и Н.В.Савицкая-Батезатул (Лизавета).
+              Постановки драмы в Александринском театре в Петербурге (с 18 октября 1863 года) были
+              крайне неудачны, так как труппа театра оказалась неподготовленной к сценическому
+              воплощению крестьянской жизни." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4655496"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4148682</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title>Москва, Государственное изд-во Художественной Литературы, 1960, Собрание
               сочинений в десяти томах, т. 3</title>
-            <date type="print" when="1863">"Дата первой публикации: 1863" (ru.wikipedia.org)</date>
-            <date type="premiere" when="1863">"премьера — 21 января 1863 года в Малом театре в
-              бенефис режиссёра А. Ф. Богданова." (ru.wikipedia.org)</date>
-            <date type="written" when="1862">"Написана в 1862 году." (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -105,6 +100,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1863">
+        <desc>"Дата первой публикации: 1863" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1863">
+        <desc>"премьера — 21 января 1863 года в Малом театре в
+              бенефис режиссёра А. Ф. Богданова." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1862">
+        <desc>"Написана в 1862 году." (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4148682"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>

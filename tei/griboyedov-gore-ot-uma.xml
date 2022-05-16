@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q15005</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,11 +43,6 @@
             <title>А. Грибоедов. Горе от ума. А. Сухово-Кобылин. Пьесы. А. Островский. Пьесы.
               "Библиотека Всемирной литературы", М.: Художественная литература, 1974. С.
               35–136.</title>
-            <date type="print" when="1825">"Дата первой публикации: 1825 (первая полная – 1862)"
-              (Wikipedia)</date>
-            <date type="premiere"/>
-            <date type="written" notBefore="1822" notAfter="1824">"Дата написания: 1822–1824"
-              (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -187,10 +181,8 @@
             <relation name="associated_with" active="#molchalin" passive="#famusov"/>
             <relation name="spouses" mutual="#platon_mihajlovich #natalja_dmitrievna"/>
             <relation name="spouses" mutual="#knjaz #knjaginja"/>
-            <relation name="siblings"
-              mutual="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
-            <relation name="parent_of" active="#knjaz #knjaginja"
-              passive="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
+            <relation name="siblings" mutual="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
+            <relation name="parent_of" active="#knjaz #knjaginja" passive="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
             <relation name="related_with" active="#grafinja_vnuchka" passive="#grafinja_babushka"/>
             <relation name="related_with" active="#hlestova" passive="#famusov"/>
           </listRelation>
@@ -214,6 +206,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1825">
+        <desc>"Дата первой публикации: 1825 (первая полная – 1862)"
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" notBefore="1822" notAfter="1824">
+        <desc>"Дата написания: 1822–1824"
+              (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q15005"/>
+  </standOff>
   <text>
     <front>
       <pb n="35"/>
@@ -5269,8 +5274,7 @@
               <l part="F">Шш!</l>
             </lg>
           </sp>
-          <sp
-            who="#grafinja_babushka #knjaz #hlestova #sofija #molchalin #platon_mihajlovich #natalja_dmitrievna #grafinja_vnuchka #knjaginja #pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna #zagoretskij #skalozub #famusov">
+          <sp who="#grafinja_babushka #knjaz #hlestova #sofija #molchalin #platon_mihajlovich #natalja_dmitrievna #grafinja_vnuchka #knjaginja #pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna #zagoretskij #skalozub #famusov">
             <speaker>Все</speaker>
             <lg>
               <l part="F">Шш!</l>
@@ -6060,8 +6064,7 @@
               <l part="F">Вы!</l>
             </lg>
           </sp>
-          <sp
-            who="#zagoretskij #pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna">
+          <sp who="#zagoretskij #pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna">
             <speaker>Все вместе</speaker>
             <lg>
               <l>Мсьё Репетилов! Вы! Мсье Репетилов, что вы!</l>
@@ -6102,8 +6105,7 @@
               <l part="I">За мною, матушка.</l>
             </lg>
           </sp>
-          <sp
-            who="#zagoretskij #pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna #knjaginja #repetilov #hlestova">
+          <sp who="#zagoretskij #pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna #knjaginja #repetilov #hlestova">
             <speaker>Все</speaker>
             <stage>(друг к другу)</stage>
             <lg>

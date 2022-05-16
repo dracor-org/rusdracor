@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -30,7 +30,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4173657</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           <bibl type="originalSource">
             <title>М. Горький. Рассказы. Очерки. Воспоминания. Пьесы. "Библиотека Всемирной
               литературы", М.: Художественная литература, 1975.</title>
-            <date type="print" when="1932">"Пьеса была впервые напечатана отдельной книгой в
-              издательстве «Книга» в 1932 году." (Wikipedia)</date>
-            <date type="premiere" when="1932">"Премьера пьесы […] состоялась 25 сентября 1932 года."
-              (Wikipedia)</date>
-            <date type="written" when="1931">"1931 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -149,6 +143,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1932">
+        <desc>"Пьеса была впервые напечатана отдельной книгой в
+              издательстве «Книга» в 1932 году." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1932">
+        <desc>"Премьера пьесы […] состоялась 25 сентября 1932 года."
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1931">
+        <desc>"1931 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4173657"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

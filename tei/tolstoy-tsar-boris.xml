@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q7849392</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,10 +44,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1870">"Напечатана была в том же, 1870 году" (Wikipedia)</date>
-            <date type="premiere" when="1881">"Первая постановка состоялась в Москве в 1881 году."
-              (Wikipedia)</date>
-            <date type="written" when="1870">"написанная в 1870 году" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -400,8 +395,7 @@
             <persName>Пятый</persName>
             <persName xml:lang="ger">Fünfter</persName>
           </person>
-          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE"
-            ana="http://www.wikidata.org/entity/Q151623">
+          <person xml:id="tsaritsa_mariya_fedorovna_nagaya" sex="FEMALE" ana="http://www.wikidata.org/entity/Q151623">
             <persName>Царица Мария Федоровна Нагая</persName>
             <persName xml:lang="ger">Zariza Mariâ Fedorovna Nagaâ</persName>
           </person>
@@ -492,6 +486,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1870">
+        <desc>"Напечатана была в том же, 1870 году" (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1881">
+        <desc>"Первая постановка состоялась в Москве в 1881 году."
+              (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1870">
+        <desc>"написанная в 1870 году" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q7849392"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -3414,8 +3423,7 @@
           <stage>Бьет сплеча, Посадский сторонится, Митька с размаху падает оземь.</stage>
           <sp who="#posadskij">
             <speaker>Посадский</speaker>
-            <p>
-              <stage>притиснув его коленом</stage> Убить аль жива оставить?</p>
+            <p><stage>притиснув его коленом</stage> Убить аль жива оставить?</p>
           </sp>
           <sp who="#razbojniki">
             <speaker>Разбойники.</speaker>
@@ -3423,8 +3431,7 @@
           </sp>
           <sp who="#posadskij">
             <speaker>Посадский</speaker>
-            <p>
-              <stage>отпуская Митьку</stage> Кого люблю, того и бью. Вставай, тезка, помиримся!
+            <p><stage>отпуская Митьку</stage> Кого люблю, того и бью. Вставай, тезка, помиримся!
               Приходи в Северскую землю, под царский стяг! Царевич Дмитрий пожалует тебя!</p>
           </sp>
           <sp who="#hlopko">

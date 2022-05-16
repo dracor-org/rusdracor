@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q58609656</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Русская драматургия XVIII века. – М.: Современник, 1986. – С. 445–460.</title>
-            <date type="print" when="1806">"Впервые -- отд. изд., М., 1806, Университетская
-              типография." (lib.ru)</date>
-            <date type="premiere" when="1803">"Первое представление "Ермака" состоялось в Москве в
-              Петровском театре 13 февраля 1803 г." (lib.ru)</date>
-            <date type="written" when="1803">"Трагедия написана в 1803 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +100,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1806">
+        <desc>"Впервые -- отд. изд., М., 1806, Университетская
+              типография." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1803">
+        <desc>"Первое представление "Ермака" состоялось в Москве в
+              Петровском театре 13 февраля 1803 г." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1803">
+        <desc>"Трагедия написана в 1803 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q58609656"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -143,7 +153,8 @@
         <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
         <stage>Театр представляет разбросанные таборы Ермаковы, назади за рекою гора, а на горе
           виден город Сибирь.<note place="foot">Город Сибирь -- в XVI в. главный город татарского
-            государства.</note></stage>
+            государства.</note>
+        </stage>
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Ермак и Грубей</stage>
@@ -1867,7 +1878,8 @@
               Ирта... Прочь, прочь! Удались, ужасное воображение! Ты весь ад вселяешь в грудь мою!..
               Вот ужасное препинание!</p>
             <stage>Слышен ясак.<note place="foot">Слышен ясак. -- То есть слышен опознавательный
-                сигнал.</note></stage>
+                сигнал.</note>
+            </stage>
             <p>Неприятель показался. Ну, друзья! По своим местам! Полетим ему навстречу.</p>
             <stage>Все уходят в разные стороны.</stage>
           </sp>

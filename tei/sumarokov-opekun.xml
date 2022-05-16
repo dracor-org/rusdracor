@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q66362555</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. П. Сумароков. Драматические произведения. Л., "Искусство", 1990</title>
-            <date type="print" when="1765">"Впервые -- Опекун. Комедия Александра Сумарокова. Спб.,
-              1765." (lib.ru)</date>
-            <date type="premiere">"Сведений о постановках комедии не сохранилось. П. Н. Берков
-              связывает это с имевшимися в тексте пьесы выпадами против екатерининской политики
-              (см.: Берков, с. 88-89)." (lib.ru)</date>
-            <date type="written" when="1765">"1765" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -99,6 +92,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1765">
+        <desc>"Впервые -- Опекун. Комедия Александра Сумарокова. Спб.,
+              1765." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1765">
+        <desc>"1765" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q66362555"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

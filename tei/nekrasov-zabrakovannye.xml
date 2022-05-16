@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59343126</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,10 +44,6 @@
             <title> Н.А. Некрасов. Полное собрание сочинений и писем в пятнадцати томах
               Художественные произведения. Тома 1-10 Том шестой. Драматические произведения
               1840-1859 гг. Л., "Наука", 1983</title>
-            <date type="print" when="1859">"Впервые опубликовано: С, 1859, No 10, 'Свисток', No 3,
-              с. 501-516, с подписью: 'Чурмень'." (lib.ru)</date>
-            <date type="premiere"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,6 +97,15 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1859">
+        <desc>"Впервые опубликовано: С, 1859, No 10, 'Свисток', No 3,
+              с. 501-516, с подписью: 'Чурмень'." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59343126"/>
+  </standOff>
   <text>
     <pb n="190"/>
     <front>
@@ -632,7 +636,7 @@
       <div type="act">
         <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
         <div type="scene">
-          <head>&#60;Сцена 1&#62;</head>
+          <head>&lt;Сцена 1&gt;</head>
           <stage>Те же и молодой Тузов (быстро въезжает верхом, окруженный собаками).</stage>
           <sp who="#tuzov">
             <speaker>Тузов</speaker>

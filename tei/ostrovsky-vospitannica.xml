@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4126311</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,11 +43,6 @@
             <title>А. Н. Островский. Собрание сочинений в 10 томах. Под общ. ред. Г. И. Владыкина,
               А. И. Ревякина, В. А. Филиппова. -- М.: Гос. изд-во худ. лит-ры, 1959. -- Том
               2.</title>
-            <date type="print" when="1859">"Впервые пьеса была опубликована в журнале "Библиотека
-              для чтения", 1859, No 1." (lib.ru)</date>
-            <date type="premiere" when="1863">"21 октября 1863 года "Воспитанница" в первый раз была
-              представлена в московском Малом театре, в бенефис Л. А. Карской." (lib.ru)</date>
-            <date type="written" when="1858">"Написана в 1858 году." (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +100,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1859">
+        <desc>"Впервые пьеса была опубликована в журнале "Библиотека
+              для чтения", 1859, No 1." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1863">
+        <desc>"21 октября 1863 года "Воспитанница" в первый раз была
+              представлена в московском Малом театре, в бенефис Л. А. Карской." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1858">
+        <desc>"Написана в 1858 году." (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4126311"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

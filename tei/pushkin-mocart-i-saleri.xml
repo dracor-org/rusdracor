@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4305148</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,16 +42,6 @@
           </availability>
           <bibl type="originalSource">
             <title>[Print source from which digital version was made?].</title>
-            <date type="print" when="1831">"Впервые – в альманахе «Северные цветы на 1832 год»,
-              СПб., 1831, с. 17–32 (цензурное разрешение 9 октября 1831) с подписью «А. Пушкин» и
-              датой под текстом: «26 октября 1830 г.» Затем – в книге «Стихотворения Александра
-              Пушкина», ч. III, СПб., 1832 г., стр. 89–106." (Wikisource)</date>
-            <date type="premiere" when="1832">"27 января 1832 года, с согласия автора, его маленькая
-              трагедия была представлена в Петербурге в бенефис Якова Брянского, сыгравшего в этой
-              постановке Сальери." (Wikipedia)</date>
-            <date type="written" when="1830">"Написана в чрезвычайно плодотворный период, известный
-              в пушкиноведении под названием Первой Болдинской осени – в 1830 году."
-              (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -81,6 +70,27 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1831">
+        <desc>"Впервые – в альманахе «Северные цветы на 1832 год»,
+              СПб., 1831, с. 17–32 (цензурное разрешение 9 октября 1831) с подписью «А. Пушкин» и
+              датой под текстом: «26 октября 1830 г.» Затем – в книге «Стихотворения Александра
+              Пушкина», ч. III, СПб., 1832 г., стр. 89–106." (Wikisource)</desc>
+      </event>
+      <event type="premiere" when="1832">
+        <desc>"27 января 1832 года, с согласия автора, его маленькая
+              трагедия была представлена в Петербурге в бенефис Якова Брянского, сыгравшего в этой
+              постановке Сальери." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1830">
+        <desc>"Написана в чрезвычайно плодотворный период, известный
+              в пушкиноведении под названием Первой Болдинской осени – в 1830 году."
+              (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4305148"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

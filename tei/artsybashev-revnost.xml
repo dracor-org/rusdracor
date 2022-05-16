@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q99391305</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>М. Арцыбашев. Собрание сочинений. Томъ восьмой. Московское книгоиздательство.
               1916.</title>
-            <date type="print" when="1913">"Пьеса «Ревность», вышедшая в 1913 году"
-              (https://ru.wikipedia.org/wiki/Арцыбашев,_Михаил_Петрович)</date>
-            <date type="premiere" when="1914">"В 1914 году состоялась премьера фильма «Ревность»,
-              снятого режиссёром О. Ханжонковым."
-              (https://ru.wikipedia.org/wiki/Арцыбашев,_Михаил_Петрович)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -118,6 +111,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1913">
+        <desc>"Пьеса «Ревность», вышедшая в 1913 году"
+              (https://ru.wikipedia.org/wiki/Арцыбашев,_Михаил_Петрович)</desc>
+      </event>
+      <event type="premiere" when="1914">
+        <desc>"В 1914 году состоялась премьера фильма «Ревность»,
+              снятого режиссёром О. Ханжонковым."
+              (https://ru.wikipedia.org/wiki/Арцыбашев,_Михаил_Петрович)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q99391305"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1649,8 +1656,7 @@
             Всѣ въ тактъ хлопаютъ въ ладоши. Семенъ Семеновичъ держитъ надъ головой обѣ свѣчи.
             Танецъ кончаете я).</stage>
         </sp>
-        <sp
-          who="#sonja #poruchik #serezha #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
+        <sp who="#sonja #poruchik #serezha #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
           <speaker>Всѣ.</speaker>
           <p>Браво, браво!.. Бисъ!.. Еще!..</p>
           <stage>(Елена Николаевна, тяжело дыша, останавливается, и не то въ забывчивости, не то отъ
@@ -1661,8 +1667,7 @@
           <stage>(съ странной, блуждающей улыбкой).</stage>
           <p>Устала...</p>
         </sp>
-        <sp
-          who="#sonja #poruchik #serezha #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
+        <sp who="#sonja #poruchik #serezha #semen_semenovich #andrej_ivanovich #doktor #klavdіja_mihajlovna #sergej_petrovich">
           <speaker>Всѣ.</speaker>
           <p>Браво! Браво!.. Бисъ, бисъ!.. Еще!.. Голубушка, Елена Николаевна, еще!.. Молодецъ,
             князь!..</p>

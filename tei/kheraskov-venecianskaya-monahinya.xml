@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q55117865</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>М.М. Херасков. Избранные произведения. М.; Л.: Советский писатель, 1961. С.
               247(?) 249—296. (Библиотека поэта; Большая серия).</title>
-            <date type="print" when="1758">"Впервые — отдельным изданием (М., 1758), Печ. по
-              «Творениям», ч. 4, стр. 1." (rvb.ru)</date>
-            <date type="premiere" when="1758">"Предположительно игралась в театре Московского
-              университета в 1758--1759 гг." (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -95,6 +89,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1758">
+        <desc>"Впервые — отдельным изданием (М., 1758), Печ. по
+              «Творениям», ч. 4, стр. 1." (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1758">
+        <desc>"Предположительно игралась в театре Московского
+              университета в 1758--1759 гг." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q55117865"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

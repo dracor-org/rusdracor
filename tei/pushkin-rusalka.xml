@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3212466</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,11 +40,6 @@
           <bibl type="originalSource">
             <title>А.С. Пушкин. Собрание сочинений в 10 томах. Том 4. Государственное издательство
               художественной литературы. М. 1960.</title>
-            <date type="print" when="1837">"Напечатана после смерти Пушкина в VI книге журнала
-              'Современник' за 1837 г." (rvb.ru)</date>
-            <date type="premiere"/>
-            <date type="written" notBefore="1829" notAfter="1832">"Начата в 1829 г.; в 1832 г.
-              Пушкин продолжал ее, но оставил недоконченной." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -130,6 +124,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1837">
+        <desc>"Напечатана после смерти Пушкина в VI книге журнала
+              'Современник' за 1837 г." (rvb.ru)</desc>
+      </event>
+      <event type="written" notBefore="1829" notAfter="1832">
+        <desc>"Начата в 1829 г.; в 1832 г.
+              Пушкин продолжал ее, но оставил недоконченной." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q3212466"/>
+  </standOff>
   <text>
     <body>
       <div type="scene">

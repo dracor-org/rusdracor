@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59220848</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title> Лажечников И. И. Собрание сочинений. В 6 томах. Том 6. М.: Можайск -- Терра,
               1994.</title>
-            <date type="print" when="1855">"изд. в 1855" (krugosvet.ru)</date>
-            <date type="premiere" when="1854">"[Водевиль] представлен в 1854 году"
-              (ru.wikipedia.org)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -142,6 +137,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1855">
+        <desc>"изд. в 1855" (krugosvet.ru)</desc>
+      </event>
+      <event type="premiere" when="1854">
+        <desc>"[Водевиль] представлен в 1854 году"
+              (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59220848"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

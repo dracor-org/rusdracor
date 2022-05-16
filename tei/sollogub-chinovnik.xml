@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63729678</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>Русская драма эпохи А. Н. Островского. Составление, общая редакция, вступительная
               статья А. И. Журавлевой. М., Издательство Московского университета</title>
-            <date type="print" when="1856">"Текст пьесы печатается по изданию: Библиотека для
-              чтения, 1856, No 3." (lib.ru)</date>
-            <date type="premiere" when="1856">"22 февраля [2016] состоялась премьера на сцене
-              Александрийского театра" (lib.ru)</date>
-            <date type="written" when="1856">"The comedy was written in early 1856." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -91,6 +85,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1856">
+        <desc>"Текст пьесы печатается по изданию: Библиотека для
+              чтения, 1856, No 3." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1856">
+        <desc>"22 февраля [2016] состоялась премьера на сцене
+              Александрийского театра" (lib.ru)</desc>
+      </event>
+      <event type="written" when="1856">
+        <desc>"The comedy was written in early 1856." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63729678"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>В. А. Соллогуб</docAuthor>
@@ -100,11 +110,14 @@
       </docTitle>
       <castList>
         <head>Действующие лица</head>
-        <castItem>ГРАФИНЯ <lb/><emph>богатая вдова</emph>.</castItem>
+        <castItem>ГРАФИНЯ <lb/>
+          <emph>богатая вдова</emph>.</castItem>
         <castItem>МИСХОРИН.</castItem>
         <castItem>НАДИМОВ.</castItem>
-        <castItem>СТРЕЛЬСКИЙ <lb/><emph>отставной полковник</emph>.</castItem>
-        <castItem>ДРОБИНКИН <lb/><emph>сосед графини</emph>.</castItem>
+        <castItem>СТРЕЛЬСКИЙ <lb/>
+          <emph>отставной полковник</emph>.</castItem>
+        <castItem>ДРОБИНКИН <lb/>
+          <emph>сосед графини</emph>.</castItem>
         <castItem>СЛУГА.</castItem>
       </castList>
       <set>
@@ -1693,8 +1706,7 @@
           <speaker>Дробинкин.</speaker>
           <p>Да мне что... Не женихом же быть. Мне деток только бы пристроить. Ну, стал ли бы я о
             себе думать?.. На что оно мне, богатство-то?.. Века моего немного; сам я, как видите, не
-            избалован. Затей таких, чтобы в картишки или за галстук а la framboise<note place="foot"
-              >Под мухой (фр.).</note>, за мною, ваше сиятельство, и смолоду не бывало. Что деньги?
+            избалован. Затей таких, чтобы в картишки или за галстук а la framboise<note place="foot">Под мухой (фр.).</note>, за мною, ваше сиятельство, и смолоду не бывало. Что деньги?
             суета, прах! Да вот, хотя бы в настоящем случае, верьте чести, ни душою, ни телом не
             виноват, истинно не виноват! Ну, посмел ли бы я против вас, ваше сиятельство? Да если бы
             вы знали, что про вас-то, про нашу голубушку, говорят в губернии!.. Так и говорят, что

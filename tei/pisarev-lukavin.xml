@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59276949</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,10 +43,6 @@
           <bibl type="originalSource">
             <title>Серия "Библиотека поэта". Большая серия. Второе издание. М.-Л., "Советский
               писатель", 1964</title>
-            <date type="print" when="1823">"Впервые - М., 1823." (lib.ru)</date>
-            <date type="written"/>
-            <date type="premiere" when="1823">"'Лукавин' представлен впервые в московском театре 2-3
-              октября 1823 г." (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -119,6 +114,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1823">
+        <desc>"Впервые - М., 1823." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1823">
+        <desc>"'Лукавин' представлен впервые в московском театре 2-3
+              октября 1823 г." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59276949"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2015,7 +2022,8 @@
           </sp>
           <sp who="#vetron">
             <speaker>Ветрон<note place="foot">См. примечание в конце комедии. -
-              Ред.</note></speaker>
+              Ред.</note>
+            </speaker>
             <l part="F">Без пенья не вкусно и вино.</l>
             <l part="I">Усладов, ты споешь.</l>
           </sp>

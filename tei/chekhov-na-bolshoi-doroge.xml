@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4310907</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 11.
               М., "Наука", 1986.</title>
-            <date type="print" when="1914">"Впервые — в книге: На большой дороге. Драматический этюд
-              в одном действии. А. Чехонте. // «Слово». Сборник второй. К десятилетию смерти А. П.
-              Чехова. Под редакцией М. П. Чеховой. — М.: Книгоиздательство писателей в Москве, 1914.
-              — С. 8—36" (Wikisource)</date>
-            <date type="premiere"/>
-            <date type="written" when="1884">"осень 1884" (Wikisource)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -136,6 +129,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1914">
+        <desc>"Впервые — в книге: На большой дороге. Драматический этюд
+              в одном действии. А. Чехонте. // «Слово». Сборник второй. К десятилетию смерти А. П.
+              Чехова. Под редакцией М. П. Чеховой. — М.: Книгоиздательство писателей в Москве, 1914.
+              — С. 8—36" (Wikisource)</desc>
+      </event>
+      <event type="written" when="1884">
+        <desc>"осень 1884" (Wikisource)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4310907"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

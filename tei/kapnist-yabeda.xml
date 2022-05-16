@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59009071</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,13 +42,6 @@
           <bibl type="originalSource">
             <title>Капнист В.В. Избранные произведения. Л.: Советский писатель, 1973. С. 331–462.
               (Библиотека поэта; Большая серия).</title>
-            <date type="print" when="1798">"Отд. изд.: «Ябеда. Комедия в пяти действиях. Печатано в
-              Императорской типографии, иждивением г. Крутицкого», СПб., 1798, по копии,
-              представленной Капнистом в столичную цензуру в 1797 г." (rvb.ru)</date>
-            <date type="premiere" when="1798">"в 1798 г. она была издана и одновременно поставлена
-              на петербургской сцене" (http://istlit.ru)</date>
-            <date type="written" notBefore="1791" notAfter="1798">"Время написания «Ябеды» может
-              быть отнесено к 1791–1798 гг." (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -123,6 +115,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1798">
+        <desc>"Отд. изд.: «Ябеда. Комедия в пяти действиях. Печатано в
+              Императорской типографии, иждивением г. Крутицкого», СПб., 1798, по копии,
+              представленной Капнистом в столичную цензуру в 1797 г." (rvb.ru)</desc>
+      </event>
+      <event type="premiere" when="1798">
+        <desc>"в 1798 г. она была издана и одновременно поставлена
+              на петербургской сцене" (http://istlit.ru)</desc>
+      </event>
+      <event type="written" notBefore="1791" notAfter="1798">
+        <desc>"Время написания «Ябеды» может
+              быть отнесено к 1791–1798 гг." (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59009071"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -4149,8 +4159,7 @@
             <l>На что ж привешены нам руки,</l>
             <l>Как не на то, чтоб брать?</l>
           </sp>
-          <sp
-            who="#fyokla #anna #krivosudov #pravolov #bulbulkin #atuev #radbyn #parolkin #khvataiko #kokhtin #naumych #pryamikov">
+          <sp who="#fyokla #anna #krivosudov #pravolov #bulbulkin #atuev #radbyn #parolkin #khvataiko #kokhtin #naumych #pryamikov">
             <speaker>Все</speaker>
             <stage>(повторяют)</stage>
             <l part="I">Брать, брать, брать.</l>
@@ -4181,8 +4190,7 @@
             <l>Как не на то, чтоб брать?</l>
             <stage>(Размахивая руками.)</stage>
           </sp>
-          <sp
-            who="#fyokla #anna #krivosudov #pravolov #bulbulkin #atuev #radbyn #parolkin #khvataiko #kokhtin #naumych #pryamikov">
+          <sp who="#fyokla #anna #krivosudov #pravolov #bulbulkin #atuev #radbyn #parolkin #khvataiko #kokhtin #naumych #pryamikov">
             <speaker>Все</speaker>
             <stage>(повторяют)</stage>
             <l part="I">Брать, брать, брать.</l>
@@ -4198,8 +4206,7 @@
             <l>Котора говорит: что взято,</l>
             <l>То свято!</l>
           </sp>
-          <sp
-            who="#fyokla #anna #krivosudov #pravolov #bulbulkin #atuev #radbyn #parolkin #khvataiko #kokhtin #naumych #pryamikov">
+          <sp who="#fyokla #anna #krivosudov #pravolov #bulbulkin #atuev #radbyn #parolkin #khvataiko #kokhtin #naumych #pryamikov">
             <speaker>Все</speaker>
             <stage>(повторяют)</stage>
             <l>Свято!</l>

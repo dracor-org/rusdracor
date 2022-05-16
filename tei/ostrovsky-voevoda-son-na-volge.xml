@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4114270</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,9 +44,6 @@
             <title>А. Н. Островский. Собрание сочинений в 10 томах. Под общ. ред. Г. И. Владыкина,
               А. И. Ревякина, В. А. Филиппова. -- М.: Гос. изд-во худ. лит-ры, 1959. -- Том 4. --
               Комментарии В. А. Бочкарева.</title>
-            <date type="print" when="1865"/>
-            <date type="premiere" when="1865"/>
-            <date type="written" when="1864"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -257,6 +253,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1865">
+        <label/>
+      </event>
+      <event type="premiere" when="1865">
+        <label/>
+      </event>
+      <event type="written" when="1864">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4114270"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

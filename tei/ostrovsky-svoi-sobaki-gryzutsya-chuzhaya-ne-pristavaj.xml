@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4411223</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,16 +44,6 @@
             <title>По изд.: А. Н. Островский. Собрание сочинений в 10 томах. Под общ. ред. Г. И.
               Владыкина, А. И. Ревякина, В. А. Филиппова. -- М.: Гос. изд-во худ. лит-ры, 1959. --
               Том 2. (lib.ru)</title>
-            <date type="print" when="1861">"Впервые пьеса была опубликована в журнале "Библиотека
-              для чтения", 1861, No 3." (lib.ru)</date>
-            <date type="premiere" when="1861">"Первые представления пьесы состоялись почти
-              одновременно в Москве и Петербурге. В Малом театре она шла 27 октября 1861 года, в
-              бенефис С. П. Акимовой. Роли исполняли: Бальзаминов -- А. А. Рассказов, Антрыгина --
-              Л. П. Никулина-Косицкая, Бальзаминова -- Н. В. Рыкалова и др. Первый спектакль в
-              Александрийском театре был 3 ноября 1861 года, в бенефис Линской, при следующем
-              распределении ролей: Бальзаминов -- И. Ф. Горбунов, Устрашимов -- П. С. Степанов,
-              Антрыгина -- Ю. Н. Линская и др." (lib.ru)</date>
-            <date type="written" when="1861">"Написана в 1861 году." (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -112,6 +101,27 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1861">
+        <desc>"Впервые пьеса была опубликована в журнале "Библиотека
+              для чтения", 1861, No 3." (lib.ru)</desc>
+      </event>
+      <event type="premiere" when="1861">
+        <desc>"Первые представления пьесы состоялись почти
+              одновременно в Москве и Петербурге. В Малом театре она шла 27 октября 1861 года, в
+              бенефис С. П. Акимовой. Роли исполняли: Бальзаминов -- А. А. Рассказов, Антрыгина --
+              Л. П. Никулина-Косицкая, Бальзаминова -- Н. В. Рыкалова и др. Первый спектакль в
+              Александрийском театре был 3 ноября 1861 года, в бенефис Линской, при следующем
+              распределении ролей: Бальзаминов -- И. Ф. Горбунов, Устрашимов -- П. С. Степанов,
+              Антрыгина -- Ю. Н. Линская и др." (lib.ru)</desc>
+      </event>
+      <event type="written" when="1861">
+        <desc>"Написана в 1861 году." (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4411223"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q57834358</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,10 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>А. П. Сумароков. Драматические произведения. Л., "Искусство", 1990</title>
-            <date type="print"/>
-            <date type="premiere" when="1750">"Представлена в первый раз в 1750 году в октябре
-              месяце, в Императорских комнатах в зимнем дворце в Санктпетербурге." (lib.ru)</date>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -106,6 +101,15 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1750">
+        <desc>"Представлена в первый раз в 1750 году в октябре
+              месяце, в Императорских комнатах в зимнем дворце в Санктпетербурге." (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q57834358"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

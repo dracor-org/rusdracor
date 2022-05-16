@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q59363016</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,10 +42,6 @@
           <bibl type="originalSource">
             <title>Я.Б. Княжнин. Чудаки // Княжнин Я.Б. Избранные произведения. Л.: Советский
               писатель, 1961. С. 429–562. (Библиотека поэта; Большая серия).</title>
-            <date type="print" when="1793">"Впервые — отдельное издание, СПб., 1793, без имени
-              автора, […]" (rvb.ru)</date>
-            <date type="premiere"/>
-            <date type="written" when="1790">"1790" (rvb.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -119,6 +114,18 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1793">
+        <desc>"Впервые — отдельное издание, СПб., 1793, без имени
+              автора, […]" (rvb.ru)</desc>
+      </event>
+      <event type="written" when="1790">
+        <desc>"1790" (rvb.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q59363016"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -1746,8 +1753,7 @@
             <l part="F">Я очень, очень рад,</l>
             <l>On ne peut plus,<note place="foot">Лучше быть не может (франц.). — Ред.</note> что
               вам, мосье, попал я в лад,</l>
-            <l>Que<note place="foot">Что (франц.). — Ред.</note> мысли vous avez<note place="foot"
-                >Вы имеете (франц.). — Ред.</note> со мною одинаки.</l>
+            <l>Que<note place="foot">Что (франц.). — Ред.</note> мысли vous avez<note place="foot">Вы имеете (франц.). — Ред.</note> со мною одинаки.</l>
             <l>И благородство чем мы можем доказать?</l>
             <l>По-русски не уметь, всё наше презирать —</l>
             <l>Вот это знатности veritable<note place="foot">Истиной (франц.). — Ред.</note>
@@ -5105,7 +5111,7 @@
           <l part="F">И я ступил.</l>
           <stage>Оба вместе сходятся.</stage>
           <sp who="#vysonos #prolaz">
-            <speaker>&#60;Вместе&#62;</speaker>
+            <speaker>&lt;Вместе&gt;</speaker>
             <l part="I">Раз, два, три.</l>
           </sp>
           <sp who="#vysonos">

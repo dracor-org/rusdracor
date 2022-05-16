@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1989636</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,13 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собрание сочинений в десяти томах. Том 7. М., "Голос", 1999.</title>
-            <date type="print" when="1965">При жизни автора произведение ни разу не было напечатано.
-              Впервые оно было опубликовано в 1965 году в книге Михаила Булгакова «Драмы и комедии»
-              (издательство «Искусство»). (Wikipedia)</date>
-            <date type="premiere" when="1967">Первые постановки были осуществлены в Омском театре
-              драмы (1967), Театре киноактёра (1967), Русском драматическом театре имени Самеда
-              Вургуна (1968).</date>
-            <date type="written" notBefore="1934" notAfter="1936">"в 1934—1936 годах" (Wikipedia)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -139,6 +131,24 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1965">
+        <desc>При жизни автора произведение ни разу не было напечатано.
+              Впервые оно было опубликовано в 1965 году в книге Михаила Булгакова «Драмы и комедии»
+              (издательство «Искусство»). (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1967">
+        <desc>Первые постановки были осуществлены в Омском театре
+              драмы (1967), Театре киноактёра (1967), Русском драматическом театре имени Самеда
+              Вургуна (1968).</desc>
+      </event>
+      <event type="written" notBefore="1934" notAfter="1936">
+        <desc>"в 1934—1936 годах" (Wikipedia)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1989636"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

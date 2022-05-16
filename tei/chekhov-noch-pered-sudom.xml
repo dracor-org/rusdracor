@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -29,7 +29,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q51653179</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,12 +40,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 12.
               М., "Наука", 1986.</title>
-            <date type="print" when="1886">"Впервые — «Осколки», 1886, № 5, 1 февраля (ценз. разр.
-              31 января), стр. 4—5, с подзаголовком: Случай из моей медицинско-шарлатанской
-              практики. Подпись: А. Чехонте." (ФЭБ)</date>
-            <date type="premiere"/>
-            <date type="written" when="1884">"Рассказ написан, видимо, в первой половине ноября 1884
-              г. 17 декабря 1884 г." (ФЭБ)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -96,6 +89,20 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1886">
+        <desc>"Впервые — «Осколки», 1886, № 5, 1 февраля (ценз. разр.
+              31 января), стр. 4—5, с подзаголовком: Случай из моей медицинско-шарлатанской
+              практики. Подпись: А. Чехонте." (ФЭБ)</desc>
+      </event>
+      <event type="written" when="1884">
+        <desc>"Рассказ написан, видимо, в первой половине ноября 1884
+              г. 17 декабря 1884 г." (ФЭБ)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q51653179"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -141,8 +148,7 @@
         </sp>
         <sp who="#Smotritel">
           <speaker>Смотритель.</speaker>
-          <p>Половина второго... <stage>(Уходит.)</stage>
-          </p>
+          <p>Половина второго... <stage>(Уходит.)</stage></p>
         </sp>
       </div>
       <div type="configuration">
@@ -283,8 +289,7 @@
             вам... Федя! Федя! Да проснись же, тюлень.</p>
           <stage>Голос : «А?»</stage>
           <p>Иди сюда, доктор так любезен, что предлагает нам персидского порошку.
-              <stage>(Скрывается.)</stage>
-          </p>
+              <stage>(Скрывается.)</stage></p>
         </sp>
       </div>
       <div type="configuration">
@@ -348,8 +353,7 @@
         </sp>
         <sp who="#Gusev">
           <speaker>Гусев.</speaker>
-          <p>Так-с... Честь имею... <stage>(Уходит.)</stage>
-          </p>
+          <p>Так-с... Честь имею... <stage>(Уходит.)</stage></p>
         </sp>
       </div>
       <div type="configuration">
@@ -416,8 +420,7 @@
         <sp who="#Gusev">
           <speaker>Гусев.</speaker>
           <p>Вы ее посмотрите, а я тем временем пойду к смотрителю и прикажу самоварчик поставить...
-              <stage>(Уходит.)</stage>
-          </p>
+              <stage>(Уходит.)</stage></p>
         </sp>
       </div>
       <div type="configuration">
@@ -485,8 +488,7 @@
         </sp>
         <sp who="#Zajtsev">
           <speaker>Зайцев.</speaker>
-          <p>Милая. <stage>(Целует.)</stage> Пупсик! Мопсик! <stage>(Целует.)</stage>
-          </p>
+          <p>Милая. <stage>(Целует.)</stage> Пупсик! Мопсик! <stage>(Целует.)</stage></p>
         </sp>
         <sp who="#Zinochka">
           <speaker>Зиночка.</speaker>

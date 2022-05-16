@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4409901</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,16 +42,6 @@
           <bibl type="originalSource">
             <title>А. П. Чехов. Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 12.
               М., "Наука", 1986.</title>
-            <date type="print" when="1890">"Впервые опубликовано в отдельном литографированном
-              издании: Свадьба. Сцена в 1-м действии А. Чехова. Литография комиссионера Общества
-              русских драматических писателей С. Ф. Рассохина. — Москва: (цензурное разрешение 25
-              апреля 1890 года; вышло в свет с 24 по 31 октября 1890 года; отпечатано 110
-              экземпляров)." (Wikipedia)</date>
-            <date type="premiere" when="1900">"28 ноября 1900 г. «Свадьба» исполнялась труппой
-              Общества искусства и литературы в зале московского Охотничьего клуба на «Чеховском
-              вечере», в программу которого были включены также другие одноактные пьесы Чехова
-              («Лебединая песня», «Предложение», «Юбилей», «Медведь»)." (chehov.niv.ru)</date>
-            <date type="written" when="1889">"Октябрь 1889 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -150,6 +139,27 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1890">
+        <desc>"Впервые опубликовано в отдельном литографированном
+              издании: Свадьба. Сцена в 1-м действии А. Чехова. Литография комиссионера Общества
+              русских драматических писателей С. Ф. Рассохина. — Москва: (цензурное разрешение 25
+              апреля 1890 года; вышло в свет с 24 по 31 октября 1890 года; отпечатано 110
+              экземпляров)." (Wikipedia)</desc>
+      </event>
+      <event type="premiere" when="1900">
+        <desc>"28 ноября 1900 г. «Свадьба» исполнялась труппой
+              Общества искусства и литературы в зале московского Охотничьего клуба на «Чеховском
+              вечере», в программу которого были включены также другие одноактные пьесы Чехова
+              («Лебединая песня», «Предложение», «Юбилей», «Медведь»)." (chehov.niv.ru)</desc>
+      </event>
+      <event type="written" when="1889">
+        <desc>"Октябрь 1889 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4409901"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -637,8 +647,7 @@
             <speaker>Мозговой.</speaker>
             <p>Харлампий Спиридоныч, ваша очередь читать речь! Господа, пусть говорит речь!</p>
           </sp>
-          <sp
-            who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Zmejukina">
+          <sp who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Zmejukina">
             <speaker>Все</speaker>
             <stage>(Дымбе).</stage>
             <p>Речь! речь! Ваша очередь!</p>
@@ -821,8 +830,7 @@
             <p>А? Да, да... так... Это верно. Да-с... Но позвольте, что же это, однако? Селедка
               горькая... и хлеб горький. Невозможно есть!</p>
           </sp>
-          <sp
-            who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Dymba #Zmejukina #Njunin">
+          <sp who="#Mozgovoj #Jat #Zhigalov #Aplombov #Dashenka #NastasjaTimofeevna #Kavalery #Shafer #Dymba #Zmejukina #Njunin">
             <speaker>Все.</speaker>
             <p>Горько! Горько!</p>
           </sp>

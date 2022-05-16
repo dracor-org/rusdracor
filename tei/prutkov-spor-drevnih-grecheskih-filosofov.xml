@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,13 +32,11 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q16314603</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Wikisource</name>
-          <idno type="URL"
-            >https://ru.wikisource.org/wiki/Спор_древних_греческих_философов_об_изящном_(Прутков)</idno>
+          <idno type="URL">https://ru.wikisource.org/wiki/Спор_древних_греческих_философов_об_изящном_(Прутков)</idno>
           <availability>
             <licence>
               <ab>CC BY-SA 3.0</ab>
@@ -47,10 +45,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1854">"Первая опубликованная пьеса Козьмы Пруткова —
-              «Современник», 1854, № 2." (Wikisource)</date>
-            <date type="premiere"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -82,6 +76,15 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1854">
+        <desc>"Первая опубликованная пьеса Козьмы Пруткова —
+              «Современник», 1854, № 2." (Wikisource)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q16314603"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

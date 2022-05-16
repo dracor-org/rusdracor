@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q65939069</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,11 +42,6 @@
           <bibl type="originalSource">
             <title>"Илья Ильф и Евгений Петров. Собрание сочинений в 5 томах. Том 5.":
               Художественная литература; Москва; 1961</title>
-            <date type="print" when="1947">"Новый мир (1947, № 6)" (ru.wikipedia.org)</date>
-            <date type="premiere" when="1947">"Поставлена в 1947 году на сцене Ленинградского театра
-              комедии" (ru.wikipedia.org)</date>
-            <date type="written" notBefore="1939" notAfter="1940">1939—1940
-              (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -186,6 +180,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1947">
+        <desc>"Новый мир (1947, № 6)" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1947">
+        <desc>"Поставлена в 1947 году на сцене Ленинградского театра
+              комедии" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" notBefore="1939" notAfter="1940">
+        <desc>1939—1940
+              (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q65939069"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>Евгений Петров</docAuthor>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -32,7 +32,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3221232</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,11 +43,6 @@
           <bibl type="originalSource">
             <title>А.С. Пушкин. Собрание сочинений в 10 томах. Том 4. Государственное издательство
               художественной литературы. М. 1960.</title>
-            <date type="print" when="1836">"Пушкин решился опубликовать «Скупого рыцаря» только в
-              1836 году, в первой книжке «Современника» за подписью Р. (французский инициал фамилии
-              Пушкина)." (Wikipedia)</date>
-            <date type="premiere"/>
-            <date type="written" when="1830">"1830 г." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -89,6 +83,19 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1836">
+        <desc>"Пушкин решился опубликовать «Скупого рыцаря» только в
+              1836 году, в первой книжке «Современника» за подписью Р. (французский инициал фамилии
+              Пушкина)." (Wikipedia)</desc>
+      </event>
+      <event type="written" when="1830">
+        <desc>"1830 г." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q3221232"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q17275683</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,16 +42,6 @@
           <bibl type="originalSource">
             <title>М. А. Булгаков. Собрание сочинений. Том 2. Санкт-Петербург: Азбука-Классика, 2002
               г.</title>
-            <date type="print" when="1955">"При жизни Булгакова не печаталась. Впервые: Булгаков М.
-              Дни Турбиных. Последние дни (А. С. Пушкин). М.: Искусство, 1955. В 1934 г. в Бостоне и
-              Нью-Йорке были опубликованы два перевода Д. Т. на английский язык, выполненные Ю.
-              Лайонсом и Ф. Блохом. В 1927 г. в Берлине появился сделанный К. Розенбергом перевод на
-              немецкий язык второй редакции Д. Т., носившей в русском оригинале название 'Белая
-              гвардия' (издание имело двойное название: 'Дни Турбиных. Белая гвардия')."
-              (bulgakov.ru)</date>
-            <date type="premiere" when="1926">"Премьера состоялась во МХАТе 5 октября 1926 г. В
-              апреле 1929 г." (bulgakov.ru)</date>
-            <date type="written" notBefore="1925" notAfter="1926">"1925–1926 гг." (ilibrary)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -173,6 +162,27 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1955">
+        <desc>"При жизни Булгакова не печаталась. Впервые: Булгаков М.
+              Дни Турбиных. Последние дни (А. С. Пушкин). М.: Искусство, 1955. В 1934 г. в Бостоне и
+              Нью-Йорке были опубликованы два перевода Д. Т. на английский язык, выполненные Ю.
+              Лайонсом и Ф. Блохом. В 1927 г. в Берлине появился сделанный К. Розенбергом перевод на
+              немецкий язык второй редакции Д. Т., носившей в русском оригинале название 'Белая
+              гвардия' (издание имело двойное название: 'Дни Турбиных. Белая гвардия')."
+              (bulgakov.ru)</desc>
+      </event>
+      <event type="premiere" when="1926">
+        <desc>"Премьера состоялась во МХАТе 5 октября 1926 г. В
+              апреле 1929 г." (bulgakov.ru)</desc>
+      </event>
+      <event type="written" notBefore="1925" notAfter="1926">
+        <desc>"1925–1926 гг." (ilibrary)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q17275683"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

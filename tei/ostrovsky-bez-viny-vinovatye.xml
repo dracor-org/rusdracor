@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4080734</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,11 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Москва, Изд-во "Книжная палата", 2001</title>
-            <date type="print" when="1884">"«Отечественные записки», № 1, 1884 г."
-              (ru.wikipedia.org)</date>
-            <date type="premiere" when="1884">"Первая постановка — 15 января 1884 в Малом театре, в
-              бенефис Никулиной в роли Коринкиной." (ru.wikipedia.org)</date>
-            <date type="written" when="1883">"1883" (lib.ru)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -125,6 +119,22 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1884">
+        <desc>"«Отечественные записки», № 1, 1884 г."
+              (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1884">
+        <desc>"Первая постановка — 15 января 1884 в Малом театре, в
+              бенефис Никулиной в роли Коринкиной." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1883">
+        <desc>"1883" (lib.ru)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4080734"/>
+  </standOff>
   <text>
     <front>
       <docTitle>

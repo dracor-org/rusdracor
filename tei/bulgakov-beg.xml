@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4080436</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,13 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Собр. соч. в 5 т. Т.3. Пьесы. М.: Худож. лит., 1992.</title>
-            <date type="print"/>
-            <date type="premiere" when="1957">"Премьера пьесы состоялась в Сталинградском театре 29
-              марта 1957 года." (ru.wikipedia.org)</date>
-            <date type="written" when="1928">"1 января 1928 года автором был заключён договор с
-              МХАТом на написание пьесы под названием «Бег» и уже 16 марта 1928 года пьеса была
-              передана заказчику. Из-за цензуры, пьеса при жизни автора не ставилась, [...]"
-              (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -241,6 +233,21 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="1957">
+        <desc>"Премьера пьесы состоялась в Сталинградском театре 29
+              марта 1957 года." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1928">
+        <desc>"1 января 1928 года автором был заключён договор с
+              МХАТом на написание пьесы под названием «Бег» и уже 16 марта 1928 года пьеса была
+              передана заказчику. Из-за цензуры, пьеса при жизни автора не ставилась, [...]"
+              (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4080436"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2639,8 +2646,7 @@
           <sp who="#charnota">
             <speaker>Чарнота.</speaker>
             <p>Не бьется, не ломается, а только кувыркается! Купите красного комиссара для
-              увеселения ваших детишек-ангелочков! Мадам! Мадам! Аштэ пур вотр анфан!<note
-                place="foot">Achetez pour votre enfant! — Купите для вашего ребенка!
+              увеселения ваших детишек-ангелочков! Мадам! Мадам! Аштэ пур вотр анфан!<note place="foot">Achetez pour votre enfant! — Купите для вашего ребенка!
               (фр.)</note></p>
           </sp>
           <sp who="#turchanka_ljubjaschaja_mat">
@@ -2739,8 +2745,7 @@
             <speaker>Чарнота.</speaker>
             <p>Вот скотина!</p>
           </sp>
-          <stage>В ресторане появляются двое французских моряков, кричат: «Эн бок! Эн бок!»<note
-              place="foot">«Un bock! Un bock!» — «Кружку пива! Кружку пива!» (фр.)</note> Лакей
+          <stage>В ресторане появляются двое французских моряков, кричат: «Эн бок! Эн бок!»<note place="foot">«Un bock! Un bock!» — «Кружку пива! Кружку пива!» (фр.)</note> Лакей
             подает пиво.</stage>
           <sp who="#lichiko">
             <speaker>Личико.</speaker>
@@ -2871,8 +2876,7 @@
           <sp who="#artur">
             <speaker>Артур.</speaker>
             <p>Мсье, дам! Бега открыты! Не виданная нигде в мире русская придворная игра! Тараканьи
-              бега! Курс де кафар! Ламюземан префере де ла дефянт эмператрис рюсс!<note place="foot"
-                >Courses de cafards! L'amusement prefere de la defiante Imperatrice russe!
+              бега! Курс де кафар! Ламюземан префере де ла дефянт эмператрис рюсс!<note place="foot">Courses de cafards! L'amusement prefere de la defiante Imperatrice russe!
                 (фр.)</note> Корсо дель пьятелла! Рейс оф кок-рочс!<note place="foot">Corso del
                 piatella! Races of cock-roaches! (ит., англ.)</note></p>
             <stage>Появляются двое полицейских — итальянский и турецкий.</stage>
@@ -2900,9 +2904,9 @@
           <sp who="#artur">
             <speaker>Артур.</speaker>
             <p>Третий — Баба-Яга! Четвертый — Не плачь, дитя! Серый в яблоках таракан!</p>
-            <stage>Крики: «Ура! Не плачь, дитя!», «Ит из э суиндл! Ит из э суиндл!»<note
-                place="foot">It is a swindle! It is a swindle! — Афера! Афера!
-              (англ.)</note></stage>
+            <stage>Крики: «Ура! Не плачь, дитя!», «Ит из э суиндл! Ит из э суиндл!»<note place="foot">It is a swindle! It is a swindle! — Афера! Афера!
+              (англ.)</note>
+            </stage>
             <p>Шестой — Хулиган! Седьмой — Пуговица!</p>
           </sp>
           <stage>Крики: «Э трэп!»<note place="foot">A trap! — Ловушка! (англ.)</note> Свист.</stage>
@@ -2950,8 +2954,7 @@
           </sp>
           <sp who="#prostitutka-krasavitsa">
             <speaker>Проститутка-красавица.</speaker>
-            <p>Бей Артура, Джанни! <stage>(Артуру.)</stage> Инганаторрэ!<note place="foot"
-                >Ingannatore! — Мерзавец! (ит.)</note></p>
+            <p>Бей Артура, Джанни! <stage>(Артуру.)</stage> Инганаторрэ!<note place="foot">Ingannatore! — Мерзавец! (ит.)</note></p>
           </sp>
           <sp who="#anglichane-matrosy">
             <speaker>Матросы-англичане.</speaker>
@@ -3638,7 +3641,8 @@
           </sp>
           <stage>Вечерние тени гуще. С минарета полился сладкий голос муэдзина «Ла иль Алла иль
             Махомет рассуль алла!»<note place="foot">Нет бога, кроме Аллаха, и Магомет посланник
-              его!</note></stage>
+              его!</note>
+          </stage>
           <sp who="#golubkov">
             <speaker>Голубков.</speaker>
             <p>Вот и ночь наступает... Ужасный город! Нестерпимый город! Душный город! Да, чего же я

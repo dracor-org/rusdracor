@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3222042</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -42,12 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title/>
-            <date type="print" when="1849">Отечественные Записки, 1849, № 9, с. 1 — 64, с подписью:
-              Ив. Тургенев</date>
-            <date type="premiere" when="1849">14 октября 1849 г. на сцене Александрийского театра.
-              Пьеса была поставлена в бенефис М. С. Щепкина, гастролировавшего в это время в
-              Петербурге.</date>
-            <date type="written" when="1849">"Дата создания: 1849." (Wikisource)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -125,6 +118,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1849">
+        <desc>Отечественные Записки, 1849, № 9, с. 1 — 64, с подписью:
+              Ив. Тургенев</desc>
+      </event>
+      <event type="premiere" when="1849">
+        <desc>14 октября 1849 г. на сцене Александрийского театра.
+              Пьеса была поставлена в бенефис М. С. Щепкина, гастролировавшего в это время в
+              Петербурге.</desc>
+      </event>
+      <event type="written" when="1849">
+        <desc>"Дата создания: 1849." (Wikisource)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q3222042"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
@@ -2319,8 +2329,7 @@
           <stage>Подходит к Созомэносу, который заснул, свесив голову на грудь, и в продолжение
             всего следующего разговора только изредка вздрагивает и, как говорится, «удит
             рыбу».</stage>
-          <p>Ах да, это очень забавно! <stage>(Про себя.)</stage> Eine allerliebste Geschichte!<note
-              place="foot">Излюбленная история! (нем.).</note>
+          <p>Ах да, это очень забавно! <stage>(Про себя.)</stage> Eine allerliebste Geschichte!<note place="foot">Излюбленная история! (нем.).</note>
             <stage>(Громко.)</stage> Это с ним довольно часто случается… Что за чудаки эти господа
             сочинители! <stage>(Нагинаясь к нему.)</stage> Спит, как моська! Но мне, право, это
             очень нравится. Это очень оригинально — а?</p>

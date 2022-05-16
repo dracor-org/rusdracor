@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
@@ -31,7 +31,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4464385</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,12 +42,6 @@
           <bibl type="originalSource">
             <title>Москва, Государственное изд-во Художественной Литературы, 1960, Собрание
               сочинений в десяти томах, т. 7</title>
-            <date type="print" when="1874">"Дата первой публикации: 1874, «Отечественные записки», №
-              11" (ru.wikipedia.org)</date>
-            <date type="premiere" when="1874">"Впервые поставлена на сцене Малого театра 28 ноября
-              1874 года." (ru.wikipedia.org)</date>
-            <date type="written" when="1874">"Комедия писалась с марта по двадцатые числа сентября
-              1874 года." (ru.wikipedia.org)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -110,6 +103,23 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1874">
+        <desc>"Дата первой публикации: 1874, «Отечественные записки», №
+              11" (ru.wikipedia.org)</desc>
+      </event>
+      <event type="premiere" when="1874">
+        <desc>"Впервые поставлена на сцене Малого театра 28 ноября
+              1874 года." (ru.wikipedia.org)</desc>
+      </event>
+      <event type="written" when="1874">
+        <desc>"Комедия писалась с марта по двадцатые числа сентября
+              1874 года." (ru.wikipedia.org)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4464385"/>
+  </standOff>
   <text>
     <front>
       <docAuthor>А. Н. Островский</docAuthor>
