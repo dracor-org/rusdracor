@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000093" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,7 +26,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000093</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -359,7 +358,9 @@
               1-м, премьера состоялась 1 мая 1921 года." (Wikipedia)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q4296515"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000093" passive="http://www.wikidata.org/entity/Q4296515"/>
+    </listRelation>
   </standOff>
   <text>
     <front>

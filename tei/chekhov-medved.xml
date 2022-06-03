@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000067" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000067</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -107,7 +106,9 @@
         <desc>февраль 1888 (Wikipedia)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q1192719"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000067" passive="http://www.wikidata.org/entity/Q1192719"/>
+    </listRelation>
   </standOff>
   <text>
     <front>

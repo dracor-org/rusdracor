@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000076" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000076</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -42,9 +41,6 @@
               <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
             </licence>
           </availability>
-          <bibl type="originalSource">
-            <title/>
-          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -376,7 +372,9 @@
         <desc>"1866" (Wikipedia)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q4424383"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000076" passive="http://www.wikidata.org/entity/Q4424383"/>
+    </listRelation>
   </standOff>
   <text>
     <front>

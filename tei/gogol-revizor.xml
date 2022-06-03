@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000054" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000054</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -219,7 +218,9 @@
         <desc>"1835 г." (ilibrary)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q471066"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000054" passive="http://www.wikidata.org/entity/Q471066"/>
+    </listRelation>
   </standOff>
   <text>
     <front>
@@ -2408,7 +2409,7 @@
             <p>Я живу в деревне... </p>
           </sp>
           <sp who="#hlestakov">
-            <speaker>Хлестаков.</speaker> 
+            <speaker>Хлестаков.</speaker>
             <p>Да деревня, впрочем, тоже имеет свои пригорки,
               ручейки... Ну, конечно, кто же сравнит с Петербургом! Эх, Петербург! что за жизнь,
               право! Вы, может быть, думаете, что я только переписываю; нет, начальник отделения со

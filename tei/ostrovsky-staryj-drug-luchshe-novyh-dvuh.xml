@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000182" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000182</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -121,7 +120,9 @@
         <desc>"Написана в 1860 году." (ru.wikipedia.org)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q4441187"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000182" passive="http://www.wikidata.org/entity/Q4441187"/>
+    </listRelation>
   </standOff>
   <text>
     <front>

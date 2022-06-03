@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000135" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +25,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000135</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -104,7 +103,9 @@
               с. 501-516, с подписью: 'Чурмень'." (lib.ru)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q59343126"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000135" passive="http://www.wikidata.org/entity/Q59343126"/>
+    </listRelation>
   </standOff>
   <text>
     <pb n="190"/>

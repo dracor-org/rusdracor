@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000207" xml:lang="rus">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,7 +29,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rus000207</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -112,7 +111,9 @@
               (http://lib.pushkinskijdom.ru/Portals/3/PDF/XVIII/18_tom_XVIII/Kostina/Kostina.pdf)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q74536925"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000207" passive="http://www.wikidata.org/entity/Q74536925"/>
+    </listRelation>
   </standOff>
   <text>
     <front>
