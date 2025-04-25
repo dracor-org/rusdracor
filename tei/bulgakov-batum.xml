@@ -217,26 +217,28 @@
         <desc>"Дата первой публикации: 1977" (ru.wikipedia.org)</desc>
       </event>
       <event type="premiere" when="1992">
-        <desc>"«Батум» ставился только один раз, причём по первой
-              редакции и под названием «Пастырь»: в 1992 году пьесу поставил С. Е. Кургинян в МХАТе
-              имени Горького на Большой сцене. После предпремьерного показа спектакль был запрещён,
-              афиши - уничтожены." (ru.wikipedia.org)</desc>
+        <desc>"«Батум» ставился только один раз, причём по первой редакции и под названием
+          «Пастырь»: в 1992 году пьесу поставил С. Е. Кургинян в МХАТе имени Горького на Большой
+          сцене. После предпремьерного показа спектакль был запрещён, афиши - уничтожены."
+          (ru.wikipedia.org)</desc>
       </event>
       <event type="written" notBefore="1936" notAfter="1939">
-        <desc>"Дата написания: 1936–1939
-              (ru.wikipedia.org)</desc>
+        <desc>"Дата написания: 1936–1939 (ru.wikipedia.org)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000192" passive="http://www.wikidata.org/entity/Q4079492"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000192"
+        passive="http://www.wikidata.org/entity/Q4079492"/>
     </listRelation>
   </standOff>
   <text>
     <front>
-      <docTitle>
-        <titlePart type="main">Батум</titlePart>
-        <titlePart type="sub">Пьеса в четырех действиях</titlePart>
-      </docTitle>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Батум</titlePart>
+          <titlePart type="sub">Пьеса в четырех действиях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
         <castItem>Сталин.</castItem>

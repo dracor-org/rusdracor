@@ -51,10 +51,10 @@
           <person xml:id="nikolka" sex="MALE">
             <persName>Николка</persName>
           </person>
-          <person xml:id="aleksej" sex="MALE">
+          <person xml:id="aleksej" sex="MALE" ana="http://www.wikidata.org/entity/Q24935667">
             <persName>Алексей</persName>
           </person>
-          <person xml:id="elena" sex="FEMALE">
+          <person xml:id="elena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q24936822">
             <persName>Елена</persName>
           </person>
           <person xml:id="myshlaevskij" sex="MALE">
@@ -75,7 +75,7 @@
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
           </person>
-          <person xml:id="getman" sex="MALE">
+          <person xml:id="getman" sex="MALE" ana="http://www.wikidata.org/entity/Q435090">
             <persName>Гетман</persName>
           </person>
           <person xml:id="shratt" sex="MALE">
@@ -164,32 +164,33 @@
   <standOff>
     <listEvent>
       <event type="print" when="1955">
-        <desc>"При жизни Булгакова не печаталась. Впервые: Булгаков М.
-              Дни Турбиных. Последние дни (А. С. Пушкин). М.: Искусство, 1955. В 1934 г. в Бостоне и
-              Нью-Йорке были опубликованы два перевода Д. Т. на английский язык, выполненные Ю.
-              Лайонсом и Ф. Блохом. В 1927 г. в Берлине появился сделанный К. Розенбергом перевод на
-              немецкий язык второй редакции Д. Т., носившей в русском оригинале название 'Белая
-              гвардия' (издание имело двойное название: 'Дни Турбиных. Белая гвардия')."
-              (bulgakov.ru)</desc>
+        <desc>"При жизни Булгакова не печаталась. Впервые: Булгаков М. Дни Турбиных. Последние дни
+          (А. С. Пушкин). М.: Искусство, 1955. В 1934 г. в Бостоне и Нью-Йорке были опубликованы два
+          перевода Д. Т. на английский язык, выполненные Ю. Лайонсом и Ф. Блохом. В 1927 г. в
+          Берлине появился сделанный К. Розенбергом перевод на немецкий язык второй редакции Д. Т.,
+          носившей в русском оригинале название 'Белая гвардия' (издание имело двойное название:
+          'Дни Турбиных. Белая гвардия')." (bulgakov.ru)</desc>
       </event>
       <event type="premiere" when="1926">
-        <desc>"Премьера состоялась во МХАТе 5 октября 1926 г. В
-              апреле 1929 г." (bulgakov.ru)</desc>
+        <desc>"Премьера состоялась во МХАТе 5 октября 1926 г. В апреле 1929 г." (bulgakov.ru)</desc>
       </event>
       <event type="written" notBefore="1925" notAfter="1926">
         <desc>"1925–1926 гг." (ilibrary)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000073" passive="http://www.wikidata.org/entity/Q17275683"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000073"
+        passive="http://www.wikidata.org/entity/Q17275683"/>
     </listRelation>
   </standOff>
   <text>
     <front>
-      <docTitle>
-        <titlePart type="main">Дни Турбиных</titlePart>
-        <titlePart type="sub">Пьеса в четырех действиях</titlePart>
-      </docTitle>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Дни Турбиных</titlePart>
+          <titlePart type="sub">Пьеса в четырех действиях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Действующие лица</head>
         <castItem>Турбин Алексей Васильевич – полковник-артиллерист, 30 лет.</castItem>

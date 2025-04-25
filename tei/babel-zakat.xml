@@ -67,7 +67,7 @@
             <persName xml:lang="eng">Nekhama</persName>
             <persName xml:lang="ger">Nechama</persName>
           </person>
-          <person xml:id="benya" sex="MALE">
+          <person xml:id="benya" sex="MALE" ana="http://www.wikidata.org/entity/Q4083902">
             <persName>Беня</persName>
             <persName xml:lang="eng">Benya</persName>
             <persName xml:lang="ger">Benja</persName>
@@ -236,7 +236,8 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#mendel #nekhama" passive="#benya #lyovka #dvoyra"/>
             <relation name="parent_of" active="#potapovna" passive="#marusya"/>
-            <relation name="associated_with" active="#nikifor" passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
+            <relation name="associated_with" active="#nikifor"
+              passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
             <relation name="spouses" mutual="#madam_popyatnik #mayor"/>
             <relation name="spouses" mutual="#mendel #nekhama"/>
             <relation name="friends" mutual="#pyatirubel #mendel"/>
@@ -258,24 +259,27 @@
   <standOff>
     <listEvent>
       <event type="print" when="1928">
-        <desc>"Пьеса «Закат» была впервые опубликована в журнале «Новый
-              мир», 1928, № 2, февраль, с.5-35." (Wikilivres)</desc>
+        <desc>"Пьеса «Закат» была впервые опубликована в журнале «Новый мир», 1928, № 2, февраль,
+          с.5-35." (Wikilivres)</desc>
       </event>
       <event type="premiere" when="1927">
-        <desc>"В 1927 году «Закат» был поставлен двумя театрами в
-              Одессе — русским и украинским,[…]" (Wikipedia)</desc>
+        <desc>"В 1927 году «Закат» был поставлен двумя театрами в Одессе — русским и украинским,[…]"
+          (Wikipedia)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000118" passive="http://www.wikidata.org/entity/Q7641201"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000118"
+        passive="http://www.wikidata.org/entity/Q7641201"/>
     </listRelation>
   </standOff>
   <text>
     <front>
-      <docTitle>
-        <titlePart type="main">Закат</titlePart>
-        <titlePart type="sub">Пьеса в 8 сценах</titlePart>
-      </docTitle>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Закат</titlePart>
+          <titlePart type="sub">Пьеса в 8 сценах</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Действующие лица</head>
         <castItem>Мендель Крик — владелец извозопромышленного заведения, 62 года.</castItem>
@@ -330,7 +334,8 @@
           празднике, вывязывает перед зеркалом галстук.</stage>
         <sp who="#arie_leib">
           <speaker>Арье-Лейб.</speaker>
-          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot">Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
+          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot"
+              >Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
             Сначала рубят лозу, потом рубят человека... Матери в нашей жизни роли не играют... Но
             объясни мне, Лёвка, почему такому гусару, как ты, нельзя опоздать из отпуска на неделю,
             пока твоя сестра не сделает своего счастья?</p>

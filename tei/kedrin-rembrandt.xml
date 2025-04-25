@@ -47,31 +47,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="flink" sex="MALE">
+          <person xml:id="flink" sex="MALE" ana="http://www.wikidata.org/entity/Q550401">
             <persName>Флинк</persName>
           </person>
-          <person xml:id="fabricius" sex="MALE">
+          <person xml:id="fabricius" sex="MALE" ana="http://www.wikidata.org/entity/Q352954">
             <persName>Фабрициус</persName>
           </person>
           <person xml:id="rembrandt" sex="MALE" ana="http://www.wikidata.org/entity/Q5598">
             <persName>Рембрандт</persName>
           </person>
-          <person xml:id="saskiya" sex="FEMALE">
+          <person xml:id="saskiya" sex="FEMALE" ana="http://www.wikidata.org/entity/Q109676">
             <persName>Саския</persName>
           </person>
           <person xml:id="lyudvig" sex="MALE">
             <persName>Людвиг</persName>
           </person>
-          <person xml:id="banning_kuk" sex="MALE">
+          <person xml:id="banning_kuk" sex="MALE" ana="http://www.wikidata.org/entity/Q935192">
             <persName>Баннинг Кук</persName>
           </person>
-          <person xml:id="siks" sex="MALE">
+          <person xml:id="siks" sex="MALE" ana="http://www.wikidata.org/entity/Q327109">
             <persName>Сикс</persName>
           </person>
           <person xml:id="byurger" sex="MALE">
             <persName>Бюргер</persName>
           </person>
-          <person xml:id="mortejra" sex="MALE">
+          <person xml:id="mortejra" sex="MALE" ana="http://www.wikidata.org/entity/Q6122291">
             <persName>Мортейра</persName>
           </person>
           <person xml:id="golos_s_ulicy" sex="MALE">
@@ -80,10 +80,10 @@
           <person xml:id="pushkar" sex="MALE">
             <persName>Пушкарь</persName>
           </person>
-          <person xml:id="hendrike" sex="MALE">
+          <person xml:id="hendrike" sex="MALE" ana="http://www.wikidata.org/entity/Q463440">
             <persName>Хендрике</persName>
           </person>
-          <person xml:id="doktor_tyulp" sex="MALE">
+          <person xml:id="doktor_tyulp" sex="MALE" ana="http://www.wikidata.org/entity/Q630646">
             <persName>Доктор Тюльп</persName>
           </person>
           <person xml:id="pastor" sex="MALE">
@@ -158,7 +158,8 @@
           <person xml:id="hozyain_gostinicy" sex="MALE">
             <persName>Хозяин гостиницы</persName>
           </person>
-          <person xml:id="magdalina_van_loo" sex="FEMALE">
+          <person xml:id="magdalina_van_loo" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q131194447">
             <persName>Магдалина ван Лоо</persName>
           </person>
           <person xml:id="pervyj_sosed" sex="MALE">
@@ -172,7 +173,8 @@
           </personGrp>
           <listRelation type="personal">
             <relation name="lover_of" active="#magdalina_van_loo" passive="#rembrandt"/>
-            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink" passive="#rembrandt"/>
+            <relation name="associated_with" active="#hendrike #lyudvig #fabricius #flink"
+              passive="#rembrandt"/>
             <relation name="related_with" active="#doktor_tyulp" passive="#siks"/>
             <relation name="spouses" mutual="#rembrandt #saskiya"/>
           </listRelation>
@@ -193,23 +195,26 @@
   <standOff>
     <listEvent>
       <event type="print" when="1940">
-        <desc>"Впервые 'Рембрандт' был опубликован в трех номерах
-              журнала 'Октябрь' за 1940 год." (lib.ru)</desc>
+        <desc>"Впервые 'Рембрандт' был опубликован в трех номерах журнала 'Октябрь' за 1940 год."
+          (lib.ru)</desc>
       </event>
       <event type="written" when="1938">
         <desc>"Июнь-сентябрь 1938" (lib.ru)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000129" passive="http://www.wikidata.org/entity/Q59106651"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000129"
+        passive="http://www.wikidata.org/entity/Q59106651"/>
     </listRelation>
   </standOff>
   <text>
     <front>
-      <docTitle>
-        <titlePart type="main">Рембрандт</titlePart>
-        <titlePart type="sub">Драма в стихах</titlePart>
-      </docTitle>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Рембрандт</titlePart>
+          <titlePart type="sub">Драма в стихах</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Действующие лица</head>
         <castItem>Рембрандт ван Рейн, художник.</castItem>
@@ -2072,7 +2077,8 @@
       <div type="act">
         <head>Картина третья</head>
         <head>"НОЧНОЙ ДОЗОР"</head>
-        <stage>Комната первой картины. Посреди на мольберте картина "Ночной дозор"<note place="foot">Групповой портрет офицеров корпорации стрелков. На нем среди беспорядочной толпы
+        <stage>Комната первой картины. Посреди на мольберте картина "Ночной дозор"<note place="foot"
+            >Групповой портрет офицеров корпорации стрелков. На нем среди беспорядочной толпы
             стрелков изображена карлица.}</note>, Рембрандт кладет на нее последние мазки. Флинк
           смотрит.</stage>
         <div type="scene">
