@@ -54,7 +54,7 @@
           <person xml:id="don_zhuan" sex="MALE" ana="http://www.wikidata.org/entity/Q210372">
             <persName>Дон Жуан</persName>
           </person>
-          <person xml:id="leporello" sex="MALE">
+          <person xml:id="leporello" sex="MALE" ana="http://www.wikidata.org/entity/Q12324310">
             <persName>Лепорелло</persName>
           </person>
           <person xml:id="amerikanets" sex="MALE">
@@ -85,21 +85,21 @@
   <standOff>
     <listEvent>
       <event type="print" when="1911">
-        <desc>в апреле 1911 года пьеса была опубликована в сборнике
-              стихотворений «Чужое небо» (https://gumilev.ru/about/10/)</desc>
+        <desc>в апреле 1911 года пьеса была опубликована в сборнике стихотворений «Чужое небо»
+          (https://gumilev.ru/about/10/)</desc>
       </event>
       <event type="premiere" when="1913">
-        <desc>в марте 1913 года состоялась ее премьера в Троицком
-              театре (https://gumilev.ru/about/10/)</desc>
+        <desc>в марте 1913 года состоялась ее премьера в Троицком театре
+          (https://gumilev.ru/about/10/)</desc>
       </event>
       <event type="written" when="1911">
-        <desc>«Дон Жуан в Египте» был прочитан в ноябре 1911 года в
-              Царском Селе у Гумилёвых на заседании Кружка Случевского
-              (https://gumilev.ru/about/10/)</desc>
+        <desc>«Дон Жуан в Египте» был прочитан в ноябре 1911 года в Царском Селе у Гумилёвых на
+          заседании Кружка Случевского (https://gumilev.ru/about/10/)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000044" passive="http://www.wikidata.org/entity/Q19154924"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000044"
+        passive="http://www.wikidata.org/entity/Q19154924"/>
     </listRelation>
   </standOff>
   <text>

@@ -111,7 +111,7 @@
             <name>Бояре</name>
             <name xml:lang="ger">Bojaren</name>
           </personGrp>
-          <person xml:id="marija_godunova" sex="FEMALE">
+          <person xml:id="marija_godunova" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2664161">
             <persName>Царица Мария Григорьевна</persName>
             <persName xml:lang="ger">Zariza Mariâ</persName>
           </person>
@@ -147,7 +147,7 @@
             <persName>Царица Ирина Федоровна</persName>
             <persName xml:lang="ger">Zariza Irina</persName>
           </person>
-          <person xml:id="fedor" sex="MALE">
+          <person xml:id="fedor" sex="MALE" ana="http://www.wikidata.org/entity/Q206459">
             <persName>Царевич Федор</persName>
             <persName xml:lang="ger">Zarewitsch Fedor</persName>
           </person>

@@ -81,13 +81,13 @@
             <persName>Австралийка</persName>
             <persName xml:lang="ger">Die Australierin</persName>
           </person>
-          <person xml:id="anglichanin" sex="MALE">
+          <person xml:id="anglichanin" sex="MALE" ana="http://www.wikidata.org/entity/Q134982">
             <persName>Англичанин (Ллойд-Джордж)</persName>
             <persName type="variant">Первый голос</persName>
             <persName type="variant">Ллойд-Джордж</persName>
             <persName xml:lang="ger">Der Engländer (David Lloyd George)</persName>
           </person>
-          <person xml:id="francuz" sex="MALE">
+          <person xml:id="francuz" sex="MALE" ana="http://www.wikidata.org/entity/Q171730">
             <persName>Француз (Клемансо)</persName>
             <persName type="variant">Второй голос</persName>
             <persName type="variant">Клемансо</persName>
@@ -348,18 +348,19 @@
   <standOff>
     <listEvent>
       <event type="print" when="1921">
-        <desc>"Отдельное издание второй редакции «Мистерии-буфф» вышло
-              в июне 1921 года." (Wikipedia)</desc>
+        <desc>"Отдельное издание второй редакции «Мистерии-буфф» вышло в июне 1921 года."
+          (Wikipedia)</desc>
       </event>
       <event type="premiere" when="1921">
-        <desc>"В 1921 году Маяковский переработал и осовременил
-              «героическое, эпическое и сатирическое изображение нашей эпохи», как определил он жанр
-              «Мистерии-буфф». Всеволод Мейерхольд и Валерий Бебутов поставили пьесу в Театре РСФСР
-              1-м, премьера состоялась 1 мая 1921 года." (Wikipedia)</desc>
+        <desc>"В 1921 году Маяковский переработал и осовременил «героическое, эпическое и
+          сатирическое изображение нашей эпохи», как определил он жанр «Мистерии-буфф». Всеволод
+          Мейерхольд и Валерий Бебутов поставили пьесу в Театре РСФСР 1-м, премьера состоялась 1 мая
+          1921 года." (Wikipedia)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000093" passive="http://www.wikidata.org/entity/Q4296515"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000093"
+        passive="http://www.wikidata.org/entity/Q4296515"/>
     </listRelation>
   </standOff>
   <text>

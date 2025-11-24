@@ -48,10 +48,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Mocart" sex="MALE">
+          <person xml:id="mocart" sex="MALE" ana="http://www.wikidata.org/entity/Q254">
             <persName>Моцарт</persName>
           </person>
-          <person xml:id="Saleri" sex="MALE">
+          <person xml:id="saleri" sex="MALE" ana="http://www.wikidata.org/entity/Q51088">
             <persName>Сальери</persName>
           </person>
         </listPerson>
@@ -72,24 +72,24 @@
   <standOff>
     <listEvent>
       <event type="print" when="1831">
-        <desc>"Впервые – в альманахе «Северные цветы на 1832 год»,
-              СПб., 1831, с. 17–32 (цензурное разрешение 9 октября 1831) с подписью «А. Пушкин» и
-              датой под текстом: «26 октября 1830 г.» Затем – в книге «Стихотворения Александра
-              Пушкина», ч. III, СПб., 1832 г., стр. 89–106." (Wikisource)</desc>
+        <desc>"Впервые – в альманахе «Северные цветы на 1832 год», СПб., 1831, с. 17–32 (цензурное
+          разрешение 9 октября 1831) с подписью «А. Пушкин» и датой под текстом: «26 октября 1830
+          г.» Затем – в книге «Стихотворения Александра Пушкина», ч. III, СПб., 1832 г., стр.
+          89–106." (Wikisource)</desc>
       </event>
       <event type="premiere" when="1832">
-        <desc>"27 января 1832 года, с согласия автора, его маленькая
-              трагедия была представлена в Петербурге в бенефис Якова Брянского, сыгравшего в этой
-              постановке Сальери." (Wikipedia)</desc>
+        <desc>"27 января 1832 года, с согласия автора, его маленькая трагедия была представлена в
+          Петербурге в бенефис Якова Брянского, сыгравшего в этой постановке Сальери."
+          (Wikipedia)</desc>
       </event>
       <event type="written" when="1830">
-        <desc>"Написана в чрезвычайно плодотворный период, известный
-              в пушкиноведении под названием Первой Болдинской осени – в 1830 году."
-              (Wikipedia)</desc>
+        <desc>"Написана в чрезвычайно плодотворный период, известный в пушкиноведении под названием
+          Первой Болдинской осени – в 1830 году." (Wikipedia)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000020" passive="http://www.wikidata.org/entity/Q4305148"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000020"
+        passive="http://www.wikidata.org/entity/Q4305148"/>
     </listRelation>
   </standOff>
   <text>
@@ -102,7 +102,7 @@
       <div type="scene" n="1">
         <head>СЦЕНА I</head>
         <stage>Комната.</stage>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l>Все говорят: нет правды на земле.</l>
           <l>Но правды нет – и выше. Для меня</l>
@@ -172,16 +172,16 @@
           <l>Гуляки праздного?.. О Моцарт, Моцарт!</l>
         </sp>
         <stage>Входит Моцарт.</stage>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l>Ага! увидел ты! а мне хотелось</l>
           <l>Тебя нежданной шуткой угостить.</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="I">Ты здесь! – Давно ль?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Сейчас. Я шел к тебе,</l>
           <l>Нес кое-что тебе я показать;</l>
@@ -197,16 +197,16 @@
           <l part="F">Из Моцарта нам что-нибудь!</l>
           <stage>Старик играет арию из Дон-Жуана; Моцарт хохочет.</stage>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="I">И ты смеяться можешь?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Ах, Сальери!</l>
           <l part="I">Ужель и сам ты не смеешься?</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Нет.</l>
           <l>Мне не смешно, когда маляр негодный</l>
@@ -215,7 +215,7 @@
           <l>Пародией бесчестит Алигьери.</l>
           <l part="I">Пошел, старик.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Постой же: вот тебе,</l>
           <l part="I">Пей за мое здоровье.</l>
@@ -224,11 +224,11 @@
           <l>Не в духе нынче. Я приду к тебе</l>
           <l part="I">В другое время.</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Что ты мне принес?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l>Нет – так; безделицу. Намедни ночью</l>
           <l>Бессонница моя меня томила,</l>
@@ -237,13 +237,13 @@
           <l>Твое мне слышать мненье; но теперь</l>
           <l part="I">Тебе не до меня.</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Ах, Моцарт, Моцарт!</l>
           <l>Когда же мне не до тебя? Садись;</l>
           <l part="I">Я слушаю.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <stage>(за фортепиано)</stage>
           <l part="F">Представь себе... кого бы?</l>
@@ -255,35 +255,35 @@
           <l part="I">Ну, слушай же.</l>
           <stage>(Играет.)</stage>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Ты с этим шел ко мне</l>
           <l>И мог остановиться у трактира</l>
           <l>И слушать скрыпача слепого! – Боже!</l>
           <l>Ты, Моцарт, недостоин сам себя.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="I">Что ж, хорошо?</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Какая глубина!</l>
           <l>Какая смелость и какая стройность!</l>
           <l>Ты, Моцарт, бог, и сам того не знаешь;</l>
           <l part="I">Я знаю, я.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Ба! право? может быть...</l>
           <l>Но божество мое проголодалось.</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l>Послушай: отобедаем мы вместе</l>
           <l part="I">В трактире Золотого Льва.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Пожалуй;</l>
           <l>Я рад. Но дай схожу домой сказать</l>
@@ -291,7 +291,7 @@
           <l part="I">Не дожидалась.</l>
           <stage>(Уходит.)</stage>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Жду тебя; смотри ж.</l>
           <l>Нет! не могу противиться я доле</l>
@@ -342,40 +342,40 @@
         <head>СЦЕНА II</head>
         <stage>Особая комната в трактире; фортепиано.</stage>
         <stage>Моцарт и Сальери за столом.</stage>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="I">Что ты сегодня пасмурен?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Я? Нет!</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l>Ты верно, Моцарт, чем-нибудь расстроен?</l>
           <l>Обед хороший, славное вино,</l>
           <l part="I">А ты молчишь и хмуришься.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Признаться,</l>
           <l part="I">Мой Requiem меня тревожит.</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">А!</l>
           <l>Ты сочиняешь Requiem? Давно ли?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l>Давно, недели три. Но странный случай…</l>
           <l part="I">Не сказывал тебе я?</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="M">Нет.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Так слушай.</l>
           <l>Недели три тому, пришел я поздно</l>
@@ -395,19 +395,19 @@
           <l>С моей работой, хоть совсем готов</l>
           <l part="I">Уж Requiem. Но между тем я…</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Что?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="I">Мне совестно признаться в этом…</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">В чем же?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l>Мне день и ночь покоя не дает</l>
           <l>Мой черный человек. За мною всюду</l>
@@ -415,7 +415,7 @@
           <l>Мне кажется, он с нами сам-третей</l>
           <l part="I">Сидит.</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">И, полно! что за страх ребячий?</l>
           <l>Рассей пустую думу. Бомарше</l>
@@ -424,7 +424,7 @@
           <l>Откупори шампанского бутылку</l>
           <l>Иль перечти „Женитьбу Фигаро“».</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l>Да! Бомарше ведь был тебе приятель;</l>
           <l>Ты для него «Тарара» сочинил,</l>
@@ -433,24 +433,24 @@
           <l>Ла ла ла ла… Ах, правда ли, Сальери,</l>
           <l>Что Бомарше кого-то отравил?</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l>Не думаю: он слишком был смешон</l>
           <l part="I">Для ремесла такого.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">Он же гений,</l>
           <l>Как ты да я. А гений и злодейство –</l>
           <l>Две вещи несовместные. Не правда ль?</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="I">Ты думаешь?</l>
           <stage>(Бросает яд в стакан Моцарта.)</stage>
           <l part="M">Ну, пей же.</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l part="F">За твое</l>
           <l>Здоровье, друг, за искренний союз,</l>
@@ -458,12 +458,12 @@
           <l part="I">Двух сыновей гармонии.</l>
           <stage>(Пьет.)</stage>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Постой,</l>
           <l>Постой, постой!.. Ты выпил… без меня?</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <stage>(бросает салфетку на стол)</stage>
           <l part="I">Довольно, сыт я.</l>
@@ -473,7 +473,7 @@
           <stage>(Играет.)</stage>
           <l part="M">Ты плачешь?</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="F">Эти слезы</l>
           <l>Впервые лью: и больно и приятно,</l>
@@ -483,7 +483,7 @@
           <l>Не замечай их. Продолжай, спеши</l>
           <l>Еще наполнить звуками мне душу…</l>
         </sp>
-        <sp who="#Mocart">
+        <sp who="#mocart">
           <speaker>Моцарт</speaker>
           <l>Когда бы все так чувствовали силу</l>
           <l>Гармонии! Но нет: тогда б не мог</l>
@@ -497,7 +497,7 @@
           <l>Мне что-то тяжело; пойду засну.</l>
           <l part="I">Прощай же!</l>
         </sp>
-        <sp who="#Saleri">
+        <sp who="#saleri">
           <speaker>Сальери</speaker>
           <l part="M">До свиданья.</l>
           <stage>(Один.)</stage>

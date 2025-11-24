@@ -50,7 +50,7 @@
           <person xml:id="grubej" sex="MALE">
             <persName>Грубей</persName>
           </person>
-          <person xml:id="ermak" sex="MALE">
+          <person xml:id="ermak" sex="MALE" ana="http://www.wikidata.org/entity/Q297047">
             <persName>Ермак</persName>
           </person>
           <person xml:id="sogdaj" sex="MALE">
@@ -59,7 +59,7 @@
           <person xml:id="irta" sex="FEMALE">
             <persName>Ирта</persName>
           </person>
-          <person xml:id="kuchum" sex="MALE">
+          <person xml:id="kuchum" sex="MALE" ana="http://www.wikidata.org/entity/Q138237">
             <persName>Кучум</persName>
           </person>
           <person xml:id="kazak" sex="MALE">
@@ -102,19 +102,19 @@
   <standOff>
     <listEvent>
       <event type="print" when="1806">
-        <desc>"Впервые -- отд. изд., М., 1806, Университетская
-              типография." (lib.ru)</desc>
+        <desc>"Впервые -- отд. изд., М., 1806, Университетская типография." (lib.ru)</desc>
       </event>
       <event type="premiere" when="1803">
-        <desc>"Первое представление "Ермака" состоялось в Москве в
-              Петровском театре 13 февраля 1803 г." (lib.ru)</desc>
+        <desc>"Первое представление "Ермака" состоялось в Москве в Петровском театре 13 февраля 1803
+          г." (lib.ru)</desc>
       </event>
       <event type="written" when="1803">
         <desc>"Трагедия написана в 1803 г." (lib.ru)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000117" passive="http://www.wikidata.org/entity/Q58609656"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000117"
+        passive="http://www.wikidata.org/entity/Q58609656"/>
     </listRelation>
   </standOff>
   <text>

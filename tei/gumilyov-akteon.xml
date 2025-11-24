@@ -48,16 +48,16 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="kadm" sex="MALE">
+          <person xml:id="kadm" sex="MALE" ana="http://www.wikidata.org/entity/Q27613">
             <persName>Кадм</persName>
           </person>
-          <person xml:id="ehion" sex="MALE">
+          <person xml:id="ehion" sex="MALE" ana="http://www.wikidata.org/entity/Q1280725">
             <persName>Эхион</persName>
           </person>
-          <person xml:id="agava" sex="MALE">
+          <person xml:id="agava" sex="MALE" ana="http://www.wikidata.org/entity/Q381459">
             <persName>Агава</persName>
           </person>
-          <person xml:id="akteon" sex="MALE">
+          <person xml:id="akteon" sex="MALE" ana="http://www.wikidata.org/entity/Q208531">
             <persName>Актеон</persName>
           </person>
           <person xml:id="pervyj_junosha" sex="MALE">
@@ -72,16 +72,16 @@
           <personGrp xml:id="ohotnitsy" sex="FEMALE">
             <name>Голоса охотниц</name>
           </personGrp>
-          <person xml:id="krokale" sex="FEMALE">
+          <person xml:id="krokale" sex="FEMALE" ana="http://www.wikidata.org/entity/Q122067349">
             <persName>Крокале</persName>
           </person>
-          <person xml:id="ranis" sex="FEMALE">
+          <person xml:id="ranis" sex="FEMALE" ana="http://www.wikidata.org/entity/Q12758176">
             <persName>Ранис</persName>
           </person>
-          <person xml:id="hiale" sex="FEMALE">
+          <person xml:id="hiale" sex="FEMALE" ana="http://www.wikidata.org/entity/Q122067347">
             <persName>Хиале</persName>
           </person>
-          <person xml:id="diana" sex="FEMALE">
+          <person xml:id="diana" sex="FEMALE" ana="http://www.wikidata.org/entity/Q132543">
             <persName>Диана</persName>
           </person>
           <person xml:id="pervyj_pes" sex="MALE">
@@ -96,7 +96,8 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#kadm" passive="#akteon"/>
             <relation name="associated_with" active="#krokale #ranis #hiale" passive="#diana"/>
-            <relation name="associated_with" active="#pervyj_junosha #vtoroj_junosha #tretij_junosha" passive="#akteon"/>
+            <relation name="associated_with"
+              active="#pervyj_junosha #vtoroj_junosha #tretij_junosha" passive="#akteon"/>
             <relation name="associated_with" active="#ehion" passive="#kadm"/>
             <relation name="spouses" mutual="#agava #ehion"/>
             <relation name="friends" mutual="#ehion #kadm"/>
@@ -129,7 +130,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000046" passive="http://www.wikidata.org/entity/Q19127855"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000046"
+        passive="http://www.wikidata.org/entity/Q19127855"/>
     </listRelation>
   </standOff>
   <text>
