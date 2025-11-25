@@ -48,10 +48,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="fevronija" sex="FEMALE">
+          <person xml:id="fevronija" sex="FEMALE" ana="http://www.wikidata.org/entity/Q54568882">
             <persName>Феврония</persName>
           </person>
-          <person xml:id="knjazhich_vsevolod" sex="MALE">
+          <person xml:id="knjazhich_vsevolod" sex="MALE" ana="http://www.wikidata.org/entity/Q4127284">
             <persName>Княжич Всеволод</persName>
           </person>
           <personGrp xml:id="hor" sex="UNKNOWN">
@@ -81,22 +81,22 @@
           <person xml:id="bedjaj" sex="MALE">
             <persName>Бедяй</persName>
           </person>
-          <person xml:id="burundaj" sex="MALE">
+          <person xml:id="burundaj" sex="MALE" ana="http://www.wikidata.org/entity/Q955294">
             <persName>Бурундай</persName>
           </person>
-          <person xml:id="knjaz_jurij" sex="MALE">
+          <person xml:id="knjaz_jurij" sex="MALE" ana="http://www.wikidata.org/entity/Q547869">
             <persName>Князь Юрий</persName>
           </person>
           <person xml:id="otrok" sex="MALE">
             <persName>Отрок</persName>
           </person>
-          <person xml:id="alkonost" sex="UNKNOWN">
+          <person xml:id="alkonost" sex="UNKNOWN" ana="http://www.wikidata.org/entity/Q867336">
             <persName>Алконост</persName>
           </person>
           <person xml:id="prizrak" sex="MALE">
             <persName>Призрак</persName>
           </person>
-          <person xml:id="sirin" sex="UNKNOWN">
+          <person xml:id="sirin" sex="UNKNOWN" ana="http://www.wikidata.org/entity/Q1140415">
             <persName>Сирин</persName>
           </person>
         </listPerson>
@@ -118,24 +118,27 @@
       <event type="print" when="1907">
         <desc>"1907" (lib.ru)</desc>
       </event>
-      <event type="premiere" when="1907">
-        <desc>"7 (20) февраля 1907 года на сцене Мариинского театра
-              в Санкт-Петербурге состоялась премьера оперы." (ru.wikipedia.org)</desc>
+      <event type="premiere" when="1907-02-20">
+        <desc>"7 (20) февраля 1907 года на сцене Мариинского театра в Санкт-Петербурге состоялась
+          премьера оперы." (ru.wikipedia.org)</desc>
       </event>
       <event type="written" when="1903">
         <desc>"Дата написания: ок.1903" (lib.ru)</desc>
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000205" passive="http://www.wikidata.org/entity/Q1038931"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000205"
+        passive="http://www.wikidata.org/entity/Q1038931"/>
     </listRelation>
   </standOff>
   <text>
     <front>
-      <docAuthor>Владимир Иванович Бельский</docAuthor>
-      <docTitle>
-        <titlePart type="main">Сказание о невидимом граде Китеже и деве Февронии</titlePart>
-      </docTitle>
+      <titlePage>
+        <docAuthor>Владимир Иванович Бельский</docAuthor>
+        <docTitle>
+          <titlePart type="main">Сказание о невидимом граде Китеже и деве Февронии</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
         <castItem>Князь Юрий Всеволодович - бас</castItem>
