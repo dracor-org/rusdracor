@@ -236,8 +236,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#mendel #nekhama" passive="#benya #lyovka #dvoyra"/>
             <relation name="parent_of" active="#potapovna" passive="#marusya"/>
-            <relation name="associated_with" active="#nikifor"
-              passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
+            <relation name="associated_with" active="#nikifor" passive="#mendel #nekhama #benya #lyovka #dvoyra"/>
             <relation name="spouses" mutual="#madam_popyatnik #mayor"/>
             <relation name="spouses" mutual="#mendel #nekhama"/>
             <relation name="friends" mutual="#pyatirubel #mendel"/>
@@ -268,8 +267,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000118"
-        passive="http://www.wikidata.org/entity/Q7641201"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000118" passive="http://www.wikidata.org/entity/Q7641201"/>
     </listRelation>
   </standOff>
   <text>
@@ -334,8 +332,7 @@
           празднике, вывязывает перед зеркалом галстук.</stage>
         <sp who="#arie_leib">
           <speaker>Арье-Лейб.</speaker>
-          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot"
-              >Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
+          <p>Ну, хорошо, Лёвка, отлично... Арье-Лейб, сват с Молдаванки и шамес<note place="foot">Служка в синагоге.</note> у биндюжников, знает теперь, что такое рубка лозы...
             Сначала рубят лозу, потом рубят человека... Матери в нашей жизни роли не играют... Но
             объясни мне, Лёвка, почему такому гусару, как ты, нельзя опоздать из отпуска на неделю,
             пока твоя сестра не сделает своего счастья?</p>

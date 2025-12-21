@@ -96,8 +96,7 @@
           <listRelation type="personal">
             <relation name="parent_of" active="#kadm" passive="#akteon"/>
             <relation name="associated_with" active="#krokale #ranis #hiale" passive="#diana"/>
-            <relation name="associated_with"
-              active="#pervyj_junosha #vtoroj_junosha #tretij_junosha" passive="#akteon"/>
+            <relation name="associated_with" active="#pervyj_junosha #vtoroj_junosha #tretij_junosha" passive="#akteon"/>
             <relation name="associated_with" active="#ehion" passive="#kadm"/>
             <relation name="spouses" mutual="#agava #ehion"/>
             <relation name="friends" mutual="#ehion #kadm"/>
@@ -130,8 +129,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/rus000046"
-        passive="http://www.wikidata.org/entity/Q19127855"/>
+      <relation name="wikidata" active="https://dracor.org/entity/rus000046" passive="http://www.wikidata.org/entity/Q19127855"/>
     </listRelation>
   </standOff>
   <text>
