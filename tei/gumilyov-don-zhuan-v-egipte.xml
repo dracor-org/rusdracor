@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000044" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000044" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Дон-Жуан в Египте</title>
-        <title xml:lang="eng">Don Juan in Egypt</title>
+        <title xml:lang="en">Don Juan in Egypt</title>
         <title type="sub">Одноактная пьеса в стихах</title>
-        <title type="sub" xml:lang="eng">One-Act Play in Verse</title>
+        <title type="sub" xml:lang="en">One-Act Play in Verse</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Степанович</forename>
             <surname>Гумилёв</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolay</forename>
             <surname>Gumilyov</surname>
           </persName>

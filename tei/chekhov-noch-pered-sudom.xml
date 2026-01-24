@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000065" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000065" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ночь перед судом</title>
-        <title xml:lang="eng">The Night Before the Trial</title>
+        <title xml:lang="en">The Night Before the Trial</title>
         <author>
           <persName>
             <forename>Антон</forename>
             <forename type="patronym">Павлович</forename>
             <surname>Чехов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Anton</forename>
             <surname>Chekhov</surname>
           </persName>
@@ -45,23 +45,23 @@
         <listPerson>
           <person xml:id="Zajtsev" sex="MALE">
             <persName>Зайцев</persName>
-            <persName xml:lang="eng">Zajcev</persName>
-            <persName xml:lang="ger">Zajcev</persName>
+            <persName xml:lang="en">Zajcev</persName>
+            <persName xml:lang="de">Zajcev</persName>
           </person>
           <person xml:id="Smotritel" sex="MALE">
             <persName>Смотритель</persName>
-            <persName xml:lang="eng">Stationmaster</persName>
-            <persName xml:lang="ger">Der Postmeister</persName>
+            <persName xml:lang="en">Stationmaster</persName>
+            <persName xml:lang="de">Der Postmeister</persName>
           </person>
           <person xml:id="Zinochka" sex="FEMALE">
             <persName>Зиночка</persName>
-            <persName xml:lang="eng">Zinočka</persName>
-            <persName xml:lang="ger">Zinočka</persName>
+            <persName xml:lang="en">Zinočka</persName>
+            <persName xml:lang="de">Zinočka</persName>
           </person>
           <person xml:id="Gusev" sex="MALE">
             <persName>Гусев</persName>
-            <persName xml:lang="eng">Gusev</persName>
-            <persName xml:lang="ger">Gusev</persName>
+            <persName xml:lang="en">Gusev</persName>
+            <persName xml:lang="de">Gusev</persName>
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#Zinochka #Gusev"/>

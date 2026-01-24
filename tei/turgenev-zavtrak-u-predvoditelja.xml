@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000001" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000001" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Завтрак у предводителя</title>
-        <title xml:lang="eng">Breakfast at the Marshal's</title>
+        <title xml:lang="en">Breakfast at the Marshal's</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Тургенев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Turgenev</surname>
           </persName>

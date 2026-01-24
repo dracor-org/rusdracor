@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000007" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000007" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Холостяк</title>
-        <title xml:lang="eng">The Bachelor</title>
+        <title xml:lang="en">The Bachelor</title>
         <title type="sub">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Тургенев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Turgenev</surname>
           </persName>
@@ -43,47 +43,47 @@
         <listPerson>
           <person xml:id="stratilat" sex="MALE">
             <persName>Стратилат</persName>
-            <persName xml:lang="ger">Stratilat</persName>
+            <persName xml:lang="de">Stratilat</persName>
           </person>
           <person xml:id="moshkin" sex="MALE">
             <persName>Мошкин</persName>
-            <persName xml:lang="ger">Moschkin</persName>
+            <persName xml:lang="de">Moschkin</persName>
           </person>
           <person xml:id="malanja" sex="FEMALE">
             <persName>Маланья</persName>
-            <persName xml:lang="ger">Malanja</persName>
+            <persName xml:lang="de">Malanja</persName>
           </person>
           <person xml:id="shpundik" sex="MALE">
             <persName>Шпуньдик</persName>
-            <persName xml:lang="ger">Schpunjdik</persName>
+            <persName xml:lang="de">Schpunjdik</persName>
           </person>
           <person xml:id="prjazhkina" sex="FEMALE">
             <persName>Пряжкина</persName>
-            <persName xml:lang="ger">Prjaschkin</persName>
+            <persName xml:lang="de">Prjaschkin</persName>
           </person>
           <person xml:id="masha" sex="FEMALE">
             <persName>Маша</persName>
-            <persName xml:lang="ger">Marja</persName>
+            <persName xml:lang="de">Marja</persName>
           </person>
           <person xml:id="vilitskij" sex="MALE">
             <persName>Вилицкий</persName>
-            <persName xml:lang="ger">Wilizky</persName>
+            <persName xml:lang="de">Wilizky</persName>
           </person>
           <person xml:id="fonk" sex="MALE">
             <persName>Фонк</persName>
-            <persName xml:lang="ger">Fonk</persName>
+            <persName xml:lang="de">Fonk</persName>
           </person>
           <person xml:id="mitka" sex="MALE">
             <persName>Митька</persName>
-            <persName xml:lang="ger">Mitjka</persName>
+            <persName xml:lang="de">Mitjka</persName>
           </person>
           <person xml:id="sozomenos" sex="MALE">
             <persName>Созомэнос</persName>
-            <persName xml:lang="ger">Sozomenos</persName>
+            <persName xml:lang="de">Sozomenos</persName>
           </person>
           <person xml:id="pochtalon" sex="MALE">
             <persName>Почтальон</persName>
-            <persName xml:lang="ger">Der Briefträger</persName>
+            <persName xml:lang="de">Der Briefträger</persName>
           </person>
           <listRelation type="personal">
             <relation name="related_with" active="#prjazhkina" passive="#masha"/>

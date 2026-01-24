@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000099" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000099" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Сродство мировых сил</title>
-        <title xml:lang="eng">The Affinity of Universal Forces</title>
+        <title xml:lang="en">The Affinity of Universal Forces</title>
         <title type="sub">Мистерия в одиннадцати явлениях</title>
-        <title type="sub" xml:lang="eng">A Mystery in Eleven Scenes</title>
+        <title type="sub" xml:lang="en">A Mystery in Eleven Scenes</title>
         <author>
           <persName type="pseudo">
             <forename>Козьма</forename>
             <surname>Прутков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Kozma</forename>
             <surname>Prutkov</surname>
           </persName>
@@ -45,43 +45,43 @@
         <listPerson>
           <person xml:id="dolina" sex="UNKNOWN">
             <persName>Долина</persName>
-            <persName xml:lang="ger">Das Tal</persName>
+            <persName xml:lang="de">Das Tal</persName>
           </person>
           <person xml:id="poet" sex="MALE">
             <persName>Поэт</persName>
-            <persName xml:lang="ger">Der Dichter</persName>
+            <persName xml:lang="de">Der Dichter</persName>
           </person>
           <person xml:id="severnyj_akvilon" sex="UNKNOWN">
             <persName>Северный аквилон</persName>
-            <persName xml:lang="ger">Nordwind</persName>
+            <persName xml:lang="de">Nordwind</persName>
           </person>
           <person xml:id="juzhnyj_uragan" sex="UNKNOWN">
             <persName>Южный ураган</persName>
-            <persName xml:lang="ger">Südsturm</persName>
+            <persName xml:lang="de">Südsturm</persName>
           </person>
           <person xml:id="dub" sex="UNKNOWN">
             <persName>Дуб</persName>
-            <persName xml:lang="ger">Eiche</persName>
+            <persName xml:lang="de">Eiche</persName>
           </person>
           <person xml:id="nochnye_chasy" sex="UNKNOWN">
             <persName>Ночные часы</persName>
-            <persName xml:lang="ger">Die nächtlichen Stunden</persName>
+            <persName xml:lang="de">Die nächtlichen Stunden</persName>
           </person>
           <person xml:id="nochnaja_tishina" sex="UNKNOWN">
             <persName>Ночная тишина</persName>
-            <persName xml:lang="ger">Die nächtliche Stille</persName>
+            <persName xml:lang="de">Die nächtliche Stille</persName>
           </person>
           <person xml:id="solnce_za_gorizontom" sex="UNKNOWN">
             <persName>Солнце за горизонтом</persName>
-            <persName xml:lang="ger">Die Sonne hinter dem Horizont</persName>
+            <persName xml:lang="de">Die Sonne hinter dem Horizont</persName>
           </person>
           <person xml:id="solnce_na_nebesah" sex="UNKNOWN">
             <persName>Солнце на небесах</persName>
-            <persName xml:lang="ger">Die Sonne am Himmel</persName>
+            <persName xml:lang="de">Die Sonne am Himmel</persName>
           </person>
           <person xml:id="hor_obschego_sobranija_mirovyh_sil" sex="UNKNOWN">
             <persName>Хор общего собрания мировых сил</persName>
-            <persName xml:lang="ger">Chor der Generalversammlung der irdischen Gewalten</persName>
+            <persName xml:lang="de">Chor der Generalversammlung der irdischen Gewalten</persName>
           </person>
         </listPerson>
       </particDesc>

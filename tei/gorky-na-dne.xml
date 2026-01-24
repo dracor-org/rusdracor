@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000048" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000048" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>На дне</title>
-        <title xml:lang="eng">The Lower Depths</title>
+        <title xml:lang="en">The Lower Depths</title>
         <author>
           <persName>
             <forename>Максим</forename>
             <surname>Горький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Maxim</forename>
             <surname>Gorky</surname>
           </persName>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000016" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000016" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Сцены из рыцарских времен</title>
-        <title xml:lang="eng">Scenes from Knightly Times</title>
+        <title xml:lang="en">Scenes from Knightly Times</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Пушкин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Pushkin</surname>
           </persName>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000129" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000129" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Рембрандт</title>
-        <title xml:lang="eng">Rembrandt</title>
+        <title xml:lang="en">Rembrandt</title>
         <title type="sub">Драма в стихах</title>
-        <title type="sub" xml:lang="eng">Drama in Verse</title>
+        <title type="sub" xml:lang="en">Drama in Verse</title>
         <author>
           <persName>
             <forename>Дмитрий</forename>
             <forename type="patronym">Борисович</forename>
             <surname>Кедрин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Dmitri</forename>
             <surname>Kedrin</surname>
           </persName>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000161" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000161" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Воспитанница</title>
-        <title xml:lang="eng">A Protégée of the Mistress</title>
+        <title xml:lang="en">A Protégée of the Mistress</title>
         <title type="sub">Сцены из деревенской жизни</title>
-        <title type="sub" xml:lang="eng">Scenes from Village Life</title>
+        <title type="sub" xml:lang="en">Scenes from Village Life</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Островский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Ostrovsky</surname>
           </persName>

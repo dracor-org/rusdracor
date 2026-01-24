@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000105" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000105" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Агриопа</title>
-        <title xml:lang="eng">Agriope</title>
+        <title xml:lang="en">Agriope</title>
         <author>
           <persName>
             <forename>Василий</forename>
             <forename type="patronym">Иванович</forename>
             <surname>Майков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Vasily</forename>
             <surname>Maykov</surname>
           </persName>

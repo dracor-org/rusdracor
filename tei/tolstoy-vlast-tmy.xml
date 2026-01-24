@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000009" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000009" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Власть тьмы, или 'коготок увяз, всей птичке пропасть'</title>
-        <title xml:lang="eng">The Power of Darkness; or, If a Claw Is Caught the Bird Is
+        <title xml:lang="en">The Power of Darkness; or, If a Claw Is Caught the Bird Is
           Lost</title>
         <title type="sub">Драма в пяти действиях</title>
-        <title type="sub" xml:lang="eng">Drama in Five Acts</title>
+        <title type="sub" xml:lang="en">Drama in Five Acts</title>
         <author>
           <persName>
             <forename>Лев</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Толстой</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Leo</forename>
             <surname>Tolstoy</surname>
           </persName>
@@ -48,99 +48,99 @@
         <listPerson>
           <person xml:id="petr" sex="MALE">
             <persName>Петр</persName>
-            <persName xml:lang="ger">Petr</persName>
+            <persName xml:lang="de">Petr</persName>
           </person>
           <person xml:id="nikita" sex="MALE">
             <persName>Никита</persName>
-            <persName xml:lang="ger">Nikita</persName>
+            <persName xml:lang="de">Nikita</persName>
           </person>
           <person xml:id="akulina" sex="FEMALE">
             <persName>Акулина</persName>
-            <persName xml:lang="ger">Akulina</persName>
+            <persName xml:lang="de">Akulina</persName>
           </person>
           <person xml:id="anisja" sex="FEMALE">
             <persName>Анисья</persName>
-            <persName xml:lang="ger">Anisʹâ</persName>
+            <persName xml:lang="de">Anisʹâ</persName>
           </person>
           <person xml:id="anjutka" sex="FEMALE">
             <persName>Анютка</persName>
-            <persName xml:lang="ger">Anûtka</persName>
+            <persName xml:lang="de">Anûtka</persName>
           </person>
           <person xml:id="matrena" sex="FEMALE">
             <persName>Матрена</persName>
-            <persName xml:lang="ger">Matrena</persName>
+            <persName xml:lang="de">Matrena</persName>
           </person>
           <person xml:id="akim" sex="MALE">
             <persName>Аким</persName>
-            <persName xml:lang="ger">Akim</persName>
+            <persName xml:lang="de">Akim</persName>
           </person>
           <person xml:id="marina" sex="FEMALE">
             <persName>Марина</persName>
-            <persName xml:lang="ger">Marina</persName>
+            <persName xml:lang="de">Marina</persName>
           </person>
           <person xml:id="kuma" sex="FEMALE">
             <persName>Кума</persName>
-            <persName xml:lang="ger">Gevatterin</persName>
+            <persName xml:lang="de">Gevatterin</persName>
           </person>
           <person xml:id="golos_muzhika" sex="MALE">
             <persName>Голос мужика</persName>
-            <persName xml:lang="ger">Eine Männerstimme</persName>
+            <persName xml:lang="de">Eine Männerstimme</persName>
           </person>
           <person xml:id="marfa" sex="FEMALE">
             <persName>Марфа</persName>
-            <persName xml:lang="ger">Marfa</persName>
+            <persName xml:lang="de">Marfa</persName>
           </person>
           <person xml:id="odin_golos_iz_naroda" sex="UNKNOWN">
             <persName>Один голос из народа</persName>
-            <persName xml:lang="ger">Eine Stimme aus der Menge</persName>
+            <persName xml:lang="de">Eine Stimme aus der Menge</persName>
           </person>
           <person xml:id="mitrich" sex="MALE">
             <persName>Митрич</persName>
-            <persName xml:lang="ger">Mitrič</persName>
+            <persName xml:lang="de">Mitrič</persName>
           </person>
           <person xml:id="sosedka" sex="FEMALE">
             <persName>Соседка</persName>
-            <persName xml:lang="ger">Nachbarin</persName>
+            <persName xml:lang="de">Nachbarin</persName>
           </person>
           <person xml:id="svat" sex="MALE">
             <persName>Сват</persName>
-            <persName xml:lang="ger">Brautwerber</persName>
+            <persName xml:lang="de">Brautwerber</persName>
           </person>
           <person xml:id="golos_baby_iz_senej" sex="FEMALE">
             <persName>Голос бабы из сеней</persName>
-            <persName xml:lang="ger">Frauenstimme aus dem Flur</persName>
+            <persName xml:lang="de">Frauenstimme aus dem Flur</persName>
           </person>
           <person xml:id="pervaja_devka" sex="FEMALE">
             <persName>1-я девка</persName>
-            <persName xml:lang="ger">Erstes Mädchen</persName>
+            <persName xml:lang="de">Erstes Mädchen</persName>
           </person>
           <person xml:id="vtoraja_devka" sex="FEMALE">
             <persName>2-я девка</persName>
-            <persName xml:lang="ger">Zweites Mädchen</persName>
+            <persName xml:lang="de">Zweites Mädchen</persName>
           </person>
           <person xml:id="muzh_mariny" sex="MALE">
             <persName>Муж Марины</persName>
-            <persName xml:lang="ger">Marinas Mann</persName>
+            <persName xml:lang="de">Marinas Mann</persName>
           </person>
           <person xml:id="izvozchik" sex="MALE">
             <persName>Извозчик</persName>
-            <persName xml:lang="ger">Kutscher</persName>
+            <persName xml:lang="de">Kutscher</persName>
           </person>
           <person xml:id="druzhko" sex="MALE">
             <persName>Дружко</persName>
-            <persName xml:lang="ger">Brautführer</persName>
+            <persName xml:lang="de">Brautführer</persName>
           </person>
           <person xml:id="svaha" sex="FEMALE">
             <persName>Сваха</persName>
-            <persName xml:lang="ger">Heiratsvermittlerin</persName>
+            <persName xml:lang="de">Heiratsvermittlerin</persName>
           </person>
           <person xml:id="urjadnik" sex="MALE">
             <persName>Урядник</persName>
-            <persName xml:lang="ger">Gendarm</persName>
+            <persName xml:lang="de">Gendarm</persName>
           </person>
           <person xml:id="starosta" sex="MALE">
             <persName>Староста</persName>
-            <persName xml:lang="ger">Dorfschulze</persName>
+            <persName xml:lang="de">Dorfschulze</persName>
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#petr" passive="#akulina"/>

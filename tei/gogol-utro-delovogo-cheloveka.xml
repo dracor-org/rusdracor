@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000051" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000051" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Утро делового человека</title>
-        <title xml:lang="eng">The Morning of a Busy Man</title>
+        <title xml:lang="en">The Morning of a Busy Man</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Васильевич</forename>
             <surname>Гоголь</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolai</forename>
             <surname>Gogol</surname>
           </persName>

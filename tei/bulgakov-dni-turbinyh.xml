@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000073" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000073" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Дни Турбиных</title>
-        <title xml:lang="eng">The Days of the Turbins</title>
+        <title xml:lang="en">The Days of the Turbins</title>
         <title type="sub">Пьеса в четырех действиях</title>
-        <title type="sub" xml:lang="eng">A Play in Four Acts</title>
+        <title type="sub" xml:lang="en">A Play in Four Acts</title>
         <author>
           <persName>
             <forename>Михаил</forename>
             <forename type="patronym">Афанасьевич</forename>
             <surname>Булгаков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mikhail</forename>
             <surname>Bulgakov</surname>
           </persName>

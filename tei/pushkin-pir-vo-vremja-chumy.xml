@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000019" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000019" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Пир во время чумы</title>
-        <title xml:lang="eng">A Feast in Time of Plague</title>
+        <title xml:lang="en">A Feast in Time of Plague</title>
         <title type="sub">(Из вильсоновой трагедии: The city of the plague)</title>
-        <title type="sub" xml:lang="eng">(From Wilson's Tragedy: The City of the Plague)</title>
+        <title type="sub" xml:lang="en">(From Wilson's Tragedy: The City of the Plague)</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Пушкин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Pushkin</surname>
           </persName>

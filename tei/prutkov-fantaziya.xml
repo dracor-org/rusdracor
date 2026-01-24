@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000094" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000094" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Фантазия</title>
-        <title xml:lang="eng">Fantasy</title>
+        <title xml:lang="en">Fantasy</title>
         <title type="sub">Комедия в одном действии, соч. Y и Z</title>
-        <title type="sub" xml:lang="eng">A Comedy in One Act</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act</title>
         <author>
           <persName type="pseudo">
             <forename>Козьма</forename>
             <surname>Прутков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Kozma</forename>
             <surname>Prutkov</surname>
           </persName>
@@ -45,56 +45,56 @@
         <listPerson>
           <person xml:id="kutilo-zavaldajskij" sex="MALE">
             <persName>Кутило-Завалдайский</persName>
-            <persName xml:lang="eng">Kutilo-Zavaldaisky</persName>
+            <persName xml:lang="en">Kutilo-Zavaldaisky</persName>
           </person>
           <person xml:id="razorvaki" sex="MALE">
             <persName>Разорваки</persName>
-            <persName xml:lang="eng">Razorvaki</persName>
+            <persName xml:lang="en">Razorvaki</persName>
           </person>
           <person xml:id="knyaz_batog-batyev" sex="MALE">
             <persName>Кн. Батог-Батыев</persName>
-            <persName xml:lang="eng">Prince Batog-Batyev</persName>
+            <persName xml:lang="en">Prince Batog-Batyev</persName>
           </person>
           <person xml:id="milovidov" sex="MALE">
             <persName>Миловидов</persName>
-            <persName xml:lang="eng">Milovidov</persName>
+            <persName xml:lang="en">Milovidov</persName>
           </person>
           <person xml:id="bespardonnyj" sex="MALE">
             <persName>Беспардонный</persName>
-            <persName xml:lang="eng">Bespardonny</persName>
+            <persName xml:lang="en">Bespardonny</persName>
           </person>
           <person xml:id="libental" sex="MALE">
             <persName>Либенталь</persName>
-            <persName xml:lang="eng">Liebenthal</persName>
+            <persName xml:lang="en">Liebenthal</persName>
           </person>
           <person xml:id="chupurlina" sex="FEMALE">
             <persName>Чупурлина</persName>
-            <persName xml:lang="eng">Chupurlina</persName>
+            <persName xml:lang="en">Chupurlina</persName>
           </person>
           <person xml:id="lizaveta_platonovna" sex="FEMALE">
             <persName>Лизавета Платоновна</persName>
-            <persName xml:lang="eng">Lizaveta Platonovna</persName>
+            <persName xml:lang="en">Lizaveta Platonovna</persName>
           </person>
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="eng">A Footman</persName>
+            <persName xml:lang="en">A Footman</persName>
           </person>
           <person xml:id="gornichnaya" sex="FEMALE">
             <persName>Горничная</persName>
-            <persName xml:lang="eng">A Parlor-Maid</persName>
+            <persName xml:lang="en">A Parlor-Maid</persName>
           </person>
           <person xml:id="akulina" sex="FEMALE">
             <persName>Акулина</persName>
-            <persName xml:lang="eng">Akulina</persName>
+            <persName xml:lang="en">Akulina</persName>
           </person>
           <person xml:id="povar" sex="MALE">
             <persName>Повар</persName>
-            <persName xml:lang="eng">Cook</persName>
+            <persName xml:lang="en">Cook</persName>
           </person>
           <personGrp xml:id="dvornya" sex="UNKNOWN">
             <name>Дворня</name>
             <name type="variant">Вся прислуга</name>
-            <name xml:lang="eng">All the Servants</name>
+            <name xml:lang="en">All the Servants</name>
           </personGrp>
           <listRelation type="personal">
             <relation name="associated_with" active="#lizaveta_platonovna" passive="#chupurlina"/>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000045" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000045" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Дитя Аллаха</title>
-        <title xml:lang="eng">The Child of Allah</title>
+        <title xml:lang="en">The Child of Allah</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Степанович</forename>
             <surname>Гумилёв</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolay</forename>
             <surname>Gumilyov</surname>
           </persName>

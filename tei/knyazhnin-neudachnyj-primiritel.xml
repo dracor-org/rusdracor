@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000166" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000166" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Неудачный примиритель, или Без обеду домой поеду</title>
-        <title xml:lang="eng">The Unsuccessful Peacemaker, or I Shall Go Home Without
+        <title xml:lang="en">The Unsuccessful Peacemaker, or I Shall Go Home Without
           Dinner</title>
         <title type="sub">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="eng">Comedy in Three Acts</title>
+        <title type="sub" xml:lang="en">Comedy in Three Acts</title>
         <author>
           <persName>
             <forename>Яков</forename>
             <forename type="patronym">Борисович</forename>
             <surname>Княжнин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Yakov</forename>
             <surname>Knyazhnin</surname>
           </persName>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000015" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000015" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Дело</title>
-        <title xml:lang="eng">The Case</title>
+        <title xml:lang="en">The Case</title>
         <title type="sub">Драма в пяти действиях</title>
-        <title type="sub" xml:lang="eng">Drama in Five Acts</title>
+        <title type="sub" xml:lang="en">Drama in Five Acts</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Васильевич</forename>
             <surname>Сухово-Кобылин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Aleksandr</forename>
             <surname>Sukhovo-Kobylin</surname>
           </persName>
@@ -43,103 +43,103 @@
         <listPerson>
           <person xml:id="Nelkin" sex="MALE">
             <persName>Нелькин</persName>
-            <persName xml:lang="ger">Nelʹkin</persName>
-            <persName xml:lang="eng">Nelʹkin</persName>
+            <persName xml:lang="de">Nelʹkin</persName>
+            <persName xml:lang="en">Nelʹkin</persName>
           </person>
           <person xml:id="Atueva" sex="FEMALE">
             <persName>Анна Антоновна Атуева</persName>
-            <persName xml:lang="ger">Atueva</persName>
-            <persName xml:lang="eng">Atueva</persName>
+            <persName xml:lang="de">Atueva</persName>
+            <persName xml:lang="en">Atueva</persName>
           </person>
           <person xml:id="Lidochka" sex="FEMALE">
             <persName>Лидочка</persName>
-            <persName xml:lang="ger">Lidočka</persName>
-            <persName xml:lang="eng">Lidočka</persName>
+            <persName xml:lang="de">Lidočka</persName>
+            <persName xml:lang="en">Lidočka</persName>
           </person>
           <person xml:id="Muromskij" sex="MALE">
             <persName>Петр Константинович Муромский</persName>
-            <persName xml:lang="ger">Muromskij</persName>
-            <persName xml:lang="eng">Muromskij</persName>
+            <persName xml:lang="de">Muromskij</persName>
+            <persName xml:lang="en">Muromskij</persName>
           </person>
           <person xml:id="Tishka" sex="MALE">
             <persName>Тишка</persName>
-            <persName xml:lang="ger">Tiška</persName>
-            <persName xml:lang="eng">Tiška</persName>
+            <persName xml:lang="de">Tiška</persName>
+            <persName xml:lang="en">Tiška</persName>
           </person>
           <person xml:id="Ivan_Sidorov" sex="MALE">
             <persName>Иван Сидоров Разуваев</persName>
-            <persName xml:lang="ger">Razuvaev</persName>
-            <persName xml:lang="eng">Razuvaev</persName>
+            <persName xml:lang="de">Razuvaev</persName>
+            <persName xml:lang="en">Razuvaev</persName>
           </person>
           <person xml:id="Tarelkin" sex="MALE">
             <persName>Кандид Касторович Тарелкин</persName>
-            <persName xml:lang="ger">Tarelkin</persName>
-            <persName xml:lang="eng">Tarelkin</persName>
+            <persName xml:lang="de">Tarelkin</persName>
+            <persName xml:lang="en">Tarelkin</persName>
           </person>
           <person xml:id="Golos" sex="MALE">
             <persName>Голос (за дверью)</persName>
-            <persName xml:lang="ger">Stimme (hinter der Tür)</persName>
-            <persName xml:lang="eng">Voice (behind the door)</persName>
+            <persName xml:lang="de">Stimme (hinter der Tür)</persName>
+            <persName xml:lang="en">Voice (behind the door)</persName>
           </person>
           <person xml:id="Ibisov" sex="MALE">
             <persName>Ибисов</persName>
-            <persName xml:lang="ger">Ibisov</persName>
-            <persName xml:lang="eng">Ibisov</persName>
+            <persName xml:lang="de">Ibisov</persName>
+            <persName xml:lang="en">Ibisov</persName>
           </person>
           <person xml:id="Shilo" sex="MALE">
             <persName>Касьян Касьянович Шило</persName>
-            <persName xml:lang="ger">Šilo</persName>
-            <persName xml:lang="eng">Šilo</persName>
+            <persName xml:lang="de">Šilo</persName>
+            <persName xml:lang="en">Šilo</persName>
           </person>
           <person xml:id="Chibisov" sex="MALE">
             <persName>Чибисов</persName>
-            <persName xml:lang="ger">Čibisov</persName>
-            <persName xml:lang="eng">Čibisov</persName>
+            <persName xml:lang="de">Čibisov</persName>
+            <persName xml:lang="en">Čibisov</persName>
           </person>
           <person xml:id="Sherts" sex="MALE">
             <persName>Шерц</persName>
-            <persName xml:lang="ger">Šerc</persName>
-            <persName xml:lang="eng">Šerc</persName>
+            <persName xml:lang="de">Šerc</persName>
+            <persName xml:lang="en">Šerc</persName>
           </person>
           <person xml:id="Shmerts" sex="MALE">
             <persName>Шмерц</persName>
-            <persName xml:lang="ger">Šmerc</persName>
-            <persName xml:lang="eng">Šmerc</persName>
+            <persName xml:lang="de">Šmerc</persName>
+            <persName xml:lang="en">Šmerc</persName>
           </person>
           <person xml:id="Varravin" sex="MALE">
             <persName>Максим Кузьмич Варравин</persName>
-            <persName xml:lang="ger">Varravin</persName>
-            <persName xml:lang="eng">Varravin</persName>
+            <persName xml:lang="de">Varravin</persName>
+            <persName xml:lang="en">Varravin</persName>
           </person>
           <person xml:id="Omega" sex="MALE">
             <persName>Чиновник Омега</persName>
-            <persName xml:lang="ger">Beamter Omega</persName>
-            <persName xml:lang="eng">The official Omega</persName>
+            <persName xml:lang="de">Beamter Omega</persName>
+            <persName xml:lang="en">The official Omega</persName>
           </person>
           <person xml:id="Paramonov" sex="MALE">
             <persName>Парамонов</persName>
-            <persName xml:lang="ger">Paramonov</persName>
-            <persName xml:lang="eng">Paramonov</persName>
+            <persName xml:lang="de">Paramonov</persName>
+            <persName xml:lang="en">Paramonov</persName>
           </person>
           <person xml:id="Knjaz" sex="MALE">
             <persName>Князь</persName>
-            <persName xml:lang="ger">Der Fürst</persName>
-            <persName xml:lang="eng">The prince</persName>
+            <persName xml:lang="de">Der Fürst</persName>
+            <persName xml:lang="en">The prince</persName>
           </person>
           <person xml:id="Gerts" sex="MALE">
             <persName>Герц</persName>
-            <persName xml:lang="ger">Gerc</persName>
-            <persName xml:lang="eng">Gerc</persName>
+            <persName xml:lang="de">Gerc</persName>
+            <persName xml:lang="en">Gerc</persName>
           </person>
           <person xml:id="Zhivets" sex="MALE">
             <persName>Иван Андреевич Живец</persName>
-            <persName xml:lang="ger">Živec</persName>
-            <persName xml:lang="eng">Živec</persName>
+            <persName xml:lang="de">Živec</persName>
+            <persName xml:lang="en">Živec</persName>
           </person>
           <person xml:id="Vazhnoe_litso" sex="MALE">
             <persName>Важное лицо</persName>
-            <persName xml:lang="ger">Wichtige Persönlichkeit</persName>
-            <persName xml:lang="eng">Important person</persName>
+            <persName xml:lang="de">Wichtige Persönlichkeit</persName>
+            <persName xml:lang="en">Important person</persName>
           </person>
         </listPerson>
       </particDesc>

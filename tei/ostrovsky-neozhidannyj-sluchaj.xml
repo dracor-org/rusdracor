@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000190" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000190" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Неожиданный случай</title>
-        <title xml:lang="eng">An Unexpected Event</title>
+        <title xml:lang="en">An Unexpected Event</title>
         <title type="sub">Драматический этюд</title>
-        <title type="sub" xml:lang="eng">A Dramatic Etude</title>
+        <title type="sub" xml:lang="en">A Dramatic Etude</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Островский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Ostrovsky</surname>
           </persName>

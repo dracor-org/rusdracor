@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000113" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000113" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Пирог</title>
-        <title xml:lang="eng">The Pie</title>
+        <title xml:lang="en">The Pie</title>
         <title type="sub">Комедия в одном действии</title>
-        <title type="sub" xml:lang="eng">A Comedy in One Act</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Андреевич</forename>
             <surname>Крылов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Krylov</surname>
           </persName>

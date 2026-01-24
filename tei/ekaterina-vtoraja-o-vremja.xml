@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000207" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000207" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>О время!</title>
-        <title xml:lang="eng">Oh, Time!</title>
+        <title xml:lang="en">Oh, Time!</title>
         <title type="sub">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
         <author>
           <persName type="nobility">
             <forename>Екатерина</forename>
@@ -20,7 +20,7 @@
             <forename>Фредерика</forename>
             <surname>Ангальт-Цербстская</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Catherine</forename>
             <genName>II</genName>
           </persName>

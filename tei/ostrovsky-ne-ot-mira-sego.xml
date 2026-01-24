@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000202" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000202" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Не от мира сего</title>
-        <title xml:lang="eng">Not of This World</title>
+        <title xml:lang="en">Not of This World</title>
         <title type="sub">Семейные сцены в 3 действиях</title>
-        <title type="sub" xml:lang="eng">Family Scenes in Three Acts</title>
+        <title type="sub" xml:lang="en">Family Scenes in Three Acts</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Островский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Ostrovsky</surname>
           </persName>

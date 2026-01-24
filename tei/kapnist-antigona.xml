@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000114" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000114" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Антигона</title>
-        <title xml:lang="eng">Antigone</title>
+        <title xml:lang="en">Antigone</title>
         <title type="sub">Трагедия в пяти действиях</title>
-        <title type="sub" xml:lang="eng">A Tragedy in Five Acts</title>
+        <title type="sub" xml:lang="en">A Tragedy in Five Acts</title>
         <author>
           <persName>
             <forename>Василий</forename>
             <forename type="patronym">Васильевич</forename>
             <surname>Капнист</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Vasily</forename>
             <surname>Kapnist</surname>
           </persName>

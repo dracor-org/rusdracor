@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000108" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000108" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ольга</title>
-        <title xml:lang="eng">Olga</title>
+        <title xml:lang="en">Olga</title>
         <title type="sub">Трагедия</title>
-        <title type="sub" xml:lang="eng">A Tragedy</title>
+        <title type="sub" xml:lang="en">A Tragedy</title>
         <author>
           <persName>
             <forename>Яков</forename>
             <forename type="patronym">Борисович</forename>
             <surname>Княжнин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Yakov</forename>
             <surname>Knyazhnin</surname>
           </persName>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000194" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000194" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>К звёздам</title>
-        <title xml:lang="eng">To the Stars</title>
+        <title xml:lang="en">To the Stars</title>
         <author>
           <persName>
             <forename>Леонид</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Андреев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Leonid</forename>
             <surname>Andreyev</surname>
           </persName>
@@ -41,55 +41,55 @@
         <listPerson>
           <person xml:id="inna_aleksandrovna" sex="FEMALE">
             <persName>Инна Александровна</persName>
-            <persName xml:lang="eng">Inna Alexandrovna</persName>
+            <persName xml:lang="en">Inna Alexandrovna</persName>
           </person>
           <person xml:id="petja" sex="MALE">
             <persName>Петя</persName>
-            <persName xml:lang="eng">Petia</persName>
+            <persName xml:lang="en">Petia</persName>
           </person>
           <person xml:id="zhitov" sex="MALE">
             <persName>Житов</persName>
-            <persName xml:lang="eng">Zhitoff</persName>
+            <persName xml:lang="en">Zhitoff</persName>
           </person>
           <person xml:id="lunts" sex="MALE">
             <persName>Лунц</persName>
-            <persName xml:lang="eng">Luntz</persName>
+            <persName xml:lang="en">Luntz</persName>
           </person>
           <person xml:id="minna" sex="FEMALE">
             <persName>Минна</persName>
-            <persName xml:lang="eng">Minna</persName>
+            <persName xml:lang="en">Minna</persName>
           </person>
           <person xml:id="pollak" sex="MALE">
             <persName>Поллак</persName>
-            <persName xml:lang="eng">Pollock</persName>
+            <persName xml:lang="en">Pollock</persName>
           </person>
           <person xml:id="anna" sex="FEMALE">
             <persName>Анна</persName>
-            <persName xml:lang="eng">Anna</persName>
+            <persName xml:lang="en">Anna</persName>
           </person>
           <person xml:id="trejch" sex="MALE">
             <persName>Трейч</persName>
-            <persName xml:lang="eng">Treitch</persName>
+            <persName xml:lang="en">Treitch</persName>
           </person>
           <person xml:id="verhovtsev" sex="MALE">
             <persName>Верховцев</persName>
-            <persName xml:lang="eng">Verchovtzeff</persName>
+            <persName xml:lang="en">Verchovtzeff</persName>
           </person>
           <person xml:id="frants" sex="MALE">
             <persName>Франц</persName>
-            <persName xml:lang="eng">Frantz</persName>
+            <persName xml:lang="en">Frantz</persName>
           </person>
           <person xml:id="sergej_nikolaevich" sex="MALE">
             <persName>Сергей Николаевич</persName>
-            <persName xml:lang="eng">Sergius Nikolaievitch</persName>
+            <persName xml:lang="en">Sergius Nikolaievitch</persName>
           </person>
           <person xml:id="marusja" sex="FEMALE">
             <persName>Маруся</persName>
-            <persName xml:lang="eng">Marusia</persName>
+            <persName xml:lang="en">Marusia</persName>
           </person>
           <person xml:id="shmidt" sex="MALE">
             <persName>Шмидт</persName>
-            <persName xml:lang="eng">Schmidt</persName>
+            <persName xml:lang="en">Schmidt</persName>
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#sergej_nikolaevich #inna_aleksandrovna"/>

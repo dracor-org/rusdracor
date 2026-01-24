@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000049" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000049" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Егор Булычов и другие</title>
-        <title xml:lang="eng">Yegor Bulichov and Others</title>
+        <title xml:lang="en">Yegor Bulichov and Others</title>
         <title type="sub">Сцены</title>
-        <title type="sub" xml:lang="eng">Scenes</title>
+        <title type="sub" xml:lang="en">Scenes</title>
         <author>
           <persName>
             <forename>Максим</forename>
             <surname>Горький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Maxim</forename>
             <surname>Gorky</surname>
           </persName>

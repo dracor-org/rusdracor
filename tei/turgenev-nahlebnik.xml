@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000006" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000006" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Нахлебник</title>
-        <title xml:lang="eng">Fortune's Fool</title>
+        <title xml:lang="en">Fortune's Fool</title>
         <title type="sub">Комедия в двух действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Two Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Two Acts</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Тургенев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Turgenev</surname>
           </persName>

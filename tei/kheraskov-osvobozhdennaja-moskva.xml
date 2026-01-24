@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000111" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000111" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Освобожденная Москва</title>
-        <title xml:lang="eng">Liberated Moscow</title>
+        <title xml:lang="en">Liberated Moscow</title>
         <author>
           <persName>
             <forename>Михаил</forename>
             <forename type="patronym">Матвеевич</forename>
             <surname>Херасков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mikhail</forename>
             <surname>Kheraskov</surname>
           </persName>

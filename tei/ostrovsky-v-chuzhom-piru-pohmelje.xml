@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000183" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000183" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>В чужом пиру похмелье</title>
-        <title xml:lang="eng">Drunk at a Foreign Feast</title>
+        <title xml:lang="en">Drunk at a Foreign Feast</title>
         <title type="sub">Комедия в двух действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Two Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Two Acts</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Островский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Ostrovsky</surname>
           </persName>
@@ -46,43 +46,43 @@
         <listPerson>
           <person xml:id="ivan_ksenofontych" sex="MALE">
             <persName>Иван Ксенофонтыч</persName>
-            <persName xml:lang="ger">Iwanow</persName>
+            <persName xml:lang="de">Iwanow</persName>
           </person>
           <person xml:id="agrafena_platonovna" sex="FEMALE">
             <persName>Аграфена Платоновна</persName>
-            <persName xml:lang="ger">Agrafena Platonowna</persName>
+            <persName xml:lang="de">Agrafena Platonowna</persName>
           </person>
           <person xml:id="lizaveta_ivanovna" sex="FEMALE">
             <persName>Лизавета Ивановна</persName>
-            <persName xml:lang="ger">Lisaweta</persName>
+            <persName xml:lang="de">Lisaweta</persName>
           </person>
           <person xml:id="andrej_titych" sex="MALE">
             <persName>Андрей Титыч</persName>
-            <persName xml:lang="ger">Andrej Titytsch</persName>
+            <persName xml:lang="de">Andrej Titytsch</persName>
           </person>
           <person xml:id="tit_titych" sex="MALE">
             <persName>Тит Титыч</persName>
-            <persName xml:lang="ger">Tit Titytsch Brusskow</persName>
+            <persName xml:lang="de">Tit Titytsch Brusskow</persName>
           </person>
           <person xml:id="kapiton_titych" sex="MALE">
             <persName>Капитон Титыч</persName>
-            <persName xml:lang="ger">Kapiton Titytsch</persName>
+            <persName xml:lang="de">Kapiton Titytsch</persName>
           </person>
           <person xml:id="lusha" sex="FEMALE">
             <persName>Луша</persName>
-            <persName xml:lang="ger">Luscha</persName>
+            <persName xml:lang="de">Luscha</persName>
           </person>
           <person xml:id="nastasya_pankratevna" sex="FEMALE">
             <persName>Настасья Панкратьевна</persName>
-            <persName xml:lang="ger">Nastassja Pankratjewna</persName>
+            <persName xml:lang="de">Nastassja Pankratjewna</persName>
           </person>
           <person xml:id="nenila_sidorovna" sex="FEMALE">
             <persName>Ненила Сидоровна</persName>
-            <persName xml:lang="ger">Nenila Sidorowna</persName>
+            <persName xml:lang="de">Nenila Sidorowna</persName>
           </person>
           <person xml:id="zahar_zaharych" sex="MALE">
             <persName>Захар Захарыч</persName>
-            <persName xml:lang="ger">Sachar Sacharytsch</persName>
+            <persName xml:lang="de">Sachar Sacharytsch</persName>
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#ivan_ksenofontych" passive="#lizaveta_ivanovna"/>

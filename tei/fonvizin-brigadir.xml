@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000058" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000058" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Бригадир</title>
-        <title xml:lang="eng">The Brigadier-General</title>
+        <title xml:lang="en">The Brigadier-General</title>
         <title type="sub">Комедия в пяти действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Five Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Five Acts</title>
         <author>
           <persName>
             <forename>Денис</forename>
             <forename type="patronym">Иванович</forename>
             <surname>Фонвизин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Denis</forename>
             <surname>Fonvizin</surname>
           </persName>

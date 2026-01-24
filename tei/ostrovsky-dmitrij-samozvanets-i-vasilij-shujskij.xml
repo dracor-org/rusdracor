@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000206" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000206" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Дмитрий Самозванец и Василий Шуйский</title>
-        <title xml:lang="eng">Dmitry the Pretender and Vasily Shuisky</title>
+        <title xml:lang="en">Dmitry the Pretender and Vasily Shuisky</title>
         <title type="sub">Драматическая хроника в двух частях</title>
-        <title type="sub" xml:lang="eng">Dramatic Chronicle in Two Parts</title>
+        <title type="sub" xml:lang="en">Dramatic Chronicle in Two Parts</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Островский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Ostrovsky</surname>
           </persName>

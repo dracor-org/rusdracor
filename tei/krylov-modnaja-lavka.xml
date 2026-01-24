@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000102" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000102" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Модная лавка</title>
-        <title xml:lang="eng">The Milliner's Shop</title>
+        <title xml:lang="en">The Milliner's Shop</title>
         <title type="sub">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Андреевич</forename>
             <surname>Крылов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Krylov</surname>
           </persName>
@@ -47,48 +47,48 @@
         <listPerson>
           <person xml:id="lestov" sex="MALE">
             <persName>Лестов</persName>
-            <persName xml:lang="eng">Lestov</persName>
+            <persName xml:lang="en">Lestov</persName>
           </person>
           <person xml:id="masha" sex="FEMALE">
             <persName>Маша</persName>
-            <persName xml:lang="eng">Masha</persName>
+            <persName xml:lang="en">Masha</persName>
           </person>
           <person xml:id="sumburova" sex="FEMALE">
             <persName>Сумбурова</persName>
-            <persName xml:lang="eng">Mrs. Sumburov</persName>
+            <persName xml:lang="en">Mrs. Sumburov</persName>
           </person>
           <person xml:id="antrop" sex="MALE">
             <persName>Антроп</persName>
-            <persName xml:lang="eng">Antropka</persName>
+            <persName xml:lang="en">Antropka</persName>
           </person>
           <person xml:id="annushka" sex="FEMALE">
             <persName>Аннушка</persName>
-            <persName xml:lang="eng">Annushka</persName>
+            <persName xml:lang="en">Annushka</persName>
           </person>
           <person xml:id="sumburov" sex="MALE">
             <persName>Сумбуров</persName>
             <persName type="variant">A Voice</persName>
-            <persName xml:lang="eng">Sumburov</persName>
+            <persName xml:lang="en">Sumburov</persName>
           </person>
           <person xml:id="andrej" sex="MALE">
             <persName>Андрей</persName>
-            <persName xml:lang="eng">Andrey</persName>
+            <persName xml:lang="en">Andrey</persName>
           </person>
           <person xml:id="trishe" sex="MALE">
             <persName>Трише</persName>
-            <persName xml:lang="eng">Monsieur Tricher</persName>
+            <persName xml:lang="en">Monsieur Tricher</persName>
           </person>
           <person xml:id="kare" sex="FEMALE">
             <persName>Каре</persName>
-            <persName xml:lang="eng">Madame Carié</persName>
+            <persName xml:lang="en">Madame Carié</persName>
           </person>
           <person xml:id="liza" sex="FEMALE">
             <persName>Лиза</persName>
-            <persName xml:lang="eng">Liza</persName>
+            <persName xml:lang="en">Liza</persName>
           </person>
           <person xml:id="oficer" sex="MALE">
             <persName>Офицер</persName>
-            <persName xml:lang="eng">Officer</persName>
+            <persName xml:lang="en">Officer</persName>
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#sumburova #sumburov"/>

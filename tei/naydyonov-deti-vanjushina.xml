@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000033" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000033" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Дети Ванюшина</title>
-        <title xml:lang="eng">Vanyushin's Children</title>
+        <title xml:lang="en">Vanyushin's Children</title>
         <title type="sub">Драма в четырех действиях</title>
-        <title type="sub" xml:lang="eng">A Drama in Four Acts</title>
+        <title type="sub" xml:lang="en">A Drama in Four Acts</title>
         <author>
           <persName>
             <forename>Сергей</forename>
             <forename type="patronym">Александрович</forename>
             <surname>Найдёнов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Sergey</forename>
             <surname>Naydyonov</surname>
           </persName>

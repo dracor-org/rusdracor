@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000078" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000078" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Не любо – не слушай, а лгать не мешай</title>
-        <title xml:lang="eng">Don't Listen if You Don't Want to, But Don't Interfere
+        <title xml:lang="en">Don't Listen if You Don't Want to, But Don't Interfere
           with Lying</title>
         <title type="sub">Комедия в одном действии, в вольных стихах</title>
-        <title type="sub" xml:lang="eng">A Comedy in One Act, in Free Verse</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act, in Free Verse</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Александрович</forename>
             <surname>Шаховской</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Shakhovskoy</surname>
           </persName>

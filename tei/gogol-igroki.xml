@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000088" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000088" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Игроки</title>
-        <title xml:lang="eng">The Gamblers</title>
+        <title xml:lang="en">The Gamblers</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Васильевич</forename>
             <surname>Гоголь</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolai</forename>
             <surname>Gogol</surname>
           </persName>

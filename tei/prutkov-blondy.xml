@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000025" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000025" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Блонды</title>
-        <title xml:lang="eng">Silk Lace</title>
+        <title xml:lang="en">Silk Lace</title>
         <title type="sub">Драматическая пословица, в одном действии</title>
-        <title type="sub" xml:lang="eng">Dramatic Proverb, in One Act</title>
+        <title type="sub" xml:lang="en">Dramatic Proverb, in One Act</title>
         <author>
           <persName type="pseudo">
             <forename>Козьма</forename>
             <surname>Прутков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Kozma</forename>
             <surname>Prutkov</surname>
           </persName>

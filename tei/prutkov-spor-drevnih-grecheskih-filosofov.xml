@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000023" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000023" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Спор древних греческих философов об изящном</title>
-        <title xml:lang="eng">Discourse between Two Greek Philosophers about
+        <title xml:lang="en">Discourse between Two Greek Philosophers about
           Beauty</title>
         <title type="sub">Драматическая сцена из древнегреческой классической жизни в стихах</title>
-        <title type="sub" xml:lang="eng">Dramatic Scene from Hellenic Classical Life in
+        <title type="sub" xml:lang="en">Dramatic Scene from Hellenic Classical Life in
           Verse</title>
         <author>
           <persName type="pseudo">
             <forename>Козьма</forename>
             <surname>Прутков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Kozma</forename>
             <surname>Prutkov</surname>
           </persName>

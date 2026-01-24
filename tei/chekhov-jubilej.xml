@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000069" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000069" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Юбилей</title>
-        <title xml:lang="eng">The Anniversary</title>
+        <title xml:lang="en">The Anniversary</title>
         <title type="sub">Шутка в одном действии</title>
-        <title type="sub" xml:lang="eng">A Joke in One Act</title>
+        <title type="sub" xml:lang="en">A Joke in One Act</title>
         <author>
           <persName>
             <forename>Антон</forename>
             <forename type="patronym">Павлович</forename>
             <surname>Чехов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Anton</forename>
             <surname>Chekhov</surname>
           </persName>
@@ -47,28 +47,28 @@
         <listPerson>
           <person xml:id="Hirin" sex="MALE">
             <persName>Хирин</persName>
-            <persName xml:lang="eng">Hirin</persName>
-            <persName xml:lang="ger">Hirin</persName>
+            <persName xml:lang="en">Hirin</persName>
+            <persName xml:lang="de">Hirin</persName>
           </person>
           <person xml:id="Shipuchin" sex="MALE">
             <persName>Шипучин</persName>
-            <persName xml:lang="eng">Šipučin</persName>
-            <persName xml:lang="ger">Šipučin</persName>
+            <persName xml:lang="en">Šipučin</persName>
+            <persName xml:lang="de">Šipučin</persName>
           </person>
           <person xml:id="TatjanaAlekseevna" sex="FEMALE">
             <persName>Татьяна Алексеевна</persName>
-            <persName xml:lang="eng">Tatʹâna Alekseevna</persName>
-            <persName xml:lang="ger">Tatʹâna Alekseevna</persName>
+            <persName xml:lang="en">Tatʹâna Alekseevna</persName>
+            <persName xml:lang="de">Tatʹâna Alekseevna</persName>
           </person>
           <person xml:id="Merchutkina" sex="FEMALE">
             <persName>Мерчуткина</persName>
-            <persName xml:lang="eng">Merčutkina</persName>
-            <persName xml:lang="ger">Merčutkina</persName>
+            <persName xml:lang="en">Merčutkina</persName>
+            <persName xml:lang="de">Merčutkina</persName>
           </person>
           <person xml:id="ChlenBanka" sex="MALE">
             <persName>Член банка</persName>
-            <persName xml:lang="eng">One of the deputation</persName>
-            <persName xml:lang="ger">Ein Mitglied der Bank</persName>
+            <persName xml:lang="en">One of the deputation</persName>
+            <persName xml:lang="de">Ein Mitglied der Bank</persName>
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#TatjanaAlekseevna #Shipuchin"/>

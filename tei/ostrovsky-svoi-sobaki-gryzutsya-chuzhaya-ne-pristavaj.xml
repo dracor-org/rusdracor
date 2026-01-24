@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000185" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000185" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Свои собаки грызутся, чужая не приставай</title>
-        <title xml:lang="eng">When Your Own Dogs Are Fighting, a Strange Dog Should Not
+        <title xml:lang="en">When Your Own Dogs Are Fighting, a Strange Dog Should Not
           Meddle</title>
         <title type="sub">Картины московской жизни</title>
-        <title type="sub" xml:lang="eng">Pictures from Moscow Life</title>
+        <title type="sub" xml:lang="en">Pictures from Moscow Life</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Николаевич</forename>
             <surname>Островский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Ostrovsky</surname>
           </persName>
@@ -49,35 +49,35 @@
         <listPerson>
           <person xml:id="balzaminova" sex="FEMALE">
             <persName>Бальзаминова</persName>
-            <persName xml:lang="ger">Pawla Petrowna Balsaminowa</persName>
+            <persName xml:lang="de">Pawla Petrowna Balsaminowa</persName>
           </person>
           <person xml:id="matrena" sex="FEMALE">
             <persName>Матрена</persName>
-            <persName xml:lang="ger">Matrjona</persName>
+            <persName xml:lang="de">Matrjona</persName>
           </person>
           <person xml:id="ustrashimov" sex="MALE">
             <persName>Устрашимов</persName>
-            <persName xml:lang="ger">Ustraschimow</persName>
+            <persName xml:lang="de">Ustraschimow</persName>
           </person>
           <person xml:id="balzaminov" sex="MALE">
             <persName>Бальзаминов</persName>
-            <persName xml:lang="ger">Balsaminow</persName>
+            <persName xml:lang="de">Balsaminow</persName>
           </person>
           <person xml:id="krasavina" sex="FEMALE">
             <persName>Красавина</persName>
-            <persName xml:lang="ger">Akulina Gawrilowna Krassawina</persName>
+            <persName xml:lang="de">Akulina Gawrilowna Krassawina</persName>
           </person>
           <person xml:id="masha" sex="FEMALE">
             <persName>Маша</persName>
-            <persName xml:lang="ger">Mascha</persName>
+            <persName xml:lang="de">Mascha</persName>
           </person>
           <person xml:id="antrygina" sex="FEMALE">
             <persName>Антрыгина</persName>
-            <persName xml:lang="ger">Anfissa Danilowna Antrygina</persName>
+            <persName xml:lang="de">Anfissa Danilowna Antrygina</persName>
           </person>
           <person xml:id="pionova" sex="FEMALE">
             <persName>Пионова</persName>
-            <persName xml:lang="ger">Anna Proklowna Pionowa</persName>
+            <persName xml:lang="de">Anna Proklowna Pionowa</persName>
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#balzaminova" passive="#balzaminov"/>

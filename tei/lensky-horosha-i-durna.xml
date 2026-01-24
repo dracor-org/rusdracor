@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000106" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000106" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Хороша и дурна, и глупа и умна</title>
-        <title xml:lang="eng">She's Both Good and Bad, and Silly and Smart</title>
+        <title xml:lang="en">She's Both Good and Bad, and Silly and Smart</title>
         <title type="sub">Водевиль в одном действии</title>
-        <title type="sub" xml:lang="eng">A Vaudeville in One Act</title>
+        <title type="sub" xml:lang="en">A Vaudeville in One Act</title>
         <author>
           <persName>
             <forename>Дмитрий</forename>
             <forename type="patronym">Тимофеевич</forename>
             <surname>Ленский</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Dmitry</forename>
             <surname>Lensky</surname>
           </persName>

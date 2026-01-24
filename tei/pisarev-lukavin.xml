@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000133" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000133" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Лукавин</title>
-        <title xml:lang="eng">Lukavin</title>
+        <title xml:lang="en">Lukavin</title>
         <title type="sub">Комедия в пяти действиях, в стихах, переделанная с английского</title>
-        <title type="sub" xml:lang="eng">A Comedy in Five Acts, in Verse, Adapted from the
+        <title type="sub" xml:lang="en">A Comedy in Five Acts, in Verse, Adapted from the
           English</title>
         <author>
           <persName>
@@ -16,7 +16,7 @@
             <forename type="patronym">Иванович</forename>
             <surname>Писарев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Aleksander</forename>
             <surname>Pisarev</surname>
           </persName>

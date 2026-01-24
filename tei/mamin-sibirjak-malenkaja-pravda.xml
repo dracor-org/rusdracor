@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000199" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000199" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Маленькая правда</title>
-        <title xml:lang="eng">Little Truth</title>
+        <title xml:lang="en">Little Truth</title>
         <title type="sub">Драма в 4-рех действиях.</title>
-        <title type="sub" xml:lang="eng">Drama in Four Acts</title>
+        <title type="sub" xml:lang="en">Drama in Four Acts</title>
         <author>
           <persName>
             <forename>Дмитрий</forename>
             <forename type="patronym">Наркисович</forename>
             <surname>Мамин-Сибиряк</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Dmitry</forename>
             <surname>Mamin-Sibiryak</surname>
           </persName>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000086" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000086" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Димитрий Донской</title>
-        <title xml:lang="eng">Dmitry Donskoy</title>
+        <title xml:lang="en">Dmitry Donskoy</title>
         <title type="sub">Трагедия</title>
-        <title type="sub" xml:lang="eng">A Tragedy</title>
+        <title type="sub" xml:lang="en">A Tragedy</title>
         <author>
           <persName>
             <forename>Владислав</forename>
             <forename type="patronym">Александрович</forename>
             <surname>Озеров</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Vladislav</forename>
             <surname>Ozerov</surname>
           </persName>
