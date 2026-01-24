@@ -26,10 +26,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -37,10 +34,7 @@
           <name>Wikisource</name>
           <idno type="URL">https://ru.wikisource.org/wiki/Спор_древних_греческих_философов_об_изящном_(Прутков)</idno>
           <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">CC BY-SA 3.0</licence>
           </availability>
         </bibl>
       </sourceDesc>
