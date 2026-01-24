@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000123" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000123" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Светский случай</title>
-        <title type="main" xml:lang="eng">Social Occasion</title>
+        <title>Светский случай</title>
+        <title xml:lang="en">Social Occasion</title>
         <title type="sub">Комедия в одном действии, в стихах</title>
-        <title type="sub" xml:lang="eng">A Comedy in One Act, in Verse</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act, in Verse</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Иванович</forename>
             <surname>Хмельницкий</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolai</forename>
             <surname>Khmelnitsky</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

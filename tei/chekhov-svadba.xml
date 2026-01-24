@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000063" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000063" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Свадьба</title>
-        <title type="main" xml:lang="eng">The Wedding</title>
+        <title>Свадьба</title>
+        <title xml:lang="en">The Wedding</title>
         <title type="sub">Сцена в одном действии</title>
-        <title type="sub" xml:lang="eng">A Scene in One Act</title>
+        <title type="sub" xml:lang="en">A Scene in One Act</title>
         <author>
           <persName>
             <forename>Антон</forename>
             <forename type="patronym">Павлович</forename>
             <surname>Чехов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Anton</forename>
             <surname>Chekhov</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -50,68 +47,68 @@
         <listPerson>
           <person xml:id="Zmejukina" sex="FEMALE">
             <persName>Змеюкина</persName>
-            <persName xml:lang="eng">Zmeûkina</persName>
-            <persName xml:lang="ger">Zmeûkina</persName>
+            <persName xml:lang="en">Zmeûkina</persName>
+            <persName xml:lang="de">Zmeûkina</persName>
           </person>
           <person xml:id="Jat" sex="MALE">
             <persName>Ять</persName>
-            <persName xml:lang="eng">Âtʹ</persName>
-            <persName xml:lang="ger">Âtʹ</persName>
+            <persName xml:lang="en">Âtʹ</persName>
+            <persName xml:lang="de">Âtʹ</persName>
           </person>
           <person xml:id="Shafer" sex="MALE">
             <persName>Шафер</persName>
-            <persName xml:lang="eng">Groomsman</persName>
-            <persName xml:lang="ger">Brautführer</persName>
+            <persName xml:lang="en">Groomsman</persName>
+            <persName xml:lang="de">Brautführer</persName>
           </person>
           <person xml:id="NastasjaTimofeevna" sex="FEMALE">
             <persName>Настасья Тимофеевна</persName>
-            <persName xml:lang="eng">Nastasʹâ Timofeevna</persName>
-            <persName xml:lang="ger">Nastasʹâ Timofeevna</persName>
+            <persName xml:lang="en">Nastasʹâ Timofeevna</persName>
+            <persName xml:lang="de">Nastasʹâ Timofeevna</persName>
           </person>
           <person xml:id="Aplombov" sex="MALE">
             <persName>Апломбов</persName>
-            <persName xml:lang="eng">Aplombov</persName>
-            <persName xml:lang="ger">Aplombov</persName>
+            <persName xml:lang="en">Aplombov</persName>
+            <persName xml:lang="de">Aplombov</persName>
           </person>
           <person xml:id="Lakej" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="eng">A waiter</persName>
-            <persName xml:lang="ger">Lakai</persName>
+            <persName xml:lang="en">A waiter</persName>
+            <persName xml:lang="de">Lakai</persName>
           </person>
           <person xml:id="Zhigalov" sex="MALE">
             <persName>Жигалов</persName>
-            <persName xml:lang="eng">Žigalov</persName>
-            <persName xml:lang="ger">Žigalov</persName>
+            <persName xml:lang="en">Žigalov</persName>
+            <persName xml:lang="de">Žigalov</persName>
           </person>
           <person xml:id="Dymba" sex="MALE">
             <persName>Дымба</persName>
-            <persName xml:lang="eng">Dymba</persName>
-            <persName xml:lang="ger">Dymba</persName>
+            <persName xml:lang="en">Dymba</persName>
+            <persName xml:lang="de">Dymba</persName>
           </person>
           <person xml:id="Kavalery" sex="MALE">
             <persName>Кавалеры</persName>
-            <persName xml:lang="eng">Gentlemen</persName>
-            <persName xml:lang="ger">Junge Herren</persName>
+            <persName xml:lang="en">Gentlemen</persName>
+            <persName xml:lang="de">Junge Herren</persName>
           </person>
           <person xml:id="Njunin" sex="MALE">
             <persName>Нюнин</persName>
-            <persName xml:lang="eng">Nûnin</persName>
-            <persName xml:lang="ger">Nûnin</persName>
+            <persName xml:lang="en">Nûnin</persName>
+            <persName xml:lang="de">Nûnin</persName>
           </person>
           <person xml:id="Mozgovoj" sex="MALE">
             <persName>Мозговой</persName>
-            <persName xml:lang="eng">Mozgovoj</persName>
-            <persName xml:lang="ger">Mozgovoj</persName>
+            <persName xml:lang="en">Mozgovoj</persName>
+            <persName xml:lang="de">Mozgovoj</persName>
           </person>
           <person xml:id="Dashenka" sex="FEMALE">
             <persName>Дашенька</persName>
-            <persName xml:lang="eng">Dašenʹka</persName>
-            <persName xml:lang="ger">Dašenʹka</persName>
+            <persName xml:lang="en">Dašenʹka</persName>
+            <persName xml:lang="de">Dašenʹka</persName>
           </person>
           <person xml:id="Revunov" sex="MALE">
             <persName>Ревунов</persName>
-            <persName xml:lang="eng">Revunov</persName>
-            <persName xml:lang="ger">Revunov</persName>
+            <persName xml:lang="en">Revunov</persName>
+            <persName xml:lang="de">Revunov</persName>
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#NastasjaTimofeevna" passive="#Dashenka"/>

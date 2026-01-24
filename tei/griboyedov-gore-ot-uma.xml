@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000047" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000047" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Горе от ума</title>
-        <title type="main" xml:lang="eng">Woe from Wit</title>
+        <title>Горе от ума</title>
+        <title xml:lang="en">Woe from Wit</title>
         <title type="sub">Комедия в четырех действиях, в стихах</title>
-        <title type="sub" xml:lang="eng">Comedy in 4 Acts, in Verse</title>
+        <title type="sub" xml:lang="en">Comedy in 4 Acts, in Verse</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Грибоедов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Griboyedov</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -52,127 +49,127 @@
           <person xml:id="lizanka" sex="FEMALE">
             <persName>Лизанька</persName>
             <persName type="variant">Лиза</persName>
-            <persName xml:lang="ger">Lizanʹka</persName>
+            <persName xml:lang="de">Lizanʹka</persName>
           </person>
           <person xml:id="sofija" sex="FEMALE">
             <persName>София</persName>
-            <persName xml:lang="ger">Sofiâ</persName>
+            <persName xml:lang="de">Sofiâ</persName>
           </person>
           <person xml:id="famusov" sex="MALE">
             <persName>Фамусов</persName>
-            <persName xml:lang="ger">Famusov</persName>
+            <persName xml:lang="de">Famusov</persName>
           </person>
           <person xml:id="molchalin" sex="MALE">
             <persName>Молчалин</persName>
-            <persName xml:lang="ger">Molčalin</persName>
+            <persName xml:lang="de">Molčalin</persName>
           </person>
           <person xml:id="sluga_1-6" sex="MALE">
             <persName>Слуга</persName>
-            <persName xml:lang="ger">Diener (I/6)</persName>
+            <persName xml:lang="de">Diener (I/6)</persName>
           </person>
           <person xml:id="chatskij" sex="MALE">
             <persName>Чацкий</persName>
-            <persName xml:lang="ger">Čackij</persName>
+            <persName xml:lang="de">Čackij</persName>
           </person>
           <person xml:id="sluga_2-3" sex="MALE">
             <persName>Слуга</persName>
-            <persName xml:lang="ger">Diener (II/3)</persName>
+            <persName xml:lang="de">Diener (II/3)</persName>
           </person>
           <person xml:id="skalozub" sex="MALE">
             <persName>Скалозуб</persName>
-            <persName xml:lang="ger">Skalozub</persName>
+            <persName xml:lang="de">Skalozub</persName>
           </person>
           <person xml:id="glavnij_sluga" sex="MALE">
             <persName>Главный слуга</persName>
-            <persName xml:lang="ger">Diener (III/4)</persName>
+            <persName xml:lang="de">Diener (III/4)</persName>
           </person>
           <person xml:id="natalja_dmitrievna" sex="FEMALE">
             <persName>Наталья Дмитриевна</persName>
-            <persName xml:lang="ger">Natalʹâ Dmitrievna</persName>
+            <persName xml:lang="de">Natalʹâ Dmitrievna</persName>
           </person>
           <person xml:id="platon_mihajlovich" sex="MALE">
             <persName>Платон Михайлович</persName>
-            <persName xml:lang="ger">Platon Mihajlovič</persName>
+            <persName xml:lang="de">Platon Mihajlovič</persName>
           </person>
           <person xml:id="pervaja_knjazhna" sex="FEMALE">
             <persName>1-я княжна</persName>
-            <persName xml:lang="ger">Erste Fürstentochter</persName>
+            <persName xml:lang="de">Erste Fürstentochter</persName>
           </person>
           <person xml:id="vtoraja_knjazhna" sex="FEMALE">
             <persName>2-я княжна</persName>
-            <persName xml:lang="ger">Zweite Fürstentochter</persName>
+            <persName xml:lang="de">Zweite Fürstentochter</persName>
           </person>
           <person xml:id="tretja_knjazhna" sex="FEMALE">
             <persName>3-я княжна</persName>
-            <persName xml:lang="ger">Dritte Fürstentochter</persName>
+            <persName xml:lang="de">Dritte Fürstentochter</persName>
           </person>
           <person xml:id="chetviortaja_knjazhna" sex="FEMALE">
             <persName>4-я княжна</persName>
-            <persName xml:lang="ger">Vierte Fürstentochter</persName>
+            <persName xml:lang="de">Vierte Fürstentochter</persName>
           </person>
           <person xml:id="pjataja_knjazhna" sex="FEMALE">
             <persName>5-я княжна</persName>
-            <persName xml:lang="ger">Fünfte Fürstentochter</persName>
+            <persName xml:lang="de">Fünfte Fürstentochter</persName>
           </person>
           <person xml:id="shestaja_knjazhna" sex="FEMALE">
             <persName>6-я княжна</persName>
-            <persName xml:lang="ger">Sechste Fürstentochter</persName>
+            <persName xml:lang="de">Sechste Fürstentochter</persName>
           </person>
           <person xml:id="knjaginja" sex="FEMALE">
             <persName>Княгиня</persName>
-            <persName xml:lang="ger">Die Fürstin</persName>
+            <persName xml:lang="de">Die Fürstin</persName>
           </person>
           <person xml:id="knjaz" sex="MALE">
             <persName>Князь</persName>
-            <persName xml:lang="ger">Der Fürst</persName>
+            <persName xml:lang="de">Der Fürst</persName>
           </person>
           <person xml:id="grafinja_vnuchka" sex="FEMALE">
             <persName>Графиня внучка</persName>
-            <persName xml:lang="ger">Komtesse Hrûmina</persName>
+            <persName xml:lang="de">Komtesse Hrûmina</persName>
           </person>
           <person xml:id="zagoretskij" sex="MALE">
             <persName>Загорецкий</persName>
-            <persName xml:lang="ger">Zagoreckij</persName>
+            <persName xml:lang="de">Zagoreckij</persName>
           </person>
           <person xml:id="hlestova" sex="FEMALE">
             <persName>Хлёстова</persName>
-            <persName xml:lang="ger">Hlëstova</persName>
+            <persName xml:lang="de">Hlëstova</persName>
           </person>
           <person xml:id="gd" sex="MALE">
             <persName>Г. D.</persName>
-            <persName xml:lang="ger">Herr D.</persName>
+            <persName xml:lang="de">Herr D.</persName>
           </person>
           <person xml:id="gn" sex="MALE">
             <persName>Г. N.</persName>
-            <persName xml:lang="ger">Herr N.</persName>
+            <persName xml:lang="de">Herr N.</persName>
           </person>
           <person xml:id="grafinja_babushka" sex="FEMALE">
             <persName>Графиня бабушка</persName>
-            <persName xml:lang="ger">Gräfin Hrûmina</persName>
+            <persName xml:lang="de">Gräfin Hrûmina</persName>
           </person>
           <person xml:id="lakej_4-1" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="ger">Lakai (IV/1)</persName>
+            <persName xml:lang="de">Lakai (IV/1)</persName>
           </person>
           <person xml:id="lakej_4-2a" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="ger">Lakai (IV/2)</persName>
+            <persName xml:lang="de">Lakai (IV/2)</persName>
           </person>
           <person xml:id="lakej_4-2b" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="ger">Lakai (IV/2)</persName>
+            <persName xml:lang="de">Lakai (IV/2)</persName>
           </person>
           <person xml:id="lakej_chatskogo" sex="MALE">
             <persName>Лакей Чацкого</persName>
-            <persName xml:lang="ger">Čackijs Lakai</persName>
+            <persName xml:lang="de">Čackijs Lakai</persName>
           </person>
           <person xml:id="repetilov" sex="MALE">
             <persName>Репетилов</persName>
-            <persName xml:lang="ger">Repetilov</persName>
+            <persName xml:lang="de">Repetilov</persName>
           </person>
           <person xml:id="lakej_4-4" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="ger">Lakai (IV/4)</persName>
+            <persName xml:lang="de">Lakai (IV/4)</persName>
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#famusov" passive="#sofija"/>

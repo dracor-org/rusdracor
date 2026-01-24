@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000129" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000129" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Рембрандт</title>
-        <title type="main" xml:lang="eng">Rembrandt</title>
+        <title>Рембрандт</title>
+        <title xml:lang="en">Rembrandt</title>
         <title type="sub">Драма в стихах</title>
-        <title type="sub" xml:lang="eng">Drama in Verse</title>
+        <title type="sub" xml:lang="en">Drama in Verse</title>
         <author>
           <persName>
             <forename>Дмитрий</forename>
             <forename type="patronym">Борисович</forename>
             <surname>Кедрин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Dmitri</forename>
             <surname>Kedrin</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

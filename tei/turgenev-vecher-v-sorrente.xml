@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000002" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000002" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Вечер в Сорренте</title>
-        <title type="main" xml:lang="eng">An Evening in Sorrento</title>
+        <title>Вечер в Сорренте</title>
+        <title xml:lang="en">An Evening in Sorrento</title>
         <title type="sub">Сцена</title>
-        <title type="sub" xml:lang="eng">Scene</title>
+        <title type="sub" xml:lang="en">Scene</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Сергеевич</forename>
             <surname>Тургенев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Turgenev</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -36,10 +33,7 @@
           <name>Wikisource</name>
           <idno type="URL">https://ru.wikisource.org/wiki/Вечер_в_Сорренте_(Тургенев)</idno>
           <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">CC BY-SA 3.0</licence>
           </availability>
           <bibl type="originalSource">
             <title>Тургенев И. С. Собрание сочинений. В 12-ти томах. – М.: "Художественная
@@ -53,31 +47,31 @@
         <listPerson>
           <person xml:id="avakov" sex="MALE">
             <persName>Аваков</persName>
-            <persName xml:lang="ger">Awakow</persName>
+            <persName xml:lang="de">Awakow</persName>
           </person>
           <person xml:id="sluga" sex="MALE">
             <persName>Слуга</persName>
-            <persName xml:lang="ger">Kellner</persName>
+            <persName xml:lang="de">Kellner</persName>
           </person>
           <person xml:id="mr_popelin" sex="MALE">
             <persName>M-r Рореlin</persName>
-            <persName xml:lang="ger">Monsieur Popelin</persName>
+            <persName xml:lang="de">Monsieur Popelin</persName>
           </person>
           <person xml:id="nadezhda_pavlovna" sex="FEMALE">
             <persName>Надежда Павловна</persName>
-            <persName xml:lang="ger">Nadjeshda Pawlowna</persName>
+            <persName xml:lang="de">Nadjeshda Pawlowna</persName>
           </person>
           <person xml:id="belskij" sex="MALE">
             <persName>Бельский</persName>
-            <persName xml:lang="ger">Bjelskij</persName>
+            <persName xml:lang="de">Bjelskij</persName>
           </person>
           <person xml:id="marija_petrovna" sex="FEMALE">
             <persName>Мария Петровна</persName>
-            <persName xml:lang="ger">Marja Petrowna</persName>
+            <persName xml:lang="de">Marja Petrowna</persName>
           </person>
           <person xml:id="golos_pevtsa" sex="MALE">
             <persName>Голос певца</persName>
-            <persName xml:lang="ger">Stimme des Sängers</persName>
+            <persName xml:lang="de">Stimme des Sängers</persName>
           </person>
           <listRelation type="personal">
             <relation name="related_with" active="#nadezhda_pavlovna" passive="#marija_petrovna"/>

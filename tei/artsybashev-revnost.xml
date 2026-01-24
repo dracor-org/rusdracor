@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000211" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000211" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Ревность</title>
-        <title type="main" xml:lang="eng">Jealousy</title>
+        <title>Ревность</title>
+        <title xml:lang="en">Jealousy</title>
         <title type="sub">Драма въ 5-ти дѣйствіяхъ</title>
-        <title type="sub" xml:lang="eng">Drama in 5 Acts</title>
+        <title type="sub" xml:lang="en">Drama in 5 Acts</title>
         <author>
           <persName>
             <forename>Михаил</forename>
             <forename type="patronym">Петрович</forename>
             <surname>Арцыбашев</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mikhail</forename>
             <surname>Artsybashev</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -50,47 +47,47 @@
         <listPerson>
           <person xml:id="sergej_petrovich" sex="MALE">
             <persName>Сергѣй Петровичъ</persName>
-            <persName xml:lang="ger">Sergej Petrowitsch</persName>
+            <persName xml:lang="de">Sergej Petrowitsch</persName>
           </person>
           <person xml:id="doktor" sex="MALE">
             <persName>Докторъ</persName>
-            <persName xml:lang="ger">Doktor Kowalenko</persName>
+            <persName xml:lang="de">Doktor Kowalenko</persName>
           </person>
           <person xml:id="andrej_ivanovich" sex="MALE">
             <persName>Андрей Ивановичъ</persName>
-            <persName xml:lang="ger">Andrej Iwanowitsch</persName>
+            <persName xml:lang="de">Andrej Iwanowitsch</persName>
           </person>
           <person xml:id="serezha" sex="MALE">
             <persName>Сережа</persName>
-            <persName xml:lang="ger">Serjoscha</persName>
+            <persName xml:lang="de">Serjoscha</persName>
           </person>
           <person xml:id="poruchik" sex="MALE">
             <persName>Поручикъ</persName>
-            <persName xml:lang="ger">Oberleutnant Iwanow</persName>
+            <persName xml:lang="de">Oberleutnant Iwanow</persName>
           </person>
           <person xml:id="sonja" sex="FEMALE">
             <persName>Соня</persName>
-            <persName xml:lang="ger">Sonja</persName>
+            <persName xml:lang="de">Sonja</persName>
           </person>
           <person xml:id="knjaz" sex="MALE">
             <persName>Князь</persName>
-            <persName xml:lang="ger">Fürst Darbeljani</persName>
+            <persName xml:lang="de">Fürst Darbeljani</persName>
           </person>
           <person xml:id="elena_nikolaevna" sex="FEMALE">
             <persName>Елена Николаевна</persName>
-            <persName xml:lang="ger">Jelena Nikolajewna</persName>
+            <persName xml:lang="de">Jelena Nikolajewna</persName>
           </person>
           <person xml:id="klavdіja_mihajlovna" sex="FEMALE">
             <persName>Клавдія Михайловна</persName>
-            <persName xml:lang="ger">Klawdija Michajlowna (Blonda)</persName>
+            <persName xml:lang="de">Klawdija Michajlowna (Blonda)</persName>
           </person>
           <person xml:id="semen_semenovich" sex="MALE">
             <persName>Семенъ Семеновичъ</persName>
-            <persName xml:lang="ger">Semjon Semjonowitsch</persName>
+            <persName xml:lang="de">Semjon Semjonowitsch</persName>
           </person>
           <person xml:id="lakej" sex="MALE">
             <persName>Лакей</persName>
-            <persName xml:lang="ger">Pjotr (Lakai)</persName>
+            <persName xml:lang="de">Pjotr (Lakai)</persName>
           </person>
           <listRelation type="personal">
             <relation name="spouses" mutual="#sergej_petrovich #elena_nikolaevna"/>

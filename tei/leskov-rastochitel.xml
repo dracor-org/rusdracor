@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000155" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000155" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Расточитель</title>
-        <title type="main" xml:lang="eng">The Spendthrift</title>
+        <title>Расточитель</title>
+        <title xml:lang="en">The Spendthrift</title>
         <title type="sub">Драма в пяти действиях</title>
-        <title type="sub" xml:lang="eng">Drama in Five Acts</title>
+        <title type="sub" xml:lang="en">Drama in Five Acts</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Семенович</forename>
             <surname>Лесков</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolai</forename>
             <surname>Leskov</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000040" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000040" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Подщипа или Трумф</title>
-        <title type="main" xml:lang="eng">Podshchipa or Trumf</title>
+        <title>Подщипа или Трумф</title>
+        <title xml:lang="en">Podshchipa or Trumf</title>
         <title type="sub">Шуто-трагедия в двух действиях, в стихах</title>
-        <title type="sub" xml:lang="eng">A Mock-Tragedy in Two Acts, in Verse</title>
+        <title type="sub" xml:lang="en">A Mock-Tragedy in Two Acts, in Verse</title>
         <author>
           <persName>
             <forename>Иван</forename>
             <forename type="patronym">Андреевич</forename>
             <surname>Крылов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Krylov</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -36,10 +33,7 @@
           <name>Wikisource</name>
           <idno type="URL">https://ru.wikisource.org/wiki/Подщипа_(Крылов)</idno>
           <availability>
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">CC BY-SA 3.0</licence>
           </availability>
           <bibl type="originalSource">
             <title>Крылов И. А. Полное собрание сочинений: в 3 томах / Редакция текста и примечания

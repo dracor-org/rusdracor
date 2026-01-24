@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000103" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000103" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Корион</title>
-        <title type="main" xml:lang="eng">Korion</title>
+        <title>Корион</title>
+        <title xml:lang="en">Korion</title>
         <title type="sub">Комедия в трех актах</title>
-        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
         <author>
           <persName>
             <forename>Денис</forename>
             <forename type="patronym">Иванович</forename>
             <surname>Фонвизин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Denis</forename>
             <surname>Fonvizin</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -50,23 +47,23 @@
         <listPerson>
           <person xml:id="andrej" sex="MALE">
             <persName>Андрей</persName>
-            <persName xml:lang="eng">Andrei</persName>
+            <persName xml:lang="en">Andrei</persName>
           </person>
           <person xml:id="krestjanin" sex="MALE">
             <persName>Крестянин</persName>
-            <persName xml:lang="eng">A peasant</persName>
+            <persName xml:lang="en">A peasant</persName>
           </person>
           <person xml:id="korion" sex="MALE">
             <persName>Корион</persName>
-            <persName xml:lang="eng">Korion</persName>
+            <persName xml:lang="en">Korion</persName>
           </person>
           <person xml:id="menandr" sex="MALE">
             <persName>Менандр</persName>
-            <persName xml:lang="eng">Menander</persName>
+            <persName xml:lang="en">Menander</persName>
           </person>
           <person xml:id="zenovija" sex="FEMALE">
             <persName>Зеновия</persName>
-            <persName xml:lang="eng">Zenovia</persName>
+            <persName xml:lang="en">Zenovia</persName>
           </person>
           <listRelation type="personal">
             <relation name="friends" mutual="#korion #menandr"/>

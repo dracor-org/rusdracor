@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000061" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000061" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Трагик поневоле (Из дачной жизни)</title>
-        <title type="main" xml:lang="eng">A Tragedian in Spite of Himself (A Holiday
+        <title>Трагик поневоле (Из дачной жизни)</title>
+        <title xml:lang="en">A Tragedian in Spite of Himself (A Holiday
           Episode)</title>
         <title type="sub">Шутка в одном действии</title>
-        <title type="sub" xml:lang="eng">A Joke in One Act</title>
+        <title type="sub" xml:lang="en">A Joke in One Act</title>
         <author>
           <persName>
             <forename>Антон</forename>
             <forename type="patronym">Павлович</forename>
             <surname>Чехов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Anton</forename>
             <surname>Chekhov</surname>
           </persName>
@@ -26,10 +26,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -51,13 +48,13 @@
         <listPerson>
           <person xml:id="Murashkin" sex="MALE">
             <persName>Мурашкин</persName>
-            <persName xml:lang="eng">Muraškin</persName>
-            <persName xml:lang="ger">Muraškin</persName>
+            <persName xml:lang="en">Muraškin</persName>
+            <persName xml:lang="de">Muraškin</persName>
           </person>
           <person xml:id="Tolkachov" sex="MALE">
             <persName>Толкачов</persName>
-            <persName xml:lang="eng">Tolkačov</persName>
-            <persName xml:lang="ger">Tolkačov</persName>
+            <persName xml:lang="en">Tolkačov</persName>
+            <persName xml:lang="de">Tolkačov</persName>
           </person>
           <listRelation type="personal">
             <relation name="friends" mutual="#Tolkachov #Murashkin"/>

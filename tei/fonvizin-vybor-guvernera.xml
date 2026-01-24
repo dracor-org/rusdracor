@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000100" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000100" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Выбор гувернера</title>
-        <title type="main" xml:lang="eng">The Choice of a Tutor</title>
+        <title>Выбор гувернера</title>
+        <title xml:lang="en">The Choice of a Tutor</title>
         <title type="sub">Комедия в трех действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in Three Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in Three Acts</title>
         <author>
           <persName>
             <forename>Денис</forename>
             <forename type="patronym">Иванович</forename>
             <surname>Фонвизин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Denis</forename>
             <surname>Fonvizin</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -50,51 +47,51 @@
         <listPerson>
           <person xml:id="knjaginja" sex="FEMALE">
             <persName>Княгиня</persName>
-            <persName xml:lang="eng">Countess Weakhead</persName>
+            <persName xml:lang="en">Countess Weakhead</persName>
           </person>
           <person xml:id="knjaz" sex="MALE">
             <persName>Князь</persName>
-            <persName xml:lang="eng">Count Weakhead</persName>
+            <persName xml:lang="en">Count Weakhead</persName>
           </person>
           <person xml:id="seum" sex="MALE">
             <persName>Сеум</persName>
-            <persName xml:lang="eng">Wisely</persName>
+            <persName xml:lang="en">Wisely</persName>
           </person>
           <person xml:id="devka" sex="FEMALE">
             <persName>Девка</persName>
-            <persName xml:lang="eng">Maid</persName>
+            <persName xml:lang="en">Maid</persName>
           </person>
           <person xml:id="njanja" sex="FEMALE">
             <persName>Няня</persName>
-            <persName xml:lang="eng">Nurse</persName>
+            <persName xml:lang="en">Nurse</persName>
           </person>
           <person xml:id="drugaja_njanja" sex="FEMALE">
             <persName>Другая няня</persName>
-            <persName xml:lang="eng">Second Nurse</persName>
+            <persName xml:lang="en">Second Nurse</persName>
           </person>
           <person xml:id="tretja_njanja" sex="FEMALE">
             <persName>Третья няня</persName>
-            <persName xml:lang="eng">Third Nurse</persName>
+            <persName xml:lang="en">Third Nurse</persName>
           </person>
           <person xml:id="molodoj_knjaz" sex="MALE">
             <persName>Молодой князь</persName>
-            <persName xml:lang="eng">Young Count</persName>
+            <persName xml:lang="en">Young Count</persName>
           </person>
           <person xml:id="sluga" sex="MALE">
             <persName>Слуга</persName>
-            <persName xml:lang="eng">Servant</persName>
+            <persName xml:lang="en">Servant</persName>
           </person>
           <person xml:id="nelstecov" sex="MALE">
             <persName>Нельстецов</persName>
-            <persName xml:lang="eng">Flatternot</persName>
+            <persName xml:lang="en">Flatternot</persName>
           </person>
           <person xml:id="grafinja" sex="FEMALE">
             <persName>Графиня</persName>
-            <persName xml:lang="eng">Countess Folliest</persName>
+            <persName xml:lang="en">Countess Folliest</persName>
           </person>
           <person xml:id="pelikan" sex="MALE">
             <persName>Пеликан</persName>
-            <persName xml:lang="eng">Pelican</persName>
+            <persName xml:lang="en">Pelican</persName>
           </person>
           <listRelation type="personal">
             <relation name="associated_with" active="#sluga" passive="#knjaz"/>

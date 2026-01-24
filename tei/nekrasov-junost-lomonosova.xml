@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000172" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000172" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Юность Ломоносова</title>
-        <title type="main" xml:lang="eng">Lomonosov's Youth</title>
+        <title>Юность Ломоносова</title>
+        <title xml:lang="en">Lomonosov's Youth</title>
         <title type="sub">Драматическая фантазия в стихах в одном действии с эпилогом</title>
-        <title type="sub" xml:lang="eng">Dramatic Fantasy in Verse, in One Act With Epilogue</title>
+        <title type="sub" xml:lang="en">Dramatic Fantasy in Verse, in One Act With Epilogue</title>
         <author>
           <persName>
             <forename>Николай</forename>
             <forename type="patronym">Алексеевич</forename>
             <surname>Некрасов</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nikolay</forename>
             <surname>Nekrasov</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

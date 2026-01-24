@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000077" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000077" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Урок кокеткам, или липецкие воды</title>
-        <title type="main" xml:lang="eng">A Lesson to Coquettes, or the Lipetsk Waters</title>
+        <title>Урок кокеткам, или липецкие воды</title>
+        <title xml:lang="en">A Lesson to Coquettes, or the Lipetsk Waters</title>
         <title type="sub">Комедия в пяти действиях, в стихах</title>
-        <title type="sub" xml:lang="eng">A Comedy in Five Acts, in Verse</title>
+        <title type="sub" xml:lang="en">A Comedy in Five Acts, in Verse</title>
         <author>
           <persName>
             <forename>Александр</forename>
             <forename type="patronym">Александрович</forename>
             <surname>Шаховской</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Alexander</forename>
             <surname>Shakhovskoy</surname>
           </persName>
@@ -25,10 +25,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

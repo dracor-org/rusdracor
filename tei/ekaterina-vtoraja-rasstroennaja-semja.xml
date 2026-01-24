@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000209" xml:lang="rus">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rus000209" xml:lang="ru">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Расстроенная семья острожками и подозрениями</title>
-        <title type="main" xml:lang="eng">The Disturbed Family, Through False Warning and
+        <title>Расстроенная семья острожками и подозрениями</title>
+        <title xml:lang="en">The Disturbed Family, Through False Warning and
           Suspicion</title>
         <title type="sub">Комедия в 5-ти действиях</title>
-        <title type="sub" xml:lang="eng">A Comedy in 5 Acts</title>
+        <title type="sub" xml:lang="en">A Comedy in 5 Acts</title>
         <author>
           <persName type="nobility">
             <forename>Екатерина</forename>
@@ -21,7 +21,7 @@
             <forename>Фредерика</forename>
             <surname>Ангальт-Цербстская</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Catherine</forename>
             <genName>II</genName>
           </persName>
@@ -31,10 +31,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -56,43 +53,43 @@
         <listPerson>
           <person xml:id="trofim" sex="MALE">
             <persName>Трофим</persName>
-            <persName xml:lang="ger">Trofim</persName>
+            <persName xml:lang="de">Trofim</persName>
           </person>
           <person xml:id="mavra" sex="FEMALE">
             <persName>Мавра</persName>
-            <persName xml:lang="ger">Mawra</persName>
+            <persName xml:lang="de">Mawra</persName>
           </person>
           <person xml:id="sobrina" sex="FEMALE">
             <persName>Собрина</persName>
-            <persName xml:lang="ger">Frau Sobrin</persName>
+            <persName xml:lang="de">Frau Sobrin</persName>
           </person>
           <person xml:id="sobrin" sex="MALE">
             <persName>Собрин</persName>
-            <persName xml:lang="ger">Pankrat Sobrin</persName>
+            <persName xml:lang="de">Pankrat Sobrin</persName>
           </person>
           <person xml:id="prelesta" sex="FEMALE">
             <persName>Прелеста</persName>
-            <persName xml:lang="ger">Prelesta Pankratjewna</persName>
+            <persName xml:lang="de">Prelesta Pankratjewna</persName>
           </person>
           <person xml:id="ivan_sobrin" sex="MALE">
             <persName>Иван Собрин</persName>
-            <persName xml:lang="ger">Johann Pankratjewitsch</persName>
+            <persName xml:lang="de">Johann Pankratjewitsch</persName>
           </person>
           <person xml:id="takkov" sex="MALE">
             <persName>Такков</persName>
-            <persName xml:lang="ger">Jamann</persName>
+            <persName xml:lang="de">Jamann</persName>
           </person>
           <person xml:id="predyn" sex="MALE">
             <persName>Предын</persName>
-            <persName xml:lang="ger">Predin</persName>
+            <persName xml:lang="de">Predin</persName>
           </person>
           <person xml:id="dvorabrod" sex="MALE">
             <persName>Двораброд</persName>
-            <persName xml:lang="ger">Hauslöffer</persName>
+            <persName xml:lang="de">Hauslöffer</persName>
           </person>
           <person xml:id="dobrin" sex="MALE">
             <persName>Добрин</persName>
-            <persName xml:lang="ger">Dobrin</persName>
+            <persName xml:lang="de">Dobrin</persName>
           </person>
           <listRelation type="personal">
             <relation name="parent_of" active="#sobrin" passive="#prelesta #ivan_sobrin"/>
